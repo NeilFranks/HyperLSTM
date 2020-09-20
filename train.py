@@ -41,7 +41,6 @@ import jax.numpy as jnp
 import numpy as np
 
 import tensorflow as tf
-tf.config.experimental.set_visible_devices([], "GPU")
 import tensorflow_datasets as tfds
 from tensorflow.io import gfile
 
@@ -365,6 +364,9 @@ def main(argv):
   """Main function."""
   if len(argv) > 1:
     raise app.UsageError('Too many command-line arguments.')
+
+  # Make sure tf does not allocate gpu memory.
+  tf.config.experimental.set_visible_devices([], 'GPU')
 
   # TODO(mohitreddy): Change to flags.mark_flag_as_required('model_dir').
   assert FLAGS.model_dir is not None, 'Please provide model_dir.'
