@@ -19,8 +19,8 @@ import jax
 import jax.test_util
 import numpy as np
 
-from configs import default as default_config
-import train
+from .configs import default as default_config
+from . import train
 
 
 # Parse absl flags test_srcdir and test_tmpdir.

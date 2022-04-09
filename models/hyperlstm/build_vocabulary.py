@@ -22,7 +22,7 @@ import tensorflow as tf
 import tensorflow_datasets as tfds
 import tensorflow_text as tftext
 
-import vocabulary
+from . import vocabulary
 
 
 def get_tokenized_sequences(

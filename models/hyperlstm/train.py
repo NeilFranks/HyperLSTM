@@ -26,8 +26,8 @@ import numpy as np
 import optax
 import tensorflow as tf
 
-import input_pipeline
-import models
+from . import input_pipeline
+from . import models
 
 
 Array = jnp.ndarray

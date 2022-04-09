@@ -19,9 +19,8 @@ import tempfile
 from absl.testing import absltest
 import tensorflow_datasets as tfds
 
-import input_pipeline
-import vocabulary
-
+from . import input_pipeline
+from . import vocabulary
 
 class InputPipelineTest(absltest.TestCase):
 
@@ -81,7 +80,7 @@ class InputPipelineTest(absltest.TestCase):
     batch_size = 2
     fixed_pad_length = 77
     for batch in self.dataset.get_batches(
-            batch_size=batch_size, shuffle=False, 
+            batch_size=batch_size, shuffle=False,
             fixed_pad_length=fixed_pad_length).take(1):
       length = batch['token_ids'].numpy().shape[-1]
       self.assertEqual(fixed_pad_length, length)

@@ -5,10 +5,15 @@ description = ""
 authors = ["Neil Franks <neilmichaelfranks@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = ">=3.10,<3.11"
+absl-py = "^1.0.0"
+ml-collections = "^0.1.1"
+flax = {version = "^0.4.1", extras = ["jax"]}
+tensorflow = "^2.8.0"
+tensorflow-datasets = "^4.5.2"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "==6.2.5"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
