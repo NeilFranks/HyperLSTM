@@ -1,0 +1,211 @@
+Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
+1955, 10, 6,17, Detroit Red Wings, 10, 2, 6, 9, 1, 0, 2, 0,12, Chicago Black Hawks, 3, 0, 4, 5, 3, 0, 26, 0,False
+1955, 10, 6,1, Montreal Canadiens, 5, 1, 0, 0, 6, 0, 16, 0,13, Toronto Maple Leafs, 3, 1, 2, 1, 3, 0, 4, 0,True
+1955, 10, 7,12, Chicago Black Hawks, 4, 0, 3, 5, 2, 42, 25, 42,11, New York Rangers, 5, 2, 4, 2, 2, 0, 8, 0,False
+1955, 10, 8,1, Montreal Canadiens, 5, 1, 2, 3, 0, 23, 10, 23,7, Boston Bruins, 4, 1, 3, 2, 0, 0, 9, 0,True
+1955, 10, 8,13, Toronto Maple Leafs, 2, 0, 0, 0, 2, 20, 3, 20,17, Detroit Red Wings, 9, 2, 2, 4, 3, 25, 6, 58,True
+1955, 10, 9,7, Boston Bruins, 4, 1, 0, 0, 2, 33, 11, 33,1, Montreal Canadiens, 5, 1, 2, 4, 0, 25, 10, 25,False
+1955, 10, 9,12, Chicago Black Hawks, 4, 1, 4, 7, 7, 54, 30, 54,13, Toronto Maple Leafs, 3, 1, 4, 8, 2, 35, 3, 35,True
+1955, 10, 9,17, Detroit Red Wings, 8, 2, 2, 2, 4, 37, 10, 71,11, New York Rangers, 5, 0, 7, 13, 4, 47, 10, 47,False
+1955, 10, 12,7, Boston Bruins, 3, 2, 2, 3, 5, 34, 14, 34,13, Toronto Maple Leafs, 3, 0, 1, 2, 3, 51, 4, 51,True
+1955, 10, 15,12, Chicago Black Hawks, 4, 1, 3, 3, 1, 58, 24, 58,17, Detroit Red Wings, 7, 1, 2, 3, 3, 23, 4, 46,False
+1955, 10, 15,1, Montreal Canadiens, 6, 2, 5, 7, 2, 25, 12, 25,11, New York Rangers, 6, 0, 3, 5, 2, 36, 8, 36,True
+1955, 10, 15,13, Toronto Maple Leafs, 3, 0, 0, 0, 2, 13, 3, 13,7, Boston Bruins, 4, 2, 2, 2, 0, 23, 9, 23,False
+1955, 10, 16,7, Boston Bruins, 4, 2, 2, 4, 2, 32, 11, 32,11, New York Rangers, 6, 0, 1, 0, 4, 30, 10, 30,True
+1955, 10, 16,12, Chicago Black Hawks, 4, 1, 1, 1, 4, 58, 27, 58,1, Montreal Canadiens, 6, 1, 4, 8, 1, 27, 11, 27,False
+1955, 10, 16,17, Detroit Red Wings, 7, 1, 4, 6, 1, 54, 3, 87,13, Toronto Maple Leafs, 3, 1, 2, 1, 2, 26, 3, 26,True
+1955, 10, 19,11, New York Rangers, 6, 2, 1, 1, 4, 43, 10, 43,13, Toronto Maple Leafs, 2, 0, 0, 0, 6, 33, 7, 33,True
+1955, 10, 20,17, Detroit Red Wings, 7, 1, 6, 11, 0, 16, 2, 49,12, Chicago Black Hawks, 3, 1, 2, 2, 2, 33, 25, 33,False
+1955, 10, 20,1, Montreal Canadiens, 7, 2, 2, 4, 2, 51, 12, 51,7, Boston Bruins, 4, 0, 4, 4, 1, 33, 10, 33,False
+1955, 10, 22,17, Detroit Red Wings, 6, 1, 2, 3, 2, 17, 5, 53,7, Boston Bruins, 5, 1, 3, 6, 2, 36, 11, 36,False
+1955, 10, 22,1, Montreal Canadiens, 6, 2, 2, 2, 3, 21, 13, 21,12, Chicago Black Hawks, 4, 0, 2, 2, 2, 28, 25, 28,True
+1955, 10, 22,13, Toronto Maple Leafs, 2, 0, 2, 2, 6, 31, 7, 31,11, New York Rangers, 7, 2, 6, 9, 2, 48, 8, 48,True
+1955, 10, 23,11, New York Rangers, 6, 2, 2, 4, 3, 40, 9, 40,12, Chicago Black Hawks, 4, 0, 0, 1, 6, 41, 29, 41,True
+1955, 10, 25,12, Chicago Black Hawks, 4, 2, 4, 4, 5, 38, 28, 38,7, Boston Bruins, 6, 0, 0, 0, 0, 28, 9, 28,True
+1955, 10, 26,11, New York Rangers, 6, 1, 5, 8, 4, 36, 10, 36,17, Detroit Red Wings, 5, 1, 0, 0, 0, 19, 3, 51,True
+1955, 10, 26,13, Toronto Maple Leafs, 3, 1, 3, 5, 2, 25, 3, 25,1, Montreal Canadiens, 7, 1, 6, 10, 0, 32, 10, 32,True
+1955, 10, 27,1, Montreal Canadiens, 7, 2, 1, 2, 2, 29, 12, 29,12, Chicago Black Hawks, 5, 0, 2, 3, 0, 33, 23, 33,False
+1955, 10, 29,1, Montreal Canadiens, 6, 0, 1, 2, 4, 22, 14, 22,17, Detroit Red Wings, 4, 2, 2, 3, 6, 27, 9, 59,True
+1955, 10, 29,11, New York Rangers, 6, 0, 6, 9, 2, 43, 8, 43,7, Boston Bruins, 5, 2, 0, 0, 2, 32, 11, 32,False
+1955, 10, 29,13, Toronto Maple Leafs, 3, 1, 2, 3, 1, 25, 2, 25,12, Chicago Black Hawks, 5, 1, 4, 7, 1, 28, 24, 28,True
+1955, 10, 30,17, Detroit Red Wings, 3, 1, 1, 2, 2, 26, 3, 62,1, Montreal Canadiens, 7, 1, 2, 4, 1, 20, 11, 20,False
+1955, 11, 2,13, Toronto Maple Leafs, 4, 1, 2, 4, 0, 15, 1, 15,17, Detroit Red Wings, 2, 1, 2, 4, 2, 35, 3, 71,True
+1955, 11, 3,7, Boston Bruins, 6, 0, 1, 1, 0, 36, 9, 36,12, Chicago Black Hawks, 4, 2, 0, 0, 2, 37, 25, 37,False
+1955, 11, 3,17, Detroit Red Wings, 2, 0, 1, 2, 3, 34, 7, 67,11, New York Rangers, 6, 2, 0, 0, 1, 25, 7, 25,False
+1955, 11, 3,1, Montreal Canadiens, 7, 1, 2, 4, 2, 37, 12, 37,13, Toronto Maple Leafs, 5, 1, 3, 3, 1, 29, 2, 29,False
+1955, 11, 5,12, Chicago Black Hawks, 5, 1, 3, 4, 3, 39, 26, 39,17, Detroit Red Wings, 2, 1, 1, 1, 1, 16, 5, 49,False
+1955, 11, 5,1, Montreal Canadiens, 6, 1, 3, 6, 3, 22, 13, 22,7, Boston Bruins, 6, 1, 3, 5, 3, 33, 12, 33,True
+1955, 11, 5,13, Toronto Maple Leafs, 5, 1, 3, 6, 3, 29, 4, 29,11, New York Rangers, 6, 1, 1, 2, 1, 38, 7, 38,False
+1955, 11, 6,7, Boston Bruins, 6, 1, 2, 1, 4, 27, 13, 27,1, Montreal Canadiens, 6, 1, 4, 8, 2, 19, 12, 19,False
+1955, 11, 6,12, Chicago Black Hawks, 4, 0, 3, 4, 3, 57, 26, 57,11, New York Rangers, 6, 2, 3, 5, 0, 42, 6, 42,False
+1955, 11, 6,17, Detroit Red Wings, 3, 1, 3, 4, 3, 39, 7, 70,13, Toronto Maple Leafs, 5, 1, 0, 0, 3, 25, 4, 25,True
+1955, 11, 9,11, New York Rangers, 6, 0, 4, 8, 2, 52, 8, 52,1, Montreal Canadiens, 6, 2, 3, 4, 3, 42, 13, 42,False
+1955, 11, 10,7, Boston Bruins, 6, 2, 3, 4, 3, 31, 12, 31,11, New York Rangers, 6, 0, 1, 2, 1, 39, 7, 39,True
+1955, 11, 10,17, Detroit Red Wings, 3, 1, 4, 7, 1, 20, 3, 38,12, Chicago Black Hawks, 4, 1, 2, 4, 4, 47, 27, 47,False
+1955, 11, 11,12, Chicago Black Hawks, 5, 1, 2, 3, 2, 36, 25, 36,13, Toronto Maple Leafs, 5, 1, 1, 2, 4, 45, 5, 45,True
+1955, 11, 12,1, Montreal Canadiens, 6, 2, 1, 2, 1, 28, 11, 28,17, Detroit Red Wings, 2, 0, 2, 3, 2, 25, 4, 43,True
+1955, 11, 12,13, Toronto Maple Leafs, 5, 0, 0, 0, 2, 47, 3, 47,7, Boston Bruins, 6, 2, 5, 8, 1, 18, 10, 18,False
+1955, 11, 13,7, Boston Bruins, 6, 1, 3, 5, 2, 47, 11, 47,17, Detroit Red Wings, 2, 1, 0, 0, 3, 32, 6, 79,False
+1955, 11, 13,12, Chicago Black Hawks, 5, 1, 2, 4, 0, 40, 23, 40,1, Montreal Canadiens, 7, 1, 3, 5, 0, 18, 10, 18,False
+1955, 11, 13,11, New York Rangers, 6, 1, 1, 1, 5, 43, 11, 43,13, Toronto Maple Leafs, 5, 1, 2, 3, 3, 27, 4, 27,True
+1955, 11, 16,11, New York Rangers, 6, 2, 4, 6, 1, 31, 7, 31,17, Detroit Red Wings, 3, 0, 0, 0, 0, 30, 1, 61,False
+1955, 11, 16,13, Toronto Maple Leafs, 5, 2, 1, 1, 4, 28, 5, 28,1, Montreal Canadiens, 7, 0, 2, 4, 0, 52, 10, 52,False
+1955, 11, 18,12, Chicago Black Hawks, 5, 2, 0, 0, 2, 39, 25, 39,7, Boston Bruins, 5, 0, 0, 0, 0, 31, 9, 31,True
+1955, 11, 19,17, Detroit Red Wings, 4, 1, 3, 4, 3, 19, 10, 67,12, Chicago Black Hawks, 6, 1, 6, 11, 1, 41, 24, 41,True
+1955, 11, 19,1, Montreal Canadiens, 8, 2, 3, 4, 2, 26, 12, 26,11, New York Rangers, 6, 0, 3, 4, 3, 40, 9, 40,True
+1955, 11, 19,13, Toronto Maple Leafs, 4, 0, 2, 2, 3, 28, 4, 28,7, Boston Bruins, 4, 2, 1, 2, 6, 48, 15, 48,True
+1955, 11, 20,7, Boston Bruins, 3, 1, 2, 2, 3, 27, 12, 27,13, Toronto Maple Leafs, 4, 1, 3, 6, 2, 25, 3, 25,False
+1955, 11, 20,12, Chicago Black Hawks, 5, 1, 1, 2, 4, 42, 27, 42,17, Detroit Red Wings, 5, 1, 4, 8, 1, 16, 3, 45,False
+1955, 11, 20,11, New York Rangers, 5, 0, 1, 1, 6, 32, 12, 32,1, Montreal Canadiens, 9, 2, 6, 8, 1, 13, 11, 13,False
+1955, 11, 23,11, New York Rangers, 4, 0, 1, 1, 1, 34, 7, 34,7, Boston Bruins, 3, 2, 1, 2, 1, 29, 10, 29,True
+1955, 11, 24,7, Boston Bruins, 2, 1, 0, 0, 4, 34, 13, 34,11, New York Rangers, 5, 1, 4, 7, 0, 36, 6, 36,False
+1955, 11, 24,12, Chicago Black Hawks, 4, 1, 1, 2, 1, 39, 24, 39,13, Toronto Maple Leafs, 4, 1, 1, 1, 1, 31, 2, 31,True
+1955, 11, 24,17, Detroit Red Wings, 6, 0, 1, 2, 1, 27, 7, 56,1, Montreal Canadiens, 9, 2, 1, 2, 1, 18, 11, 18,True
+1955, 11, 26,1, Montreal Canadiens, 8, 2, 2, 3, 3, 39, 13, 39,7, Boston Bruins, 2, 0, 0, 0, 5, 29, 14, 29,True
+1955, 11, 26,13, Toronto Maple Leafs, 3, 0, 2, 3, 3, 28, 4, 28,12, Chicago Black Hawks, 5, 2, 3, 5, 2, 36, 25, 36,True
+1955, 11, 27,7, Boston Bruins, 2, 0, 1, 1, 3, 31, 12, 31,12, Chicago Black Hawks, 4, 2, 4, 7, 7, 34, 30, 34,False
+1955, 11, 27,17, Detroit Red Wings, 7, 1, 3, 5, 2, 28, 9, 53,13, Toronto Maple Leafs, 3, 1, 7, 7, 4, 26, 5, 26,False
+1955, 11, 27,11, New York Rangers, 5, 0, 5, 10, 0, 37, 6, 37,1, Montreal Canadiens, 9, 2, 3, 5, 1, 18, 11, 18,False
+1955, 11, 30,11, New York Rangers, 4, 2, 3, 5, 3, 27, 9, 27,12, Chicago Black Hawks, 5, 0, 6, 4, 0, 34, 23, 34,True
+1955, 11, 30,13, Toronto Maple Leafs, 4, 1, 2, 4, 1, 26, 2, 26,17, Detroit Red Wings, 7, 1, 1, 2, 2, 21, 9, 46,False
+1955, 12, 1,7, Boston Bruins, 2, 0, 0, 0, 6, 25, 15, 25,1, Montreal Canadiens, 9, 2, 3, 6, 3, 27, 13, 27,False
+1955, 12, 2,12, Chicago Black Hawks, 5, 0, 1, 2, 6, 32, 29, 32,11, New York Rangers, 4, 2, 6, 11, 1, 31, 7, 31,False
+1955, 12, 3,7, Boston Bruins, 1, 1, 1, 2, 2, 27, 11, 27,17, Detroit Red Wings, 7, 1, 3, 4, 3, 31, 6, 58,False
+1955, 12, 3,13, Toronto Maple Leafs, 4, 1, 3, 6, 3, 30, 4, 30,1, Montreal Canadiens, 9, 1, 2, 4, 1, 28, 11, 28,False
+1955, 12, 4,7, Boston Bruins, 0, 0, 0, 0, 5, 38, 14, 38,13, Toronto Maple Leafs, 4, 2, 1, 2, 3, 33, 4, 33,True
+1955, 12, 4,12, Chicago Black Hawks, 4, 1, 1, 2, 2, 28, 25, 28,1, Montreal Canadiens, 9, 1, 3, 2, 1, 20, 11, 20,False
+1955, 12, 4,11, New York Rangers, 5, 1, 2, 4, 1, 36, 7, 36,17, Detroit Red Wings, 7, 1, 5, 7, 0, 24, 1, 52,True
+1955, 12, 7,11, New York Rangers, 6, 2, 7, 12, 3, 41, 9, 41,13, Toronto Maple Leafs, 4, 0, 0, 0, 5, 28, 6, 28,True
+1955, 12, 8,17, Detroit Red Wings, 7, 2, 3, 5, 7, 35, 8, 63,7, Boston Bruins, 1, 0, 5, 6, 0, 28, 9, 28,False
+1955, 12, 8,1, Montreal Canadiens, 9, 2, 5, 9, 1, 29, 11, 29,13, Toronto Maple Leafs, 4, 0, 1, 2, 2, 30, 3, 30,True
+1955, 12, 9,12, Chicago Black Hawks, 3, 2, 1, 2, 5, 27, 28, 27,7, Boston Bruins, 2, 0, 2, 2, 2, 31, 11, 31,False
+1955, 12, 10,1, Montreal Canadiens, 9, 1, 3, 4, 1, 27, 11, 27,17, Detroit Red Wings, 7, 1, 2, 3, 2, 27, 4, 50,True
+1955, 12, 10,13, Toronto Maple Leafs, 4, 0, 1, 2, 3, 34, 4, 34,11, New York Rangers, 6, 2, 3, 3, 1, 35, 7, 35,True
+1955, 12, 11,7, Boston Bruins, 3, 0, 1, 2, 1, 23, 10, 23,1, Montreal Canadiens, 9, 2, 4, 6, 2, 27, 12, 27,False
+1955, 12, 11,12, Chicago Black Hawks, 3, 1, 1, 2, 1, 30, 24, 30,13, Toronto Maple Leafs, 4, 1, 6, 7, 1, 19, 2, 19,False
+1955, 12, 11,17, Detroit Red Wings, 6, 1, 2, 4, 3, 23, 8, 64,11, New York Rangers, 6, 1, 1, 1, 6, 37, 12, 37,True
+1955, 12, 14,11, New York Rangers, 6, 2, 0, 0, 2, 47, 8, 47,12, Chicago Black Hawks, 2, 0, 3, 6, 3, 31, 26, 31,False
+1955, 12, 15,7, Boston Bruins, 3, 1, 2, 5, 4, 41, 13, 41,12, Chicago Black Hawks, 3, 1, 4, 5, 1, 33, 24, 33,True
+1955, 12, 15,17, Detroit Red Wings, 6, 1, 2, 3, 0, 9, 2, 27,13, Toronto Maple Leafs, 4, 1, 3, 4, 3, 22, 4, 22,True
+1955, 12, 15,1, Montreal Canadiens, 9, 2, 4, 6, 2, 26, 12, 26,11, New York Rangers, 6, 0, 1, 1, 3, 22, 9, 22,True
+1955, 12, 17,1, Montreal Canadiens, 9, 2, 2, 4, 0, 0, 10, 20,12, Chicago Black Hawks, 3, 0, 1, 1, 4, 32, 27, 32,True
+1955, 12, 17,13, Toronto Maple Leafs, 4, 1, 0, 0, 4, 27, 5, 27,7, Boston Bruins, 4, 1, 4, 7, 1, 18, 10, 18,True
+1955, 12, 18,12, Chicago Black Hawks, 2, 0, 0, 0, 5, 34, 28, 34,7, Boston Bruins, 4, 2, 1, 2, 5, 24, 14, 24,True
+1955, 12, 18,17, Detroit Red Wings, 6, 1, 4, 5, 0, 20, 8, 55,1, Montreal Canadiens, 10, 1, 5, 9, 0, 18, 10, 38,True
+1955, 12, 18,11, New York Rangers, 5, 1, 0, 3, 1, 32, 7, 32,13, Toronto Maple Leafs, 4, 1, 5, 7, 1, 24, 2, 24,True
+1955, 12, 20,12, Chicago Black Hawks, 3, 0, 7, 10, 1, 23, 24, 23,1, Montreal Canadiens, 9, 2, 0, 0, 2, 40, 12, 60,False
+1955, 12, 21,11, New York Rangers, 5, 2, 4, 7, 1, 44, 7, 44,7, Boston Bruins, 4, 0, 1, 2, 7, 35, 16, 35,False
+1955, 12, 22,7, Boston Bruins, 5, 1, 3, 3, 3, 36, 12, 36,17, Detroit Red Wings, 6, 1, 2, 3, 0, 26, 4, 62,False
+1955, 12, 24,1, Montreal Canadiens, 9, 1, 7, 12, 1, 31, 11, 51,17, Detroit Red Wings, 6, 1, 3, 5, 2, 31, 6, 73,True
+1955, 12, 24,13, Toronto Maple Leafs, 3, 2, 1, 3, 4, 28, 5, 28,12, Chicago Black Hawks, 2, 0, 1, 2, 7, 39, 30, 39,True
+1955, 12, 25,7, Boston Bruins, 5, 1, 2, 3, 3, 42, 12, 42,12, Chicago Black Hawks, 2, 1, 1, 4, 5, 41, 28, 41,False
+1955, 12, 25,17, Detroit Red Wings, 6, 2, 2, 2, 4, 35, 9, 73,13, Toronto Maple Leafs, 4, 0, 4, 8, 2, 26, 3, 26,False
+1955, 12, 25,11, New York Rangers, 5, 0, 3, 5, 3, 38, 9, 38,1, Montreal Canadiens, 9, 2, 4, 7, 2, 23, 12, 43,True
+1955, 12, 28,13, Toronto Maple Leafs, 5, 0, 1, 0, 1, 33, 2, 33,1, Montreal Canadiens, 8, 2, 1, 1, 5, 31, 15, 51,True
+1955, 12, 29,17, Detroit Red Wings, 5, 1, 1, 2, 1, 24, 6, 62,7, Boston Bruins, 5, 1, 2, 4, 4, 38, 13, 38,True
+1955, 12, 29,1, Montreal Canadiens, 7, 1, 0, 0, 0, 20, 12, 51,13, Toronto Maple Leafs, 6, 1, 2, 3, 0, 28, 1, 28,True
+1955, 12, 29,11, New York Rangers, 5, 1, 5, 6, 1, 36, 7, 36,12, Chicago Black Hawks, 3, 1, 4, 6, 2, 31, 25, 31,False
+1955, 12, 31,1, Montreal Canadiens, 7, 2, 5, 7, 2, 18, 14, 49,12, Chicago Black Hawks, 4, 0, 4, 6, 2, 37, 25, 37,True
+1955, 12, 31,11, New York Rangers, 4, 1, 2, 3, 4, 30, 10, 30,7, Boston Bruins, 4, 1, 3, 5, 4, 36, 13, 36,True
+1955, 12, 31,13, Toronto Maple Leafs, 6, 1, 3, 2, 5, 25, 6, 25,17, Detroit Red Wings, 5, 1, 4, 5, 3, 15, 10, 56,False
+1956, 1, 1,7, Boston Bruins, 3, 1, 2, 3, 6, 41, 15, 41,11, New York Rangers, 4, 1, 6, 11, 2, 25, 8, 25,False
+1956, 1, 1,17, Detroit Red Wings, 6, 2, 2, 4, 2, 28, 6, 54,12, Chicago Black Hawks, 4, 0, 4, 6, 7, 26, 30, 26,True
+1956, 1, 4,11, New York Rangers, 4, 1, 4, 6, 2, 47, 8, 47,17, Detroit Red Wings, 7, 1, 5, 5, 1, 19, 5, 45,True
+1956, 1, 4,13, Toronto Maple Leafs, 6, 2, 2, 4, 2, 33, 3, 33,12, Chicago Black Hawks, 4, 0, 1, 1, 3, 0, 28, 36,True
+1956, 1, 5,1, Montreal Canadiens, 7, 1, 7, 9, 3, 20, 15, 51,17, Detroit Red Wings, 7, 1, 4, 6, 5, 26, 9, 52,False
+1956, 1, 7,1, Montreal Canadiens, 6, 2, 2, 3, 5, 22, 17, 53,12, Chicago Black Hawks, 3, 0, 2, 4, 3, 22, 28, 58,True
+1956, 1, 7,13, Toronto Maple Leafs, 6, 1, 4, 6, 2, 21, 3, 21,7, Boston Bruins, 2, 1, 2, 1, 3, 26, 12, 26,True
+1956, 1, 8,17, Detroit Red Wings, 7, 2, 5, 7, 2, 35, 9, 69,7, Boston Bruins, 2, 0, 2, 3, 6, 34, 15, 34,True
+1956, 1, 8,11, New York Rangers, 5, 0, 5, 10, 4, 28, 10, 28,12, Chicago Black Hawks, 3, 2, 1, 1, 3, 35, 28, 71,False
+1956, 1, 11,11, New York Rangers, 5, 1, 3, 6, 5, 43, 11, 43,1, Montreal Canadiens, 6, 1, 3, 6, 1, 23, 13, 54,True
+1956, 1, 12,7, Boston Bruins, 1, 0, 3, 4, 4, 35, 13, 35,12, Chicago Black Hawks, 4, 2, 5, 9, 3, 23, 28, 59,False
+1956, 1, 12,17, Detroit Red Wings, 7, 1, 4, 4, 3, 29, 9, 51,11, New York Rangers, 6, 1, 6, 9, 1, 26, 7, 26,True
+1956, 1, 14,12, Chicago Black Hawks, 4, 0, 5, 9, 0, 33, 25, 69,17, Detroit Red Wings, 7, 2, 6, 9, 0, 23, 6, 45,False
+1956, 1, 14,1, Montreal Canadiens, 5, 2, 1, 3, 6, 24, 18, 55,7, Boston Bruins, 1, 0, 0, 0, 0, 0, 14, 22,False
+1956, 1, 14,13, Toronto Maple Leafs, 6, 1, 6, 9, 2, 31, 3, 31,11, New York Rangers, 6, 1, 0, 0, 6, 48, 12, 48,False
+1956, 1, 15,7, Boston Bruins, 2, 0, 2, 4, 5, 0, 14, 53,13, Toronto Maple Leafs, 6, 2, 5, 8, 6, 36, 7, 36,False
+1956, 1, 15,12, Chicago Black Hawks, 4, 2, 1, 2, 2, 31, 27, 67,11, New York Rangers, 6, 0, 6, 10, 5, 38, 11, 38,False
+1956, 1, 15,17, Detroit Red Wings, 7, 1, 3, 5, 1, 25, 7, 47,1, Montreal Canadiens, 5, 1, 0, 0, 2, 2, 14, 33,True
+1956, 1, 17,12, Chicago Black Hawks, 4, 1, 0, 0, 2, 29, 27, 65,11, New York Rangers, 7, 1, 2, 2, 0, 38, 6, 38,False
+1956, 1, 18,13, Toronto Maple Leafs, 6, 1, 4, 5, 1, 34, 2, 34,1, Montreal Canadiens, 4, 1, 0, 1, 2, 39, 14, 70,False
+1956, 1, 19,17, Detroit Red Wings, 8, 2, 2, 3, 0, 26, 6, 48,7, Boston Bruins, 1, 0, 1, 1, 5, 22, 13, 81,True
+1956, 1, 19,1, Montreal Canadiens, 4, 2, 3, 3, 2, 35, 14, 66,13, Toronto Maple Leafs, 6, 0, 2, 4, 3, 37, 4, 37,True
+1956, 1, 20,12, Chicago Black Hawks, 3, 2, 2, 4, 2, 41, 27, 77,7, Boston Bruins, 1, 0, 2, 3, 4, 39, 12, 98,False
+1956, 1, 21,1, Montreal Canadiens, 5, 0, 3, 5, 1, 11, 13, 42,11, New York Rangers, 7, 2, 2, 4, 2, 23, 8, 23,True
+1956, 1, 21,13, Toronto Maple Leafs, 5, 1, 1, 1, 3, 32, 4, 32,17, Detroit Red Wings, 9, 1, 4, 7, 2, 26, 3, 53,True
+1956, 1, 22,7, Boston Bruins, 2, 0, 3, 4, 0, 27, 8, 86,11, New York Rangers, 7, 2, 1, 1, 2, 32, 8, 32,True
+1956, 1, 22,12, Chicago Black Hawks, 2, 0, 0, 0, 3, 29, 28, 65,1, Montreal Canadiens, 6, 2, 3, 6, 1, 20, 13, 51,False
+1956, 1, 22,17, Detroit Red Wings, 8, 1, 2, 1, 4, 32, 6, 57,13, Toronto Maple Leafs, 5, 1, 4, 7, 2, 29, 3, 29,True
+1956, 1, 25,13, Toronto Maple Leafs, 4, 2, 1, 2, 1, 0, 5, 45,12, Chicago Black Hawks, 2, 0, 2, 3, 6, 30, 31, 66,True
+1956, 1, 26,7, Boston Bruins, 3, 1, 3, 4, 1, 25, 9, 84,1, Montreal Canadiens, 6, 1, 6, 7, 2, 32, 14, 63,True
+1956, 1, 26,17, Detroit Red Wings, 8, 1, 4, 5, 1, 27, 3, 61,11, New York Rangers, 6, 1, 1, 2, 3, 39, 9, 39,True
+1956, 1, 27,12, Chicago Black Hawks, 2, 0, 1, 3, 3, 34, 28, 70,17, Detroit Red Wings, 8, 2, 3, 6, 2, 21, 4, 55,False
+1956, 1, 28,1, Montreal Canadiens, 5, 0, 1, 1, 5, 38, 17, 69,7, Boston Bruins, 4, 2, 5, 8, 1, 25, 9, 84,True
+1956, 1, 28,13, Toronto Maple Leafs, 5, 0, 3, 5, 1, 20, 5, 65,11, New York Rangers, 5, 2, 2, 3, 3, 37, 9, 37,False
+1956, 1, 29,7, Boston Bruins, 4, 0, 1, 2, 6, 39, 14, 98,13, Toronto Maple Leafs, 5, 2, 2, 2, 2, 19, 6, 64,True
+1956, 1, 29,12, Chicago Black Hawks, 2, 0, 0, 0, 7, 21, 32, 57,11, New York Rangers, 5, 2, 3, 6, 1, 36, 7, 36,False
+1956, 1, 29,17, Detroit Red Wings, 9, 2, 7, 7, 0, 29, 2, 65,1, Montreal Canadiens, 6, 0, 6, 7, 1, 28, 13, 59,False
+1956, 2, 1,11, New York Rangers, 6, 2, 6, 6, 2, 38, 8, 38,13, Toronto Maple Leafs, 4, 0, 1, 2, 3, 29, 7, 74,True
+1956, 2, 2,7, Boston Bruins, 5, 1, 3, 6, 1, 27, 9, 86,12, Chicago Black Hawks, 2, 1, 2, 3, 5, 36, 31, 56,False
+1956, 2, 2,17, Detroit Red Wings, 8, 1, 1, 2, 1, 27, 4, 60,1, Montreal Canadiens, 6, 1, 1, 2, 1, 25, 13, 56,False
+1956, 2, 4,7, Boston Bruins, 5, 1, 2, 4, 2, 24, 10, 83,11, New York Rangers, 6, 1, 5, 6, 2, 28, 8, 28,True
+1956, 2, 4,1, Montreal Canadiens, 7, 2, 2, 3, 0, 18, 12, 49,17, Detroit Red Wings, 7, 0, 0, 0, 2, 31, 4, 63,True
+1956, 2, 4,13, Toronto Maple Leafs, 3, 2, 2, 3, 5, 21, 9, 66,12, Chicago Black Hawks, 2, 0, 2, 4, 2, 36, 28, 56,False
+1956, 2, 5,7, Boston Bruins, 6, 0, 7, 11, 1, 23, 9, 82,17, Detroit Red Wings, 6, 2, 1, 1, 2, 33, 4, 65,True
+1956, 2, 5,12, Chicago Black Hawks, 2, 1, 4, 6, 2, 30, 28, 50,13, Toronto Maple Leafs, 3, 1, 2, 4, 4, 23, 8, 68,True
+1956, 2, 5,11, New York Rangers, 6, 1, 1, 2, 7, 45, 13, 45,1, Montreal Canadiens, 8, 1, 2, 3, 1, 26, 13, 57,False
+1956, 2, 7,17, Detroit Red Wings, 5, 2, 1, 2, 3, 44, 5, 85,12, Chicago Black Hawks, 3, 0, 3, 6, 2, 28, 28, 48,True
+1956, 2, 8,11, New York Rangers, 5, 0, 3, 6, 3, 45, 9, 45,7, Boston Bruins, 6, 2, 3, 5, 1, 32, 9, 91,False
+1956, 2, 8,13, Toronto Maple Leafs, 2, 0, 2, 2, 0, 0, 7, 75,1, Montreal Canadiens, 9, 2, 3, 5, 3, 17, 15, 48,False
+1956, 2, 9,7, Boston Bruins, 7, 1, 3, 5, 3, 25, 11, 84,13, Toronto Maple Leafs, 2, 1, 1, 2, 1, 29, 8, 104,False
+1956, 2, 10,12, Chicago Black Hawks, 3, 0, 2, 4, 3, 28, 29, 48,1, Montreal Canadiens, 9, 2, 1, 2, 1, 35, 13, 66,False
+1956, 2, 11,7, Boston Bruins, 7, 1, 1, 2, 1, 22, 9, 81,17, Detroit Red Wings, 5, 1, 3, 4, 2, 19, 4, 50,True
+1956, 2, 11,13, Toronto Maple Leafs, 3, 0, 1, 1, 1, 34, 8, 109,11, New York Rangers, 4, 2, 3, 6, 3, 34, 9, 34,True
+1956, 2, 12,7, Boston Bruins, 7, 1, 3, 6, 2, 39, 10, 98,1, Montreal Canadiens, 9, 1, 3, 5, 1, 25, 13, 56,False
+1956, 2, 12,12, Chicago Black Hawks, 3, 2, 1, 2, 2, 32, 28, 52,13, Toronto Maple Leafs, 3, 0, 5, 8, 0, 12, 7, 87,False
+1956, 2, 12,11, New York Rangers, 3, 0, 0, 0, 5, 38, 11, 38,17, Detroit Red Wings, 4, 2, 2, 3, 3, 31, 11, 75,True
+1956, 2, 14,17, Detroit Red Wings, 4, 1, 1, 1, 2, 35, 10, 79,11, New York Rangers, 4, 1, 2, 4, 1, 36, 7, 36,True
+1956, 2, 15,11, New York Rangers, 4, 2, 3, 6, 4, 40, 10, 40,12, Chicago Black Hawks, 3, 0, 1, 2, 1, 25, 27, 45,True
+1956, 2, 15,13, Toronto Maple Leafs, 4, 1, 1, 1, 1, 25, 8, 100,7, Boston Bruins, 6, 1, 1, 3, 7, 35, 15, 94,True
+1956, 2, 16,1, Montreal Canadiens, 9, 2, 7, 11, 1, 27, 13, 58,13, Toronto Maple Leafs, 4, 0, 1, 2, 4, 36, 7, 101,True
+1956, 2, 17,12, Chicago Black Hawks, 3, 1, 1, 2, 6, 37, 32, 57,7, Boston Bruins, 5, 1, 0, 0, 1, 20, 9, 79,False
+1956, 2, 18,1, Montreal Canadiens, 9, 2, 8, 15, 1, 31, 13, 62,11, New York Rangers, 5, 0, 6, 10, 1, 36, 7, 36,True
+1956, 2, 18,13, Toronto Maple Leafs, 4, 1, 1, 2, 8, 32, 11, 97,17, Detroit Red Wings, 4, 1, 5, 9, 3, 18, 6, 52,False
+1956, 2, 19,12, Chicago Black Hawks, 3, 0, 2, 4, 4, 25, 30, 45,17, Detroit Red Wings, 4, 2, 6, 10, 1, 36, 4, 70,True
+1956, 2, 19,11, New York Rangers, 4, 0, 4, 6, 9, 51, 15, 51,7, Boston Bruins, 6, 2, 4, 6, 2, 25, 10, 84,False
+1956, 2, 21,17, Detroit Red Wings, 3, 0, 3, 4, 5, 46, 6, 72,7, Boston Bruins, 6, 2, 3, 2, 0, 17, 8, 76,True
+1956, 2, 22,11, New York Rangers, 3, 1, 0, 0, 3, 28, 9, 28,13, Toronto Maple Leafs, 4, 1, 1, 2, 6, 39, 9, 104,False
+1956, 2, 23,1, Montreal Canadiens, 10, 2, 9, 14, 4, 20, 16, 51,11, New York Rangers, 2, 0, 2, 4, 3, 29, 9, 29,True
+1956, 2, 24,12, Chicago Black Hawks, 4, 1, 5, 9, 3, 28, 29, 48,13, Toronto Maple Leafs, 5, 1, 4, 3, 2, 26, 5, 91,False
+1956, 2, 25,1, Montreal Canadiens, 10, 2, 5, 9, 2, 22, 14, 53,17, Detroit Red Wings, 4, 0, 4, 5, 1, 22, 4, 73,True
+1956, 2, 25,13, Toronto Maple Leafs, 6, 2, 2, 4, 1, 29, 4, 94,7, Boston Bruins, 6, 0, 1, 1, 2, 42, 10, 101,False
+1956, 2, 26,12, Chicago Black Hawks, 4, 1, 1, 2, 2, 32, 28, 52,7, Boston Bruins, 6, 1, 3, 5, 1, 28, 9, 87,True
+1956, 2, 26,11, New York Rangers, 2, 1, 2, 4, 5, 40, 11, 40,17, Detroit Red Wings, 4, 1, 1, 2, 5, 52, 9, 94,True
+1956, 2, 28,17, Detroit Red Wings, 4, 1, 2, 2, 3, 34, 7, 76,11, New York Rangers, 3, 1, 3, 6, 2, 31, 8, 31,True
+1956, 2, 29,11, New York Rangers, 3, 0, 1, 2, 4, 41, 10, 41,7, Boston Bruins, 5, 2, 1, 1, 3, 33, 11, 92,True
+1956, 2, 29,13, Toronto Maple Leafs, 6, 0, 1, 2, 2, 30, 5, 95,1, Montreal Canadiens, 10, 2, 5, 9, 1, 22, 13, 53,True
+1956, 3, 1,7, Boston Bruins, 4, 1, 2, 2, 4, 33, 12, 92,17, Detroit Red Wings, 5, 1, 4, 6, 1, 13, 6, 55,False
+1956, 3, 2,12, Chicago Black Hawks, 4, 0, 3, 7, 1, 21, 27, 41,1, Montreal Canadiens, 9, 2, 1, 2, 4, 30, 16, 61,False
+1956, 3, 3,7, Boston Bruins, 4, 1, 0, 0, 2, 31, 10, 90,11, New York Rangers, 4, 1, 4, 8, 2, 37, 8, 37,True
+1956, 3, 3,1, Montreal Canadiens, 9, 2, 3, 5, 1, 29, 13, 60,12, Chicago Black Hawks, 3, 0, 1, 2, 2, 32, 28, 52,True
+1956, 3, 3,13, Toronto Maple Leafs, 7, 0, 4, 5, 1, 18, 4, 83,17, Detroit Red Wings, 5, 2, 2, 2, 0, 44, 3, 75,False
+1956, 3, 4,7, Boston Bruins, 4, 1, 3, 9, 2, 22, 10, 81,13, Toronto Maple Leafs, 6, 1, 2, 4, 2, 30, 5, 95,False
+1956, 3, 4,17, Detroit Red Wings, 6, 0, 2, 4, 2, 32, 5, 75,1, Montreal Canadiens, 9, 2, 3, 4, 1, 23, 13, 54,False
+1956, 3, 4,11, New York Rangers, 3, 2, 2, 2, 5, 38, 11, 38,12, Chicago Black Hawks, 2, 0, 1, 1, 3, 35, 29, 55,True
+1956, 3, 8,12, Chicago Black Hawks, 2, 0, 3, 5, 3, 28, 29, 48,11, New York Rangers, 4, 2, 3, 6, 2, 21, 8, 21,False
+1956, 3, 8,17, Detroit Red Wings, 6, 2, 4, 7, 6, 35, 9, 78,7, Boston Bruins, 4, 0, 4, 4, 2, 34, 10, 93,True
+1956, 3, 8,1, Montreal Canadiens, 9, 1, 6, 9, 4, 30, 16, 61,13, Toronto Maple Leafs, 6, 1, 2, 3, 2, 35, 5, 100,True
+1956, 3, 10,17, Detroit Red Wings, 6, 1, 4, 5, 2, 33, 7, 78,12, Chicago Black Hawks, 2, 1, 4, 7, 5, 49, 31, 69,True
+1956, 3, 10,1, Montreal Canadiens, 9, 2, 4, 7, 3, 32, 15, 63,7, Boston Bruins, 4, 0, 2, 4, 4, 36, 12, 95,False
+1956, 3, 10,13, Toronto Maple Leafs, 5, 2, 3, 4, 4, 27, 7, 92,11, New York Rangers, 4, 0, 6, 11, 4, 45, 10, 45,True
+1956, 3, 11,7, Boston Bruins, 4, 1, 4, 7, 0, 27, 8, 86,1, Montreal Canadiens, 8, 1, 0, 1, 4, 31, 16, 62,True
+1956, 3, 11,12, Chicago Black Hawks, 2, 1, 0, 0, 2, 37, 28, 57,17, Detroit Red Wings, 6, 1, 2, 4, 0, 24, 2, 75,False
+1956, 3, 11,11, New York Rangers, 4, 0, 2, 4, 5, 35, 11, 35,13, Toronto Maple Leafs, 5, 2, 5, 10, 2, 22, 5, 87,True
+1956, 3, 13,7, Boston Bruins, 4, 0, 3, 4, 1, 42, 9, 101,17, Detroit Red Wings, 7, 2, 3, 6, 2, 28, 4, 79,True
+1956, 3, 15,1, Montreal Canadiens, 7, 2, 1, 2, 3, 37, 15, 68,12, Chicago Black Hawks, 2, 0, 2, 4, 3, 35, 29, 55,True
+1956, 3, 15,11, New York Rangers, 5, 1, 4, 6, 2, 34, 8, 34,17, Detroit Red Wings, 6, 1, 0, 0, 4, 36, 5, 79,False
+1956, 3, 17,1, Montreal Canadiens, 7, 2, 5, 10, 2, 28, 14, 59,11, New York Rangers, 5, 0, 2, 3, 2, 39, 8, 39,True
+1956, 3, 17,13, Toronto Maple Leafs, 5, 2, 2, 4, 4, 22, 7, 87,12, Chicago Black Hawks, 2, 0, 2, 3, 5, 35, 31, 55,False
+1956, 3, 18,7, Boston Bruins, 5, 1, 4, 7, 0, 34, 8, 93,12, Chicago Black Hawks, 2, 1, 1, 2, 1, 30, 27, 50,False
+1956, 3, 18,17, Detroit Red Wings, 7, 2, 2, 2, 2, 15, 6, 44,13, Toronto Maple Leafs, 5, 0, 1, 1, 1, 28, 4, 93,False
+1956, 3, 18,11, New York Rangers, 5, 0, 2, 4, 7, 44, 13, 44,1, Montreal Canadiens, 7, 2, 7, 10, 2, 27, 14, 58,False

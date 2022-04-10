@@ -1,0 +1,869 @@
+Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
+2021, 1, 13,9, Colorado Avalanche, 7, 2, 3, 8, 1, 15, 37, 322,18, St. Louis Blues, 8, 0, 2, 7, 2, 34, 12, 122,False
+2021, 1, 13,29, Edmonton Oilers, 5, 1, 2, 5, 3, 48, 17, 209,22, Vancouver Canucks, 4, 1, 3, 6, 2, 26, 28, 255,False
+2021, 1, 13,16, Philadelphia Flyers, 9, 1, 0, 2, 2, 29, 29, 264,17, Pittsburgh Penguins, 3, 1, 5, 6, 6, 36, 18, 130,True
+2021, 1, 13,20, Tampa Bay Lightning, 3, 1, 1, 1, 2, 36, 18, 164,7, Chicago Blackhawks, 6, 1, 4, 5, 0, 0, 26, 271,True
+2021, 1, 13,11, Toronto Maple Leafs, 5, 0, 4, 5, 1, 33, 28, 239,10, Montreal Canadiens, 4, 2, 2, 3, 4, 36, 17, 170,True
+2021, 1, 14,30, Arizona Coyotes, 5, 2, 2, 5, 3, 33, 24, 230,28, San Jose Sharks, 3, 0, 3, 2, 4, 24, 10, 69,False
+2021, 1, 14,26, Buffalo Sabres, 3, 1, 2, 5, 3, 24, 22, 172,21, Washington Capitals, 4, 1, 3, 4, 6, 39, 15, 125,False
+2021, 1, 14,19, Detroit Red Wings, 3, 0, 2, 4, 3, 28, 30, 208,5, Carolina Hurricanes, 5, 2, 3, 9, 2, 25, 27, 242,False
+2021, 1, 14,29, Edmonton Oilers, 4, 0, 3, 5, 5, 35, 19, 196,22, Vancouver Canucks, 5, 2, 5, 8, 4, 49, 29, 260,True
+2021, 1, 14,6, Los Angeles Kings, 8, 2, 1, 5, 1, 22, 14, 146,8, Minnesota Wild, 7, 0, 4, 5, 2, 34, 19, 155,False
+2021, 1, 14,15, New Jersey Devils, 6, 1, 4, 2, 4, 32, 23, 217,0, Boston Bruins, 7, 1, 2, 2, 0, 36, 10, 146,False
+2021, 1, 14,12, Nashville Predators, 6, 1, 4, 6, 2, 34, 11, 84,13, Columbus Blue Jackets, 3, 1, 4, 5, 3, 23, 13, 144,True
+2021, 1, 14,1, New York Rangers, 5, 1, 2, 3, 2, 33, 12, 145,14, New York Islanders, 2, 1, 3, 6, 4, 34, 13, 175,False
+2021, 1, 14,31, Vegas Golden Knights, 8, 2, 6, 5, 3, 22, 23, 163,23, Anaheim Ducks, 5, 0, 3, 3, 0, 26, 19, 210,True
+2021, 1, 14,24, Winnipeg Jets, 6, 2, 5, 6, 2, 38, 16, 187,27, Calgary Flames, 6, 0, 3, 6, 3, 37, 23, 218,True
+2021, 1, 15,26, Buffalo Sabres, 3, 1, 4, 8, 2, 35, 23, 175,21, Washington Capitals, 5, 1, 6, 9, 0, 0, 13, 112,False
+2021, 1, 15,9, Colorado Avalanche, 6, 1, 1, 2, 4, 32, 36, 329,18, St. Louis Blues, 8, 1, 5, 7, 1, 27, 13, 118,True
+2021, 1, 15,25, Ottawa Senators, 4, 0, 0, 3, 2, 22, 35, 276,11, Toronto Maple Leafs, 6, 2, 5, 9, 4, 32, 31, 238,True
+2021, 1, 15,16, Philadelphia Flyers, 9, 1, 6, 11, 3, 34, 29, 258,17, Pittsburgh Penguins, 3, 1, 3, 3, 6, 27, 19, 122,True
+2021, 1, 15,20, Tampa Bay Lightning, 4, 1, 5, 11, 1, 23, 17, 151,7, Chicago Blackhawks, 5, 1, 1, 2, 3, 29, 30, 304,True
+2021, 1, 16,30, Arizona Coyotes, 4, 1, 3, 6, 2, 27, 24, 232,28, San Jose Sharks, 4, 1, 3, 6, 3, 37, 9, 82,True
+2021, 1, 16,27, Calgary Flames, 5, 1, 3, 6, 4, 34, 24, 215,22, Vancouver Canucks, 4, 1, 2, 3, 3, 31, 31, 254,True
+2021, 1, 16,19, Detroit Red Wings, 2, 0, 1, 0, 5, 36, 27, 211,5, Carolina Hurricanes, 5, 2, 4, 5, 0, 14, 25, 231,True
+2021, 1, 16,29, Edmonton Oilers, 5, 2, 5, 9, 2, 40, 17, 201,10, Montreal Canadiens, 4, 0, 4, 8, 5, 34, 18, 168,False
+2021, 1, 16,6, Los Angeles Kings, 7, 1, 3, 6, 4, 27, 17, 151,8, Minnesota Wild, 7, 1, 4, 5, 3, 34, 16, 131,False
+2021, 1, 16,15, New Jersey Devils, 5, 1, 2, 3, 2, 37, 21, 222,0, Boston Bruins, 7, 1, 2, 5, 1, 33, 12, 132,True
+2021, 1, 16,12, Nashville Predators, 7, 2, 3, 5, 1, 30, 10, 80,13, Columbus Blue Jackets, 3, 0, 1, 0, 1, 27, 12, 155,True
+2021, 1, 16,1, New York Rangers, 4, 1, 0, 1, 3, 28, 15, 152,14, New York Islanders, 3, 1, 4, 6, 0, 0, 9, 163,True
+2021, 1, 16,25, Ottawa Senators, 5, 1, 5, 11, 3, 23, 36, 277,11, Toronto Maple Leafs, 5, 1, 3, 4, 2, 28, 32, 230,False
+2021, 1, 16,31, Vegas Golden Knights, 8, 2, 5, 9, 2, 24, 22, 163,23, Anaheim Ducks, 5, 0, 2, 2, 4, 28, 20, 207,True
+2021, 1, 17,4, Florida Panthers, 4, 1, 1, 1, 1, 27, 20, 202,7, Chicago Blackhawks, 5, 1, 2, 3, 5, 37, 32, 312,True
+2021, 1, 17,17, Pittsburgh Penguins, 3, 0, 2, 4, 1, 13, 15, 116,21, Washington Capitals, 6, 2, 2, 2, 4, 26, 10, 136,True
+2021, 1, 18,23, Anaheim Ducks, 4, 1, 1, 2, 2, 33, 18, 212,8, Minnesota Wild, 8, 1, 4, 7, 3, 33, 16, 130,True
+2021, 1, 18,27, Calgary Flames, 6, 2, 3, 6, 0, 32, 18, 206,22, Vancouver Canucks, 3, 0, 0, 1, 5, 46, 27, 256,True
+2021, 1, 18,19, Detroit Red Wings, 3, 0, 3, 6, 2, 42, 27, 212,13, Columbus Blue Jackets, 3, 2, 2, 4, 2, 34, 16, 161,False
+2021, 1, 18,29, Edmonton Oilers, 5, 1, 1, 2, 5, 36, 18, 190,10, Montreal Canadiens, 4, 1, 5, 6, 1, 27, 15, 196,False
+2021, 1, 18,12, Nashville Predators, 7, 1, 5, 6, 8, 31, 11, 94,5, Carolina Hurricanes, 5, 1, 2, 3, 0, 1, 28, 237,False
+2021, 1, 18,14, New York Islanders, 2, 0, 0, 0, 0, 24, 15, 182,0, Boston Bruins, 6, 2, 1, 1, 2, 22, 13, 130,True
+2021, 1, 18,16, Philadelphia Flyers, 9, 2, 5, 10, 2, 33, 29, 256,26, Buffalo Sabres, 2, 0, 1, 2, 5, 27, 23, 161,False
+2021, 1, 18,18, St. Louis Blues, 7, 2, 0, 0, 4, 24, 16, 123,28, San Jose Sharks, 4, 0, 3, 4, 0, 2, 11, 71,True
+2021, 1, 18,11, Toronto Maple Leafs, 6, 1, 3, 5, 5, 24, 32, 221,24, Winnipeg Jets, 6, 1, 2, 6, 3, 26, 17, 175,True
+2021, 1, 18,31, Vegas Golden Knights, 8, 2, 3, 3, 2, 22, 21, 161,30, Arizona Coyotes, 4, 0, 5, 5, 3, 35, 25, 239,True
+2021, 1, 19,19, Detroit Red Wings, 3, 0, 2, 3, 2, 31, 28, 199,13, Columbus Blue Jackets, 4, 2, 3, 4, 5, 33, 16, 164,True
+2021, 1, 19,4, Florida Panthers, 4, 1, 5, 8, 2, 29, 23, 237,7, Chicago Blackhawks, 5, 1, 2, 4, 0, 0, 32, 321,True
+2021, 1, 19,6, Los Angeles Kings, 7, 1, 3, 5, 2, 26, 17, 151,9, Colorado Avalanche, 6, 1, 7, 12, 0, 21, 29, 309,False
+2021, 1, 19,1, New York Rangers, 4, 1, 5, 6, 0, 23, 12, 147,15, New Jersey Devils, 5, 1, 2, 4, 1, 28, 20, 213,False
+2021, 1, 19,25, Ottawa Senators, 5, 0, 2, 4, 3, 40, 37, 297,24, Winnipeg Jets, 6, 2, 1, 2, 3, 37, 16, 186,False
+2021, 1, 19,16, Philadelphia Flyers, 8, 1, 1, 2, 2, 15, 31, 233,26, Buffalo Sabres, 2, 1, 6, 9, 1, 22, 19, 166,True
+2021, 1, 19,17, Pittsburgh Penguins, 4, 1, 3, 5, 3, 23, 18, 114,21, Washington Capitals, 5, 1, 3, 4, 1, 31, 11, 141,True
+2021, 1, 20,23, Anaheim Ducks, 4, 1, 1, 2, 2, 42, 16, 206,8, Minnesota Wild, 7, 1, 0, 0, 4, 26, 19, 147,False
+2021, 1, 20,18, St. Louis Blues, 7, 2, 5, 9, 4, 26, 16, 123,28, San Jose Sharks, 4, 0, 4, 8, 5, 24, 16, 102,False
+2021, 1, 20,11, Toronto Maple Leafs, 6, 1, 3, 6, 1, 28, 28, 225,29, Edmonton Oilers, 4, 1, 1, 0, 3, 34, 16, 192,False
+2021, 1, 20,22, Vancouver Canucks, 3, 1, 2, 1, 3, 35, 29, 226,10, Montreal Canadiens, 4, 1, 3, 5, 1, 35, 15, 195,True
+2021, 1, 20,31, Vegas Golden Knights, 8, 2, 4, 6, 1, 22, 21, 171,30, Arizona Coyotes, 4, 0, 2, 2, 3, 27, 25, 231,True
+2021, 1, 21,0, Boston Bruins, 6, 1, 0, 0, 1, 17, 12, 125,16, Philadelphia Flyers, 8, 1, 3, 4, 4, 22, 29, 258,True
+2021, 1, 21,13, Columbus Blue Jackets, 3, 0, 2, 5, 2, 37, 16, 165,20, Tampa Bay Lightning, 5, 2, 5, 9, 2, 37, 18, 165,False
+2021, 1, 21,6, Los Angeles Kings, 7, 1, 2, 4, 4, 44, 20, 151,9, Colorado Avalanche, 6, 1, 3, 6, 1, 9, 32, 322,True
+2021, 1, 21,14, New York Islanders, 2, 1, 1, 2, 0, 27, 15, 195,15, New Jersey Devils, 5, 1, 4, 6, 1, 29, 23, 264,True
+2021, 1, 21,25, Ottawa Senators, 5, 0, 3, 7, 4, 28, 38, 285,24, Winnipeg Jets, 7, 2, 4, 9, 2, 37, 16, 190,False
+2021, 1, 21,22, Vancouver Canucks, 4, 2, 5, 8, 4, 31, 31, 227,10, Montreal Canadiens, 4, 0, 5, 7, 1, 26, 19, 188,False
+2021, 1, 22,23, Anaheim Ducks, 4, 1, 2, 4, 0, 34, 17, 196,9, Colorado Avalanche, 5, 1, 2, 3, 2, 25, 35, 343,False
+2021, 1, 22,30, Arizona Coyotes, 4, 0, 2, 3, 5, 29, 32, 256,31, Vegas Golden Knights, 8, 2, 5, 9, 2, 32, 22, 172,True
+2021, 1, 22,7, Chicago Blackhawks, 4, 1, 4, 8, 5, 30, 39, 344,19, Detroit Red Wings, 4, 1, 3, 5, 3, 29, 28, 192,True
+2021, 1, 22,2, Dallas Stars, 3, 0, 2, 4, 2, 32, 17, 148,12, Nashville Predators, 6, 2, 2, 4, 2, 44, 6, 86,True
+2021, 1, 22,8, Minnesota Wild, 7, 1, 3, 3, 1, 27, 16, 149,28, San Jose Sharks, 4, 1, 1, 2, 5, 33, 12, 101,True
+2021, 1, 22,17, Pittsburgh Penguins, 5, 0, 5, 8, 3, 6, 20, 116,1, New York Rangers, 3, 2, 3, 6, 0, 8, 12, 119,True
+2021, 1, 22,11, Toronto Maple Leafs, 5, 0, 0, 2, 2, 21, 29, 218,29, Edmonton Oilers, 4, 2, 3, 4, 1, 26, 14, 169,True
+2021, 1, 22,21, Washington Capitals, 4, 2, 3, 5, 5, 30, 17, 154,26, Buffalo Sabres, 2, 0, 0, 0, 2, 21, 18, 134,True
+2021, 1, 23,0, Boston Bruins, 7, 2, 4, 7, 2, 31, 13, 136,16, Philadelphia Flyers, 7, 0, 4, 8, 4, 43, 29, 264,True
+2021, 1, 23,13, Columbus Blue Jackets, 3, 0, 2, 3, 3, 27, 17, 165,20, Tampa Bay Lightning, 6, 2, 2, 6, 2, 25, 18, 153,True
+2021, 1, 23,18, St. Louis Blues, 6, 2, 1, 2, 1, 38, 15, 126,6, Los Angeles Kings, 7, 0, 4, 7, 3, 24, 15, 135,True
+2021, 1, 23,22, Vancouver Canucks, 4, 1, 3, 5, 5, 36, 34, 238,10, Montreal Canadiens, 5, 1, 5, 9, 5, 28, 21, 179,False
+2021, 1, 23,24, Winnipeg Jets, 8, 2, 4, 8, 1, 29, 15, 182,25, Ottawa Senators, 4, 0, 1, 2, 0, 3, 33, 271,True
+2021, 1, 24,23, Anaheim Ducks, 4, 1, 2, 4, 3, 32, 20, 194,9, Colorado Avalanche, 5, 1, 4, 6, 2, 38, 35, 356,True
+2021, 1, 24,30, Arizona Coyotes, 4, 1, 5, 8, 2, 31, 29, 258,31, Vegas Golden Knights, 7, 1, 1, 3, 2, 23, 24, 165,False
+2021, 1, 24,27, Calgary Flames, 6, 2, 5, 5, 2, 27, 18, 199,11, Toronto Maple Leafs, 5, 0, 4, 6, 2, 19, 29, 229,False
+2021, 1, 24,7, Chicago Blackhawks, 4, 1, 4, 8, 1, 31, 35, 345,19, Detroit Red Wings, 4, 1, 1, 2, 2, 24, 28, 190,True
+2021, 1, 24,2, Dallas Stars, 3, 1, 7, 10, 0, 34, 15, 150,12, Nashville Predators, 5, 1, 0, 0, 5, 20, 8, 47,True
+2021, 1, 24,8, Minnesota Wild, 7, 2, 4, 6, 0, 17, 10, 117,28, San Jose Sharks, 3, 0, 1, 2, 1, 23, 9, 95,False
+2021, 1, 24,15, New Jersey Devils, 5, 0, 1, 1, 4, 35, 26, 270,14, New York Islanders, 3, 2, 4, 8, 5, 32, 17, 176,True
+2021, 1, 24,17, Pittsburgh Penguins, 6, 1, 3, 4, 3, 34, 18, 137,1, New York Rangers, 3, 1, 3, 4, 3, 28, 15, 139,True
+2021, 1, 24,18, St. Louis Blues, 6, 2, 4, 7, 4, 14, 16, 111,6, Los Angeles Kings, 6, 0, 2, 4, 2, 26, 14, 150,False
+2021, 1, 24,24, Winnipeg Jets, 8, 1, 6, 12, 3, 41, 17, 174,29, Edmonton Oilers, 3, 1, 2, 3, 3, 28, 16, 171,False
+2021, 1, 24,21, Washington Capitals, 5, 2, 3, 5, 3, 27, 14, 123,26, Buffalo Sabres, 2, 0, 2, 3, 3, 32, 19, 145,False
+2021, 1, 25,22, Vancouver Canucks, 4, 1, 2, 4, 7, 42, 34, 239,25, Ottawa Senators, 3, 1, 4, 6, 4, 26, 38, 305,True
+2021, 1, 26,30, Arizona Coyotes, 4, 1, 0, 0, 1, 27, 24, 247,23, Anaheim Ducks, 4, 1, 3, 6, 1, 33, 22, 206,False
+2021, 1, 26,0, Boston Bruins, 7, 1, 6, 12, 4, 26, 14, 105,17, Pittsburgh Penguins, 6, 1, 3, 3, 2, 26, 20, 138,True
+2021, 1, 26,26, Buffalo Sabres, 3, 1, 4, 5, 3, 31, 19, 144,1, New York Rangers, 3, 1, 2, 4, 4, 20, 15, 130,True
+2021, 1, 26,13, Columbus Blue Jackets, 4, 2, 5, 9, 3, 37, 16, 170,4, Florida Panthers, 5, 0, 5, 10, 4, 36, 25, 244,False
+2021, 1, 26,27, Calgary Flames, 5, 1, 2, 4, 3, 32, 19, 204,11, Toronto Maple Leafs, 6, 1, 3, 5, 2, 32, 29, 243,False
+2021, 1, 26,9, Colorado Avalanche, 5, 2, 1, 1, 2, 14, 39, 343,28, San Jose Sharks, 3, 0, 5, 6, 3, 29, 11, 101,True
+2021, 1, 26,2, Dallas Stars, 4, 1, 2, 4, 2, 17, 17, 133,19, Detroit Red Wings, 4, 1, 2, 4, 3, 27, 32, 201,True
+2021, 1, 26,8, Minnesota Wild, 7, 2, 3, 5, 4, 35, 14, 128,6, Los Angeles Kings, 6, 0, 6, 8, 3, 29, 15, 152,False
+2021, 1, 26,15, New Jersey Devils, 6, 1, 2, 4, 0, 28, 22, 263,16, Philadelphia Flyers, 6, 1, 1, 1, 0, 40, 31, 247,False
+2021, 1, 26,12, Nashville Predators, 5, 1, 2, 3, 2, 8, 6, 49,7, Chicago Blackhawks, 4, 1, 6, 7, 5, 33, 36, 341,True
+2021, 1, 26,31, Vegas Golden Knights, 8, 2, 1, 2, 4, 25, 20, 164,18, St. Louis Blues, 5, 0, 3, 5, 2, 23, 17, 131,False
+2021, 1, 26,24, Winnipeg Jets, 8, 1, 3, 6, 3, 21, 18, 171,29, Edmonton Oilers, 4, 1, 4, 8, 3, 38, 17, 178,True
+2021, 1, 26,21, Washington Capitals, 4, 1, 3, 4, 3, 48, 15, 160,14, New York Islanders, 3, 1, 0, 0, 1, 31, 13, 163,True
+2021, 1, 27,12, Nashville Predators, 6, 1, 3, 5, 3, 22, 6, 61,7, Chicago Blackhawks, 3, 1, 2, 2, 2, 27, 34, 347,True
+2021, 1, 27,22, Vancouver Canucks, 4, 1, 6, 7, 1, 36, 29, 222,25, Ottawa Senators, 3, 1, 1, 2, 5, 37, 41, 314,True
+2021, 1, 28,30, Arizona Coyotes, 3, 0, 0, 0, 1, 24, 28, 246,23, Anaheim Ducks, 4, 2, 1, 0, 0, 31, 21, 204,True
+2021, 1, 28,0, Boston Bruins, 7, 1, 3, 6, 1, 17, 9, 119,17, Pittsburgh Penguins, 5, 1, 2, 4, 3, 36, 21, 148,True
+2021, 1, 28,26, Buffalo Sabres, 4, 2, 3, 5, 2, 30, 18, 143,1, New York Rangers, 3, 0, 2, 3, 3, 19, 14, 134,False
+2021, 1, 28,5, Carolina Hurricanes, 5, 1, 4, 5, 3, 20, 30, 269,20, Tampa Bay Lightning, 6, 1, 3, 3, 4, 27, 20, 155,True
+2021, 1, 28,13, Columbus Blue Jackets, 3, 1, 2, 6, 2, 32, 15, 150,4, Florida Panthers, 6, 1, 3, 6, 2, 30, 24, 230,True
+2021, 1, 28,9, Colorado Avalanche, 6, 2, 7, 12, 3, 30, 42, 365,28, San Jose Sharks, 3, 0, 3, 6, 2, 23, 13, 87,True
+2021, 1, 28,2, Dallas Stars, 4, 2, 2, 4, 0, 0, 16, 137,19, Detroit Red Wings, 4, 0, 1, 2, 6, 35, 28, 208,True
+2021, 1, 28,29, Edmonton Oilers, 3, 1, 4, 6, 5, 32, 19, 172,11, Toronto Maple Leafs, 7, 1, 4, 8, 3, 26, 30, 237,False
+2021, 1, 28,8, Minnesota Wild, 6, 1, 1, 2, 2, 21, 14, 121,6, Los Angeles Kings, 6, 1, 2, 3, 3, 31, 14, 148,True
+2021, 1, 28,10, Montreal Canadiens, 5, 2, 5, 6, 2, 25, 18, 176,27, Calgary Flames, 5, 0, 3, 6, 4, 31, 23, 179,True
+2021, 1, 28,15, New Jersey Devils, 5, 1, 3, 5, 4, 30, 26, 265,16, Philadelphia Flyers, 6, 1, 5, 9, 6, 26, 31, 245,False
+2021, 1, 28,22, Vancouver Canucks, 5, 2, 5, 8, 4, 32, 29, 229,25, Ottawa Senators, 2, 0, 2, 2, 7, 35, 41, 313,True
+2021, 1, 28,21, Washington Capitals, 5, 1, 3, 7, 2, 34, 8, 142,14, New York Islanders, 3, 1, 2, 2, 3, 37, 16, 156,True
+2021, 1, 29,7, Chicago Blackhawks, 3, 2, 1, 2, 1, 42, 33, 362,13, Columbus Blue Jackets, 4, 0, 2, 3, 3, 31, 15, 153,False
+2021, 1, 30,23, Anaheim Ducks, 4, 0, 2, 2, 3, 34, 21, 191,18, St. Louis Blues, 6, 2, 4, 4, 4, 46, 19, 154,False
+2021, 1, 30,26, Buffalo Sabres, 4, 2, 1, 2, 3, 39, 19, 152,15, New Jersey Devils, 5, 0, 1, 2, 3, 17, 25, 252,True
+2021, 1, 30,5, Carolina Hurricanes, 6, 0, 1, 2, 0, 32, 27, 281,2, Dallas Stars, 4, 2, 8, 13, 1, 21, 19, 160,True
+2021, 1, 30,19, Detroit Red Wings, 3, 0, 3, 6, 3, 9, 26, 147,4, Florida Panthers, 5, 2, 2, 3, 3, 22, 23, 209,False
+2021, 1, 30,29, Edmonton Oilers, 3, 0, 3, 6, 4, 27, 18, 167,11, Toronto Maple Leafs, 8, 2, 4, 7, 3, 29, 30, 240,True
+2021, 1, 30,8, Minnesota Wild, 6, 1, 4, 8, 3, 35, 15, 135,9, Colorado Avalanche, 6, 1, 3, 6, 0, 21, 38, 325,False
+2021, 1, 30,10, Montreal Canadiens, 5, 2, 4, 7, 3, 17, 18, 176,27, Calgary Flames, 5, 0, 2, 4, 4, 21, 23, 169,False
+2021, 1, 30,1, New York Rangers, 3, 0, 3, 3, 3, 24, 13, 140,17, Pittsburgh Penguins, 5, 2, 1, 3, 4, 26, 19, 122,False
+2021, 1, 30,16, Philadelphia Flyers, 6, 0, 2, 6, 1, 34, 26, 221,14, New York Islanders, 3, 2, 3, 4, 5, 22, 18, 158,True
+2021, 1, 30,20, Tampa Bay Lightning, 5, 1, 0, 0, 1, 35, 17, 163,12, Nashville Predators, 7, 1, 1, 1, 2, 20, 4, 69,True
+2021, 1, 30,24, Winnipeg Jets, 8, 2, 6, 12, 4, 26, 19, 176,22, Vancouver Canucks, 5, 0, 4, 7, 1, 43, 22, 242,False
+2021, 1, 30,21, Washington Capitals, 6, 1, 6, 11, 3, 30, 10, 137,0, Boston Bruins, 7, 1, 4, 5, 2, 30, 12, 114,True
+2021, 1, 31,23, Anaheim Ducks, 3, 0, 1, 2, 3, 6, 21, 155,18, St. Louis Blues, 6, 2, 6, 10, 5, 34, 14, 147,False
+2021, 1, 31,26, Buffalo Sabres, 5, 2, 3, 7, 1, 20, 19, 147,15, New Jersey Devils, 4, 0, 3, 6, 4, 32, 29, 298,False
+2021, 1, 31,5, Carolina Hurricanes, 7, 1, 4, 8, 1, 11, 26, 227,2, Dallas Stars, 4, 1, 1, 2, 4, 16, 19, 142,True
+2021, 1, 31,7, Chicago Blackhawks, 3, 1, 1, 2, 2, 27, 34, 347,13, Columbus Blue Jackets, 5, 1, 2, 3, 2, 35, 12, 159,True
+2021, 1, 31,19, Detroit Red Wings, 2, 0, 1, 4, 3, 26, 25, 165,4, Florida Panthers, 6, 2, 3, 5, 2, 31, 24, 232,False
+2021, 1, 31,29, Edmonton Oilers, 4, 0, 4, 5, 0, 0, 17, 169,25, Ottawa Senators, 1, 2, 0, 0, 4, 25, 38, 306,True
+2021, 1, 31,8, Minnesota Wild, 6, 0, 0, 2, 1, 12, 17, 133,9, Colorado Avalanche, 7, 2, 5, 10, 3, 26, 37, 319,True
+2021, 1, 31,16, Philadelphia Flyers, 6, 1, 3, 5, 3, 26, 29, 228,14, New York Islanders, 3, 1, 3, 4, 2, 24, 16, 157,True
+2021, 2, 1,10, Montreal Canadiens, 5, 2, 0, 0, 2, 25, 16, 191,22, Vancouver Canucks, 5, 0, 4, 8, 1, 37, 22, 223,True
+2021, 2, 1,1, New York Rangers, 3, 0, 4, 9, 2, 25, 15, 154,17, Pittsburgh Penguins, 6, 2, 5, 9, 4, 34, 18, 114,True
+2021, 2, 1,20, Tampa Bay Lightning, 6, 2, 4, 8, 3, 26, 19, 154,12, Nashville Predators, 6, 0, 3, 6, 1, 30, 6, 82,True
+2021, 2, 1,24, Winnipeg Jets, 7, 2, 1, 1, 3, 38, 17, 189,27, Calgary Flames, 5, 0, 2, 3, 0, 37, 21, 208,False
+2021, 2, 1,21, Washington Capitals, 6, 1, 4, 6, 3, 43, 15, 153,0, Boston Bruins, 6, 1, 3, 6, 1, 17, 13, 131,False
+2021, 2, 2,13, Columbus Blue Jackets, 4, 2, 3, 3, 1, 32, 13, 160,2, Dallas Stars, 4, 0, 3, 4, 0, 10, 18, 166,False
+2021, 2, 2,7, Chicago Blackhawks, 3, 0, 3, 5, 1, 33, 33, 353,5, Carolina Hurricanes, 8, 2, 3, 6, 3, 29, 28, 245,False
+2021, 2, 2,9, Colorado Avalanche, 6, 1, 3, 3, 1, 20, 38, 326,8, Minnesota Wild, 6, 1, 4, 7, 3, 25, 19, 146,True
+2021, 2, 2,29, Edmonton Oilers, 5, 1, 7, 14, 3, 29, 23, 226,25, Ottawa Senators, 1, 1, 6, 10, 5, 22, 37, 277,True
+2021, 2, 2,6, Los Angeles Kings, 5, 1, 3, 6, 1, 33, 16, 145,23, Anaheim Ducks, 3, 1, 1, 2, 4, 23, 22, 172,False
+2021, 2, 2,10, Montreal Canadiens, 6, 2, 6, 9, 1, 32, 16, 195,22, Vancouver Canucks, 5, 0, 2, 2, 1, 24, 30, 217,True
+2021, 2, 2,18, St. Louis Blues, 7, 1, 4, 6, 1, 24, 15, 162,30, Arizona Coyotes, 3, 1, 3, 6, 2, 16, 29, 246,True
+2021, 2, 2,24, Winnipeg Jets, 6, 1, 3, 6, 4, 38, 17, 179,27, Calgary Flames, 5, 1, 3, 5, 4, 21, 23, 205,True
+2021, 2, 3,16, Philadelphia Flyers, 7, 0, 4, 7, 2, 28, 28, 244,0, Boston Bruins, 7, 2, 5, 9, 4, 23, 15, 140,False
+2021, 2, 3,20, Tampa Bay Lightning, 6, 1, 5, 9, 2, 31, 18, 159,19, Detroit Red Wings, 2, 1, 3, 3, 3, 30, 25, 169,True
+2021, 2, 4,13, Columbus Blue Jackets, 4, 1, 3, 5, 5, 23, 14, 124,2, Dallas Stars, 5, 1, 6, 11, 3, 40, 21, 182,True
+2021, 2, 4,7, Chicago Blackhawks, 3, 0, 3, 5, 3, 41, 35, 361,5, Carolina Hurricanes, 9, 2, 3, 6, 3, 33, 28, 249,True
+2021, 2, 4,4, Florida Panthers, 7, 2, 3, 6, 2, 27, 26, 240,12, Nashville Predators, 5, 0, 2, 3, 4, 27, 9, 79,False
+2021, 2, 4,10, Montreal Canadiens, 7, 2, 5, 9, 2, 29, 18, 202,25, Ottawa Senators, 1, 0, 1, 4, 3, 9, 36, 280,False
+2021, 2, 4,1, New York Rangers, 3, 2, 3, 5, 1, 26, 14, 155,21, Washington Capitals, 6, 0, 3, 5, 4, 32, 16, 150,True
+2021, 2, 4,18, St. Louis Blues, 7, 2, 4, 8, 3, 35, 17, 173,30, Arizona Coyotes, 3, 0, 3, 6, 3, 34, 28, 261,False
+2021, 2, 4,11, Toronto Maple Leafs, 7, 2, 3, 6, 4, 31, 28, 244,22, Vancouver Canucks, 5, 0, 3, 6, 4, 32, 33, 225,True
+2021, 2, 4,24, Winnipeg Jets, 6, 1, 3, 5, 3, 28, 15, 172,27, Calgary Flames, 4, 1, 2, 4, 3, 28, 22, 212,True
+2021, 2, 5,23, Anaheim Ducks, 4, 0, 3, 4, 1, 21, 19, 170,28, San Jose Sharks, 3, 2, 0, 0, 5, 19, 14, 102,False
+2021, 2, 5,4, Florida Panthers, 7, 1, 5, 5, 2, 34, 30, 254,12, Nashville Predators, 5, 1, 6, 9, 0, 12, 6, 55,True
+2021, 2, 5,16, Philadelphia Flyers, 6, 0, 3, 5, 3, 36, 27, 253,0, Boston Bruins, 7, 2, 4, 8, 3, 25, 15, 127,False
+2021, 2, 5,20, Tampa Bay Lightning, 6, 1, 5, 9, 1, 16, 17, 144,19, Detroit Red Wings, 2, 1, 1, 2, 3, 6, 22, 147,True
+2021, 2, 5,31, Vegas Golden Knights, 7, 0, 5, 6, 0, 16, 20, 164,6, Los Angeles Kings, 4, 2, 1, 2, 5, 28, 19, 167,True
+2021, 2, 6,23, Anaheim Ducks, 4, 0, 4, 7, 3, 24, 22, 179,28, San Jose Sharks, 4, 2, 4, 4, 3, 38, 13, 120,True
+2021, 2, 6,27, Calgary Flames, 4, 1, 1, 1, 3, 26, 21, 197,29, Edmonton Oilers, 5, 1, 6, 8, 2, 25, 20, 215,True
+2021, 2, 6,14, New York Islanders, 3, 2, 3, 5, 3, 17, 19, 172,17, Pittsburgh Penguins, 5, 0, 1, 2, 4, 20, 17, 145,True
+2021, 2, 6,25, Ottawa Senators, 1, 1, 3, 6, 2, 38, 34, 300,10, Montreal Canadiens, 7, 1, 2, 3, 3, 39, 19, 195,False
+2021, 2, 6,18, St. Louis Blues, 6, 1, 3, 6, 1, 26, 15, 163,30, Arizona Coyotes, 4, 1, 4, 6, 4, 29, 28, 270,False
+2021, 2, 6,11, Toronto Maple Leafs, 7, 2, 7, 15, 3, 19, 27, 232,22, Vancouver Canucks, 5, 0, 3, 5, 6, 40, 35, 237,True
+2021, 2, 7,13, Columbus Blue Jackets, 5, 2, 4, 6, 3, 28, 16, 143,5, Carolina Hurricanes, 8, 0, 4, 6, 5, 34, 30, 250,False
+2021, 2, 7,2, Dallas Stars, 5, 1, 3, 3, 3, 26, 22, 167,7, Chicago Blackhawks, 4, 1, 6, 10, 3, 39, 36, 354,False
+2021, 2, 7,4, Florida Panthers, 8, 2, 2, 4, 1, 25, 29, 233,19, Detroit Red Wings, 1, 0, 1, 2, 2, 31, 21, 172,False
+2021, 2, 7,31, Vegas Golden Knights, 8, 1, 5, 10, 4, 25, 20, 169,6, Los Angeles Kings, 3, 1, 2, 4, 1, 26, 14, 129,True
+2021, 2, 7,21, Washington Capitals, 5, 0, 2, 2, 3, 30, 14, 139,16, Philadelphia Flyers, 5, 2, 1, 3, 4, 35, 26, 240,False
+2021, 2, 8,13, Columbus Blue Jackets, 4, 1, 6, 11, 6, 26, 19, 141,5, Carolina Hurricanes, 8, 1, 5, 11, 2, 30, 30, 238,True
+2021, 2, 8,12, Nashville Predators, 4, 0, 1, 3, 2, 36, 8, 79,20, Tampa Bay Lightning, 7, 2, 3, 4, 4, 28, 17, 156,False
+2021, 2, 8,1, New York Rangers, 4, 1, 4, 7, 2, 33, 15, 171,14, New York Islanders, 4, 1, 4, 8, 3, 31, 17, 199,False
+2021, 2, 8,25, Ottawa Senators, 1, 0, 1, 2, 2, 32, 35, 276,29, Edmonton Oilers, 5, 2, 4, 8, 3, 24, 24, 218,False
+2021, 2, 8,18, St. Louis Blues, 6, 0, 0, 2, 3, 29, 16, 155,30, Arizona Coyotes, 5, 2, 3, 5, 1, 25, 23, 270,False
+2021, 2, 8,11, Toronto Maple Leafs, 8, 2, 3, 8, 1, 28, 22, 237,22, Vancouver Canucks, 4, 0, 2, 2, 5, 31, 34, 228,True
+2021, 2, 9,27, Calgary Flames, 5, 0, 6, 12, 4, 32, 20, 207,24, Winnipeg Jets, 6, 2, 4, 5, 1, 24, 13, 168,True
+2021, 2, 9,2, Dallas Stars, 5, 1, 2, 3, 2, 35, 21, 176,7, Chicago Blackhawks, 5, 1, 2, 5, 4, 34, 33, 353,False
+2021, 2, 9,4, Florida Panthers, 7, 1, 1, 3, 6, 41, 31, 246,19, Detroit Red Wings, 2, 1, 4, 5, 1, 37, 20, 178,True
+2021, 2, 9,6, Los Angeles Kings, 3, 1, 3, 6, 4, 33, 19, 154,28, San Jose Sharks, 4, 1, 1, 2, 4, 37, 11, 115,False
+2021, 2, 9,12, Nashville Predators, 3, 0, 1, 2, 5, 24, 8, 76,20, Tampa Bay Lightning, 8, 2, 4, 5, 1, 28, 14, 152,False
+2021, 2, 9,25, Ottawa Senators, 1, 0, 1, 0, 4, 25, 35, 278,29, Edmonton Oilers, 6, 2, 3, 4, 6, 28, 22, 222,False
+2021, 2, 9,31, Vegas Golden Knights, 8, 2, 4, 8, 2, 29, 19, 176,23, Anaheim Ducks, 4, 0, 1, 2, 1, 27, 20, 182,True
+2021, 2, 10,10, Montreal Canadiens, 7, 1, 4, 4, 3, 22, 17, 191,11, Toronto Maple Leafs, 8, 1, 3, 2, 1, 32, 22, 241,False
+2021, 2, 10,1, New York Rangers, 4, 0, 0, 0, 5, 38, 15, 168,0, Boston Bruins, 7, 2, 2, 5, 1, 24, 11, 118,False
+2021, 2, 11,7, Chicago Blackhawks, 6, 1, 2, 4, 1, 35, 30, 354,13, Columbus Blue Jackets, 5, 1, 3, 4, 2, 24, 7, 126,False
+2021, 2, 11,2, Dallas Stars, 5, 0, 1, 1, 4, 25, 21, 170,5, Carolina Hurricanes, 7, 2, 3, 3, 5, 22, 28, 226,False
+2021, 2, 11,4, Florida Panthers, 7, 0, 2, 4, 1, 32, 24, 252,20, Tampa Bay Lightning, 8, 2, 4, 11, 1, 33, 14, 157,True
+2021, 2, 11,6, Los Angeles Kings, 3, 1, 3, 5, 3, 40, 18, 161,28, San Jose Sharks, 4, 1, 3, 6, 3, 27, 10, 105,True
+2021, 2, 11,10, Montreal Canadiens, 6, 2, 2, 3, 1, 35, 17, 192,29, Edmonton Oilers, 6, 0, 3, 5, 1, 28, 18, 236,False
+2021, 2, 11,12, Nashville Predators, 3, 1, 1, 1, 2, 33, 9, 82,19, Detroit Red Wings, 1, 1, 1, 1, 2, 22, 21, 163,True
+2021, 2, 11,14, New York Islanders, 4, 2, 2, 4, 0, 30, 16, 184,17, Pittsburgh Penguins, 5, 0, 3, 5, 2, 23, 17, 116,False
+2021, 2, 11,22, Vancouver Canucks, 4, 0, 1, 2, 7, 37, 34, 215,27, Calgary Flames, 5, 2, 3, 6, 2, 27, 17, 212,False
+2021, 2, 11,31, Vegas Golden Knights, 8, 2, 5, 10, 4, 23, 21, 170,23, Anaheim Ducks, 4, 0, 4, 7, 4, 30, 24, 186,False
+2021, 2, 11,24, Winnipeg Jets, 6, 2, 2, 4, 3, 29, 15, 173,25, Ottawa Senators, 1, 0, 2, 4, 0, 9, 32, 241,True
+2021, 2, 12,30, Arizona Coyotes, 5, 2, 3, 9, 3, 43, 24, 298,18, St. Louis Blues, 5, 0, 3, 5, 3, 26, 18, 148,False
+2021, 2, 12,1, New York Rangers, 3, 0, 2, 3, 2, 30, 13, 162,0, Boston Bruins, 8, 2, 3, 4, 3, 26, 12, 135,False
+2021, 2, 13,30, Arizona Coyotes, 5, 1, 0, 2, 3, 43, 23, 280,18, St. Louis Blues, 6, 1, 4, 7, 2, 18, 16, 147,False
+2021, 2, 13,7, Chicago Blackhawks, 5, 1, 5, 8, 6, 43, 35, 362,13, Columbus Blue Jackets, 6, 1, 6, 12, 5, 26, 11, 117,True
+2021, 2, 13,2, Dallas Stars, 4, 0, 3, 6, 2, 29, 21, 176,5, Carolina Hurricanes, 7, 2, 5, 9, 3, 22, 26, 241,False
+2021, 2, 13,4, Florida Panthers, 7, 1, 5, 9, 2, 21, 25, 241,20, Tampa Bay Lightning, 7, 1, 2, 4, 4, 28, 17, 152,False
+2021, 2, 13,12, Nashville Predators, 4, 2, 3, 6, 2, 26, 9, 75,19, Detroit Red Wings, 1, 0, 2, 4, 3, 19, 22, 164,False
+2021, 2, 13,14, New York Islanders, 4, 1, 3, 4, 3, 35, 16, 184,0, Boston Bruins, 9, 1, 1, 2, 2, 35, 9, 130,True
+2021, 2, 13,28, San Jose Sharks, 4, 1, 2, 4, 6, 26, 13, 109,31, Vegas Golden Knights, 7, 1, 0, 0, 1, 28, 18, 175,False
+2021, 2, 13,11, Toronto Maple Leafs, 8, 2, 4, 8, 2, 35, 23, 244,10, Montreal Canadiens, 6, 0, 0, 0, 3, 23, 19, 188,False
+2021, 2, 13,22, Vancouver Canucks, 4, 0, 1, 1, 3, 26, 29, 211,27, Calgary Flames, 5, 2, 3, 5, 1, 34, 16, 219,True
+2021, 2, 13,24, Winnipeg Jets, 6, 2, 5, 10, 1, 42, 13, 186,25, Ottawa Senators, 1, 0, 1, 2, 2, 11, 34, 245,False
+2021, 2, 14,17, Pittsburgh Penguins, 6, 2, 3, 6, 4, 26, 18, 130,21, Washington Capitals, 4, 0, 5, 10, 4, 14, 15, 119,True
+2021, 2, 14,31, Vegas Golden Knights, 7, 0, 3, 6, 1, 25, 18, 172,9, Colorado Avalanche, 7, 2, 2, 3, 1, 28, 33, 353,True
+2021, 2, 15,30, Arizona Coyotes, 5, 0, 4, 5, 2, 25, 25, 272,18, St. Louis Blues, 6, 2, 5, 8, 1, 25, 18, 165,True
+2021, 2, 15,26, Buffalo Sabres, 4, 0, 2, 5, 3, 34, 21, 170,14, New York Islanders, 4, 2, 4, 7, 2, 30, 15, 179,False
+2021, 2, 15,5, Carolina Hurricanes, 8, 1, 4, 6, 3, 37, 26, 248,13, Columbus Blue Jackets, 5, 1, 2, 2, 3, 31, 13, 129,True
+2021, 2, 15,19, Detroit Red Wings, 2, 0, 4, 7, 3, 23, 21, 168,7, Chicago Blackhawks, 5, 2, 3, 5, 1, 31, 31, 350,False
+2021, 2, 15,29, Edmonton Oilers, 7, 1, 3, 4, 0, 38, 17, 246,24, Winnipeg Jets, 5, 1, 1, 2, 2, 29, 14, 173,False
+2021, 2, 15,28, San Jose Sharks, 4, 1, 2, 2, 3, 26, 10, 109,23, Anaheim Ducks, 5, 1, 1, 2, 0, 21, 19, 181,True
+2021, 2, 15,20, Tampa Bay Lightning, 7, 1, 8, 9, 1, 24, 14, 158,4, Florida Panthers, 6, 1, 1, 2, 3, 38, 29, 251,False
+2021, 2, 15,11, Toronto Maple Leafs, 8, 1, 1, 2, 2, 25, 28, 231,25, Ottawa Senators, 2, 1, 2, 4, 1, 31, 34, 258,False
+2021, 2, 15,22, Vancouver Canucks, 4, 1, 3, 1, 1, 19, 28, 215,27, Calgary Flames, 5, 1, 1, 2, 2, 45, 21, 203,False
+2021, 2, 16,26, Buffalo Sabres, 4, 0, 1, 3, 4, 36, 21, 165,14, New York Islanders, 4, 2, 3, 6, 4, 29, 14, 171,False
+2021, 2, 16,6, Los Angeles Kings, 4, 1, 6, 11, 4, 10, 14, 133,8, Minnesota Wild, 5, 1, 4, 2, 5, 33, 14, 155,True
+2021, 2, 16,1, New York Rangers, 3, 0, 0, 0, 1, 30, 14, 154,15, New Jersey Devils, 4, 2, 5, 8, 3, 50, 28, 299,False
+2021, 2, 16,17, Pittsburgh Penguins, 6, 2, 6, 10, 3, 31, 16, 140,21, Washington Capitals, 4, 0, 3, 4, 4, 36, 15, 137,False
+2021, 2, 16,31, Vegas Golden Knights, 7, 1, 1, 2, 0, 30, 18, 175,9, Colorado Avalanche, 6, 1, 0, 0, 1, 24, 32, 340,False
+2021, 2, 17,5, Carolina Hurricanes, 8, 1, 7, 14, 3, 29, 31, 248,4, Florida Panthers, 6, 1, 6, 9, 4, 31, 30, 244,False
+2021, 2, 17,27, Calgary Flames, 6, 1, 4, 4, 3, 33, 22, 191,22, Vancouver Canucks, 3, 1, 3, 6, 3, 19, 32, 211,False
+2021, 2, 17,19, Detroit Red Wings, 2, 0, 2, 4, 2, 23, 21, 169,7, Chicago Blackhawks, 6, 2, 3, 5, 2, 31, 32, 348,False
+2021, 2, 17,29, Edmonton Oilers, 6, 0, 5, 9, 4, 11, 21, 190,24, Winnipeg Jets, 5, 2, 6, 9, 5, 45, 17, 189,True
+2021, 2, 17,11, Toronto Maple Leafs, 7, 1, 5, 8, 6, 31, 32, 237,25, Ottawa Senators, 3, 1, 6, 10, 3, 15, 37, 269,True
+2021, 2, 18,23, Anaheim Ducks, 4, 1, 2, 4, 3, 29, 21, 191,8, Minnesota Wild, 4, 1, 0, 0, 3, 28, 12, 150,False
+2021, 2, 18,30, Arizona Coyotes, 5, 1, 2, 1, 0, 24, 25, 268,6, Los Angeles Kings, 4, 1, 4, 5, 0, 28, 10, 151,False
+2021, 2, 18,0, Boston Bruins, 8, 1, 2, 4, 0, 21, 12, 135,15, New Jersey Devils, 5, 1, 5, 8, 2, 39, 27, 288,False
+2021, 2, 18,13, Columbus Blue Jackets, 5, 0, 3, 6, 2, 9, 22, 120,12, Nashville Predators, 4, 2, 2, 4, 1, 6, 5, 49,True
+2021, 2, 18,16, Philadelphia Flyers, 6, 2, 4, 11, 4, 37, 26, 242,1, New York Rangers, 3, 0, 2, 2, 3, 32, 17, 160,False
+2021, 2, 18,17, Pittsburgh Penguins, 5, 1, 1, 2, 3, 42, 18, 159,14, New York Islanders, 5, 1, 3, 6, 1, 21, 13, 167,True
+2021, 2, 18,18, St. Louis Blues, 6, 1, 0, 0, 1, 19, 16, 146,28, San Jose Sharks, 4, 1, 3, 4, 2, 28, 9, 111,True
+2021, 2, 18,11, Toronto Maple Leafs, 7, 1, 2, 4, 1, 18, 27, 234,25, Ottawa Senators, 3, 1, 1, 2, 5, 38, 36, 282,True
+2021, 2, 18,21, Washington Capitals, 5, 1, 3, 6, 1, 27, 11, 150,26, Buffalo Sabres, 4, 1, 1, 0, 3, 29, 19, 152,True
+2021, 2, 19,5, Carolina Hurricanes, 7, 1, 3, 5, 3, 40, 32, 256,7, Chicago Blackhawks, 7, 1, 2, 3, 0, 29, 30, 346,True
+2021, 2, 19,27, Calgary Flames, 6, 1, 1, 3, 0, 4, 19, 187,29, Edmonton Oilers, 7, 1, 3, 6, 2, 35, 19, 214,False
+2021, 2, 19,19, Detroit Red Wings, 2, 1, 0, 0, 3, 24, 20, 171,4, Florida Panthers, 7, 1, 4, 6, 3, 35, 31, 256,False
+2021, 2, 19,22, Vancouver Canucks, 3, 1, 5, 9, 4, 27, 32, 224,24, Winnipeg Jets, 5, 1, 2, 4, 2, 31, 17, 193,False
+2021, 2, 20,23, Anaheim Ducks, 3, 0, 1, 2, 3, 27, 23, 190,8, Minnesota Wild, 5, 2, 3, 3, 1, 17, 12, 144,False
+2021, 2, 20,30, Arizona Coyotes, 5, 0, 2, 3, 2, 29, 26, 259,6, Los Angeles Kings, 5, 2, 2, 5, 2, 31, 14, 150,False
+2021, 2, 20,5, Carolina Hurricanes, 7, 1, 5, 5, 4, 37, 32, 245,20, Tampa Bay Lightning, 7, 1, 4, 7, 1, 34, 19, 155,True
+2021, 2, 20,13, Columbus Blue Jackets, 5, 1, 3, 6, 0, 32, 20, 143,12, Nashville Predators, 3, 1, 0, 0, 3, 24, 6, 64,False
+2021, 2, 20,9, Colorado Avalanche, 6, 1, 3, 7, 2, 29, 38, 382,31, Vegas Golden Knights, 6, 1, 2, 4, 3, 25, 21, 170,True
+2021, 2, 20,19, Detroit Red Wings, 2, 0, 2, 3, 3, 26, 23, 161,4, Florida Panthers, 7, 2, 7, 13, 6, 28, 30, 253,True
+2021, 2, 20,29, Edmonton Oilers, 8, 1, 2, 4, 2, 13, 16, 198,27, Calgary Flames, 5, 1, 1, 2, 5, 29, 20, 194,True
+2021, 2, 20,10, Montreal Canadiens, 6, 1, 2, 4, 1, 22, 17, 187,11, Toronto Maple Leafs, 7, 1, 7, 14, 1, 28, 29, 253,False
+2021, 2, 20,15, New Jersey Devils, 6, 1, 3, 6, 2, 27, 27, 276,26, Buffalo Sabres, 3, 1, 1, 2, 3, 21, 19, 144,False
+2021, 2, 20,17, Pittsburgh Penguins, 5, 2, 4, 7, 1, 32, 20, 161,14, New York Islanders, 5, 0, 1, 2, 3, 36, 16, 171,True
+2021, 2, 20,18, St. Louis Blues, 6, 1, 3, 6, 2, 32, 17, 159,28, San Jose Sharks, 4, 1, 2, 4, 1, 33, 10, 128,False
+2021, 2, 20,21, Washington Capitals, 5, 0, 3, 4, 1, 23, 11, 146,1, New York Rangers, 4, 2, 2, 4, 4, 36, 16, 150,False
+2021, 2, 21,0, Boston Bruins, 7, 2, 2, 2, 4, 42, 15, 140,16, Philadelphia Flyers, 5, 0, 2, 4, 2, 33, 24, 238,True
+2021, 2, 21,25, Ottawa Senators, 3, 1, 3, 4, 6, 26, 35, 244,10, Montreal Canadiens, 5, 1, 3, 4, 3, 31, 21, 192,True
+2021, 2, 21,22, Vancouver Canucks, 2, 1, 0, 0, 1, 36, 29, 213,24, Winnipeg Jets, 5, 1, 2, 1, 3, 30, 15, 191,False
+2021, 2, 21,21, Washington Capitals, 5, 1, 1, 1, 2, 8, 16, 141,15, New Jersey Devils, 5, 1, 2, 4, 6, 45, 34, 323,True
+2021, 2, 22,30, Arizona Coyotes, 5, 1, 2, 4, 3, 22, 27, 252,23, Anaheim Ducks, 3, 1, 0, 2, 5, 29, 23, 205,True
+2021, 2, 22,5, Carolina Hurricanes, 7, 2, 4, 7, 3, 29, 28, 232,20, Tampa Bay Lightning, 7, 0, 0, 0, 3, 27, 21, 148,False
+2021, 2, 22,9, Colorado Avalanche, 7, 2, 3, 5, 2, 29, 36, 377,31, Vegas Golden Knights, 6, 0, 2, 3, 3, 39, 21, 184,False
+2021, 2, 22,4, Florida Panthers, 6, 1, 1, 2, 2, 32, 26, 254,2, Dallas Stars, 3, 1, 3, 5, 4, 31, 22, 168,True
+2021, 2, 22,14, New York Islanders, 5, 2, 2, 2, 3, 18, 16, 153,26, Buffalo Sabres, 4, 0, 3, 6, 2, 27, 18, 150,True
+2021, 2, 22,28, San Jose Sharks, 4, 1, 5, 4, 3, 45, 11, 123,8, Minnesota Wild, 5, 1, 5, 8, 1, 27, 16, 152,False
+2021, 2, 22,18, St. Louis Blues, 5, 1, 4, 8, 5, 27, 20, 162,6, Los Angeles Kings, 5, 1, 4, 7, 2, 22, 15, 142,False
+2021, 2, 22,11, Toronto Maple Leafs, 7, 2, 5, 9, 3, 37, 31, 258,27, Calgary Flames, 4, 0, 1, 2, 2, 9, 19, 153,False
+2021, 2, 23,13, Columbus Blue Jackets, 4, 1, 2, 4, 0, 6, 15, 130,7, Chicago Blackhawks, 7, 1, 3, 5, 4, 37, 34, 354,False
+2021, 2, 23,19, Detroit Red Wings, 3, 1, 2, 3, 1, 39, 21, 174,12, Nashville Predators, 3, 1, 4, 3, 2, 23, 5, 63,False
+2021, 2, 23,15, New Jersey Devils, 4, 1, 3, 5, 3, 29, 32, 319,26, Buffalo Sabres, 4, 1, 2, 4, 3, 23, 19, 146,False
+2021, 2, 23,25, Ottawa Senators, 4, 1, 3, 5, 2, 32, 31, 261,10, Montreal Canadiens, 4, 1, 2, 2, 5, 27, 21, 200,True
+2021, 2, 23,22, Vancouver Canucks, 2, 1, 3, 5, 1, 30, 32, 208,29, Edmonton Oilers, 8, 1, 7, 12, 1, 21, 15, 229,False
+2021, 2, 23,21, Washington Capitals, 5, 1, 4, 8, 3, 23, 18, 158,17, Pittsburgh Penguins, 5, 1, 3, 6, 2, 35, 16, 169,False
+2021, 2, 24,30, Arizona Coyotes, 5, 2, 4, 6, 3, 28, 29, 270,23, Anaheim Ducks, 3, 0, 3, 4, 5, 31, 23, 195,True
+2021, 2, 24,9, Colorado Avalanche, 6, 1, 0, 0, 3, 28, 37, 384,8, Minnesota Wild, 5, 1, 6, 12, 2, 33, 14, 132,False
+2021, 2, 24,4, Florida Panthers, 7, 2, 3, 2, 1, 25, 25, 243,2, Dallas Stars, 2, 0, 1, 1, 2, 51, 20, 188,False
+2021, 2, 24,16, Philadelphia Flyers, 5, 1, 3, 6, 1, 12, 27, 217,1, New York Rangers, 5, 1, 4, 5, 1, 27, 13, 141,True
+2021, 2, 24,18, St. Louis Blues, 4, 0, 0, 0, 2, 30, 17, 165,6, Los Angeles Kings, 5, 2, 3, 2, 2, 24, 13, 144,False
+2021, 2, 24,20, Tampa Bay Lightning, 7, 1, 4, 7, 2, 36, 20, 157,5, Carolina Hurricanes, 6, 1, 2, 5, 0, 24, 28, 234,True
+2021, 2, 24,11, Toronto Maple Leafs, 7, 1, 0, 0, 3, 33, 31, 254,27, Calgary Flames, 5, 1, 3, 6, 0, 34, 21, 205,True
+2021, 2, 25,26, Buffalo Sabres, 4, 2, 4, 6, 1, 42, 17, 165,15, New Jersey Devils, 4, 0, 1, 2, 3, 36, 32, 326,False
+2021, 2, 25,13, Columbus Blue Jackets, 4, 0, 5, 9, 5, 34, 20, 158,7, Chicago Blackhawks, 7, 2, 5, 10, 2, 29, 35, 347,False
+2021, 2, 25,19, Detroit Red Wings, 3, 1, 0, 0, 2, 33, 22, 168,12, Nashville Predators, 4, 1, 2, 4, 0, 24, 3, 64,True
+2021, 2, 25,4, Florida Panthers, 6, 1, 0, 0, 2, 27, 24, 232,2, Dallas Stars, 2, 1, 3, 5, 3, 21, 18, 180,True
+2021, 2, 25,14, New York Islanders, 6, 2, 3, 6, 2, 36, 15, 171,0, Boston Bruins, 7, 0, 7, 12, 3, 26, 8, 126,True
+2021, 2, 25,25, Ottawa Senators, 4, 1, 4, 8, 4, 36, 34, 265,27, Calgary Flames, 5, 1, 1, 2, 2, 39, 23, 210,True
+2021, 2, 25,20, Tampa Bay Lightning, 7, 2, 2, 5, 6, 21, 18, 146,5, Carolina Hurricanes, 6, 0, 0, 0, 3, 31, 30, 237,True
+2021, 2, 25,22, Vancouver Canucks, 2, 0, 4, 4, 4, 29, 33, 204,29, Edmonton Oilers, 8, 2, 4, 8, 3, 33, 17, 241,False
+2021, 2, 25,24, Winnipeg Jets, 6, 1, 4, 7, 3, 34, 13, 180,10, Montreal Canadiens, 4, 1, 4, 5, 4, 39, 20, 212,True
+2021, 2, 25,21, Washington Capitals, 4, 1, 2, 3, 3, 37, 20, 168,17, Pittsburgh Penguins, 6, 1, 3, 6, 2, 22, 13, 150,True
+2021, 2, 26,30, Arizona Coyotes, 6, 1, 3, 6, 0, 14, 23, 243,9, Colorado Avalanche, 6, 1, 2, 4, 4, 33, 37, 375,False
+2021, 2, 26,8, Minnesota Wild, 6, 1, 6, 9, 2, 31, 14, 131,6, Los Angeles Kings, 6, 1, 2, 3, 0, 31, 12, 156,True
+2021, 2, 26,1, New York Rangers, 4, 0, 3, 6, 2, 22, 16, 153,0, Boston Bruins, 6, 2, 2, 4, 3, 19, 12, 137,True
+2021, 2, 27,23, Anaheim Ducks, 3, 1, 2, 5, 4, 25, 21, 198,31, Vegas Golden Knights, 6, 1, 3, 5, 0, 34, 16, 176,False
+2021, 2, 27,30, Arizona Coyotes, 5, 1, 2, 4, 5, 35, 24, 243,9, Colorado Avalanche, 6, 1, 3, 4, 5, 24, 35, 360,False
+2021, 2, 27,26, Buffalo Sabres, 3, 1, 4, 6, 4, 25, 18, 140,16, Philadelphia Flyers, 6, 1, 7, 9, 3, 27, 28, 229,False
+2021, 2, 27,7, Chicago Blackhawks, 8, 2, 2, 3, 0, 26, 33, 344,19, Detroit Red Wings, 4, 0, 5, 7, 2, 39, 22, 174,False
+2021, 2, 27,29, Edmonton Oilers, 8, 1, 3, 5, 0, 32, 13, 237,11, Toronto Maple Leafs, 7, 1, 2, 3, 2, 33, 24, 254,False
+2021, 2, 27,4, Florida Panthers, 7, 2, 3, 6, 2, 39, 23, 234,5, Carolina Hurricanes, 5, 0, 1, 2, 2, 21, 24, 238,False
+2021, 2, 27,8, Minnesota Wild, 7, 1, 3, 6, 2, 32, 13, 128,6, Los Angeles Kings, 6, 1, 1, 2, 1, 36, 13, 152,True
+2021, 2, 27,15, New Jersey Devils, 4, 1, 4, 7, 3, 32, 32, 322,21, Washington Capitals, 4, 1, 5, 7, 2, 28, 16, 160,False
+2021, 2, 27,12, Nashville Predators, 4, 1, 2, 4, 2, 21, 7, 71,13, Columbus Blue Jackets, 4, 1, 0, 0, 1, 26, 12, 167,True
+2021, 2, 27,14, New York Islanders, 7, 0, 7, 9, 2, 36, 19, 182,17, Pittsburgh Penguins, 6, 2, 2, 2, 3, 33, 16, 157,False
+2021, 2, 27,25, Ottawa Senators, 5, 2, 6, 6, 1, 30, 31, 259,27, Calgary Flames, 4, 0, 1, 2, 4, 20, 24, 191,False
+2021, 2, 27,28, San Jose Sharks, 4, 1, 2, 5, 1, 13, 9, 79,18, St. Louis Blues, 3, 1, 1, 2, 2, 20, 18, 171,False
+2021, 2, 27,20, Tampa Bay Lightning, 7, 0, 3, 2, 0, 25, 13, 157,2, Dallas Stars, 2, 2, 2, 4, 0, 43, 18, 194,True
+2021, 2, 27,24, Winnipeg Jets, 7, 2, 6, 12, 3, 21, 13, 167,10, Montreal Canadiens, 3, 0, 3, 7, 3, 39, 21, 202,True
+2021, 2, 28,26, Buffalo Sabres, 3, 0, 0, 1, 1, 9, 17, 154,16, Philadelphia Flyers, 6, 2, 3, 6, 6, 23, 25, 225,False
+2021, 2, 28,7, Chicago Blackhawks, 7, 1, 3, 6, 5, 30, 38, 350,19, Detroit Red Wings, 4, 1, 5, 8, 4, 13, 23, 171,True
+2021, 2, 28,15, New Jersey Devils, 4, 0, 1, 3, 4, 23, 33, 313,21, Washington Capitals, 5, 2, 5, 8, 3, 27, 16, 156,False
+2021, 2, 28,12, Nashville Predators, 4, 2, 2, 2, 1, 30, 6, 80,13, Columbus Blue Jackets, 3, 0, 1, 2, 2, 33, 13, 174,True
+2021, 2, 28,14, New York Islanders, 6, 0, 3, 6, 0, 20, 24, 196,17, Pittsburgh Penguins, 6, 2, 4, 5, 3, 29, 21, 154,True
+2021, 2, 28,1, New York Rangers, 5, 1, 6, 11, 2, 33, 16, 169,0, Boston Bruins, 6, 1, 2, 4, 6, 34, 25, 131,False
+2021, 3, 1,23, Anaheim Ducks, 2, 0, 3, 3, 3, 27, 21, 197,18, St. Louis Blues, 4, 2, 7, 10, 2, 21, 17, 137,False
+2021, 3, 1,29, Edmonton Oilers, 8, 1, 0, 0, 1, 44, 17, 234,11, Toronto Maple Leafs, 7, 1, 4, 8, 1, 22, 22, 251,False
+2021, 3, 1,4, Florida Panthers, 6, 1, 3, 6, 2, 25, 24, 247,5, Carolina Hurricanes, 6, 1, 3, 6, 2, 27, 25, 248,False
+2021, 3, 1,25, Ottawa Senators, 5, 1, 3, 5, 6, 33, 32, 233,27, Calgary Flames, 4, 1, 6, 8, 3, 34, 19, 189,True
+2021, 3, 1,28, San Jose Sharks, 4, 0, 6, 9, 4, 20, 15, 97,9, Colorado Avalanche, 6, 2, 6, 10, 2, 25, 34, 362,True
+2021, 3, 1,31, Vegas Golden Knights, 7, 1, 3, 5, 2, 30, 23, 178,8, Minnesota Wild, 7, 1, 4, 8, 1, 28, 20, 142,True
+2021, 3, 1,24, Winnipeg Jets, 7, 2, 2, 3, 1, 41, 10, 196,22, Vancouver Canucks, 2, 0, 0, 0, 2, 33, 31, 208,False
+2021, 3, 2,13, Columbus Blue Jackets, 3, 1, 1, 2, 3, 29, 14, 170,19, Detroit Red Wings, 4, 1, 2, 6, 3, 36, 26, 190,True
+2021, 3, 2,2, Dallas Stars, 2, 1, 0, 0, 5, 16, 20, 137,20, Tampa Bay Lightning, 7, 1, 6, 7, 0, 20, 13, 152,False
+2021, 3, 2,10, Montreal Canadiens, 2, 0, 1, 2, 5, 29, 20, 184,25, Ottawa Senators, 6, 2, 5, 5, 0, 5, 27, 228,True
+2021, 3, 2,15, New Jersey Devils, 4, 1, 2, 4, 4, 41, 32, 313,14, New York Islanders, 6, 1, 2, 4, 4, 31, 17, 173,False
+2021, 3, 2,12, Nashville Predators, 5, 0, 3, 5, 1, 29, 6, 79,5, Carolina Hurricanes, 6, 2, 3, 6, 3, 31, 25, 267,False
+2021, 3, 2,1, New York Rangers, 4, 1, 1, 2, 1, 2, 13, 132,26, Buffalo Sabres, 2, 1, 0, 0, 3, 39, 19, 183,True
+2021, 3, 2,17, Pittsburgh Penguins, 6, 0, 0, 0, 3, 27, 17, 150,16, Philadelphia Flyers, 6, 2, 3, 6, 0, 28, 23, 241,True
+2021, 3, 2,24, Winnipeg Jets, 6, 1, 0, 0, 0, 29, 12, 173,22, Vancouver Canucks, 3, 1, 4, 7, 4, 31, 29, 202,True
+2021, 3, 3,23, Anaheim Ducks, 2, 0, 5, 6, 4, 34, 23, 195,18, St. Louis Blues, 5, 2, 5, 8, 4, 19, 19, 129,False
+2021, 3, 3,0, Boston Bruins, 6, 1, 2, 7, 1, 21, 16, 120,21, Washington Capitals, 6, 1, 3, 6, 2, 24, 18, 158,False
+2021, 3, 3,29, Edmonton Oilers, 7, 0, 0, 1, 0, 13, 21, 199,11, Toronto Maple Leafs, 7, 2, 3, 6, 3, 33, 21, 260,False
+2021, 3, 3,6, Los Angeles Kings, 6, 2, 3, 4, 3, 30, 16, 158,30, Arizona Coyotes, 4, 0, 2, 4, 5, 40, 30, 248,False
+2021, 3, 3,28, San Jose Sharks, 4, 1, 6, 10, 2, 35, 11, 91,9, Colorado Avalanche, 5, 1, 2, 4, 5, 26, 35, 352,False
+2021, 3, 3,31, Vegas Golden Knights, 7, 1, 5, 9, 4, 30, 25, 178,8, Minnesota Wild, 7, 1, 4, 4, 5, 39, 24, 153,True
+2021, 3, 4,5, Carolina Hurricanes, 6, 1, 3, 9, 2, 46, 24, 274,19, Detroit Red Wings, 4, 1, 1, 2, 4, 27, 20, 158,True
+2021, 3, 4,27, Calgary Flames, 3, 1, 1, 1, 4, 35, 29, 208,25, Ottawa Senators, 6, 1, 1, 1, 1, 28, 29, 255,True
+2021, 3, 4,7, Chicago Blackhawks, 7, 0, 7, 11, 2, 46, 35, 366,20, Tampa Bay Lightning, 7, 2, 2, 3, 0, 28, 13, 160,False
+2021, 3, 4,2, Dallas Stars, 1, 1, 0, 0, 1, 18, 16, 139,13, Columbus Blue Jackets, 3, 1, 4, 6, 1, 20, 12, 161,False
+2021, 3, 4,10, Montreal Canadiens, 3, 0, 3, 6, 2, 21, 16, 182,24, Winnipeg Jets, 7, 2, 5, 8, 3, 18, 14, 177,False
+2021, 3, 4,15, New Jersey Devils, 4, 2, 1, 1, 3, 23, 30, 292,1, New York Rangers, 4, 0, 3, 5, 2, 24, 11, 156,False
+2021, 3, 4,12, Nashville Predators, 5, 1, 2, 5, 1, 17, 4, 46,4, Florida Panthers, 5, 1, 2, 3, 3, 33, 24, 260,False
+2021, 3, 4,14, New York Islanders, 7, 2, 2, 4, 0, 20, 14, 171,26, Buffalo Sabres, 2, 0, 2, 4, 3, 38, 19, 163,True
+2021, 3, 4,17, Pittsburgh Penguins, 7, 1, 5, 6, 2, 42, 16, 155,16, Philadelphia Flyers, 5, 1, 0, 3, 0, 23, 27, 228,False
+2021, 3, 4,22, Vancouver Canucks, 3, 0, 1, 3, 0, 27, 29, 209,11, Toronto Maple Leafs, 7, 2, 6, 10, 0, 31, 19, 254,True
+2021, 3, 5,30, Arizona Coyotes, 4, 0, 3, 4, 2, 42, 27, 250,8, Minnesota Wild, 6, 2, 1, 2, 3, 28, 23, 141,False
+2021, 3, 5,0, Boston Bruins, 5, 1, 3, 1, 7, 37, 18, 131,21, Washington Capitals, 7, 1, 1, 2, 1, 19, 12, 153,True
+2021, 3, 5,7, Chicago Blackhawks, 6, 0, 2, 4, 5, 32, 36, 354,20, Tampa Bay Lightning, 7, 2, 3, 3, 1, 32, 15, 169,True
+2021, 3, 5,9, Colorado Avalanche, 6, 1, 4, 8, 0, 26, 33, 353,23, Anaheim Ducks, 1, 1, 2, 5, 3, 21, 22, 186,True
+2021, 3, 5,6, Los Angeles Kings, 6, 2, 2, 4, 4, 42, 16, 151,18, St. Louis Blues, 6, 0, 3, 6, 4, 33, 19, 145,False
+2021, 3, 5,28, San Jose Sharks, 4, 0, 0, 0, 4, 38, 13, 78,31, Vegas Golden Knights, 7, 2, 5, 8, 6, 37, 20, 195,False
+2021, 3, 6,30, Arizona Coyotes, 4, 0, 1, 2, 3, 21, 30, 235,8, Minnesota Wild, 7, 2, 5, 7, 4, 27, 16, 126,True
+2021, 3, 6,9, Colorado Avalanche, 6, 1, 3, 6, 2, 18, 35, 355,23, Anaheim Ducks, 1, 1, 2, 1, 3, 28, 22, 199,False
+2021, 3, 6,2, Dallas Stars, 1, 0, 2, 4, 0, 5, 18, 143,13, Columbus Blue Jackets, 3, 2, 3, 4, 2, 24, 16, 162,True
+2021, 3, 6,29, Edmonton Oilers, 6, 2, 1, 3, 6, 32, 26, 209,27, Calgary Flames, 4, 0, 7, 10, 5, 15, 31, 214,True
+2021, 3, 6,6, Los Angeles Kings, 6, 1, 2, 3, 3, 23, 14, 144,18, St. Louis Blues, 6, 1, 3, 6, 2, 29, 17, 142,True
+2021, 3, 6,10, Montreal Canadiens, 2, 0, 3, 6, 1, 27, 18, 188,24, Winnipeg Jets, 7, 2, 4, 5, 3, 36, 17, 192,True
+2021, 3, 6,15, New Jersey Devils, 3, 1, 1, 2, 4, 15, 31, 268,1, New York Rangers, 5, 1, 6, 8, 0, 3, 11, 120,False
+2021, 3, 6,12, Nashville Predators, 5, 0, 4, 8, 5, 38, 8, 67,4, Florida Panthers, 6, 2, 5, 8, 4, 35, 28, 259,False
+2021, 3, 6,14, New York Islanders, 7, 2, 5, 8, 1, 29, 10, 164,26, Buffalo Sabres, 2, 0, 2, 3, 3, 19, 21, 170,True
+2021, 3, 6,17, Pittsburgh Penguins, 6, 1, 2, 4, 4, 35, 18, 148,16, Philadelphia Flyers, 5, 1, 7, 8, 3, 29, 30, 237,True
+2021, 3, 6,28, San Jose Sharks, 3, 0, 4, 4, 2, 19, 7, 36,31, Vegas Golden Knights, 7, 2, 5, 9, 1, 37, 18, 187,False
+2021, 3, 6,22, Vancouver Canucks, 4, 1, 3, 4, 1, 32, 29, 237,11, Toronto Maple Leafs, 7, 1, 1, 3, 1, 27, 24, 246,True
+2021, 3, 7,0, Boston Bruins, 5, 0, 5, 9, 1, 28, 10, 136,15, New Jersey Devils, 2, 2, 3, 6, 3, 31, 32, 280,False
+2021, 3, 7,5, Carolina Hurricanes, 6, 2, 6, 10, 2, 38, 26, 258,4, Florida Panthers, 6, 0, 6, 8, 3, 31, 26, 254,True
+2021, 3, 7,27, Calgary Flames, 3, 1, 2, 4, 3, 33, 26, 234,25, Ottawa Senators, 5, 1, 3, 6, 4, 11, 34, 219,False
+2021, 3, 7,7, Chicago Blackhawks, 7, 1, 3, 5, 3, 34, 34, 364,20, Tampa Bay Lightning, 7, 1, 3, 6, 2, 37, 17, 164,False
+2021, 3, 7,2, Dallas Stars, 2, 2, 4, 7, 0, 21, 18, 159,12, Nashville Predators, 4, 0, 2, 5, 6, 32, 9, 61,False
+2021, 3, 7,14, New York Islanders, 7, 2, 5, 10, 2, 18, 11, 157,26, Buffalo Sabres, 2, 0, 2, 4, 5, 45, 23, 180,True
+2021, 3, 7,16, Philadelphia Flyers, 5, 2, 3, 5, 5, 27, 31, 235,21, Washington Capitals, 7, 0, 1, 2, 1, 7, 16, 140,False
+2021, 3, 7,17, Pittsburgh Penguins, 6, 1, 4, 7, 2, 30, 15, 145,1, New York Rangers, 6, 1, 6, 11, 3, 27, 14, 144,True
+2021, 3, 8,23, Anaheim Ducks, 1, 2, 5, 8, 3, 34, 23, 204,6, Los Angeles Kings, 6, 0, 4, 8, 3, 22, 14, 146,True
+2021, 3, 8,9, Colorado Avalanche, 6, 2, 4, 8, 2, 28, 39, 357,30, Arizona Coyotes, 5, 0, 5, 10, 2, 34, 25, 270,False
+2021, 3, 8,29, Edmonton Oilers, 6, 2, 3, 6, 3, 10, 23, 189,25, Ottawa Senators, 5, 0, 3, 6, 3, 18, 33, 242,True
+2021, 3, 8,8, Minnesota Wild, 7, 0, 2, 3, 1, 25, 17, 140,31, Vegas Golden Knights, 8, 2, 3, 3, 0, 24, 17, 174,True
+2021, 3, 8,28, San Jose Sharks, 3, 1, 0, 0, 4, 32, 9, 49,18, St. Louis Blues, 5, 1, 3, 6, 2, 30, 21, 157,True
+2021, 3, 8,22, Vancouver Canucks, 4, 0, 4, 7, 2, 39, 30, 233,10, Montreal Canadiens, 3, 2, 7, 12, 1, 29, 16, 179,True
+2021, 3, 9,5, Carolina Hurricanes, 7, 2, 4, 7, 2, 35, 26, 243,12, Nashville Predators, 5, 0, 3, 3, 3, 38, 6, 67,True
+2021, 3, 9,13, Columbus Blue Jackets, 3, 1, 0, 0, 4, 22, 17, 159,4, Florida Panthers, 5, 1, 2, 3, 2, 30, 27, 234,False
+2021, 3, 9,2, Dallas Stars, 2, 0, 4, 7, 3, 22, 21, 158,7, Chicago Blackhawks, 6, 2, 3, 4, 3, 42, 37, 369,True
+2021, 3, 9,19, Detroit Red Wings, 3, 0, 2, 3, 0, 9, 20, 162,20, Tampa Bay Lightning, 7, 2, 6, 12, 3, 25, 18, 152,False
+2021, 3, 9,14, New York Islanders, 7, 2, 5, 8, 2, 22, 15, 185,0, Boston Bruins, 4, 0, 0, 0, 1, 32, 11, 128,True
+2021, 3, 9,16, Philadelphia Flyers, 5, 2, 1, 1, 3, 27, 29, 235,26, Buffalo Sabres, 2, 0, 1, 3, 4, 29, 22, 164,True
+2021, 3, 9,17, Pittsburgh Penguins, 7, 1, 5, 9, 3, 22, 15, 136,1, New York Rangers, 6, 1, 1, 2, 2, 18, 11, 130,True
+2021, 3, 9,11, Toronto Maple Leafs, 7, 1, 2, 4, 4, 31, 27, 250,24, Winnipeg Jets, 7, 1, 1, 2, 4, 19, 19, 151,False
+2021, 3, 9,21, Washington Capitals, 7, 2, 3, 6, 4, 18, 17, 156,15, New Jersey Devils, 2, 0, 1, 2, 0, 40, 28, 286,True
+2021, 3, 10,23, Anaheim Ducks, 2, 2, 6, 11, 5, 26, 25, 196,6, Los Angeles Kings, 5, 0, 5, 8, 0, 0, 17, 134,False
+2021, 3, 10,9, Colorado Avalanche, 5, 1, 2, 5, 3, 14, 39, 354,30, Arizona Coyotes, 5, 1, 3, 6, 0, 16, 25, 234,True
+2021, 3, 10,29, Edmonton Oilers, 7, 2, 3, 4, 2, 36, 22, 207,25, Ottawa Senators, 5, 0, 2, 4, 3, 34, 33, 261,True
+2021, 3, 10,8, Minnesota Wild, 7, 1, 2, 3, 0, 26, 14, 135,31, Vegas Golden Knights, 7, 1, 1, 0, 1, 21, 21, 166,True
+2021, 3, 10,22, Vancouver Canucks, 5, 1, 1, 2, 1, 30, 29, 224,10, Montreal Canadiens, 3, 1, 1, 2, 1, 29, 17, 187,False
+2021, 3, 11,0, Boston Bruins, 3, 1, 1, 2, 1, 27, 11, 123,1, New York Rangers, 6, 1, 1, 4, 3, 6, 14, 168,True
+2021, 3, 11,26, Buffalo Sabres, 1, 1, 5, 8, 4, 33, 22, 168,17, Pittsburgh Penguins, 7, 1, 4, 6, 2, 35, 21, 159,False
+2021, 3, 11,5, Carolina Hurricanes, 7, 2, 3, 3, 2, 23, 26, 231,12, Nashville Predators, 5, 0, 2, 2, 3, 35, 6, 64,True
+2021, 3, 11,13, Columbus Blue Jackets, 3, 1, 2, 3, 4, 39, 16, 179,4, Florida Panthers, 5, 1, 4, 6, 2, 40, 26, 254,False
+2021, 3, 11,27, Calgary Flames, 3, 1, 3, 6, 3, 22, 22, 194,10, Montreal Canadiens, 3, 1, 5, 9, 4, 27, 14, 169,True
+2021, 3, 11,2, Dallas Stars, 3, 1, 6, 10, 1, 22, 19, 158,7, Chicago Blackhawks, 5, 1, 1, 1, 6, 39, 40, 364,False
+2021, 3, 11,19, Detroit Red Wings, 3, 0, 3, 6, 4, 31, 24, 182,20, Tampa Bay Lightning, 8, 2, 4, 7, 3, 27, 18, 150,True
+2021, 3, 11,14, New York Islanders, 8, 1, 1, 2, 2, 26, 13, 191,15, New Jersey Devils, 2, 1, 4, 7, 5, 27, 30, 263,True
+2021, 3, 11,16, Philadelphia Flyers, 5, 1, 4, 8, 1, 12, 26, 201,21, Washington Capitals, 7, 1, 5, 7, 1, 37, 15, 169,False
+2021, 3, 11,11, Toronto Maple Leafs, 6, 1, 3, 5, 4, 23, 23, 202,24, Winnipeg Jets, 7, 1, 4, 8, 3, 39, 18, 171,True
+2021, 3, 12,23, Anaheim Ducks, 2, 1, 1, 2, 5, 37, 25, 220,28, San Jose Sharks, 4, 1, 3, 5, 2, 26, 7, 43,False
+2021, 3, 12,9, Colorado Avalanche, 5, 1, 2, 3, 1, 14, 37, 367,6, Los Angeles Kings, 5, 1, 4, 6, 6, 25, 18, 168,True
+2021, 3, 12,29, Edmonton Oilers, 7, 2, 7, 12, 1, 22, 21, 193,25, Ottawa Senators, 5, 0, 1, 2, 3, 37, 37, 263,True
+2021, 3, 12,8, Minnesota Wild, 7, 1, 4, 5, 4, 30, 15, 144,30, Arizona Coyotes, 5, 1, 1, 2, 3, 29, 27, 253,True
+2021, 3, 12,18, St. Louis Blues, 5, 1, 2, 4, 4, 34, 20, 149,31, Vegas Golden Knights, 6, 1, 3, 5, 4, 29, 24, 176,False
+2021, 3, 13,23, Anaheim Ducks, 2, 0, 0, 0, 1, 3, 22, 177,28, San Jose Sharks, 4, 2, 6, 10, 3, 8, 5, 51,False
+2021, 3, 13,0, Boston Bruins, 4, 2, 3, 6, 0, 27, 13, 109,1, New York Rangers, 5, 0, 0, 2, 0, 13, 12, 163,False
+2021, 3, 13,26, Buffalo Sabres, 1, 0, 2, 4, 5, 29, 22, 161,17, Pittsburgh Penguins, 7, 2, 5, 5, 1, 24, 21, 141,False
+2021, 3, 13,13, Columbus Blue Jackets, 2, 1, 4, 7, 5, 32, 21, 159,2, Dallas Stars, 3, 1, 1, 3, 0, 8, 19, 132,True
+2021, 3, 13,27, Calgary Flames, 4, 2, 2, 4, 1, 18, 20, 197,10, Montreal Canadiens, 3, 0, 1, 1, 1, 24, 12, 176,True
+2021, 3, 13,4, Florida Panthers, 6, 2, 4, 10, 4, 32, 28, 246,7, Chicago Blackhawks, 5, 0, 4, 6, 2, 30, 36, 355,True
+2021, 3, 13,15, New Jersey Devils, 2, 0, 3, 6, 5, 33, 30, 274,14, New York Islanders, 9, 2, 5, 5, 1, 33, 18, 193,False
+2021, 3, 13,16, Philadelphia Flyers, 5, 0, 3, 5, 4, 21, 25, 205,21, Washington Capitals, 8, 2, 5, 6, 3, 33, 16, 169,False
+2021, 3, 13,18, St. Louis Blues, 4, 1, 4, 8, 3, 20, 17, 158,31, Vegas Golden Knights, 7, 1, 6, 9, 4, 23, 24, 170,False
+2021, 3, 13,20, Tampa Bay Lightning, 8, 2, 4, 6, 3, 23, 20, 145,12, Nashville Predators, 4, 0, 1, 1, 5, 23, 8, 55,True
+2021, 3, 13,11, Toronto Maple Leafs, 6, 1, 4, 8, 3, 27, 22, 206,24, Winnipeg Jets, 7, 1, 3, 4, 3, 9, 19, 170,False
+2021, 3, 13,22, Vancouver Canucks, 4, 0, 1, 2, 5, 45, 30, 242,29, Edmonton Oilers, 7, 2, 6, 10, 2, 28, 17, 204,True
+2021, 3, 14,13, Columbus Blue Jackets, 3, 1, 4, 7, 3, 32, 17, 157,2, Dallas Stars, 3, 1, 4, 9, 4, 26, 23, 150,False
+2021, 3, 14,9, Colorado Avalanche, 6, 1, 2, 3, 0, 18, 37, 366,6, Los Angeles Kings, 4, 1, 1, 0, 1, 45, 13, 188,True
+2021, 3, 14,19, Detroit Red Wings, 4, 1, 6, 9, 4, 44, 24, 195,5, Carolina Hurricanes, 7, 1, 5, 9, 2, 23, 27, 236,False
+2021, 3, 14,8, Minnesota Wild, 7, 1, 4, 7, 0, 25, 11, 139,30, Arizona Coyotes, 5, 1, 0, 0, 2, 46, 27, 255,True
+2021, 3, 14,15, New Jersey Devils, 2, 0, 2, 4, 5, 30, 28, 270,14, New York Islanders, 9, 2, 3, 3, 3, 22, 19, 188,False
+2021, 3, 14,25, Ottawa Senators, 4, 0, 2, 4, 6, 37, 40, 263,11, Toronto Maple Leafs, 5, 2, 2, 3, 3, 28, 24, 211,True
+2021, 3, 15,26, Buffalo Sabres, 0, 1, 0, 0, 1, 32, 18, 164,21, Washington Capitals, 8, 1, 5, 9, 4, 31, 18, 178,False
+2021, 3, 15,27, Calgary Flames, 5, 0, 3, 5, 1, 25, 20, 190,29, Edmonton Oilers, 6, 2, 1, 2, 2, 25, 18, 201,True
+2021, 3, 15,4, Florida Panthers, 6, 2, 4, 8, 2, 32, 25, 221,7, Chicago Blackhawks, 5, 0, 2, 4, 4, 35, 38, 360,True
+2021, 3, 15,1, New York Rangers, 5, 1, 3, 6, 0, 18, 13, 156,16, Philadelphia Flyers, 5, 1, 4, 6, 2, 13, 24, 196,False
+2021, 3, 15,25, Ottawa Senators, 4, 0, 4, 6, 3, 36, 37, 262,22, Vancouver Canucks, 5, 2, 2, 4, 1, 35, 28, 238,False
+2021, 3, 15,17, Pittsburgh Penguins, 7, 0, 3, 6, 2, 23, 17, 153,0, Boston Bruins, 4, 2, 1, 0, 4, 33, 17, 115,True
+2021, 3, 15,20, Tampa Bay Lightning, 8, 2, 6, 11, 5, 22, 20, 153,12, Nashville Predators, 3, 0, 3, 6, 5, 27, 8, 59,False
+2021, 3, 15,31, Vegas Golden Knights, 8, 2, 5, 6, 1, 35, 21, 182,28, San Jose Sharks, 5, 0, 3, 4, 0, 34, 3, 70,True
+2021, 3, 15,24, Winnipeg Jets, 7, 1, 5, 10, 4, 38, 17, 158,10, Montreal Canadiens, 3, 1, 1, 3, 3, 36, 19, 200,False
+2021, 3, 16,9, Colorado Avalanche, 7, 1, 4, 8, 5, 27, 35, 339,23, Anaheim Ducks, 2, 1, 1, 2, 3, 33, 22, 195,True
+2021, 3, 16,2, Dallas Stars, 3, 0, 1, 2, 1, 30, 20, 154,20, Tampa Bay Lightning, 7, 2, 1, 2, 3, 31, 18, 156,False
+2021, 3, 16,19, Detroit Red Wings, 4, 0, 1, 3, 2, 32, 22, 183,5, Carolina Hurricanes, 8, 2, 2, 2, 1, 33, 24, 242,True
+2021, 3, 16,8, Minnesota Wild, 7, 2, 4, 8, 3, 27, 14, 138,30, Arizona Coyotes, 4, 0, 1, 0, 3, 31, 26, 229,True
+2021, 3, 16,15, New Jersey Devils, 1, 1, 2, 4, 3, 29, 30, 286,26, Buffalo Sabres, 0, 1, 0, 0, 4, 26, 23, 162,True
+2021, 3, 16,17, Pittsburgh Penguins, 8, 1, 4, 8, 0, 24, 16, 162,0, Boston Bruins, 3, 1, 1, 2, 0, 0, 16, 107,False
+2021, 3, 16,21, Washington Capitals, 9, 2, 6, 9, 4, 32, 13, 157,14, New York Islanders, 9, 0, 2, 4, 2, 28, 17, 189,True
+2021, 3, 17,27, Calgary Flames, 5, 1, 4, 7, 3, 31, 24, 198,29, Edmonton Oilers, 5, 1, 3, 5, 4, 27, 20, 203,False
+2021, 3, 17,6, Los Angeles Kings, 3, 1, 0, 2, 3, 40, 15, 183,18, St. Louis Blues, 4, 1, 1, 2, 5, 40, 23, 161,True
+2021, 3, 17,1, New York Rangers, 5, 0, 4, 8, 4, 14, 18, 168,16, Philadelphia Flyers, 5, 2, 5, 8, 3, 10, 26, 207,True
+2021, 3, 17,25, Ottawa Senators, 3, 0, 2, 3, 3, 28, 37, 254,22, Vancouver Canucks, 6, 2, 3, 4, 2, 46, 37, 250,False
+2021, 3, 17,31, Vegas Golden Knights, 8, 2, 2, 4, 1, 24, 21, 171,28, San Jose Sharks, 4, 0, 1, 2, 2, 36, 5, 72,True
+2021, 3, 17,24, Winnipeg Jets, 6, 0, 2, 4, 3, 30, 16, 150,10, Montreal Canadiens, 4, 2, 4, 5, 2, 36, 18, 200,True
+2021, 3, 18,23, Anaheim Ducks, 2, 0, 4, 5, 7, 35, 26, 202,30, Arizona Coyotes, 3, 2, 0, 0, 3, 26, 25, 230,True
+2021, 3, 18,26, Buffalo Sabres, 0, 0, 2, 4, 6, 30, 22, 163,0, Boston Bruins, 4, 2, 2, 4, 3, 25, 17, 142,False
+2021, 3, 18,5, Carolina Hurricanes, 8, 1, 2, 4, 1, 26, 26, 236,13, Columbus Blue Jackets, 3, 1, 1, 2, 1, 35, 14, 160,False
+2021, 3, 18,9, Colorado Avalanche, 7, 1, 8, 15, 0, 15, 34, 305,8, Minnesota Wild, 7, 1, 3, 5, 1, 22, 14, 143,True
+2021, 3, 18,19, Detroit Red Wings, 4, 0, 4, 6, 2, 37, 22, 188,2, Dallas Stars, 3, 2, 3, 6, 3, 36, 22, 160,True
+2021, 3, 18,29, Edmonton Oilers, 5, 1, 7, 13, 2, 28, 23, 242,24, Winnipeg Jets, 6, 1, 4, 7, 2, 22, 16, 156,True
+2021, 3, 18,4, Florida Panthers, 7, 2, 6, 11, 3, 29, 28, 212,12, Nashville Predators, 4, 0, 4, 7, 2, 10, 4, 71,False
+2021, 3, 18,15, New Jersey Devils, 2, 0, 3, 6, 2, 34, 29, 292,17, Pittsburgh Penguins, 7, 2, 1, 2, 1, 43, 21, 180,True
+2021, 3, 18,14, New York Islanders, 9, 0, 1, 0, 3, 22, 14, 171,16, Philadelphia Flyers, 4, 2, 0, 0, 4, 16, 32, 235,False
+2021, 3, 18,20, Tampa Bay Lightning, 7, 1, 3, 6, 3, 27, 18, 152,7, Chicago Blackhawks, 4, 1, 3, 5, 4, 34, 38, 359,True
+2021, 3, 19,6, Los Angeles Kings, 3, 0, 5, 7, 3, 25, 13, 163,31, Vegas Golden Knights, 8, 2, 5, 11, 3, 32, 24, 180,False
+2021, 3, 19,10, Montreal Canadiens, 4, 1, 3, 5, 2, 29, 20, 194,22, Vancouver Canucks, 7, 1, 2, 3, 2, 32, 32, 226,False
+2021, 3, 19,28, San Jose Sharks, 4, 1, 4, 8, 1, 27, 8, 73,18, St. Louis Blues, 4, 1, 1, 0, 3, 23, 20, 150,False
+2021, 3, 19,11, Toronto Maple Leafs, 5, 1, 5, 6, 2, 28, 18, 185,27, Calgary Flames, 5, 1, 3, 5, 7, 30, 33, 239,False
+2021, 3, 19,21, Washington Capitals, 9, 0, 3, 6, 0, 23, 11, 152,1, New York Rangers, 5, 2, 9, 14, 0, 26, 14, 180,True
+2021, 3, 20,23, Anaheim Ducks, 3, 1, 3, 6, 2, 25, 19, 177,30, Arizona Coyotes, 3, 1, 2, 2, 3, 34, 25, 243,False
+2021, 3, 20,5, Carolina Hurricanes, 8, 1, 2, 4, 3, 27, 28, 238,13, Columbus Blue Jackets, 4, 1, 3, 5, 3, 30, 14, 150,False
+2021, 3, 20,9, Colorado Avalanche, 7, 1, 5, 9, 1, 20, 34, 304,8, Minnesota Wild, 6, 1, 1, 2, 0, 31, 18, 176,True
+2021, 3, 20,19, Detroit Red Wings, 5, 1, 3, 4, 2, 18, 18, 162,2, Dallas Stars, 3, 1, 2, 4, 4, 8, 22, 145,False
+2021, 3, 20,29, Edmonton Oilers, 6, 2, 2, 4, 3, 33, 22, 216,24, Winnipeg Jets, 5, 0, 1, 2, 3, 36, 16, 155,True
+2021, 3, 20,4, Florida Panthers, 6, 1, 2, 2, 4, 26, 26, 214,12, Nashville Predators, 4, 1, 2, 3, 1, 41, 3, 102,True
+2021, 3, 20,10, Montreal Canadiens, 4, 1, 2, 3, 4, 30, 21, 193,22, Vancouver Canucks, 8, 1, 3, 5, 4, 38, 29, 211,True
+2021, 3, 20,15, New Jersey Devils, 3, 1, 3, 5, 2, 42, 29, 300,17, Pittsburgh Penguins, 7, 1, 2, 4, 2, 33, 23, 172,False
+2021, 3, 20,14, New York Islanders, 8, 0, 2, 6, 2, 31, 15, 188,16, Philadelphia Flyers, 4, 2, 4, 8, 3, 25, 31, 222,True
+2021, 3, 20,28, San Jose Sharks, 4, 1, 1, 2, 5, 37, 8, 80,18, St. Louis Blues, 5, 1, 0, 1, 4, 25, 18, 158,False
+2021, 3, 20,20, Tampa Bay Lightning, 7, 2, 4, 6, 2, 21, 17, 146,7, Chicago Blackhawks, 3, 0, 2, 4, 6, 37, 36, 340,True
+2021, 3, 20,11, Toronto Maple Leafs, 4, 1, 3, 4, 0, 30, 20, 175,27, Calgary Flames, 6, 1, 4, 7, 3, 32, 28, 234,True
+2021, 3, 20,21, Washington Capitals, 9, 1, 2, 4, 1, 22, 11, 175,1, New York Rangers, 5, 1, 1, 2, 5, 30, 14, 166,False
+2021, 3, 21,2, Dallas Stars, 4, 1, 3, 3, 0, 21, 18, 158,12, Nashville Predators, 3, 1, 0, 1, 1, 39, 3, 109,False
+2021, 3, 21,6, Los Angeles Kings, 3, 0, 2, 4, 1, 20, 14, 172,31, Vegas Golden Knights, 8, 2, 2, 7, 4, 33, 21, 165,True
+2021, 3, 21,17, Pittsburgh Penguins, 7, 1, 3, 5, 3, 35, 21, 162,15, New Jersey Devils, 3, 1, 1, 2, 2, 35, 26, 286,False
+2021, 3, 21,20, Tampa Bay Lightning, 7, 1, 4, 8, 3, 25, 16, 156,4, Florida Panthers, 7, 1, 2, 3, 2, 27, 22, 209,True
+2021, 3, 22,30, Arizona Coyotes, 4, 1, 5, 6, 1, 28, 23, 222,9, Colorado Avalanche, 8, 1, 6, 12, 0, 31, 33, 315,False
+2021, 3, 22,13, Columbus Blue Jackets, 5, 2, 2, 3, 2, 27, 15, 160,5, Carolina Hurricanes, 7, 0, 2, 4, 3, 28, 27, 249,False
+2021, 3, 22,8, Minnesota Wild, 6, 2, 0, 0, 5, 55, 23, 170,23, Anaheim Ducks, 3, 0, 1, 2, 3, 14, 20, 144,True
+2021, 3, 22,1, New York Rangers, 5, 2, 3, 4, 1, 29, 13, 171,26, Buffalo Sabres, 0, 0, 0, 1, 4, 37, 19, 163,True
+2021, 3, 22,25, Ottawa Senators, 3, 1, 2, 3, 0, 8, 32, 250,27, Calgary Flames, 5, 1, 0, 0, 3, 27, 23, 205,True
+2021, 3, 22,16, Philadelphia Flyers, 4, 1, 1, 1, 5, 13, 30, 195,14, New York Islanders, 8, 1, 6, 7, 1, 24, 14, 181,False
+2021, 3, 22,28, San Jose Sharks, 3, 1, 2, 4, 1, 34, 7, 63,6, Los Angeles Kings, 4, 1, 3, 7, 4, 33, 14, 194,True
+2021, 3, 22,22, Vancouver Canucks, 7, 1, 4, 7, 2, 31, 27, 218,24, Winnipeg Jets, 5, 1, 2, 4, 3, 36, 16, 155,False
+2021, 3, 22,31, Vegas Golden Knights, 7, 2, 1, 1, 2, 25, 20, 163,18, St. Louis Blues, 5, 0, 6, 10, 1, 31, 12, 129,True
+2021, 3, 23,30, Arizona Coyotes, 3, 0, 1, 2, 3, 31, 26, 228,9, Colorado Avalanche, 8, 2, 5, 9, 3, 27, 37, 336,True
+2021, 3, 23,7, Chicago Blackhawks, 3, 0, 1, 2, 3, 22, 33, 323,4, Florida Panthers, 7, 2, 3, 3, 0, 21, 24, 205,True
+2021, 3, 23,2, Dallas Stars, 4, 0, 2, 7, 3, 22, 21, 159,20, Tampa Bay Lightning, 7, 2, 5, 9, 1, 31, 16, 163,False
+2021, 3, 23,12, Nashville Predators, 4, 1, 3, 6, 1, 48, 5, 100,19, Detroit Red Wings, 4, 1, 0, 0, 3, 33, 19, 177,True
+2021, 3, 23,16, Philadelphia Flyers, 3, 2, 1, 2, 6, 28, 27, 202,15, New Jersey Devils, 4, 0, 2, 4, 1, 36, 27, 277,False
+2021, 3, 24,8, Minnesota Wild, 7, 2, 2, 4, 1, 25, 19, 140,23, Anaheim Ducks, 3, 0, 1, 0, 2, 23, 23, 185,True
+2021, 3, 24,25, Ottawa Senators, 3, 2, 2, 3, 1, 36, 36, 289,27, Calgary Flames, 5, 0, 1, 2, 2, 23, 20, 213,True
+2021, 3, 24,17, Pittsburgh Penguins, 7, 2, 1, 2, 2, 35, 20, 162,26, Buffalo Sabres, 0, 0, 3, 4, 4, 37, 19, 161,True
+2021, 3, 24,28, San Jose Sharks, 4, 1, 2, 4, 1, 42, 7, 71,6, Los Angeles Kings, 4, 1, 1, 2, 1, 42, 12, 184,True
+2021, 3, 24,22, Vancouver Canucks, 7, 0, 0, 0, 4, 29, 30, 226,24, Winnipeg Jets, 5, 2, 4, 4, 0, 22, 13, 141,False
+2021, 3, 25,0, Boston Bruins, 5, 0, 3, 7, 1, 25, 11, 151,14, New York Islanders, 8, 2, 2, 3, 4, 31, 12, 186,False
+2021, 3, 25,13, Columbus Blue Jackets, 5, 1, 0, 0, 3, 28, 16, 161,5, Carolina Hurricanes, 7, 1, 3, 6, 0, 19, 24, 240,False
+2021, 3, 25,7, Chicago Blackhawks, 3, 1, 3, 6, 2, 35, 32, 336,4, Florida Panthers, 6, 1, 2, 4, 4, 23, 27, 216,True
+2021, 3, 25,9, Colorado Avalanche, 7, 1, 4, 9, 1, 25, 37, 342,31, Vegas Golden Knights, 7, 1, 7, 9, 3, 31, 19, 154,True
+2021, 3, 25,2, Dallas Stars, 3, 0, 2, 2, 3, 21, 20, 163,20, Tampa Bay Lightning, 8, 2, 2, 2, 1, 17, 16, 149,True
+2021, 3, 25,8, Minnesota Wild, 7, 0, 3, 5, 2, 30, 20, 145,18, St. Louis Blues, 4, 2, 1, 2, 5, 35, 16, 133,True
+2021, 3, 25,12, Nashville Predators, 5, 1, 2, 4, 0, 31, 4, 83,19, Detroit Red Wings, 3, 1, 0, 0, 2, 34, 18, 178,True
+2021, 3, 25,25, Ottawa Senators, 4, 1, 3, 5, 2, 26, 38, 308,11, Toronto Maple Leafs, 4, 1, 2, 3, 0, 31, 22, 185,False
+2021, 3, 25,16, Philadelphia Flyers, 3, 1, 3, 6, 4, 32, 26, 220,1, New York Rangers, 5, 1, 5, 9, 1, 33, 15, 161,False
+2021, 3, 25,17, Pittsburgh Penguins, 7, 2, 5, 9, 1, 25, 22, 156,26, Buffalo Sabres, 0, 0, 2, 2, 5, 42, 20, 166,True
+2021, 3, 25,21, Washington Capitals, 8, 2, 1, 2, 1, 33, 13, 165,15, New Jersey Devils, 5, 0, 4, 8, 3, 33, 29, 274,True
+2021, 3, 26,30, Arizona Coyotes, 4, 1, 4, 7, 4, 39, 29, 238,28, San Jose Sharks, 5, 1, 4, 8, 2, 44, 8, 73,True
+2021, 3, 26,27, Calgary Flames, 4, 1, 1, 2, 2, 30, 19, 218,24, Winnipeg Jets, 5, 1, 5, 8, 1, 39, 14, 158,False
+2021, 3, 26,18, St. Louis Blues, 3, 2, 1, 0, 2, 11, 13, 109,23, Anaheim Ducks, 3, 0, 2, 3, 5, 24, 23, 181,False
+2021, 3, 26,21, Washington Capitals, 8, 2, 4, 7, 2, 24, 15, 156,15, New Jersey Devils, 4, 0, 2, 4, 3, 29, 30, 263,True
+2021, 3, 27,30, Arizona Coyotes, 4, 2, 5, 8, 2, 22, 28, 223,28, San Jose Sharks, 5, 0, 2, 3, 4, 20, 11, 57,True
+2021, 3, 27,0, Boston Bruins, 4, 2, 2, 6, 1, 35, 13, 129,26, Buffalo Sabres, 0, 0, 1, 0, 0, 15, 18, 154,True
+2021, 3, 27,5, Carolina Hurricanes, 7, 0, 4, 7, 2, 31, 28, 272,20, Tampa Bay Lightning, 7, 2, 3, 7, 4, 41, 19, 173,True
+2021, 3, 27,27, Calgary Flames, 4, 1, 2, 5, 2, 33, 20, 217,24, Winnipeg Jets, 6, 1, 3, 5, 2, 21, 15, 146,True
+2021, 3, 27,7, Chicago Blackhawks, 4, 0, 3, 6, 0, 41, 31, 357,12, Nashville Predators, 6, 2, 7, 7, 1, 21, 5, 73,False
+2021, 3, 27,9, Colorado Avalanche, 8, 1, 5, 7, 1, 19, 39, 338,31, Vegas Golden Knights, 6, 1, 1, 2, 5, 32, 21, 155,False
+2021, 3, 27,2, Dallas Stars, 4, 1, 3, 5, 2, 26, 20, 169,4, Florida Panthers, 5, 1, 0, 0, 2, 20, 26, 204,False
+2021, 3, 27,19, Detroit Red Wings, 3, 1, 1, 2, 4, 23, 21, 153,13, Columbus Blue Jackets, 4, 1, 3, 6, 2, 37, 17, 192,True
+2021, 3, 27,16, Philadelphia Flyers, 3, 0, 3, 6, 3, 11, 25, 189,1, New York Rangers, 5, 2, 8, 16, 3, 44, 17, 172,True
+2021, 3, 27,17, Pittsburgh Penguins, 7, 1, 4, 8, 2, 28, 18, 159,14, New York Islanders, 8, 1, 4, 8, 1, 37, 15, 157,True
+2021, 3, 27,11, Toronto Maple Leafs, 4, 2, 3, 5, 2, 31, 21, 184,29, Edmonton Oilers, 7, 0, 4, 4, 2, 31, 18, 208,True
+2021, 3, 28,0, Boston Bruins, 5, 0, 4, 6, 4, 21, 16, 123,15, New Jersey Devils, 4, 2, 1, 0, 4, 22, 31, 265,False
+2021, 3, 28,7, Chicago Blackhawks, 3, 0, 1, 2, 4, 29, 34, 350,12, Nashville Predators, 6, 2, 3, 4, 3, 30, 5, 82,False
+2021, 3, 28,2, Dallas Stars, 3, 0, 4, 8, 3, 27, 22, 171,4, Florida Panthers, 6, 2, 4, 5, 3, 32, 27, 218,False
+2021, 3, 28,19, Detroit Red Wings, 4, 1, 3, 6, 1, 22, 18, 152,13, Columbus Blue Jackets, 3, 1, 1, 2, 3, 34, 18, 189,True
+2021, 3, 28,18, St. Louis Blues, 2, 1, 1, 2, 2, 22, 13, 120,23, Anaheim Ducks, 3, 1, 4, 3, 2, 14, 19, 191,False
+2021, 3, 28,21, Washington Capitals, 9, 1, 4, 6, 0, 24, 15, 171,1, New York Rangers, 5, 1, 1, 2, 3, 19, 16, 165,True
+2021, 3, 29,26, Buffalo Sabres, 0, 0, 2, 1, 3, 36, 21, 175,16, Philadelphia Flyers, 3, 2, 2, 4, 1, 25, 23, 224,False
+2021, 3, 29,27, Calgary Flames, 5, 1, 4, 7, 3, 29, 22, 229,24, Winnipeg Jets, 5, 1, 2, 3, 2, 27, 17, 158,False
+2021, 3, 29,9, Colorado Avalanche, 8, 1, 2, 2, 3, 34, 36, 326,23, Anaheim Ducks, 3, 1, 3, 4, 3, 26, 19, 217,True
+2021, 3, 29,17, Pittsburgh Penguins, 7, 1, 6, 10, 3, 32, 19, 163,14, New York Islanders, 7, 1, 3, 5, 1, 11, 13, 116,True
+2021, 3, 29,28, San Jose Sharks, 4, 1, 0, 0, 5, 28, 10, 63,8, Minnesota Wild, 8, 1, 2, 3, 0, 37, 17, 158,True
+2021, 3, 29,11, Toronto Maple Leafs, 4, 2, 4, 7, 2, 3, 22, 168,29, Edmonton Oilers, 7, 0, 3, 6, 4, 31, 23, 236,False
+2021, 3, 29,31, Vegas Golden Knights, 7, 1, 3, 5, 1, 16, 17, 149,6, Los Angeles Kings, 4, 1, 2, 4, 2, 23, 18, 159,True
+2021, 3, 30,0, Boston Bruins, 4, 0, 0, 0, 1, 29, 12, 133,15, New Jersey Devils, 5, 2, 1, 2, 0, 40, 29, 286,True
+2021, 3, 30,7, Chicago Blackhawks, 3, 1, 2, 3, 3, 34, 33, 361,5, Carolina Hurricanes, 7, 1, 4, 10, 3, 36, 29, 263,True
+2021, 3, 30,4, Florida Panthers, 6, 1, 4, 2, 3, 34, 26, 240,19, Detroit Red Wings, 5, 1, 4, 6, 1, 17, 18, 147,True
+2021, 3, 30,10, Montreal Canadiens, 4, 1, 4, 7, 4, 18, 21, 173,29, Edmonton Oilers, 7, 1, 3, 6, 1, 25, 21, 236,True
+2021, 3, 30,12, Nashville Predators, 7, 2, 3, 4, 1, 30, 4, 81,2, Dallas Stars, 3, 0, 1, 2, 4, 28, 22, 166,True
+2021, 3, 30,1, New York Rangers, 5, 1, 4, 7, 2, 37, 18, 168,21, Washington Capitals, 9, 1, 5, 9, 3, 24, 18, 148,True
+2021, 3, 30,20, Tampa Bay Lightning, 6, 1, 3, 4, 3, 32, 19, 172,13, Columbus Blue Jackets, 3, 1, 1, 3, 2, 27, 15, 184,False
+2021, 3, 31,26, Buffalo Sabres, 0, 0, 3, 7, 4, 36, 22, 184,16, Philadelphia Flyers, 4, 2, 4, 6, 3, 32, 30, 224,True
+2021, 3, 31,9, Colorado Avalanche, 8, 1, 5, 9, 2, 15, 39, 329,30, Arizona Coyotes, 4, 1, 4, 6, 0, 34, 25, 220,True
+2021, 3, 31,28, San Jose Sharks, 4, 1, 3, 5, 3, 25, 8, 60,8, Minnesota Wild, 7, 1, 3, 6, 6, 42, 20, 160,True
+2021, 3, 31,31, Vegas Golden Knights, 8, 1, 4, 9, 2, 24, 17, 158,6, Los Angeles Kings, 3, 1, 1, 2, 4, 28, 20, 160,False
+2021, 3, 31,24, Winnipeg Jets, 6, 1, 5, 10, 1, 30, 17, 181,11, Toronto Maple Leafs, 4, 1, 2, 4, 3, 20, 24, 167,False
+2021, 4, 1,0, Boston Bruins, 5, 1, 4, 8, 2, 27, 14, 137,17, Pittsburgh Penguins, 7, 1, 2, 5, 1, 20, 19, 126,False
+2021, 4, 1,26, Buffalo Sabres, 1, 0, 5, 8, 3, 30, 19, 180,1, New York Rangers, 6, 2, 5, 6, 2, 32, 18, 163,False
+2021, 4, 1,7, Chicago Blackhawks, 4, 1, 2, 3, 1, 32, 31, 359,5, Carolina Hurricanes, 6, 1, 1, 2, 3, 22, 27, 231,False
+2021, 4, 1,4, Florida Panthers, 6, 1, 4, 3, 1, 34, 24, 245,19, Detroit Red Wings, 5, 1, 1, 2, 1, 25, 18, 156,True
+2021, 4, 1,12, Nashville Predators, 8, 2, 3, 6, 2, 35, 5, 86,2, Dallas Stars, 3, 0, 2, 4, 3, 26, 21, 164,False
+2021, 4, 1,14, New York Islanders, 6, 0, 1, 2, 2, 22, 17, 171,21, Washington Capitals, 8, 2, 2, 4, 4, 20, 20, 166,True
+2021, 4, 1,25, Ottawa Senators, 4, 1, 2, 3, 1, 29, 38, 318,10, Montreal Canadiens, 5, 1, 4, 8, 3, 28, 17, 172,False
+2021, 4, 1,20, Tampa Bay Lightning, 6, 0, 1, 2, 4, 40, 18, 160,13, Columbus Blue Jackets, 4, 2, 3, 5, 1, 38, 13, 183,True
+2021, 4, 1,31, Vegas Golden Knights, 7, 0, 2, 4, 1, 25, 19, 164,8, Minnesota Wild, 6, 2, 2, 5, 3, 39, 17, 150,False
+2021, 4, 2,23, Anaheim Ducks, 3, 1, 2, 3, 2, 40, 21, 256,30, Arizona Coyotes, 4, 1, 3, 4, 4, 10, 34, 224,False
+2021, 4, 2,9, Colorado Avalanche, 8, 1, 9, 15, 4, 32, 42, 345,18, St. Louis Blues, 2, 1, 2, 3, 3, 24, 12, 117,True
+2021, 4, 2,29, Edmonton Oilers, 6, 1, 0, 0, 2, 31, 25, 232,27, Calgary Flames, 4, 1, 1, 2, 4, 23, 23, 189,True
+2021, 4, 2,6, Los Angeles Kings, 4, 0, 4, 4, 2, 42, 16, 181,28, San Jose Sharks, 4, 2, 4, 7, 2, 28, 7, 63,False
+2021, 4, 2,15, New Jersey Devils, 5, 0, 4, 5, 4, 48, 33, 294,21, Washington Capitals, 7, 2, 4, 6, 2, 9, 20, 153,False
+2021, 4, 2,24, Winnipeg Jets, 5, 1, 1, 2, 3, 26, 19, 177,11, Toronto Maple Leafs, 5, 1, 3, 6, 1, 27, 22, 174,False
+2021, 4, 3,0, Boston Bruins, 5, 1, 1, 2, 4, 35, 13, 128,17, Pittsburgh Penguins, 7, 1, 4, 8, 1, 31, 19, 137,True
+2021, 4, 3,26, Buffalo Sabres, 1, 0, 2, 4, 1, 32, 18, 204,1, New York Rangers, 6, 2, 3, 6, 2, 23, 18, 154,True
+2021, 4, 3,5, Carolina Hurricanes, 6, 2, 4, 8, 2, 16, 27, 234,2, Dallas Stars, 3, 0, 4, 6, 3, 22, 19, 160,False
+2021, 4, 3,9, Colorado Avalanche, 8, 2, 3, 7, 3, 31, 40, 340,18, St. Louis Blues, 2, 0, 2, 4, 2, 31, 12, 132,True
+2021, 4, 3,4, Florida Panthers, 6, 2, 3, 8, 1, 36, 25, 238,13, Columbus Blue Jackets, 4, 0, 2, 4, 3, 34, 15, 179,True
+2021, 4, 3,6, Los Angeles Kings, 3, 0, 0, 0, 4, 24, 16, 179,28, San Jose Sharks, 5, 2, 3, 5, 0, 30, 5, 65,False
+2021, 4, 3,10, Montreal Canadiens, 5, 2, 4, 8, 0, 17, 15, 167,25, Ottawa Senators, 3, 0, 1, 2, 3, 41, 41, 327,False
+2021, 4, 3,12, Nashville Predators, 8, 2, 1, 1, 3, 30, 6, 81,7, Chicago Blackhawks, 3, 0, 3, 5, 4, 31, 35, 367,True
+2021, 4, 3,14, New York Islanders, 6, 2, 8, 12, 4, 9, 21, 176,16, Philadelphia Flyers, 4, 0, 1, 2, 5, 11, 32, 205,True
+2021, 4, 3,20, Tampa Bay Lightning, 6, 1, 3, 6, 2, 38, 16, 158,19, Detroit Red Wings, 4, 1, 2, 4, 3, 36, 20, 167,True
+2021, 4, 3,31, Vegas Golden Knights, 6, 0, 2, 4, 4, 30, 20, 176,8, Minnesota Wild, 6, 2, 2, 4, 2, 37, 16, 148,False
+2021, 4, 4,23, Anaheim Ducks, 3, 0, 2, 4, 1, 34, 23, 247,30, Arizona Coyotes, 5, 2, 4, 7, 2, 29, 32, 238,False
+2021, 4, 4,5, Carolina Hurricanes, 5, 1, 2, 3, 0, 0, 28, 240,2, Dallas Stars, 4, 1, 3, 7, 2, 43, 18, 181,True
+2021, 4, 4,27, Calgary Flames, 3, 1, 2, 4, 1, 6, 21, 177,11, Toronto Maple Leafs, 6, 1, 1, 2, 3, 23, 22, 179,False
+2021, 4, 4,4, Florida Panthers, 6, 2, 5, 7, 2, 27, 25, 259,13, Columbus Blue Jackets, 3, 0, 2, 4, 1, 13, 13, 157,True
+2021, 4, 4,15, New Jersey Devils, 5, 0, 1, 2, 2, 40, 31, 286,21, Washington Capitals, 7, 2, 2, 1, 6, 24, 17, 164,False
+2021, 4, 4,20, Tampa Bay Lightning, 7, 1, 2, 3, 0, 10, 15, 156,19, Detroit Red Wings, 4, 1, 1, 2, 2, 29, 19, 188,False
+2021, 4, 5,0, Boston Bruins, 5, 2, 8, 10, 3, 22, 14, 121,16, Philadelphia Flyers, 3, 0, 2, 4, 4, 16, 28, 237,False
+2021, 4, 5,27, Calgary Flames, 2, 0, 2, 4, 3, 25, 22, 214,11, Toronto Maple Leafs, 6, 2, 4, 7, 1, 32, 21, 190,False
+2021, 4, 5,6, Los Angeles Kings, 3, 1, 2, 2, 2, 35, 17, 175,30, Arizona Coyotes, 6, 1, 3, 6, 2, 20, 32, 229,False
+2021, 4, 5,8, Minnesota Wild, 6, 0, 2, 4, 1, 28, 15, 139,9, Colorado Avalanche, 8, 2, 2, 2, 1, 28, 37, 348,False
+2021, 4, 5,10, Montreal Canadiens, 5, 1, 3, 6, 5, 31, 20, 181,29, Edmonton Oilers, 6, 1, 3, 4, 2, 26, 28, 226,True
+2021, 4, 5,18, St. Louis Blues, 2, 0, 1, 2, 2, 34, 12, 135,31, Vegas Golden Knights, 5, 2, 1, 2, 2, 37, 18, 173,False
+2021, 4, 5,24, Winnipeg Jets, 5, 1, 1, 2, 1, 38, 16, 200,25, Ottawa Senators, 4, 1, 6, 10, 3, 38, 39, 329,True
+2021, 4, 6,5, Carolina Hurricanes, 5, 2, 1, 2, 0, 28, 29, 276,4, Florida Panthers, 7, 0, 3, 4, 2, 46, 23, 264,True
+2021, 4, 6,13, Columbus Blue Jackets, 3, 1, 0, 0, 3, 35, 17, 175,20, Tampa Bay Lightning, 6, 1, 1, 2, 1, 26, 19, 163,True
+2021, 4, 6,7, Chicago Blackhawks, 3, 1, 0, 0, 3, 21, 34, 360,2, Dallas Stars, 4, 1, 0, 0, 1, 38, 17, 176,True
+2021, 4, 6,19, Detroit Red Wings, 4, 0, 5, 9, 1, 28, 20, 195,12, Nashville Predators, 8, 2, 3, 4, 0, 41, 3, 92,False
+2021, 4, 6,15, New Jersey Devils, 4, 2, 4, 7, 4, 31, 34, 265,26, Buffalo Sabres, 2, 0, 2, 3, 2, 30, 18, 197,False
+2021, 4, 6,14, New York Islanders, 6, 1, 2, 3, 4, 22, 21, 196,21, Washington Capitals, 7, 1, 5, 11, 1, 23, 18, 176,True
+2021, 4, 6,1, New York Rangers, 6, 0, 2, 4, 2, 29, 18, 160,17, Pittsburgh Penguins, 6, 2, 5, 8, 0, 5, 22, 130,True
+2021, 4, 6,16, Philadelphia Flyers, 4, 1, 3, 4, 2, 24, 32, 266,0, Boston Bruins, 5, 1, 2, 3, 0, 0, 14, 131,False
+2021, 4, 6,28, San Jose Sharks, 6, 2, 3, 5, 2, 37, 7, 72,23, Anaheim Ducks, 3, 0, 2, 1, 3, 31, 25, 244,False
+2021, 4, 7,6, Los Angeles Kings, 3, 0, 2, 4, 3, 23, 19, 172,30, Arizona Coyotes, 7, 2, 5, 9, 2, 38, 33, 239,True
+2021, 4, 7,8, Minnesota Wild, 5, 0, 3, 6, 5, 36, 19, 147,9, Colorado Avalanche, 8, 2, 5, 10, 4, 25, 36, 352,True
+2021, 4, 7,25, Ottawa Senators, 4, 0, 3, 5, 1, 5, 40, 337,29, Edmonton Oilers, 5, 2, 2, 3, 4, 32, 27, 228,False
+2021, 4, 7,18, St. Louis Blues, 2, 0, 1, 1, 1, 14, 13, 95,31, Vegas Golden Knights, 5, 2, 4, 12, 2, 27, 17, 168,True
+2021, 4, 7,11, Toronto Maple Leafs, 7, 1, 5, 7, 3, 29, 23, 187,10, Montreal Canadiens, 5, 1, 3, 5, 1, 23, 17, 173,True
+2021, 4, 8,26, Buffalo Sabres, 3, 1, 5, 6, 3, 30, 18, 171,15, New Jersey Devils, 3, 1, 3, 5, 2, 4, 34, 251,False
+2021, 4, 8,5, Carolina Hurricanes, 6, 2, 5, 6, 3, 25, 31, 284,4, Florida Panthers, 6, 0, 2, 4, 0, 32, 24, 252,True
+2021, 4, 8,13, Columbus Blue Jackets, 3, 1, 4, 6, 2, 38, 16, 178,20, Tampa Bay Lightning, 5, 1, 1, 4, 3, 29, 21, 166,False
+2021, 4, 8,7, Chicago Blackhawks, 4, 2, 4, 6, 2, 27, 33, 366,2, Dallas Stars, 3, 0, 2, 3, 1, 22, 19, 165,False
+2021, 4, 8,19, Detroit Red Wings, 3, 0, 2, 3, 0, 22, 21, 198,12, Nashville Predators, 8, 2, 2, 4, 2, 27, 5, 78,False
+2021, 4, 8,10, Montreal Canadiens, 5, 1, 2, 4, 3, 32, 19, 182,24, Winnipeg Jets, 5, 1, 4, 6, 3, 23, 18, 185,False
+2021, 4, 8,14, New York Islanders, 6, 2, 1, 3, 2, 32, 17, 203,16, Philadelphia Flyers, 3, 0, 2, 3, 3, 25, 31, 263,True
+2021, 4, 8,1, New York Rangers, 6, 1, 9, 15, 4, 45, 20, 176,17, Pittsburgh Penguins, 6, 1, 4, 8, 4, 11, 25, 131,False
+2021, 4, 8,25, Ottawa Senators, 4, 0, 2, 4, 4, 46, 44, 355,29, Edmonton Oilers, 6, 2, 4, 7, 3, 32, 25, 226,False
+2021, 4, 8,21, Washington Capitals, 6, 1, 0, 0, 4, 39, 21, 185,0, Boston Bruins, 6, 1, 4, 8, 2, 42, 16, 190,False
+2021, 4, 9,23, Anaheim Ducks, 4, 0, 4, 9, 1, 35, 30, 258,9, Colorado Avalanche, 7, 2, 3, 5, 1, 1, 45, 329,False
+2021, 4, 9,26, Buffalo Sabres, 3, 0, 3, 6, 3, 47, 19, 205,21, Washington Capitals, 5, 2, 2, 4, 1, 39, 21, 178,False
+2021, 4, 9,15, New Jersey Devils, 4, 1, 6, 11, 5, 19, 35, 274,17, Pittsburgh Penguins, 7, 1, 5, 9, 4, 14, 23, 144,False
+2021, 4, 9,14, New York Islanders, 7, 1, 2, 3, 0, 29, 17, 198,1, New York Rangers, 6, 1, 2, 3, 2, 18, 20, 162,False
+2021, 4, 9,28, San Jose Sharks, 6, 2, 1, 2, 4, 33, 10, 91,6, Los Angeles Kings, 3, 0, 4, 8, 4, 32, 18, 181,True
+2021, 4, 9,18, St. Louis Blues, 3, 1, 3, 6, 1, 51, 15, 135,8, Minnesota Wild, 6, 1, 8, 13, 3, 32, 17, 143,True
+2021, 4, 9,31, Vegas Golden Knights, 4, 1, 3, 2, 1, 32, 18, 176,30, Arizona Coyotes, 7, 1, 3, 6, 4, 30, 33, 239,True
+2021, 4, 10,5, Carolina Hurricanes, 7, 1, 3, 5, 2, 36, 26, 259,19, Detroit Red Wings, 3, 1, 1, 2, 2, 31, 28, 208,False
+2021, 4, 10,13, Columbus Blue Jackets, 2, 0, 3, 7, 3, 24, 15, 121,7, Chicago Blackhawks, 4, 2, 1, 2, 5, 34, 37, 343,False
+2021, 4, 10,27, Calgary Flames, 2, 0, 3, 4, 5, 30, 25, 237,29, Edmonton Oilers, 7, 2, 3, 4, 1, 40, 23, 234,True
+2021, 4, 10,2, Dallas Stars, 4, 0, 5, 8, 1, 39, 19, 182,4, Florida Panthers, 6, 2, 0, 0, 3, 34, 26, 241,True
+2021, 4, 10,10, Montreal Canadiens, 5, 0, 2, 4, 3, 26, 19, 176,24, Winnipeg Jets, 6, 2, 4, 8, 2, 38, 17, 200,False
+2021, 4, 10,12, Nashville Predators, 9, 1, 7, 10, 2, 29, 4, 77,20, Tampa Bay Lightning, 5, 1, 5, 12, 4, 36, 22, 173,False
+2021, 4, 10,16, Philadelphia Flyers, 3, 1, 2, 2, 2, 29, 32, 253,0, Boston Bruins, 6, 1, 4, 5, 2, 33, 16, 163,True
+2021, 4, 10,28, San Jose Sharks, 7, 2, 5, 10, 2, 34, 8, 92,6, Los Angeles Kings, 3, 0, 2, 2, 3, 27, 18, 177,False
+2021, 4, 10,18, St. Louis Blues, 3, 1, 9, 14, 5, 19, 17, 108,8, Minnesota Wild, 6, 1, 1, 1, 3, 32, 23, 149,True
+2021, 4, 10,11, Toronto Maple Leafs, 8, 1, 3, 6, 2, 34, 22, 192,25, Ottawa Senators, 3, 1, 1, 2, 2, 22, 42, 331,True
+2021, 4, 11,23, Anaheim Ducks, 3, 0, 0, 1, 1, 34, 31, 243,9, Colorado Avalanche, 7, 2, 2, 3, 0, 28, 47, 362,False
+2021, 4, 11,0, Boston Bruins, 5, 2, 2, 4, 3, 32, 17, 153,21, Washington Capitals, 6, 0, 4, 7, 3, 33, 23, 172,False
+2021, 4, 11,15, New Jersey Devils, 3, 1, 4, 4, 5, 26, 35, 281,17, Pittsburgh Penguins, 7, 1, 6, 11, 2, 24, 23, 160,False
+2021, 4, 11,12, Nashville Predators, 8, 1, 0, 0, 1, 26, 4, 81,2, Dallas Stars, 5, 1, 4, 5, 1, 21, 19, 164,True
+2021, 4, 11,14, New York Islanders, 7, 1, 1, 1, 2, 27, 25, 201,1, New York Rangers, 6, 1, 4, 6, 4, 31, 19, 176,True
+2021, 4, 11,16, Philadelphia Flyers, 4, 1, 3, 6, 2, 23, 32, 254,26, Buffalo Sabres, 3, 1, 3, 4, 5, 37, 24, 182,False
+2021, 4, 11,31, Vegas Golden Knights, 5, 2, 7, 11, 3, 35, 21, 170,30, Arizona Coyotes, 6, 0, 4, 8, 5, 32, 34, 209,True
+2021, 4, 12,5, Carolina Hurricanes, 7, 0, 4, 6, 3, 25, 31, 266,19, Detroit Red Wings, 4, 2, 3, 3, 7, 32, 32, 203,False
+2021, 4, 12,13, Columbus Blue Jackets, 2, 0, 3, 5, 3, 6, 20, 126,7, Chicago Blackhawks, 5, 2, 3, 8, 3, 26, 38, 350,False
+2021, 4, 12,9, Colorado Avalanche, 8, 1, 4, 8, 7, 18, 42, 365,30, Arizona Coyotes, 6, 1, 0, 0, 1, 4, 30, 206,True
+2021, 4, 12,6, Los Angeles Kings, 3, 1, 3, 6, 4, 28, 20, 176,31, Vegas Golden Knights, 5, 1, 1, 1, 4, 26, 18, 149,False
+2021, 4, 12,10, Montreal Canadiens, 4, 0, 0, 0, 5, 25, 21, 175,11, Toronto Maple Leafs, 9, 2, 6, 11, 5, 32, 25, 190,True
+2021, 4, 12,25, Ottawa Senators, 3, 1, 5, 6, 5, 37, 45, 346,24, Winnipeg Jets, 7, 1, 5, 6, 0, 19, 15, 181,True
+2021, 4, 12,28, San Jose Sharks, 6, 1, 2, 4, 4, 19, 10, 84,23, Anaheim Ducks, 3, 1, 1, 2, 4, 31, 28, 252,False
+2021, 4, 13,0, Boston Bruins, 5, 2, 2, 3, 3, 23, 23, 153,26, Buffalo Sabres, 4, 0, 5, 7, 3, 43, 20, 190,True
+2021, 4, 13,2, Dallas Stars, 4, 1, 1, 2, 2, 20, 20, 163,4, Florida Panthers, 6, 1, 1, 2, 2, 21, 26, 231,False
+2021, 4, 13,15, New Jersey Devils, 2, 0, 3, 2, 4, 23, 34, 278,1, New York Rangers, 5, 2, 2, 4, 3, 32, 18, 177,False
+2021, 4, 13,12, Nashville Predators, 8, 1, 2, 2, 2, 26, 5, 81,20, Tampa Bay Lightning, 5, 1, 4, 5, 2, 20, 18, 173,True
+2021, 4, 13,11, Toronto Maple Leafs, 8, 2, 2, 4, 4, 30, 32, 214,27, Calgary Flames, 2, 0, 5, 7, 0, 17, 24, 217,False
+2021, 4, 13,21, Washington Capitals, 6, 2, 9, 13, 4, 32, 16, 193,16, Philadelphia Flyers, 4, 0, 3, 5, 2, 32, 30, 276,True
+2021, 4, 14,6, Los Angeles Kings, 3, 1, 2, 4, 2, 28, 18, 181,31, Vegas Golden Knights, 6, 1, 4, 5, 0, 14, 16, 151,False
+2021, 4, 14,8, Minnesota Wild, 5, 2, 2, 2, 3, 30, 23, 147,30, Arizona Coyotes, 5, 0, 2, 4, 4, 34, 32, 221,True
+2021, 4, 14,10, Montreal Canadiens, 5, 0, 4, 7, 2, 25, 18, 175,27, Calgary Flames, 3, 2, 3, 6, 2, 26, 28, 224,False
+2021, 4, 14,25, Ottawa Senators, 4, 1, 4, 6, 7, 36, 42, 340,24, Winnipeg Jets, 6, 1, 2, 4, 4, 33, 19, 186,False
+2021, 4, 14,28, San Jose Sharks, 5, 0, 0, 0, 0, 7, 10, 86,23, Anaheim Ducks, 4, 2, 4, 5, 0, 46, 22, 265,False
+2021, 4, 14,18, St. Louis Blues, 3, 0, 3, 6, 1, 25, 12, 127,9, Colorado Avalanche, 8, 2, 5, 7, 3, 26, 40, 410,False
+2021, 4, 15,0, Boston Bruins, 5, 0, 2, 2, 0, 6, 23, 164,14, New York Islanders, 7, 2, 3, 5, 3, 35, 23, 202,True
+2021, 4, 15,5, Carolina Hurricanes, 6, 2, 1, 2, 4, 28, 32, 261,12, Nashville Predators, 8, 0, 7, 11, 2, 23, 5, 78,True
+2021, 4, 15,2, Dallas Stars, 4, 1, 3, 5, 3, 27, 21, 174,13, Columbus Blue Jackets, 2, 1, 3, 4, 4, 28, 23, 145,True
+2021, 4, 15,19, Detroit Red Wings, 5, 1, 3, 7, 4, 34, 23, 201,7, Chicago Blackhawks, 5, 1, 4, 5, 3, 33, 33, 348,True
+2021, 4, 15,1, New York Rangers, 5, 2, 3, 4, 0, 27, 16, 160,15, New Jersey Devils, 2, 0, 0, 0, 2, 19, 32, 274,True
+2021, 4, 15,17, Pittsburgh Penguins, 8, 1, 6, 12, 2, 30, 18, 152,16, Philadelphia Flyers, 4, 1, 1, 2, 4, 30, 31, 250,False
+2021, 4, 15,20, Tampa Bay Lightning, 4, 1, 2, 3, 0, 36, 23, 175,4, Florida Panthers, 7, 1, 3, 6, 2, 26, 26, 236,True
+2021, 4, 15,11, Toronto Maple Leafs, 7, 2, 3, 4, 3, 24, 31, 212,24, Winnipeg Jets, 6, 0, 3, 5, 4, 24, 17, 182,False
+2021, 4, 15,21, Washington Capitals, 6, 2, 6, 12, 1, 35, 13, 191,26, Buffalo Sabres, 4, 0, 2, 4, 2, 31, 15, 148,False
+2021, 4, 16,23, Anaheim Ducks, 5, 1, 4, 7, 4, 37, 23, 245,31, Vegas Golden Knights, 6, 1, 5, 8, 2, 28, 18, 159,False
+2021, 4, 16,0, Boston Bruins, 6, 1, 4, 6, 2, 23, 24, 181,14, New York Islanders, 6, 1, 1, 2, 2, 26, 18, 190,True
+2021, 4, 16,8, Minnesota Wild, 5, 0, 5, 9, 2, 30, 22, 155,28, San Jose Sharks, 5, 2, 1, 2, 4, 21, 14, 114,True
+2021, 4, 16,10, Montreal Canadiens, 5, 0, 1, 2, 3, 33, 19, 183,27, Calgary Flames, 4, 2, 4, 5, 1, 27, 25, 206,True
+2021, 4, 17,30, Arizona Coyotes, 4, 1, 2, 4, 2, 19, 33, 209,18, St. Louis Blues, 3, 1, 3, 5, 4, 28, 13, 126,True
+2021, 4, 17,26, Buffalo Sabres, 5, 0, 5, 5, 2, 29, 13, 134,17, Pittsburgh Penguins, 7, 2, 1, 2, 1, 27, 17, 149,False
+2021, 4, 17,5, Carolina Hurricanes, 6, 2, 4, 8, 0, 24, 29, 253,12, Nashville Predators, 7, 0, 1, 2, 4, 29, 7, 84,True
+2021, 4, 17,2, Dallas Stars, 5, 2, 4, 7, 1, 18, 19, 165,13, Columbus Blue Jackets, 2, 0, 1, 2, 4, 34, 23, 148,True
+2021, 4, 17,19, Detroit Red Wings, 5, 1, 4, 7, 1, 38, 20, 192,7, Chicago Blackhawks, 4, 1, 1, 2, 3, 31, 31, 330,False
+2021, 4, 17,8, Minnesota Wild, 5, 1, 3, 3, 9, 38, 22, 150,28, San Jose Sharks, 5, 1, 2, 2, 3, 18, 13, 111,True
+2021, 4, 17,10, Montreal Canadiens, 5, 1, 2, 4, 2, 23, 17, 179,25, Ottawa Senators, 3, 1, 2, 3, 3, 35, 36, 314,False
+2021, 4, 17,1, New York Rangers, 6, 2, 4, 8, 0, 16, 16, 149,15, New Jersey Devils, 2, 0, 0, 0, 3, 27, 34, 288,True
+2021, 4, 17,16, Philadelphia Flyers, 4, 0, 1, 1, 1, 10, 28, 244,21, Washington Capitals, 5, 2, 2, 3, 1, 30, 13, 159,False
+2021, 4, 17,20, Tampa Bay Lightning, 5, 2, 3, 4, 2, 38, 25, 177,4, Florida Panthers, 6, 0, 2, 6, 4, 20, 27, 229,False
+2021, 4, 17,24, Winnipeg Jets, 6, 0, 5, 7, 2, 33, 15, 191,29, Edmonton Oilers, 6, 2, 0, 0, 5, 32, 21, 209,False
+2021, 4, 18,23, Anaheim Ducks, 4, 0, 0, 1, 4, 51, 26, 259,31, Vegas Golden Knights, 6, 2, 5, 8, 2, 22, 13, 145,False
+2021, 4, 18,0, Boston Bruins, 6, 1, 3, 4, 1, 23, 19, 181,21, Washington Capitals, 6, 1, 6, 10, 4, 21, 15, 154,True
+2021, 4, 18,26, Buffalo Sabres, 5, 0, 2, 2, 3, 41, 14, 146,17, Pittsburgh Penguins, 7, 2, 3, 5, 4, 30, 15, 153,True
+2021, 4, 18,15, New Jersey Devils, 1, 0, 3, 5, 4, 33, 35, 289,1, New York Rangers, 7, 2, 6, 12, 1, 32, 19, 166,False
+2021, 4, 18,16, Philadelphia Flyers, 3, 0, 3, 5, 6, 32, 32, 274,14, New York Islanders, 5, 2, 0, 0, 2, 27, 18, 191,False
+2021, 4, 18,22, Vancouver Canucks, 6, 2, 1, 2, 4, 40, 32, 244,11, Toronto Maple Leafs, 6, 0, 2, 6, 3, 6, 29, 183,True
+2021, 4, 19,30, Arizona Coyotes, 4, 0, 3, 6, 2, 22, 28, 206,8, Minnesota Wild, 6, 2, 5, 8, 2, 22, 15, 140,False
+2021, 4, 19,27, Calgary Flames, 4, 0, 1, 2, 2, 20, 16, 191,25, Ottawa Senators, 3, 2, 4, 7, 0, 23, 33, 302,False
+2021, 4, 19,2, Dallas Stars, 6, 1, 5, 9, 3, 31, 19, 169,19, Detroit Red Wings, 4, 1, 0, 0, 1, 25, 22, 180,True
+2021, 4, 19,29, Edmonton Oilers, 6, 0, 3, 6, 0, 26, 16, 205,10, Montreal Canadiens, 4, 2, 0, 0, 3, 14, 18, 170,True
+2021, 4, 19,4, Florida Panthers, 6, 2, 5, 6, 3, 31, 26, 240,13, Columbus Blue Jackets, 2, 0, 1, 2, 1, 16, 19, 126,True
+2021, 4, 19,12, Nashville Predators, 6, 2, 1, 0, 2, 47, 5, 102,7, Chicago Blackhawks, 5, 0, 4, 5, 3, 27, 28, 328,True
+2021, 4, 19,20, Tampa Bay Lightning, 5, 1, 3, 6, 4, 31, 27, 170,5, Carolina Hurricanes, 6, 1, 3, 5, 1, 20, 30, 257,True
+2021, 4, 19,31, Vegas Golden Knights, 7, 2, 5, 9, 0, 16, 13, 137,28, San Jose Sharks, 4, 0, 2, 4, 5, 24, 12, 95,True
+2021, 4, 20,26, Buffalo Sabres, 5, 0, 4, 7, 2, 36, 15, 156,0, Boston Bruins, 7, 2, 6, 10, 3, 33, 20, 161,False
+2021, 4, 20,2, Dallas Stars, 6, 2, 1, 2, 1, 22, 18, 160,19, Detroit Red Wings, 4, 0, 2, 3, 3, 26, 25, 207,True
+2021, 4, 20,4, Florida Panthers, 6, 2, 4, 5, 0, 0, 25, 245,13, Columbus Blue Jackets, 1, 0, 2, 3, 4, 16, 20, 153,True
+2021, 4, 20,6, Los Angeles Kings, 3, 1, 2, 3, 3, 24, 20, 148,23, Anaheim Ducks, 3, 1, 2, 4, 1, 28, 26, 222,True
+2021, 4, 20,14, New York Islanders, 6, 1, 1, 2, 3, 44, 17, 195,1, New York Rangers, 7, 1, 5, 9, 0, 2, 18, 131,True
+2021, 4, 20,17, Pittsburgh Penguins, 6, 2, 2, 4, 2, 30, 16, 156,15, New Jersey Devils, 1, 0, 2, 4, 4, 17, 35, 281,True
+2021, 4, 20,20, Tampa Bay Lightning, 6, 1, 3, 5, 2, 27, 25, 166,5, Carolina Hurricanes, 6, 1, 2, 1, 1, 28, 32, 273,False
+2021, 4, 20,22, Vancouver Canucks, 6, 2, 3, 5, 2, 39, 31, 242,11, Toronto Maple Leafs, 6, 0, 2, 4, 1, 17, 29, 201,True
+2021, 4, 21,30, Arizona Coyotes, 4, 0, 2, 2, 4, 23, 31, 200,8, Minnesota Wild, 7, 2, 5, 10, 2, 24, 17, 143,False
+2021, 4, 21,7, Chicago Blackhawks, 5, 0, 2, 3, 0, 8, 32, 317,12, Nashville Predators, 6, 2, 5, 8, 2, 32, 5, 87,True
+2021, 4, 21,29, Edmonton Oilers, 6, 1, 4, 5, 1, 23, 19, 212,10, Montreal Canadiens, 3, 1, 1, 1, 3, 28, 17, 162,False
+2021, 4, 21,31, Vegas Golden Knights, 8, 2, 2, 5, 2, 35, 19, 184,28, San Jose Sharks, 3, 0, 2, 0, 0, 4, 8, 102,True
+2021, 4, 22,26, Buffalo Sabres, 5, 0, 0, 0, 2, 41, 15, 161,0, Boston Bruins, 7, 2, 2, 4, 0, 25, 21, 192,False
+2021, 4, 22,19, Detroit Red Wings, 4, 0, 1, 4, 0, 11, 24, 168,2, Dallas Stars, 6, 2, 6, 10, 2, 22, 19, 164,True
+2021, 4, 22,4, Florida Panthers, 6, 0, 5, 10, 2, 36, 26, 279,5, Carolina Hurricanes, 6, 2, 4, 8, 1, 27, 32, 272,False
+2021, 4, 22,14, New York Islanders, 7, 2, 6, 10, 1, 26, 18, 212,21, Washington Capitals, 6, 0, 3, 5, 3, 25, 15, 160,False
+2021, 4, 22,1, New York Rangers, 6, 1, 1, 2, 6, 28, 24, 157,16, Philadelphia Flyers, 3, 1, 0, 0, 1, 28, 31, 298,False
+2021, 4, 22,17, Pittsburgh Penguins, 6, 2, 7, 13, 6, 30, 20, 154,15, New Jersey Devils, 1, 0, 5, 10, 3, 19, 34, 268,True
+2021, 4, 22,18, St. Louis Blues, 3, 0, 2, 5, 3, 29, 14, 123,9, Colorado Avalanche, 9, 2, 3, 7, 3, 34, 40, 385,False
+2021, 4, 22,20, Tampa Bay Lightning, 5, 1, 1, 2, 7, 22, 26, 174,13, Columbus Blue Jackets, 1, 1, 1, 3, 3, 38, 22, 162,True
+2021, 4, 22,22, Vancouver Canucks, 6, 2, 6, 8, 4, 35, 32, 243,25, Ottawa Senators, 4, 0, 4, 4, 2, 28, 35, 307,False
+2021, 4, 22,24, Winnipeg Jets, 6, 1, 0, 1, 3, 25, 16, 183,11, Toronto Maple Leafs, 5, 1, 3, 6, 3, 24, 27, 215,False
+2021, 4, 23,26, Buffalo Sabres, 4, 0, 1, 2, 0, 0, 18, 158,0, Boston Bruins, 8, 2, 5, 9, 0, 32, 23, 184,True
+2021, 4, 23,27, Calgary Flames, 4, 1, 2, 4, 3, 19, 25, 229,10, Montreal Canadiens, 4, 1, 4, 6, 3, 25, 17, 159,True
+2021, 4, 23,7, Chicago Blackhawks, 5, 1, 5, 8, 4, 40, 36, 349,12, Nashville Predators, 6, 1, 4, 5, 5, 30, 8, 85,False
+2021, 4, 23,6, Los Angeles Kings, 4, 0, 4, 8, 1, 25, 17, 161,8, Minnesota Wild, 7, 2, 4, 5, 1, 40, 14, 151,False
+2021, 4, 23,1, New York Rangers, 6, 0, 2, 4, 3, 28, 21, 165,16, Philadelphia Flyers, 4, 2, 3, 6, 5, 40, 33, 307,True
+2021, 4, 24,23, Anaheim Ducks, 3, 0, 1, 2, 4, 28, 32, 213,31, Vegas Golden Knights, 9, 2, 5, 8, 2, 31, 18, 170,False
+2021, 4, 24,27, Calgary Flames, 4, 1, 4, 7, 2, 20, 25, 232,10, Montreal Canadiens, 3, 1, 2, 1, 2, 37, 17, 164,True
+2021, 4, 24,19, Detroit Red Wings, 5, 1, 7, 9, 4, 12, 27, 203,2, Dallas Stars, 6, 1, 3, 5, 3, 9, 21, 138,False
+2021, 4, 24,4, Florida Panthers, 5, 0, 2, 4, 3, 19, 27, 271,5, Carolina Hurricanes, 7, 2, 3, 5, 2, 34, 27, 282,True
+2021, 4, 24,6, Los Angeles Kings, 3, 1, 2, 4, 3, 23, 19, 159,30, Arizona Coyotes, 3, 1, 1, 2, 3, 22, 30, 202,False
+2021, 4, 24,14, New York Islanders, 6, 1, 0, 1, 0, 30, 12, 184,21, Washington Capitals, 6, 1, 0, 0, 0, 26, 12, 161,False
+2021, 4, 24,17, Pittsburgh Penguins, 6, 2, 5, 10, 3, 28, 13, 158,15, New Jersey Devils, 1, 0, 1, 2, 4, 25, 32, 259,True
+2021, 4, 24,28, San Jose Sharks, 2, 0, 2, 2, 2, 40, 12, 126,8, Minnesota Wild, 7, 2, 4, 6, 2, 28, 12, 157,False
+2021, 4, 24,18, St. Louis Blues, 3, 0, 2, 6, 3, 28, 14, 127,9, Colorado Avalanche, 9, 2, 4, 7, 2, 27, 37, 418,True
+2021, 4, 24,22, Vancouver Canucks, 6, 1, 0, 0, 3, 40, 29, 245,25, Ottawa Senators, 5, 1, 3, 5, 0, 31, 33, 310,True
+2021, 4, 24,24, Winnipeg Jets, 5, 1, 3, 5, 3, 6, 15, 161,11, Toronto Maple Leafs, 5, 1, 5, 8, 3, 37, 27, 228,False
+2021, 4, 25,1, New York Rangers, 6, 1, 4, 8, 3, 36, 19, 164,26, Buffalo Sabres, 4, 1, 6, 8, 5, 38, 21, 191,True
+2021, 4, 25,16, Philadelphia Flyers, 3, 1, 1, 2, 2, 35, 32, 291,15, New Jersey Devils, 1, 1, 2, 4, 3, 36, 31, 270,True
+2021, 4, 25,17, Pittsburgh Penguins, 7, 1, 4, 6, 1, 31, 13, 148,0, Boston Bruins, 7, 1, 4, 8, 1, 30, 20, 153,True
+2021, 4, 25,20, Tampa Bay Lightning, 5, 2, 3, 2, 3, 35, 20, 177,13, Columbus Blue Jackets, 1, 0, 1, 2, 5, 33, 15, 154,True
+2021, 4, 26,27, Calgary Flames, 5, 2, 5, 6, 2, 32, 26, 241,10, Montreal Canadiens, 3, 0, 2, 4, 3, 30, 19, 160,False
+2021, 4, 26,2, Dallas Stars, 7, 1, 2, 2, 3, 13, 19, 146,5, Carolina Hurricanes, 6, 1, 3, 6, 2, 29, 29, 284,True
+2021, 4, 26,6, Los Angeles Kings, 3, 2, 0, 0, 3, 8, 15, 169,23, Anaheim Ducks, 3, 0, 2, 3, 4, 22, 31, 246,True
+2021, 4, 26,12, Nashville Predators, 6, 1, 3, 6, 1, 30, 4, 85,4, Florida Panthers, 5, 1, 4, 8, 3, 19, 29, 273,True
+2021, 4, 26,25, Ottawa Senators, 4, 1, 2, 2, 2, 20, 32, 275,22, Vancouver Canucks, 6, 1, 4, 6, 2, 28, 28, 225,True
+2021, 4, 26,28, San Jose Sharks, 1, 0, 3, 4, 2, 17, 13, 74,30, Arizona Coyotes, 3, 2, 4, 5, 0, 26, 27, 206,True
+2021, 4, 26,18, St. Louis Blues, 4, 1, 5, 7, 3, 31, 12, 122,9, Colorado Avalanche, 8, 1, 3, 6, 1, 25, 39, 420,True
+2021, 4, 26,24, Winnipeg Jets, 5, 0, 0, 2, 3, 36, 15, 191,29, Edmonton Oilers, 6, 2, 3, 5, 4, 31, 20, 220,False
+2021, 4, 27,13, Columbus Blue Jackets, 1, 0, 3, 6, 1, 8, 11, 111,19, Detroit Red Wings, 4, 2, 1, 2, 3, 46, 25, 243,True
+2021, 4, 27,7, Chicago Blackhawks, 5, 0, 1, 1, 5, 22, 34, 330,20, Tampa Bay Lightning, 6, 2, 4, 6, 3, 22, 20, 164,False
+2021, 4, 27,2, Dallas Stars, 7, 1, 4, 7, 1, 17, 19, 165,5, Carolina Hurricanes, 5, 1, 3, 6, 4, 36, 31, 286,False
+2021, 4, 27,15, New Jersey Devils, 0, 1, 5, 7, 3, 36, 31, 270,16, Philadelphia Flyers, 4, 1, 3, 6, 3, 32, 31, 289,True
+2021, 4, 27,12, Nashville Predators, 6, 1, 4, 8, 1, 40, 4, 95,4, Florida Panthers, 5, 1, 1, 2, 2, 11, 27, 253,False
+2021, 4, 27,1, New York Rangers, 7, 1, 6, 11, 3, 34, 19, 162,26, Buffalo Sabres, 4, 1, 3, 4, 4, 40, 24, 176,True
+2021, 4, 27,17, Pittsburgh Penguins, 8, 1, 1, 2, 0, 30, 12, 147,0, Boston Bruins, 6, 1, 0, 1, 4, 28, 25, 156,False
+2021, 4, 27,21, Washington Capitals, 6, 2, 6, 9, 5, 27, 14, 146,14, New York Islanders, 5, 0, 3, 1, 6, 30, 15, 171,True
+2021, 4, 28,6, Los Angeles Kings, 4, 2, 4, 5, 4, 40, 17, 168,23, Anaheim Ducks, 3, 0, 1, 3, 5, 31, 29, 247,False
+2021, 4, 28,8, Minnesota Wild, 8, 0, 6, 9, 2, 42, 19, 146,18, St. Louis Blues, 5, 2, 4, 8, 1, 32, 10, 123,False
+2021, 4, 28,10, Montreal Canadiens, 4, 1, 2, 3, 1, 22, 17, 152,11, Toronto Maple Leafs, 5, 1, 4, 8, 1, 26, 25, 217,False
+2021, 4, 28,25, Ottawa Senators, 5, 1, 2, 2, 1, 26, 31, 281,22, Vancouver Canucks, 5, 1, 1, 2, 2, 24, 28, 224,True
+2021, 4, 28,28, San Jose Sharks, 2, 1, 6, 7, 4, 25, 15, 82,30, Arizona Coyotes, 2, 1, 4, 8, 4, 11, 28, 190,True
+2021, 4, 28,31, Vegas Golden Knights, 9, 1, 5, 7, 2, 33, 18, 154,9, Colorado Avalanche, 7, 1, 1, 2, 4, 29, 42, 415,True
+2021, 4, 28,24, Winnipeg Jets, 5, 0, 1, 2, 6, 23, 17, 159,29, Edmonton Oilers, 6, 2, 6, 8, 2, 30, 18, 197,False
+2021, 4, 29,0, Boston Bruins, 7, 1, 3, 6, 1, 26, 22, 154,26, Buffalo Sabres, 4, 1, 1, 1, 3, 41, 23, 177,True
+2021, 4, 29,5, Carolina Hurricanes, 5, 0, 5, 10, 4, 31, 28, 278,19, Detroit Red Wings, 4, 2, 0, 0, 2, 52, 22, 230,True
+2021, 4, 29,7, Chicago Blackhawks, 5, 2, 4, 7, 3, 11, 33, 310,4, Florida Panthers, 6, 0, 7, 12, 0, 9, 25, 224,False
+2021, 4, 29,29, Edmonton Oilers, 7, 1, 3, 6, 1, 37, 17, 197,27, Calgary Flames, 5, 1, 1, 2, 2, 24, 27, 223,False
+2021, 4, 29,8, Minnesota Wild, 7, 0, 3, 4, 4, 32, 20, 151,18, St. Louis Blues, 6, 2, 4, 7, 2, 30, 15, 127,False
+2021, 4, 29,15, New Jersey Devils, 1, 1, 6, 9, 4, 30, 32, 264,16, Philadelphia Flyers, 4, 1, 4, 4, 4, 24, 36, 262,True
+2021, 4, 29,1, New York Rangers, 7, 0, 3, 3, 1, 37, 17, 165,14, New York Islanders, 4, 2, 0, 1, 0, 28, 10, 174,False
+2021, 4, 29,20, Tampa Bay Lightning, 7, 1, 7, 10, 4, 40, 21, 182,2, Dallas Stars, 6, 1, 1, 0, 3, 32, 23, 178,True
+2021, 4, 29,11, Toronto Maple Leafs, 5, 0, 3, 5, 5, 28, 25, 224,22, Vancouver Canucks, 4, 2, 3, 4, 2, 27, 30, 239,True
+2021, 4, 29,21, Washington Capitals, 7, 1, 1, 2, 0, 18, 11, 134,17, Pittsburgh Penguins, 7, 1, 1, 2, 3, 31, 15, 152,False
+2021, 4, 30,23, Anaheim Ducks, 3, 1, 3, 4, 2, 30, 27, 226,6, Los Angeles Kings, 4, 1, 2, 4, 1, 22, 15, 176,False
+2021, 4, 30,30, Arizona Coyotes, 2, 0, 2, 4, 1, 22, 29, 202,31, Vegas Golden Knights, 10, 2, 4, 7, 1, 24, 18, 158,True
+2021, 4, 30,9, Colorado Avalanche, 6, 1, 3, 3, 2, 37, 43, 388,28, San Jose Sharks, 2, 1, 4, 7, 3, 8, 13, 83,True
+2021, 4, 30,10, Montreal Canadiens, 4, 0, 1, 2, 4, 29, 20, 159,24, Winnipeg Jets, 4, 2, 1, 1, 2, 26, 13, 162,True
+2021, 5, 1,23, Anaheim Ducks, 3, 1, 1, 1, 5, 48, 27, 221,6, Los Angeles Kings, 4, 1, 2, 4, 3, 22, 15, 188,True
+2021, 5, 1,30, Arizona Coyotes, 3, 1, 2, 5, 3, 30, 28, 205,31, Vegas Golden Knights, 9, 1, 1, 0, 2, 37, 19, 165,False
+2021, 5, 1,0, Boston Bruins, 8, 1, 5, 6, 1, 29, 23, 159,26, Buffalo Sabres, 3, 1, 2, 5, 4, 39, 25, 182,True
+2021, 5, 1,5, Carolina Hurricanes, 6, 2, 3, 5, 1, 28, 25, 264,13, Columbus Blue Jackets, 1, 0, 0, 0, 0, 41, 12, 154,True
+2021, 5, 1,7, Chicago Blackhawks, 4, 1, 3, 6, 4, 39, 35, 345,4, Florida Panthers, 7, 1, 4, 7, 4, 21, 28, 242,False
+2021, 5, 1,9, Colorado Avalanche, 6, 2, 3, 6, 4, 25, 41, 372,28, San Jose Sharks, 2, 0, 0, 1, 2, 30, 12, 110,True
+2021, 5, 1,19, Detroit Red Wings, 4, 1, 1, 0, 0, 33, 23, 210,20, Tampa Bay Lightning, 7, 1, 3, 0, 1, 25, 17, 162,True
+2021, 5, 1,29, Edmonton Oilers, 6, 0, 1, 1, 3, 30, 20, 179,27, Calgary Flames, 6, 2, 3, 6, 1, 31, 25, 200,True
+2021, 5, 1,8, Minnesota Wild, 7, 0, 5, 6, 3, 30, 20, 144,18, St. Louis Blues, 7, 2, 5, 4, 3, 29, 16, 120,True
+2021, 5, 1,10, Montreal Canadiens, 4, 0, 5, 7, 4, 33, 19, 152,25, Ottawa Senators, 6, 2, 6, 7, 4, 38, 33, 277,True
+2021, 5, 1,12, Nashville Predators, 5, 1, 4, 7, 6, 55, 9, 110,2, Dallas Stars, 6, 1, 0, 0, 5, 30, 22, 173,True
+2021, 5, 1,14, New York Islanders, 4, 2, 4, 7, 0, 25, 11, 178,1, New York Rangers, 7, 0, 0, 1, 1, 27, 19, 154,True
+2021, 5, 1,16, Philadelphia Flyers, 3, 0, 3, 4, 5, 26, 36, 256,15, New Jersey Devils, 2, 2, 5, 9, 3, 24, 31, 258,False
+2021, 5, 1,11, Toronto Maple Leafs, 5, 1, 4, 10, 1, 33, 20, 202,22, Vancouver Canucks, 3, 1, 1, 2, 5, 32, 30, 209,True
+2021, 5, 1,21, Washington Capitals, 7, 1, 4, 7, 3, 24, 14, 135,17, Pittsburgh Penguins, 7, 1, 5, 7, 4, 37, 16, 142,False
+2021, 5, 2,19, Detroit Red Wings, 4, 2, 0, 0, 3, 32, 23, 210,20, Tampa Bay Lightning, 6, 0, 0, 0, 4, 17, 16, 152,False
+2021, 5, 3,30, Arizona Coyotes, 3, 1, 3, 4, 3, 34, 26, 209,6, Los Angeles Kings, 4, 1, 2, 3, 1, 34, 18, 197,False
+2021, 5, 3,26, Buffalo Sabres, 3, 0, 2, 4, 0, 0, 22, 158,14, New York Islanders, 5, 2, 3, 5, 0, 28, 8, 187,True
+2021, 5, 3,5, Carolina Hurricanes, 7, 1, 2, 3, 1, 32, 24, 258,7, Chicago Blackhawks, 4, 1, 4, 7, 4, 19, 36, 348,True
+2021, 5, 3,13, Columbus Blue Jackets, 1, 0, 1, 2, 2, 33, 13, 150,12, Nashville Predators, 6, 2, 1, 2, 0, 28, 3, 83,False
+2021, 5, 3,4, Florida Panthers, 7, 1, 5, 8, 3, 27, 28, 256,2, Dallas Stars, 6, 1, 0, 0, 1, 34, 18, 177,True
+2021, 5, 3,8, Minnesota Wild, 8, 2, 4, 7, 5, 21, 20, 137,31, Vegas Golden Knights, 9, 0, 3, 4, 2, 31, 19, 148,True
+2021, 5, 3,10, Montreal Canadiens, 5, 1, 3, 5, 3, 22, 17, 142,11, Toronto Maple Leafs, 5, 1, 5, 8, 1, 27, 20, 196,True
+2021, 5, 3,15, New Jersey Devils, 3, 1, 4, 5, 1, 8, 29, 266,0, Boston Bruins, 8, 1, 6, 10, 2, 31, 23, 133,False
+2021, 5, 3,1, New York Rangers, 6, 1, 0, 0, 3, 26, 21, 152,21, Washington Capitals, 6, 1, 0, 0, 5, 35, 14, 137,False
+2021, 5, 3,25, Ottawa Senators, 6, 1, 2, 6, 3, 39, 32, 278,24, Winnipeg Jets, 3, 1, 3, 2, 0, 7, 15, 170,True
+2021, 5, 3,16, Philadelphia Flyers, 3, 1, 1, 2, 4, 18, 35, 262,17, Pittsburgh Penguins, 7, 1, 4, 1, 2, 36, 12, 129,True
+2021, 5, 3,28, San Jose Sharks, 2, 0, 3, 5, 2, 35, 13, 124,9, Colorado Avalanche, 7, 2, 4, 7, 0, 21, 42, 396,False
+2021, 5, 3,18, St. Louis Blues, 6, 0, 3, 5, 4, 38, 16, 136,23, Anaheim Ducks, 4, 2, 6, 10, 2, 25, 21, 194,True
+2021, 5, 3,22, Vancouver Canucks, 3, 1, 1, 3, 4, 24, 29, 206,29, Edmonton Oilers, 7, 1, 4, 8, 1, 30, 20, 201,False
+2021, 5, 4,26, Buffalo Sabres, 3, 1, 4, 6, 2, 36, 28, 195,14, New York Islanders, 4, 1, 2, 4, 1, 33, 15, 199,True
+2021, 5, 4,5, Carolina Hurricanes, 7, 2, 5, 9, 3, 36, 25, 243,7, Chicago Blackhawks, 3, 0, 2, 3, 0, 19, 35, 331,True
+2021, 5, 4,15, New Jersey Devils, 3, 0, 0, 0, 1, 32, 31, 300,0, Boston Bruins, 8, 2, 3, 5, 1, 5, 21, 122,True
+2021, 5, 4,16, Philadelphia Flyers, 4, 2, 7, 12, 4, 21, 33, 275,17, Pittsburgh Penguins, 7, 0, 2, 4, 2, 7, 16, 113,False
+2021, 5, 4,22, Vancouver Canucks, 3, 1, 3, 3, 4, 29, 29, 213,29, Edmonton Oilers, 7, 1, 5, 8, 1, 30, 22, 194,False
+2021, 5, 5,30, Arizona Coyotes, 3, 1, 2, 4, 0, 25, 28, 234,6, Los Angeles Kings, 4, 1, 3, 4, 0, 15, 15, 152,False
+2021, 5, 5,13, Columbus Blue Jackets, 1, 0, 3, 6, 4, 38, 15, 155,12, Nashville Predators, 6, 2, 4, 7, 3, 32, 6, 87,True
+2021, 5, 5,27, Calgary Flames, 6, 1, 1, 2, 2, 27, 25, 210,24, Winnipeg Jets, 2, 1, 1, 3, 4, 34, 17, 181,False
+2021, 5, 5,8, Minnesota Wild, 8, 2, 5, 9, 5, 32, 20, 148,31, Vegas Golden Knights, 8, 0, 5, 9, 2, 21, 23, 149,False
+2021, 5, 5,1, New York Rangers, 5, 1, 3, 4, 3, 25, 23, 165,21, Washington Capitals, 6, 1, 5, 8, 3, 26, 16, 141,False
+2021, 5, 5,25, Ottawa Senators, 7, 1, 2, 3, 2, 26, 30, 268,10, Montreal Canadiens, 5, 1, 3, 6, 2, 29, 16, 149,True
+2021, 5, 5,28, San Jose Sharks, 2, 0, 4, 4, 4, 44, 16, 120,9, Colorado Avalanche, 7, 2, 5, 7, 4, 27, 46, 402,True
+2021, 5, 5,18, St. Louis Blues, 6, 1, 3, 6, 1, 20, 16, 123,23, Anaheim Ducks, 3, 1, 1, 1, 2, 23, 21, 200,False
+2021, 5, 5,20, Tampa Bay Lightning, 7, 1, 2, 4, 0, 20, 13, 158,2, Dallas Stars, 5, 1, 4, 6, 1, 28, 20, 159,True
+2021, 5, 6,0, Boston Bruins, 7, 1, 3, 6, 2, 19, 24, 138,1, New York Rangers, 4, 1, 2, 5, 5, 39, 23, 174,True
+2021, 5, 6,5, Carolina Hurricanes, 7, 2, 6, 10, 3, 30, 24, 242,7, Chicago Blackhawks, 2, 0, 3, 4, 4, 26, 38, 343,False
+2021, 5, 6,29, Edmonton Oilers, 7, 2, 3, 7, 3, 23, 20, 198,22, Vancouver Canucks, 3, 0, 1, 2, 4, 27, 31, 203,False
+2021, 5, 6,14, New York Islanders, 4, 2, 3, 4, 3, 39, 20, 213,15, New Jersey Devils, 4, 0, 4, 8, 3, 36, 33, 304,False
+2021, 5, 6,17, Pittsburgh Penguins, 7, 1, 7, 13, 3, 33, 17, 146,26, Buffalo Sabres, 4, 1, 2, 5, 3, 48, 29, 207,True
+2021, 5, 6,11, Toronto Maple Leafs, 5, 1, 3, 5, 3, 23, 22, 192,10, Montreal Canadiens, 5, 1, 1, 3, 2, 23, 19, 154,True
+2021, 5, 7,13, Columbus Blue Jackets, 2, 1, 4, 7, 1, 11, 12, 154,19, Detroit Red Wings, 3, 1, 1, 1, 0, 33, 21, 211,False
+2021, 5, 7,6, Los Angeles Kings, 5, 0, 4, 7, 2, 30, 16, 165,9, Colorado Avalanche, 6, 2, 2, 4, 3, 33, 44, 394,False
+2021, 5, 7,8, Minnesota Wild, 7, 2, 3, 4, 3, 31, 18, 150,23, Anaheim Ducks, 3, 0, 2, 4, 2, 31, 21, 203,True
+2021, 5, 7,28, San Jose Sharks, 3, 2, 3, 6, 2, 32, 14, 108,30, Arizona Coyotes, 3, 0, 2, 4, 3, 26, 32, 224,False
+2021, 5, 7,20, Tampa Bay Lightning, 7, 2, 6, 9, 0, 15, 15, 160,2, Dallas Stars, 4, 0, 2, 4, 4, 15, 23, 149,False
+2021, 5, 7,31, Vegas Golden Knights, 8, 1, 3, 5, 6, 32, 23, 156,18, St. Louis Blues, 5, 1, 2, 3, 2, 35, 13, 124,True
+2021, 5, 7,21, Washington Capitals, 6, 2, 5, 8, 2, 21, 13, 126,16, Philadelphia Flyers, 3, 0, 3, 5, 6, 30, 32, 286,False
+2021, 5, 8,0, Boston Bruins, 7, 1, 4, 6, 0, 20, 20, 146,1, New York Rangers, 3, 1, 0, 0, 5, 22, 22, 169,False
+2021, 5, 8,13, Columbus Blue Jackets, 2, 1, 1, 4, 3, 34, 19, 193,19, Detroit Red Wings, 3, 1, 4, 10, 3, 8, 23, 202,True
+2021, 5, 8,29, Edmonton Oilers, 7, 1, 3, 6, 2, 23, 22, 173,22, Vancouver Canucks, 3, 1, 6, 8, 3, 42, 30, 218,True
+2021, 5, 8,4, Florida Panthers, 8, 1, 5, 9, 4, 35, 29, 258,20, Tampa Bay Lightning, 7, 1, 1, 3, 2, 22, 20, 176,True
+2021, 5, 8,6, Los Angeles Kings, 5, 0, 2, 3, 3, 37, 16, 174,9, Colorado Avalanche, 6, 2, 3, 6, 4, 20, 45, 406,False
+2021, 5, 8,8, Minnesota Wild, 7, 2, 4, 7, 3, 34, 17, 146,23, Anaheim Ducks, 3, 0, 1, 2, 2, 25, 23, 208,True
+2021, 5, 8,12, Nashville Predators, 5, 0, 2, 0, 3, 26, 6, 81,5, Carolina Hurricanes, 7, 2, 1, 1, 2, 17, 28, 255,True
+2021, 5, 8,14, New York Islanders, 4, 1, 1, 2, 3, 31, 18, 183,15, New Jersey Devils, 5, 1, 2, 4, 1, 33, 28, 309,True
+2021, 5, 8,17, Pittsburgh Penguins, 8, 1, 8, 14, 4, 31, 22, 167,26, Buffalo Sabres, 3, 1, 4, 6, 8, 34, 29, 184,True
+2021, 5, 8,28, San Jose Sharks, 3, 1, 2, 2, 0, 5, 16, 109,30, Arizona Coyotes, 3, 1, 5, 8, 3, 21, 34, 256,False
+2021, 5, 8,11, Toronto Maple Leafs, 6, 1, 5, 8, 2, 21, 28, 234,10, Montreal Canadiens, 5, 1, 2, 4, 1, 20, 14, 140,True
+2021, 5, 8,31, Vegas Golden Knights, 8, 1, 4, 7, 2, 28, 16, 147,18, St. Louis Blues, 5, 1, 3, 6, 4, 30, 17, 130,True
+2021, 5, 8,24, Winnipeg Jets, 3, 1, 4, 6, 0, 32, 13, 179,25, Ottawa Senators, 7, 1, 4, 9, 1, 29, 29, 273,False
+2021, 5, 8,21, Washington Capitals, 6, 1, 2, 3, 0, 8, 14, 133,16, Philadelphia Flyers, 4, 1, 4, 6, 2, 37, 30, 302,True
+2021, 5, 9,27, Calgary Flames, 5, 0, 0, 0, 4, 19, 23, 188,25, Ottawa Senators, 8, 2, 5, 6, 1, 31, 31, 294,True
+2021, 5, 9,7, Chicago Blackhawks, 3, 1, 2, 4, 5, 42, 35, 339,2, Dallas Stars, 4, 1, 4, 6, 2, 27, 21, 161,True
+2021, 5, 10,0, Boston Bruins, 6, 2, 4, 6, 5, 23, 27, 147,14, New York Islanders, 4, 0, 5, 9, 2, 25, 16, 176,True
+2021, 5, 10,7, Chicago Blackhawks, 3, 1, 4, 8, 1, 37, 32, 336,2, Dallas Stars, 3, 1, 2, 2, 4, 18, 23, 159,False
+2021, 5, 10,4, Florida Panthers, 8, 2, 3, 8, 2, 16, 26, 252,20, Tampa Bay Lightning, 6, 0, 2, 1, 5, 35, 23, 189,True
+2021, 5, 10,6, Los Angeles Kings, 4, 2, 2, 4, 3, 30, 16, 169,18, St. Louis Blues, 5, 0, 1, 2, 4, 35, 16, 128,False
+2021, 5, 10,10, Montreal Canadiens, 4, 1, 2, 2, 3, 26, 16, 146,29, Edmonton Oilers, 7, 1, 4, 8, 4, 4, 23, 163,False
+2021, 5, 10,12, Nashville Predators, 6, 1, 0, 2, 2, 33, 4, 77,5, Carolina Hurricanes, 6, 1, 2, 2, 2, 27, 31, 259,True
+2021, 5, 10,16, Philadelphia Flyers, 4, 0, 1, 3, 2, 30, 33, 305,15, New Jersey Devils, 5, 2, 1, 2, 3, 42, 32, 303,True
+2021, 5, 10,31, Vegas Golden Knights, 8, 2, 4, 5, 3, 25, 15, 140,9, Colorado Avalanche, 6, 0, 3, 6, 2, 17, 43, 406,False
+2021, 5, 10,24, Winnipeg Jets, 2, 2, 2, 3, 2, 18, 16, 169,22, Vancouver Canucks, 2, 0, 3, 3, 4, 34, 30, 211,False
+2021, 5, 11,24, Winnipeg Jets, 1, 1, 1, 3, 3, 22, 17, 182,22, Vancouver Canucks, 3, 1, 3, 4, 4, 31, 27, 217,True
+2021, 5, 11,21, Washington Capitals, 6, 1, 2, 4, 3, 28, 15, 179,0, Boston Bruins, 6, 1, 0, 1, 0, 15, 24, 142,True
+2021, 5, 12,9, Colorado Avalanche, 6, 2, 2, 4, 1, 37, 42, 426,6, Los Angeles Kings, 4, 0, 1, 2, 2, 19, 15, 158,True
+2021, 5, 12,10, Montreal Canadiens, 4, 1, 3, 7, 4, 15, 17, 155,29, Edmonton Oilers, 7, 1, 4, 6, 3, 25, 23, 200,False
+2021, 5, 12,25, Ottawa Senators, 7, 0, 1, 1, 2, 13, 32, 284,11, Toronto Maple Leafs, 7, 2, 3, 5, 4, 18, 28, 236,True
+2021, 5, 12,28, San Jose Sharks, 3, 0, 4, 5, 5, 32, 21, 136,31, Vegas Golden Knights, 7, 2, 1, 2, 1, 21, 14, 136,False
+2021, 5, 12,18, St. Louis Blues, 6, 1, 2, 4, 3, 28, 14, 129,8, Minnesota Wild, 7, 1, 4, 7, 3, 22, 17, 134,True
+2021, 5, 13,27, Calgary Flames, 5, 1, 6, 11, 1, 20, 21, 193,22, Vancouver Canucks, 2, 1, 0, 0, 1, 40, 28, 222,True
+2021, 5, 13,9, Colorado Avalanche, 7, 2, 6, 11, 2, 18, 41, 407,6, Los Angeles Kings, 4, 0, 0, 0, 1, 34, 19, 176,True
+2021, 5, 13,18, St. Louis Blues, 6, 1, 4, 7, 1, 27, 11, 132,8, Minnesota Wild, 6, 1, 0, 0, 3, 25, 18, 139,True
+2021, 5, 14,24, Winnipeg Jets, 2, 0, 5, 10, 0, 24, 14, 184,11, Toronto Maple Leafs, 7, 2, 3, 4, 2, 23, 28, 246,True
+2021, 5, 15,29, Edmonton Oilers, 8, 1, 5, 8, 3, 28, 24, 209,22, Vancouver Canucks, 2, 1, 1, 2, 4, 28, 31, 215,False
+2021, 5, 16,22, Vancouver Canucks, 3, 1, 4, 6, 5, 36, 28, 219,27, Calgary Flames, 5, 1, 4, 6, 1, 25, 21, 198,False
+2021, 5, 18,22, Vancouver Canucks, 3, 0, 5, 7, 1, 32, 33, 229,27, Calgary Flames, 6, 2, 5, 10, 4, 34, 29, 242,True
+2021, 5, 19,27, Calgary Flames, 6, 1, 2, 5, 5, 35, 28, 231,22, Vancouver Canucks, 4, 1, 4, 7, 6, 36, 33, 226,True

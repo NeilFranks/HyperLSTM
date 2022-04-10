@@ -1,0 +1,547 @@
+Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
+1970, 10, 9,26, Vancouver Canucks, 0, 0, 0, 3, 0, 0, 0, 0,25, Los Angeles Kings, 3, 0, 3, 3, 1, 23, 6, 85,False
+1970, 10, 10,17, Detroit Red Wings, 6, 0, 5, 6, 2, 26, 11, 91,27, California Golden Seals, 0, 0, 1, 1, 4, 36, 4, 36,True
+1970, 10, 10,21, Philadelphia Flyers, 1, 1, 0, 1, 4, 35, 8, 96,24, Minnesota North Stars, 5, 1, 4, 1, 0, 30, 13, 143,True
+1970, 10, 10,22, Pittsburgh Penguins, 3, 0, 1, 1, 3, 35, 11, 81,28, Buffalo Sabres, 0, 0, 0, 1, 9, 65, 9, 65,False
+1970, 10, 10,23, St. Louis Blues, 5, 1, 0, 3, 0, 19, 7, 92,11, New York Rangers, 6, 1, 9, 12, 3, 20, 10, 43,True
+1970, 10, 11,7, Boston Bruins, 6, 1, 2, 5, 1, 23, 6, 45,17, Detroit Red Wings, 6, 1, 5, 7, 3, 22, 4, 58,True
+1970, 10, 11,12, Chicago Black Hawks, 8, 0, 9, 13, 2, 37, 6, 103,27, California Golden Seals, 0, 0, 3, 6, 0, 0, 5, 33,True
+1970, 10, 11,21, Philadelphia Flyers, 2, 0, 2, 2, 1, 35, 5, 93,1, Montreal Canadiens, 6, 2, 3, 3, 5, 33, 8, 75,False
+1970, 10, 11,26, Vancouver Canucks, 0, 0, 1, 1, 3, 18, 6, 54,13, Toronto Maple Leafs, 2, 0, 1, 2, 4, 43, 12, 135,True
+1970, 10, 12,23, St. Louis Blues, 6, 0, 4, 5, 1, 25, 8, 98,26, Vancouver Canucks, 1, 0, 4, 4, 3, 26, 9, 81,True
+1970, 10, 13,1, Montreal Canadiens, 6, 1, 2, 3, 1, 25, 4, 67,17, Detroit Red Wings, 6, 1, 3, 6, 7, 42, 8, 78,True
+1970, 10, 14,12, Chicago Black Hawks, 8, 0, 5, 8, 1, 14, 5, 80,26, Vancouver Canucks, 1, 0, 2, 5, 0, 0, 7, 59,True
+1970, 10, 14,25, Los Angeles Kings, 4, 0, 3, 4, 1, 26, 6, 88,7, Boston Bruins, 7, 2, 8, 12, 3, 28, 8, 50,False
+1970, 10, 14,11, New York Rangers, 6, 0, 1, 4, 2, 29, 9, 52,28, Buffalo Sabres, 1, 0, 2, 3, 1, 36, 1, 36,True
+1970, 10, 14,13, Toronto Maple Leafs, 2, 2, 3, 1, 1, 16, 14, 142,23, St. Louis Blues, 6, 0, 4, 9, 1, 27, 8, 100,True
+1970, 10, 15,28, Buffalo Sabres, 1, 0, 0, 0, 3, 47, 3, 47,1, Montreal Canadiens, 6, 0, 4, 7, 1, 12, 6, 67,False
+1970, 10, 15,17, Detroit Red Wings, 5, 1, 3, 5, 4, 43, 7, 96,12, Chicago Black Hawks, 9, 1, 8, 17, 3, 40, 13, 105,False
+1970, 10, 15,24, Minnesota North Stars, 5, 1, 1, 2, 1, 35, 15, 143,22, Pittsburgh Penguins, 3, 1, 2, 1, 5, 28, 10, 66,True
+1970, 10, 15,21, Philadelphia Flyers, 2, 0, 1, 1, 1, 32, 7, 102,26, Vancouver Canucks, 1, 0, 2, 3, 4, 40, 15, 99,True
+1970, 10, 16,27, California Golden Seals, 0, 0, 1, 0, 5, 33, 10, 63,7, Boston Bruins, 7, 0, 8, 12, 5, 35, 10, 57,False
+1970, 10, 17,25, Los Angeles Kings, 4, 0, 6, 9, 8, 45, 11, 85,27, California Golden Seals, 0, 0, 1, 2, 5, 33, 10, 63,True
+1970, 10, 17,24, Minnesota North Stars, 5, 1, 4, 8, 2, 30, 16, 135,17, Detroit Red Wings, 5, 1, 1, 0, 2, 25, 5, 78,False
+1970, 10, 17,1, Montreal Canadiens, 6, 0, 3, 4, 3, 25, 6, 69,12, Chicago Black Hawks, 9, 2, 2, 5, 2, 20, 4, 62,True
+1970, 10, 17,22, Pittsburgh Penguins, 3, 2, 2, 3, 2, 20, 9, 76,21, Philadelphia Flyers, 3, 0, 5, 8, 2, 30, 11, 92,False
+1970, 10, 17,23, St. Louis Blues, 6, 0, 3, 6, 4, 13, 14, 109,28, Buffalo Sabres, 1, 0, 0, 0, 3, 53, 3, 53,True
+1970, 10, 17,13, Toronto Maple Leafs, 2, 1, 7, 9, 3, 31, 16, 157,11, New York Rangers, 6, 1, 3, 3, 0, 0, 7, 38,False
+1970, 10, 18,28, Buffalo Sabres, 1, 1, 1, 1, 3, 18, 7, 62,22, Pittsburgh Penguins, 3, 0, 0, 0, 0, 24, 7, 80,False
+1970, 10, 18,12, Chicago Black Hawks, 8, 1, 2, 5, 6, 41, 8, 83,23, St. Louis Blues, 7, 1, 4, 7, 3, 34, 14, 141,False
+1970, 10, 18,17, Detroit Red Wings, 5, 2, 3, 5, 2, 40, 2, 52,24, Minnesota North Stars, 5, 0, 2, 7, 2, 27, 17, 135,False
+1970, 10, 18,11, New York Rangers, 6, 2, 6, 8, 0, 15, 9, 66,1, Montreal Canadiens, 6, 0, 6, 10, 2, 28, 5, 72,True
+1970, 10, 18,21, Philadelphia Flyers, 3, 0, 0, 1, 4, 30, 9, 92,13, Toronto Maple Leafs, 1, 2, 2, 4, 5, 34, 19, 175,True
+1970, 10, 18,26, Vancouver Canucks, 1, 0, 4, 8, 3, 19, 16, 91,7, Boston Bruins, 8, 0, 5, 9, 1, 26, 6, 48,False
+1970, 10, 20,26, Vancouver Canucks, 1, 0, 3, 5, 5, 40, 18, 112,27, California Golden Seals, 0, 0, 1, 2, 6, 31, 6, 34,True
+1970, 10, 21,27, California Golden Seals, 0, 0, 1, 1, 2, 30, 2, 33,23, St. Louis Blues, 7, 0, 2, 4, 1, 27, 13, 140,False
+1970, 10, 21,25, Los Angeles Kings, 5, 1, 6, 9, 1, 24, 4, 64,22, Pittsburgh Penguins, 4, 1, 1, 3, 1, 20, 6, 74,True
+1970, 10, 21,1, Montreal Canadiens, 5, 2, 0, 0, 0, 14, 4, 72,24, Minnesota North Stars, 6, 0, 2, 4, 6, 39, 16, 149,False
+1970, 10, 21,11, New York Rangers, 7, 2, 1, 2, 0, 25, 9, 76,13, Toronto Maple Leafs, 1, 0, 2, 3, 4, 36, 18, 177,True
+1970, 10, 22,7, Boston Bruins, 8, 2, 5, 7, 3, 39, 8, 61,12, Chicago Black Hawks, 7, 0, 2, 4, 2, 22, 5, 67,False
+1970, 10, 22,21, Philadelphia Flyers, 4, 0, 4, 5, 0, 30, 7, 92,28, Buffalo Sabres, 1, 0, 1, 2, 0, 0, 1, 28,True
+1970, 10, 23,28, Buffalo Sabres, 1, 0, 2, 4, 0, 12, 4, 65,17, Detroit Red Wings, 5, 0, 1, 2, 0, 0, 2, 39,True
+1970, 10, 23,27, California Golden Seals, 0, 0, 2, 4, 2, 32, 2, 35,22, Pittsburgh Penguins, 3, 0, 2, 4, 4, 37, 5, 54,False
+1970, 10, 23,26, Vancouver Canucks, 2, 0, 2, 4, 1, 35, 14, 107,23, St. Louis Blues, 8, 1, 2, 4, 2, 33, 14, 139,False
+1970, 10, 24,25, Los Angeles Kings, 6, 0, 4, 7, 2, 27, 5, 67,23, St. Louis Blues, 8, 2, 1, 2, 1, 29, 13, 135,True
+1970, 10, 24,24, Minnesota North Stars, 7, 1, 3, 5, 1, 41, 11, 157,11, New York Rangers, 8, 1, 3, 6, 2, 28, 11, 84,False
+1970, 10, 24,1, Montreal Canadiens, 5, 2, 1, 2, 1, 28, 7, 87,21, Philadelphia Flyers, 5, 0, 4, 6, 2, 30, 9, 82,True
+1970, 10, 24,13, Toronto Maple Leafs, 1, 0, 2, 3, 6, 49, 17, 170,12, Chicago Black Hawks, 7, 2, 3, 5, 3, 36, 5, 87,False
+1970, 10, 25,7, Boston Bruins, 7, 2, 3, 6, 5, 22, 8, 51,21, Philadelphia Flyers, 5, 0, 1, 2, 2, 20, 9, 93,True
+1970, 10, 25,28, Buffalo Sabres, 2, 0, 4, 6, 3, 32, 7, 85,12, Chicago Black Hawks, 7, 0, 1, 2, 0, 31, 2, 82,False
+1970, 10, 25,17, Detroit Red Wings, 4, 1, 2, 3, 2, 27, 10, 72,1, Montreal Canadiens, 6, 1, 3, 3, 1, 25, 7, 84,False
+1970, 10, 25,11, New York Rangers, 8, 0, 4, 7, 2, 33, 10, 84,27, California Golden Seals, 0, 0, 1, 2, 3, 32, 3, 35,False
+1970, 10, 25,26, Vancouver Canucks, 2, 0, 1, 2, 8, 40, 14, 101,22, Pittsburgh Penguins, 3, 0, 3, 2, 0, 9, 1, 34,False
+1970, 10, 27,26, Vancouver Canucks, 2, 0, 1, 1, 1, 29, 7, 88,28, Buffalo Sabres, 2, 0, 0, 0, 4, 21, 7, 61,True
+1970, 10, 28,24, Minnesota North Stars, 7, 0, 1, 1, 1, 47, 14, 162,12, Chicago Black Hawks, 8, 2, 4, 7, 0, 17, 2, 68,True
+1970, 10, 28,11, New York Rangers, 7, 1, 2, 4, 2, 26, 10, 77,17, Detroit Red Wings, 3, 1, 4, 6, 3, 32, 14, 95,True
+1970, 10, 28,22, Pittsburgh Penguins, 4, 0, 1, 2, 1, 24, 2, 49,25, Los Angeles Kings, 7, 2, 3, 6, 1, 33, 4, 73,True
+1970, 10, 28,23, St. Louis Blues, 8, 1, 1, 0, 3, 28, 10, 123,27, California Golden Seals, 1, 0, 2, 3, 2, 30, 2, 33,True
+1970, 10, 28,13, Toronto Maple Leafs, 1, 0, 0, 0, 1, 38, 12, 159,1, Montreal Canadiens, 6, 2, 3, 4, 3, 26, 9, 85,True
+1970, 10, 29,17, Detroit Red Wings, 2, 0, 1, 0, 4, 33, 15, 96,7, Boston Bruins, 8, 2, 4, 7, 3, 29, 6, 49,True
+1970, 10, 29,21, Philadelphia Flyers, 5, 1, 3, 6, 2, 41, 11, 114,25, Los Angeles Kings, 6, 1, 3, 4, 0, 0, 8, 79,True
+1970, 10, 30,27, California Golden Seals, 1, 0, 2, 4, 3, 36, 3, 39,28, Buffalo Sabres, 2, 0, 2, 4, 7, 39, 10, 79,True
+1970, 10, 31,7, Boston Bruins, 7, 2, 3, 6, 3, 20, 8, 63,11, New York Rangers, 7, 0, 4, 6, 1, 27, 9, 78,True
+1970, 10, 31,1, Montreal Canadiens, 6, 0, 1, 3, 3, 29, 12, 91,26, Vancouver Canucks, 3, 0, 7, 10, 2, 30, 8, 89,True
+1970, 10, 31,22, Pittsburgh Penguins, 4, 0, 5, 8, 3, 36, 6, 74,12, Chicago Black Hawks, 7, 2, 1, 2, 1, 18, 8, 91,False
+1970, 10, 31,23, St. Louis Blues, 8, 1, 3, 6, 2, 26, 10, 118,25, Los Angeles Kings, 5, 1, 1, 2, 5, 39, 12, 129,True
+1970, 10, 31,13, Toronto Maple Leafs, 2, 0, 6, 10, 2, 35, 13, 156,24, Minnesota North Stars, 7, 2, 3, 5, 3, 30, 14, 146,False
+1970, 11, 1,7, Boston Bruins, 8, 1, 6, 10, 5, 43, 5, 78,24, Minnesota North Stars, 7, 1, 3, 5, 4, 46, 12, 150,True
+1970, 11, 1,17, Detroit Red Wings, 3, 2, 5, 6, 3, 35, 11, 91,13, Toronto Maple Leafs, 2, 0, 1, 2, 3, 29, 13, 155,False
+1970, 11, 1,25, Los Angeles Kings, 5, 0, 0, 0, 3, 36, 10, 128,28, Buffalo Sabres, 2, 0, 1, 2, 4, 32, 9, 85,True
+1970, 11, 1,11, New York Rangers, 7, 0, 0, 0, 1, 28, 14, 98,12, Chicago Black Hawks, 7, 2, 5, 9, 2, 34, 7, 104,True
+1970, 11, 1,21, Philadelphia Flyers, 6, 1, 3, 4, 4, 41, 10, 108,22, Pittsburgh Penguins, 4, 1, 2, 2, 1, 22, 8, 78,True
+1970, 11, 4,12, Chicago Black Hawks, 6, 1, 2, 4, 5, 38, 10, 108,17, Detroit Red Wings, 2, 1, 4, 7, 5, 30, 13, 96,True
+1970, 11, 4,27, California Golden Seals, 2, 1, 6, 10, 1, 21, 1, 24,11, New York Rangers, 7, 0, 5, 9, 6, 47, 15, 97,True
+1970, 11, 4,25, Los Angeles Kings, 6, 1, 4, 6, 3, 38, 9, 117,13, Toronto Maple Leafs, 3, 1, 5, 7, 2, 34, 14, 159,True
+1970, 11, 4,24, Minnesota North Stars, 6, 1, 0, 0, 1, 31, 13, 163,1, Montreal Canadiens, 7, 1, 6, 9, 3, 28, 10, 94,False
+1970, 11, 4,22, Pittsburgh Penguins, 4, 1, 2, 4, 3, 33, 10, 89,26, Vancouver Canucks, 3, 0, 3, 5, 5, 32, 12, 104,True
+1970, 11, 5,7, Boston Bruins, 8, 1, 5, 10, 0, 35, 0, 65,23, St. Louis Blues, 8, 1, 3, 6, 0, 17, 9, 107,False
+1970, 11, 5,28, Buffalo Sabres, 1, 0, 2, 3, 4, 42, 9, 95,26, Vancouver Canucks, 2, 1, 3, 5, 5, 23, 14, 79,False
+1970, 11, 5,17, Detroit Red Wings, 2, 1, 2, 4, 4, 33, 12, 79,21, Philadelphia Flyers, 7, 1, 3, 5, 1, 35, 4, 96,True
+1970, 11, 6,27, California Golden Seals, 3, 0, 3, 5, 1, 24, 1, 27,13, Toronto Maple Leafs, 3, 0, 2, 0, 4, 33, 15, 158,True
+1970, 11, 7,25, Los Angeles Kings, 6, 0, 3, 6, 2, 32, 8, 111,11, New York Rangers, 7, 2, 1, 1, 2, 27, 12, 85,False
+1970, 11, 7,24, Minnesota North Stars, 5, 1, 3, 5, 1, 34, 16, 166,23, St. Louis Blues, 8, 1, 2, 4, 0, 25, 7, 102,False
+1970, 11, 7,1, Montreal Canadiens, 7, 1, 4, 8, 3, 42, 10, 97,28, Buffalo Sabres, 1, 0, 1, 0, 2, 16, 9, 75,True
+1970, 11, 7,21, Philadelphia Flyers, 6, 0, 1, 1, 2, 29, 6, 96,12, Chicago Black Hawks, 6, 2, 4, 8, 2, 32, 10, 96,False
+1970, 11, 7,22, Pittsburgh Penguins, 5, 0, 8, 14, 3, 35, 19, 129,7, Boston Bruins, 7, 2, 0, 0, 0, 30, 1, 54,False
+1970, 11, 7,26, Vancouver Canucks, 3, 1, 4, 8, 6, 45, 10, 88,13, Toronto Maple Leafs, 3, 0, 4, 5, 8, 29, 19, 154,True
+1970, 11, 8,7, Boston Bruins, 7, 1, 2, 3, 1, 24, 3, 59,1, Montreal Canadiens, 7, 1, 11, 16, 2, 21, 9, 76,True
+1970, 11, 8,28, Buffalo Sabres, 1, 0, 2, 3, 4, 22, 18, 113,21, Philadelphia Flyers, 6, 1, 1, 1, 3, 35, 5, 102,False
+1970, 11, 8,12, Chicago Black Hawks, 6, 1, 1, 2, 2, 22, 9, 89,24, Minnesota North Stars, 5, 1, 1, 2, 4, 34, 16, 155,False
+1970, 11, 8,17, Detroit Red Wings, 3, 1, 3, 4, 1, 35, 8, 95,22, Pittsburgh Penguins, 5, 1, 2, 4, 2, 30, 18, 124,False
+1970, 11, 10,7, Boston Bruins, 7, 1, 6, 12, 2, 35, 3, 65,26, Vancouver Canucks, 4, 0, 3, 4, 1, 32, 6, 72,True
+1970, 11, 10,22, Pittsburgh Penguins, 6, 1, 3, 5, 3, 44, 19, 138,25, Los Angeles Kings, 5, 1, 2, 4, 2, 25, 11, 114,False
+1970, 11, 11,12, Chicago Black Hawks, 6, 2, 4, 5, 1, 25, 10, 95,21, Philadelphia Flyers, 6, 0, 3, 5, 1, 35, 8, 97,True
+1970, 11, 11,27, California Golden Seals, 4, 0, 8, 10, 4, 30, 4, 33,1, Montreal Canadiens, 6, 0, 1, 3, 2, 31, 7, 71,True
+1970, 11, 11,24, Minnesota North Stars, 5, 1, 3, 4, 5, 59, 15, 149,25, Los Angeles Kings, 6, 1, 5, 9, 1, 28, 10, 124,True
+1970, 11, 11,11, New York Rangers, 7, 1, 6, 9, 3, 35, 12, 94,22, Pittsburgh Penguins, 5, 1, 1, 2, 5, 40, 21, 122,False
+1970, 11, 11,13, Toronto Maple Leafs, 2, 0, 2, 3, 2, 16, 11, 124,26, Vancouver Canucks, 4, 2, 3, 4, 2, 29, 11, 82,False
+1970, 11, 12,23, St. Louis Blues, 8, 0, 1, 0, 0, 13, 6, 95,17, Detroit Red Wings, 3, 2, 3, 6, 3, 26, 10, 86,True
+1970, 11, 13,28, Buffalo Sabres, 1, 0, 1, 2, 3, 36, 17, 127,27, California Golden Seals, 5, 1, 2, 4, 0, 25, 0, 28,True
+1970, 11, 14,12, Chicago Black Hawks, 7, 1, 7, 14, 1, 32, 10, 102,11, New York Rangers, 6, 1, 3, 5, 2, 36, 12, 88,True
+1970, 11, 14,24, Minnesota North Stars, 6, 0, 3, 4, 1, 26, 11, 116,26, Vancouver Canucks, 5, 0, 4, 7, 2, 38, 11, 91,False
+1970, 11, 14,22, Pittsburgh Penguins, 6, 1, 3, 6, 3, 27, 19, 109,27, California Golden Seals, 5, 0, 2, 4, 4, 22, 4, 25,True
+1970, 11, 14,23, St. Louis Blues, 9, 1, 2, 4, 1, 35, 7, 108,1, Montreal Canadiens, 5, 1, 0, 0, 2, 34, 7, 74,False
+1970, 11, 14,13, Toronto Maple Leafs, 2, 0, 2, 2, 4, 34, 13, 142,7, Boston Bruins, 7, 2, 6, 11, 1, 30, 4, 61,True
+1970, 11, 15,7, Boston Bruins, 6, 1, 2, 4, 3, 31, 6, 62,27, California Golden Seals, 5, 0, 1, 1, 5, 25, 6, 40,False
+1970, 11, 15,28, Buffalo Sabres, 2, 0, 5, 8, 2, 36, 16, 127,1, Montreal Canadiens, 6, 2, 1, 2, 1, 33, 6, 73,False
+1970, 11, 15,12, Chicago Black Hawks, 7, 1, 2, 4, 3, 28, 10, 100,26, Vancouver Canucks, 5, 0, 3, 5, 6, 42, 12, 83,True
+1970, 11, 15,25, Los Angeles Kings, 5, 0, 1, 2, 6, 42, 12, 129,17, Detroit Red Wings, 2, 2, 1, 0, 4, 24, 8, 82,False
+1970, 11, 15,11, New York Rangers, 5, 2, 1, 2, 3, 29, 12, 74,13, Toronto Maple Leafs, 3, 0, 3, 6, 2, 42, 11, 150,True
+1970, 11, 15,21, Philadelphia Flyers, 5, 0, 1, 2, 0, 13, 11, 66,23, St. Louis Blues, 8, 2, 1, 1, 1, 26, 7, 110,False
+1970, 11, 17,1, Montreal Canadiens, 7, 0, 3, 3, 2, 15, 7, 55,27, California Golden Seals, 6, 1, 2, 2, 1, 42, 2, 57,True
+1970, 11, 17,23, St. Louis Blues, 8, 1, 2, 4, 1, 37, 7, 112,24, Minnesota North Stars, 5, 1, 3, 6, 1, 23, 13, 126,False
+1970, 11, 17,26, Vancouver Canucks, 5, 0, 2, 3, 3, 30, 10, 76,17, Detroit Red Wings, 3, 0, 3, 7, 2, 27, 8, 91,False
+1970, 11, 18,25, Los Angeles Kings, 4, 0, 4, 6, 4, 33, 10, 120,11, New York Rangers, 5, 2, 4, 6, 2, 22, 11, 68,False
+1970, 11, 18,24, Minnesota North Stars, 5, 0, 5, 8, 3, 28, 15, 136,7, Boston Bruins, 6, 2, 1, 2, 3, 31, 5, 59,False
+1970, 11, 18,13, Toronto Maple Leafs, 3, 0, 2, 4, 3, 32, 12, 140,28, Buffalo Sabres, 2, 0, 3, 4, 2, 31, 16, 122,False
+1970, 11, 19,1, Montreal Canadiens, 7, 1, 5, 7, 1, 26, 8, 76,13, Toronto Maple Leafs, 3, 1, 2, 3, 6, 26, 16, 140,True
+1970, 11, 19,21, Philadelphia Flyers, 4, 0, 1, 1, 7, 18, 10, 59,27, California Golden Seals, 6, 0, 1, 1, 5, 33, 6, 48,True
+1970, 11, 19,22, Pittsburgh Penguins, 6, 0, 6, 10, 1, 26, 17, 108,23, St. Louis Blues, 7, 2, 3, 5, 1, 28, 11, 102,False
+1970, 11, 20,26, Vancouver Canucks, 5, 0, 2, 4, 4, 21, 8, 40,25, Los Angeles Kings, 3, 1, 3, 3, 5, 35, 11, 122,True
+1970, 11, 21,25, Los Angeles Kings, 3, 1, 1, 2, 3, 13, 10, 82,26, Vancouver Canucks, 5, 1, 6, 11, 3, 11, 5, 45,False
+1970, 11, 21,24, Minnesota North Stars, 5, 0, 4, 8, 3, 36, 20, 155,28, Buffalo Sabres, 2, 0, 7, 10, 2, 46, 16, 137,True
+1970, 11, 21,1, Montreal Canadiens, 7, 0, 5, 6, 1, 36, 8, 86,11, New York Rangers, 5, 2, 5, 5, 2, 23, 12, 66,False
+1970, 11, 21,21, Philadelphia Flyers, 4, 0, 6, 9, 2, 29, 5, 70,7, Boston Bruins, 6, 2, 8, 15, 2, 28, 6, 48,False
+1970, 11, 21,22, Pittsburgh Penguins, 5, 1, 0, 0, 1, 22, 17, 104,17, Detroit Red Wings, 4, 1, 5, 7, 4, 33, 9, 95,True
+1970, 11, 21,23, St. Louis Blues, 7, 1, 1, 0, 0, 20, 10, 94,12, Chicago Black Hawks, 7, 1, 4, 5, 2, 31, 6, 76,False
+1970, 11, 21,13, Toronto Maple Leafs, 2, 0, 1, 1, 1, 16, 14, 140,27, California Golden Seals, 5, 1, 2, 4, 5, 31, 6, 39,True
+1970, 11, 22,7, Boston Bruins, 7, 2, 5, 6, 4, 20, 6, 55,22, Pittsburgh Penguins, 5, 0, 6, 11, 1, 35, 17, 117,True
+1970, 11, 22,12, Chicago Black Hawks, 7, 1, 3, 6, 3, 26, 7, 71,27, California Golden Seals, 5, 0, 3, 3, 3, 15, 4, 33,True
+1970, 11, 22,11, New York Rangers, 6, 1, 5, 9, 3, 20, 14, 88,24, Minnesota North Stars, 5, 1, 3, 4, 8, 47, 17, 141,True
+1970, 11, 22,21, Philadelphia Flyers, 4, 1, 2, 3, 4, 30, 6, 48,17, Detroit Red Wings, 4, 1, 1, 2, 2, 31, 11, 89,False
+1970, 11, 24,23, St. Louis Blues, 7, 2, 3, 2, 3, 24, 15, 131,7, Boston Bruins, 7, 0, 4, 6, 2, 35, 4, 68,False
+1970, 11, 24,13, Toronto Maple Leafs, 3, 2, 5, 9, 3, 49, 16, 173,22, Pittsburgh Penguins, 5, 0, 2, 3, 5, 28, 20, 115,False
+1970, 11, 24,26, Vancouver Canucks, 6, 1, 4, 5, 1, 26, 3, 71,24, Minnesota North Stars, 4, 0, 0, 0, 0, 22, 11, 122,True
+1970, 11, 25,12, Chicago Black Hawks, 8, 1, 9, 13, 0, 32, 4, 77,1, Montreal Canadiens, 7, 1, 4, 7, 4, 17, 12, 90,True
+1970, 11, 25,27, California Golden Seals, 4, 0, 0, 0, 1, 18, 10, 54,25, Los Angeles Kings, 3, 1, 1, 2, 3, 15, 10, 84,False
+1970, 11, 25,21, Philadelphia Flyers, 4, 1, 2, 3, 3, 34, 5, 52,11, New York Rangers, 6, 1, 2, 3, 4, 45, 11, 99,True
+1970, 11, 25,22, Pittsburgh Penguins, 6, 1, 4, 6, 4, 37, 19, 124,28, Buffalo Sabres, 2, 1, 0, 0, 3, 31, 17, 122,False
+1970, 11, 26,7, Boston Bruins, 7, 1, 4, 7, 2, 33, 7, 66,12, Chicago Black Hawks, 8, 1, 5, 10, 1, 30, 5, 93,True
+1970, 11, 26,28, Buffalo Sabres, 3, 0, 4, 8, 4, 37, 18, 128,11, New York Rangers, 6, 1, 1, 2, 0, 31, 9, 81,False
+1970, 11, 26,17, Detroit Red Wings, 5, 1, 2, 6, 2, 41, 10, 109,26, Vancouver Canucks, 7, 0, 3, 6, 2, 28, 4, 73,True
+1970, 11, 26,23, St. Louis Blues, 6, 0, 5, 8, 5, 36, 18, 126,13, Toronto Maple Leafs, 2, 2, 4, 8, 4, 32, 17, 156,True
+1970, 11, 27,27, California Golden Seals, 3, 0, 1, 0, 3, 26, 12, 62,24, Minnesota North Stars, 4, 0, 2, 3, 3, 23, 14, 123,False
+1970, 11, 28,12, Chicago Black Hawks, 8, 2, 2, 4, 3, 32, 7, 105,21, Philadelphia Flyers, 4, 0, 3, 6, 1, 26, 3, 45,True
+1970, 11, 28,25, Los Angeles Kings, 4, 0, 3, 6, 1, 31, 10, 112,24, Minnesota North Stars, 5, 2, 3, 6, 2, 22, 13, 122,False
+1970, 11, 28,1, Montreal Canadiens, 6, 1, 2, 6, 5, 40, 13, 102,22, Pittsburgh Penguins, 5, 1, 4, 8, 4, 18, 19, 105,True
+1970, 11, 28,11, New York Rangers, 6, 0, 2, 4, 2, 27, 11, 74,7, Boston Bruins, 8, 2, 3, 5, 5, 33, 7, 52,False
+1970, 11, 28,23, St. Louis Blues, 6, 2, 1, 0, 0, 32, 10, 122,26, Vancouver Canucks, 6, 0, 2, 4, 3, 17, 5, 63,True
+1970, 11, 28,13, Toronto Maple Leafs, 2, 1, 0, 0, 1, 32, 14, 156,17, Detroit Red Wings, 5, 1, 4, 7, 2, 27, 10, 95,True
+1970, 11, 29,7, Boston Bruins, 8, 1, 3, 4, 2, 19, 5, 54,13, Toronto Maple Leafs, 3, 1, 9, 16, 2, 21, 17, 157,True
+1970, 11, 29,28, Buffalo Sabres, 3, 1, 2, 4, 2, 41, 16, 132,27, California Golden Seals, 2, 1, 2, 2, 3, 25, 12, 61,False
+1970, 11, 29,12, Chicago Black Hawks, 8, 2, 3, 5, 1, 30, 7, 96,25, Los Angeles Kings, 3, 0, 2, 4, 4, 17, 12, 105,True
+1970, 11, 29,17, Detroit Red Wings, 5, 0, 4, 7, 3, 9, 17, 92,1, Montreal Canadiens, 6, 2, 5, 6, 1, 21, 9, 83,True
+1970, 11, 29,11, New York Rangers, 6, 1, 3, 6, 3, 19, 12, 66,22, Pittsburgh Penguins, 5, 1, 1, 2, 4, 33, 20, 116,True
+1970, 11, 29,21, Philadelphia Flyers, 3, 1, 1, 2, 3, 30, 5, 49,26, Vancouver Canucks, 5, 0, 1, 1, 1, 9, 7, 75,True
+1970, 12, 1,26, Vancouver Canucks, 5, 0, 2, 2, 1, 37, 10, 102,21, Philadelphia Flyers, 4, 2, 4, 8, 2, 21, 7, 67,True
+1970, 12, 2,12, Chicago Black Hawks, 8, 1, 5, 10, 3, 24, 10, 78,7, Boston Bruins, 8, 1, 5, 6, 3, 35, 5, 61,True
+1970, 12, 2,24, Minnesota North Stars, 6, 1, 3, 5, 2, 35, 13, 135,27, California Golden Seals, 2, 0, 2, 3, 1, 24, 10, 60,True
+1970, 12, 2,11, New York Rangers, 6, 0, 5, 9, 2, 24, 11, 81,23, St. Louis Blues, 6, 2, 5, 5, 1, 24, 14, 115,True
+1970, 12, 2,22, Pittsburgh Penguins, 4, 0, 2, 3, 5, 29, 22, 127,1, Montreal Canadiens, 5, 2, 3, 4, 5, 29, 13, 94,False
+1970, 12, 2,13, Toronto Maple Leafs, 3, 1, 2, 3, 4, 33, 18, 172,25, Los Angeles Kings, 2, 1, 3, 6, 1, 31, 10, 107,True
+1970, 12, 3,28, Buffalo Sabres, 3, 0, 1, 1, 2, 32, 16, 123,7, Boston Bruins, 7, 0, 3, 6, 2, 26, 6, 53,False
+1970, 12, 3,17, Detroit Red Wings, 6, 2, 5, 10, 6, 24, 19, 118,25, Los Angeles Kings, 2, 0, 0, 0, 4, 12, 16, 108,False
+1970, 12, 3,1, Montreal Canadiens, 6, 2, 2, 4, 3, 36, 11, 101,23, St. Louis Blues, 5, 0, 2, 3, 5, 27, 13, 129,True
+1970, 12, 4,27, California Golden Seals, 2, 0, 2, 4, 3, 35, 12, 71,21, Philadelphia Flyers, 4, 1, 4, 8, 5, 26, 10, 72,False
+1970, 12, 5,25, Los Angeles Kings, 2, 1, 4, 6, 4, 36, 16, 132,21, Philadelphia Flyers, 4, 1, 4, 8, 0, 22, 5, 68,False
+1970, 12, 5,24, Minnesota North Stars, 6, 2, 3, 5, 2, 26, 13, 126,12, Chicago Black Hawks, 9, 0, 4, 6, 3, 42, 10, 110,False
+1970, 12, 5,1, Montreal Canadiens, 7, 1, 6, 10, 5, 32, 11, 92,7, Boston Bruins, 8, 1, 4, 5, 4, 30, 8, 57,False
+1970, 12, 5,22, Pittsburgh Penguins, 4, 2, 3, 5, 3, 25, 20, 123,26, Vancouver Canucks, 5, 0, 5, 9, 4, 44, 13, 109,True
+1970, 12, 5,23, St. Louis Blues, 4, 1, 3, 5, 4, 36, 14, 129,17, Detroit Red Wings, 5, 1, 4, 7, 3, 37, 17, 127,True
+1970, 12, 5,13, Toronto Maple Leafs, 4, 0, 7, 9, 0, 35, 14, 174,11, New York Rangers, 7, 2, 4, 6, 2, 34, 11, 92,False
+1970, 12, 6,7, Boston Bruins, 9, 2, 4, 7, 4, 27, 6, 55,22, Pittsburgh Penguins, 4, 0, 2, 3, 1, 23, 18, 121,True
+1970, 12, 6,28, Buffalo Sabres, 3, 0, 4, 6, 4, 30, 18, 121,24, Minnesota North Stars, 5, 1, 1, 2, 3, 33, 15, 131,True
+1970, 12, 6,12, Chicago Black Hawks, 9, 2, 4, 6, 1, 26, 8, 94,13, Toronto Maple Leafs, 3, 0, 0, 0, 3, 36, 15, 170,True
+1970, 12, 6,17, Detroit Red Wings, 5, 0, 0, 0, 4, 33, 13, 123,23, St. Louis Blues, 5, 2, 3, 6, 0, 29, 11, 118,False
+1970, 12, 6,11, New York Rangers, 8, 0, 1, 0, 2, 35, 9, 96,26, Vancouver Canucks, 4, 0, 1, 2, 4, 36, 12, 108,True
+1970, 12, 8,22, Pittsburgh Penguins, 3, 1, 3, 6, 6, 44, 23, 134,13, Toronto Maple Leafs, 3, 1, 2, 4, 1, 31, 18, 160,True
+1970, 12, 8,26, Vancouver Canucks, 4, 0, 1, 2, 5, 29, 12, 110,11, New York Rangers, 8, 1, 5, 7, 0, 38, 8, 88,True
+1970, 12, 9,12, Chicago Black Hawks, 9, 1, 6, 11, 3, 42, 9, 98,28, Buffalo Sabres, 4, 0, 1, 2, 0, 24, 14, 115,True
+1970, 12, 9,27, California Golden Seals, 2, 0, 0, 0, 4, 32, 13, 68,26, Vancouver Canucks, 5, 1, 4, 8, 3, 43, 8, 108,True
+1970, 12, 9,25, Los Angeles Kings, 2, 0, 4, 7, 4, 26, 15, 110,11, New York Rangers, 7, 2, 1, 2, 1, 27, 12, 74,False
+1970, 12, 9,24, Minnesota North Stars, 5, 2, 0, 0, 1, 22, 13, 120,22, Pittsburgh Penguins, 4, 0, 5, 7, 0, 29, 17, 119,False
+1970, 12, 9,23, St. Louis Blues, 5, 2, 4, 7, 2, 31, 16, 119,21, Philadelphia Flyers, 5, 0, 4, 7, 1, 10, 7, 59,False
+1970, 12, 9,13, Toronto Maple Leafs, 3, 1, 0, 0, 6, 26, 21, 159,1, Montreal Canadiens, 6, 1, 2, 4, 3, 31, 8, 80,True
+1970, 12, 10,7, Boston Bruins, 9, 1, 6, 12, 2, 28, 5, 63,28, Buffalo Sabres, 4, 0, 1, 1, 11, 54, 17, 84,True
+1970, 12, 10,17, Detroit Red Wings, 5, 2, 3, 5, 1, 8, 14, 79,21, Philadelphia Flyers, 6, 0, 5, 10, 4, 38, 8, 80,True
+1970, 12, 10,1, Montreal Canadiens, 5, 1, 0, 0, 3, 27, 9, 81,24, Minnesota North Stars, 4, 1, 2, 4, 2, 28, 14, 120,True
+1970, 12, 11,27, California Golden Seals, 2, 2, 6, 11, 1, 21, 10, 57,11, New York Rangers, 7, 0, 2, 4, 0, 2, 9, 62,False
+1970, 12, 11,23, St. Louis Blues, 5, 2, 2, 4, 6, 27, 19, 120,22, Pittsburgh Penguins, 4, 0, 2, 2, 2, 33, 16, 141,True
+1970, 12, 12,17, Detroit Red Wings, 5, 0, 3, 4, 1, 28, 14, 99,28, Buffalo Sabres, 3, 1, 2, 3, 4, 22, 14, 102,True
+1970, 12, 12,1, Montreal Canadiens, 5, 2, 7, 9, 1, 31, 7, 85,25, Los Angeles Kings, 2, 0, 2, 4, 2, 31, 13, 115,True
+1970, 12, 12,21, Philadelphia Flyers, 5, 0, 1, 1, 2, 31, 6, 76,7, Boston Bruins, 9, 2, 8, 16, 3, 35, 5, 63,False
+1970, 12, 12,22, Pittsburgh Penguins, 4, 1, 2, 3, 6, 36, 17, 136,24, Minnesota North Stars, 4, 1, 1, 1, 4, 31, 18, 124,False
+1970, 12, 12,13, Toronto Maple Leafs, 4, 0, 4, 6, 4, 30, 15, 166,12, Chicago Black Hawks, 9, 2, 6, 10, 1, 30, 11, 95,True
+1970, 12, 12,26, Vancouver Canucks, 4, 1, 1, 1, 1, 27, 7, 61,27, California Golden Seals, 2, 1, 1, 2, 2, 32, 11, 68,True
+1970, 12, 13,7, Boston Bruins, 9, 1, 1, 2, 2, 28, 2, 61,17, Detroit Red Wings, 5, 1, 5, 7, 3, 41, 16, 113,True
+1970, 12, 13,28, Buffalo Sabres, 3, 1, 3, 2, 1, 7, 13, 102,13, Toronto Maple Leafs, 4, 0, 2, 2, 0, 33, 12, 171,False
+1970, 12, 13,12, Chicago Black Hawks, 8, 1, 1, 2, 2, 30, 12, 99,24, Minnesota North Stars, 4, 1, 1, 0, 2, 22, 14, 128,True
+1970, 12, 13,11, New York Rangers, 7, 2, 2, 3, 2, 37, 10, 81,25, Los Angeles Kings, 2, 0, 1, 1, 8, 35, 19, 119,True
+1970, 12, 13,21, Philadelphia Flyers, 5, 1, 0, 0, 2, 34, 5, 83,23, St. Louis Blues, 5, 1, 3, 5, 2, 29, 12, 127,False
+1970, 12, 15,23, St. Louis Blues, 6, 1, 2, 3, 2, 24, 12, 122,24, Minnesota North Stars, 4, 1, 2, 2, 0, 35, 17, 147,True
+1970, 12, 15,26, Vancouver Canucks, 4, 1, 5, 9, 2, 29, 8, 63,21, Philadelphia Flyers, 5, 1, 2, 4, 1, 38, 5, 79,True
+1970, 12, 16,7, Boston Bruins, 9, 2, 6, 11, 0, 33, 2, 60,25, Los Angeles Kings, 2, 0, 0, 0, 7, 32, 15, 124,True
+1970, 12, 16,12, Chicago Black Hawks, 8, 1, 5, 10, 2, 34, 8, 104,23, St. Louis Blues, 7, 1, 2, 4, 5, 32, 11, 137,True
+1970, 12, 16,27, California Golden Seals, 2, 0, 2, 4, 5, 36, 14, 72,17, Detroit Red Wings, 5, 1, 2, 3, 6, 47, 17, 107,True
+1970, 12, 16,24, Minnesota North Stars, 4, 0, 1, 2, 5, 41, 19, 136,1, Montreal Canadiens, 5, 2, 9, 14, 1, 34, 10, 107,False
+1970, 12, 16,11, New York Rangers, 8, 2, 4, 7, 1, 21, 8, 72,28, Buffalo Sabres, 2, 0, 0, 0, 8, 72, 12, 99,True
+1970, 12, 16,22, Pittsburgh Penguins, 3, 2, 0, 0, 1, 30, 8, 95,13, Toronto Maple Leafs, 5, 0, 4, 4, 1, 35, 12, 155,False
+1970, 12, 17,28, Buffalo Sabres, 2, 0, 0, 0, 4, 37, 8, 64,25, Los Angeles Kings, 2, 1, 4, 6, 4, 40, 13, 131,True
+1970, 12, 18,27, California Golden Seals, 3, 0, 4, 5, 2, 20, 11, 56,21, Philadelphia Flyers, 4, 2, 2, 2, 2, 30, 7, 73,True
+1970, 12, 18,26, Vancouver Canucks, 4, 0, 3, 6, 2, 37, 8, 71,1, Montreal Canadiens, 6, 1, 1, 2, 1, 29, 6, 98,False
+1970, 12, 19,25, Los Angeles Kings, 1, 0, 3, 4, 4, 43, 13, 134,21, Philadelphia Flyers, 4, 2, 0, 0, 3, 32, 4, 74,False
+1970, 12, 19,24, Minnesota North Stars, 3, 0, 1, 2, 2, 24, 15, 132,11, New York Rangers, 8, 2, 4, 8, 0, 28, 7, 71,False
+1970, 12, 19,22, Pittsburgh Penguins, 3, 2, 2, 3, 3, 28, 8, 75,17, Detroit Red Wings, 4, 0, 4, 2, 3, 30, 14, 88,True
+1970, 12, 19,23, St. Louis Blues, 6, 1, 3, 4, 8, 42, 15, 151,7, Boston Bruins, 9, 1, 6, 10, 2, 27, 6, 64,False
+1970, 12, 19,13, Toronto Maple Leafs, 6, 1, 4, 8, 2, 39, 13, 159,28, Buffalo Sabres, 2, 1, 4, 6, 1, 20, 5, 45,True
+1970, 12, 20,7, Boston Bruins, 9, 2, 7, 12, 4, 37, 5, 60,24, Minnesota North Stars, 2, 0, 3, 5, 6, 32, 18, 145,True
+1970, 12, 20,28, Buffalo Sabres, 2, 0, 0, 0, 2, 40, 6, 65,13, Toronto Maple Leafs, 6, 2, 2, 4, 0, 17, 11, 144,False
+1970, 12, 20,12, Chicago Black Hawks, 8, 2, 8, 16, 3, 28, 7, 80,22, Pittsburgh Penguins, 4, 0, 9, 12, 1, 26, 8, 77,True
+1970, 12, 20,17, Detroit Red Wings, 3, 1, 1, 1, 8, 38, 17, 101,27, California Golden Seals, 4, 1, 1, 1, 0, 24, 9, 60,False
+1970, 12, 20,25, Los Angeles Kings, 1, 0, 2, 2, 2, 22, 11, 113,1, Montreal Canadiens, 7, 2, 3, 4, 3, 29, 8, 98,True
+1970, 12, 20,11, New York Rangers, 9, 1, 5, 9, 0, 20, 10, 71,26, Vancouver Canucks, 4, 1, 3, 6, 0, 12, 8, 61,True
+1970, 12, 22,28, Buffalo Sabres, 2, 0, 2, 4, 0, 14, 5, 54,11, New York Rangers, 9, 2, 5, 8, 1, 25, 11, 76,False
+1970, 12, 22,27, California Golden Seals, 5, 0, 7, 11, 3, 29, 12, 65,12, Chicago Black Hawks, 9, 2, 2, 4, 2, 30, 5, 81,True
+1970, 12, 23,17, Detroit Red Wings, 3, 1, 3, 6, 2, 7, 17, 88,7, Boston Bruins, 9, 1, 7, 13, 1, 23, 3, 59,False
+1970, 12, 23,25, Los Angeles Kings, 2, 0, 7, 13, 2, 31, 13, 127,12, Chicago Black Hawks, 8, 2, 2, 2, 4, 35, 7, 86,False
+1970, 12, 23,11, New York Rangers, 9, 1, 7, 12, 3, 28, 12, 90,22, Pittsburgh Penguins, 4, 1, 1, 2, 2, 37, 9, 88,True
+1970, 12, 23,23, St. Louis Blues, 5, 0, 1, 2, 3, 11, 11, 89,1, Montreal Canadiens, 6, 2, 2, 4, 7, 35, 12, 104,False
+1970, 12, 23,13, Toronto Maple Leafs, 7, 0, 4, 5, 0, 24, 13, 155,26, Vancouver Canucks, 4, 2, 1, 2, 4, 23, 13, 93,True
+1970, 12, 25,7, Boston Bruins, 10, 2, 2, 3, 2, 36, 3, 59,22, Pittsburgh Penguins, 4, 0, 1, 2, 6, 46, 13, 97,True
+1970, 12, 25,24, Minnesota North Stars, 1, 2, 2, 4, 1, 37, 19, 160,13, Toronto Maple Leafs, 7, 0, 7, 13, 2, 28, 15, 160,True
+1970, 12, 26,17, Detroit Red Wings, 2, 0, 1, 2, 2, 39, 17, 120,11, New York Rangers, 9, 2, 6, 9, 2, 39, 10, 86,True
+1970, 12, 26,25, Los Angeles Kings, 2, 2, 4, 5, 5, 31, 16, 121,27, California Golden Seals, 6, 0, 5, 7, 2, 25, 11, 61,True
+1970, 12, 26,1, Montreal Canadiens, 7, 2, 2, 4, 2, 33, 9, 93,28, Buffalo Sabres, 2, 0, 2, 3, 3, 24, 12, 76,False
+1970, 12, 26,22, Pittsburgh Penguins, 3, 0, 4, 6, 3, 31, 12, 76,7, Boston Bruins, 10, 2, 8, 10, 1, 23, 5, 55,True
+1970, 12, 26,23, St. Louis Blues, 5, 1, 2, 4, 4, 23, 12, 109,24, Minnesota North Stars, 2, 1, 5, 11, 5, 37, 21, 151,False
+1970, 12, 26,13, Toronto Maple Leafs, 7, 1, 3, 6, 2, 29, 19, 169,21, Philadelphia Flyers, 4, 1, 2, 4, 1, 30, 8, 113,True
+1970, 12, 26,26, Vancouver Canucks, 4, 0, 2, 4, 5, 44, 16, 127,12, Chicago Black Hawks, 8, 2, 6, 7, 1, 20, 8, 79,False
+1970, 12, 27,28, Buffalo Sabres, 2, 1, 4, 8, 4, 25, 13, 77,17, Detroit Red Wings, 3, 1, 7, 10, 5, 23, 19, 119,True
+1970, 12, 27,11, New York Rangers, 8, 1, 4, 5, 1, 24, 14, 74,23, St. Louis Blues, 5, 1, 1, 0, 2, 26, 8, 123,False
+1970, 12, 27,21, Philadelphia Flyers, 4, 0, 1, 1, 3, 20, 12, 85,1, Montreal Canadiens, 6, 2, 4, 8, 4, 32, 11, 88,False
+1970, 12, 29,11, New York Rangers, 8, 1, 4, 6, 6, 27, 17, 71,27, California Golden Seals, 5, 1, 3, 5, 7, 21, 9, 41,True
+1970, 12, 30,25, Los Angeles Kings, 2, 0, 9, 15, 3, 30, 14, 120,26, Vancouver Canucks, 3, 2, 2, 2, 4, 26, 14, 123,False
+1970, 12, 30,24, Minnesota North Stars, 3, 0, 1, 2, 1, 32, 17, 146,7, Boston Bruins, 9, 2, 2, 7, 4, 32, 8, 70,False
+1970, 12, 30,1, Montreal Canadiens, 6, 2, 5, 6, 2, 27, 9, 83,22, Pittsburgh Penguins, 4, 0, 4, 6, 2, 27, 9, 93,False
+1970, 12, 30,23, St. Louis Blues, 5, 1, 4, 4, 4, 32, 10, 129,21, Philadelphia Flyers, 3, 1, 2, 4, 4, 27, 13, 92,True
+1970, 12, 30,13, Toronto Maple Leafs, 8, 1, 9, 13, 1, 41, 18, 181,27, California Golden Seals, 5, 1, 2, 2, 3, 35, 5, 55,True
+1970, 12, 31,17, Detroit Red Wings, 3, 0, 2, 5, 5, 20, 19, 116,12, Chicago Black Hawks, 8, 2, 4, 5, 2, 12, 10, 58,False
+1970, 12, 31,22, Pittsburgh Penguins, 4, 1, 3, 5, 3, 27, 10, 93,24, Minnesota North Stars, 3, 1, 2, 4, 6, 39, 22, 153,True
+1971, 1, 1,28, Buffalo Sabres, 3, 0, 5, 8, 2, 46, 11, 98,7, Boston Bruins, 9, 2, 6, 11, 4, 38, 6, 71,False
+1971, 1, 2,25, Los Angeles Kings, 2, 0, 1, 3, 5, 39, 15, 107,24, Minnesota North Stars, 3, 2, 1, 1, 4, 26, 13, 105,False
+1971, 1, 2,1, Montreal Canadiens, 6, 1, 3, 5, 3, 35, 10, 91,27, California Golden Seals, 5, 1, 1, 1, 3, 38, 5, 58,True
+1971, 1, 2,21, Philadelphia Flyers, 2, 0, 2, 4, 1, 12, 8, 79,12, Chicago Black Hawks, 8, 2, 8, 10, 4, 29, 11, 75,False
+1971, 1, 2,22, Pittsburgh Penguins, 4, 0, 4, 7, 1, 30, 15, 90,11, New York Rangers, 8, 2, 3, 5, 4, 21, 13, 71,False
+1971, 1, 2,13, Toronto Maple Leafs, 9, 2, 3, 5, 1, 31, 18, 171,17, Detroit Red Wings, 3, 0, 3, 6, 3, 16, 18, 97,True
+1971, 1, 2,26, Vancouver Canucks, 4, 0, 4, 8, 1, 28, 11, 125,23, St. Louis Blues, 5, 2, 5, 9, 1, 25, 7, 101,False
+1971, 1, 3,28, Buffalo Sabres, 3, 0, 4, 5, 9, 40, 18, 92,12, Chicago Black Hawks, 8, 2, 3, 6, 3, 29, 8, 76,False
+1971, 1, 3,17, Detroit Red Wings, 2, 0, 0, 0, 3, 22, 23, 107,27, California Golden Seals, 4, 2, 3, 6, 5, 31, 7, 51,True
+1971, 1, 3,25, Los Angeles Kings, 2, 1, 3, 6, 3, 34, 10, 103,23, St. Louis Blues, 6, 1, 3, 5, 2, 24, 7, 97,False
+1971, 1, 3,11, New York Rangers, 8, 2, 2, 6, 2, 27, 10, 92,1, Montreal Canadiens, 7, 0, 5, 10, 3, 35, 10, 91,True
+1971, 1, 3,21, Philadelphia Flyers, 1, 0, 1, 2, 4, 27, 9, 99,7, Boston Bruins, 9, 2, 9, 15, 2, 33, 6, 53,False
+1971, 1, 5,24, Minnesota North Stars, 3, 2, 4, 6, 3, 28, 12, 107,13, Toronto Maple Leafs, 9, 0, 13, 20, 0, 21, 11, 134,False
+1971, 1, 6,12, Chicago Black Hawks, 8, 2, 5, 9, 1, 30, 8, 76,25, Los Angeles Kings, 2, 0, 3, 5, 4, 17, 14, 109,False
+1971, 1, 6,27, California Golden Seals, 4, 0, 2, 1, 3, 43, 5, 63,23, St. Louis Blues, 6, 2, 7, 13, 1, 21, 8, 111,True
+1971, 1, 6,1, Montreal Canadiens, 6, 2, 5, 5, 4, 28, 12, 95,26, Vancouver Canucks, 4, 0, 1, 2, 3, 32, 13, 129,True
+1971, 1, 6,21, Philadelphia Flyers, 1, 2, 0, 2, 2, 32, 9, 82,22, Pittsburgh Penguins, 4, 0, 1, 2, 3, 24, 12, 84,True
+1971, 1, 6,13, Toronto Maple Leafs, 9, 1, 2, 4, 0, 10, 11, 142,24, Minnesota North Stars, 3, 1, 0, 0, 2, 26, 11, 105,False
+1971, 1, 7,7, Boston Bruins, 9, 2, 5, 9, 4, 20, 5, 53,26, Vancouver Canucks, 3, 0, 3, 6, 2, 9, 14, 93,True
+1971, 1, 7,28, Buffalo Sabres, 3, 1, 3, 3, 4, 40, 13, 92,17, Detroit Red Wings, 2, 1, 3, 6, 2, 21, 22, 106,True
+1971, 1, 7,21, Philadelphia Flyers, 2, 2, 5, 6, 5, 41, 14, 118,25, Los Angeles Kings, 3, 0, 4, 6, 2, 34, 14, 127,False
+1971, 1, 9,12, Chicago Black Hawks, 8, 1, 2, 4, 3, 31, 11, 97,7, Boston Bruins, 9, 1, 6, 11, 1, 33, 5, 60,True
+1971, 1, 9,17, Detroit Red Wings, 2, 0, 4, 4, 1, 11, 24, 100,28, Buffalo Sabres, 4, 2, 7, 12, 4, 38, 13, 90,True
+1971, 1, 9,24, Minnesota North Stars, 4, 0, 4, 5, 4, 32, 13, 111,11, New York Rangers, 8, 2, 7, 10, 1, 42, 13, 98,False
+1971, 1, 9,1, Montreal Canadiens, 6, 1, 7, 13, 3, 29, 10, 103,25, Los Angeles Kings, 4, 1, 5, 9, 5, 37, 17, 137,True
+1971, 1, 9,21, Philadelphia Flyers, 2, 1, 5, 8, 3, 31, 14, 105,27, California Golden Seals, 5, 1, 6, 11, 3, 26, 5, 46,True
+1971, 1, 9,23, St. Louis Blues, 5, 2, 3, 6, 0, 5, 10, 93,26, Vancouver Canucks, 3, 0, 4, 7, 6, 46, 18, 130,False
+1971, 1, 9,13, Toronto Maple Leafs, 8, 1, 4, 8, 0, 29, 15, 170,22, Pittsburgh Penguins, 4, 1, 3, 5, 4, 38, 12, 100,True
+1971, 1, 10,7, Boston Bruins, 8, 1, 3, 6, 4, 27, 8, 53,27, California Golden Seals, 4, 1, 3, 6, 5, 28, 7, 48,True
+1971, 1, 10,28, Buffalo Sabres, 4, 1, 2, 3, 3, 42, 12, 94,25, Los Angeles Kings, 4, 1, 0, 0, 1, 34, 13, 134,False
+1971, 1, 10,12, Chicago Black Hawks, 8, 2, 4, 7, 3, 38, 8, 106,24, Minnesota North Stars, 4, 0, 0, 0, 0, 12, 10, 112,False
+1971, 1, 10,17, Detroit Red Wings, 3, 0, 3, 4, 2, 30, 25, 119,13, Toronto Maple Leafs, 8, 2, 5, 9, 4, 38, 17, 180,False
+1971, 1, 10,1, Montreal Canadiens, 6, 2, 1, 2, 0, 24, 7, 98,21, Philadelphia Flyers, 3, 0, 5, 7, 5, 28, 10, 102,False
+1971, 1, 10,23, St. Louis Blues, 4, 1, 2, 3, 2, 29, 14, 127,11, New York Rangers, 8, 1, 1, 2, 5, 33, 12, 77,False
+1971, 1, 12,23, St. Louis Blues, 4, 1, 2, 4, 6, 28, 16, 134,27, California Golden Seals, 3, 1, 4, 4, 7, 47, 9, 67,True
+1971, 1, 12,26, Vancouver Canucks, 3, 1, 2, 2, 2, 47, 14, 131,11, New York Rangers, 8, 1, 4, 7, 0, 21, 9, 68,False
+1971, 1, 13,12, Chicago Black Hawks, 7, 2, 2, 4, 3, 29, 8, 92,28, Buffalo Sabres, 3, 0, 2, 4, 2, 25, 11, 77,True
+1971, 1, 13,22, Pittsburgh Penguins, 4, 1, 2, 3, 5, 38, 14, 89,25, Los Angeles Kings, 5, 1, 2, 3, 2, 39, 14, 125,True
+1971, 1, 13,13, Toronto Maple Leafs, 8, 2, 3, 4, 2, 39, 15, 176,27, California Golden Seals, 2, 0, 2, 4, 5, 23, 10, 59,False
+1971, 1, 14,7, Boston Bruins, 8, 2, 7, 14, 4, 26, 8, 57,25, Los Angeles Kings, 4, 0, 2, 3, 7, 40, 16, 138,True
+1971, 1, 14,28, Buffalo Sabres, 3, 0, 2, 4, 4, 31, 13, 83,23, St. Louis Blues, 5, 1, 8, 13, 2, 26, 11, 129,True
+1971, 1, 14,17, Detroit Red Wings, 3, 0, 3, 5, 6, 21, 26, 108,22, Pittsburgh Penguins, 4, 2, 4, 8, 5, 20, 8, 60,False
+1971, 1, 14,24, Minnesota North Stars, 5, 0, 3, 4, 3, 28, 12, 139,1, Montreal Canadiens, 5, 2, 1, 6, 3, 26, 10, 100,False
+1971, 1, 14,21, Philadelphia Flyers, 4, 1, 3, 5, 2, 30, 9, 97,13, Toronto Maple Leafs, 7, 1, 1, 2, 2, 34, 14, 173,True
+1971, 1, 15,27, California Golden Seals, 2, 0, 1, 1, 1, 51, 6, 87,11, New York Rangers, 8, 2, 4, 6, 2, 24, 11, 67,True
+1971, 1, 16,17, Detroit Red Wings, 3, 2, 2, 2, 2, 29, 22, 116,21, Philadelphia Flyers, 4, 0, 3, 5, 3, 27, 7, 92,False
+1971, 1, 16,24, Minnesota North Stars, 5, 1, 3, 6, 1, 33, 12, 138,28, Buffalo Sabres, 4, 1, 2, 3, 1, 25, 10, 77,False
+1971, 1, 16,1, Montreal Canadiens, 6, 0, 3, 5, 6, 41, 13, 100,7, Boston Bruins, 8, 2, 9, 18, 4, 31, 9, 68,True
+1971, 1, 16,23, St. Louis Blues, 5, 0, 1, 0, 4, 36, 11, 131,12, Chicago Black Hawks, 7, 2, 4, 9, 2, 26, 9, 67,True
+1971, 1, 16,13, Toronto Maple Leafs, 6, 1, 0, 0, 1, 36, 15, 171,25, Los Angeles Kings, 4, 1, 5, 8, 4, 17, 14, 93,True
+1971, 1, 16,26, Vancouver Canucks, 2, 0, 2, 4, 5, 27, 16, 124,22, Pittsburgh Penguins, 5, 2, 2, 1, 2, 31, 7, 66,False
+1971, 1, 17,7, Boston Bruins, 7, 1, 2, 3, 5, 37, 9, 62,13, Toronto Maple Leafs, 7, 1, 8, 14, 3, 32, 15, 165,True
+1971, 1, 17,28, Buffalo Sabres, 5, 1, 4, 6, 3, 20, 5, 50,1, Montreal Canadiens, 6, 1, 4, 5, 2, 39, 9, 98,False
+1971, 1, 17,12, Chicago Black Hawks, 7, 1, 2, 4, 3, 24, 13, 100,11, New York Rangers, 7, 1, 1, 1, 2, 20, 12, 63,True
+1971, 1, 17,27, California Golden Seals, 3, 1, 3, 6, 1, 39, 6, 75,26, Vancouver Canucks, 2, 1, 3, 4, 1, 8, 11, 87,False
+1971, 1, 17,17, Detroit Red Wings, 3, 1, 2, 4, 4, 28, 17, 93,24, Minnesota North Stars, 4, 1, 3, 5, 3, 27, 15, 125,False
+1971, 1, 17,21, Philadelphia Flyers, 5, 1, 4, 4, 0, 25, 3, 86,25, Los Angeles Kings, 3, 1, 1, 1, 7, 40, 13, 107,False
+1971, 1, 20,27, California Golden Seals, 3, 0, 1, 2, 3, 25, 8, 61,22, Pittsburgh Penguins, 6, 2, 4, 7, 3, 21, 9, 70,False
+1971, 1, 20,11, New York Rangers, 6, 1, 3, 3, 3, 20, 14, 72,21, Philadelphia Flyers, 5, 1, 1, 2, 2, 30, 6, 88,False
+1971, 1, 20,26, Vancouver Canucks, 3, 1, 3, 4, 1, 31, 11, 110,13, Toronto Maple Leafs, 6, 1, 1, 1, 1, 30, 21, 187,False
+1971, 1, 21,28, Buffalo Sabres, 4, 0, 4, 6, 0, 14, 6, 64,11, New York Rangers, 6, 2, 3, 5, 4, 29, 14, 73,False
+1971, 1, 21,12, Chicago Black Hawks, 7, 2, 4, 6, 3, 36, 7, 104,17, Detroit Red Wings, 2, 0, 0, 0, 3, 19, 20, 111,True
+1971, 1, 21,25, Los Angeles Kings, 4, 1, 4, 2, 1, 34, 7, 101,22, Pittsburgh Penguins, 7, 1, 4, 3, 2, 15, 8, 76,True
+1971, 1, 21,24, Minnesota North Stars, 4, 1, 2, 4, 0, 31, 12, 129,23, St. Louis Blues, 6, 1, 3, 6, 2, 28, 9, 101,True
+1971, 1, 21,21, Philadelphia Flyers, 6, 1, 3, 4, 3, 27, 11, 94,1, Montreal Canadiens, 7, 1, 4, 6, 4, 32, 11, 91,False
+1971, 1, 22,27, California Golden Seals, 3, 1, 2, 4, 3, 36, 8, 72,13, Toronto Maple Leafs, 6, 1, 5, 7, 9, 54, 21, 177,True
+1971, 1, 23,7, Boston Bruins, 7, 0, 9, 17, 4, 25, 5, 50,12, Chicago Black Hawks, 7, 2, 2, 5, 0, 30, 5, 86,True
+1971, 1, 23,25, Los Angeles Kings, 5, 0, 4, 7, 2, 22, 8, 89,13, Toronto Maple Leafs, 5, 2, 2, 3, 1, 20, 17, 152,True
+1971, 1, 23,24, Minnesota North Stars, 5, 1, 5, 7, 4, 20, 15, 133,21, Philadelphia Flyers, 6, 1, 5, 9, 0, 2, 10, 58,False
+1971, 1, 23,1, Montreal Canadiens, 7, 1, 5, 7, 1, 9, 7, 61,17, Detroit Red Wings, 2, 1, 0, 0, 2, 28, 19, 115,True
+1971, 1, 23,22, Pittsburgh Penguins, 6, 2, 2, 1, 4, 39, 10, 100,26, Vancouver Canucks, 3, 0, 1, 2, 5, 30, 15, 109,True
+1971, 1, 23,23, St. Louis Blues, 5, 1, 3, 4, 2, 22, 14, 112,28, Buffalo Sabres, 3, 1, 5, 10, 5, 32, 11, 82,True
+1971, 1, 24,7, Boston Bruins, 8, 1, 6, 9, 1, 25, 3, 47,1, Montreal Canadiens, 8, 1, 6, 10, 2, 31, 8, 83,True
+1971, 1, 24,28, Buffalo Sabres, 3, 0, 1, 2, 4, 34, 13, 85,21, Philadelphia Flyers, 7, 2, 2, 4, 5, 26, 11, 103,True
+1971, 1, 24,12, Chicago Black Hawks, 6, 1, 2, 4, 6, 48, 11, 126,27, California Golden Seals, 4, 1, 5, 3, 2, 35, 7, 71,True
+1971, 1, 24,17, Detroit Red Wings, 2, 2, 2, 3, 2, 23, 25, 123,26, Vancouver Canucks, 3, 0, 1, 1, 4, 40, 14, 119,True
+1971, 1, 24,11, New York Rangers, 7, 2, 5, 10, 3, 21, 15, 72,24, Minnesota North Stars, 5, 0, 2, 5, 2, 39, 13, 135,True
+1971, 1, 26,26, Vancouver Canucks, 2, 0, 3, 5, 3, 22, 17, 117,12, Chicago Black Hawks, 6, 2, 5, 9, 3, 34, 8, 103,False
+1971, 1, 27,27, California Golden Seals, 4, 0, 3, 6, 5, 35, 10, 71,24, Minnesota North Stars, 4, 2, 2, 4, 3, 35, 17, 142,True
+1971, 1, 27,25, Los Angeles Kings, 6, 1, 3, 6, 2, 44, 8, 107,28, Buffalo Sabres, 4, 1, 6, 12, 7, 35, 13, 82,False
+1971, 1, 27,1, Montreal Canadiens, 7, 2, 2, 3, 4, 30, 10, 92,23, St. Louis Blues, 5, 0, 7, 13, 1, 24, 13, 114,True
+1971, 1, 27,11, New York Rangers, 7, 0, 6, 9, 2, 28, 14, 79,7, Boston Bruins, 8, 2, 4, 8, 2, 22, 4, 58,False
+1971, 1, 27,22, Pittsburgh Penguins, 6, 0, 4, 6, 2, 27, 7, 82,13, Toronto Maple Leafs, 4, 2, 2, 4, 3, 33, 19, 165,True
+1971, 1, 28,7, Boston Bruins, 8, 2, 2, 3, 2, 36, 4, 66,21, Philadelphia Flyers, 6, 0, 4, 7, 0, 7, 13, 72,True
+1971, 1, 28,12, Chicago Black Hawks, 6, 2, 3, 6, 3, 25, 9, 80,22, Pittsburgh Penguins, 6, 0, 3, 5, 1, 24, 6, 82,True
+1971, 1, 28,17, Detroit Red Wings, 3, 0, 7, 12, 6, 33, 22, 123,23, St. Louis Blues, 4, 2, 2, 4, 5, 26, 15, 128,False
+1971, 1, 29,27, California Golden Seals, 4, 1, 6, 12, 2, 24, 7, 60,28, Buffalo Sabres, 4, 1, 3, 5, 3, 34, 9, 81,False
+1971, 1, 29,26, Vancouver Canucks, 2, 2, 3, 5, 7, 57, 17, 120,24, Minnesota North Stars, 4, 0, 1, 4, 2, 22, 20, 142,False
+1971, 1, 30,17, Detroit Red Wings, 2, 1, 1, 2, 3, 24, 16, 113,25, Los Angeles Kings, 5, 1, 3, 5, 3, 25, 9, 88,False
+1971, 1, 30,1, Montreal Canadiens, 8, 1, 4, 8, 4, 40, 7, 100,13, Toronto Maple Leafs, 4, 1, 1, 2, 2, 43, 18, 175,False
+1971, 1, 30,21, Philadelphia Flyers, 6, 2, 2, 1, 2, 9, 13, 79,11, New York Rangers, 6, 0, 2, 4, 5, 28, 14, 72,True
+1971, 1, 30,22, Pittsburgh Penguins, 6, 0, 1, 2, 1, 27, 9, 94,12, Chicago Black Hawks, 7, 2, 4, 6, 3, 30, 7, 92,True
+1971, 1, 31,7, Boston Bruins, 8, 2, 6, 12, 2, 30, 4, 63,23, St. Louis Blues, 4, 0, 1, 2, 1, 29, 13, 108,True
+1971, 1, 31,12, Chicago Black Hawks, 6, 1, 1, 3, 1, 33, 7, 95,1, Montreal Canadiens, 7, 1, 4, 5, 3, 19, 6, 57,True
+1971, 1, 31,24, Minnesota North Stars, 4, 1, 2, 3, 6, 46, 19, 148,27, California Golden Seals, 4, 1, 2, 4, 3, 26, 8, 62,True
+1971, 1, 31,11, New York Rangers, 5, 2, 2, 4, 2, 21, 14, 80,25, Los Angeles Kings, 5, 0, 3, 4, 3, 29, 9, 95,False
+1971, 1, 31,21, Philadelphia Flyers, 6, 1, 5, 10, 2, 34, 13, 104,17, Detroit Red Wings, 2, 1, 3, 6, 3, 27, 16, 116,True
+1971, 1, 31,26, Vancouver Canucks, 2, 2, 1, 2, 3, 25, 12, 97,28, Buffalo Sabres, 5, 0, 4, 6, 2, 33, 8, 80,False
+1971, 2, 2,26, Vancouver Canucks, 2, 0, 1, 2, 7, 38, 15, 102,1, Montreal Canadiens, 6, 2, 1, 2, 3, 37, 6, 75,False
+1971, 2, 3,7, Boston Bruins, 8, 2, 6, 11, 2, 33, 2, 56,25, Los Angeles Kings, 6, 0, 2, 2, 1, 11, 8, 104,True
+1971, 2, 3,24, Minnesota North Stars, 5, 2, 7, 11, 6, 35, 14, 125,17, Detroit Red Wings, 1, 0, 1, 0, 1, 24, 14, 121,False
+1971, 2, 3,11, New York Rangers, 4, 0, 2, 3, 2, 22, 14, 81,12, Chicago Black Hawks, 7, 2, 4, 6, 1, 28, 6, 99,False
+1971, 2, 3,22, Pittsburgh Penguins, 7, 2, 3, 4, 1, 22, 9, 89,27, California Golden Seals, 4, 0, 1, 2, 7, 53, 12, 89,True
+1971, 2, 3,13, Toronto Maple Leafs, 4, 1, 5, 7, 4, 20, 20, 152,23, St. Louis Blues, 4, 1, 0, 0, 2, 12, 14, 82,True
+1971, 2, 4,28, Buffalo Sabres, 6, 1, 6, 8, 1, 34, 7, 81,25, Los Angeles Kings, 5, 1, 3, 6, 2, 38, 14, 136,True
+1971, 2, 4,17, Detroit Red Wings, 2, 1, 2, 4, 2, 25, 16, 100,11, New York Rangers, 3, 1, 2, 2, 5, 36, 16, 79,False
+1971, 2, 4,21, Philadelphia Flyers, 6, 0, 3, 2, 1, 27, 10, 87,12, Chicago Black Hawks, 7, 2, 4, 6, 2, 27, 10, 86,True
+1971, 2, 5,27, California Golden Seals, 4, 0, 1, 2, 6, 35, 11, 71,1, Montreal Canadiens, 7, 2, 5, 6, 2, 10, 5, 65,False
+1971, 2, 5,23, St. Louis Blues, 4, 2, 2, 3, 4, 19, 16, 106,22, Pittsburgh Penguins, 8, 0, 6, 8, 1, 20, 9, 87,False
+1971, 2, 6,7, Boston Bruins, 9, 2, 7, 14, 0, 23, 3, 56,28, Buffalo Sabres, 7, 0, 5, 8, 4, 31, 8, 86,True
+1971, 2, 6,25, Los Angeles Kings, 5, 1, 2, 2, 5, 26, 17, 104,1, Montreal Canadiens, 7, 1, 3, 5, 2, 27, 5, 84,True
+1971, 2, 6,24, Minnesota North Stars, 4, 1, 4, 8, 1, 23, 12, 115,12, Chicago Black Hawks, 7, 1, 2, 4, 3, 19, 9, 66,False
+1971, 2, 6,13, Toronto Maple Leafs, 4, 1, 6, 10, 2, 26, 18, 158,21, Philadelphia Flyers, 6, 1, 6, 7, 5, 29, 16, 117,True
+1971, 2, 6,26, Vancouver Canucks, 1, 0, 2, 4, 2, 34, 13, 92,11, New York Rangers, 3, 2, 1, 2, 0, 30, 11, 73,False
+1971, 2, 7,7, Boston Bruins, 9, 2, 4, 7, 3, 33, 6, 68,24, Minnesota North Stars, 4, 0, 2, 2, 1, 28, 17, 120,False
+1971, 2, 7,28, Buffalo Sabres, 6, 0, 3, 5, 4, 46, 8, 101,13, Toronto Maple Leafs, 5, 2, 4, 5, 4, 32, 21, 211,False
+1971, 2, 7,12, Chicago Black Hawks, 7, 1, 6, 9, 2, 23, 5, 57,22, Pittsburgh Penguins, 8, 1, 2, 4, 2, 27, 9, 91,True
+1971, 2, 7,27, California Golden Seals, 3, 1, 2, 1, 3, 26, 8, 62,17, Detroit Red Wings, 2, 1, 2, 4, 2, 4, 14, 70,False
+1971, 2, 7,21, Philadelphia Flyers, 5, 0, 2, 4, 2, 28, 14, 122,23, St. Louis Blues, 4, 2, 1, 1, 6, 30, 14, 138,False
+1971, 2, 9,7, Boston Bruins, 8, 2, 4, 8, 3, 35, 7, 67,11, New York Rangers, 4, 0, 5, 10, 4, 24, 15, 67,True
+1971, 2, 9,1, Montreal Canadiens, 6, 1, 3, 6, 2, 19, 10, 96,22, Pittsburgh Penguins, 7, 1, 0, 0, 4, 36, 8, 83,True
+1971, 2, 9,23, St. Louis Blues, 4, 1, 6, 9, 2, 31, 10, 139,13, Toronto Maple Leafs, 6, 1, 4, 5, 2, 38, 20, 207,False
+1971, 2, 9,26, Vancouver Canucks, 1, 1, 4, 8, 5, 35, 16, 93,28, Buffalo Sabres, 5, 1, 3, 6, 1, 2, 6, 46,True
+1971, 2, 10,12, Chicago Black Hawks, 7, 1, 1, 1, 0, 28, 3, 62,13, Toronto Maple Leafs, 6, 1, 3, 5, 3, 28, 21, 200,False
+1971, 2, 10,27, California Golden Seals, 2, 1, 2, 3, 5, 31, 10, 67,28, Buffalo Sabres, 5, 1, 3, 5, 6, 35, 11, 79,True
+1971, 2, 10,25, Los Angeles Kings, 6, 2, 6, 9, 3, 34, 12, 99,17, Detroit Red Wings, 3, 0, 5, 10, 2, 25, 18, 127,True
+1971, 2, 10,11, New York Rangers, 4, 2, 3, 6, 5, 39, 16, 82,24, Minnesota North Stars, 5, 0, 5, 9, 4, 25, 20, 159,True
+1971, 2, 10,22, Pittsburgh Penguins, 6, 0, 1, 2, 1, 19, 8, 73,21, Philadelphia Flyers, 5, 2, 2, 2, 4, 38, 17, 130,True
+1971, 2, 11,1, Montreal Canadiens, 6, 2, 4, 7, 1, 33, 9, 110,24, Minnesota North Stars, 4, 0, 3, 5, 6, 28, 20, 175,True
+1971, 2, 11,23, St. Louis Blues, 4, 0, 3, 6, 3, 28, 12, 129,7, Boston Bruins, 9, 2, 6, 12, 4, 32, 7, 75,False
+1971, 2, 12,28, Buffalo Sabres, 5, 1, 1, 1, 3, 28, 10, 82,27, California Golden Seals, 3, 1, 5, 6, 1, 19, 6, 55,True
+1971, 2, 12,26, Vancouver Canucks, 2, 0, 6, 7, 6, 30, 14, 91,17, Detroit Red Wings, 3, 2, 2, 4, 4, 24, 20, 126,True
+1971, 2, 13,24, Minnesota North Stars, 3, 0, 2, 4, 6, 31, 20, 178,21, Philadelphia Flyers, 4, 2, 3, 4, 6, 37, 18, 125,False
+1971, 2, 13,1, Montreal Canadiens, 6, 2, 6, 8, 2, 30, 7, 42,27, California Golden Seals, 3, 0, 0, 0, 3, 33, 8, 69,True
+1971, 2, 13,22, Pittsburgh Penguins, 6, 1, 5, 7, 3, 29, 7, 81,12, Chicago Black Hawks, 7, 1, 2, 2, 3, 19, 5, 50,True
+1971, 2, 13,23, St. Louis Blues, 3, 1, 3, 4, 5, 31, 14, 132,11, New York Rangers, 5, 1, 4, 6, 3, 38, 14, 81,True
+1971, 2, 13,13, Toronto Maple Leafs, 7, 1, 3, 3, 3, 31, 21, 194,25, Los Angeles Kings, 7, 1, 5, 7, 7, 43, 11, 96,True
+1971, 2, 14,28, Buffalo Sabres, 6, 1, 3, 4, 5, 38, 7, 80,21, Philadelphia Flyers, 5, 1, 2, 5, 2, 28, 14, 116,True
+1971, 2, 14,12, Chicago Black Hawks, 6, 2, 4, 6, 5, 29, 12, 54,26, Vancouver Canucks, 2, 0, 5, 7, 3, 21, 11, 82,True
+1971, 2, 14,17, Detroit Red Wings, 3, 0, 3, 6, 4, 47, 17, 140,25, Los Angeles Kings, 6, 2, 1, 2, 7, 25, 10, 75,True
+1971, 2, 14,24, Minnesota North Stars, 3, 1, 2, 4, 4, 41, 12, 101,22, Pittsburgh Penguins, 7, 1, 5, 10, 4, 26, 8, 76,True
+1971, 2, 14,11, New York Rangers, 4, 1, 1, 2, 2, 30, 13, 73,23, St. Louis Blues, 4, 1, 2, 4, 2, 39, 8, 116,True
+1971, 2, 14,13, Toronto Maple Leafs, 7, 0, 8, 13, 2, 27, 19, 190,7, Boston Bruins, 9, 2, 5, 8, 3, 43, 6, 74,False
+1971, 2, 16,23, St. Louis Blues, 3, 1, 1, 2, 2, 36, 8, 113,27, California Golden Seals, 2, 1, 2, 2, 3, 16, 10, 75,True
+1971, 2, 16,26, Vancouver Canucks, 2, 0, 1, 1, 3, 34, 11, 95,7, Boston Bruins, 9, 2, 5, 7, 3, 31, 4, 51,True
+1971, 2, 17,12, Chicago Black Hawks, 6, 2, 3, 7, 1, 26, 5, 57,28, Buffalo Sabres, 6, 0, 3, 6, 0, 26, 4, 71,True
+1971, 2, 17,25, Los Angeles Kings, 5, 2, 0, 0, 4, 31, 7, 81,21, Philadelphia Flyers, 4, 0, 2, 3, 3, 29, 18, 130,False
+1971, 2, 17,24, Minnesota North Stars, 4, 1, 5, 6, 1, 19, 12, 90,27, California Golden Seals, 2, 1, 1, 2, 2, 34, 7, 57,True
+1971, 2, 17,1, Montreal Canadiens, 6, 0, 5, 9, 2, 24, 7, 36,11, New York Rangers, 4, 2, 2, 3, 1, 26, 12, 69,True
+1971, 2, 17,13, Toronto Maple Leafs, 7, 1, 1, 1, 5, 40, 22, 203,22, Pittsburgh Penguins, 6, 1, 4, 7, 2, 32, 10, 76,True
+1971, 2, 18,28, Buffalo Sabres, 5, 1, 1, 2, 2, 29, 9, 81,22, Pittsburgh Penguins, 5, 1, 3, 3, 4, 27, 12, 71,False
+1971, 2, 18,17, Detroit Red Wings, 4, 1, 4, 7, 1, 32, 17, 138,24, Minnesota North Stars, 5, 1, 3, 5, 4, 30, 13, 100,True
+1971, 2, 19,27, California Golden Seals, 1, 1, 2, 4, 3, 31, 8, 54,7, Boston Bruins, 8, 1, 4, 6, 1, 20, 6, 63,False
+1971, 2, 19,26, Vancouver Canucks, 3, 2, 5, 10, 4, 33, 12, 94,21, Philadelphia Flyers, 5, 0, 4, 6, 0, 27, 13, 120,False
+1971, 2, 20,27, California Golden Seals, 1, 1, 0, 0, 5, 32, 10, 55,21, Philadelphia Flyers, 6, 1, 3, 5, 5, 33, 15, 125,True
+1971, 2, 20,17, Detroit Red Wings, 4, 1, 5, 9, 0, 32, 19, 136,28, Buffalo Sabres, 4, 1, 6, 12, 6, 42, 13, 94,True
+1971, 2, 20,25, Los Angeles Kings, 4, 0, 0, 0, 4, 26, 7, 76,7, Boston Bruins, 8, 2, 5, 8, 5, 43, 5, 69,True
+1971, 2, 20,1, Montreal Canadiens, 7, 0, 3, 4, 0, 35, 5, 47,12, Chicago Black Hawks, 6, 2, 5, 10, 1, 18, 5, 56,True
+1971, 2, 20,22, Pittsburgh Penguins, 6, 0, 6, 9, 6, 25, 11, 64,11, New York Rangers, 4, 2, 0, 0, 4, 20, 14, 71,False
+1971, 2, 20,13, Toronto Maple Leafs, 8, 2, 4, 8, 1, 27, 19, 193,23, St. Louis Blues, 4, 0, 5, 8, 1, 25, 7, 102,True
+1971, 2, 21,28, Buffalo Sabres, 3, 1, 5, 9, 5, 36, 13, 103,23, St. Louis Blues, 3, 1, 1, 2, 1, 19, 8, 122,False
+1971, 2, 21,12, Chicago Black Hawks, 6, 1, 1, 2, 7, 27, 11, 65,25, Los Angeles Kings, 5, 1, 5, 7, 4, 38, 7, 88,True
+1971, 2, 21,24, Minnesota North Stars, 4, 1, 2, 5, 1, 2, 14, 108,13, Toronto Maple Leafs, 9, 1, 3, 4, 3, 32, 19, 201,False
+1971, 2, 21,11, New York Rangers, 5, 1, 2, 3, 0, 37, 10, 88,17, Detroit Red Wings, 5, 1, 5, 8, 0, 5, 21, 108,True
+1971, 2, 22,26, Vancouver Canucks, 3, 0, 2, 4, 3, 31, 11, 92,1, Montreal Canadiens, 7, 2, 7, 11, 1, 28, 9, 63,False
+1971, 2, 23,28, Buffalo Sabres, 2, 0, 1, 2, 6, 51, 11, 99,7, Boston Bruins, 7, 2, 4, 7, 0, 26, 5, 60,False
+1971, 2, 24,27, California Golden Seals, 2, 0, 5, 6, 3, 27, 8, 50,1, Montreal Canadiens, 8, 2, 3, 6, 3, 30, 11, 65,False
+1971, 2, 24,24, Minnesota North Stars, 3, 2, 0, 2, 5, 38, 17, 131,25, Los Angeles Kings, 4, 0, 5, 7, 7, 39, 10, 89,True
+1971, 2, 24,11, New York Rangers, 6, 0, 4, 6, 1, 23, 11, 74,21, Philadelphia Flyers, 5, 2, 3, 3, 2, 32, 12, 117,True
+1971, 2, 24,22, Pittsburgh Penguins, 5, 1, 0, 1, 0, 3, 5, 56,23, St. Louis Blues, 4, 1, 3, 6, 1, 21, 8, 124,False
+1971, 2, 25,7, Boston Bruins, 7, 1, 6, 10, 3, 34, 8, 68,26, Vancouver Canucks, 3, 1, 3, 3, 5, 28, 11, 91,True
+1971, 2, 25,17, Detroit Red Wings, 5, 0, 2, 4, 4, 45, 25, 135,23, St. Louis Blues, 5, 2, 5, 7, 2, 37, 12, 134,False
+1971, 2, 25,25, Los Angeles Kings, 3, 1, 1, 1, 5, 39, 8, 89,1, Montreal Canadiens, 9, 1, 5, 8, 2, 22, 10, 57,False
+1971, 2, 25,21, Philadelphia Flyers, 4, 0, 2, 4, 4, 31, 17, 148,28, Buffalo Sabres, 2, 2, 3, 5, 3, 32, 11, 86,True
+1971, 2, 25,13, Toronto Maple Leafs, 9, 1, 4, 6, 1, 26, 17, 195,24, Minnesota North Stars, 4, 1, 5, 7, 4, 25, 13, 118,False
+1971, 2, 26,27, California Golden Seals, 2, 1, 2, 4, 3, 3, 9, 67,12, Chicago Black Hawks, 6, 1, 8, 12, 5, 33, 9, 74,False
+1971, 2, 27,25, Los Angeles Kings, 3, 1, 3, 4, 4, 41, 7, 91,12, Chicago Black Hawks, 6, 1, 3, 6, 1, 21, 5, 62,False
+1971, 2, 27,24, Minnesota North Stars, 5, 0, 2, 2, 1, 25, 10, 126,17, Detroit Red Wings, 5, 2, 1, 2, 5, 20, 24, 114,True
+1971, 2, 27,1, Montreal Canadiens, 9, 2, 5, 5, 3, 34, 8, 77,23, St. Louis Blues, 6, 0, 3, 3, 5, 31, 11, 126,True
+1971, 2, 27,21, Philadelphia Flyers, 4, 1, 2, 6, 2, 29, 15, 147,26, Vancouver Canucks, 3, 1, 3, 5, 3, 30, 14, 123,True
+1971, 2, 27,22, Pittsburgh Penguins, 4, 0, 5, 7, 5, 29, 10, 81,11, New York Rangers, 7, 2, 4, 4, 2, 17, 12, 68,False
+1971, 2, 27,13, Toronto Maple Leafs, 8, 2, 1, 1, 1, 35, 17, 196,28, Buffalo Sabres, 2, 0, 2, 5, 6, 38, 11, 85,True
+1971, 2, 28,7, Boston Bruins, 7, 2, 8, 14, 3, 34, 8, 68,13, Toronto Maple Leafs, 8, 0, 2, 3, 1, 27, 16, 189,True
+1971, 2, 28,28, Buffalo Sabres, 2, 2, 0, 0, 3, 31, 7, 83,24, Minnesota North Stars, 5, 0, 4, 7, 1, 33, 11, 132,True
+1971, 2, 28,27, California Golden Seals, 2, 0, 1, 2, 3, 33, 9, 97,25, Los Angeles Kings, 3, 2, 1, 0, 1, 28, 7, 85,False
+1971, 2, 28,17, Detroit Red Wings, 4, 0, 2, 3, 3, 24, 19, 125,22, Pittsburgh Penguins, 3, 2, 0, 0, 2, 21, 8, 84,True
+1971, 2, 28,11, New York Rangers, 7, 2, 4, 8, 0, 26, 10, 77,26, Vancouver Canucks, 3, 0, 1, 1, 8, 60, 19, 131,True
+1971, 3, 2,24, Minnesota North Stars, 5, 1, 2, 4, 2, 31, 13, 114,7, Boston Bruins, 7, 1, 4, 8, 3, 28, 8, 62,False
+1971, 3, 3,25, Los Angeles Kings, 3, 0, 8, 9, 3, 36, 9, 93,28, Buffalo Sabres, 3, 2, 5, 10, 2, 31, 6, 83,False
+1971, 3, 3,11, New York Rangers, 7, 1, 4, 5, 2, 33, 12, 84,27, California Golden Seals, 2, 1, 1, 4, 5, 26, 10, 64,True
+1971, 3, 3,22, Pittsburgh Penguins, 3, 1, 2, 4, 4, 32, 11, 95,1, Montreal Canadiens, 9, 1, 3, 4, 2, 29, 8, 71,True
+1971, 3, 3,23, St. Louis Blues, 5, 1, 2, 3, 3, 18, 8, 106,12, Chicago Black Hawks, 7, 1, 4, 5, 1, 33, 5, 68,False
+1971, 3, 3,13, Toronto Maple Leafs, 7, 2, 3, 5, 4, 31, 19, 193,26, Vancouver Canucks, 3, 0, 2, 3, 4, 41, 15, 112,True
+1971, 3, 4,7, Boston Bruins, 8, 2, 6, 10, 5, 34, 5, 56,27, California Golden Seals, 1, 0, 1, 2, 8, 46, 13, 84,True
+1971, 3, 4,21, Philadelphia Flyers, 5, 2, 9, 6, 1, 24, 8, 109,17, Detroit Red Wings, 5, 0, 3, 6, 0, 0, 16, 119,False
+1971, 3, 5,28, Buffalo Sabres, 3, 0, 3, 5, 3, 34, 5, 72,12, Chicago Black Hawks, 7, 2, 5, 7, 1, 26, 5, 61,False
+1971, 3, 5,23, St. Louis Blues, 5, 0, 1, 0, 1, 29, 10, 110,13, Toronto Maple Leafs, 7, 2, 3, 4, 0, 28, 16, 186,True
+1971, 3, 6,17, Detroit Red Wings, 5, 0, 4, 8, 2, 32, 18, 159,11, New York Rangers, 8, 2, 7, 13, 1, 20, 11, 71,False
+1971, 3, 6,24, Minnesota North Stars, 5, 1, 0, 0, 6, 33, 17, 116,26, Vancouver Canucks, 3, 1, 1, 3, 2, 30, 13, 101,True
+1971, 3, 6,1, Montreal Canadiens, 9, 1, 0, 1, 4, 37, 10, 79,25, Los Angeles Kings, 2, 1, 3, 6, 4, 35, 9, 92,True
+1971, 3, 6,21, Philadelphia Flyers, 5, 1, 2, 4, 2, 26, 10, 106,27, California Golden Seals, 1, 1, 0, 0, 3, 18, 12, 101,False
+1971, 3, 6,22, Pittsburgh Penguins, 4, 1, 4, 6, 4, 29, 6, 92,7, Boston Bruins, 8, 1, 7, 13, 0, 22, 0, 54,False
+1971, 3, 6,13, Toronto Maple Leafs, 6, 2, 1, 2, 1, 24, 19, 199,12, Chicago Black Hawks, 7, 0, 2, 4, 2, 23, 10, 71,False
+1971, 3, 7,7, Boston Bruins, 8, 2, 6, 11, 0, 32, 3, 57,23, St. Louis Blues, 6, 0, 3, 4, 5, 22, 13, 110,True
+1971, 3, 7,28, Buffalo Sabres, 2, 1, 2, 4, 2, 30, 4, 68,26, Vancouver Canucks, 2, 1, 1, 0, 3, 25, 14, 96,True
+1971, 3, 7,17, Detroit Red Wings, 5, 1, 2, 4, 2, 26, 18, 153,1, Montreal Canadiens, 9, 1, 8, 12, 2, 34, 8, 76,False
+1971, 3, 7,24, Minnesota North Stars, 6, 0, 3, 4, 1, 22, 12, 105,21, Philadelphia Flyers, 5, 2, 4, 6, 4, 27, 16, 124,True
+1971, 3, 7,11, New York Rangers, 8, 1, 3, 4, 3, 28, 12, 76,25, Los Angeles Kings, 2, 1, 2, 0, 8, 48, 13, 105,True
+1971, 3, 7,22, Pittsburgh Penguins, 3, 2, 3, 5, 6, 31, 9, 91,27, California Golden Seals, 2, 0, 4, 5, 7, 63, 13, 113,False
+1971, 3, 9,1, Montreal Canadiens, 9, 2, 4, 7, 1, 29, 7, 71,26, Vancouver Canucks, 1, 0, 3, 6, 8, 38, 17, 104,False
+1971, 3, 9,23, St. Louis Blues, 5, 2, 1, 1, 1, 16, 12, 133,25, Los Angeles Kings, 2, 0, 2, 2, 3, 43, 8, 100,False
+1971, 3, 10,12, Chicago Black Hawks, 8, 2, 2, 4, 2, 28, 2, 56,11, New York Rangers, 9, 0, 4, 5, 2, 25, 11, 71,False
+1971, 3, 10,27, California Golden Seals, 3, 0, 3, 3, 3, 39, 9, 89,7, Boston Bruins, 8, 2, 4, 6, 1, 37, 4, 62,False
+1971, 3, 10,24, Minnesota North Stars, 6, 2, 3, 6, 1, 29, 12, 112,23, St. Louis Blues, 5, 0, 0, 0, 4, 45, 15, 145,True
+1971, 3, 10,22, Pittsburgh Penguins, 2, 1, 3, 6, 3, 26, 6, 86,21, Philadelphia Flyers, 4, 1, 1, 2, 2, 27, 14, 124,False
+1971, 3, 10,13, Toronto Maple Leafs, 5, 2, 2, 3, 3, 41, 20, 208,1, Montreal Canadiens, 8, 0, 3, 5, 3, 33, 9, 75,True
+1971, 3, 11,25, Los Angeles Kings, 3, 1, 4, 2, 0, 28, 5, 85,7, Boston Bruins, 9, 1, 8, 12, 3, 25, 4, 55,False
+1971, 3, 11,26, Vancouver Canucks, 2, 1, 3, 6, 3, 36, 12, 102,17, Detroit Red Wings, 5, 1, 1, 1, 4, 33, 20, 157,True
+1971, 3, 12,11, New York Rangers, 9, 1, 4, 7, 2, 23, 11, 77,21, Philadelphia Flyers, 5, 1, 2, 4, 4, 31, 14, 126,True
+1971, 3, 13,25, Los Angeles Kings, 2, 1, 2, 4, 6, 35, 9, 64,17, Detroit Red Wings, 4, 1, 3, 3, 2, 11, 21, 120,True
+1971, 3, 13,1, Montreal Canadiens, 7, 1, 1, 1, 2, 45, 8, 87,12, Chicago Black Hawks, 8, 1, 2, 3, 0, 0, 6, 61,False
+1971, 3, 13,22, Pittsburgh Penguins, 2, 1, 2, 2, 2, 26, 5, 86,24, Minnesota North Stars, 6, 1, 4, 7, 0, 35, 11, 118,False
+1971, 3, 13,23, St. Louis Blues, 4, 2, 0, 0, 4, 28, 13, 120,28, Buffalo Sabres, 3, 0, 6, 9, 3, 27, 5, 65,True
+1971, 3, 13,13, Toronto Maple Leafs, 6, 1, 1, 3, 1, 32, 21, 207,21, Philadelphia Flyers, 4, 1, 2, 4, 2, 29, 17, 134,False
+1971, 3, 13,26, Vancouver Canucks, 2, 1, 7, 14, 3, 32, 12, 98,7, Boston Bruins, 9, 1, 7, 13, 2, 38, 3, 68,False
+1971, 3, 14,12, Chicago Black Hawks, 8, 1, 4, 7, 1, 19, 7, 80,23, St. Louis Blues, 5, 1, 9, 11, 4, 29, 11, 123,False
+1971, 3, 14,27, California Golden Seals, 3, 0, 1, 1, 5, 28, 10, 60,17, Detroit Red Wings, 3, 2, 2, 5, 5, 25, 24, 147,False
+1971, 3, 14,24, Minnesota North Stars, 7, 0, 0, 0, 0, 31, 11, 114,28, Buffalo Sabres, 3, 2, 0, 0, 0, 0, 8, 52,False
+1971, 3, 14,11, New York Rangers, 10, 2, 7, 11, 2, 31, 11, 81,13, Toronto Maple Leafs, 5, 0, 2, 3, 2, 33, 23, 211,True
+1971, 3, 14,22, Pittsburgh Penguins, 2, 1, 0, 0, 0, 20, 8, 83,1, Montreal Canadiens, 6, 1, 1, 1, 0, 0, 10, 69,False
+1971, 3, 16,17, Detroit Red Wings, 3, 0, 8, 12, 4, 30, 24, 160,7, Boston Bruins, 10, 2, 6, 10, 1, 30, 4, 61,False
+1971, 3, 16,25, Los Angeles Kings, 3, 0, 5, 9, 1, 7, 9, 84,24, Minnesota North Stars, 7, 2, 0, 0, 5, 31, 16, 114,False
+1971, 3, 16,23, St. Louis Blues, 5, 0, 4, 7, 0, 27, 11, 121,1, Montreal Canadiens, 6, 2, 5, 8, 4, 10, 11, 105,True
+1971, 3, 16,26, Vancouver Canucks, 2, 0, 3, 5, 6, 33, 15, 112,12, Chicago Black Hawks, 7, 2, 4, 7, 0, 0, 8, 38,False
+1971, 3, 17,27, California Golden Seals, 3, 1, 5, 10, 4, 25, 10, 61,22, Pittsburgh Penguins, 1, 1, 1, 2, 5, 36, 13, 99,True
+1971, 3, 18,7, Boston Bruins, 10, 2, 11, 15, 3, 31, 7, 65,17, Detroit Red Wings, 3, 0, 4, 5, 5, 38, 31, 178,True
+1971, 3, 18,28, Buffalo Sabres, 4, 0, 5, 6, 0, 35, 8, 87,23, St. Louis Blues, 5, 2, 6, 9, 4, 27, 13, 117,True
+1971, 3, 18,25, Los Angeles Kings, 3, 0, 2, 3, 3, 26, 13, 80,12, Chicago Black Hawks, 8, 2, 7, 11, 0, 6, 12, 84,True
+1971, 3, 18,1, Montreal Canadiens, 5, 0, 2, 4, 1, 36, 13, 139,13, Toronto Maple Leafs, 4, 2, 0, 0, 1, 37, 22, 215,True
+1971, 3, 18,21, Philadelphia Flyers, 4, 0, 3, 5, 7, 39, 18, 143,11, New York Rangers, 10, 2, 1, 2, 2, 27, 9, 83,True
+1971, 3, 19,27, California Golden Seals, 3, 0, 7, 9, 2, 36, 8, 72,12, Chicago Black Hawks, 7, 2, 2, 4, 4, 46, 15, 111,False
+1971, 3, 19,26, Vancouver Canucks, 2, 0, 4, 8, 6, 46, 13, 79,22, Pittsburgh Penguins, 1, 2, 2, 2, 0, 0, 13, 91,True
+1971, 3, 20,7, Boston Bruins, 10, 2, 7, 12, 4, 34, 7, 77,21, Philadelphia Flyers, 5, 0, 2, 2, 1, 31, 12, 135,True
+1971, 3, 20,25, Los Angeles Kings, 4, 1, 3, 4, 2, 23, 12, 77,22, Pittsburgh Penguins, 1, 1, 4, 7, 3, 7, 14, 93,True
+1971, 3, 20,1, Montreal Canadiens, 5, 1, 3, 5, 4, 27, 13, 129,28, Buffalo Sabres, 5, 1, 5, 8, 8, 30, 11, 84,True
+1971, 3, 20,23, St. Louis Blues, 4, 2, 3, 4, 5, 16, 14, 106,17, Detroit Red Wings, 3, 0, 3, 6, 5, 38, 33, 196,True
+1971, 3, 20,13, Toronto Maple Leafs, 3, 0, 1, 2, 4, 44, 23, 225,11, New York Rangers, 9, 2, 1, 2, 0, 33, 9, 85,True
+1971, 3, 21,7, Boston Bruins, 10, 2, 5, 10, 3, 43, 6, 80,28, Buffalo Sabres, 5, 0, 2, 3, 2, 16, 4, 52,False
+1971, 3, 21,12, Chicago Black Hawks, 7, 2, 5, 10, 3, 33, 13, 91,17, Detroit Red Wings, 3, 0, 1, 1, 7, 56, 30, 185,True
+1971, 3, 21,27, California Golden Seals, 3, 0, 2, 4, 5, 48, 11, 84,25, Los Angeles Kings, 5, 2, 8, 14, 4, 33, 14, 87,True
+1971, 3, 21,11, New York Rangers, 8, 1, 1, 2, 3, 33, 12, 85,1, Montreal Canadiens, 5, 1, 5, 9, 2, 21, 10, 109,False
+1971, 3, 21,21, Philadelphia Flyers, 5, 1, 3, 5, 5, 42, 13, 141,13, Toronto Maple Leafs, 4, 1, 3, 5, 3, 36, 20, 220,False
+1971, 3, 21,26, Vancouver Canucks, 3, 0, 6, 11, 5, 21, 11, 71,24, Minnesota North Stars, 7, 2, 6, 13, 2, 28, 13, 111,False
+1971, 3, 23,24, Minnesota North Stars, 7, 2, 7, 9, 3, 31, 14, 114,25, Los Angeles Kings, 4, 0, 2, 4, 5, 41, 15, 95,True
+1971, 3, 23,11, New York Rangers, 7, 2, 2, 4, 2, 29, 15, 82,28, Buffalo Sabres, 6, 0, 7, 7, 2, 14, 7, 92,True
+1971, 3, 23,26, Vancouver Canucks, 3, 1, 3, 6, 2, 12, 8, 40,23, St. Louis Blues, 5, 1, 2, 5, 1, 38, 8, 127,True
+1971, 3, 24,12, Chicago Black Hawks, 7, 1, 2, 3, 0, 27, 10, 85,7, Boston Bruins, 9, 1, 5, 8, 3, 37, 9, 61,True
+1971, 3, 24,27, California Golden Seals, 4, 2, 5, 9, 2, 31, 8, 67,13, Toronto Maple Leafs, 4, 0, 2, 3, 1, 35, 14, 205,False
+1971, 3, 24,1, Montreal Canadiens, 6, 1, 6, 10, 0, 12, 10, 137,21, Philadelphia Flyers, 4, 1, 1, 2, 1, 28, 7, 94,True
+1971, 3, 24,22, Pittsburgh Penguins, 1, 1, 4, 4, 0, 0, 13, 113,17, Detroit Red Wings, 2, 1, 0, 0, 2, 27, 25, 154,True
+1971, 3, 25,17, Detroit Red Wings, 1, 0, 2, 4, 2, 25, 31, 154,26, Vancouver Canucks, 4, 2, 4, 6, 4, 21, 7, 62,True
+1971, 3, 25,25, Los Angeles Kings, 4, 1, 1, 1, 3, 33, 13, 87,13, Toronto Maple Leafs, 5, 1, 6, 7, 0, 6, 16, 165,True
+1971, 3, 25,21, Philadelphia Flyers, 3, 1, 3, 3, 5, 36, 15, 140,24, Minnesota North Stars, 7, 1, 3, 4, 2, 32, 12, 107,False
+1971, 3, 26,28, Buffalo Sabres, 6, 1, 2, 4, 5, 56, 12, 128,26, Vancouver Canucks, 4, 1, 3, 4, 1, 34, 7, 80,True
+1971, 3, 26,27, California Golden Seals, 4, 0, 0, 0, 6, 33, 12, 69,23, St. Louis Blues, 5, 2, 1, 2, 2, 23, 10, 107,False
+1971, 3, 27,7, Boston Bruins, 8, 2, 1, 2, 6, 24, 8, 62,11, New York Rangers, 7, 0, 7, 12, 6, 30, 15, 76,False
+1971, 3, 27,12, Chicago Black Hawks, 7, 1, 2, 5, 1, 25, 11, 83,21, Philadelphia Flyers, 3, 1, 2, 4, 2, 39, 12, 135,True
+1971, 3, 27,25, Los Angeles Kings, 5, 1, 5, 7, 3, 30, 13, 84,23, St. Louis Blues, 5, 1, 8, 13, 1, 4, 9, 78,False
+1971, 3, 27,1, Montreal Canadiens, 6, 2, 5, 6, 6, 44, 13, 162,17, Detroit Red Wings, 2, 0, 4, 8, 3, 22, 32, 151,True
+1971, 3, 28,28, Buffalo Sabres, 6, 2, 3, 6, 7, 50, 8, 90,24, Minnesota North Stars, 8, 0, 2, 4, 1, 24, 12, 108,True
+1971, 3, 28,12, Chicago Black Hawks, 7, 1, 3, 5, 1, 32, 11, 90,1, Montreal Canadiens, 6, 1, 9, 14, 2, 49, 9, 156,False
+1971, 3, 28,17, Detroit Red Wings, 2, 0, 2, 2, 8, 27, 38, 166,13, Toronto Maple Leafs, 4, 2, 3, 6, 4, 26, 17, 180,True
+1971, 3, 28,11, New York Rangers, 7, 1, 6, 12, 2, 23, 12, 64,7, Boston Bruins, 7, 1, 2, 5, 2, 38, 8, 90,True
+1971, 3, 28,21, Philadelphia Flyers, 3, 1, 1, 1, 2, 31, 11, 144,22, Pittsburgh Penguins, 2, 1, 8, 15, 2, 24, 11, 99,True
+1971, 3, 28,26, Vancouver Canucks, 4, 2, 1, 2, 4, 39, 8, 89,27, California Golden Seals, 4, 0, 5, 10, 8, 31, 14, 67,True
+1971, 3, 30,24, Minnesota North Stars, 8, 2, 2, 4, 4, 25, 15, 109,26, Vancouver Canucks, 5, 0, 11, 18, 2, 43, 9, 80,False
+1971, 3, 30,23, St. Louis Blues, 6, 1, 4, 6, 0, 0, 11, 105,25, Los Angeles Kings, 5, 1, 3, 5, 4, 10, 16, 81,True
+1971, 3, 31,27, California Golden Seals, 4, 0, 5, 8, 6, 20, 13, 59,24, Minnesota North Stars, 7, 2, 1, 2, 2, 33, 13, 110,True
+1971, 3, 31,25, Los Angeles Kings, 4, 0, 3, 4, 4, 31, 16, 102,26, Vancouver Canucks, 5, 2, 2, 5, 5, 30, 8, 80,False
+1971, 3, 31,1, Montreal Canadiens, 7, 1, 3, 1, 3, 36, 10, 139,7, Boston Bruins, 6, 1, 1, 2, 2, 29, 8, 81,False
+1971, 3, 31,11, New York Rangers, 7, 1, 2, 4, 3, 18, 11, 63,12, Chicago Black Hawks, 6, 1, 1, 2, 2, 25, 10, 109,True
+1971, 3, 31,22, Pittsburgh Penguins, 1, 1, 1, 2, 3, 32, 12, 107,28, Buffalo Sabres, 6, 1, 3, 6, 1, 18, 3, 68,False
+1971, 3, 31,13, Toronto Maple Leafs, 4, 1, 1, 3, 2, 34, 14, 199,17, Detroit Red Wings, 3, 1, 2, 0, 1, 29, 31, 168,False
+1971, 4, 1,28, Buffalo Sabres, 7, 1, 7, 10, 4, 41, 6, 91,22, Pittsburgh Penguins, 1, 1, 4, 7, 4, 19, 18, 122,False
+1971, 4, 1,23, St. Louis Blues, 7, 2, 6, 8, 3, 31, 14, 141,21, Philadelphia Flyers, 4, 0, 2, 5, 3, 40, 8, 135,False
+1971, 4, 2,27, California Golden Seals, 4, 0, 4, 7, 1, 28, 8, 67,26, Vancouver Canucks, 5, 2, 2, 4, 1, 43, 5, 76,False
+1971, 4, 3,17, Detroit Red Wings, 4, 0, 2, 2, 2, 32, 33, 150,12, Chicago Black Hawks, 6, 2, 2, 4, 3, 23, 12, 121,False
+1971, 4, 3,25, Los Angeles Kings, 4, 1, 2, 4, 2, 36, 14, 107,27, California Golden Seals, 3, 1, 2, 3, 7, 28, 14, 67,True
+1971, 4, 3,1, Montreal Canadiens, 7, 2, 3, 5, 1, 36, 13, 138,11, New York Rangers, 7, 0, 4, 7, 1, 22, 10, 75,True
+1971, 4, 3,21, Philadelphia Flyers, 4, 0, 2, 2, 1, 42, 6, 127,24, Minnesota North Stars, 6, 2, 1, 2, 4, 29, 15, 106,True
+1971, 4, 3,23, St. Louis Blues, 7, 1, 1, 0, 1, 27, 12, 137,22, Pittsburgh Penguins, 2, 1, 3, 3, 6, 24, 15, 128,True
+1971, 4, 3,13, Toronto Maple Leafs, 4, 0, 2, 4, 2, 27, 15, 172,7, Boston Bruins, 6, 2, 7, 11, 6, 52, 9, 81,False
+1971, 4, 4,7, Boston Bruins, 6, 2, 5, 14, 3, 29, 6, 71,1, Montreal Canadiens, 8, 0, 7, 10, 2, 38, 13, 148,True
+1971, 4, 4,12, Chicago Black Hawks, 6, 1, 4, 6, 1, 29, 12, 123,13, Toronto Maple Leafs, 3, 1, 3, 6, 8, 40, 21, 185,False
+1971, 4, 4,11, New York Rangers, 6, 2, 2, 4, 2, 30, 16, 88,17, Detroit Red Wings, 3, 0, 1, 2, 10, 32, 35, 143,True
+1971, 4, 4,21, Philadelphia Flyers, 5, 1, 3, 3, 1, 32, 7, 107,28, Buffalo Sabres, 6, 1, 3, 6, 2, 36, 5, 65,False
+1971, 4, 4,22, Pittsburgh Penguins, 2, 0, 3, 4, 4, 17, 14, 120,23, St. Louis Blues, 7, 2, 4, 6, 4, 23, 14, 131,False
+1971, 4, 4,26, Vancouver Canucks, 6, 2, 7, 13, 2, 26, 6, 68,25, Los Angeles Kings, 4, 0, 6, 12, 6, 27, 16, 103,False

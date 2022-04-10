@@ -1,0 +1,1093 @@
+Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
+1993, 10, 5,39, Calgary Flames, 7, 0, 5, 10, 3, 25, 24, 196,29, New York Islanders, 5, 2, 5, 10, 2, 30, 34, 202,True
+1993, 10, 5,44, Dallas Stars, 0, 0, 3, 6, 0, 8, 0, 8,17, Detroit Red Wings, 9, 0, 6, 6, 5, 20, 31, 180,True
+1993, 10, 5,11, New York Rangers, 1, 1, 2, 1, 4, 34, 18, 105,7, Boston Bruins, 9, 1, 3, 5, 5, 29, 24, 154,False
+1993, 10, 5,21, Philadelphia Flyers, 8, 1, 5, 10, 4, 30, 16, 143,22, Pittsburgh Penguins, 10, 1, 2, 10, 6, 39, 18, 123,True
+1993, 10, 6,41, Chicago Blackhawks, 8, 0, 3, 5, 2, 26, 24, 161,45, Florida Panthers, 0, 0, 0, 6, 5, 23, 5, 23,False
+1993, 10, 6,35, Edmonton Oilers, 1, 0, 0, 0, 3, 42, 29, 213,42, San Jose Sharks, 1, 2, 1, 4, 7, 32, 30, 168,True
+1993, 10, 6,25, Los Angeles Kings, 6, 0, 6, 10, 1, 8, 29, 145,26, Vancouver Canucks, 7, 2, 10, 17, 3, 23, 25, 130,False
+1993, 10, 6,1, Montreal Canadiens, 4, 1, 3, 8, 2, 36, 11, 116,38, Hartford Whalers, 5, 1, 4, 6, 5, 23, 42, 262,True
+1993, 10, 6,40, New Jersey Devils, 4, 2, 5, 7, 3, 13, 22, 99,43, Tampa Bay Lightning, 3, 0, 4, 6, 2, 37, 15, 88,True
+1993, 10, 6,0, Ottawa Senators, 1, 0, 1, 3, 5, 14, 17, 84,37, Quebec Nordiques, 7, 2, 5, 11, 3, 27, 34, 218,False
+1993, 10, 6,36, Winnipeg Jets, 7, 1, 4, 4, 0, 31, 17, 149,31, Washington Capitals, 5, 1, 5, 4, 2, 30, 23, 160,True
+1993, 10, 7,7, Boston Bruins, 9, 2, 4, 7, 3, 32, 22, 157,28, Buffalo Sabres, 2, 0, 3, 6, 3, 10, 33, 172,False
+1993, 10, 7,39, Calgary Flames, 8, 2, 3, 6, 1, 26, 22, 197,42, San Jose Sharks, 1, 0, 2, 4, 6, 30, 32, 194,True
+1993, 10, 7,11, New York Rangers, 1, 2, 3, 6, 3, 30, 20, 142,43, Tampa Bay Lightning, 2, 0, 1, 2, 6, 22, 15, 94,True
+1993, 10, 7,22, Pittsburgh Penguins, 9, 2, 4, 5, 2, 26, 15, 115,1, Montreal Canadiens, 4, 0, 4, 6, 3, 23, 12, 103,True
+1993, 10, 7,23, St. Louis Blues, 4, 0, 6, 9, 3, 18, 18, 121,45, Florida Panthers, 1, 0, 4, 7, 4, 33, 8, 66,True
+1993, 10, 7,13, Toronto Maple Leafs, 5, 0, 2, 3, 3, 36, 21, 223,44, Dallas Stars, 1, 0, 6, 9, 4, 35, 4, 35,True
+1993, 10, 8,35, Edmonton Oilers, 2, 0, 3, 5, 2, 27, 28, 227,29, New York Islanders, 4, 2, 4, 2, 2, 20, 35, 179,True
+1993, 10, 8,46, Mighty Ducks of Anaheim, 0, 0, 0, 1, 2, 13, 2, 13,17, Detroit Red Wings, 8, 0, 4, 6, 0, 7, 29, 176,False
+1993, 10, 8,31, Washington Capitals, 5, 0, 4, 6, 2, 7, 27, 167,40, New Jersey Devils, 4, 2, 2, 3, 2, 9, 20, 121,False
+1993, 10, 9,7, Boston Bruins, 9, 2, 2, 5, 2, 18, 25, 151,37, Quebec Nordiques, 7, 0, 5, 11, 0, 0, 39, 228,True
+1993, 10, 9,44, Dallas Stars, 1, 0, 3, 6, 5, 41, 5, 41,36, Winnipeg Jets, 7, 0, 6, 9, 4, 33, 21, 151,False
+1993, 10, 9,38, Hartford Whalers, 5, 0, 2, 3, 4, 25, 41, 264,21, Philadelphia Flyers, 9, 2, 4, 8, 3, 26, 16, 148,False
+1993, 10, 9,25, Los Angeles Kings, 5, 1, 2, 2, 3, 26, 33, 164,17, Detroit Red Wings, 8, 1, 6, 12, 2, 27, 31, 196,True
+1993, 10, 9,1, Montreal Canadiens, 4, 1, 1, 2, 2, 39, 11, 119,28, Buffalo Sabres, 2, 1, 5, 10, 3, 39, 33, 201,True
+1993, 10, 9,40, New Jersey Devils, 4, 2, 6, 12, 1, 18, 21, 138,31, Washington Capitals, 4, 0, 3, 5, 6, 37, 31, 202,True
+1993, 10, 9,22, Pittsburgh Penguins, 9, 2, 2, 3, 0, 25, 6, 86,11, New York Rangers, 2, 0, 5, 7, 4, 31, 21, 131,True
+1993, 10, 9,23, St. Louis Blues, 4, 2, 6, 9, 3, 30, 21, 140,0, Ottawa Senators, 1, 0, 5, 10, 5, 31, 17, 101,True
+1993, 10, 9,43, Tampa Bay Lightning, 2, 0, 4, 5, 2, 43, 14, 110,45, Florida Panthers, 1, 0, 3, 5, 4, 33, 8, 64,False
+1993, 10, 9,13, Toronto Maple Leafs, 5, 0, 6, 6, 3, 29, 32, 225,41, Chicago Blackhawks, 7, 2, 4, 8, 4, 29, 22, 142,True
+1993, 10, 9,26, Vancouver Canucks, 8, 1, 5, 7, 2, 35, 24, 142,39, Calgary Flames, 9, 1, 6, 11, 3, 26, 23, 189,False
+1993, 10, 10,28, Buffalo Sabres, 2, 1, 3, 6, 0, 0, 32, 161,38, Hartford Whalers, 5, 1, 3, 3, 0, 16, 39, 256,False
+1993, 10, 10,41, Chicago Blackhawks, 6, 1, 1, 2, 2, 25, 23, 164,36, Winnipeg Jets, 8, 1, 3, 5, 3, 10, 20, 148,True
+1993, 10, 10,25, Los Angeles Kings, 5, 2, 10, 19, 3, 35, 33, 173,42, San Jose Sharks, 1, 0, 2, 5, 3, 28, 32, 188,True
+1993, 10, 10,46, Mighty Ducks of Anaheim, 0, 0, 2, 4, 4, 44, 11, 87,29, New York Islanders, 3, 0, 1, 3, 5, 30, 38, 189,False
+1993, 10, 10,21, Philadelphia Flyers, 10, 2, 5, 8, 4, 45, 16, 192,13, Toronto Maple Leafs, 5, 0, 2, 3, 1, 30, 30, 226,False
+1993, 10, 10,37, Quebec Nordiques, 6, 0, 3, 4, 2, 21, 39, 224,22, Pittsburgh Penguins, 9, 2, 3, 6, 2, 33, 10, 113,True
+1993, 10, 11,7, Boston Bruins, 9, 2, 7, 13, 5, 20, 24, 147,1, Montreal Canadiens, 4, 0, 7, 14, 4, 20, 13, 100,False
+1993, 10, 11,11, New York Rangers, 1, 0, 2, 4, 4, 19, 16, 135,31, Washington Capitals, 3, 2, 4, 6, 1, 11, 25, 155,True
+1993, 10, 11,26, Vancouver Canucks, 7, 1, 1, 2, 6, 41, 27, 132,35, Edmonton Oilers, 3, 1, 5, 9, 1, 32, 39, 248,True
+1993, 10, 12,44, Dallas Stars, 1, 0, 3, 3, 3, 24, 3, 24,41, Chicago Blackhawks, 7, 0, 4, 8, 9, 32, 33, 200,False
+1993, 10, 12,45, Florida Panthers, 2, 0, 2, 1, 0, 35, 4, 66,22, Pittsburgh Penguins, 8, 0, 4, 7, 7, 40, 15, 120,False
+1993, 10, 12,25, Los Angeles Kings, 5, 2, 5, 9, 2, 38, 32, 176,29, New York Islanders, 4, 0, 4, 9, 3, 29, 28, 187,True
+1993, 10, 12,40, New Jersey Devils, 5, 0, 6, 9, 3, 26, 25, 161,36, Winnipeg Jets, 7, 2, 3, 6, 3, 30, 21, 183,True
+1993, 10, 12,21, Philadelphia Flyers, 9, 1, 4, 7, 2, 28, 20, 191,28, Buffalo Sabres, 1, 1, 2, 3, 7, 37, 35, 187,True
+1993, 10, 13,17, Detroit Red Wings, 7, 0, 4, 6, 8, 40, 35, 186,23, St. Louis Blues, 5, 2, 7, 11, 5, 29, 23, 139,False
+1993, 10, 13,38, Hartford Whalers, 5, 0, 3, 6, 2, 35, 36, 258,1, Montreal Canadiens, 5, 2, 1, 1, 2, 27, 10, 114,True
+1993, 10, 13,46, Mighty Ducks of Anaheim, 0, 0, 3, 2, 4, 29, 11, 72,35, Edmonton Oilers, 3, 0, 1, 3, 0, 0, 37, 249,True
+1993, 10, 13,11, New York Rangers, 2, 0, 5, 7, 2, 19, 16, 129,37, Quebec Nordiques, 6, 2, 7, 13, 5, 18, 44, 257,True
+1993, 10, 13,13, Toronto Maple Leafs, 6, 0, 5, 9, 4, 31, 28, 220,31, Washington Capitals, 3, 2, 2, 3, 3, 9, 24, 171,True
+1993, 10, 14,41, Chicago Blackhawks, 7, 2, 3, 6, 3, 31, 26, 192,38, Hartford Whalers, 5, 0, 4, 7, 3, 35, 37, 258,False
+1993, 10, 14,45, Florida Panthers, 2, 0, 1, 2, 2, 29, 6, 60,0, Ottawa Senators, 1, 0, 4, 10, 6, 42, 18, 112,True
+1993, 10, 14,25, Los Angeles Kings, 5, 2, 7, 11, 5, 43, 35, 181,35, Edmonton Oilers, 2, 0, 3, 5, 3, 16, 36, 238,False
+1993, 10, 14,42, San Jose Sharks, 1, 0, 2, 1, 3, 30, 26, 175,39, Calgary Flames, 9, 2, 5, 8, 2, 18, 21, 189,False
+1993, 10, 14,43, Tampa Bay Lightning, 2, 1, 0, 1, 1, 21, 13, 88,22, Pittsburgh Penguins, 8, 1, 2, 2, 1, 24, 9, 106,True
+1993, 10, 15,28, Buffalo Sabres, 1, 2, 3, 5, 3, 26, 34, 192,11, New York Rangers, 3, 0, 6, 11, 2, 25, 17, 111,False
+1993, 10, 15,46, Mighty Ducks of Anaheim, 1, 0, 4, 4, 3, 31, 10, 74,7, Boston Bruins, 8, 0, 3, 1, 3, 31, 20, 161,False
+1993, 10, 15,13, Toronto Maple Leafs, 6, 1, 5, 10, 1, 28, 25, 196,17, Detroit Red Wings, 6, 1, 2, 6, 0, 0, 32, 181,True
+1993, 10, 15,31, Washington Capitals, 3, 0, 0, 1, 0, 0, 26, 151,21, Philadelphia Flyers, 9, 2, 5, 9, 3, 25, 23, 204,False
+1993, 10, 16,44, Dallas Stars, 1, 0, 3, 6, 3, 31, 3, 31,23, St. Louis Blues, 6, 0, 5, 8, 2, 23, 19, 139,True
+1993, 10, 16,17, Detroit Red Wings, 6, 1, 3, 3, 1, 9, 35, 199,13, Toronto Maple Leafs, 7, 1, 5, 8, 3, 43, 27, 211,False
+1993, 10, 16,35, Edmonton Oilers, 3, 0, 4, 6, 4, 49, 34, 250,26, Vancouver Canucks, 7, 2, 4, 7, 5, 25, 22, 115,False
+1993, 10, 16,25, Los Angeles Kings, 5, 1, 4, 6, 4, 31, 34, 169,39, Calgary Flames, 9, 1, 2, 4, 0, 0, 20, 184,True
+1993, 10, 16,1, Montreal Canadiens, 5, 1, 3, 6, 1, 34, 12, 113,37, Quebec Nordiques, 5, 1, 4, 7, 5, 33, 41, 272,False
+1993, 10, 16,29, New York Islanders, 3, 2, 5, 7, 7, 51, 32, 193,40, New Jersey Devils, 6, 0, 7, 13, 4, 30, 25, 157,False
+1993, 10, 16,21, Philadelphia Flyers, 9, 2, 3, 5, 0, 39, 19, 184,11, New York Rangers, 4, 0, 5, 10, 2, 17, 17, 103,True
+1993, 10, 16,22, Pittsburgh Penguins, 7, 2, 2, 2, 1, 10, 11, 122,38, Hartford Whalers, 5, 0, 6, 8, 2, 37, 36, 260,True
+1993, 10, 16,42, San Jose Sharks, 1, 0, 1, 2, 2, 33, 25, 178,7, Boston Bruins, 8, 2, 1, 1, 1, 27, 15, 142,False
+1993, 10, 16,43, Tampa Bay Lightning, 3, 2, 3, 6, 2, 28, 14, 95,0, Ottawa Senators, 1, 0, 4, 5, 5, 34, 17, 104,True
+1993, 10, 16,36, Winnipeg Jets, 6, 1, 4, 7, 6, 30, 14, 136,41, Chicago Blackhawks, 6, 1, 2, 3, 3, 7, 24, 150,True
+1993, 10, 16,31, Washington Capitals, 3, 1, 1, 0, 5, 21, 24, 138,28, Buffalo Sabres, 1, 1, 3, 4, 4, 7, 25, 141,True
+1993, 10, 17,45, Florida Panthers, 3, 1, 5, 9, 4, 34, 8, 65,43, Tampa Bay Lightning, 4, 0, 4, 5, 1, 27, 13, 94,False
+1993, 10, 17,46, Mighty Ducks of Anaheim, 1, 0, 1, 2, 7, 43, 8, 81,39, Calgary Flames, 8, 0, 3, 7, 1, 13, 28, 219,False
+1993, 10, 18,28, Buffalo Sabres, 1, 1, 3, 7, 4, 49, 27, 185,17, Detroit Red Wings, 5, 1, 1, 1, 2, 17, 36, 207,False
+1993, 10, 18,41, Chicago Blackhawks, 5, 1, 0, 0, 1, 33, 23, 168,44, Dallas Stars, 2, 0, 4, 8, 5, 32, 5, 58,False
+1993, 10, 18,37, Quebec Nordiques, 6, 2, 5, 7, 4, 30, 37, 232,1, Montreal Canadiens, 4, 0, 1, 4, 4, 21, 15, 100,False
+1993, 10, 18,36, Winnipeg Jets, 6, 2, 1, 0, 0, 33, 8, 139,35, Edmonton Oilers, 3, 0, 2, 4, 1, 11, 33, 249,True
+1993, 10, 19,45, Florida Panthers, 3, 0, 3, 5, 4, 31, 7, 60,25, Los Angeles Kings, 6, 0, 8, 14, 4, 36, 29, 172,False
+1993, 10, 19,29, New York Islanders, 3, 1, 3, 6, 6, 17, 30, 170,22, Pittsburgh Penguins, 7, 1, 4, 9, 3, 20, 16, 112,False
+1993, 10, 19,11, New York Rangers, 4, 0, 3, 7, 2, 4, 18, 105,46, Mighty Ducks of Anaheim, 1, 0, 2, 4, 2, 31, 3, 69,False
+1993, 10, 19,42, San Jose Sharks, 1, 0, 0, 2, 1, 37, 23, 177,23, St. Louis Blues, 6, 2, 0, 0, 4, 45, 19, 172,False
+1993, 10, 19,13, Toronto Maple Leafs, 8, 2, 4, 5, 1, 33, 26, 216,38, Hartford Whalers, 5, 0, 2, 6, 0, 13, 34, 238,True
+1993, 10, 19,26, Vancouver Canucks, 8, 0, 3, 6, 1, 24, 19, 114,7, Boston Bruins, 8, 2, 1, 3, 1, 21, 15, 136,True
+1993, 10, 20,35, Edmonton Oilers, 3, 0, 3, 3, 3, 34, 38, 280,39, Calgary Flames, 8, 2, 3, 3, 2, 34, 29, 240,False
+1993, 10, 20,38, Hartford Whalers, 5, 1, 3, 1, 4, 13, 39, 230,37, Quebec Nordiques, 6, 1, 2, 4, 3, 12, 28, 217,False
+1993, 10, 20,1, Montreal Canadiens, 5, 0, 5, 7, 4, 26, 13, 106,44, Dallas Stars, 3, 0, 5, 6, 0, 26, 3, 63,True
+1993, 10, 20,40, New Jersey Devils, 7, 0, 6, 7, 4, 30, 22, 162,46, Mighty Ducks of Anaheim, 2, 0, 4, 7, 1, 38, 3, 80,True
+1993, 10, 20,43, Tampa Bay Lightning, 5, 1, 3, 6, 3, 29, 15, 96,25, Los Angeles Kings, 6, 1, 2, 2, 6, 21, 29, 183,False
+1993, 10, 21,39, Calgary Flames, 8, 1, 5, 8, 3, 33, 30, 239,26, Vancouver Canucks, 8, 1, 5, 9, 2, 24, 22, 113,False
+1993, 10, 21,41, Chicago Blackhawks, 4, 1, 3, 5, 3, 17, 24, 147,37, Quebec Nordiques, 7, 1, 5, 7, 0, 23, 30, 233,True
+1993, 10, 21,17, Detroit Red Wings, 5, 1, 6, 8, 4, 21, 38, 211,36, Winnipeg Jets, 7, 1, 6, 12, 3, 26, 14, 129,True
+1993, 10, 21,45, Florida Panthers, 3, 0, 2, 4, 3, 29, 5, 60,13, Toronto Maple Leafs, 9, 0, 7, 13, 1, 26, 28, 206,False
+1993, 10, 21,0, Ottawa Senators, 1, 0, 2, 1, 3, 35, 15, 105,44, Dallas Stars, 3, 0, 2, 4, 4, 37, 5, 49,False
+1993, 10, 21,23, St. Louis Blues, 7, 2, 4, 5, 1, 39, 14, 167,42, San Jose Sharks, 1, 0, 1, 1, 6, 24, 25, 158,True
+1993, 10, 22,28, Buffalo Sabres, 1, 1, 4, 5, 2, 12, 27, 116,22, Pittsburgh Penguins, 7, 1, 3, 4, 2, 47, 13, 135,False
+1993, 10, 22,35, Edmonton Oilers, 3, 1, 3, 7, 4, 43, 42, 290,7, Boston Bruins, 7, 1, 3, 4, 4, 17, 23, 120,False
+1993, 10, 22,21, Philadelphia Flyers, 9, 0, 4, 7, 3, 25, 14, 137,29, New York Islanders, 3, 2, 2, 4, 0, 24, 27, 174,True
+1993, 10, 22,43, Tampa Bay Lightning, 5, 0, 3, 4, 4, 22, 16, 89,11, New York Rangers, 4, 2, 2, 3, 4, 37, 21, 147,True
+1993, 10, 22,31, Washington Capitals, 4, 2, 4, 8, 3, 22, 22, 139,25, Los Angeles Kings, 6, 0, 4, 8, 2, 52, 26, 190,True
+1993, 10, 23,39, Calgary Flames, 8, 0, 3, 6, 1, 26, 32, 233,7, Boston Bruins, 7, 2, 5, 6, 1, 23, 20, 126,False
+1993, 10, 23,41, Chicago Blackhawks, 5, 1, 3, 6, 2, 29, 24, 184,17, Detroit Red Wings, 5, 1, 6, 11, 2, 22, 36, 212,True
+1993, 10, 23,38, Hartford Whalers, 4, 1, 1, 3, 5, 33, 37, 228,28, Buffalo Sabres, 1, 1, 2, 3, 4, 21, 26, 154,False
+1993, 10, 23,1, Montreal Canadiens, 6, 0, 5, 10, 1, 7, 9, 78,46, Mighty Ducks of Anaheim, 2, 0, 0, 0, 2, 42, 6, 81,True
+1993, 10, 23,40, New Jersey Devils, 7, 0, 4, 8, 3, 34, 19, 144,45, Florida Panthers, 3, 0, 3, 5, 4, 38, 6, 69,True
+1993, 10, 23,29, New York Islanders, 2, 1, 3, 3, 4, 34, 31, 184,0, Ottawa Senators, 1, 1, 5, 8, 4, 23, 18, 103,False
+1993, 10, 23,21, Philadelphia Flyers, 9, 2, 3, 8, 5, 31, 19, 146,36, Winnipeg Jets, 6, 0, 2, 3, 4, 19, 13, 82,False
+1993, 10, 23,22, Pittsburgh Penguins, 7, 1, 4, 7, 2, 19, 13, 107,23, St. Louis Blues, 7, 1, 5, 8, 2, 37, 18, 152,False
+1993, 10, 23,37, Quebec Nordiques, 6, 0, 3, 6, 2, 27, 38, 242,44, Dallas Stars, 4, 0, 6, 7, 0, 9, 5, 28,True
+1993, 10, 23,42, San Jose Sharks, 0, 0, 2, 4, 3, 18, 24, 157,26, Vancouver Canucks, 8, 2, 6, 9, 4, 23, 23, 113,False
+1993, 10, 23,43, Tampa Bay Lightning, 5, 0, 3, 6, 1, 34, 13, 101,13, Toronto Maple Leafs, 9, 2, 3, 6, 2, 30, 26, 232,False
+1993, 10, 24,35, Edmonton Oilers, 3, 1, 1, 2, 2, 29, 39, 287,31, Washington Capitals, 4, 1, 6, 8, 3, 30, 22, 147,False
+1993, 10, 24,11, New York Rangers, 4, 2, 1, 2, 4, 29, 19, 131,25, Los Angeles Kings, 6, 0, 3, 5, 5, 38, 29, 176,True
+1993, 10, 24,26, Vancouver Canucks, 9, 2, 6, 10, 3, 24, 23, 113,42, San Jose Sharks, 0, 0, 4, 7, 6, 32, 27, 171,True
+1993, 10, 25,39, Calgary Flames, 7, 1, 3, 5, 5, 27, 34, 241,31, Washington Capitals, 4, 1, 3, 6, 0, 23, 21, 144,True
+1993, 10, 25,17, Detroit Red Wings, 4, 0, 2, 4, 4, 12, 38, 215,44, Dallas Stars, 4, 1, 2, 4, 5, 19, 8, 53,False
+1993, 10, 25,0, Ottawa Senators, 2, 0, 5, 10, 6, 33, 19, 106,46, Mighty Ducks of Anaheim, 2, 0, 1, 2, 4, 39, 7, 65,True
+1993, 10, 26,41, Chicago Blackhawks, 5, 2, 4, 7, 2, 31, 24, 186,23, St. Louis Blues, 8, 0, 3, 5, 0, 0, 19, 138,True
+1993, 10, 26,45, Florida Panthers, 3, 0, 1, 1, 2, 31, 4, 61,36, Winnipeg Jets, 6, 0, 9, 17, 3, 21, 20, 120,False
+1993, 10, 26,40, New Jersey Devils, 7, 1, 2, 3, 0, 17, 12, 137,1, Montreal Canadiens, 7, 1, 4, 8, 1, 33, 9, 104,False
+1993, 10, 26,29, New York Islanders, 2, 0, 5, 10, 5, 32, 34, 176,25, Los Angeles Kings, 6, 2, 2, 3, 3, 41, 27, 179,True
+1993, 10, 26,37, Quebec Nordiques, 6, 2, 3, 6, 2, 30, 32, 239,21, Philadelphia Flyers, 8, 0, 7, 10, 3, 26, 19, 158,False
+1993, 10, 26,42, San Jose Sharks, 0, 1, 0, 5, 3, 37, 24, 176,35, Edmonton Oilers, 3, 1, 2, 4, 6, 42, 39, 276,True
+1993, 10, 27,39, Calgary Flames, 7, 0, 3, 6, 3, 34, 31, 242,28, Buffalo Sabres, 2, 2, 5, 5, 3, 32, 29, 182,False
+1993, 10, 27,44, Dallas Stars, 5, 0, 5, 9, 3, 24, 6, 58,38, Hartford Whalers, 3, 0, 3, 5, 3, 30, 35, 225,True
+1993, 10, 27,17, Detroit Red Wings, 3, 0, 3, 7, 1, 5, 35, 191,25, Los Angeles Kings, 6, 2, 0, 1, 2, 10, 28, 145,True
+1993, 10, 27,0, Ottawa Senators, 2, 1, 4, 7, 1, 24, 14, 97,21, Philadelphia Flyers, 8, 1, 4, 8, 2, 32, 18, 164,False
+1993, 10, 27,43, Tampa Bay Lightning, 4, 1, 1, 0, 2, 26, 14, 93,36, Winnipeg Jets, 7, 1, 4, 5, 2, 34, 19, 133,False
+1993, 10, 27,26, Vancouver Canucks, 9, 2, 3, 5, 2, 19, 22, 108,31, Washington Capitals, 3, 0, 2, 3, 3, 36, 28, 175,False
+1993, 10, 28,7, Boston Bruins, 7, 2, 3, 6, 3, 30, 18, 142,0, Ottawa Senators, 2, 0, 2, 4, 5, 26, 17, 103,True
+1993, 10, 28,41, Chicago Blackhawks, 5, 1, 9, 16, 2, 26, 24, 181,13, Toronto Maple Leafs, 9, 1, 4, 0, 0, 25, 27, 215,False
+1993, 10, 28,45, Florida Panthers, 3, 0, 2, 4, 2, 30, 6, 55,29, New York Islanders, 3, 0, 6, 13, 0, 38, 28, 180,True
+1993, 10, 28,11, New York Rangers, 5, 1, 3, 6, 2, 25, 17, 138,1, Montreal Canadiens, 7, 1, 2, 1, 0, 41, 8, 112,False
+1993, 10, 28,22, Pittsburgh Penguins, 6, 1, 6, 7, 3, 29, 14, 117,37, Quebec Nordiques, 5, 1, 2, 3, 3, 24, 38, 222,False
+1993, 10, 28,42, San Jose Sharks, 1, 0, 3, 6, 1, 16, 21, 153,46, Mighty Ducks of Anaheim, 2, 0, 1, 0, 3, 26, 6, 53,True
+1993, 10, 28,23, St. Louis Blues, 7, 2, 2, 3, 5, 15, 26, 129,38, Hartford Whalers, 3, 0, 2, 2, 3, 13, 37, 226,True
+1993, 10, 29,35, Edmonton Oilers, 2, 2, 1, 0, 3, 30, 36, 265,28, Buffalo Sabres, 3, 0, 5, 8, 3, 31, 31, 178,False
+1993, 10, 29,46, Mighty Ducks of Anaheim, 2, 0, 3, 6, 3, 27, 7, 51,31, Washington Capitals, 4, 0, 3, 7, 2, 27, 27, 166,False
+1993, 10, 29,43, Tampa Bay Lightning, 4, 1, 3, 6, 4, 23, 16, 90,29, New York Islanders, 2, 1, 2, 3, 3, 6, 32, 164,False
+1993, 10, 29,36, Winnipeg Jets, 7, 0, 4, 2, 3, 30, 18, 142,25, Los Angeles Kings, 5, 2, 3, 6, 8, 41, 34, 176,False
+1993, 10, 30,7, Boston Bruins, 7, 2, 4, 10, 2, 23, 17, 135,23, St. Louis Blues, 8, 0, 2, 3, 4, 18, 20, 113,False
+1993, 10, 30,39, Calgary Flames, 6, 2, 3, 6, 2, 28, 33, 226,35, Edmonton Oilers, 1, 0, 3, 5, 6, 24, 41, 266,True
+1993, 10, 30,44, Dallas Stars, 5, 1, 5, 9, 1, 28, 4, 62,0, Ottawa Senators, 2, 0, 2, 3, 4, 30, 18, 124,False
+1993, 10, 30,45, Florida Panthers, 3, 1, 5, 5, 2, 41, 6, 66,43, Tampa Bay Lightning, 4, 1, 2, 4, 1, 5, 11, 48,True
+1993, 10, 30,38, Hartford Whalers, 3, 1, 1, 2, 2, 38, 36, 251,11, New York Rangers, 5, 1, 3, 6, 3, 26, 17, 132,False
+1993, 10, 30,1, Montreal Canadiens, 7, 0, 3, 7, 3, 42, 11, 113,13, Toronto Maple Leafs, 10, 2, 4, 4, 2, 48, 27, 244,True
+1993, 10, 30,40, New Jersey Devils, 7, 2, 0, 0, 1, 36, 19, 165,21, Philadelphia Flyers, 8, 0, 5, 10, 2, 21, 13, 115,True
+1993, 10, 30,22, Pittsburgh Penguins, 6, 1, 3, 3, 7, 30, 19, 130,41, Chicago Blackhawks, 5, 1, 2, 2, 1, 10, 24, 167,True
+1993, 10, 30,37, Quebec Nordiques, 5, 1, 7, 14, 3, 32, 40, 233,17, Detroit Red Wings, 4, 1, 8, 13, 3, 26, 37, 212,False
+1993, 10, 30,42, San Jose Sharks, 2, 0, 4, 8, 3, 31, 26, 204,31, Washington Capitals, 5, 2, 6, 8, 2, 27, 24, 195,False
+1993, 10, 30,26, Vancouver Canucks, 8, 2, 2, 4, 4, 23, 24, 123,28, Buffalo Sabres, 3, 0, 6, 11, 3, 35, 28, 184,False
+1993, 10, 31,41, Chicago Blackhawks, 5, 0, 3, 5, 3, 14, 27, 203,21, Philadelphia Flyers, 7, 2, 3, 4, 5, 32, 16, 126,False
+1993, 10, 31,46, Mighty Ducks of Anaheim, 2, 0, 2, 4, 4, 24, 9, 54,42, San Jose Sharks, 2, 1, 3, 4, 5, 23, 27, 201,False
+1993, 10, 31,11, New York Rangers, 5, 0, 4, 8, 1, 22, 15, 128,40, New Jersey Devils, 8, 2, 5, 8, 2, 24, 21, 171,True
+1993, 10, 31,36, Winnipeg Jets, 6, 2, 3, 9, 4, 34, 16, 175,39, Calgary Flames, 6, 0, 4, 6, 1, 23, 32, 221,False
+1993, 11, 1,44, Dallas Stars, 5, 0, 4, 4, 2, 15, 5, 27,13, Toronto Maple Leafs, 9, 1, 2, 4, 5, 38, 29, 225,False
+1993, 11, 1,38, Hartford Whalers, 3, 0, 1, 2, 4, 25, 40, 238,23, St. Louis Blues, 8, 2, 2, 2, 1, 23, 15, 140,False
+1993, 11, 2,17, Detroit Red Wings, 4, 2, 5, 8, 3, 38, 37, 224,7, Boston Bruins, 6, 0, 3, 2, 1, 12, 19, 140,True
+1993, 11, 2,45, Florida Panthers, 4, 0, 2, 4, 1, 34, 5, 59,21, Philadelphia Flyers, 7, 0, 9, 19, 6, 32, 17, 126,False
+1993, 11, 2,29, New York Islanders, 3, 1, 4, 7, 4, 22, 34, 222,26, Vancouver Canucks, 7, 1, 3, 4, 4, 34, 26, 123,False
+1993, 11, 2,37, Quebec Nordiques, 5, 2, 3, 4, 4, 29, 39, 246,43, Tampa Bay Lightning, 4, 0, 1, 2, 3, 14, 12, 68,True
+1993, 11, 2,42, San Jose Sharks, 3, 0, 2, 2, 4, 28, 23, 209,22, Pittsburgh Penguins, 6, 2, 4, 10, 3, 34, 14, 138,False
+1993, 11, 3,28, Buffalo Sabres, 4, 1, 6, 9, 3, 39, 28, 188,22, Pittsburgh Penguins, 6, 1, 1, 3, 3, 30, 14, 134,False
+1993, 11, 3,35, Edmonton Oilers, 1, 1, 1, 2, 3, 32, 41, 272,0, Ottawa Senators, 3, 1, 5, 3, 4, 44, 18, 138,False
+1993, 11, 3,38, Hartford Whalers, 2, 0, 1, 6, 3, 29, 39, 242,39, Calgary Flames, 6, 2, 4, 3, 2, 30, 32, 215,False
+1993, 11, 3,25, Los Angeles Kings, 5, 1, 4, 6, 3, 35, 29, 170,40, New Jersey Devils, 8, 1, 1, 3, 2, 17, 21, 128,True
+1993, 11, 3,46, Mighty Ducks of Anaheim, 2, 0, 1, 2, 5, 30, 7, 52,44, Dallas Stars, 5, 0, 3, 6, 3, 33, 6, 45,True
+1993, 11, 3,1, Montreal Canadiens, 8, 1, 5, 9, 2, 31, 10, 102,43, Tampa Bay Lightning, 4, 1, 3, 1, 2, 25, 17, 75,True
+1993, 11, 3,11, New York Rangers, 6, 0, 4, 6, 1, 24, 18, 130,26, Vancouver Canucks, 7, 2, 2, 4, 6, 23, 23, 124,True
+1993, 11, 3,13, Toronto Maple Leafs, 9, 1, 3, 5, 3, 29, 29, 208,45, Florida Panthers, 3, 0, 3, 6, 4, 25, 8, 59,True
+1993, 11, 3,36, Winnipeg Jets, 5, 1, 4, 6, 4, 30, 16, 171,23, St. Louis Blues, 8, 1, 4, 7, 2, 31, 21, 155,False
+1993, 11, 4,7, Boston Bruins, 6, 2, 1, 2, 2, 23, 25, 150,39, Calgary Flames, 6, 0, 6, 10, 5, 18, 33, 225,True
+1993, 11, 4,41, Chicago Blackhawks, 4, 2, 7, 11, 9, 25, 29, 222,29, New York Islanders, 3, 0, 1, 1, 2, 31, 34, 236,True
+1993, 11, 4,17, Detroit Red Wings, 5, 0, 6, 7, 1, 34, 35, 220,13, Toronto Maple Leafs, 9, 2, 6, 12, 3, 31, 29, 205,False
+1993, 11, 4,21, Philadelphia Flyers, 8, 1, 4, 7, 3, 30, 14, 129,37, Quebec Nordiques, 5, 1, 7, 12, 2, 43, 38, 254,True
+1993, 11, 5,46, Mighty Ducks of Anaheim, 2, 0, 5, 10, 2, 22, 6, 50,40, New Jersey Devils, 7, 1, 2, 2, 2, 20, 22, 141,False
+1993, 11, 5,42, San Jose Sharks, 3, 0, 3, 5, 1, 31, 22, 219,44, Dallas Stars, 5, 0, 4, 7, 5, 33, 8, 45,True
+1993, 11, 5,36, Winnipeg Jets, 5, 2, 0, 0, 3, 10, 14, 167,0, Ottawa Senators, 4, 0, 7, 14, 5, 30, 19, 124,False
+1993, 11, 5,31, Washington Capitals, 6, 1, 4, 4, 2, 27, 24, 195,26, Vancouver Canucks, 7, 1, 3, 6, 1, 35, 23, 142,True
+1993, 11, 6,7, Boston Bruins, 6, 2, 3, 8, 3, 29, 24, 146,43, Tampa Bay Lightning, 3, 0, 0, 0, 1, 21, 16, 71,False
+1993, 11, 6,25, Los Angeles Kings, 5, 1, 3, 3, 2, 52, 28, 187,22, Pittsburgh Penguins, 7, 1, 8, 9, 2, 28, 16, 130,True
+1993, 11, 6,1, Montreal Canadiens, 8, 1, 1, 2, 0, 37, 8, 108,39, Calgary Flames, 6, 1, 3, 5, 3, 40, 34, 260,False
+1993, 11, 6,29, New York Islanders, 2, 0, 2, 5, 4, 27, 36, 232,38, Hartford Whalers, 1, 2, 3, 6, 2, 8, 42, 258,True
+1993, 11, 6,37, Quebec Nordiques, 5, 1, 1, 2, 4, 36, 38, 208,11, New York Rangers, 6, 1, 6, 9, 3, 36, 20, 142,False
+1993, 11, 6,23, St. Louis Blues, 8, 2, 3, 5, 0, 29, 18, 151,35, Edmonton Oilers, 1, 0, 5, 10, 3, 32, 44, 247,True
+1993, 11, 6,13, Toronto Maple Leafs, 9, 1, 3, 6, 3, 48, 29, 243,21, Philadelphia Flyers, 8, 1, 4, 4, 1, 28, 13, 125,True
+1993, 11, 7,28, Buffalo Sabres, 4, 1, 2, 6, 6, 33, 30, 199,7, Boston Bruins, 6, 1, 4, 2, 1, 28, 22, 145,False
+1993, 11, 7,41, Chicago Blackhawks, 4, 1, 4, 5, 2, 38, 23, 224,35, Edmonton Oilers, 0, 1, 5, 6, 6, 35, 45, 250,True
+1993, 11, 7,44, Dallas Stars, 4, 0, 2, 3, 3, 23, 6, 35,36, Winnipeg Jets, 5, 1, 6, 12, 2, 26, 18, 191,False
+1993, 11, 7,46, Mighty Ducks of Anaheim, 2, 0, 2, 6, 1, 20, 5, 27,22, Pittsburgh Penguins, 6, 0, 3, 7, 1, 14, 19, 99,False
+1993, 11, 7,21, Philadelphia Flyers, 7, 1, 3, 5, 5, 35, 20, 148,26, Vancouver Canucks, 6, 1, 2, 4, 3, 25, 25, 132,False
+1993, 11, 7,37, Quebec Nordiques, 4, 0, 2, 1, 4, 31, 38, 203,45, Florida Panthers, 3, 0, 2, 5, 4, 34, 10, 64,False
+1993, 11, 7,42, San Jose Sharks, 4, 0, 5, 7, 3, 38, 23, 208,40, New Jersey Devils, 7, 2, 6, 11, 3, 30, 24, 141,False
+1993, 11, 8,11, New York Rangers, 6, 1, 4, 6, 2, 21, 16, 120,43, Tampa Bay Lightning, 3, 1, 1, 2, 1, 42, 16, 92,True
+1993, 11, 9,39, Calgary Flames, 6, 1, 4, 7, 6, 53, 34, 255,25, Los Angeles Kings, 6, 1, 7, 13, 3, 38, 31, 199,True
+1993, 11, 9,17, Detroit Red Wings, 5, 2, 2, 4, 3, 24, 37, 210,35, Edmonton Oilers, 0, 0, 0, 0, 7, 30, 42, 250,False
+1993, 11, 9,46, Mighty Ducks of Anaheim, 2, 1, 5, 6, 5, 38, 9, 45,44, Dallas Stars, 3, 0, 1, 2, 1, 20, 4, 32,True
+1993, 11, 9,29, New York Islanders, 3, 1, 5, 4, 2, 28, 35, 230,36, Winnipeg Jets, 5, 1, 1, 1, 1, 39, 17, 204,False
+1993, 11, 9,42, San Jose Sharks, 4, 0, 1, 1, 2, 27, 22, 197,13, Toronto Maple Leafs, 9, 2, 5, 7, 3, 31, 32, 222,False
+1993, 11, 9,23, St. Louis Blues, 8, 1, 6, 8, 5, 35, 24, 164,22, Pittsburgh Penguins, 7, 1, 5, 9, 7, 23, 22, 115,False
+1993, 11, 9,31, Washington Capitals, 7, 1, 3, 4, 2, 27, 24, 193,37, Quebec Nordiques, 4, 1, 1, 3, 2, 24, 37, 185,True
+1993, 11, 10,28, Buffalo Sabres, 4, 0, 3, 3, 4, 33, 32, 180,21, Philadelphia Flyers, 6, 2, 2, 4, 5, 23, 21, 125,False
+1993, 11, 10,38, Hartford Whalers, 0, 2, 3, 6, 6, 27, 44, 284,0, Ottawa Senators, 5, 0, 6, 12, 0, 16, 14, 89,True
+1993, 11, 10,1, Montreal Canadiens, 7, 0, 3, 3, 4, 33, 12, 104,45, Florida Panthers, 3, 0, 3, 4, 1, 27, 7, 57,False
+1993, 11, 10,40, New Jersey Devils, 7, 1, 2, 5, 3, 24, 22, 126,29, New York Islanders, 3, 1, 2, 3, 1, 13, 35, 204,True
+1993, 11, 10,11, New York Rangers, 6, 2, 6, 8, 3, 31, 17, 141,36, Winnipeg Jets, 5, 0, 5, 7, 2, 30, 21, 203,True
+1993, 11, 10,26, Vancouver Canucks, 6, 2, 4, 6, 2, 40, 24, 147,25, Los Angeles Kings, 5, 0, 2, 4, 3, 31, 31, 192,True
+1993, 11, 11,7, Boston Bruins, 6, 1, 4, 8, 3, 27, 24, 146,35, Edmonton Oilers, 1, 1, 4, 7, 2, 48, 38, 258,True
+1993, 11, 11,39, Calgary Flames, 6, 1, 3, 5, 3, 35, 30, 242,46, Mighty Ducks of Anaheim, 2, 0, 4, 8, 2, 27, 6, 34,True
+1993, 11, 11,41, Chicago Blackhawks, 5, 0, 3, 6, 0, 23, 21, 209,22, Pittsburgh Penguins, 7, 2, 3, 4, 3, 32, 15, 117,True
+1993, 11, 11,44, Dallas Stars, 3, 0, 2, 4, 3, 12, 6, 37,42, San Jose Sharks, 4, 1, 2, 1, 2, 20, 22, 200,True
+1993, 11, 11,0, Ottawa Senators, 5, 0, 3, 6, 6, 26, 18, 114,45, Florida Panthers, 4, 1, 3, 4, 6, 30, 7, 68,False
+1993, 11, 11,21, Philadelphia Flyers, 6, 0, 5, 8, 3, 44, 19, 146,40, New Jersey Devils, 7, 2, 5, 9, 1, 15, 21, 128,False
+1993, 11, 11,23, St. Louis Blues, 8, 0, 3, 6, 3, 42, 25, 169,13, Toronto Maple Leafs, 9, 2, 2, 4, 2, 26, 32, 207,True
+1993, 11, 11,43, Tampa Bay Lightning, 2, 1, 3, 6, 6, 38, 21, 88,31, Washington Capitals, 8, 1, 2, 5, 2, 25, 23, 188,False
+1993, 11, 13,39, Calgary Flames, 7, 1, 5, 9, 2, 40, 31, 236,26, Vancouver Canucks, 6, 1, 4, 8, 0, 24, 22, 131,True
+1993, 11, 13,38, Hartford Whalers, 1, 1, 4, 8, 3, 20, 41, 277,35, Edmonton Oilers, 1, 1, 1, 2, 4, 41, 40, 251,False
+1993, 11, 13,25, Los Angeles Kings, 4, 1, 1, 0, 4, 21, 32, 182,23, St. Louis Blues, 8, 1, 3, 6, 1, 47, 24, 168,True
+1993, 11, 13,1, Montreal Canadiens, 7, 2, 1, 2, 3, 20, 11, 91,0, Ottawa Senators, 5, 0, 4, 7, 4, 41, 17, 111,False
+1993, 11, 13,40, New Jersey Devils, 7, 2, 5, 8, 3, 29, 23, 149,42, San Jose Sharks, 4, 0, 0, 0, 2, 30, 24, 204,False
+1993, 11, 13,29, New York Islanders, 3, 0, 3, 5, 4, 14, 37, 243,7, Boston Bruins, 6, 2, 4, 5, 1, 28, 22, 147,False
+1993, 11, 13,21, Philadelphia Flyers, 6, 2, 3, 4, 0, 10, 17, 132,28, Buffalo Sabres, 4, 0, 3, 7, 4, 38, 29, 164,False
+1993, 11, 13,22, Pittsburgh Penguins, 6, 1, 1, 2, 4, 26, 17, 126,17, Detroit Red Wings, 5, 1, 2, 3, 4, 20, 38, 206,False
+1993, 11, 13,43, Tampa Bay Lightning, 2, 0, 1, 2, 3, 22, 18, 72,37, Quebec Nordiques, 3, 2, 1, 2, 1, 3, 34, 187,True
+1993, 11, 13,13, Toronto Maple Leafs, 8, 2, 2, 3, 3, 34, 30, 208,41, Chicago Blackhawks, 6, 0, 4, 4, 1, 24, 23, 232,False
+1993, 11, 13,36, Winnipeg Jets, 5, 2, 1, 1, 2, 42, 23, 203,44, Dallas Stars, 3, 0, 4, 9, 3, 25, 3, 45,False
+1993, 11, 13,31, Washington Capitals, 9, 1, 4, 6, 1, 34, 27, 197,11, New York Rangers, 7, 1, 2, 5, 1, 27, 15, 137,False
+1993, 11, 14,41, Chicago Blackhawks, 7, 1, 3, 5, 2, 30, 24, 238,44, Dallas Stars, 4, 1, 3, 5, 0, 20, 2, 57,True
+1993, 11, 14,45, Florida Panthers, 5, 1, 5, 9, 1, 38, 5, 84,37, Quebec Nordiques, 3, 0, 3, 5, 2, 26, 35, 187,False
+1993, 11, 14,11, New York Rangers, 8, 2, 2, 4, 0, 21, 17, 115,42, San Jose Sharks, 5, 0, 4, 5, 2, 20, 24, 194,False
+1993, 11, 14,26, Vancouver Canucks, 5, 0, 2, 4, 6, 41, 26, 138,46, Mighty Ducks of Anaheim, 2, 0, 4, 7, 0, 0, 9, 32,True
+1993, 11, 15,39, Calgary Flames, 8, 1, 4, 6, 3, 26, 32, 222,36, Winnipeg Jets, 4, 1, 2, 4, 3, 20, 25, 171,True
+1993, 11, 15,0, Ottawa Senators, 6, 1, 4, 5, 5, 23, 15, 101,1, Montreal Canadiens, 7, 1, 2, 4, 3, 24, 11, 95,False
+1993, 11, 15,13, Toronto Maple Leafs, 7, 2, 2, 4, 3, 23, 30, 197,35, Edmonton Oilers, 2, 0, 4, 6, 4, 26, 40, 236,False
+1993, 11, 16,45, Florida Panthers, 5, 0, 1, 2, 4, 22, 8, 68,11, New York Rangers, 8, 0, 3, 6, 4, 24, 20, 115,False
+1993, 11, 16,22, Pittsburgh Penguins, 5, 1, 3, 6, 0, 5, 16, 106,21, Philadelphia Flyers, 5, 1, 2, 3, 4, 21, 11, 69,True
+1993, 11, 16,26, Vancouver Canucks, 5, 1, 4, 4, 4, 31, 22, 121,23, St. Louis Blues, 7, 1, 3, 6, 2, 41, 29, 168,True
+1993, 11, 16,31, Washington Capitals, 8, 2, 0, 0, 2, 24, 28, 187,42, San Jose Sharks, 5, 0, 3, 6, 3, 35, 25, 209,False
+1993, 11, 17,44, Dallas Stars, 3, 0, 1, 2, 2, 37, 6, 69,43, Tampa Bay Lightning, 2, 0, 4, 8, 3, 31, 18, 81,True
+1993, 11, 17,38, Hartford Whalers, 1, 0, 4, 8, 4, 34, 38, 275,7, Boston Bruins, 7, 2, 6, 7, 2, 22, 23, 136,False
+1993, 11, 17,46, Mighty Ducks of Anaheim, 2, 0, 2, 4, 5, 25, 12, 59,13, Toronto Maple Leafs, 6, 0, 5, 9, 3, 26, 33, 206,False
+1993, 11, 17,1, Montreal Canadiens, 7, 2, 4, 5, 2, 26, 10, 97,35, Edmonton Oilers, 3, 0, 5, 7, 5, 44, 41, 254,True
+1993, 11, 17,40, New Jersey Devils, 6, 0, 2, 4, 0, 5, 20, 122,28, Buffalo Sabres, 5, 2, 7, 11, 2, 33, 32, 181,True
+1993, 11, 17,0, Ottawa Senators, 5, 2, 2, 3, 4, 35, 12, 82,29, New York Islanders, 3, 0, 2, 3, 1, 14, 29, 209,False
+1993, 11, 17,36, Winnipeg Jets, 3, 1, 2, 3, 5, 27, 24, 145,17, Detroit Red Wings, 6, 1, 8, 13, 3, 39, 37, 225,True
+1993, 11, 18,7, Boston Bruins, 7, 2, 2, 8, 5, 22, 25, 136,42, San Jose Sharks, 5, 0, 2, 4, 1, 18, 23, 192,True
+1993, 11, 18,45, Florida Panthers, 5, 1, 2, 4, 4, 46, 8, 73,41, Chicago Blackhawks, 7, 0, 4, 8, 1, 34, 25, 247,False
+1993, 11, 18,25, Los Angeles Kings, 4, 1, 6, 11, 3, 37, 31, 176,13, Toronto Maple Leafs, 6, 1, 4, 5, 5, 31, 33, 209,False
+1993, 11, 18,1, Montreal Canadiens, 7, 2, 2, 3, 1, 19, 9, 104,29, New York Islanders, 4, 0, 8, 8, 1, 37, 28, 218,False
+1993, 11, 18,0, Ottawa Senators, 4, 0, 1, 2, 6, 26, 16, 72,40, New Jersey Devils, 6, 2, 4, 6, 4, 21, 22, 138,False
+1993, 11, 18,21, Philadelphia Flyers, 4, 2, 5, 8, 3, 10, 23, 142,38, Hartford Whalers, 1, 0, 2, 3, 2, 13, 33, 232,True
+1993, 11, 18,22, Pittsburgh Penguins, 6, 2, 11, 15, 7, 31, 18, 109,31, Washington Capitals, 7, 0, 1, 2, 2, 21, 28, 184,True
+1993, 11, 18,23, St. Louis Blues, 6, 2, 0, 0, 3, 34, 26, 153,39, Calgary Flames, 8, 0, 7, 10, 2, 22, 31, 218,False
+1993, 11, 19,28, Buffalo Sabres, 5, 2, 0, 0, 5, 23, 34, 178,36, Winnipeg Jets, 3, 0, 2, 1, 1, 32, 21, 160,True
+1993, 11, 19,43, Tampa Bay Lightning, 2, 1, 3, 4, 4, 32, 19, 82,11, New York Rangers, 8, 1, 4, 7, 1, 19, 15, 105,False
+1993, 11, 19,26, Vancouver Canucks, 5, 1, 4, 5, 2, 24, 18, 116,46, Mighty Ducks of Anaheim, 2, 0, 3, 6, 4, 7, 8, 29,False
+1993, 11, 20,7, Boston Bruins, 7, 1, 5, 6, 2, 23, 21, 142,21, Philadelphia Flyers, 5, 1, 5, 13, 11, 48, 22, 165,False
+1993, 11, 20,44, Dallas Stars, 3, 0, 4, 4, 4, 32, 7, 52,39, Calgary Flames, 9, 0, 3, 6, 4, 29, 32, 225,True
+1993, 11, 20,35, Edmonton Oilers, 3, 1, 1, 2, 2, 25, 32, 274,13, Toronto Maple Leafs, 7, 1, 3, 5, 3, 29, 26, 204,False
+1993, 11, 20,45, Florida Panthers, 5, 0, 1, 4, 4, 27, 7, 59,31, Washington Capitals, 6, 0, 2, 4, 1, 22, 29, 194,True
+1993, 11, 20,38, Hartford Whalers, 1, 2, 3, 5, 1, 13, 36, 207,42, San Jose Sharks, 5, 0, 1, 2, 3, 33, 25, 207,False
+1993, 11, 20,1, Montreal Canadiens, 6, 0, 1, 2, 1, 33, 13, 109,22, Pittsburgh Penguins, 7, 2, 3, 6, 5, 30, 15, 112,False
+1993, 11, 20,40, New Jersey Devils, 7, 1, 5, 9, 0, 30, 19, 150,17, Detroit Red Wings, 5, 1, 1, 2, 2, 13, 36, 213,False
+1993, 11, 20,37, Quebec Nordiques, 3, 2, 5, 6, 2, 34, 34, 256,36, Winnipeg Jets, 3, 0, 0, 0, 1, 11, 24, 155,False
+1993, 11, 20,23, St. Louis Blues, 6, 0, 2, 6, 3, 29, 26, 148,25, Los Angeles Kings, 4, 2, 2, 4, 3, 47, 34, 187,True
+1993, 11, 20,43, Tampa Bay Lightning, 2, 1, 3, 3, 8, 21, 20, 88,41, Chicago Blackhawks, 7, 1, 3, 4, 2, 31, 29, 240,True
+1993, 11, 21,28, Buffalo Sabres, 6, 1, 6, 10, 0, 22, 26, 165,42, San Jose Sharks, 5, 1, 3, 6, 2, 20, 24, 194,True
+1993, 11, 21,44, Dallas Stars, 4, 0, 4, 8, 0, 14, 3, 24,25, Los Angeles Kings, 4, 0, 1, 2, 8, 28, 35, 176,True
+1993, 11, 21,35, Edmonton Oilers, 3, 0, 2, 5, 3, 35, 38, 275,46, Mighty Ducks of Anaheim, 3, 1, 6, 9, 3, 47, 7, 69,False
+1993, 11, 21,21, Philadelphia Flyers, 5, 1, 6, 7, 3, 29, 17, 179,29, New York Islanders, 4, 1, 5, 8, 1, 35, 28, 216,False
+1993, 11, 21,23, St. Louis Blues, 6, 2, 4, 8, 1, 35, 19, 157,17, Detroit Red Wings, 5, 0, 4, 8, 2, 27, 37, 225,False
+1993, 11, 22,39, Calgary Flames, 8, 2, 3, 5, 4, 35, 32, 231,46, Mighty Ducks of Anaheim, 4, 0, 4, 7, 1, 17, 6, 70,False
+1993, 11, 22,0, Ottawa Senators, 4, 1, 2, 4, 0, 0, 15, 80,28, Buffalo Sabres, 6, 1, 6, 9, 4, 30, 35, 188,False
+1993, 11, 22,26, Vancouver Canucks, 5, 0, 3, 5, 0, 26, 22, 116,13, Toronto Maple Leafs, 7, 2, 3, 6, 2, 21, 30, 208,False
+1993, 11, 23,45, Florida Panthers, 5, 0, 2, 7, 3, 29, 6, 61,38, Hartford Whalers, 1, 0, 2, 3, 1, 5, 39, 212,False
+1993, 11, 23,11, New York Rangers, 9, 0, 5, 6, 3, 31, 15, 118,1, Montreal Canadiens, 5, 2, 2, 3, 2, 26, 14, 102,True
+1993, 11, 23,37, Quebec Nordiques, 3, 2, 6, 4, 2, 3, 39, 243,40, New Jersey Devils, 6, 0, 3, 5, 2, 25, 18, 116,False
+1993, 11, 23,42, San Jose Sharks, 5, 0, 5, 6, 2, 21, 24, 177,17, Detroit Red Wings, 6, 2, 2, 3, 3, 25, 37, 224,True
+1993, 11, 24,28, Buffalo Sabres, 6, 1, 5, 6, 5, 25, 33, 193,40, New Jersey Devils, 7, 1, 1, 1, 4, 30, 17, 117,False
+1993, 11, 24,39, Calgary Flames, 7, 0, 1, 1, 2, 25, 30, 238,13, Toronto Maple Leafs, 7, 2, 5, 8, 2, 39, 30, 244,True
+1993, 11, 24,44, Dallas Stars, 5, 0, 7, 10, 4, 34, 7, 44,29, New York Islanders, 5, 0, 5, 7, 4, 25, 31, 206,False
+1993, 11, 24,35, Edmonton Oilers, 3, 0, 2, 2, 3, 23, 38, 279,41, Chicago Blackhawks, 6, 2, 3, 6, 4, 37, 29, 233,False
+1993, 11, 24,0, Ottawa Senators, 4, 0, 2, 3, 0, 0, 15, 71,11, New York Rangers, 9, 2, 5, 9, 1, 11, 16, 118,False
+1993, 11, 24,21, Philadelphia Flyers, 4, 0, 4, 7, 5, 43, 20, 185,1, Montreal Canadiens, 4, 2, 4, 7, 1, 18, 17, 117,True
+1993, 11, 24,22, Pittsburgh Penguins, 7, 2, 2, 4, 2, 31, 12, 113,7, Boston Bruins, 6, 0, 4, 8, 5, 23, 24, 132,True
+1993, 11, 24,43, Tampa Bay Lightning, 3, 0, 4, 7, 5, 38, 15, 91,38, Hartford Whalers, 2, 2, 2, 3, 3, 13, 39, 229,True
+1993, 11, 24,26, Vancouver Canucks, 5, 0, 2, 2, 4, 22, 26, 112,17, Detroit Red Wings, 6, 2, 4, 7, 2, 26, 39, 219,False
+1993, 11, 24,36, Winnipeg Jets, 4, 0, 5, 10, 5, 23, 28, 173,46, Mighty Ducks of Anaheim, 5, 0, 2, 3, 2, 48, 6, 87,False
+1993, 11, 24,31, Washington Capitals, 6, 2, 3, 6, 3, 31, 32, 189,23, St. Louis Blues, 5, 0, 2, 4, 6, 47, 20, 185,True
+1993, 11, 25,37, Quebec Nordiques, 2, 2, 1, 1, 1, 34, 35, 270,25, Los Angeles Kings, 4, 0, 4, 6, 3, 24, 34, 185,True
+1993, 11, 26,7, Boston Bruins, 6, 0, 3, 6, 1, 28, 26, 139,45, Florida Panthers, 4, 0, 4, 1, 3, 32, 5, 60,True
+1993, 11, 26,28, Buffalo Sabres, 5, 2, 3, 6, 2, 35, 27, 200,0, Ottawa Senators, 3, 0, 1, 2, 5, 25, 22, 108,True
+1993, 11, 26,39, Calgary Flames, 7, 0, 5, 9, 0, 8, 28, 196,41, Chicago Blackhawks, 7, 2, 3, 6, 4, 46, 26, 212,False
+1993, 11, 26,46, Mighty Ducks of Anaheim, 5, 0, 2, 1, 1, 30, 5, 69,42, San Jose Sharks, 5, 2, 6, 9, 4, 31, 25, 184,False
+1993, 11, 26,21, Philadelphia Flyers, 4, 1, 9, 17, 2, 35, 18, 184,43, Tampa Bay Lightning, 4, 1, 4, 6, 1, 29, 11, 82,True
+1993, 11, 26,23, St. Louis Blues, 4, 0, 2, 4, 2, 46, 18, 180,40, New Jersey Devils, 8, 2, 5, 9, 1, 26, 23, 155,False
+1993, 11, 26,36, Winnipeg Jets, 4, 1, 0, 2, 2, 25, 22, 165,26, Vancouver Canucks, 4, 1, 4, 5, 5, 33, 27, 123,False
+1993, 11, 26,31, Washington Capitals, 6, 0, 4, 10, 4, 17, 29, 179,22, Pittsburgh Penguins, 7, 2, 7, 13, 3, 38, 14, 137,False
+1993, 11, 27,17, Detroit Red Wings, 6, 0, 5, 10, 4, 36, 41, 229,44, Dallas Stars, 5, 2, 2, 4, 3, 10, 5, 59,True
+1993, 11, 27,35, Edmonton Oilers, 3, 0, 1, 1, 3, 31, 40, 266,26, Vancouver Canucks, 5, 2, 5, 8, 3, 25, 25, 115,True
+1993, 11, 27,38, Hartford Whalers, 2, 1, 1, 2, 1, 22, 40, 246,45, Florida Panthers, 4, 0, 2, 4, 2, 28, 5, 63,True
+1993, 11, 27,1, Montreal Canadiens, 3, 2, 2, 4, 1, 8, 20, 84,25, Los Angeles Kings, 4, 0, 6, 11, 5, 18, 34, 159,True
+1993, 11, 27,29, New York Islanders, 5, 2, 2, 2, 2, 39, 28, 224,11, New York Rangers, 9, 0, 7, 11, 1, 15, 17, 133,True
+1993, 11, 27,22, Pittsburgh Penguins, 7, 1, 4, 6, 4, 36, 15, 135,0, Ottawa Senators, 2, 1, 2, 3, 4, 38, 21, 121,False
+1993, 11, 27,37, Quebec Nordiques, 3, 1, 8, 12, 6, 43, 45, 278,28, Buffalo Sabres, 5, 1, 4, 7, 2, 22, 28, 179,False
+1993, 11, 27,42, San Jose Sharks, 6, 2, 4, 4, 3, 27, 24, 180,46, Mighty Ducks of Anaheim, 5, 0, 3, 5, 1, 34, 8, 66,True
+1993, 11, 27,43, Tampa Bay Lightning, 4, 0, 0, 0, 2, 21, 12, 74,21, Philadelphia Flyers, 5, 2, 3, 4, 5, 31, 17, 163,False
+1993, 11, 27,13, Toronto Maple Leafs, 6, 1, 3, 3, 4, 31, 30, 243,7, Boston Bruins, 7, 1, 3, 5, 2, 42, 34, 181,True
+1993, 11, 28,29, New York Islanders, 6, 1, 6, 8, 4, 41, 31, 229,17, Detroit Red Wings, 6, 1, 10, 17, 5, 20, 41, 220,False
+1993, 11, 28,11, New York Rangers, 8, 2, 4, 8, 4, 13, 18, 118,31, Washington Capitals, 5, 0, 4, 8, 1, 18, 27, 162,True
+1993, 11, 28,23, St. Louis Blues, 3, 1, 6, 7, 6, 38, 22, 152,36, Winnipeg Jets, 4, 1, 3, 6, 4, 40, 25, 162,False
+1993, 11, 29,35, Edmonton Oilers, 4, 0, 2, 4, 1, 33, 38, 268,44, Dallas Stars, 5, 0, 4, 7, 10, 38, 12, 87,False
+1993, 11, 29,0, Ottawa Senators, 2, 0, 2, 4, 2, 49, 19, 132,38, Hartford Whalers, 3, 2, 4, 7, 0, 31, 39, 255,False
+1993, 11, 29,13, Toronto Maple Leafs, 6, 0, 4, 6, 2, 32, 30, 234,28, Buffalo Sabres, 6, 2, 2, 4, 2, 25, 30, 197,False
+1993, 11, 29,26, Vancouver Canucks, 5, 0, 1, 2, 2, 31, 24, 121,41, Chicago Blackhawks, 8, 2, 6, 9, 1, 29, 23, 211,True
+1993, 11, 30,39, Calgary Flames, 7, 0, 4, 6, 5, 20, 34, 207,44, Dallas Stars, 6, 1, 6, 10, 2, 49, 7, 89,False
+1993, 11, 30,25, Los Angeles Kings, 3, 2, 0, 0, 4, 49, 33, 190,36, Winnipeg Jets, 4, 0, 4, 8, 3, 39, 24, 161,False
+1993, 11, 30,40, New Jersey Devils, 8, 1, 6, 11, 3, 31, 28, 160,11, New York Rangers, 8, 1, 3, 6, 1, 34, 15, 139,False
+1993, 11, 30,29, New York Islanders, 6, 1, 1, 3, 3, 39, 30, 227,31, Washington Capitals, 4, 1, 1, 2, 3, 8, 29, 183,True
+1993, 11, 30,37, Quebec Nordiques, 2, 0, 2, 4, 2, 26, 41, 258,7, Boston Bruins, 6, 2, 3, 6, 7, 30, 31, 164,False
+1993, 12, 1,35, Edmonton Oilers, 4, 0, 5, 9, 6, 33, 43, 268,21, Philadelphia Flyers, 6, 2, 4, 7, 0, 27, 10, 136,True
+1993, 12, 1,38, Hartford Whalers, 4, 0, 4, 7, 2, 21, 41, 245,17, Detroit Red Wings, 6, 2, 4, 6, 1, 27, 37, 227,True
+1993, 12, 1,46, Mighty Ducks of Anaheim, 5, 1, 0, 0, 4, 27, 8, 46,36, Winnipeg Jets, 4, 0, 8, 13, 0, 3, 25, 151,True
+1993, 12, 1,1, Montreal Canadiens, 3, 1, 5, 7, 0, 30, 19, 106,0, Ottawa Senators, 2, 1, 2, 4, 7, 37, 21, 106,False
+1993, 12, 1,43, Tampa Bay Lightning, 4, 0, 3, 4, 4, 36, 14, 89,28, Buffalo Sabres, 7, 2, 3, 6, 0, 24, 28, 180,False
+1993, 12, 1,13, Toronto Maple Leafs, 5, 1, 0, 0, 3, 29, 31, 224,23, St. Louis Blues, 2, 1, 3, 9, 4, 24, 20, 138,True
+1993, 12, 2,7, Boston Bruins, 7, 2, 4, 10, 2, 19, 26, 153,29, New York Islanders, 6, 0, 6, 12, 4, 38, 31, 226,True
+1993, 12, 2,45, Florida Panthers, 4, 0, 0, 0, 3, 39, 6, 74,28, Buffalo Sabres, 8, 0, 3, 5, 0, 33, 26, 175,True
+1993, 12, 2,25, Los Angeles Kings, 2, 0, 6, 9, 0, 8, 34, 158,46, Mighty Ducks of Anaheim, 5, 0, 5, 10, 1, 14, 6, 55,True
+1993, 12, 2,22, Pittsburgh Penguins, 7, 2, 2, 3, 2, 23, 13, 122,40, New Jersey Devils, 7, 0, 1, 4, 3, 26, 24, 155,False
+1993, 12, 2,23, St. Louis Blues, 2, 1, 2, 4, 4, 45, 18, 149,13, Toronto Maple Leafs, 6, 1, 4, 7, 2, 30, 30, 224,False
+1993, 12, 2,26, Vancouver Canucks, 5, 1, 2, 4, 6, 24, 23, 111,21, Philadelphia Flyers, 5, 1, 1, 2, 3, 33, 18, 166,False
+1993, 12, 3,17, Detroit Red Wings, 6, 2, 3, 6, 4, 27, 41, 230,0, Ottawa Senators, 3, 0, 6, 11, 4, 23, 17, 106,True
+1993, 12, 3,29, New York Islanders, 6, 0, 3, 6, 5, 30, 31, 214,37, Quebec Nordiques, 2, 2, 2, 4, 0, 0, 38, 239,False
+1993, 12, 3,42, San Jose Sharks, 7, 1, 1, 2, 0, 15, 21, 168,36, Winnipeg Jets, 4, 1, 3, 4, 6, 39, 25, 139,False
+1993, 12, 3,31, Washington Capitals, 3, 2, 4, 8, 6, 24, 28, 165,1, Montreal Canadiens, 3, 0, 3, 5, 6, 22, 25, 98,False
+1993, 12, 4,7, Boston Bruins, 7, 1, 8, 12, 4, 23, 27, 162,1, Montreal Canadiens, 4, 1, 2, 3, 2, 26, 21, 102,False
+1993, 12, 4,39, Calgary Flames, 6, 1, 2, 3, 2, 28, 32, 218,21, Philadelphia Flyers, 6, 1, 6, 8, 3, 37, 16, 160,True
+1993, 12, 4,38, Hartford Whalers, 5, 0, 5, 9, 3, 24, 42, 251,22, Pittsburgh Penguins, 6, 2, 2, 3, 2, 32, 13, 131,False
+1993, 12, 4,25, Los Angeles Kings, 2, 2, 3, 6, 2, 24, 36, 174,43, Tampa Bay Lightning, 3, 0, 0, 1, 3, 24, 13, 79,False
+1993, 12, 4,40, New Jersey Devils, 7, 1, 2, 4, 6, 31, 20, 123,41, Chicago Blackhawks, 8, 1, 1, 2, 2, 32, 22, 194,False
+1993, 12, 4,0, Ottawa Senators, 2, 0, 1, 1, 0, 1, 18, 83,31, Washington Capitals, 2, 2, 2, 4, 2, 26, 24, 167,False
+1993, 12, 4,37, Quebec Nordiques, 3, 1, 3, 4, 4, 30, 38, 255,26, Vancouver Canucks, 4, 1, 3, 7, 1, 21, 23, 114,True
+1993, 12, 4,23, St. Louis Blues, 1, 0, 4, 8, 0, 8, 20, 154,44, Dallas Stars, 7, 1, 2, 4, 2, 33, 7, 73,True
+1993, 12, 4,13, Toronto Maple Leafs, 7, 1, 5, 10, 2, 29, 36, 223,11, New York Rangers, 8, 1, 3, 6, 1, 27, 13, 127,False
+1993, 12, 5,28, Buffalo Sabres, 7, 1, 2, 3, 2, 28, 30, 161,7, Boston Bruins, 6, 1, 1, 2, 3, 13, 28, 140,True
+1993, 12, 5,44, Dallas Stars, 6, 1, 3, 6, 4, 24, 9, 64,35, Edmonton Oilers, 4, 0, 3, 5, 1, 25, 36, 269,True
+1993, 12, 5,46, Mighty Ducks of Anaheim, 5, 0, 2, 4, 2, 36, 8, 79,43, Tampa Bay Lightning, 4, 0, 4, 9, 3, 26, 14, 89,False
+1993, 12, 5,11, New York Rangers, 8, 2, 4, 4, 3, 17, 15, 117,40, New Jersey Devils, 6, 0, 2, 3, 2, 30, 22, 160,True
+1993, 12, 5,42, San Jose Sharks, 7, 0, 3, 4, 3, 27, 24, 180,45, Florida Panthers, 4, 0, 2, 5, 1, 34, 4, 69,True
+1993, 12, 5,36, Winnipeg Jets, 5, 1, 3, 5, 3, 27, 20, 162,17, Detroit Red Wings, 7, 1, 7, 15, 1, 21, 38, 224,True
+1993, 12, 6,17, Detroit Red Wings, 6, 0, 4, 8, 1, 15, 37, 199,36, Winnipeg Jets, 6, 2, 6, 12, 4, 39, 16, 147,True
+1993, 12, 6,1, Montreal Canadiens, 5, 0, 7, 13, 1, 26, 20, 102,26, Vancouver Canucks, 4, 2, 1, 2, 3, 23, 25, 116,True
+1993, 12, 6,0, Ottawa Senators, 2, 0, 1, 3, 6, 35, 24, 117,39, Calgary Flames, 6, 2, 6, 10, 0, 23, 34, 222,False
+1993, 12, 7,46, Mighty Ducks of Anaheim, 5, 0, 2, 3, 3, 38, 9, 65,45, Florida Panthers, 3, 0, 1, 2, 2, 31, 5, 66,False
+1993, 12, 7,29, New York Islanders, 6, 1, 3, 2, 3, 20, 29, 204,35, Edmonton Oilers, 4, 1, 3, 2, 4, 36, 40, 266,False
+1993, 12, 7,37, Quebec Nordiques, 4, 1, 3, 5, 1, 24, 37, 254,39, Calgary Flames, 6, 1, 6, 10, 3, 4, 35, 216,False
+1993, 12, 7,42, San Jose Sharks, 7, 0, 2, 2, 1, 18, 22, 171,43, Tampa Bay Lightning, 5, 2, 5, 5, 2, 41, 13, 104,False
+1993, 12, 7,23, St. Louis Blues, 2, 0, 4, 5, 5, 40, 23, 170,41, Chicago Blackhawks, 8, 2, 2, 2, 2, 41, 21, 199,True
+1993, 12, 7,31, Washington Capitals, 2, 2, 6, 9, 3, 39, 26, 200,38, Hartford Whalers, 4, 0, 6, 10, 5, 31, 46, 260,False
+1993, 12, 8,44, Dallas Stars, 6, 0, 4, 8, 3, 32, 8, 72,22, Pittsburgh Penguins, 6, 0, 5, 12, 6, 31, 17, 130,True
+1993, 12, 8,38, Hartford Whalers, 5, 1, 6, 4, 7, 33, 42, 260,26, Vancouver Canucks, 3, 1, 3, 5, 6, 27, 26, 128,False
+1993, 12, 8,25, Los Angeles Kings, 2, 1, 4, 6, 7, 25, 39, 173,45, Florida Panthers, 3, 0, 3, 6, 3, 35, 5, 63,False
+1993, 12, 8,1, Montreal Canadiens, 5, 1, 5, 8, 3, 30, 22, 106,40, New Jersey Devils, 6, 1, 1, 2, 2, 34, 18, 166,False
+1993, 12, 8,11, New York Rangers, 8, 1, 2, 3, 1, 27, 14, 121,35, Edmonton Oilers, 4, 1, 4, 7, 4, 39, 40, 269,False
+1993, 12, 8,0, Ottawa Senators, 2, 0, 1, 2, 6, 36, 24, 118,28, Buffalo Sabres, 8, 2, 3, 3, 1, 24, 25, 157,False
+1993, 12, 8,13, Toronto Maple Leafs, 7, 1, 3, 6, 4, 43, 33, 229,36, Winnipeg Jets, 5, 1, 2, 3, 6, 41, 22, 138,False
+1993, 12, 9,7, Boston Bruins, 5, 1, 1, 2, 3, 25, 28, 152,26, Vancouver Canucks, 3, 1, 4, 6, 4, 35, 21, 123,False
+1993, 12, 9,44, Dallas Stars, 7, 1, 3, 6, 2, 30, 7, 70,0, Ottawa Senators, 2, 1, 1, 2, 8, 36, 21, 110,True
+1993, 12, 9,17, Detroit Red Wings, 7, 1, 6, 8, 2, 22, 38, 206,23, St. Louis Blues, 3, 1, 3, 5, 2, 39, 20, 169,True
+1993, 12, 9,40, New Jersey Devils, 6, 1, 3, 5, 2, 35, 15, 157,37, Quebec Nordiques, 4, 1, 4, 7, 2, 26, 40, 267,False
+1993, 12, 9,21, Philadelphia Flyers, 6, 2, 0, 0, 2, 22, 14, 123,31, Washington Capitals, 2, 0, 1, 1, 1, 9, 28, 159,False
+1993, 12, 10,28, Buffalo Sabres, 8, 2, 3, 4, 1, 21, 24, 150,39, Calgary Flames, 6, 0, 4, 7, 1, 17, 33, 241,True
+1993, 12, 10,36, Winnipeg Jets, 6, 1, 5, 10, 4, 43, 20, 140,45, Florida Panthers, 4, 0, 6, 8, 2, 28, 7, 58,False
+1993, 12, 11,7, Boston Bruins, 4, 0, 2, 3, 3, 26, 28, 153,41, Chicago Blackhawks, 7, 2, 2, 4, 2, 14, 20, 136,False
+1993, 12, 11,17, Detroit Red Wings, 7, 1, 3, 6, 2, 18, 38, 202,42, San Jose Sharks, 6, 1, 1, 1, 3, 24, 22, 138,True
+1993, 12, 11,38, Hartford Whalers, 5, 1, 1, 1, 1, 31, 34, 253,28, Buffalo Sabres, 8, 1, 6, 8, 2, 27, 25, 156,False
+1993, 12, 11,25, Los Angeles Kings, 2, 1, 4, 9, 5, 22, 33, 157,23, St. Louis Blues, 3, 1, 2, 1, 3, 45, 21, 175,True
+1993, 12, 11,1, Montreal Canadiens, 4, 1, 2, 2, 3, 22, 22, 98,31, Washington Capitals, 3, 1, 4, 7, 2, 20, 30, 149,False
+1993, 12, 11,40, New Jersey Devils, 5, 1, 2, 4, 2, 33, 18, 140,35, Edmonton Oilers, 4, 1, 1, 1, 0, 0, 37, 276,True
+1993, 12, 11,29, New York Islanders, 6, 1, 4, 6, 4, 39, 30, 179,21, Philadelphia Flyers, 6, 1, 2, 3, 4, 22, 16, 134,True
+1993, 12, 11,37, Quebec Nordiques, 5, 2, 3, 5, 4, 37, 38, 251,0, Ottawa Senators, 2, 0, 1, 1, 3, 28, 19, 109,True
+1993, 12, 11,43, Tampa Bay Lightning, 5, 2, 3, 4, 1, 20, 12, 83,22, Pittsburgh Penguins, 6, 0, 4, 5, 3, 26, 14, 125,False
+1993, 12, 11,13, Toronto Maple Leafs, 6, 1, 4, 8, 5, 37, 39, 232,39, Calgary Flames, 5, 1, 2, 0, 6, 24, 38, 248,True
+1993, 12, 12,7, Boston Bruins, 3, 2, 3, 6, 1, 5, 25, 140,38, Hartford Whalers, 5, 0, 0, 0, 3, 21, 36, 243,False
+1993, 12, 12,41, Chicago Blackhawks, 7, 2, 5, 9, 4, 39, 20, 159,42, San Jose Sharks, 5, 0, 3, 5, 4, 6, 24, 135,True
+1993, 12, 12,44, Dallas Stars, 7, 0, 6, 11, 1, 26, 6, 66,45, Florida Panthers, 5, 0, 5, 7, 2, 39, 7, 69,False
+1993, 12, 12,46, Mighty Ducks of Anaheim, 5, 0, 2, 4, 3, 22, 9, 49,23, St. Louis Blues, 2, 0, 1, 2, 5, 26, 24, 135,True
+1993, 12, 12,21, Philadelphia Flyers, 5, 1, 2, 4, 4, 33, 14, 140,35, Edmonton Oilers, 4, 1, 2, 5, 2, 3, 41, 268,False
+1993, 12, 12,36, Winnipeg Jets, 5, 2, 2, 3, 4, 25, 21, 101,13, Toronto Maple Leafs, 6, 0, 3, 6, 4, 20, 35, 233,False
+1993, 12, 13,11, New York Rangers, 8, 1, 1, 1, 1, 38, 16, 140,28, Buffalo Sabres, 8, 1, 3, 6, 0, 25, 31, 175,True
+1993, 12, 13,0, Ottawa Senators, 2, 0, 2, 3, 4, 36, 20, 117,25, Los Angeles Kings, 2, 2, 10, 13, 1, 45, 29, 180,True
+1993, 12, 13,37, Quebec Nordiques, 5, 0, 5, 10, 1, 6, 36, 242,31, Washington Capitals, 4, 2, 5, 7, 5, 16, 31, 153,True
+1993, 12, 14,39, Calgary Flames, 4, 1, 1, 1, 4, 31, 34, 246,26, Vancouver Canucks, 4, 1, 2, 4, 2, 34, 19, 122,True
+1993, 12, 14,17, Detroit Red Wings, 7, 1, 5, 8, 4, 11, 39, 202,46, Mighty Ducks of Anaheim, 5, 0, 2, 2, 3, 22, 7, 59,True
+1993, 12, 14,29, New York Islanders, 6, 0, 5, 9, 2, 28, 28, 168,40, New Jersey Devils, 6, 2, 4, 8, 3, 28, 16, 163,True
+1993, 12, 14,22, Pittsburgh Penguins, 7, 1, 6, 8, 3, 34, 14, 133,25, Los Angeles Kings, 2, 1, 2, 4, 1, 12, 33, 172,True
+1993, 12, 14,43, Tampa Bay Lightning, 5, 1, 3, 6, 4, 34, 17, 92,1, Montreal Canadiens, 4, 1, 3, 5, 8, 18, 23, 101,False
+1993, 12, 15,44, Dallas Stars, 6, 1, 4, 8, 4, 38, 9, 78,41, Chicago Blackhawks, 7, 1, 2, 4, 1, 4, 15, 172,False
+1993, 12, 15,35, Edmonton Oilers, 5, 1, 2, 5, 1, 34, 42, 314,26, Vancouver Canucks, 4, 1, 4, 5, 1, 22, 25, 119,True
+1993, 12, 15,45, Florida Panthers, 6, 1, 4, 6, 4, 36, 9, 66,1, Montreal Canadiens, 5, 0, 1, 1, 1, 34, 16, 117,False
+1993, 12, 15,40, New Jersey Devils, 5, 0, 1, 2, 4, 31, 20, 186,7, Boston Bruins, 3, 2, 3, 4, 4, 24, 26, 162,False
+1993, 12, 15,11, New York Rangers, 8, 1, 2, 3, 0, 28, 14, 130,38, Hartford Whalers, 6, 1, 2, 4, 2, 33, 39, 254,True
+1993, 12, 15,42, San Jose Sharks, 5, 0, 1, 2, 5, 21, 23, 168,23, St. Louis Blues, 2, 2, 1, 3, 2, 45, 16, 150,False
+1993, 12, 15,43, Tampa Bay Lightning, 5, 2, 1, 1, 1, 20, 14, 78,0, Ottawa Senators, 3, 0, 5, 8, 2, 41, 16, 110,True
+1993, 12, 15,13, Toronto Maple Leafs, 6, 1, 3, 5, 3, 26, 34, 239,46, Mighty Ducks of Anaheim, 4, 0, 2, 4, 1, 32, 9, 74,False
+1993, 12, 16,21, Philadelphia Flyers, 4, 2, 1, 2, 2, 33, 10, 139,37, Quebec Nordiques, 6, 0, 5, 8, 2, 21, 37, 252,True
+1993, 12, 16,22, Pittsburgh Penguins, 7, 2, 4, 6, 2, 35, 13, 134,28, Buffalo Sabres, 8, 0, 0, 0, 1, 34, 31, 178,True
+1993, 12, 17,28, Buffalo Sabres, 7, 0, 1, 2, 2, 28, 32, 172,25, Los Angeles Kings, 2, 2, 2, 2, 3, 48, 35, 208,True
+1993, 12, 17,39, Calgary Flames, 5, 1, 8, 13, 2, 22, 34, 247,23, St. Louis Blues, 3, 1, 3, 4, 1, 38, 16, 146,False
+1993, 12, 17,44, Dallas Stars, 5, 0, 2, 4, 3, 32, 8, 72,46, Mighty Ducks of Anaheim, 4, 2, 1, 1, 0, 38, 8, 80,False
+1993, 12, 17,17, Detroit Red Wings, 8, 0, 5, 9, 3, 18, 37, 222,11, New York Rangers, 8, 2, 5, 7, 2, 18, 16, 126,True
+1993, 12, 17,35, Edmonton Oilers, 6, 1, 7, 14, 2, 41, 43, 321,42, San Jose Sharks, 4, 1, 1, 2, 3, 18, 21, 165,True
+1993, 12, 17,29, New York Islanders, 6, 1, 4, 5, 1, 26, 29, 196,13, Toronto Maple Leafs, 5, 1, 0, 1, 1, 38, 32, 239,True
+1993, 12, 17,26, Vancouver Canucks, 4, 1, 3, 3, 8, 31, 31, 130,36, Winnipeg Jets, 5, 1, 3, 6, 3, 28, 20, 104,True
+1993, 12, 17,31, Washington Capitals, 4, 2, 3, 5, 0, 19, 28, 148,0, Ottawa Senators, 2, 0, 3, 6, 0, 4, 12, 58,True
+1993, 12, 18,39, Calgary Flames, 5, 2, 3, 4, 4, 32, 36, 245,36, Winnipeg Jets, 5, 0, 1, 2, 5, 32, 23, 111,True
+1993, 12, 18,38, Hartford Whalers, 5, 1, 2, 2, 3, 39, 40, 260,31, Washington Capitals, 4, 1, 11, 18, 2, 28, 30, 157,True
+1993, 12, 18,1, Montreal Canadiens, 6, 2, 3, 7, 4, 25, 18, 116,17, Detroit Red Wings, 8, 0, 6, 12, 4, 27, 36, 214,True
+1993, 12, 18,21, Philadelphia Flyers, 5, 2, 3, 6, 4, 31, 11, 119,41, Chicago Blackhawks, 7, 0, 3, 3, 2, 27, 15, 188,False
+1993, 12, 18,37, Quebec Nordiques, 6, 1, 2, 3, 3, 14, 39, 262,40, New Jersey Devils, 4, 1, 4, 7, 3, 16, 22, 127,False
+1993, 12, 18,43, Tampa Bay Lightning, 5, 1, 4, 8, 6, 29, 16, 75,7, Boston Bruins, 4, 1, 5, 9, 4, 23, 26, 161,False
+1993, 12, 18,13, Toronto Maple Leafs, 5, 1, 2, 4, 5, 31, 35, 223,25, Los Angeles Kings, 2, 1, 0, 0, 5, 37, 34, 195,True
+1993, 12, 19,28, Buffalo Sabres, 7, 2, 2, 3, 0, 27, 29, 163,43, Tampa Bay Lightning, 4, 0, 3, 4, 5, 36, 15, 82,False
+1993, 12, 19,41, Chicago Blackhawks, 7, 0, 2, 1, 1, 22, 18, 199,46, Mighty Ducks of Anaheim, 4, 0, 3, 6, 5, 37, 10, 70,True
+1993, 12, 19,35, Edmonton Oilers, 7, 0, 4, 6, 2, 34, 39, 309,23, St. Louis Blues, 4, 2, 4, 5, 3, 29, 20, 127,False
+1993, 12, 19,45, Florida Panthers, 5, 0, 3, 4, 3, 36, 8, 66,7, Boston Bruins, 4, 1, 4, 5, 2, 27, 25, 149,False
+1993, 12, 19,40, New Jersey Devils, 4, 2, 6, 7, 3, 20, 21, 132,21, Philadelphia Flyers, 4, 0, 2, 4, 2, 18, 9, 113,True
+1993, 12, 19,11, New York Rangers, 7, 2, 4, 6, 2, 6, 16, 116,0, Ottawa Senators, 2, 0, 2, 4, 6, 12, 19, 63,True
+1993, 12, 19,22, Pittsburgh Penguins, 7, 2, 2, 4, 1, 31, 12, 130,29, New York Islanders, 6, 0, 6, 8, 2, 22, 30, 201,False
+1993, 12, 19,37, Quebec Nordiques, 5, 2, 2, 3, 3, 35, 39, 293,42, San Jose Sharks, 4, 0, 2, 3, 2, 16, 22, 180,True
+1993, 12, 19,26, Vancouver Canucks, 4, 0, 6, 11, 1, 26, 24, 125,44, Dallas Stars, 5, 0, 2, 4, 5, 40, 8, 57,False
+1993, 12, 20,39, Calgary Flames, 5, 1, 5, 10, 4, 20, 36, 239,25, Los Angeles Kings, 2, 1, 1, 2, 4, 37, 33, 195,False
+1993, 12, 20,36, Winnipeg Jets, 4, 0, 4, 7, 5, 37, 23, 116,46, Mighty Ducks of Anaheim, 4, 2, 0, 0, 2, 28, 6, 65,False
+1993, 12, 21,17, Detroit Red Wings, 7, 1, 0, 2, 4, 13, 40, 211,41, Chicago Blackhawks, 8, 1, 2, 2, 0, 22, 21, 212,True
+1993, 12, 21,0, Ottawa Senators, 1, 0, 3, 7, 6, 37, 19, 88,37, Quebec Nordiques, 6, 2, 6, 12, 3, 20, 41, 288,True
+1993, 12, 21,21, Philadelphia Flyers, 3, 1, 2, 4, 2, 25, 18, 142,31, Washington Capitals, 4, 1, 1, 2, 5, 16, 32, 164,False
+1993, 12, 21,22, Pittsburgh Penguins, 6, 1, 3, 7, 6, 26, 17, 125,43, Tampa Bay Lightning, 5, 1, 3, 3, 3, 17, 13, 73,True
+1993, 12, 21,26, Vancouver Canucks, 4, 0, 1, 2, 7, 33, 26, 111,35, Edmonton Oilers, 6, 2, 1, 2, 4, 30, 41, 305,True
+1993, 12, 22,35, Edmonton Oilers, 6, 0, 3, 3, 6, 33, 43, 308,39, Calgary Flames, 5, 2, 4, 6, 5, 31, 37, 250,True
+1993, 12, 22,45, Florida Panthers, 5, 0, 1, 2, 2, 37, 7, 67,11, New York Rangers, 7, 1, 6, 13, 3, 25, 17, 135,True
+1993, 12, 22,38, Hartford Whalers, 6, 0, 4, 10, 4, 30, 34, 246,40, New Jersey Devils, 5, 2, 4, 8, 2, 19, 15, 151,True
+1993, 12, 22,46, Mighty Ducks of Anaheim, 5, 2, 7, 9, 1, 32, 9, 80,44, Dallas Stars, 6, 0, 3, 4, 1, 31, 4, 48,False
+1993, 12, 22,1, Montreal Canadiens, 7, 1, 8, 11, 3, 33, 15, 129,29, New York Islanders, 6, 1, 6, 11, 3, 33, 31, 212,False
+1993, 12, 22,13, Toronto Maple Leafs, 5, 2, 4, 3, 1, 34, 26, 187,42, San Jose Sharks, 3, 0, 5, 7, 4, 24, 26, 193,False
+1993, 12, 23,7, Boston Bruins, 5, 0, 3, 2, 1, 29, 21, 134,22, Pittsburgh Penguins, 6, 2, 8, 14, 3, 34, 12, 125,False
+1993, 12, 23,28, Buffalo Sabres, 6, 0, 3, 7, 3, 29, 30, 150,1, Montreal Canadiens, 6, 2, 3, 4, 3, 19, 16, 81,True
+1993, 12, 23,41, Chicago Blackhawks, 7, 2, 1, 2, 5, 31, 23, 217,42, San Jose Sharks, 3, 0, 2, 3, 2, 29, 24, 198,True
+1993, 12, 23,25, Los Angeles Kings, 3, 0, 5, 8, 4, 53, 33, 211,44, Dallas Stars, 6, 1, 3, 4, 2, 23, 5, 40,False
+1993, 12, 23,40, New Jersey Devils, 4, 1, 2, 6, 2, 21, 17, 133,13, Toronto Maple Leafs, 5, 1, 2, 3, 2, 19, 27, 172,True
+1993, 12, 23,0, Ottawa Senators, 2, 0, 1, 3, 1, 24, 15, 74,38, Hartford Whalers, 6, 2, 6, 11, 1, 30, 30, 213,False
+1993, 12, 23,21, Philadelphia Flyers, 2, 0, 1, 2, 4, 27, 17, 154,17, Detroit Red Wings, 7, 2, 5, 10, 4, 25, 37, 220,False
+1993, 12, 23,23, St. Louis Blues, 5, 2, 4, 7, 1, 44, 23, 158,43, Tampa Bay Lightning, 5, 0, 3, 7, 3, 21, 15, 68,True
+1993, 12, 23,26, Vancouver Canucks, 4, 0, 6, 10, 3, 28, 22, 106,39, Calgary Flames, 5, 2, 3, 3, 2, 5, 32, 196,True
+1993, 12, 23,36, Winnipeg Jets, 3, 1, 5, 8, 5, 14, 16, 91,37, Quebec Nordiques, 6, 1, 2, 3, 5, 30, 42, 297,True
+1993, 12, 23,31, Washington Capitals, 5, 0, 3, 5, 1, 29, 24, 158,11, New York Rangers, 7, 2, 2, 1, 3, 25, 17, 128,False
+1993, 12, 26,38, Hartford Whalers, 6, 2, 2, 3, 1, 19, 30, 202,0, Ottawa Senators, 2, 0, 1, 2, 2, 26, 16, 76,True
+1993, 12, 26,46, Mighty Ducks of Anaheim, 4, 0, 1, 4, 5, 43, 11, 85,25, Los Angeles Kings, 3, 1, 1, 3, 2, 24, 31, 182,False
+1993, 12, 26,29, New York Islanders, 6, 1, 5, 9, 3, 34, 28, 208,28, Buffalo Sabres, 6, 1, 5, 7, 0, 25, 31, 155,True
+1993, 12, 26,11, New York Rangers, 7, 2, 1, 2, 0, 20, 14, 123,40, New Jersey Devils, 5, 0, 4, 7, 3, 10, 20, 144,True
+1993, 12, 26,23, St. Louis Blues, 6, 1, 7, 8, 4, 38, 20, 114,41, Chicago Blackhawks, 7, 1, 5, 9, 2, 36, 25, 205,True
+1993, 12, 26,43, Tampa Bay Lightning, 5, 1, 4, 5, 5, 18, 19, 77,45, Florida Panthers, 6, 1, 3, 6, 2, 35, 7, 65,False
+1993, 12, 26,31, Washington Capitals, 5, 0, 1, 0, 4, 35, 24, 153,22, Pittsburgh Penguins, 6, 2, 4, 6, 3, 35, 12, 126,True
+1993, 12, 27,28, Buffalo Sabres, 6, 1, 3, 4, 4, 17, 35, 147,21, Philadelphia Flyers, 2, 1, 1, 2, 2, 29, 19, 141,False
+1993, 12, 27,41, Chicago Blackhawks, 7, 1, 1, 3, 3, 27, 24, 225,13, Toronto Maple Leafs, 4, 1, 2, 2, 3, 40, 32, 202,True
+1993, 12, 27,44, Dallas Stars, 6, 1, 2, 4, 1, 42, 4, 59,17, Detroit Red Wings, 8, 1, 3, 4, 1, 29, 34, 224,False
+1993, 12, 27,35, Edmonton Oilers, 6, 0, 7, 10, 3, 30, 42, 310,36, Winnipeg Jets, 4, 2, 5, 10, 2, 9, 13, 107,True
+1993, 12, 27,0, Ottawa Senators, 2, 0, 2, 4, 3, 38, 17, 88,7, Boston Bruins, 4, 2, 3, 6, 3, 11, 28, 152,False
+1993, 12, 27,23, St. Louis Blues, 7, 0, 3, 5, 2, 36, 16, 114,1, Montreal Canadiens, 6, 2, 0, 0, 4, 33, 18, 105,False
+1993, 12, 28,25, Los Angeles Kings, 3, 0, 3, 4, 2, 34, 31, 192,26, Vancouver Canucks, 5, 2, 4, 8, 3, 12, 22, 106,True
+1993, 12, 28,40, New Jersey Devils, 5, 1, 3, 6, 4, 14, 25, 134,38, Hartford Whalers, 6, 1, 3, 6, 2, 21, 31, 204,True
+1993, 12, 28,29, New York Islanders, 7, 1, 4, 6, 3, 26, 32, 207,46, Mighty Ducks of Anaheim, 4, 0, 3, 3, 3, 37, 9, 66,False
+1993, 12, 28,22, Pittsburgh Penguins, 6, 1, 2, 6, 7, 28, 16, 119,21, Philadelphia Flyers, 2, 1, 2, 3, 4, 37, 17, 151,False
+1993, 12, 28,37, Quebec Nordiques, 5, 1, 2, 4, 1, 8, 37, 258,43, Tampa Bay Lightning, 4, 1, 1, 3, 7, 30, 17, 79,False
+1993, 12, 28,42, San Jose Sharks, 2, 0, 3, 6, 5, 32, 28, 202,39, Calgary Flames, 4, 2, 3, 5, 5, 22, 34, 220,False
+1993, 12, 28,31, Washington Capitals, 6, 0, 7, 14, 3, 32, 23, 150,45, Florida Panthers, 7, 1, 3, 3, 1, 37, 6, 67,False
+1993, 12, 29,44, Dallas Stars, 6, 0, 0, 0, 3, 17, 9, 56,13, Toronto Maple Leafs, 3, 2, 2, 2, 1, 10, 28, 179,True
+1993, 12, 29,35, Edmonton Oilers, 7, 0, 6, 10, 0, 24, 36, 305,1, Montreal Canadiens, 6, 2, 5, 8, 1, 10, 16, 99,True
+1993, 12, 29,38, Hartford Whalers, 6, 2, 2, 3, 3, 30, 32, 213,45, Florida Panthers, 7, 0, 3, 5, 5, 30, 8, 76,False
+1993, 12, 29,37, Quebec Nordiques, 4, 2, 1, 2, 6, 39, 39, 269,29, New York Islanders, 6, 0, 0, 0, 3, 24, 30, 204,True
+1993, 12, 29,23, St. Louis Blues, 6, 0, 2, 4, 0, 0, 19, 118,11, New York Rangers, 7, 2, 8, 14, 3, 20, 18, 140,False
+1993, 12, 29,36, Winnipeg Jets, 3, 1, 0, 0, 4, 15, 19, 127,41, Chicago Blackhawks, 7, 1, 6, 9, 3, 37, 23, 226,True
+1993, 12, 30,39, Calgary Flames, 4, 1, 3, 4, 3, 21, 32, 219,35, Edmonton Oilers, 7, 1, 6, 12, 3, 45, 39, 326,True
+1993, 12, 30,0, Ottawa Senators, 2, 0, 3, 4, 5, 17, 19, 83,43, Tampa Bay Lightning, 4, 2, 4, 4, 1, 16, 11, 65,False
+1993, 12, 30,31, Washington Capitals, 5, 1, 3, 4, 1, 24, 27, 168,46, Mighty Ducks of Anaheim, 5, 0, 3, 4, 0, 38, 6, 67,True
+1993, 12, 31,7, Boston Bruins, 4, 1, 5, 8, 3, 25, 28, 166,21, Philadelphia Flyers, 3, 1, 3, 5, 2, 32, 14, 133,False
+1993, 12, 31,28, Buffalo Sabres, 5, 0, 0, 0, 2, 36, 23, 155,11, New York Rangers, 7, 2, 4, 8, 3, 26, 18, 160,True
+1993, 12, 31,39, Calgary Flames, 4, 2, 6, 12, 5, 39, 26, 194,1, Montreal Canadiens, 5, 0, 3, 7, 1, 20, 18, 93,False
+1993, 12, 31,41, Chicago Blackhawks, 7, 2, 2, 4, 1, 26, 20, 195,44, Dallas Stars, 6, 0, 4, 5, 6, 39, 6, 64,False
+1993, 12, 31,17, Detroit Red Wings, 8, 1, 6, 8, 0, 22, 33, 217,25, Los Angeles Kings, 4, 1, 6, 11, 2, 35, 34, 186,False
+1993, 12, 31,22, Pittsburgh Penguins, 6, 0, 4, 8, 2, 22, 11, 82,37, Quebec Nordiques, 5, 2, 5, 7, 3, 19, 41, 273,False
+1993, 12, 31,26, Vancouver Canucks, 5, 2, 5, 9, 3, 28, 25, 124,42, San Jose Sharks, 2, 0, 3, 2, 3, 25, 28, 193,False
+1993, 12, 31,36, Winnipeg Jets, 3, 1, 3, 6, 2, 39, 16, 153,23, St. Louis Blues, 5, 1, 3, 5, 5, 40, 23, 147,True
+1994, 1, 1,45, Florida Panthers, 8, 1, 5, 8, 3, 46, 6, 75,46, Mighty Ducks of Anaheim, 5, 0, 0, 0, 3, 24, 9, 64,True
+1994, 1, 1,29, New York Islanders, 6, 1, 3, 5, 5, 39, 34, 218,38, Hartford Whalers, 5, 1, 3, 5, 5, 27, 34, 201,False
+1994, 1, 1,0, Ottawa Senators, 2, 0, 0, 0, 5, 33, 17, 103,40, New Jersey Devils, 5, 2, 4, 4, 4, 18, 24, 176,False
+1994, 1, 1,13, Toronto Maple Leafs, 3, 2, 0, 2, 1, 21, 25, 166,25, Los Angeles Kings, 5, 0, 4, 3, 5, 28, 36, 206,False
+1994, 1, 1,31, Washington Capitals, 6, 2, 3, 4, 0, 26, 26, 170,43, Tampa Bay Lightning, 4, 0, 3, 3, 3, 20, 10, 60,False
+1994, 1, 2,7, Boston Bruins, 4, 2, 3, 5, 4, 19, 25, 153,31, Washington Capitals, 5, 0, 5, 7, 5, 28, 31, 172,True
+1994, 1, 2,28, Buffalo Sabres, 5, 2, 4, 8, 1, 40, 22, 159,13, Toronto Maple Leafs, 3, 0, 4, 7, 3, 16, 28, 163,False
+1994, 1, 2,41, Chicago Blackhawks, 6, 0, 2, 4, 2, 4, 26, 186,36, Winnipeg Jets, 4, 2, 2, 4, 1, 33, 20, 157,True
+1994, 1, 2,44, Dallas Stars, 6, 0, 5, 8, 2, 32, 2, 57,37, Quebec Nordiques, 5, 1, 5, 11, 4, 42, 41, 290,False
+1994, 1, 2,35, Edmonton Oilers, 6, 1, 1, 2, 6, 27, 42, 272,42, San Jose Sharks, 2, 1, 3, 5, 2, 30, 27, 198,False
+1994, 1, 2,38, Hartford Whalers, 6, 0, 4, 7, 3, 54, 32, 228,22, Pittsburgh Penguins, 5, 2, 4, 8, 5, 28, 14, 88,True
+1994, 1, 2,23, St. Louis Blues, 5, 1, 1, 2, 2, 38, 22, 158,39, Calgary Flames, 4, 1, 3, 4, 3, 6, 26, 159,True
+1994, 1, 2,43, Tampa Bay Lightning, 5, 1, 5, 7, 0, 11, 12, 79,46, Mighty Ducks of Anaheim, 4, 0, 2, 2, 3, 35, 9, 58,False
+1994, 1, 2,26, Vancouver Canucks, 5, 1, 2, 3, 6, 30, 25, 115,1, Montreal Canadiens, 5, 1, 5, 6, 2, 4, 19, 90,False
+1994, 1, 3,11, New York Rangers, 6, 1, 1, 2, 3, 40, 17, 154,45, Florida Panthers, 8, 1, 4, 5, 2, 39, 5, 68,True
+1994, 1, 3,0, Ottawa Senators, 2, 1, 2, 3, 3, 37, 19, 104,22, Pittsburgh Penguins, 5, 1, 2, 4, 0, 0, 16, 96,False
+1994, 1, 4,44, Dallas Stars, 5, 1, 4, 8, 3, 14, 5, 20,41, Chicago Blackhawks, 6, 1, 5, 7, 1, 33, 25, 215,False
+1994, 1, 4,25, Los Angeles Kings, 5, 0, 7, 10, 2, 28, 31, 163,37, Quebec Nordiques, 5, 2, 6, 9, 4, 30, 39, 275,True
+1994, 1, 4,40, New Jersey Devils, 6, 1, 7, 12, 1, 30, 22, 166,29, New York Islanders, 6, 1, 3, 5, 4, 33, 33, 212,True
+1994, 1, 4,42, San Jose Sharks, 3, 0, 4, 8, 4, 40, 29, 208,1, Montreal Canadiens, 6, 2, 3, 3, 2, 30, 19, 116,False
+1994, 1, 4,23, St. Louis Blues, 6, 0, 4, 7, 3, 26, 23, 146,17, Detroit Red Wings, 8, 2, 4, 6, 1, 22, 37, 213,False
+1994, 1, 4,13, Toronto Maple Leafs, 3, 2, 3, 4, 3, 22, 31, 176,43, Tampa Bay Lightning, 5, 0, 1, 4, 3, 18, 15, 86,False
+1994, 1, 5,38, Hartford Whalers, 7, 1, 7, 12, 2, 31, 31, 205,36, Winnipeg Jets, 3, 1, 1, 2, 4, 32, 23, 156,True
+1994, 1, 5,11, New York Rangers, 7, 1, 3, 6, 3, 27, 17, 156,39, Calgary Flames, 4, 1, 2, 5, 2, 8, 27, 184,False
+1994, 1, 5,0, Ottawa Senators, 1, 0, 1, 2, 3, 28, 19, 95,26, Vancouver Canucks, 4, 2, 2, 4, 3, 19, 22, 103,False
+1994, 1, 5,37, Quebec Nordiques, 4, 1, 1, 2, 3, 31, 42, 281,1, Montreal Canadiens, 7, 1, 2, 4, 2, 24, 19, 110,False
+1994, 1, 6,7, Boston Bruins, 5, 1, 7, 13, 2, 22, 23, 154,36, Winnipeg Jets, 3, 1, 0, 0, 4, 26, 23, 150,True
+1994, 1, 6,41, Chicago Blackhawks, 6, 1, 2, 3, 1, 23, 26, 196,46, Mighty Ducks of Anaheim, 5, 0, 4, 4, 1, 32, 7, 55,False
+1994, 1, 6,44, Dallas Stars, 5, 0, 1, 3, 2, 6, 4, 36,21, Philadelphia Flyers, 4, 0, 5, 9, 2, 8, 21, 150,True
+1994, 1, 6,38, Hartford Whalers, 7, 0, 4, 7, 0, 20, 28, 196,23, St. Louis Blues, 6, 2, 4, 6, 4, 40, 24, 160,False
+1994, 1, 6,42, San Jose Sharks, 3, 1, 2, 4, 2, 34, 27, 202,17, Detroit Red Wings, 8, 1, 4, 8, 4, 18, 40, 231,False
+1994, 1, 6,13, Toronto Maple Leafs, 2, 2, 0, 0, 1, 24, 26, 188,0, Ottawa Senators, 1, 0, 2, 3, 7, 34, 23, 92,True
+1994, 1, 7,28, Buffalo Sabres, 4, 0, 3, 2, 3, 22, 24, 168,22, Pittsburgh Penguins, 5, 2, 4, 3, 7, 36, 17, 120,False
+1994, 1, 7,35, Edmonton Oilers, 6, 0, 4, 9, 4, 25, 39, 260,37, Quebec Nordiques, 4, 2, 0, 0, 5, 30, 44, 250,True
+1994, 1, 7,40, New Jersey Devils, 6, 1, 7, 8, 2, 23, 23, 159,45, Florida Panthers, 7, 0, 3, 2, 3, 54, 6, 83,True
+1994, 1, 7,29, New York Islanders, 6, 1, 3, 4, 0, 0, 33, 207,39, Calgary Flames, 4, 1, 3, 9, 1, 53, 26, 229,True
+1994, 1, 8,7, Boston Bruins, 6, 2, 5, 10, 4, 31, 25, 157,45, Florida Panthers, 6, 0, 1, 2, 3, 29, 6, 64,False
+1994, 1, 8,38, Hartford Whalers, 7, 1, 1, 2, 2, 28, 30, 204,29, New York Islanders, 6, 1, 5, 9, 6, 39, 34, 241,True
+1994, 1, 8,25, Los Angeles Kings, 6, 1, 5, 8, 1, 23, 30, 158,17, Detroit Red Wings, 8, 1, 10, 19, 3, 21, 39, 234,False
+1994, 1, 8,1, Montreal Canadiens, 7, 1, 4, 5, 0, 32, 17, 118,11, New York Rangers, 6, 1, 1, 1, 1, 16, 16, 107,True
+1994, 1, 8,0, Ottawa Senators, 1, 1, 3, 5, 7, 25, 22, 96,36, Winnipeg Jets, 3, 1, 4, 7, 4, 26, 24, 154,False
+1994, 1, 8,22, Pittsburgh Penguins, 5, 2, 4, 7, 1, 24, 13, 119,39, Calgary Flames, 4, 0, 2, 2, 4, 31, 31, 214,False
+1994, 1, 8,23, St. Louis Blues, 6, 0, 2, 4, 1, 33, 21, 153,46, Mighty Ducks of Anaheim, 5, 1, 5, 10, 3, 18, 8, 48,False
+1994, 1, 8,43, Tampa Bay Lightning, 5, 0, 1, 1, 0, 28, 12, 96,21, Philadelphia Flyers, 4, 2, 0, 0, 3, 8, 18, 99,True
+1994, 1, 8,13, Toronto Maple Leafs, 3, 2, 6, 10, 4, 14, 30, 188,26, Vancouver Canucks, 4, 0, 7, 10, 3, 18, 21, 105,True
+1994, 1, 8,31, Washington Capitals, 4, 0, 3, 2, 3, 4, 28, 148,41, Chicago Blackhawks, 5, 2, 2, 2, 6, 23, 29, 189,True
+1994, 1, 9,28, Buffalo Sabres, 3, 1, 3, 5, 4, 29, 27, 177,26, Vancouver Canucks, 4, 1, 3, 4, 2, 21, 23, 118,True
+1994, 1, 9,41, Chicago Blackhawks, 4, 2, 1, 2, 4, 20, 21, 146,35, Edmonton Oilers, 6, 0, 6, 7, 4, 39, 39, 274,False
+1994, 1, 9,44, Dallas Stars, 6, 1, 7, 15, 2, 30, 2, 65,23, St. Louis Blues, 5, 1, 3, 6, 1, 14, 21, 150,True
+1994, 1, 9,40, New Jersey Devils, 7, 2, 4, 2, 1, 20, 20, 156,31, Washington Capitals, 5, 0, 4, 7, 5, 36, 27, 185,False
+1994, 1, 10,7, Boston Bruins, 6, 1, 2, 4, 4, 25, 22, 144,13, Toronto Maple Leafs, 4, 1, 5, 9, 3, 30, 29, 204,False
+1994, 1, 10,46, Mighty Ducks of Anaheim, 5, 0, 5, 8, 2, 25, 8, 73,17, Detroit Red Wings, 8, 2, 6, 10, 4, 40, 39, 245,False
+1994, 1, 10,1, Montreal Canadiens, 7, 2, 3, 7, 2, 36, 19, 122,36, Winnipeg Jets, 4, 0, 3, 4, 2, 29, 15, 162,True
+1994, 1, 10,11, New York Rangers, 5, 2, 2, 3, 3, 26, 18, 117,43, Tampa Bay Lightning, 6, 0, 4, 8, 2, 30, 14, 98,False
+1994, 1, 10,0, Ottawa Senators, 1, 1, 2, 4, 3, 34, 18, 105,29, New York Islanders, 5, 1, 0, 0, 2, 17, 29, 177,False
+1994, 1, 11,39, Calgary Flames, 4, 1, 2, 3, 6, 38, 29, 217,37, Quebec Nordiques, 4, 1, 3, 6, 3, 16, 45, 239,True
+1994, 1, 11,41, Chicago Blackhawks, 4, 0, 2, 4, 0, 5, 21, 153,28, Buffalo Sabres, 4, 2, 5, 8, 3, 20, 26, 167,False
+1994, 1, 11,44, Dallas Stars, 7, 2, 2, 2, 1, 25, 1, 60,35, Edmonton Oilers, 6, 0, 3, 8, 2, 34, 40, 275,True
+1994, 1, 11,21, Philadelphia Flyers, 4, 2, 3, 4, 5, 15, 19, 111,0, Ottawa Senators, 0, 0, 3, 6, 6, 38, 18, 103,True
+1994, 1, 11,22, Pittsburgh Penguins, 4, 2, 2, 4, 3, 35, 14, 127,7, Boston Bruins, 6, 0, 0, 0, 0, 7, 20, 110,True
+1994, 1, 11,42, San Jose Sharks, 3, 0, 3, 6, 7, 30, 29, 178,25, Los Angeles Kings, 6, 2, 3, 6, 6, 44, 35, 179,False
+1994, 1, 11,31, Washington Capitals, 5, 1, 4, 7, 1, 17, 22, 181,13, Toronto Maple Leafs, 4, 1, 3, 2, 0, 30, 26, 203,False
+1994, 1, 12,17, Detroit Red Wings, 8, 2, 6, 6, 3, 32, 39, 227,43, Tampa Bay Lightning, 6, 0, 5, 8, 2, 29, 14, 97,False
+1994, 1, 12,25, Los Angeles Kings, 7, 2, 2, 3, 2, 10, 31, 145,38, Hartford Whalers, 7, 0, 6, 11, 0, 28, 31, 204,True
+1994, 1, 12,46, Mighty Ducks of Anaheim, 5, 0, 4, 5, 5, 31, 11, 79,42, San Jose Sharks, 3, 2, 2, 4, 2, 39, 24, 187,False
+1994, 1, 12,1, Montreal Canadiens, 7, 1, 4, 7, 2, 29, 19, 115,40, New Jersey Devils, 7, 1, 0, 1, 3, 22, 25, 169,True
+1994, 1, 12,26, Vancouver Canucks, 4, 1, 3, 6, 5, 31, 26, 118,37, Quebec Nordiques, 3, 1, 1, 0, 5, 43, 39, 222,True
+1994, 1, 12,36, Winnipeg Jets, 4, 0, 2, 4, 4, 43, 17, 176,28, Buffalo Sabres, 5, 2, 5, 4, 2, 26, 25, 161,True
+1994, 1, 13,41, Chicago Blackhawks, 3, 0, 2, 3, 4, 26, 26, 187,43, Tampa Bay Lightning, 7, 2, 4, 4, 2, 17, 14, 85,True
+1994, 1, 13,21, Philadelphia Flyers, 4, 2, 4, 7, 1, 25, 16, 132,7, Boston Bruins, 5, 0, 4, 7, 5, 24, 25, 127,True
+1994, 1, 13,22, Pittsburgh Penguins, 5, 1, 5, 9, 4, 46, 15, 138,45, Florida Panthers, 6, 0, 2, 2, 3, 35, 5, 73,False
+1994, 1, 13,23, St. Louis Blues, 4, 2, 1, 1, 4, 20, 23, 143,35, Edmonton Oilers, 5, 0, 1, 4, 5, 51, 39, 268,True
+1994, 1, 13,13, Toronto Maple Leafs, 5, 1, 2, 4, 1, 22, 26, 195,44, Dallas Stars, 7, 1, 5, 8, 0, 35, 2, 58,True
+1994, 1, 14,17, Detroit Red Wings, 7, 2, 2, 4, 4, 22, 39, 219,44, Dallas Stars, 6, 0, 4, 6, 0, 2, 4, 35,True
+1994, 1, 14,46, Mighty Ducks of Anaheim, 4, 0, 2, 4, 4, 12, 8, 24,38, Hartford Whalers, 6, 0, 4, 7, 1, 7, 36, 216,True
+1994, 1, 14,29, New York Islanders, 5, 2, 3, 5, 4, 9, 35, 214,1, Montreal Canadiens, 8, 0, 3, 4, 2, 32, 19, 118,True
+1994, 1, 14,11, New York Rangers, 5, 0, 2, 3, 2, 13, 16, 122,21, Philadelphia Flyers, 5, 2, 6, 11, 4, 20, 13, 150,True
+1994, 1, 14,26, Vancouver Canucks, 4, 2, 4, 7, 3, 30, 24, 117,0, Ottawa Senators, 0, 0, 1, 2, 3, 32, 15, 101,False
+1994, 1, 14,31, Washington Capitals, 5, 1, 1, 2, 0, 32, 23, 185,40, New Jersey Devils, 6, 1, 1, 5, 3, 27, 25, 174,False
+1994, 1, 15,7, Boston Bruins, 4, 0, 0, 4, 4, 18, 30, 133,17, Detroit Red Wings, 8, 2, 9, 13, 3, 24, 38, 227,False
+1994, 1, 15,39, Calgary Flames, 5, 2, 1, 2, 0, 19, 27, 229,0, Ottawa Senators, 1, 0, 2, 4, 3, 36, 14, 118,True
+1994, 1, 15,1, Montreal Canadiens, 8, 1, 2, 2, 4, 17, 18, 98,45, Florida Panthers, 7, 1, 2, 4, 2, 41, 4, 79,False
+1994, 1, 15,40, New Jersey Devils, 6, 1, 6, 3, 3, 18, 27, 167,25, Los Angeles Kings, 8, 1, 6, 12, 2, 12, 33, 173,False
+1994, 1, 15,29, New York Islanders, 5, 0, 5, 7, 3, 30, 33, 242,41, Chicago Blackhawks, 4, 2, 1, 2, 0, 20, 22, 181,False
+1994, 1, 15,22, Pittsburgh Penguins, 4, 1, 2, 4, 2, 26, 13, 118,35, Edmonton Oilers, 5, 1, 5, 8, 5, 31, 39, 248,True
+1994, 1, 15,37, Quebec Nordiques, 3, 1, 3, 5, 4, 25, 36, 232,31, Washington Capitals, 4, 1, 2, 4, 0, 2, 25, 152,False
+1994, 1, 15,42, San Jose Sharks, 4, 1, 5, 8, 2, 26, 24, 174,38, Hartford Whalers, 5, 1, 3, 7, 5, 40, 38, 247,True
+1994, 1, 15,23, St. Louis Blues, 4, 0, 6, 11, 4, 35, 22, 180,28, Buffalo Sabres, 4, 2, 1, 4, 3, 30, 29, 175,True
+1994, 1, 15,36, Winnipeg Jets, 5, 1, 3, 4, 2, 30, 19, 149,13, Toronto Maple Leafs, 6, 1, 4, 6, 3, 32, 32, 236,False
+1994, 1, 16,41, Chicago Blackhawks, 4, 1, 5, 8, 5, 33, 26, 184,11, New York Rangers, 5, 1, 5, 9, 2, 24, 16, 137,False
+1994, 1, 16,44, Dallas Stars, 5, 0, 3, 6, 4, 33, 13, 69,28, Buffalo Sabres, 4, 0, 1, 1, 2, 20, 28, 165,False
+1994, 1, 16,46, Mighty Ducks of Anaheim, 5, 1, 6, 10, 3, 34, 7, 46,26, Vancouver Canucks, 4, 1, 2, 3, 5, 21, 23, 118,False
+1994, 1, 16,21, Philadelphia Flyers, 5, 1, 2, 4, 2, 35, 14, 174,25, Los Angeles Kings, 8, 1, 5, 5, 4, 38, 34, 197,True
+1994, 1, 16,36, Winnipeg Jets, 4, 1, 1, 1, 5, 30, 22, 145,43, Tampa Bay Lightning, 7, 1, 0, 1, 1, 29, 13, 97,False
+1994, 1, 17,7, Boston Bruins, 3, 1, 4, 4, 3, 30, 29, 145,38, Hartford Whalers, 4, 1, 2, 3, 8, 33, 39, 249,True
+1994, 1, 17,1, Montreal Canadiens, 7, 1, 2, 5, 4, 25, 18, 106,31, Washington Capitals, 5, 1, 4, 6, 4, 18, 25, 174,True
+1994, 1, 17,29, New York Islanders, 4, 0, 5, 9, 2, 37, 35, 255,45, Florida Panthers, 8, 1, 5, 8, 2, 38, 4, 83,False
+1994, 1, 17,42, San Jose Sharks, 5, 0, 8, 16, 2, 25, 24, 173,39, Calgary Flames, 6, 2, 11, 16, 0, 21, 27, 231,True
+1994, 1, 17,43, Tampa Bay Lightning, 8, 1, 3, 4, 5, 39, 14, 96,17, Detroit Red Wings, 8, 1, 4, 4, 2, 35, 37, 238,False
+1994, 1, 18,44, Dallas Stars, 5, 2, 2, 3, 9, 36, 13, 66,25, Los Angeles Kings, 8, 0, 2, 4, 5, 41, 35, 200,True
+1994, 1, 18,11, New York Rangers, 6, 2, 5, 7, 1, 33, 15, 146,23, St. Louis Blues, 4, 0, 2, 4, 1, 33, 17, 147,True
+1994, 1, 18,0, Ottawa Senators, 1, 2, 0, 0, 4, 17, 17, 74,35, Edmonton Oilers, 5, 0, 3, 5, 4, 33, 41, 258,True
+1994, 1, 18,37, Quebec Nordiques, 3, 2, 0, 0, 4, 40, 39, 242,22, Pittsburgh Penguins, 4, 0, 4, 6, 3, 39, 14, 131,True
+1994, 1, 18,13, Toronto Maple Leafs, 7, 1, 5, 10, 1, 21, 31, 224,46, Mighty Ducks of Anaheim, 5, 1, 3, 5, 0, 15, 7, 35,False
+1994, 1, 19,28, Buffalo Sabres, 4, 1, 5, 8, 2, 23, 29, 164,35, Edmonton Oilers, 4, 1, 4, 6, 4, 25, 41, 250,False
+1994, 1, 19,17, Detroit Red Wings, 8, 2, 6, 10, 3, 30, 38, 222,46, Mighty Ducks of Anaheim, 5, 0, 3, 5, 3, 32, 10, 52,False
+1994, 1, 19,45, Florida Panthers, 8, 2, 2, 2, 2, 45, 3, 80,31, Washington Capitals, 4, 0, 1, 3, 0, 24, 24, 191,True
+1994, 1, 19,38, Hartford Whalers, 4, 0, 3, 5, 5, 38, 35, 260,13, Toronto Maple Leafs, 7, 2, 3, 5, 3, 28, 33, 231,False
+1994, 1, 19,1, Montreal Canadiens, 8, 2, 3, 5, 1, 26, 15, 107,7, Boston Bruins, 4, 0, 6, 7, 2, 8, 23, 131,False
+1994, 1, 19,21, Philadelphia Flyers, 6, 1, 5, 9, 2, 29, 17, 147,23, St. Louis Blues, 4, 1, 1, 2, 2, 38, 24, 176,True
+1994, 1, 19,43, Tampa Bay Lightning, 7, 0, 2, 5, 2, 28, 15, 84,29, New York Islanders, 3, 2, 1, 2, 5, 43, 34, 239,True
+1994, 1, 19,26, Vancouver Canucks, 4, 1, 4, 5, 2, 31, 21, 127,39, Calgary Flames, 6, 1, 2, 2, 2, 34, 28, 228,False
+1994, 1, 19,36, Winnipeg Jets, 4, 1, 2, 4, 5, 26, 25, 149,40, New Jersey Devils, 6, 1, 3, 4, 2, 32, 23, 151,False
+1994, 1, 24,39, Calgary Flames, 6, 1, 4, 4, 3, 23, 29, 226,25, Los Angeles Kings, 7, 1, 3, 4, 5, 27, 35, 186,False
+1994, 1, 24,44, Dallas Stars, 5, 0, 5, 9, 3, 30, 7, 60,40, New Jersey Devils, 6, 0, 4, 8, 0, 32, 21, 151,False
+1994, 1, 24,35, Edmonton Oilers, 4, 1, 1, 2, 1, 29, 38, 254,26, Vancouver Canucks, 3, 1, 3, 4, 3, 30, 23, 121,False
+1994, 1, 24,45, Florida Panthers, 8, 1, 5, 10, 1, 35, 2, 66,1, Montreal Canadiens, 7, 1, 3, 4, 1, 6, 17, 115,True
+1994, 1, 24,38, Hartford Whalers, 4, 1, 3, 6, 4, 44, 34, 258,7, Boston Bruins, 4, 1, 3, 5, 3, 29, 27, 157,False
+1994, 1, 24,46, Mighty Ducks of Anaheim, 6, 2, 4, 6, 4, 39, 11, 59,23, St. Louis Blues, 4, 0, 3, 6, 4, 38, 30, 168,False
+1994, 1, 24,43, Tampa Bay Lightning, 7, 1, 5, 7, 3, 28, 16, 84,28, Buffalo Sabres, 4, 1, 1, 1, 1, 26, 29, 167,True
+1994, 1, 25,17, Detroit Red Wings, 7, 1, 4, 8, 0, 9, 36, 203,41, Chicago Blackhawks, 4, 1, 1, 2, 5, 32, 28, 195,False
+1994, 1, 25,25, Los Angeles Kings, 7, 1, 3, 4, 3, 42, 33, 201,36, Winnipeg Jets, 3, 1, 0, 0, 4, 12, 21, 118,False
+1994, 1, 25,22, Pittsburgh Penguins, 4, 1, 2, 5, 6, 31, 17, 123,0, Ottawa Senators, 2, 1, 4, 5, 3, 27, 16, 84,True
+1994, 1, 25,37, Quebec Nordiques, 4, 0, 5, 8, 3, 23, 38, 225,21, Philadelphia Flyers, 7, 2, 8, 15, 3, 36, 14, 153,True
+1994, 1, 25,42, San Jose Sharks, 5, 1, 3, 5, 2, 33, 24, 181,11, New York Rangers, 6, 1, 3, 7, 1, 26, 14, 125,False
+1994, 1, 25,26, Vancouver Canucks, 4, 2, 5, 8, 4, 25, 24, 124,23, St. Louis Blues, 5, 0, 3, 5, 2, 32, 27, 161,False
+1994, 1, 25,31, Washington Capitals, 4, 0, 1, 2, 3, 35, 35, 184,7, Boston Bruins, 5, 2, 1, 4, 4, 8, 29, 158,False
+1994, 1, 26,39, Calgary Flames, 5, 0, 3, 6, 3, 43, 29, 246,44, Dallas Stars, 4, 2, 2, 4, 4, 30, 10, 65,False
+1994, 1, 26,35, Edmonton Oilers, 3, 0, 4, 7, 5, 36, 42, 261,40, New Jersey Devils, 7, 2, 6, 11, 3, 3, 21, 136,False
+1994, 1, 26,38, Hartford Whalers, 3, 1, 1, 2, 2, 30, 32, 244,1, Montreal Canadiens, 6, 1, 3, 7, 2, 4, 21, 100,False
+1994, 1, 26,46, Mighty Ducks of Anaheim, 6, 2, 2, 4, 3, 38, 10, 58,36, Winnipeg Jets, 3, 0, 3, 7, 4, 49, 21, 149,True
+1994, 1, 26,43, Tampa Bay Lightning, 7, 0, 4, 6, 0, 23, 13, 79,45, Florida Panthers, 8, 2, 8, 12, 1, 31, 4, 54,False
+1994, 1, 26,13, Toronto Maple Leafs, 8, 0, 3, 6, 3, 34, 30, 227,29, New York Islanders, 3, 2, 4, 5, 2, 24, 35, 217,True
+1994, 1, 27,28, Buffalo Sabres, 4, 0, 0, 1, 4, 32, 28, 174,31, Washington Capitals, 3, 2, 1, 2, 3, 29, 35, 178,True
+1994, 1, 27,41, Chicago Blackhawks, 5, 1, 5, 7, 0, 41, 19, 189,17, Detroit Red Wings, 7, 1, 0, 0, 5, 27, 38, 243,False
+1994, 1, 27,25, Los Angeles Kings, 6, 0, 4, 7, 4, 31, 34, 190,11, New York Rangers, 6, 2, 9, 15, 3, 30, 16, 139,False
+1994, 1, 27,0, Ottawa Senators, 2, 0, 2, 4, 6, 24, 17, 92,38, Hartford Whalers, 2, 2, 0, 0, 3, 33, 33, 242,False
+1994, 1, 27,22, Pittsburgh Penguins, 5, 0, 4, 8, 2, 30, 13, 122,37, Quebec Nordiques, 4, 2, 7, 11, 4, 31, 41, 226,True
+1994, 1, 27,26, Vancouver Canucks, 4, 0, 3, 6, 3, 36, 23, 135,44, Dallas Stars, 5, 1, 3, 6, 6, 35, 8, 71,False
+1994, 1, 28,39, Calgary Flames, 5, 2, 2, 4, 3, 24, 27, 222,40, New Jersey Devils, 7, 0, 3, 4, 2, 31, 17, 179,False
+1994, 1, 28,35, Edmonton Oilers, 3, 0, 3, 6, 3, 29, 40, 254,23, St. Louis Blues, 5, 2, 2, 4, 8, 30, 23, 163,False
+1994, 1, 28,45, Florida Panthers, 8, 0, 1, 2, 1, 41, 4, 64,42, San Jose Sharks, 5, 1, 3, 5, 7, 19, 27, 154,False
+1994, 1, 28,46, Mighty Ducks of Anaheim, 6, 1, 4, 5, 1, 20, 8, 40,11, New York Rangers, 6, 0, 5, 9, 3, 20, 19, 122,True
+1994, 1, 28,29, New York Islanders, 3, 0, 3, 5, 4, 17, 37, 226,7, Boston Bruins, 5, 2, 4, 5, 1, 22, 22, 180,False
+1994, 1, 29,7, Boston Bruins, 5, 2, 2, 3, 1, 30, 21, 175,29, New York Islanders, 3, 0, 0, 0, 4, 33, 36, 235,True
+1994, 1, 29,39, Calgary Flames, 5, 0, 2, 2, 2, 28, 26, 226,23, St. Louis Blues, 6, 2, 3, 2, 3, 30, 18, 167,False
+1994, 1, 29,41, Chicago Blackhawks, 4, 2, 3, 6, 4, 25, 23, 173,0, Ottawa Senators, 2, 0, 0, 2, 1, 30, 12, 98,False
+1994, 1, 29,17, Detroit Red Wings, 7, 1, 4, 8, 4, 21, 36, 231,36, Winnipeg Jets, 3, 1, 2, 2, 3, 25, 18, 127,True
+1994, 1, 29,35, Edmonton Oilers, 3, 0, 2, 5, 2, 35, 39, 260,44, Dallas Stars, 6, 2, 3, 3, 2, 35, 4, 71,False
+1994, 1, 29,38, Hartford Whalers, 2, 0, 1, 1, 3, 28, 31, 237,37, Quebec Nordiques, 3, 2, 0, 2, 1, 23, 39, 250,False
+1994, 1, 29,25, Los Angeles Kings, 5, 2, 4, 5, 5, 48, 35, 207,46, Mighty Ducks of Anaheim, 6, 0, 3, 4, 2, 30, 9, 50,True
+1994, 1, 29,1, Montreal Canadiens, 6, 1, 3, 4, 0, 30, 19, 126,28, Buffalo Sabres, 4, 1, 7, 13, 2, 30, 26, 172,False
+1994, 1, 29,21, Philadelphia Flyers, 6, 0, 4, 6, 5, 41, 15, 168,31, Washington Capitals, 3, 2, 2, 3, 5, 25, 33, 180,False
+1994, 1, 29,43, Tampa Bay Lightning, 7, 2, 1, 2, 1, 23, 14, 79,42, San Jose Sharks, 6, 0, 3, 6, 3, 24, 23, 159,False
+1994, 1, 29,13, Toronto Maple Leafs, 8, 2, 4, 7, 3, 34, 29, 220,22, Pittsburgh Penguins, 6, 0, 3, 5, 0, 38, 11, 130,False
+1994, 1, 29,26, Vancouver Canucks, 4, 1, 2, 1, 4, 33, 23, 122,40, New Jersey Devils, 7, 1, 3, 4, 3, 42, 19, 183,True
+1994, 1, 30,28, Buffalo Sabres, 5, 0, 3, 6, 2, 30, 27, 170,45, Florida Panthers, 7, 1, 3, 6, 3, 31, 6, 54,False
+1994, 1, 30,1, Montreal Canadiens, 5, 1, 2, 3, 3, 22, 22, 118,21, Philadelphia Flyers, 5, 1, 2, 5, 4, 31, 17, 156,True
+1994, 1, 30,31, Washington Capitals, 4, 2, 4, 8, 2, 20, 30, 175,17, Detroit Red Wings, 7, 0, 7, 11, 3, 21, 33, 229,True
+1994, 1, 31,7, Boston Bruins, 6, 2, 3, 5, 0, 17, 22, 165,37, Quebec Nordiques, 3, 0, 3, 6, 3, 46, 36, 253,True
+1994, 1, 31,11, New York Rangers, 6, 0, 2, 2, 0, 0, 14, 123,22, Pittsburgh Penguins, 7, 2, 5, 6, 4, 37, 15, 129,True
+1994, 1, 31,0, Ottawa Senators, 3, 1, 4, 4, 3, 35, 14, 103,41, Chicago Blackhawks, 3, 1, 3, 4, 3, 22, 23, 166,False
+1994, 1, 31,26, Vancouver Canucks, 4, 1, 6, 8, 3, 23, 22, 127,25, Los Angeles Kings, 5, 1, 4, 8, 1, 44, 31, 203,True
+1994, 2, 1,29, New York Islanders, 3, 2, 1, 2, 2, 43, 34, 245,42, San Jose Sharks, 6, 0, 2, 4, 1, 37, 21, 172,True
+1994, 2, 1,22, Pittsburgh Penguins, 6, 1, 4, 6, 5, 23, 16, 115,45, Florida Panthers, 8, 1, 3, 6, 2, 39, 5, 62,True
+1994, 2, 1,37, Quebec Nordiques, 3, 2, 3, 5, 2, 28, 36, 251,38, Hartford Whalers, 2, 0, 1, 3, 3, 23, 30, 237,False
+1994, 2, 1,23, St. Louis Blues, 6, 0, 5, 8, 3, 30, 21, 166,13, Toronto Maple Leafs, 8, 2, 4, 5, 4, 22, 30, 208,False
+1994, 2, 2,35, Edmonton Oilers, 2, 1, 3, 5, 5, 27, 38, 250,25, Los Angeles Kings, 5, 1, 2, 4, 3, 31, 33, 190,True
+1994, 2, 2,46, Mighty Ducks of Anaheim, 5, 1, 1, 1, 0, 13, 8, 47,39, Calgary Flames, 4, 1, 3, 8, 4, 23, 28, 221,False
+1994, 2, 2,1, Montreal Canadiens, 5, 1, 5, 8, 4, 34, 23, 130,38, Hartford Whalers, 2, 1, 3, 4, 1, 28, 28, 245,True
+1994, 2, 2,40, New Jersey Devils, 6, 2, 3, 3, 2, 35, 17, 167,28, Buffalo Sabres, 5, 0, 1, 3, 5, 26, 28, 166,False
+1994, 2, 2,11, New York Rangers, 6, 0, 5, 9, 3, 25, 17, 136,29, New York Islanders, 3, 2, 5, 8, 3, 26, 33, 207,False
+1994, 2, 2,0, Ottawa Senators, 3, 0, 0, 0, 4, 35, 12, 86,45, Florida Panthers, 8, 2, 1, 2, 0, 4, 2, 31,False
+1994, 2, 2,21, Philadelphia Flyers, 4, 0, 4, 7, 3, 30, 16, 164,31, Washington Capitals, 4, 2, 6, 10, 3, 23, 31, 178,False
+1994, 2, 2,43, Tampa Bay Lightning, 6, 1, 1, 3, 2, 21, 15, 77,17, Detroit Red Wings, 6, 1, 3, 6, 1, 19, 36, 241,False
+1994, 2, 2,26, Vancouver Canucks, 5, 1, 3, 4, 1, 19, 20, 123,41, Chicago Blackhawks, 4, 1, 1, 1, 0, 19, 20, 163,True
+1994, 2, 2,36, Winnipeg Jets, 3, 1, 1, 1, 7, 35, 22, 137,44, Dallas Stars, 6, 1, 5, 9, 3, 31, 5, 67,False
+1994, 2, 3,7, Boston Bruins, 7, 2, 4, 7, 1, 24, 25, 177,11, New York Rangers, 6, 0, 4, 8, 3, 36, 18, 148,False
+1994, 2, 3,21, Philadelphia Flyers, 4, 2, 2, 4, 5, 39, 18, 173,42, San Jose Sharks, 5, 0, 4, 5, 5, 22, 25, 157,False
+1994, 2, 3,23, St. Louis Blues, 6, 1, 4, 8, 4, 32, 24, 170,37, Quebec Nordiques, 3, 1, 1, 2, 3, 44, 41, 273,False
+1994, 2, 4,17, Detroit Red Wings, 6, 2, 3, 5, 1, 34, 38, 258,22, Pittsburgh Penguins, 6, 0, 2, 4, 2, 3, 12, 126,False
+1994, 2, 4,35, Edmonton Oilers, 2, 1, 6, 8, 4, 30, 38, 276,41, Chicago Blackhawks, 4, 1, 3, 6, 6, 28, 26, 172,False
+1994, 2, 4,45, Florida Panthers, 8, 2, 4, 8, 1, 33, 3, 60,28, Buffalo Sabres, 5, 0, 3, 5, 3, 26, 26, 177,False
+1994, 2, 4,46, Mighty Ducks of Anaheim, 5, 1, 2, 3, 5, 29, 12, 68,26, Vancouver Canucks, 6, 1, 6, 11, 3, 38, 23, 120,True
+1994, 2, 4,40, New Jersey Devils, 5, 2, 2, 3, 5, 35, 18, 159,0, Ottawa Senators, 3, 0, 1, 1, 1, 18, 11, 74,True
+1994, 2, 4,36, Winnipeg Jets, 3, 0, 3, 6, 1, 5, 22, 115,38, Hartford Whalers, 2, 2, 2, 2, 1, 31, 36, 243,False
+1994, 2, 4,31, Washington Capitals, 4, 1, 4, 8, 7, 31, 30, 180,1, Montreal Canadiens, 5, 1, 9, 17, 2, 30, 21, 126,False
+1994, 2, 5,7, Boston Bruins, 7, 0, 0, 0, 3, 28, 27, 179,21, Philadelphia Flyers, 4, 2, 2, 4, 3, 30, 16, 164,True
+1994, 2, 5,25, Los Angeles Kings, 4, 2, 4, 6, 5, 27, 35, 186,39, Calgary Flames, 5, 0, 5, 4, 0, 8, 31, 206,False
+1994, 2, 5,40, New Jersey Devils, 6, 1, 5, 9, 2, 23, 20, 172,22, Pittsburgh Penguins, 7, 1, 6, 8, 3, 32, 13, 155,True
+1994, 2, 5,0, Ottawa Senators, 3, 1, 2, 4, 5, 39, 15, 95,1, Montreal Canadiens, 5, 1, 4, 6, 2, 17, 19, 120,False
+1994, 2, 5,37, Quebec Nordiques, 4, 2, 4, 7, 3, 35, 41, 264,29, New York Islanders, 4, 0, 4, 8, 4, 24, 37, 223,False
+1994, 2, 5,23, St. Louis Blues, 6, 2, 4, 6, 2, 30, 19, 178,42, San Jose Sharks, 6, 0, 3, 5, 2, 34, 22, 169,True
+1994, 2, 5,13, Toronto Maple Leafs, 8, 2, 4, 8, 4, 37, 36, 241,17, Detroit Red Wings, 6, 0, 4, 2, 6, 33, 43, 261,False
+1994, 2, 5,31, Washington Capitals, 4, 1, 0, 0, 2, 25, 28, 170,43, Tampa Bay Lightning, 5, 1, 1, 2, 6, 27, 16, 86,True
+1994, 2, 6,28, Buffalo Sabres, 5, 1, 7, 10, 2, 33, 26, 166,29, New York Islanders, 4, 1, 3, 4, 4, 31, 35, 232,True
+1994, 2, 6,44, Dallas Stars, 6, 1, 7, 15, 2, 36, 5, 68,42, San Jose Sharks, 6, 1, 3, 4, 1, 2, 24, 167,False
+1994, 2, 6,35, Edmonton Oilers, 2, 1, 1, 2, 3, 37, 34, 267,36, Winnipeg Jets, 2, 1, 2, 3, 6, 16, 21, 124,True
+1994, 2, 6,45, Florida Panthers, 7, 1, 2, 4, 6, 23, 9, 61,7, Boston Bruins, 8, 1, 4, 7, 3, 26, 24, 146,True
+1994, 2, 6,46, Mighty Ducks of Anaheim, 6, 1, 3, 5, 0, 22, 7, 61,41, Chicago Blackhawks, 5, 1, 3, 6, 1, 25, 19, 209,False
+1994, 2, 6,26, Vancouver Canucks, 5, 1, 0, 0, 4, 16, 23, 111,38, Hartford Whalers, 3, 1, 2, 4, 2, 35, 37, 247,False
+1994, 2, 7,39, Calgary Flames, 5, 1, 5, 10, 4, 33, 35, 231,35, Edmonton Oilers, 3, 1, 5, 7, 2, 36, 33, 266,True
+1994, 2, 7,11, New York Rangers, 7, 2, 3, 6, 4, 37, 15, 140,31, Washington Capitals, 5, 0, 7, 11, 4, 20, 29, 167,False
+1994, 2, 7,22, Pittsburgh Penguins, 6, 2, 3, 6, 1, 34, 17, 163,1, Montreal Canadiens, 6, 0, 4, 7, 0, 24, 20, 125,False
+1994, 2, 7,13, Toronto Maple Leafs, 7, 1, 3, 5, 3, 22, 37, 224,43, Tampa Bay Lightning, 4, 1, 3, 5, 2, 20, 13, 61,False
+1994, 2, 8,17, Detroit Red Wings, 6, 2, 4, 6, 3, 37, 40, 258,26, Vancouver Canucks, 5, 0, 2, 2, 3, 33, 22, 128,False
+1994, 2, 8,29, New York Islanders, 3, 1, 1, 2, 2, 33, 30, 222,28, Buffalo Sabres, 6, 1, 4, 5, 2, 28, 27, 146,True
+1994, 2, 8,0, Ottawa Senators, 3, 0, 3, 6, 3, 23, 14, 81,21, Philadelphia Flyers, 3, 2, 0, 0, 4, 45, 20, 168,False
+1994, 2, 8,37, Quebec Nordiques, 4, 0, 2, 4, 2, 24, 41, 244,7, Boston Bruins, 8, 2, 0, 0, 0, 18, 24, 139,False
+1994, 2, 8,42, San Jose Sharks, 7, 0, 7, 10, 4, 32, 24, 201,41, Chicago Blackhawks, 6, 2, 3, 4, 5, 29, 21, 216,True
+1994, 2, 8,23, St. Louis Blues, 6, 0, 4, 8, 4, 47, 18, 172,36, Winnipeg Jets, 2, 2, 2, 4, 5, 37, 15, 129,True
+1994, 2, 9,44, Dallas Stars, 5, 2, 1, 1, 3, 9, 7, 26,36, Winnipeg Jets, 1, 0, 5, 4, 0, 1, 16, 126,True
+1994, 2, 9,35, Edmonton Oilers, 3, 0, 3, 6, 4, 37, 36, 275,39, Calgary Flames, 5, 2, 4, 4, 1, 15, 34, 221,False
+1994, 2, 9,25, Los Angeles Kings, 3, 0, 4, 6, 3, 36, 35, 198,41, Chicago Blackhawks, 5, 2, 3, 5, 2, 28, 20, 210,True
+1994, 2, 9,1, Montreal Canadiens, 7, 1, 4, 6, 1, 39, 21, 140,11, New York Rangers, 7, 1, 1, 0, 1, 11, 15, 113,True
+1994, 2, 10,7, Boston Bruins, 8, 1, 6, 6, 3, 19, 24, 162,28, Buffalo Sabres, 6, 1, 1, 3, 3, 36, 28, 154,False
+1994, 2, 10,40, New Jersey Devils, 7, 0, 7, 14, 3, 27, 20, 148,26, Vancouver Canucks, 5, 2, 6, 11, 3, 29, 22, 121,True
+1994, 2, 10,0, Ottawa Senators, 2, 0, 3, 6, 4, 25, 14, 85,43, Tampa Bay Lightning, 4, 2, 2, 3, 1, 25, 12, 66,False
+1994, 2, 10,21, Philadelphia Flyers, 3, 1, 3, 5, 3, 32, 19, 155,45, Florida Panthers, 7, 0, 3, 5, 0, 38, 3, 76,True
+1994, 2, 10,22, Pittsburgh Penguins, 6, 1, 1, 2, 7, 40, 20, 160,29, New York Islanders, 4, 1, 3, 5, 4, 23, 35, 229,False
+1994, 2, 10,23, St. Louis Blues, 6, 0, 6, 9, 3, 31, 20, 164,31, Washington Capitals, 5, 2, 4, 7, 1, 28, 26, 175,False
+1994, 2, 11,28, Buffalo Sabres, 6, 2, 4, 4, 1, 32, 28, 165,1, Montreal Canadiens, 7, 0, 4, 5, 3, 22, 23, 138,True
+1994, 2, 11,39, Calgary Flames, 5, 2, 6, 11, 1, 19, 34, 225,38, Hartford Whalers, 4, 0, 4, 3, 9, 35, 41, 243,True
+1994, 2, 11,17, Detroit Red Wings, 5, 2, 3, 5, 6, 37, 43, 254,21, Philadelphia Flyers, 4, 0, 4, 6, 5, 37, 18, 154,True
+1994, 2, 11,46, Mighty Ducks of Anaheim, 5, 0, 2, 0, 3, 24, 10, 63,25, Los Angeles Kings, 3, 2, 4, 6, 5, 39, 34, 213,False
+1994, 2, 11,42, San Jose Sharks, 7, 1, 4, 7, 3, 38, 22, 201,41, Chicago Blackhawks, 4, 1, 3, 5, 4, 23, 22, 206,True
+1994, 2, 11,36, Winnipeg Jets, 1, 0, 2, 2, 4, 44, 23, 175,13, Toronto Maple Leafs, 6, 2, 1, 0, 4, 38, 31, 237,False
+1994, 2, 12,7, Boston Bruins, 7, 2, 3, 9, 1, 23, 24, 165,40, New Jersey Devils, 7, 0, 6, 12, 3, 22, 22, 156,True
+1994, 2, 12,39, Calgary Flames, 6, 1, 4, 7, 1, 20, 28, 213,13, Toronto Maple Leafs, 6, 1, 3, 5, 1, 34, 28, 233,True
+1994, 2, 12,35, Edmonton Oilers, 3, 1, 1, 0, 1, 8, 37, 281,38, Hartford Whalers, 4, 1, 1, 2, 2, 26, 35, 230,False
+1994, 2, 12,25, Los Angeles Kings, 4, 0, 5, 9, 2, 51, 32, 223,31, Washington Capitals, 6, 2, 4, 4, 3, 22, 29, 181,False
+1994, 2, 12,1, Montreal Canadiens, 7, 2, 1, 2, 3, 37, 25, 147,37, Quebec Nordiques, 4, 0, 1, 2, 3, 23, 43, 258,True
+1994, 2, 12,29, New York Islanders, 5, 0, 5, 10, 1, 27, 34, 238,45, Florida Panthers, 6, 2, 3, 4, 4, 38, 7, 76,False
+1994, 2, 12,0, Ottawa Senators, 2, 0, 2, 1, 3, 27, 16, 96,11, New York Rangers, 6, 2, 3, 5, 3, 27, 18, 132,False
+1994, 2, 12,22, Pittsburgh Penguins, 5, 0, 2, 6, 4, 31, 18, 155,44, Dallas Stars, 6, 1, 4, 7, 4, 17, 6, 44,False
+1994, 2, 12,23, St. Louis Blues, 6, 0, 3, 6, 5, 43, 22, 161,17, Detroit Red Wings, 5, 2, 6, 8, 3, 27, 40, 244,False
+1994, 2, 12,43, Tampa Bay Lightning, 5, 0, 6, 8, 4, 12, 13, 59,26, Vancouver Canucks, 5, 2, 3, 7, 7, 34, 26, 126,False
+1994, 2, 13,28, Buffalo Sabres, 7, 1, 5, 8, 1, 33, 26, 184,44, Dallas Stars, 7, 0, 9, 14, 2, 27, 5, 52,False
+1994, 2, 13,35, Edmonton Oilers, 2, 0, 2, 3, 5, 28, 41, 307,46, Mighty Ducks of Anaheim, 5, 2, 3, 6, 4, 34, 11, 61,False
+1994, 2, 13,45, Florida Panthers, 6, 0, 4, 6, 3, 31, 6, 69,26, Vancouver Canucks, 5, 0, 2, 6, 3, 26, 21, 112,True
+1994, 2, 13,21, Philadelphia Flyers, 3, 1, 3, 5, 3, 11, 18, 104,22, Pittsburgh Penguins, 5, 1, 3, 6, 5, 35, 23, 160,False
+1994, 2, 13,42, San Jose Sharks, 7, 2, 4, 8, 3, 31, 22, 194,41, Chicago Blackhawks, 4, 0, 3, 5, 4, 25, 24, 198,True
+1994, 2, 13,43, Tampa Bay Lightning, 4, 0, 2, 4, 2, 18, 12, 69,40, New Jersey Devils, 7, 2, 4, 4, 1, 23, 21, 155,False
+1994, 2, 14,39, Calgary Flames, 6, 0, 3, 4, 2, 23, 29, 216,41, Chicago Blackhawks, 3, 2, 0, 0, 1, 28, 21, 201,False
+1994, 2, 14,25, Los Angeles Kings, 4, 1, 1, 2, 0, 9, 33, 164,7, Boston Bruins, 7, 1, 5, 8, 3, 22, 27, 174,False
+1994, 2, 14,37, Quebec Nordiques, 4, 0, 2, 4, 4, 30, 40, 227,11, New York Rangers, 6, 2, 4, 6, 3, 16, 18, 121,False
+1994, 2, 15,29, New York Islanders, 5, 1, 3, 6, 0, 0, 31, 195,43, Tampa Bay Lightning, 4, 1, 3, 5, 3, 22, 13, 90,True
+1994, 2, 15,22, Pittsburgh Penguins, 5, 1, 2, 3, 0, 22, 18, 147,36, Winnipeg Jets, 1, 1, 1, 3, 6, 33, 22, 170,True
+1994, 2, 15,42, San Jose Sharks, 7, 1, 1, 2, 0, 23, 19, 186,21, Philadelphia Flyers, 2, 1, 0, 0, 3, 16, 16, 110,False
+1994, 2, 15,23, St. Louis Blues, 6, 1, 4, 8, 5, 36, 22, 175,26, Vancouver Canucks, 5, 1, 1, 2, 2, 15, 20, 101,True
+1994, 2, 15,13, Toronto Maple Leafs, 5, 1, 2, 4, 3, 38, 28, 249,17, Detroit Red Wings, 6, 1, 5, 7, 3, 12, 34, 222,True
+1994, 2, 15,31, Washington Capitals, 7, 2, 6, 10, 1, 23, 27, 182,35, Edmonton Oilers, 2, 0, 3, 4, 5, 27, 40, 300,False
+1994, 2, 16,44, Dallas Stars, 8, 0, 5, 10, 3, 32, 6, 57,7, Boston Bruins, 7, 0, 3, 7, 3, 27, 26, 174,False
+1994, 2, 16,17, Detroit Red Wings, 6, 0, 4, 8, 1, 23, 36, 253,45, Florida Panthers, 6, 0, 2, 4, 1, 11, 4, 72,True
+1994, 2, 16,38, Hartford Whalers, 5, 0, 5, 10, 2, 38, 30, 228,28, Buffalo Sabres, 7, 2, 2, 6, 3, 47, 27, 176,False
+1994, 2, 16,46, Mighty Ducks of Anaheim, 5, 0, 6, 7, 4, 22, 10, 55,21, Philadelphia Flyers, 3, 0, 6, 11, 0, 19, 17, 118,True
+1994, 2, 17,41, Chicago Blackhawks, 4, 0, 4, 7, 2, 24, 22, 197,26, Vancouver Canucks, 5, 2, 3, 3, 2, 20, 21, 111,False
+1994, 2, 17,22, Pittsburgh Penguins, 5, 1, 5, 10, 3, 26, 21, 151,38, Hartford Whalers, 5, 1, 3, 6, 5, 30, 33, 233,True
+1994, 2, 17,42, San Jose Sharks, 7, 0, 3, 7, 1, 36, 25, 182,37, Quebec Nordiques, 3, 2, 2, 3, 4, 33, 41, 252,False
+1994, 2, 17,43, Tampa Bay Lightning, 3, 0, 1, 2, 2, 24, 12, 92,1, Montreal Canadiens, 8, 2, 5, 6, 5, 31, 24, 144,True
+1994, 2, 17,13, Toronto Maple Leafs, 5, 1, 5, 9, 4, 35, 30, 226,40, New Jersey Devils, 7, 1, 3, 6, 4, 10, 27, 165,True
+1994, 2, 18,28, Buffalo Sabres, 7, 1, 5, 7, 3, 23, 28, 156,45, Florida Panthers, 5, 1, 3, 5, 2, 27, 10, 95,True
+1994, 2, 18,44, Dallas Stars, 7, 2, 0, 0, 3, 25, 6, 67,39, Calgary Flames, 6, 0, 2, 4, 4, 27, 31, 220,True
+1994, 2, 18,17, Detroit Red Wings, 6, 1, 7, 13, 5, 43, 38, 261,35, Edmonton Oilers, 3, 1, 2, 4, 2, 43, 43, 318,True
+1994, 2, 18,25, Los Angeles Kings, 3, 1, 2, 4, 6, 32, 36, 195,21, Philadelphia Flyers, 3, 1, 3, 5, 6, 34, 23, 133,False
+1994, 2, 18,46, Mighty Ducks of Anaheim, 5, 0, 6, 9, 3, 28, 9, 62,37, Quebec Nordiques, 3, 0, 8, 13, 2, 22, 39, 241,False
+1994, 2, 18,11, New York Rangers, 6, 2, 4, 9, 2, 26, 19, 130,0, Ottawa Senators, 1, 0, 3, 5, 6, 36, 17, 106,True
+1994, 2, 18,23, St. Louis Blues, 6, 1, 3, 3, 2, 29, 18, 175,7, Boston Bruins, 7, 1, 2, 6, 2, 22, 23, 183,True
+1994, 2, 18,36, Winnipeg Jets, 1, 1, 3, 5, 5, 49, 21, 186,41, Chicago Blackhawks, 4, 1, 2, 2, 4, 28, 24, 195,False
+1994, 2, 18,31, Washington Capitals, 7, 0, 2, 4, 3, 35, 28, 176,29, New York Islanders, 6, 2, 2, 4, 4, 20, 32, 217,True
+1994, 2, 19,38, Hartford Whalers, 5, 0, 4, 7, 6, 34, 34, 237,11, New York Rangers, 6, 2, 3, 5, 0, 24, 17, 128,True
+1994, 2, 19,1, Montreal Canadiens, 7, 1, 3, 6, 2, 34, 23, 143,22, Pittsburgh Penguins, 5, 1, 7, 10, 4, 35, 22, 160,True
+1994, 2, 19,40, New Jersey Devils, 6, 2, 1, 2, 3, 37, 18, 158,43, Tampa Bay Lightning, 3, 0, 4, 5, 3, 25, 13, 93,True
+1994, 2, 19,29, New York Islanders, 6, 2, 1, 3, 1, 22, 31, 226,0, Ottawa Senators, 1, 0, 0, 0, 4, 37, 14, 100,True
+1994, 2, 19,42, San Jose Sharks, 6, 0, 3, 4, 5, 15, 26, 167,25, Los Angeles Kings, 3, 2, 3, 6, 3, 40, 33, 193,True
+1994, 2, 19,13, Toronto Maple Leafs, 6, 1, 2, 3, 1, 30, 29, 227,35, Edmonton Oilers, 3, 1, 2, 1, 5, 42, 44, 314,True
+1994, 2, 20,41, Chicago Blackhawks, 4, 2, 7, 13, 2, 44, 22, 211,40, New Jersey Devils, 6, 0, 5, 7, 2, 26, 19, 157,False
+1994, 2, 20,45, Florida Panthers, 5, 0, 1, 2, 4, 26, 12, 94,17, Detroit Red Wings, 6, 1, 5, 10, 3, 31, 35, 235,False
+1994, 2, 20,23, St. Louis Blues, 6, 1, 3, 5, 1, 41, 18, 182,46, Mighty Ducks of Anaheim, 5, 1, 0, 0, 3, 29, 7, 59,True
+1994, 2, 20,43, Tampa Bay Lightning, 3, 1, 4, 8, 5, 31, 15, 99,7, Boston Bruins, 6, 1, 1, 1, 0, 26, 24, 178,False
+1994, 2, 20,36, Winnipeg Jets, 0, 0, 2, 4, 3, 39, 21, 159,39, Calgary Flames, 6, 2, 2, 4, 0, 7, 28, 197,False
+1994, 2, 20,31, Washington Capitals, 8, 1, 3, 6, 1, 25, 26, 166,28, Buffalo Sabres, 7, 1, 4, 9, 3, 26, 24, 170,False
+1994, 2, 21,28, Buffalo Sabres, 8, 1, 3, 2, 1, 28, 24, 172,37, Quebec Nordiques, 4, 1, 1, 2, 0, 28, 34, 259,True
+1994, 2, 21,25, Los Angeles Kings, 3, 1, 3, 5, 4, 26, 34, 179,13, Toronto Maple Leafs, 6, 1, 3, 5, 2, 27, 27, 218,False
+1994, 2, 21,29, New York Islanders, 7, 1, 4, 8, 0, 37, 30, 241,31, Washington Capitals, 7, 1, 2, 4, 1, 7, 26, 147,True
+1994, 2, 21,11, New York Rangers, 5, 1, 2, 4, 3, 30, 20, 154,22, Pittsburgh Penguins, 5, 1, 1, 2, 3, 26, 21, 151,True
+1994, 2, 21,21, Philadelphia Flyers, 4, 1, 4, 7, 3, 33, 19, 136,1, Montreal Canadiens, 8, 1, 4, 6, 1, 27, 22, 136,True
+1994, 2, 21,42, San Jose Sharks, 6, 1, 4, 6, 3, 25, 24, 181,44, Dallas Stars, 8, 1, 4, 7, 2, 36, 5, 78,False
+1994, 2, 22,26, Vancouver Canucks, 5, 1, 4, 8, 3, 25, 21, 124,39, Calgary Flames, 7, 1, 5, 8, 2, 30, 30, 220,False
+1994, 2, 22,36, Winnipeg Jets, 0, 1, 2, 2, 5, 28, 24, 139,45, Florida Panthers, 4, 1, 3, 5, 4, 46, 12, 114,False
+1994, 2, 23,28, Buffalo Sabres, 8, 0, 3, 5, 3, 28, 25, 161,46, Mighty Ducks of Anaheim, 4, 0, 1, 2, 4, 38, 9, 55,True
+1994, 2, 23,17, Detroit Red Wings, 7, 1, 4, 7, 1, 22, 35, 229,40, New Jersey Devils, 6, 1, 1, 2, 4, 36, 18, 174,False
+1994, 2, 23,35, Edmonton Oilers, 3, 0, 2, 3, 3, 28, 42, 282,13, Toronto Maple Leafs, 6, 2, 6, 8, 2, 29, 28, 214,True
+1994, 2, 23,25, Los Angeles Kings, 2, 0, 4, 6, 3, 30, 35, 192,44, Dallas Stars, 8, 2, 6, 10, 3, 42, 6, 61,False
+1994, 2, 23,1, Montreal Canadiens, 7, 2, 6, 8, 6, 18, 29, 139,42, San Jose Sharks, 6, 0, 3, 6, 3, 29, 27, 182,True
+1994, 2, 23,11, New York Rangers, 6, 1, 4, 5, 4, 30, 18, 147,7, Boston Bruins, 6, 1, 3, 4, 2, 24, 23, 173,False
+1994, 2, 24,39, Calgary Flames, 8, 1, 4, 7, 4, 20, 32, 221,43, Tampa Bay Lightning, 3, 1, 2, 1, 2, 23, 12, 91,False
+1994, 2, 24,41, Chicago Blackhawks, 4, 2, 1, 2, 1, 34, 24, 208,36, Winnipeg Jets, 0, 0, 2, 4, 7, 32, 22, 143,True
+1994, 2, 24,17, Detroit Red Wings, 6, 1, 2, 5, 2, 13, 38, 218,38, Hartford Whalers, 5, 1, 4, 7, 2, 17, 30, 220,True
+1994, 2, 24,45, Florida Panthers, 5, 2, 3, 5, 2, 42, 10, 110,31, Washington Capitals, 6, 0, 1, 1, 4, 17, 29, 157,False
+1994, 2, 24,40, New Jersey Devils, 7, 0, 7, 11, 1, 43, 17, 199,11, New York Rangers, 5, 2, 3, 4, 3, 15, 17, 107,False
+1994, 2, 24,0, Ottawa Senators, 1, 1, 0, 0, 3, 30, 14, 99,42, San Jose Sharks, 5, 1, 1, 3, 3, 28, 27, 181,True
+1994, 2, 24,21, Philadelphia Flyers, 5, 0, 8, 14, 7, 42, 23, 145,29, New York Islanders, 7, 2, 4, 5, 0, 26, 29, 218,True
+1994, 2, 24,22, Pittsburgh Penguins, 4, 1, 3, 5, 4, 45, 22, 170,46, Mighty Ducks of Anaheim, 3, 0, 2, 2, 3, 5, 9, 35,False
+1994, 2, 24,37, Quebec Nordiques, 3, 2, 1, 1, 2, 24, 42, 233,23, St. Louis Blues, 6, 0, 3, 7, 1, 43, 19, 173,True
+1994, 2, 25,28, Buffalo Sabres, 8, 2, 4, 8, 1, 34, 22, 149,41, Chicago Blackhawks, 4, 0, 6, 8, 3, 25, 26, 199,False
+1994, 2, 25,35, Edmonton Oilers, 3, 2, 6, 12, 3, 32, 42, 286,25, Los Angeles Kings, 2, 0, 0, 1, 0, 34, 32, 196,False
+1994, 2, 25,29, New York Islanders, 6, 1, 4, 6, 5, 28, 34, 220,21, Philadelphia Flyers, 6, 1, 5, 9, 4, 19, 25, 124,True
+1994, 2, 25,36, Winnipeg Jets, 0, 0, 3, 5, 3, 32, 18, 113,7, Boston Bruins, 7, 2, 6, 10, 3, 17, 24, 175,False
+1994, 2, 26,39, Calgary Flames, 7, 1, 0, 0, 4, 25, 32, 226,25, Los Angeles Kings, 3, 1, 5, 6, 5, 39, 37, 197,True
+1994, 2, 26,44, Dallas Stars, 8, 0, 0, 0, 0, 39, 3, 58,11, New York Rangers, 6, 0, 3, 6, 1, 36, 15, 128,True
+1994, 2, 26,17, Detroit Red Wings, 7, 2, 3, 5, 0, 17, 39, 241,42, San Jose Sharks, 5, 0, 4, 6, 5, 31, 29, 184,True
+1994, 2, 26,38, Hartford Whalers, 5, 1, 0, 0, 3, 46, 31, 249,40, New Jersey Devils, 7, 1, 0, 1, 1, 15, 18, 168,False
+1994, 2, 26,0, Ottawa Senators, 1, 0, 6, 9, 4, 39, 15, 108,23, St. Louis Blues, 5, 2, 0, 0, 5, 18, 23, 143,False
+1994, 2, 26,22, Pittsburgh Penguins, 3, 2, 2, 4, 2, 41, 20, 166,28, Buffalo Sabres, 7, 0, 1, 2, 2, 21, 24, 133,True
+1994, 2, 26,37, Quebec Nordiques, 4, 1, 6, 7, 0, 29, 35, 233,46, Mighty Ducks of Anaheim, 4, 0, 2, 4, 4, 18, 8, 53,False
+1994, 2, 26,13, Toronto Maple Leafs, 6, 1, 3, 5, 4, 30, 32, 233,1, Montreal Canadiens, 7, 1, 3, 5, 1, 30, 24, 151,False
+1994, 2, 26,26, Vancouver Canucks, 4, 2, 4, 6, 4, 28, 22, 127,43, Tampa Bay Lightning, 4, 0, 4, 4, 0, 4, 10, 86,True
+1994, 2, 26,31, Washington Capitals, 6, 1, 2, 3, 1, 22, 23, 138,45, Florida Panthers, 4, 1, 1, 1, 1, 34, 10, 94,True
+1994, 2, 27,41, Chicago Blackhawks, 4, 2, 3, 6, 1, 31, 24, 185,7, Boston Bruins, 7, 0, 7, 12, 3, 26, 28, 191,False
+1994, 2, 27,35, Edmonton Oilers, 3, 1, 5, 7, 5, 53, 46, 328,43, Tampa Bay Lightning, 4, 1, 1, 2, 0, 18, 12, 100,True
+1994, 2, 27,38, Hartford Whalers, 4, 2, 1, 2, 1, 36, 29, 239,31, Washington Capitals, 7, 0, 4, 8, 2, 20, 24, 136,False
+1994, 2, 27,29, New York Islanders, 6, 1, 2, 3, 0, 23, 28, 193,37, Quebec Nordiques, 4, 1, 3, 6, 6, 22, 39, 222,True
+1994, 2, 28,45, Florida Panthers, 4, 1, 2, 3, 2, 26, 12, 90,22, Pittsburgh Penguins, 4, 1, 4, 6, 3, 28, 23, 167,False
+1994, 2, 28,25, Los Angeles Kings, 3, 0, 2, 2, 5, 35, 36, 206,1, Montreal Canadiens, 7, 2, 3, 5, 0, 39, 23, 160,False
+1994, 2, 28,40, New Jersey Devils, 7, 2, 2, 1, 2, 20, 22, 158,23, St. Louis Blues, 6, 0, 11, 16, 1, 32, 18, 172,True
+1994, 2, 28,11, New York Rangers, 5, 1, 1, 2, 3, 29, 16, 105,21, Philadelphia Flyers, 6, 1, 0, 1, 2, 39, 20, 149,True
+1994, 2, 28,0, Ottawa Senators, 1, 0, 1, 2, 8, 28, 18, 66,13, Toronto Maple Leafs, 5, 2, 0, 0, 3, 24, 34, 235,False
+1994, 2, 28,36, Winnipeg Jets, 0, 2, 6, 11, 1, 6, 16, 88,42, San Jose Sharks, 4, 0, 0, 0, 2, 39, 26, 192,False
+1994, 3, 1,17, Detroit Red Wings, 7, 0, 2, 4, 0, 22, 39, 246,39, Calgary Flames, 7, 2, 3, 6, 2, 16, 30, 217,True
+1994, 3, 1,29, New York Islanders, 7, 0, 5, 8, 2, 33, 30, 203,23, St. Louis Blues, 6, 2, 1, 0, 4, 28, 21, 172,True
+1994, 3, 1,26, Vancouver Canucks, 4, 2, 3, 5, 1, 29, 19, 128,35, Edmonton Oilers, 3, 0, 3, 6, 2, 35, 43, 310,False
+1994, 3, 1,31, Washington Capitals, 7, 1, 3, 6, 1, 21, 23, 141,43, Tampa Bay Lightning, 3, 1, 2, 2, 3, 26, 15, 108,False
+1994, 3, 2,45, Florida Panthers, 3, 0, 3, 5, 4, 28, 14, 92,40, New Jersey Devils, 7, 2, 5, 9, 1, 31, 17, 165,False
+1994, 3, 2,38, Hartford Whalers, 4, 0, 1, 2, 3, 31, 31, 234,25, Los Angeles Kings, 2, 2, 3, 6, 4, 48, 34, 206,False
+1994, 3, 2,46, Mighty Ducks of Anaheim, 5, 0, 5, 8, 3, 33, 7, 68,1, Montreal Canadiens, 7, 1, 3, 5, 2, 12, 26, 152,False
+1994, 3, 2,11, New York Rangers, 6, 2, 4, 4, 1, 27, 13, 110,37, Quebec Nordiques, 3, 0, 2, 2, 4, 27, 39, 242,True
+1994, 3, 2,0, Ottawa Senators, 1, 0, 1, 0, 3, 5, 14, 62,28, Buffalo Sabres, 7, 2, 3, 2, 3, 18, 29, 176,False
+1994, 3, 2,36, Winnipeg Jets, 0, 0, 3, 4, 3, 38, 18, 120,44, Dallas Stars, 8, 2, 3, 4, 1, 36, 4, 55,True
+1994, 3, 3,7, Boston Bruins, 8, 2, 4, 7, 0, 20, 28, 176,25, Los Angeles Kings, 2, 0, 4, 5, 3, 35, 31, 189,True
+1994, 3, 3,41, Chicago Blackhawks, 4, 2, 0, 2, 4, 28, 26, 191,39, Calgary Flames, 6, 0, 2, 2, 4, 31, 33, 236,True
+1994, 3, 3,42, San Jose Sharks, 4, 1, 3, 5, 3, 22, 27, 175,35, Edmonton Oilers, 4, 1, 7, 12, 4, 38, 45, 327,True
+1994, 3, 3,23, St. Louis Blues, 5, 2, 2, 4, 4, 36, 23, 180,26, Vancouver Canucks, 4, 0, 4, 7, 7, 24, 25, 123,False
+1994, 3, 3,43, Tampa Bay Lightning, 3, 0, 4, 6, 3, 40, 15, 122,40, New Jersey Devils, 7, 2, 3, 5, 1, 31, 16, 146,False
+1994, 3, 4,28, Buffalo Sabres, 7, 0, 7, 8, 4, 42, 30, 183,22, Pittsburgh Penguins, 5, 2, 2, 8, 3, 36, 23, 175,True
+1994, 3, 4,44, Dallas Stars, 7, 2, 2, 4, 4, 27, 7, 46,26, Vancouver Canucks, 5, 0, 4, 7, 2, 33, 18, 132,False
+1994, 3, 4,17, Detroit Red Wings, 8, 1, 5, 7, 2, 24, 41, 248,13, Toronto Maple Leafs, 6, 1, 4, 6, 1, 29, 31, 230,False
+1994, 3, 4,45, Florida Panthers, 3, 1, 2, 3, 3, 35, 13, 99,38, Hartford Whalers, 3, 1, 1, 2, 3, 23, 30, 220,False
+1994, 3, 4,46, Mighty Ducks of Anaheim, 4, 2, 3, 5, 5, 33, 9, 82,35, Edmonton Oilers, 4, 0, 2, 4, 4, 25, 42, 292,True
+1994, 3, 4,11, New York Rangers, 7, 0, 5, 8, 2, 34, 13, 113,29, New York Islanders, 7, 2, 4, 7, 3, 29, 30, 194,False
+1994, 3, 4,0, Ottawa Senators, 1, 1, 2, 3, 5, 27, 19, 94,36, Winnipeg Jets, 1, 1, 4, 7, 2, 32, 17, 114,False
+1994, 3, 4,31, Washington Capitals, 6, 2, 3, 3, 4, 26, 24, 139,21, Philadelphia Flyers, 5, 0, 1, 1, 4, 43, 23, 133,False
+1994, 3, 5,7, Boston Bruins, 8, 2, 6, 11, 6, 36, 32, 190,0, Ottawa Senators, 1, 0, 1, 2, 2, 18, 18, 88,True
+1994, 3, 5,40, New Jersey Devils, 8, 1, 5, 8, 2, 27, 19, 164,39, Calgary Flames, 5, 1, 2, 4, 5, 35, 33, 235,True
+1994, 3, 5,29, New York Islanders, 7, 2, 3, 6, 3, 13, 28, 176,11, New York Rangers, 6, 0, 3, 4, 3, 33, 14, 112,False
+1994, 3, 5,37, Quebec Nordiques, 3, 2, 2, 3, 4, 36, 42, 262,13, Toronto Maple Leafs, 7, 0, 6, 10, 5, 41, 36, 251,True
+1994, 3, 5,43, Tampa Bay Lightning, 3, 1, 3, 6, 5, 38, 17, 120,38, Hartford Whalers, 3, 1, 2, 4, 1, 38, 28, 235,True
+1994, 3, 6,41, Chicago Blackhawks, 5, 1, 4, 6, 2, 17, 24, 180,25, Los Angeles Kings, 2, 1, 4, 7, 1, 31, 34, 190,False
+1994, 3, 6,44, Dallas Stars, 7, 0, 1, 1, 3, 19, 7, 50,1, Montreal Canadiens, 7, 1, 4, 9, 3, 31, 21, 142,False
+1994, 3, 6,17, Detroit Red Wings, 7, 2, 5, 7, 6, 29, 40, 237,28, Buffalo Sabres, 7, 0, 2, 2, 2, 27, 23, 153,False
+1994, 3, 6,42, San Jose Sharks, 4, 2, 4, 6, 2, 21, 26, 174,46, Mighty Ducks of Anaheim, 5, 0, 4, 5, 2, 23, 5, 74,True
+1994, 3, 6,43, Tampa Bay Lightning, 4, 1, 4, 8, 2, 23, 14, 105,21, Philadelphia Flyers, 5, 1, 2, 3, 3, 34, 24, 146,False
+1994, 3, 6,36, Winnipeg Jets, 2, 1, 6, 11, 6, 23, 16, 110,22, Pittsburgh Penguins, 5, 1, 1, 2, 9, 36, 22, 171,False
+1994, 3, 6,31, Washington Capitals, 5, 0, 3, 6, 3, 20, 23, 133,39, Calgary Flames, 4, 2, 3, 4, 5, 17, 30, 192,False
+1994, 3, 7,7, Boston Bruins, 9, 2, 6, 11, 4, 30, 27, 174,31, Washington Capitals, 4, 0, 4, 7, 4, 19, 24, 132,True
+1994, 3, 7,40, New Jersey Devils, 8, 1, 6, 10, 3, 34, 23, 172,37, Quebec Nordiques, 4, 1, 3, 6, 1, 24, 39, 250,False
+1994, 3, 7,11, New York Rangers, 6, 1, 5, 8, 3, 17, 15, 99,17, Detroit Red Wings, 6, 1, 2, 3, 5, 23, 37, 230,False
+1994, 3, 7,13, Toronto Maple Leafs, 6, 2, 1, 3, 4, 25, 32, 198,23, St. Louis Blues, 4, 0, 0, 2, 4, 34, 16, 140,False
+1994, 3, 7,26, Vancouver Canucks, 5, 0, 4, 9, 0, 33, 17, 126,45, Florida Panthers, 2, 1, 1, 2, 3, 30, 12, 95,False
+1994, 3, 7,36, Winnipeg Jets, 2, 2, 3, 6, 4, 33, 14, 120,29, New York Islanders, 7, 0, 4, 5, 0, 22, 30, 218,False
+1994, 3, 8,41, Chicago Blackhawks, 5, 1, 3, 5, 3, 24, 25, 205,46, Mighty Ducks of Anaheim, 5, 1, 0, 0, 3, 20, 8, 57,True
+1994, 3, 8,21, Philadelphia Flyers, 6, 0, 4, 5, 1, 37, 16, 132,44, Dallas Stars, 6, 1, 2, 4, 2, 26, 6, 57,False
+1994, 3, 8,22, Pittsburgh Penguins, 6, 2, 5, 9, 2, 32, 16, 154,7, Boston Bruins, 9, 0, 4, 9, 1, 20, 26, 176,True
+1994, 3, 8,37, Quebec Nordiques, 5, 1, 3, 4, 4, 25, 40, 267,0, Ottawa Senators, 1, 1, 1, 2, 4, 20, 22, 106,True
+1994, 3, 8,42, San Jose Sharks, 4, 1, 6, 12, 0, 25, 24, 178,28, Buffalo Sabres, 8, 1, 3, 6, 2, 45, 24, 147,False
+1994, 3, 9,39, Calgary Flames, 4, 1, 5, 8, 4, 35, 29, 210,17, Detroit Red Wings, 7, 1, 5, 8, 3, 22, 41, 253,False
+1994, 3, 9,35, Edmonton Oilers, 4, 0, 1, 2, 4, 25, 45, 281,45, Florida Panthers, 2, 0, 2, 3, 1, 35, 10, 100,False
+1994, 3, 9,38, Hartford Whalers, 3, 0, 2, 2, 4, 39, 31, 236,43, Tampa Bay Lightning, 4, 2, 1, 2, 3, 21, 15, 103,True
+1994, 3, 9,25, Los Angeles Kings, 3, 2, 3, 5, 6, 36, 36, 204,41, Chicago Blackhawks, 6, 0, 3, 6, 0, 31, 20, 179,False
+1994, 3, 9,46, Mighty Ducks of Anaheim, 4, 0, 0, 0, 3, 11, 7, 69,28, Buffalo Sabres, 8, 1, 4, 6, 0, 12, 25, 112,False
+1994, 3, 9,1, Montreal Canadiens, 7, 2, 3, 2, 2, 38, 20, 149,23, St. Louis Blues, 5, 0, 3, 5, 1, 10, 20, 162,True
+1994, 3, 9,13, Toronto Maple Leafs, 6, 1, 2, 3, 3, 37, 34, 208,44, Dallas Stars, 6, 1, 4, 7, 4, 31, 7, 55,True
+1994, 3, 9,26, Vancouver Canucks, 5, 1, 1, 0, 1, 27, 19, 117,29, New York Islanders, 7, 1, 7, 12, 2, 28, 34, 210,True
+1994, 3, 9,31, Washington Capitals, 4, 1, 3, 5, 3, 8, 32, 161,11, New York Rangers, 5, 1, 3, 4, 2, 15, 17, 112,False
+1994, 3, 10,7, Boston Bruins, 8, 1, 5, 5, 3, 32, 32, 196,11, New York Rangers, 6, 1, 7, 10, 5, 25, 20, 122,False
+1994, 3, 10,40, New Jersey Devils, 8, 2, 2, 2, 4, 31, 19, 157,38, Hartford Whalers, 3, 0, 2, 6, 2, 22, 31, 229,True
+1994, 3, 10,21, Philadelphia Flyers, 6, 2, 3, 6, 4, 31, 19, 126,0, Ottawa Senators, 1, 0, 2, 4, 6, 36, 22, 116,True
+1994, 3, 10,22, Pittsburgh Penguins, 6, 1, 7, 13, 3, 40, 19, 163,13, Toronto Maple Leafs, 6, 1, 4, 6, 6, 32, 30, 178,False
+1994, 3, 10,37, Quebec Nordiques, 6, 0, 5, 8, 2, 41, 38, 268,1, Montreal Canadiens, 8, 2, 7, 12, 2, 36, 20, 147,False
+1994, 3, 10,42, San Jose Sharks, 4, 0, 4, 4, 4, 28, 28, 181,29, New York Islanders, 7, 2, 4, 7, 5, 35, 37, 229,True
+1994, 3, 11,39, Calgary Flames, 4, 0, 2, 3, 5, 34, 30, 209,45, Florida Panthers, 3, 0, 5, 7, 2, 31, 12, 86,True
+1994, 3, 11,35, Edmonton Oilers, 4, 1, 3, 4, 5, 30, 46, 286,17, Detroit Red Wings, 7, 1, 5, 8, 1, 28, 40, 290,True
+1994, 3, 11,46, Mighty Ducks of Anaheim, 3, 0, 0, 0, 3, 23, 7, 81,41, Chicago Blackhawks, 6, 2, 4, 7, 0, 23, 20, 183,False
+1994, 3, 11,36, Winnipeg Jets, 2, 0, 3, 4, 3, 30, 28, 174,26, Vancouver Canucks, 5, 2, 5, 5, 2, 24, 22, 123,False
+1994, 3, 12,39, Calgary Flames, 5, 1, 4, 8, 2, 15, 27, 190,42, San Jose Sharks, 5, 1, 4, 8, 3, 26, 27, 179,True
+1994, 3, 12,38, Hartford Whalers, 3, 0, 1, 0, 3, 22, 33, 237,44, Dallas Stars, 5, 1, 2, 4, 4, 35, 7, 59,False
+1994, 3, 12,25, Los Angeles Kings, 3, 1, 0, 0, 3, 45, 34, 198,28, Buffalo Sabres, 8, 1, 3, 5, 0, 24, 25, 124,False
+1994, 3, 12,1, Montreal Canadiens, 8, 1, 5, 9, 2, 26, 22, 149,21, Philadelphia Flyers, 6, 1, 8, 14, 0, 0, 16, 112,False
+1994, 3, 12,40, New Jersey Devils, 8, 0, 4, 7, 0, 22, 16, 128,7, Boston Bruins, 7, 2, 2, 4, 2, 25, 29, 177,True
+1994, 3, 12,22, Pittsburgh Penguins, 5, 0, 2, 4, 4, 36, 20, 159,11, New York Rangers, 6, 2, 2, 4, 2, 35, 19, 130,True
+1994, 3, 12,23, St. Louis Blues, 5, 1, 2, 4, 2, 28, 26, 193,29, New York Islanders, 6, 1, 3, 5, 5, 27, 40, 201,False
+1994, 3, 12,13, Toronto Maple Leafs, 6, 2, 4, 8, 2, 38, 25, 191,36, Winnipeg Jets, 2, 0, 4, 8, 8, 37, 33, 181,True
+1994, 3, 12,31, Washington Capitals, 3, 1, 5, 8, 3, 17, 35, 174,37, Quebec Nordiques, 5, 1, 4, 7, 4, 28, 40, 231,False
+1994, 3, 13,41, Chicago Blackhawks, 7, 0, 3, 6, 2, 25, 25, 199,26, Vancouver Canucks, 6, 2, 8, 14, 4, 33, 24, 125,True
+1994, 3, 13,38, Hartford Whalers, 3, 1, 2, 4, 2, 29, 32, 229,22, Pittsburgh Penguins, 5, 1, 4, 10, 3, 19, 18, 157,False
+1994, 3, 13,46, Mighty Ducks of Anaheim, 3, 0, 2, 2, 2, 32, 9, 90,0, Ottawa Senators, 1, 1, 2, 4, 3, 15, 20, 75,True
+1994, 3, 13,40, New Jersey Devils, 8, 1, 2, 3, 2, 22, 15, 138,44, Dallas Stars, 6, 0, 2, 3, 3, 24, 5, 47,True
+1994, 3, 13,21, Philadelphia Flyers, 7, 1, 4, 7, 3, 18, 16, 120,43, Tampa Bay Lightning, 3, 1, 2, 0, 2, 10, 14, 85,False
+1994, 3, 14,45, Florida Panthers, 3, 1, 2, 3, 4, 29, 14, 84,11, New York Rangers, 6, 1, 2, 3, 4, 18, 23, 113,True
+1994, 3, 14,1, Montreal Canadiens, 8, 1, 4, 7, 4, 38, 25, 172,7, Boston Bruins, 7, 1, 1, 2, 2, 16, 29, 168,True
+1994, 3, 14,37, Quebec Nordiques, 5, 1, 4, 6, 3, 34, 39, 237,41, Chicago Blackhawks, 7, 1, 5, 10, 4, 23, 25, 195,True
+1994, 3, 15,17, Detroit Red Wings, 6, 1, 2, 3, 1, 31, 42, 288,26, Vancouver Canucks, 6, 1, 2, 4, 4, 26, 24, 110,True
+1994, 3, 15,25, Los Angeles Kings, 3, 1, 3, 6, 4, 34, 35, 187,0, Ottawa Senators, 1, 1, 1, 2, 3, 8, 17, 73,True
+1994, 3, 15,29, New York Islanders, 6, 1, 5, 9, 2, 21, 37, 185,40, New Jersey Devils, 8, 1, 3, 6, 1, 34, 13, 164,True
+1994, 3, 15,22, Pittsburgh Penguins, 6, 1, 3, 6, 2, 34, 17, 167,31, Washington Capitals, 3, 1, 3, 5, 4, 19, 36, 176,False
+1994, 3, 15,43, Tampa Bay Lightning, 4, 2, 5, 11, 2, 11, 17, 96,39, Calgary Flames, 5, 0, 2, 1, 0, 16, 25, 192,False
+1994, 3, 16,45, Florida Panthers, 4, 0, 2, 3, 1, 28, 11, 83,39, Calgary Flames, 5, 1, 7, 9, 1, 5, 28, 204,True
+1994, 3, 16,46, Mighty Ducks of Anaheim, 4, 0, 5, 7, 1, 28, 8, 86,25, Los Angeles Kings, 4, 2, 7, 13, 0, 33, 31, 186,True
+1994, 3, 16,1, Montreal Canadiens, 8, 1, 5, 7, 4, 42, 25, 176,41, Chicago Blackhawks, 7, 1, 1, 2, 2, 21, 26, 199,True
+1994, 3, 16,11, New York Rangers, 5, 1, 1, 2, 2, 23, 18, 124,38, Hartford Whalers, 2, 1, 1, 3, 1, 26, 33, 223,True
+1994, 3, 16,43, Tampa Bay Lightning, 4, 0, 3, 4, 3, 28, 17, 101,35, Edmonton Oilers, 4, 2, 4, 5, 2, 47, 45, 304,False
+1994, 3, 16,13, Toronto Maple Leafs, 6, 2, 3, 6, 2, 28, 28, 185,26, Vancouver Canucks, 5, 0, 2, 2, 3, 31, 23, 115,False
+1994, 3, 16,36, Winnipeg Jets, 2, 1, 1, 2, 3, 31, 28, 175,23, St. Louis Blues, 4, 1, 5, 8, 5, 34, 29, 199,True
+1994, 3, 17,7, Boston Bruins, 6, 0, 4, 8, 5, 36, 32, 188,22, Pittsburgh Penguins, 6, 2, 4, 8, 5, 32, 22, 187,False
+1994, 3, 17,28, Buffalo Sabres, 8, 1, 5, 11, 4, 9, 31, 145,40, New Jersey Devils, 8, 1, 3, 2, 0, 28, 18, 167,False
+1994, 3, 17,17, Detroit Red Wings, 6, 2, 5, 7, 3, 25, 40, 291,29, New York Islanders, 7, 0, 3, 2, 3, 10, 37, 192,False
+1994, 3, 17,37, Quebec Nordiques, 6, 1, 5, 11, 1, 30, 35, 253,38, Hartford Whalers, 2, 1, 0, 0, 3, 23, 36, 236,True
+1994, 3, 17,42, San Jose Sharks, 4, 1, 0, 0, 2, 20, 27, 177,0, Ottawa Senators, 1, 1, 0, 0, 3, 28, 19, 90,False
+1994, 3, 18,44, Dallas Stars, 5, 0, 0, 1, 2, 23, 6, 55,31, Washington Capitals, 4, 0, 5, 10, 3, 18, 36, 184,True
+1994, 3, 18,45, Florida Panthers, 4, 1, 2, 4, 1, 35, 11, 90,35, Edmonton Oilers, 5, 0, 4, 5, 5, 34, 49, 324,False
+1994, 3, 18,29, New York Islanders, 7, 1, 3, 5, 2, 28, 35, 212,28, Buffalo Sabres, 7, 1, 1, 1, 3, 38, 33, 167,False
+1994, 3, 18,11, New York Rangers, 6, 1, 4, 6, 0, 27, 19, 131,41, Chicago Blackhawks, 6, 1, 3, 6, 5, 22, 28, 196,False
+1994, 3, 18,13, Toronto Maple Leafs, 5, 1, 1, 2, 3, 31, 31, 215,23, St. Louis Blues, 3, 1, 0, 0, 4, 28, 28, 193,True
+1994, 3, 19,7, Boston Bruins, 5, 1, 2, 4, 7, 36, 31, 193,40, New Jersey Devils, 8, 1, 6, 10, 3, 24, 17, 160,False
+1994, 3, 19,25, Los Angeles Kings, 4, 1, 2, 2, 5, 34, 36, 187,42, San Jose Sharks, 4, 1, 1, 2, 2, 27, 27, 184,True
+1994, 3, 19,1, Montreal Canadiens, 9, 2, 5, 8, 3, 32, 24, 166,37, Quebec Nordiques, 6, 0, 4, 4, 1, 25, 35, 248,True
+1994, 3, 19,21, Philadelphia Flyers, 6, 2, 4, 10, 4, 9, 16, 159,38, Hartford Whalers, 2, 0, 1, 2, 4, 39, 36, 241,False
+1994, 3, 19,22, Pittsburgh Penguins, 7, 2, 4, 5, 2, 35, 19, 190,26, Vancouver Canucks, 6, 0, 4, 8, 1, 19, 21, 103,True
+1994, 3, 19,36, Winnipeg Jets, 3, 0, 3, 7, 0, 41, 24, 176,17, Detroit Red Wings, 6, 2, 1, 2, 2, 16, 37, 258,True
+1994, 3, 20,28, Buffalo Sabres, 7, 2, 2, 1, 2, 34, 32, 163,0, Ottawa Senators, 1, 0, 2, 3, 1, 20, 17, 82,True
+1994, 3, 20,41, Chicago Blackhawks, 6, 0, 7, 10, 3, 32, 26, 187,23, St. Louis Blues, 2, 2, 2, 3, 4, 28, 26, 169,False
+1994, 3, 20,44, Dallas Stars, 5, 1, 5, 10, 2, 47, 6, 79,26, Vancouver Canucks, 5, 1, 4, 7, 4, 18, 25, 117,True
+1994, 3, 20,45, Florida Panthers, 4, 0, 4, 7, 4, 38, 14, 93,21, Philadelphia Flyers, 5, 2, 3, 6, 2, 14, 11, 133,True
+1994, 3, 20,29, New York Islanders, 6, 2, 2, 4, 1, 30, 35, 219,22, Pittsburgh Penguins, 7, 0, 5, 10, 2, 29, 21, 187,False
+1994, 3, 20,37, Quebec Nordiques, 6, 1, 2, 4, 2, 26, 40, 255,35, Edmonton Oilers, 6, 1, 4, 8, 4, 45, 48, 323,False
+1994, 3, 20,42, San Jose Sharks, 4, 1, 2, 3, 2, 44, 27, 201,25, Los Angeles Kings, 4, 1, 2, 3, 1, 33, 32, 186,False
+1994, 3, 20,43, Tampa Bay Lightning, 3, 1, 4, 8, 4, 9, 18, 106,31, Washington Capitals, 3, 1, 2, 4, 3, 7, 35, 172,False
+1994, 3, 20,13, Toronto Maple Leafs, 6, 1, 4, 8, 2, 34, 29, 241,39, Calgary Flames, 5, 1, 1, 3, 3, 28, 29, 221,False
+1994, 3, 21,45, Florida Panthers, 5, 0, 5, 9, 3, 48, 13, 103,40, New Jersey Devils, 8, 2, 7, 15, 1, 9, 23, 145,False
+1994, 3, 22,39, Calgary Flames, 5, 1, 5, 11, 3, 27, 29, 220,11, New York Rangers, 5, 1, 4, 5, 7, 33, 25, 142,False
+1994, 3, 22,44, Dallas Stars, 5, 1, 1, 2, 4, 32, 5, 58,46, Mighty Ducks of Anaheim, 5, 1, 5, 9, 2, 33, 9, 91,True
+1994, 3, 22,17, Detroit Red Wings, 5, 1, 2, 3, 2, 24, 41, 261,41, Chicago Blackhawks, 6, 1, 4, 5, 5, 27, 27, 186,True
+1994, 3, 22,29, New York Islanders, 5, 1, 1, 3, 2, 35, 26, 207,43, Tampa Bay Lightning, 3, 1, 0, 0, 3, 32, 17, 129,True
+1994, 3, 22,22, Pittsburgh Penguins, 7, 2, 6, 6, 4, 32, 20, 186,42, San Jose Sharks, 4, 0, 6, 11, 6, 27, 27, 185,False
+1994, 3, 22,37, Quebec Nordiques, 6, 0, 3, 4, 5, 27, 42, 219,7, Boston Bruins, 4, 2, 6, 8, 5, 12, 26, 141,True
+1994, 3, 22,23, St. Louis Blues, 3, 0, 4, 8, 3, 30, 25, 179,21, Philadelphia Flyers, 4, 2, 3, 6, 4, 24, 12, 117,False
+1994, 3, 22,31, Washington Capitals, 3, 1, 3, 5, 0, 23, 26, 169,38, Hartford Whalers, 3, 1, 5, 10, 3, 26, 33, 241,True
+1994, 3, 23,28, Buffalo Sabres, 8, 1, 6, 9, 2, 15, 32, 164,23, St. Louis Blues, 2, 1, 3, 6, 5, 11, 21, 141,False
+1994, 3, 23,35, Edmonton Oilers, 6, 2, 4, 7, 4, 33, 47, 313,11, New York Rangers, 5, 0, 4, 9, 4, 31, 16, 122,False
+1994, 3, 23,45, Florida Panthers, 5, 0, 3, 6, 3, 21, 13, 98,13, Toronto Maple Leafs, 6, 2, 2, 6, 1, 42, 34, 234,False
+1994, 3, 23,25, Los Angeles Kings, 5, 1, 6, 10, 6, 43, 37, 196,26, Vancouver Canucks, 5, 1, 1, 2, 5, 33, 23, 130,False
+1994, 3, 23,0, Ottawa Senators, 1, 0, 2, 3, 6, 35, 22, 97,17, Detroit Red Wings, 5, 2, 3, 4, 4, 21, 40, 265,True
+1994, 3, 23,36, Winnipeg Jets, 4, 0, 4, 5, 2, 39, 23, 154,1, Montreal Canadiens, 9, 2, 5, 10, 4, 27, 23, 165,True
+1994, 3, 24,7, Boston Bruins, 3, 1, 3, 2, 2, 10, 26, 149,46, Mighty Ducks of Anaheim, 4, 0, 3, 7, 3, 31, 10, 96,True
+1994, 3, 24,41, Chicago Blackhawks, 5, 0, 1, 2, 1, 28, 22, 164,1, Montreal Canadiens, 8, 2, 1, 2, 2, 31, 22, 167,False
+1994, 3, 24,40, New Jersey Devils, 8, 2, 3, 4, 3, 28, 24, 190,43, Tampa Bay Lightning, 3, 0, 4, 5, 4, 33, 19, 129,True
+1994, 3, 24,21, Philadelphia Flyers, 5, 1, 6, 8, 3, 33, 11, 126,45, Florida Panthers, 5, 1, 1, 2, 3, 43, 11, 108,True
+1994, 3, 24,22, Pittsburgh Penguins, 7, 2, 2, 4, 2, 27, 16, 174,0, Ottawa Senators, 2, 0, 5, 9, 4, 41, 20, 103,True
+1994, 3, 24,13, Toronto Maple Leafs, 6, 1, 1, 2, 1, 22, 34, 214,42, San Jose Sharks, 5, 1, 1, 4, 2, 39, 27, 207,False
+1994, 3, 25,28, Buffalo Sabres, 8, 2, 2, 3, 6, 31, 33, 167,38, Hartford Whalers, 3, 0, 2, 2, 4, 46, 34, 261,True
+1994, 3, 25,17, Detroit Red Wings, 4, 0, 4, 7, 5, 15, 40, 260,31, Washington Capitals, 3, 2, 4, 8, 1, 16, 27, 162,False
+1994, 3, 25,35, Edmonton Oilers, 6, 1, 3, 6, 2, 7, 41, 268,25, Los Angeles Kings, 5, 1, 3, 6, 5, 49, 36, 202,False
+1994, 3, 25,23, St. Louis Blues, 3, 1, 3, 4, 2, 29, 20, 169,44, Dallas Stars, 5, 1, 5, 6, 1, 26, 4, 55,True
+1994, 3, 25,26, Vancouver Canucks, 5, 1, 6, 12, 2, 31, 21, 134,11, New York Rangers, 6, 1, 5, 9, 3, 32, 16, 101,False
+1994, 3, 25,36, Winnipeg Jets, 5, 1, 3, 6, 1, 40, 17, 154,42, San Jose Sharks, 5, 1, 3, 3, 1, 29, 26, 197,False
+1994, 3, 26,7, Boston Bruins, 3, 1, 5, 8, 3, 18, 30, 160,1, Montreal Canadiens, 8, 1, 5, 9, 5, 42, 25, 178,True
+1994, 3, 26,39, Calgary Flames, 5, 1, 5, 9, 4, 33, 30, 226,22, Pittsburgh Penguins, 7, 1, 5, 6, 1, 24, 15, 171,True
+1994, 3, 26,38, Hartford Whalers, 2, 0, 3, 4, 3, 28, 38, 235,46, Mighty Ducks of Anaheim, 3, 1, 3, 4, 5, 41, 9, 80,False
+1994, 3, 26,40, New Jersey Devils, 8, 2, 3, 4, 5, 27, 24, 174,21, Philadelphia Flyers, 6, 0, 4, 9, 3, 22, 11, 115,True
+1994, 3, 26,29, New York Islanders, 5, 0, 5, 10, 1, 5, 28, 190,45, Florida Panthers, 5, 2, 3, 2, 1, 31, 12, 86,False
+1994, 3, 26,13, Toronto Maple Leafs, 5, 0, 1, 3, 5, 27, 32, 220,37, Quebec Nordiques, 7, 2, 5, 8, 3, 43, 38, 232,True
+1994, 3, 27,28, Buffalo Sabres, 8, 1, 6, 9, 3, 32, 30, 168,29, New York Islanders, 5, 1, 1, 1, 3, 28, 30, 213,True
+1994, 3, 27,41, Chicago Blackhawks, 5, 0, 5, 9, 5, 38, 27, 177,17, Detroit Red Wings, 4, 2, 2, 4, 0, 14, 43, 236,False
+1994, 3, 27,35, Edmonton Oilers, 5, 0, 3, 4, 3, 13, 38, 263,22, Pittsburgh Penguins, 6, 2, 2, 5, 1, 28, 18, 179,True
+1994, 3, 27,40, New Jersey Devils, 8, 1, 6, 10, 1, 23, 21, 174,37, Quebec Nordiques, 6, 1, 3, 8, 5, 25, 40, 222,True
+1994, 3, 27,21, Philadelphia Flyers, 5, 0, 2, 3, 2, 6, 20, 139,46, Mighty Ducks of Anaheim, 4, 1, 3, 2, 2, 33, 6, 72,False
+1994, 3, 27,23, St. Louis Blues, 4, 2, 6, 7, 3, 34, 18, 164,42, San Jose Sharks, 5, 0, 8, 15, 3, 36, 26, 197,False
+1994, 3, 27,43, Tampa Bay Lightning, 2, 0, 1, 2, 0, 4, 17, 122,44, Dallas Stars, 5, 1, 3, 7, 3, 29, 7, 58,False
+1994, 3, 27,26, Vancouver Canucks, 4, 2, 3, 4, 3, 37, 24, 119,25, Los Angeles Kings, 5, 0, 4, 7, 4, 30, 34, 180,True
+1994, 3, 27,36, Winnipeg Jets, 5, 0, 3, 6, 8, 35, 25, 160,11, New York Rangers, 6, 2, 5, 7, 0, 0, 15, 101,True
+1994, 3, 27,31, Washington Capitals, 4, 0, 2, 4, 2, 22, 28, 168,7, Boston Bruins, 3, 2, 6, 7, 3, 19, 30, 161,False
+1994, 3, 28,45, Florida Panthers, 5, 1, 3, 5, 4, 21, 12, 88,44, Dallas Stars, 6, 0, 2, 2, 4, 29, 6, 54,False
+1994, 3, 28,1, Montreal Canadiens, 7, 1, 2, 3, 0, 3, 25, 158,0, Ottawa Senators, 2, 1, 1, 2, 5, 41, 21, 103,True
+1994, 3, 28,26, Vancouver Canucks, 5, 1, 4, 5, 5, 16, 24, 105,13, Toronto Maple Leafs, 6, 1, 6, 9, 3, 21, 28, 211,True
+1994, 3, 29,17, Detroit Red Wings, 5, 1, 3, 6, 1, 25, 37, 246,38, Hartford Whalers, 2, 1, 2, 2, 3, 33, 35, 253,True
+1994, 3, 29,40, New Jersey Devils, 9, 1, 6, 9, 2, 23, 20, 143,1, Montreal Canadiens, 7, 1, 3, 4, 6, 34, 27, 176,True
+1994, 3, 29,21, Philadelphia Flyers, 4, 0, 2, 4, 4, 23, 18, 150,11, New York Rangers, 6, 2, 1, 2, 2, 32, 19, 119,False
+1994, 3, 29,42, San Jose Sharks, 5, 2, 4, 5, 3, 27, 26, 188,36, Winnipeg Jets, 5, 0, 3, 4, 7, 37, 19, 164,True
+1994, 3, 29,31, Washington Capitals, 4, 1, 4, 5, 5, 22, 31, 168,29, New York Islanders, 4, 1, 1, 2, 4, 35, 32, 231,False
+1994, 3, 30,28, Buffalo Sabres, 8, 0, 4, 6, 3, 18, 27, 161,43, Tampa Bay Lightning, 2, 2, 2, 5, 5, 32, 19, 150,False
+1994, 3, 30,45, Florida Panthers, 4, 0, 4, 7, 5, 21, 13, 88,23, St. Louis Blues, 4, 1, 3, 7, 4, 22, 19, 152,False
+1994, 3, 30,38, Hartford Whalers, 1, 1, 2, 4, 5, 12, 33, 217,41, Chicago Blackhawks, 4, 1, 1, 2, 3, 31, 21, 157,True
+1994, 3, 30,25, Los Angeles Kings, 5, 1, 3, 6, 3, 27, 34, 193,46, Mighty Ducks of Anaheim, 4, 1, 3, 4, 2, 31, 8, 88,False
+1994, 3, 30,0, Ottawa Senators, 2, 1, 2, 3, 3, 33, 19, 95,37, Quebec Nordiques, 5, 1, 2, 2, 3, 6, 38, 218,True
+1994, 3, 30,26, Vancouver Canucks, 5, 0, 3, 5, 2, 29, 21, 118,22, Pittsburgh Penguins, 6, 2, 4, 7, 4, 32, 22, 193,False
+1994, 3, 31,7, Boston Bruins, 3, 1, 6, 7, 4, 29, 31, 173,44, Dallas Stars, 7, 0, 4, 6, 4, 31, 6, 56,False
+1994, 3, 31,41, Chicago Blackhawks, 3, 1, 2, 2, 3, 31, 21, 157,31, Washington Capitals, 4, 1, 2, 3, 3, 26, 28, 161,False
+1994, 3, 31,17, Detroit Red Wings, 5, 2, 6, 8, 2, 30, 44, 229,37, Quebec Nordiques, 4, 0, 4, 8, 1, 6, 41, 243,False
+1994, 3, 31,46, Mighty Ducks of Anaheim, 5, 2, 5, 9, 2, 32, 8, 89,35, Edmonton Oilers, 5, 0, 5, 7, 4, 31, 40, 313,False
+1994, 3, 31,21, Philadelphia Flyers, 4, 1, 3, 5, 4, 19, 18, 146,39, Calgary Flames, 6, 1, 5, 9, 3, 31, 27, 216,False
+1994, 3, 31,42, San Jose Sharks, 6, 2, 8, 15, 2, 25, 24, 162,13, Toronto Maple Leafs, 6, 0, 2, 3, 3, 30, 23, 201,True
+1994, 4, 1,28, Buffalo Sabres, 7, 2, 2, 2, 1, 29, 24, 161,7, Boston Bruins, 3, 0, 2, 4, 2, 28, 27, 170,True
+1994, 4, 1,29, New York Islanders, 5, 2, 2, 4, 3, 26, 33, 221,1, Montreal Canadiens, 6, 0, 2, 4, 2, 21, 26, 174,True
+1994, 4, 1,11, New York Rangers, 6, 0, 4, 7, 3, 30, 17, 121,44, Dallas Stars, 7, 1, 2, 2, 2, 29, 4, 54,True
+1994, 4, 1,43, Tampa Bay Lightning, 2, 0, 3, 2, 2, 32, 16, 144,23, St. Louis Blues, 4, 2, 3, 6, 1, 14, 13, 148,True
+1994, 4, 1,26, Vancouver Canucks, 4, 2, 1, 2, 3, 23, 22, 110,36, Winnipeg Jets, 4, 0, 4, 7, 7, 12, 24, 133,True
+1994, 4, 1,31, Washington Capitals, 5, 1, 6, 9, 2, 15, 31, 173,40, New Jersey Devils, 9, 1, 4, 10, 2, 27, 18, 165,True
+1994, 4, 2,17, Detroit Red Wings, 4, 2, 2, 2, 2, 2, 39, 249,39, Calgary Flames, 7, 0, 4, 5, 2, 17, 25, 222,False
+1994, 4, 2,45, Florida Panthers, 4, 2, 1, 2, 1, 33, 10, 92,0, Ottawa Senators, 3, 0, 6, 9, 4, 24, 20, 86,False
+1994, 4, 2,38, Hartford Whalers, 2, 1, 3, 6, 2, 35, 31, 232,21, Philadelphia Flyers, 3, 1, 1, 2, 3, 27, 16, 153,False
+1994, 4, 2,25, Los Angeles Kings, 4, 2, 2, 3, 4, 26, 35, 192,35, Edmonton Oilers, 6, 0, 3, 5, 0, 0, 37, 281,False
+1994, 4, 2,46, Mighty Ducks of Anaheim, 5, 2, 2, 4, 3, 31, 12, 96,13, Toronto Maple Leafs, 5, 0, 3, 5, 2, 22, 24, 189,True
+1994, 4, 2,1, Montreal Canadiens, 5, 0, 2, 4, 5, 32, 30, 179,29, New York Islanders, 6, 2, 5, 10, 2, 25, 33, 213,False
+1994, 4, 2,40, New Jersey Devils, 8, 0, 2, 1, 2, 31, 20, 176,11, New York Rangers, 6, 2, 3, 5, 0, 28, 14, 119,False
+1994, 4, 2,37, Quebec Nordiques, 5, 0, 4, 4, 2, 41, 45, 293,28, Buffalo Sabres, 7, 2, 5, 7, 3, 24, 23, 163,False
+1994, 4, 2,42, San Jose Sharks, 6, 1, 5, 8, 3, 24, 25, 161,26, Vancouver Canucks, 5, 1, 5, 9, 3, 21, 20, 116,True
+1994, 4, 3,41, Chicago Blackhawks, 2, 2, 3, 7, 2, 10, 28, 183,39, Calgary Flames, 7, 0, 3, 6, 1, 37, 26, 237,True
+1994, 4, 3,17, Detroit Red Wings, 4, 2, 3, 6, 3, 31, 40, 275,23, St. Louis Blues, 4, 0, 3, 6, 1, 28, 14, 164,False
+1994, 4, 3,25, Los Angeles Kings, 4, 1, 3, 6, 4, 43, 35, 192,35, Edmonton Oilers, 7, 1, 5, 9, 3, 41, 40, 322,True
+1994, 4, 3,22, Pittsburgh Penguins, 6, 2, 3, 6, 1, 28, 19, 189,7, Boston Bruins, 3, 0, 0, 0, 1, 10, 25, 149,True
+1994, 4, 3,31, Washington Capitals, 6, 0, 2, 3, 1, 27, 30, 185,44, Dallas Stars, 7, 1, 1, 1, 2, 25, 4, 53,False
+1994, 4, 4,11, New York Rangers, 7, 1, 4, 4, 2, 26, 16, 117,45, Florida Panthers, 3, 1, 2, 3, 2, 25, 11, 85,True
+1994, 4, 4,22, Pittsburgh Penguins, 6, 2, 5, 8, 2, 42, 20, 203,43, Tampa Bay Lightning, 3, 0, 4, 7, 2, 26, 17, 141,True
+1994, 4, 4,37, Quebec Nordiques, 4, 0, 2, 5, 6, 31, 49, 279,28, Buffalo Sabres, 7, 2, 4, 9, 2, 34, 23, 184,True
+1994, 4, 4,36, Winnipeg Jets, 4, 1, 1, 1, 5, 41, 22, 164,21, Philadelphia Flyers, 3, 1, 6, 12, 5, 18, 19, 152,False
+1994, 4, 5,44, Dallas Stars, 7, 0, 6, 7, 2, 28, 5, 64,13, Toronto Maple Leafs, 4, 2, 1, 0, 5, 16, 29, 171,False
+1994, 4, 5,25, Los Angeles Kings, 5, 2, 6, 11, 1, 36, 32, 185,42, San Jose Sharks, 7, 0, 7, 13, 4, 33, 26, 170,False
+1994, 4, 5,37, Quebec Nordiques, 4, 1, 6, 9, 4, 28, 47, 276,45, Florida Panthers, 2, 1, 2, 4, 2, 26, 12, 100,False
+1994, 4, 5,23, St. Louis Blues, 5, 2, 3, 2, 3, 50, 18, 202,41, Chicago Blackhawks, 2, 0, 2, 4, 1, 37, 27, 190,True
+1994, 4, 5,26, Vancouver Canucks, 5, 1, 4, 5, 1, 29, 23, 115,17, Detroit Red Wings, 3, 1, 3, 5, 3, 33, 39, 290,False
+1994, 4, 5,31, Washington Capitals, 6, 0, 2, 8, 3, 17, 31, 160,29, New York Islanders, 6, 2, 3, 5, 2, 30, 35, 235,False
+1994, 4, 6,39, Calgary Flames, 7, 1, 0, 2, 2, 32, 27, 232,46, Mighty Ducks of Anaheim, 6, 1, 3, 3, 1, 28, 10, 93,True
+1994, 4, 6,38, Hartford Whalers, 2, 2, 5, 8, 6, 32, 38, 228,29, New York Islanders, 6, 0, 4, 7, 3, 33, 36, 232,False
+1994, 4, 6,1, Montreal Canadiens, 5, 1, 3, 6, 3, 29, 27, 155,43, Tampa Bay Lightning, 3, 1, 1, 1, 0, 14, 14, 108,False
+1994, 4, 6,0, Ottawa Senators, 4, 0, 2, 5, 2, 34, 18, 96,31, Washington Capitals, 5, 2, 4, 3, 2, 16, 32, 170,True
+1994, 4, 6,22, Pittsburgh Penguins, 7, 0, 3, 7, 1, 27, 18, 186,40, New Jersey Devils, 7, 2, 2, 5, 4, 19, 20, 140,True
+1994, 4, 6,36, Winnipeg Jets, 4, 0, 2, 3, 2, 8, 23, 156,35, Edmonton Oilers, 7, 2, 1, 2, 3, 17, 45, 268,False
+1994, 4, 7,7, Boston Bruins, 3, 2, 2, 4, 3, 11, 29, 165,0, Ottawa Senators, 5, 0, 6, 9, 5, 17, 21, 88,True
+1994, 4, 7,21, Philadelphia Flyers, 4, 1, 2, 4, 2, 24, 16, 154,45, Florida Panthers, 3, 1, 3, 5, 3, 40, 13, 114,False
+1994, 4, 7,37, Quebec Nordiques, 3, 1, 3, 6, 3, 26, 46, 270,38, Hartford Whalers, 2, 1, 3, 6, 1, 20, 35, 239,True
+1994, 4, 7,23, St. Louis Blues, 6, 1, 5, 7, 1, 40, 18, 208,25, Los Angeles Kings, 4, 1, 1, 2, 4, 26, 33, 173,True
+1994, 4, 7,26, Vancouver Canucks, 4, 0, 3, 5, 6, 20, 30, 122,42, San Jose Sharks, 8, 2, 2, 4, 1, 23, 23, 160,True
+1994, 4, 8,28, Buffalo Sabres, 6, 2, 4, 7, 2, 14, 27, 146,1, Montreal Canadiens, 4, 0, 1, 4, 3, 30, 27, 156,True
+1994, 4, 8,39, Calgary Flames, 7, 1, 3, 5, 3, 32, 30, 219,42, San Jose Sharks, 8, 1, 3, 4, 2, 7, 25, 161,True
+1994, 4, 8,41, Chicago Blackhawks, 2, 0, 1, 2, 5, 31, 31, 229,23, St. Louis Blues, 7, 2, 5, 11, 4, 33, 19, 205,True
+1994, 4, 8,35, Edmonton Oilers, 7, 1, 4, 8, 3, 35, 45, 286,46, Mighty Ducks of Anaheim, 6, 1, 2, 4, 3, 44, 12, 109,False
+1994, 4, 8,40, New Jersey Devils, 7, 1, 1, 2, 3, 24, 17, 123,22, Pittsburgh Penguins, 7, 1, 1, 5, 1, 16, 18, 175,True
+1994, 4, 8,29, New York Islanders, 6, 1, 3, 5, 3, 29, 36, 228,44, Dallas Stars, 7, 0, 4, 7, 5, 35, 8, 71,True
+1994, 4, 8,11, New York Rangers, 8, 1, 3, 4, 2, 31, 17, 120,13, Toronto Maple Leafs, 4, 1, 6, 11, 4, 33, 31, 195,True
+1994, 4, 9,7, Boston Bruins, 4, 2, 5, 9, 3, 26, 30, 175,43, Tampa Bay Lightning, 3, 0, 3, 6, 1, 24, 15, 118,False
+1994, 4, 9,39, Calgary Flames, 7, 1, 5, 9, 2, 22, 29, 209,17, Detroit Red Wings, 4, 1, 8, 14, 3, 28, 36, 277,True
+1994, 4, 9,1, Montreal Canadiens, 3, 2, 0, 0, 1, 28, 25, 154,22, Pittsburgh Penguins, 6, 0, 4, 5, 6, 22, 23, 200,True
+1994, 4, 9,26, Vancouver Canucks, 5, 1, 3, 4, 8, 36, 26, 126,46, Mighty Ducks of Anaheim, 6, 1, 3, 6, 4, 36, 10, 104,False
+1994, 4, 9,36, Winnipeg Jets, 4, 2, 3, 6, 2, 38, 27, 182,25, Los Angeles Kings, 4, 0, 2, 3, 6, 32, 35, 179,True
+1994, 4, 9,31, Washington Capitals, 5, 1, 5, 9, 6, 18, 38, 173,0, Ottawa Senators, 5, 1, 4, 6, 3, 4, 16, 81,True
+1994, 4, 10,28, Buffalo Sabres, 7, 1, 1, 2, 0, 31, 25, 163,37, Quebec Nordiques, 4, 1, 5, 7, 2, 29, 43, 276,True
+1994, 4, 10,41, Chicago Blackhawks, 3, 1, 6, 9, 1, 33, 28, 222,25, Los Angeles Kings, 3, 1, 3, 5, 2, 5, 31, 148,True
+1994, 4, 10,35, Edmonton Oilers, 6, 1, 1, 1, 3, 28, 45, 279,17, Detroit Red Wings, 4, 1, 2, 3, 3, 26, 38, 289,True
+1994, 4, 10,45, Florida Panthers, 3, 0, 3, 4, 3, 40, 13, 97,40, New Jersey Devils, 7, 2, 7, 13, 2, 32, 17, 144,False
+1994, 4, 10,38, Hartford Whalers, 2, 1, 2, 3, 4, 27, 34, 250,43, Tampa Bay Lightning, 4, 1, 3, 5, 0, 32, 14, 126,True
+1994, 4, 10,29, New York Islanders, 7, 1, 5, 9, 1, 32, 33, 224,11, New York Rangers, 8, 1, 5, 7, 3, 18, 18, 126,True
+1994, 4, 10,21, Philadelphia Flyers, 4, 1, 3, 5, 3, 42, 18, 170,7, Boston Bruins, 4, 1, 0, 0, 0, 20, 26, 158,False
+1994, 4, 10,42, San Jose Sharks, 8, 1, 2, 3, 3, 24, 27, 189,26, Vancouver Canucks, 5, 1, 1, 1, 2, 34, 20, 124,True
+1994, 4, 10,23, St. Louis Blues, 6, 1, 2, 2, 2, 37, 19, 202,44, Dallas Stars, 6, 1, 1, 2, 3, 36, 8, 68,False
+1994, 4, 10,13, Toronto Maple Leafs, 4, 2, 3, 6, 4, 31, 26, 193,36, Winnipeg Jets, 5, 0, 4, 8, 3, 46, 27, 204,True
+1994, 4, 11,38, Hartford Whalers, 3, 0, 6, 10, 3, 5, 31, 224,1, Montreal Canadiens, 3, 2, 9, 15, 1, 25, 25, 151,False
+1994, 4, 11,46, Mighty Ducks of Anaheim, 6, 0, 3, 5, 1, 33, 7, 101,39, Calgary Flames, 7, 2, 3, 6, 2, 12, 26, 225,False
+1994, 4, 11,0, Ottawa Senators, 5, 0, 4, 5, 4, 17, 19, 72,22, Pittsburgh Penguins, 5, 2, 1, 2, 7, 22, 31, 194,False
+1994, 4, 12,44, Dallas Stars, 6, 1, 2, 4, 5, 32, 7, 63,23, St. Louis Blues, 6, 1, 2, 4, 2, 31, 19, 196,True
+1994, 4, 12,45, Florida Panthers, 3, 1, 2, 4, 3, 23, 12, 90,37, Quebec Nordiques, 4, 1, 1, 1, 4, 28, 48, 270,False
+1994, 4, 12,11, New York Rangers, 8, 1, 4, 8, 3, 37, 20, 119,28, Buffalo Sabres, 7, 1, 4, 6, 1, 22, 25, 149,True
+1994, 4, 12,21, Philadelphia Flyers, 4, 0, 3, 6, 0, 8, 17, 139,40, New Jersey Devils, 7, 2, 2, 4, 0, 4, 17, 178,True
+1994, 4, 12,13, Toronto Maple Leafs, 4, 0, 7, 10, 0, 19, 22, 181,41, Chicago Blackhawks, 3, 2, 2, 2, 1, 29, 30, 236,False
+1994, 4, 12,31, Washington Capitals, 5, 1, 8, 9, 4, 27, 33, 150,36, Winnipeg Jets, 4, 1, 0, 0, 5, 26, 24, 139,True
+1994, 4, 13,17, Detroit Red Wings, 3, 0, 2, 5, 4, 39, 43, 299,1, Montreal Canadiens, 4, 2, 3, 5, 5, 29, 25, 149,True
+1994, 4, 13,25, Los Angeles Kings, 2, 0, 1, 2, 2, 20, 31, 178,39, Calgary Flames, 8, 2, 4, 6, 0, 27, 24, 240,True
+1994, 4, 13,46, Mighty Ducks of Anaheim, 6, 2, 0, 0, 1, 39, 10, 92,26, Vancouver Canucks, 4, 0, 1, 3, 2, 24, 21, 121,False
+1994, 4, 13,0, Ottawa Senators, 4, 0, 0, 1, 4, 46, 19, 101,7, Boston Bruins, 5, 2, 4, 7, 3, 27, 29, 160,False
+1994, 4, 13,42, San Jose Sharks, 8, 2, 3, 7, 1, 39, 25, 204,35, Edmonton Oilers, 6, 0, 4, 6, 3, 44, 46, 291,False
+1994, 4, 13,43, Tampa Bay Lightning, 4, 0, 4, 7, 2, 26, 20, 119,29, New York Islanders, 8, 2, 5, 10, 4, 27, 38, 199,False
+1994, 4, 14,7, Boston Bruins, 6, 2, 6, 14, 0, 19, 26, 152,38, Hartford Whalers, 2, 0, 1, 4, 3, 33, 30, 259,False
+1994, 4, 14,28, Buffalo Sabres, 6, 2, 2, 2, 4, 13, 27, 158,31, Washington Capitals, 5, 0, 4, 11, 2, 4, 32, 153,False
+1994, 4, 14,41, Chicago Blackhawks, 4, 2, 4, 6, 3, 32, 32, 239,13, Toronto Maple Leafs, 4, 0, 3, 3, 1, 10, 25, 190,False
+1994, 4, 14,44, Dallas Stars, 6, 0, 9, 16, 2, 31, 7, 58,17, Detroit Red Wings, 4, 2, 7, 13, 0, 24, 39, 286,True
+1994, 4, 14,45, Florida Panthers, 3, 2, 1, 3, 3, 12, 12, 55,29, New York Islanders, 8, 0, 0, 2, 3, 27, 34, 202,True
+1994, 4, 14,25, Los Angeles Kings, 3, 1, 6, 11, 2, 35, 33, 200,35, Edmonton Oilers, 6, 1, 2, 2, 2, 19, 44, 280,False
+1994, 4, 14,40, New Jersey Devils, 6, 2, 2, 5, 2, 47, 20, 180,0, Ottawa Senators, 4, 0, 0, 0, 4, 22, 19, 76,True
+1994, 4, 14,11, New York Rangers, 8, 2, 3, 6, 2, 26, 17, 122,21, Philadelphia Flyers, 4, 0, 4, 7, 2, 29, 15, 163,False
+1994, 4, 14,23, St. Louis Blues, 5, 1, 5, 8, 6, 26, 21, 157,36, Winnipeg Jets, 3, 1, 3, 5, 4, 36, 23, 148,True
+1994, 4, 14,43, Tampa Bay Lightning, 4, 2, 0, 0, 2, 17, 20, 110,37, Quebec Nordiques, 4, 0, 5, 7, 6, 27, 43, 266,True

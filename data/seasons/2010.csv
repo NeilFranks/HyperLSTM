@@ -1,0 +1,1231 @@
+Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
+2009, 10, 1,0, Boston Bruins, 8, 1, 6, 15, 2, 34, 10, 135,21, Washington Capitals, 6, 1, 4, 6, 6, 41, 15, 165,False
+2009, 10, 1,20, Calgary Flames, 4, 0, 2, 2, 3, 31, 7, 98,19, Vancouver Canucks, 6, 2, 1, 3, 0, 22, 5, 97,True
+2009, 10, 1,23, Colorado Avalanche, 1, 0, 0, 0, 3, 32, 6, 112,11, San Jose Sharks, 5, 2, 3, 5, 4, 24, 12, 74,True
+2009, 10, 1,29, Toronto Maple Leafs, 5, 1, 2, 8, 3, 52, 19, 195,16, Montreal Canadiens, 5, 1, 2, 5, 3, 41, 9, 94,False
+2009, 10, 2,13, Carolina Hurricanes, 8, 0, 0, 5, 4, 13, 10, 72,17, Philadelphia Flyers, 4, 2, 4, 2, 4, 18, 11, 87,False
+2009, 10, 2,2, Chicago Blackhawks, 7, 1, 3, 5, 2, 23, 14, 140,12, Florida Panthers, 6, 1, 7, 13, 4, 41, 6, 81,False
+2009, 10, 2,8, Detroit Red Wings, 3, 1, 0, 0, 3, 23, 11, 104,26, St. Louis Blues, 8, 1, 1, 2, 0, 28, 5, 87,False
+2009, 10, 2,27, Pittsburgh Penguins, 7, 2, 2, 6, 1, 30, 11, 135,24, New York Rangers, 5, 0, 5, 5, 3, 31, 7, 61,True
+2009, 10, 3,30, Anaheim Ducks, 7, 1, 5, 7, 4, 24, 8, 68,11, San Jose Sharks, 5, 1, 2, 3, 5, 20, 13, 70,False
+2009, 10, 3,6, Atlanta Thrashers, 6, 2, 2, 10, 4, 26, 9, 92,28, Tampa Bay Lightning, 1, 0, 3, 2, 6, 30, 16, 120,True
+2009, 10, 3,0, Boston Bruins, 7, 2, 1, 2, 4, 34, 12, 135,13, Carolina Hurricanes, 7, 0, 0, 0, 2, 27, 8, 86,True
+2009, 10, 3,18, Buffalo Sabres, 7, 2, 5, 7, 1, 27, 6, 98,16, Montreal Canadiens, 5, 0, 5, 8, 3, 46, 10, 100,False
+2009, 10, 3,7, Columbus Blue Jackets, 3, 1, 3, 2, 5, 27, 17, 134,3, Minnesota Wild, 6, 1, 1, 11, 4, 35, 7, 63,True
+2009, 10, 3,23, Colorado Avalanche, 2, 1, 5, 10, 2, 40, 5, 120,19, Vancouver Canucks, 6, 1, 3, 5, 4, 22, 9, 97,True
+2009, 10, 3,4, Dallas Stars, 3, 1, 5, 7, 3, 39, 22, 159,14, Nashville Predators, 5, 1, 4, 7, 4, 32, 13, 101,False
+2009, 10, 3,10, Edmonton Oilers, 3, 1, 1, 1, 0, 37, 7, 140,20, Calgary Flames, 5, 1, 5, 8, 3, 42, 7, 109,False
+2009, 10, 3,12, Florida Panthers, 7, 1, 3, 5, 3, 55, 3, 90,2, Chicago Blackhawks, 6, 1, 3, 5, 5, 29, 19, 125,False
+2009, 10, 3,9, Los Angeles Kings, 4, 1, 3, 5, 3, 30, 19, 160,25, Phoenix Coyotes, 6, 1, 1, 8, 4, 35, 16, 212,False
+2009, 10, 3,1, New Jersey Devils, 4, 1, 3, 5, 2, 25, 7, 75,17, Philadelphia Flyers, 5, 1, 2, 4, 0, 28, 7, 97,False
+2009, 10, 3,22, New York Islanders, 2, 0, 1, 7, 2, 29, 21, 162,27, Pittsburgh Penguins, 7, 2, 3, 6, 2, 27, 12, 132,False
+2009, 10, 3,24, New York Rangers, 5, 1, 2, 3, 3, 31, 7, 61,15, Ottawa Senators, 4, 1, 2, 2, 5, 17, 15, 143,True
+2009, 10, 3,26, St. Louis Blues, 8, 2, 4, 6, 3, 25, 11, 118,8, Detroit Red Wings, 3, 0, 3, 4, 4, 28, 12, 104,True
+2009, 10, 3,21, Washington Capitals, 6, 0, 4, 8, 2, 31, 11, 145,29, Toronto Maple Leafs, 4, 2, 3, 6, 4, 27, 20, 170,True
+2009, 10, 5,1, New Jersey Devils, 4, 1, 2, 3, 5, 27, 10, 77,24, New York Rangers, 5, 1, 5, 8, 2, 34, 6, 64,False
+2009, 10, 5,19, Vancouver Canucks, 5, 1, 0, 0, 3, 27, 8, 102,7, Columbus Blue Jackets, 4, 1, 2, 4, 1, 33, 12, 156,False
+2009, 10, 6,13, Carolina Hurricanes, 6, 2, 2, 2, 4, 28, 10, 66,28, Tampa Bay Lightning, 0, 0, 3, 6, 6, 28, 16, 118,True
+2009, 10, 6,20, Calgary Flames, 6, 1, 4, 7, 3, 34, 7, 101,16, Montreal Canadiens, 5, 1, 2, 3, 3, 23, 8, 89,True
+2009, 10, 6,10, Edmonton Oilers, 3, 1, 3, 4, 4, 21, 12, 137,4, Dallas Stars, 3, 1, 2, 2, 2, 26, 16, 146,True
+2009, 10, 6,9, Los Angeles Kings, 4, 1, 4, 6, 6, 30, 22, 160,11, San Jose Sharks, 6, 1, 4, 5, 1, 25, 9, 75,True
+2009, 10, 6,3, Minnesota Wild, 6, 2, 1, 2, 2, 39, 5, 67,30, Anaheim Ducks, 6, 0, 1, 2, 0, 9, 7, 79,True
+2009, 10, 6,17, Philadelphia Flyers, 5, 1, 5, 9, 2, 26, 9, 95,21, Washington Capitals, 7, 1, 6, 11, 4, 31, 13, 145,True
+2009, 10, 6,29, Toronto Maple Leafs, 3, 1, 4, 6, 3, 19, 22, 165,15, Ottawa Senators, 4, 1, 2, 3, 4, 33, 17, 169,False
+2009, 10, 7,27, Pittsburgh Penguins, 8, 1, 3, 5, 4, 38, 17, 179,25, Phoenix Coyotes, 7, 1, 6, 6, 3, 33, 15, 210,False
+2009, 10, 7,19, Vancouver Canucks, 4, 1, 3, 6, 4, 12, 10, 99,16, Montreal Canadiens, 5, 1, 3, 5, 1, 35, 9, 94,True
+2009, 10, 8,0, Boston Bruins, 7, 1, 7, 12, 2, 27, 10, 128,30, Anaheim Ducks, 5, 1, 3, 6, 4, 37, 8, 93,False
+2009, 10, 8,18, Buffalo Sabres, 6, 2, 1, 2, 2, 17, 7, 88,25, Phoenix Coyotes, 7, 0, 3, 5, 1, 23, 13, 224,True
+2009, 10, 8,8, Detroit Red Wings, 2, 0, 3, 6, 4, 23, 13, 116,2, Chicago Blackhawks, 7, 2, 4, 7, 3, 24, 14, 132,True
+2009, 10, 8,10, Edmonton Oilers, 4, 0, 4, 6, 4, 34, 12, 150,20, Calgary Flames, 6, 2, 4, 6, 3, 30, 7, 97,False
+2009, 10, 8,9, Los Angeles Kings, 4, 2, 6, 11, 4, 29, 21, 175,3, Minnesota Wild, 6, 0, 4, 8, 3, 28, 6, 47,True
+2009, 10, 8,14, Nashville Predators, 6, 0, 2, 2, 2, 40, 11, 109,23, Colorado Avalanche, 3, 2, 3, 5, 0, 35, 4, 106,True
+2009, 10, 8,15, Ottawa Senators, 5, 1, 2, 2, 1, 27, 14, 163,22, New York Islanders, 2, 1, 4, 7, 4, 31, 26, 206,True
+2009, 10, 8,17, Philadelphia Flyers, 6, 1, 6, 12, 5, 36, 11, 102,27, Pittsburgh Penguins, 7, 1, 0, 0, 3, 28, 15, 165,False
+2009, 10, 8,11, San Jose Sharks, 5, 0, 4, 8, 4, 20, 10, 59,7, Columbus Blue Jackets, 4, 2, 6, 9, 3, 43, 12, 158,True
+2009, 10, 8,26, St. Louis Blues, 8, 1, 5, 10, 3, 34, 11, 126,6, Atlanta Thrashers, 6, 1, 8, 11, 3, 39, 8, 105,False
+2009, 10, 8,28, Tampa Bay Lightning, 0, 0, 1, 2, 1, 28, 11, 118,1, New Jersey Devils, 4, 2, 2, 4, 3, 26, 8, 76,False
+2009, 10, 8,21, Washington Capitals, 7, 1, 5, 10, 2, 16, 12, 120,24, New York Rangers, 6, 1, 3, 6, 2, 27, 6, 57,False
+2009, 10, 9,13, Carolina Hurricanes, 6, 1, 1, 1, 1, 30, 7, 68,12, Florida Panthers, 7, 1, 0, 0, 4, 33, 7, 70,True
+2009, 10, 9,20, Calgary Flames, 7, 2, 3, 6, 1, 36, 7, 95,4, Dallas Stars, 3, 0, 4, 6, 2, 32, 22, 182,False
+2009, 10, 10,0, Boston Bruins, 6, 2, 1, 2, 0, 35, 14, 122,22, New York Islanders, 1, 0, 2, 3, 3, 42, 25, 203,True
+2009, 10, 10,2, Chicago Blackhawks, 7, 0, 2, 5, 3, 23, 13, 125,23, Colorado Avalanche, 3, 2, 2, 4, 3, 37, 9, 121,True
+2009, 10, 10,8, Detroit Red Wings, 3, 1, 2, 5, 2, 34, 11, 127,21, Washington Capitals, 6, 1, 3, 4, 4, 29, 14, 129,True
+2009, 10, 10,10, Edmonton Oilers, 3, 1, 3, 6, 3, 28, 11, 111,16, Montreal Canadiens, 4, 1, 1, 2, 7, 32, 11, 61,True
+2009, 10, 10,12, Florida Panthers, 6, 1, 2, 4, 5, 26, 10, 59,1, New Jersey Devils, 5, 1, 3, 6, 3, 44, 8, 94,False
+2009, 10, 10,14, Nashville Predators, 6, 1, 3, 6, 6, 35, 11, 80,18, Buffalo Sabres, 6, 1, 2, 3, 1, 24, 6, 95,False
+2009, 10, 10,15, Ottawa Senators, 5, 1, 3, 6, 4, 29, 15, 141,6, Atlanta Thrashers, 7, 1, 4, 8, 2, 31, 7, 97,True
+2009, 10, 10,17, Philadelphia Flyers, 6, 2, 4, 8, 5, 25, 11, 91,30, Anaheim Ducks, 6, 0, 6, 8, 1, 34, 5, 90,False
+2009, 10, 10,25, Phoenix Coyotes, 7, 2, 1, 2, 0, 24, 14, 231,7, Columbus Blue Jackets, 4, 0, 3, 6, 1, 8, 15, 143,False
+2009, 10, 10,11, San Jose Sharks, 5, 1, 6, 9, 3, 27, 9, 66,3, Minnesota Wild, 6, 1, 3, 6, 3, 19, 9, 42,True
+2009, 10, 10,26, St. Louis Blues, 7, 1, 2, 3, 3, 21, 11, 113,9, Los Angeles Kings, 5, 1, 6, 12, 3, 29, 20, 175,False
+2009, 10, 10,28, Tampa Bay Lightning, 0, 0, 3, 6, 3, 38, 16, 162,13, Carolina Hurricanes, 6, 2, 7, 10, 2, 27, 8, 65,True
+2009, 10, 10,29, Toronto Maple Leafs, 3, 2, 1, 3, 3, 8, 21, 174,27, Pittsburgh Penguins, 7, 0, 5, 6, 4, 34, 15, 178,False
+2009, 10, 11,24, New York Rangers, 7, 2, 5, 5, 4, 30, 7, 58,30, Anaheim Ducks, 6, 0, 2, 4, 4, 32, 7, 85,True
+2009, 10, 11,19, Vancouver Canucks, 4, 2, 7, 9, 1, 28, 8, 131,4, Dallas Stars, 4, 0, 5, 9, 4, 24, 22, 173,True
+2009, 10, 12,0, Boston Bruins, 6, 1, 3, 6, 3, 38, 17, 125,23, Colorado Avalanche, 3, 0, 3, 5, 3, 26, 8, 118,False
+2009, 10, 12,2, Chicago Blackhawks, 7, 2, 3, 6, 3, 19, 12, 128,20, Calgary Flames, 6, 0, 2, 3, 3, 28, 10, 88,True
+2009, 10, 12,14, Nashville Predators, 5, 2, 0, 0, 1, 42, 5, 92,10, Edmonton Oilers, 4, 0, 3, 5, 4, 45, 9, 146,False
+2009, 10, 12,22, New York Islanders, 1, 0, 3, 6, 3, 28, 25, 191,9, Los Angeles Kings, 6, 2, 2, 4, 1, 30, 18, 176,False
+2009, 10, 12,24, New York Rangers, 7, 0, 3, 4, 3, 28, 3, 46,29, Toronto Maple Leafs, 3, 2, 2, 4, 5, 33, 23, 199,True
+2009, 10, 12,15, Ottawa Senators, 6, 2, 4, 7, 2, 25, 10, 148,27, Pittsburgh Penguins, 7, 0, 5, 8, 2, 20, 13, 164,False
+2009, 10, 12,11, San Jose Sharks, 5, 1, 4, 8, 2, 40, 8, 79,25, Phoenix Coyotes, 6, 1, 0, 0, 1, 18, 15, 225,False
+2009, 10, 12,28, Tampa Bay Lightning, 1, 1, 5, 8, 2, 26, 15, 150,12, Florida Panthers, 5, 1, 2, 4, 3, 41, 8, 80,True
+2009, 10, 12,21, Washington Capitals, 5, 1, 2, 3, 3, 37, 13, 123,1, New Jersey Devils, 6, 1, 3, 6, 2, 21, 7, 71,False
+2009, 10, 13,18, Buffalo Sabres, 6, 0, 1, 2, 0, 25, 5, 96,8, Detroit Red Wings, 4, 2, 3, 6, 2, 24, 11, 117,True
+2009, 10, 13,7, Columbus Blue Jackets, 5, 1, 2, 4, 5, 20, 16, 174,20, Calgary Flames, 6, 1, 5, 8, 6, 39, 13, 99,True
+2009, 10, 13,29, Toronto Maple Leafs, 2, 1, 2, 4, 2, 18, 27, 217,23, Colorado Avalanche, 4, 0, 4, 7, 3, 32, 7, 116,False
+2009, 10, 14,30, Anaheim Ducks, 5, 0, 0, 0, 2, 35, 4, 98,3, Minnesota Wild, 5, 2, 2, 3, 4, 29, 10, 52,True
+2009, 10, 14,13, Carolina Hurricanes, 5, 2, 2, 4, 4, 38, 10, 76,27, Pittsburgh Penguins, 8, 0, 4, 7, 1, 31, 12, 175,False
+2009, 10, 14,2, Chicago Blackhawks, 7, 1, 6, 9, 2, 15, 14, 106,10, Edmonton Oilers, 5, 1, 6, 11, 2, 35, 6, 142,True
+2009, 10, 14,4, Dallas Stars, 4, 1, 3, 7, 3, 25, 21, 174,14, Nashville Predators, 4, 1, 1, 2, 2, 11, 8, 46,True
+2009, 10, 14,24, New York Rangers, 8, 1, 7, 13, 2, 29, 2, 47,9, Los Angeles Kings, 7, 1, 2, 4, 4, 38, 18, 175,True
+2009, 10, 15,8, Detroit Red Wings, 4, 2, 2, 5, 5, 22, 10, 98,9, Los Angeles Kings, 6, 0, 2, 4, 1, 29, 18, 158,True
+2009, 10, 15,16, Montreal Canadiens, 3, 1, 2, 2, 3, 19, 7, 34,23, Colorado Avalanche, 4, 0, 3, 7, 1, 31, 5, 115,False
+2009, 10, 15,14, Nashville Predators, 4, 0, 0, 1, 3, 23, 8, 52,2, Chicago Blackhawks, 7, 2, 4, 8, 3, 5, 17, 113,False
+2009, 10, 15,15, Ottawa Senators, 6, 2, 1, 2, 4, 28, 12, 151,28, Tampa Bay Lightning, 2, 0, 3, 5, 3, 34, 15, 157,True
+2009, 10, 15,25, Phoenix Coyotes, 6, 0, 0, 1, 0, 26, 14, 233,26, St. Louis Blues, 6, 2, 1, 2, 2, 26, 10, 118,True
+2009, 10, 15,21, Washington Capitals, 5, 0, 2, 3, 2, 29, 10, 123,11, San Jose Sharks, 5, 1, 0, 0, 0, 30, 6, 69,True
+2009, 10, 16,18, Buffalo Sabres, 7, 1, 5, 9, 2, 25, 7, 96,22, New York Islanders, 1, 1, 1, 2, 3, 30, 26, 195,True
+2009, 10, 16,20, Calgary Flames, 5, 1, 1, 2, 2, 33, 9, 93,19, Vancouver Canucks, 5, 1, 3, 6, 3, 35, 10, 138,True
+2009, 10, 16,4, Dallas Stars, 4, 1, 6, 11, 0, 29, 22, 179,0, Boston Bruins, 5, 1, 3, 6, 6, 30, 18, 109,False
+2009, 10, 16,10, Edmonton Oilers, 5, 0, 3, 6, 4, 38, 9, 127,3, Minnesota Wild, 5, 2, 2, 2, 6, 23, 9, 58,True
+2009, 10, 16,12, Florida Panthers, 4, 1, 2, 3, 4, 38, 11, 107,17, Philadelphia Flyers, 5, 1, 2, 4, 2, 33, 6, 88,True
+2009, 10, 16,1, New Jersey Devils, 7, 1, 2, 4, 2, 33, 5, 72,6, Atlanta Thrashers, 6, 1, 2, 3, 4, 34, 9, 100,False
+2009, 10, 17,30, Anaheim Ducks, 5, 2, 3, 3, 2, 34, 6, 95,26, St. Louis Blues, 6, 0, 2, 2, 3, 33, 11, 126,False
+2009, 10, 17,18, Buffalo Sabres, 7, 0, 6, 9, 4, 19, 8, 110,6, Atlanta Thrashers, 6, 2, 4, 7, 3, 31, 7, 96,False
+2009, 10, 17,7, Columbus Blue Jackets, 5, 2, 2, 5, 1, 23, 9, 166,9, Los Angeles Kings, 6, 0, 2, 4, 4, 31, 21, 160,True
+2009, 10, 17,2, Chicago Blackhawks, 7, 2, 3, 6, 1, 13, 13, 122,4, Dallas Stars, 4, 0, 0, 0, 2, 23, 25, 179,False
+2009, 10, 17,8, Detroit Red Wings, 4, 1, 5, 7, 2, 26, 4, 95,23, Colorado Avalanche, 5, 1, 3, 5, 2, 31, 4, 92,False
+2009, 10, 17,16, Montreal Canadiens, 2, 0, 2, 4, 3, 23, 8, 58,15, Ottawa Senators, 6, 2, 7, 12, 1, 17, 11, 143,False
+2009, 10, 17,1, New Jersey Devils, 6, 1, 2, 4, 4, 19, 7, 58,13, Carolina Hurricanes, 4, 1, 2, 5, 2, 38, 8, 76,True
+2009, 10, 17,22, New York Islanders, 1, 1, 3, 5, 2, 22, 27, 177,11, San Jose Sharks, 4, 1, 1, 2, 4, 36, 10, 75,False
+2009, 10, 17,25, Phoenix Coyotes, 6, 1, 3, 6, 2, 24, 17, 240,0, Boston Bruins, 5, 1, 3, 6, 0, 27, 13, 115,True
+2009, 10, 17,27, Pittsburgh Penguins, 9, 2, 2, 4, 2, 29, 10, 166,28, Tampa Bay Lightning, 2, 0, 1, 3, 2, 33, 19, 158,True
+2009, 10, 17,29, Toronto Maple Leafs, 2, 1, 1, 1, 4, 28, 26, 209,24, New York Rangers, 9, 1, 4, 8, 2, 36, 2, 54,False
+2009, 10, 17,19, Vancouver Canucks, 5, 2, 3, 6, 5, 19, 11, 115,3, Minnesota Wild, 4, 0, 2, 4, 3, 35, 8, 54,True
+2009, 10, 17,21, Washington Capitals, 5, 2, 4, 7, 0, 15, 8, 109,14, Nashville Predators, 4, 0, 1, 2, 3, 3, 9, 67,True
+2009, 10, 19,4, Dallas Stars, 4, 1, 4, 7, 3, 29, 26, 188,9, Los Angeles Kings, 5, 1, 1, 2, 3, 23, 20, 152,False
+2009, 10, 19,10, Edmonton Oilers, 5, 1, 3, 10, 2, 31, 7, 120,19, Vancouver Canucks, 6, 1, 2, 3, 1, 18, 7, 114,True
+2009, 10, 19,24, New York Rangers, 9, 1, 4, 6, 0, 18, 1, 53,11, San Jose Sharks, 4, 1, 4, 6, 1, 32, 7, 71,False
+2009, 10, 20,20, Calgary Flames, 6, 0, 5, 9, 3, 29, 10, 89,7, Columbus Blue Jackets, 6, 2, 4, 4, 1, 28, 9, 182,True
+2009, 10, 20,16, Montreal Canadiens, 2, 1, 2, 2, 0, 3, 8, 56,6, Atlanta Thrashers, 6, 1, 4, 7, 2, 30, 6, 107,True
+2009, 10, 20,27, Pittsburgh Penguins, 9, 1, 4, 7, 1, 23, 9, 160,26, St. Louis Blues, 6, 0, 5, 9, 3, 34, 8, 119,True
+2009, 10, 21,30, Anaheim Ducks, 4, 1, 0, 0, 3, 12, 6, 55,4, Dallas Stars, 4, 1, 1, 2, 3, 31, 26, 190,False
+2009, 10, 21,0, Boston Bruins, 5, 1, 1, 3, 4, 36, 17, 124,14, Nashville Predators, 3, 1, 2, 2, 2, 35, 9, 100,True
+2009, 10, 21,2, Chicago Blackhawks, 7, 0, 3, 3, 3, 19, 15, 143,19, Vancouver Canucks, 5, 2, 1, 1, 2, 29, 8, 125,False
+2009, 10, 21,12, Florida Panthers, 5, 0, 4, 7, 2, 27, 10, 96,18, Buffalo Sabres, 7, 2, 4, 5, 3, 39, 8, 118,False
+2009, 10, 21,3, Minnesota Wild, 4, 1, 1, 2, 2, 39, 7, 58,23, Colorado Avalanche, 6, 1, 3, 4, 3, 31, 5, 92,True
+2009, 10, 21,22, New York Islanders, 0, 0, 1, 2, 4, 12, 29, 184,13, Carolina Hurricanes, 3, 2, 0, 0, 1, 28, 7, 66,True
+2009, 10, 22,6, Atlanta Thrashers, 5, 0, 1, 3, 1, 35, 5, 112,21, Washington Capitals, 5, 2, 2, 4, 2, 24, 10, 118,False
+2009, 10, 22,10, Edmonton Oilers, 6, 1, 2, 2, 1, 40, 5, 155,7, Columbus Blue Jackets, 6, 1, 3, 6, 0, 36, 14, 176,True
+2009, 10, 22,9, Los Angeles Kings, 6, 1, 3, 6, 1, 30, 18, 159,4, Dallas Stars, 4, 1, 4, 7, 3, 32, 25, 185,True
+2009, 10, 22,16, Montreal Canadiens, 3, 1, 1, 1, 1, 23, 9, 76,22, New York Islanders, 1, 1, 3, 5, 4, 29, 28, 210,True
+2009, 10, 22,24, New York Rangers, 8, 2, 3, 6, 2, 12, 7, 30,1, New Jersey Devils, 6, 0, 2, 3, 0, 26, 3, 41,False
+2009, 10, 22,15, Ottawa Senators, 6, 1, 3, 7, 1, 28, 13, 153,14, Nashville Predators, 3, 1, 2, 3, 3, 30, 10, 92,False
+2009, 10, 22,17, Philadelphia Flyers, 5, 1, 2, 2, 3, 27, 12, 103,0, Boston Bruins, 5, 1, 3, 4, 4, 22, 17, 117,True
+2009, 10, 22,25, Phoenix Coyotes, 7, 0, 4, 8, 1, 23, 18, 238,8, Detroit Red Wings, 3, 2, 3, 5, 3, 29, 6, 80,True
+2009, 10, 22,28, Tampa Bay Lightning, 2, 0, 1, 2, 7, 35, 21, 158,11, San Jose Sharks, 5, 2, 7, 12, 3, 29, 9, 68,True
+2009, 10, 23,23, Colorado Avalanche, 6, 1, 2, 3, 2, 26, 4, 87,13, Carolina Hurricanes, 2, 1, 3, 5, 3, 29, 9, 67,True
+2009, 10, 23,27, Pittsburgh Penguins, 9, 1, 6, 9, 2, 24, 15, 137,12, Florida Panthers, 4, 1, 2, 4, 3, 33, 11, 79,True
+2009, 10, 23,26, St. Louis Blues, 6, 2, 1, 2, 4, 35, 10, 102,3, Minnesota Wild, 4, 0, 2, 4, 2, 35, 7, 54,True
+2009, 10, 24,30, Anaheim Ducks, 4, 1, 2, 4, 2, 20, 7, 84,7, Columbus Blue Jackets, 5, 1, 4, 7, 6, 22, 24, 180,False
+2009, 10, 24,6, Atlanta Thrashers, 5, 0, 4, 7, 0, 14, 7, 63,11, San Jose Sharks, 5, 1, 2, 4, 4, 24, 10, 63,False
+2009, 10, 24,20, Calgary Flames, 7, 2, 6, 10, 3, 30, 10, 90,10, Edmonton Oilers, 6, 0, 6, 12, 4, 32, 13, 142,True
+2009, 10, 24,2, Chicago Blackhawks, 6, 2, 2, 4, 4, 25, 19, 153,14, Nashville Predators, 3, 0, 6, 10, 3, 27, 9, 80,True
+2009, 10, 24,23, Colorado Avalanche, 7, 1, 5, 10, 4, 36, 6, 97,8, Detroit Red Wings, 3, 1, 2, 4, 1, 15, 6, 84,True
+2009, 10, 24,3, Minnesota Wild, 3, 1, 1, 2, 2, 25, 7, 44,13, Carolina Hurricanes, 2, 1, 3, 7, 5, 36, 11, 74,True
+2009, 10, 24,16, Montreal Canadiens, 4, 0, 5, 8, 1, 22, 5, 77,24, New York Rangers, 7, 2, 2, 3, 3, 24, 8, 42,True
+2009, 10, 24,22, New York Islanders, 1, 0, 1, 0, 3, 38, 29, 224,21, Washington Capitals, 5, 2, 5, 7, 1, 13, 8, 127,False
+2009, 10, 24,15, Ottawa Senators, 5, 1, 5, 9, 2, 28, 18, 161,0, Boston Bruins, 5, 1, 3, 5, 2, 30, 16, 134,False
+2009, 10, 24,17, Philadelphia Flyers, 5, 1, 3, 6, 3, 26, 12, 102,12, Florida Panthers, 4, 1, 2, 4, 2, 43, 7, 102,True
+2009, 10, 24,25, Phoenix Coyotes, 8, 1, 3, 6, 2, 27, 19, 242,9, Los Angeles Kings, 6, 1, 5, 7, 4, 21, 21, 150,False
+2009, 10, 24,27, Pittsburgh Penguins, 9, 1, 2, 3, 1, 23, 15, 142,1, New Jersey Devils, 7, 1, 4, 5, 2, 31, 5, 46,False
+2009, 10, 24,26, St. Louis Blues, 6, 1, 3, 4, 1, 8, 7, 88,4, Dallas Stars, 4, 1, 4, 4, 2, 26, 22, 183,False
+2009, 10, 24,28, Tampa Bay Lightning, 3, 1, 5, 7, 2, 34, 16, 157,18, Buffalo Sabres, 8, 1, 5, 10, 2, 43, 7, 122,False
+2009, 10, 24,19, Vancouver Canucks, 5, 2, 3, 4, 2, 20, 8, 116,29, Toronto Maple Leafs, 2, 0, 1, 1, 4, 28, 26, 185,True
+2009, 10, 25,9, Los Angeles Kings, 7, 0, 5, 10, 3, 33, 20, 162,7, Columbus Blue Jackets, 6, 2, 6, 10, 4, 36, 22, 194,True
+2009, 10, 25,17, Philadelphia Flyers, 6, 0, 5, 9, 2, 21, 12, 115,11, San Jose Sharks, 6, 2, 4, 5, 1, 9, 9, 66,False
+2009, 10, 25,19, Vancouver Canucks, 5, 0, 3, 6, 1, 36, 7, 132,10, Edmonton Oilers, 6, 2, 4, 4, 1, 41, 14, 134,True
+2009, 10, 26,30, Anaheim Ducks, 3, 2, 4, 7, 0, 1, 9, 56,29, Toronto Maple Leafs, 1, 0, 1, 2, 2, 28, 24, 181,False
+2009, 10, 26,2, Chicago Blackhawks, 6, 0, 2, 3, 0, 27, 15, 155,3, Minnesota Wild, 3, 2, 3, 6, 2, 23, 7, 42,True
+2009, 10, 26,16, Montreal Canadiens, 5, 2, 5, 7, 4, 27, 9, 76,22, New York Islanders, 1, 0, 2, 4, 5, 43, 27, 206,True
+2009, 10, 26,24, New York Rangers, 7, 1, 4, 7, 5, 31, 10, 49,25, Phoenix Coyotes, 7, 1, 3, 6, 4, 20, 21, 235,True
+2009, 10, 27,10, Edmonton Oilers, 6, 1, 0, 0, 5, 38, 15, 122,23, Colorado Avalanche, 7, 1, 3, 5, 1, 49, 4, 127,False
+2009, 10, 27,19, Vancouver Canucks, 6, 1, 2, 4, 0, 27, 5, 97,8, Detroit Red Wings, 3, 1, 1, 2, 3, 33, 10, 114,False
+2009, 10, 27,21, Washington Capitals, 6, 1, 3, 6, 2, 30, 10, 138,17, Philadelphia Flyers, 5, 1, 1, 2, 1, 18, 12, 110,True
+2009, 10, 28,13, Carolina Hurricanes, 2, 2, 2, 3, 3, 29, 9, 67,26, St. Louis Blues, 5, 0, 2, 3, 1, 21, 10, 111,False
+2009, 10, 28,7, Columbus Blue Jackets, 6, 1, 2, 6, 6, 25, 24, 183,25, Phoenix Coyotes, 6, 1, 2, 4, 1, 13, 20, 200,False
+2009, 10, 28,20, Calgary Flames, 7, 0, 5, 7, 2, 25, 9, 85,23, Colorado Avalanche, 7, 2, 3, 5, 0, 25, 3, 116,False
+2009, 10, 28,4, Dallas Stars, 5, 2, 4, 4, 1, 28, 21, 183,29, Toronto Maple Leafs, 2, 0, 6, 12, 3, 28, 25, 181,True
+2009, 10, 28,12, Florida Panthers, 3, 2, 1, 2, 5, 38, 11, 80,15, Ottawa Senators, 5, 0, 3, 3, 6, 37, 19, 170,False
+2009, 10, 28,3, Minnesota Wild, 3, 1, 1, 2, 3, 35, 8, 54,14, Nashville Predators, 3, 1, 0, 0, 2, 34, 9, 102,False
+2009, 10, 28,1, New Jersey Devils, 7, 2, 4, 8, 1, 33, 4, 48,18, Buffalo Sabres, 8, 0, 2, 3, 2, 26, 7, 105,False
+2009, 10, 28,22, New York Islanders, 1, 0, 2, 3, 3, 24, 25, 194,24, New York Rangers, 7, 2, 3, 9, 2, 32, 7, 50,True
+2009, 10, 28,27, Pittsburgh Penguins, 8, 2, 1, 2, 4, 26, 21, 168,16, Montreal Canadiens, 5, 0, 3, 5, 2, 31, 7, 80,True
+2009, 10, 28,11, San Jose Sharks, 6, 0, 4, 7, 3, 27, 11, 102,9, Los Angeles Kings, 7, 2, 6, 9, 2, 27, 18, 149,True
+2009, 10, 29,6, Atlanta Thrashers, 5, 0, 3, 4, 0, 12, 6, 59,21, Washington Capitals, 6, 2, 4, 9, 4, 26, 10, 151,False
+2009, 10, 29,0, Boston Bruins, 5, 1, 3, 6, 3, 30, 17, 134,1, New Jersey Devils, 6, 1, 1, 2, 4, 15, 11, 57,False
+2009, 10, 29,10, Edmonton Oilers, 5, 0, 0, 0, 2, 33, 10, 128,8, Detroit Red Wings, 4, 2, 5, 8, 2, 22, 9, 85,True
+2009, 10, 29,9, Los Angeles Kings, 6, 0, 1, 2, 1, 30, 17, 152,19, Vancouver Canucks, 6, 2, 4, 8, 0, 5, 10, 131,False
+2009, 10, 29,14, Nashville Predators, 3, 0, 4, 6, 0, 12, 5, 58,2, Chicago Blackhawks, 7, 2, 3, 4, 1, 21, 16, 156,True
+2009, 10, 29,26, St. Louis Blues, 5, 1, 5, 6, 4, 31, 11, 126,25, Phoenix Coyotes, 6, 1, 4, 7, 4, 11, 20, 219,False
+2009, 10, 29,28, Tampa Bay Lightning, 3, 0, 2, 2, 2, 32, 16, 155,15, Ottawa Senators, 6, 2, 4, 7, 2, 28, 13, 143,True
+2009, 10, 30,30, Anaheim Ducks, 3, 2, 3, 6, 6, 39, 11, 106,19, Vancouver Canucks, 7, 0, 1, 2, 1, 31, 11, 157,True
+2009, 10, 30,18, Buffalo Sabres, 8, 2, 3, 8, 1, 32, 6, 111,29, Toronto Maple Leafs, 1, 0, 3, 6, 4, 36, 30, 206,True
+2009, 10, 30,7, Columbus Blue Jackets, 5, 1, 1, 2, 4, 23, 17, 154,27, Pittsburgh Penguins, 8, 1, 6, 11, 2, 29, 16, 164,False
+2009, 10, 30,2, Chicago Blackhawks, 6, 0, 0, 0, 1, 27, 16, 162,16, Montreal Canadiens, 4, 2, 1, 2, 2, 14, 8, 71,True
+2009, 10, 30,4, Dallas Stars, 6, 1, 4, 9, 5, 31, 23, 182,12, Florida Panthers, 2, 1, 3, 6, 2, 3, 10, 71,False
+2009, 10, 30,3, Minnesota Wild, 2, 1, 3, 4, 4, 22, 9, 41,24, New York Rangers, 6, 1, 1, 1, 3, 32, 8, 50,True
+2009, 10, 30,11, San Jose Sharks, 7, 1, 1, 2, 1, 29, 9, 104,23, Colorado Avalanche, 8, 1, 4, 6, 2, 32, 9, 140,True
+2009, 10, 30,21, Washington Capitals, 6, 2, 4, 6, 2, 43, 11, 170,22, New York Islanders, 2, 0, 3, 4, 1, 35, 20, 222,False
+2009, 10, 31,0, Boston Bruins, 5, 1, 1, 2, 3, 39, 16, 133,10, Edmonton Oilers, 6, 0, 5, 10, 5, 45, 15, 145,True
+2009, 10, 31,20, Calgary Flames, 6, 2, 2, 5, 3, 14, 10, 74,8, Detroit Red Wings, 4, 0, 4, 7, 2, 4, 10, 94,False
+2009, 10, 31,16, Montreal Canadiens, 4, 2, 2, 4, 4, 23, 10, 88,29, Toronto Maple Leafs, 1, 0, 2, 4, 7, 33, 32, 232,True
+2009, 10, 31,14, Nashville Predators, 3, 1, 2, 4, 0, 22, 5, 68,4, Dallas Stars, 5, 1, 5, 10, 5, 29, 23, 180,True
+2009, 10, 31,22, New York Islanders, 3, 1, 4, 5, 3, 31, 22, 227,18, Buffalo Sabres, 8, 1, 3, 5, 2, 35, 7, 114,True
+2009, 10, 31,15, Ottawa Senators, 6, 1, 2, 4, 1, 10, 15, 144,6, Atlanta Thrashers, 5, 1, 3, 5, 3, 31, 9, 78,False
+2009, 10, 31,17, Philadelphia Flyers, 5, 2, 2, 4, 3, 35, 11, 134,13, Carolina Hurricanes, 2, 0, 2, 4, 3, 14, 10, 55,True
+2009, 10, 31,25, Phoenix Coyotes, 6, 1, 2, 4, 0, 32, 15, 242,30, Anaheim Ducks, 4, 1, 7, 13, 2, 38, 7, 105,True
+2009, 10, 31,27, Pittsburgh Penguins, 9, 1, 3, 5, 1, 24, 17, 167,3, Minnesota Wild, 3, 1, 3, 5, 2, 20, 7, 39,False
+2009, 10, 31,26, St. Louis Blues, 4, 1, 0, 0, 2, 36, 9, 124,12, Florida Panthers, 2, 1, 5, 8, 4, 29, 14, 119,False
+2009, 10, 31,28, Tampa Bay Lightning, 4, 0, 5, 10, 4, 33, 16, 146,1, New Jersey Devils, 7, 2, 2, 4, 4, 27, 11, 108,False
+2009, 11, 1,13, Carolina Hurricanes, 2, 1, 2, 3, 4, 17, 13, 69,11, San Jose Sharks, 7, 0, 3, 6, 1, 25, 9, 100,False
+2009, 11, 1,24, New York Rangers, 5, 1, 4, 4, 3, 32, 8, 50,0, Boston Bruins, 5, 1, 2, 4, 2, 31, 12, 117,True
+2009, 11, 1,19, Vancouver Canucks, 6, 1, 2, 3, 4, 22, 16, 140,23, Colorado Avalanche, 8, 1, 1, 1, 3, 46, 12, 141,True
+2009, 11, 1,21, Washington Capitals, 6, 0, 3, 5, 4, 30, 13, 157,7, Columbus Blue Jackets, 4, 2, 3, 6, 3, 32, 18, 174,False
+2009, 11, 2,22, New York Islanders, 4, 0, 5, 7, 3, 40, 19, 234,10, Edmonton Oilers, 5, 2, 0, 0, 2, 27, 7, 96,True
+2009, 11, 2,17, Philadelphia Flyers, 5, 1, 6, 11, 1, 40, 6, 144,28, Tampa Bay Lightning, 4, 1, 1, 2, 2, 23, 13, 151,True
+2009, 11, 2,25, Phoenix Coyotes, 7, 1, 2, 4, 1, 32, 17, 244,9, Los Angeles Kings, 5, 1, 2, 3, 1, 15, 17, 137,False
+2009, 11, 3,30, Anaheim Ducks, 4, 0, 2, 3, 2, 32, 9, 101,27, Pittsburgh Penguins, 8, 2, 1, 2, 2, 15, 13, 127,False
+2009, 11, 3,8, Detroit Red Wings, 5, 1, 3, 3, 1, 21, 9, 111,0, Boston Bruins, 5, 1, 0, 0, 1, 23, 11, 109,True
+2009, 11, 3,16, Montreal Canadiens, 5, 2, 3, 7, 3, 36, 10, 95,6, Atlanta Thrashers, 5, 0, 3, 5, 1, 51, 7, 98,False
+2009, 11, 3,29, Toronto Maple Leafs, 1, 1, 7, 9, 3, 28, 25, 234,28, Tampa Bay Lightning, 4, 1, 2, 2, 1, 13, 16, 121,False
+2009, 11, 3,19, Vancouver Canucks, 6, 2, 4, 5, 0, 18, 15, 130,24, New York Rangers, 5, 0, 1, 2, 0, 29, 5, 47,True
+2009, 11, 4,18, Buffalo Sabres, 8, 1, 1, 0, 3, 16, 6, 82,22, New York Islanders, 5, 1, 3, 5, 0, 38, 17, 217,True
+2009, 11, 4,7, Columbus Blue Jackets, 5, 1, 5, 9, 4, 36, 14, 147,11, San Jose Sharks, 7, 1, 5, 10, 1, 26, 9, 101,False
+2009, 11, 4,23, Colorado Avalanche, 7, 0, 0, 1, 1, 33, 10, 118,25, Phoenix Coyotes, 7, 2, 2, 5, 2, 34, 20, 238,True
+2009, 11, 4,4, Dallas Stars, 5, 1, 2, 5, 3, 36, 25, 179,20, Calgary Flames, 5, 1, 1, 2, 4, 29, 9, 89,False
+2009, 11, 4,12, Florida Panthers, 3, 0, 4, 7, 0, 34, 10, 98,13, Carolina Hurricanes, 1, 2, 1, 1, 5, 25, 14, 77,True
+2009, 11, 4,1, New Jersey Devils, 8, 1, 1, 1, 1, 19, 8, 100,21, Washington Capitals, 6, 1, 4, 8, 3, 41, 14, 159,True
+2009, 11, 5,30, Anaheim Ducks, 3, 2, 3, 4, 4, 27, 12, 90,14, Nashville Predators, 4, 0, 3, 5, 2, 29, 8, 65,True
+2009, 11, 5,6, Atlanta Thrashers, 5, 0, 4, 10, 4, 38, 10, 85,7, Columbus Blue Jackets, 4, 2, 2, 5, 0, 0, 12, 149,False
+2009, 11, 5,0, Boston Bruins, 4, 2, 0, 0, 2, 26, 12, 112,16, Montreal Canadiens, 5, 0, 4, 3, 5, 30, 12, 89,False
+2009, 11, 5,8, Detroit Red Wings, 5, 1, 3, 4, 0, 29, 8, 119,11, San Jose Sharks, 8, 1, 2, 3, 2, 28, 10, 103,True
+2009, 11, 5,10, Edmonton Oilers, 4, 2, 1, 2, 3, 37, 9, 124,24, New York Rangers, 4, 0, 1, 2, 5, 18, 8, 47,False
+2009, 11, 5,9, Los Angeles Kings, 5, 0, 5, 8, 3, 16, 22, 132,27, Pittsburgh Penguins, 8, 2, 4, 6, 3, 29, 17, 176,True
+2009, 11, 5,3, Minnesota Wild, 4, 0, 2, 4, 1, 35, 6, 54,19, Vancouver Canucks, 7, 2, 4, 5, 1, 23, 16, 135,False
+2009, 11, 5,15, Ottawa Senators, 5, 1, 1, 2, 3, 21, 16, 148,28, Tampa Bay Lightning, 5, 1, 2, 2, 1, 41, 16, 149,True
+2009, 11, 5,25, Phoenix Coyotes, 6, 0, 2, 3, 3, 28, 21, 232,2, Chicago Blackhawks, 7, 2, 3, 6, 2, 22, 14, 138,True
+2009, 11, 5,26, St. Louis Blues, 3, 1, 0, 0, 3, 26, 10, 114,20, Calgary Flames, 5, 1, 3, 6, 2, 29, 7, 100,False
+2009, 11, 6,18, Buffalo Sabres, 8, 0, 3, 6, 0, 24, 3, 90,17, Philadelphia Flyers, 5, 2, 6, 12, 2, 28, 12, 124,False
+2009, 11, 6,13, Carolina Hurricanes, 0, 1, 0, 0, 2, 24, 11, 76,29, Toronto Maple Leafs, 1, 1, 1, 2, 2, 32, 26, 250,False
+2009, 11, 6,23, Colorado Avalanche, 7, 1, 4, 7, 3, 20, 11, 121,2, Chicago Blackhawks, 6, 1, 1, 2, 3, 31, 15, 139,True
+2009, 11, 6,4, Dallas Stars, 4, 0, 1, 4, 3, 23, 25, 166,19, Vancouver Canucks, 7, 2, 5, 6, 3, 12, 17, 142,True
+2009, 11, 6,12, Florida Panthers, 4, 1, 3, 4, 0, 32, 10, 108,21, Washington Capitals, 6, 1, 2, 4, 5, 32, 15, 151,False
+2009, 11, 6,1, New Jersey Devils, 8, 0, 3, 5, 1, 32, 9, 109,22, New York Islanders, 5, 2, 0, 0, 3, 39, 20, 218,True
+2009, 11, 7,30, Anaheim Ducks, 3, 0, 4, 7, 0, 40, 6, 107,25, Phoenix Coyotes, 6, 2, 3, 4, 1, 32, 19, 236,True
+2009, 11, 7,0, Boston Bruins, 4, 0, 1, 2, 0, 19, 11, 112,18, Buffalo Sabres, 7, 2, 2, 4, 0, 0, 7, 102,True
+2009, 11, 7,7, Columbus Blue Jackets, 4, 2, 4, 7, 2, 38, 14, 183,13, Carolina Hurricanes, 0, 0, 2, 4, 3, 26, 12, 78,True
+2009, 11, 7,20, Calgary Flames, 5, 2, 2, 2, 1, 31, 6, 102,24, New York Rangers, 4, 0, 4, 8, 2, 28, 5, 57,True
+2009, 11, 7,9, Los Angeles Kings, 6, 0, 5, 9, 2, 23, 21, 139,14, Nashville Predators, 4, 2, 0, 0, 3, 10, 9, 72,False
+2009, 11, 7,3, Minnesota Wild, 4, 1, 2, 4, 4, 17, 4, 21,4, Dallas Stars, 5, 1, 2, 3, 4, 33, 23, 176,True
+2009, 11, 7,16, Montreal Canadiens, 6, 1, 1, 2, 1, 43, 9, 103,28, Tampa Bay Lightning, 4, 1, 2, 4, 3, 29, 18, 137,False
+2009, 11, 7,22, New York Islanders, 5, 1, 1, 2, 1, 23, 19, 202,6, Atlanta Thrashers, 4, 1, 4, 6, 4, 21, 10, 68,True
+2009, 11, 7,15, Ottawa Senators, 5, 0, 3, 6, 2, 20, 14, 153,1, New Jersey Devils, 8, 2, 2, 4, 2, 28, 9, 101,False
+2009, 11, 7,17, Philadelphia Flyers, 5, 0, 5, 7, 2, 30, 9, 126,26, St. Louis Blues, 3, 1, 1, 2, 2, 31, 9, 119,True
+2009, 11, 7,11, San Jose Sharks, 8, 1, 1, 1, 1, 36, 9, 111,27, Pittsburgh Penguins, 7, 1, 2, 4, 5, 32, 19, 179,True
+2009, 11, 7,29, Toronto Maple Leafs, 2, 2, 3, 6, 2, 36, 26, 254,8, Detroit Red Wings, 5, 0, 1, 1, 1, 34, 9, 124,True
+2009, 11, 7,21, Washington Capitals, 7, 1, 4, 7, 1, 29, 10, 137,12, Florida Panthers, 4, 1, 1, 2, 5, 37, 13, 100,True
+2009, 11, 8,6, Atlanta Thrashers, 4, 1, 3, 6, 1, 9, 8, 80,26, St. Louis Blues, 3, 1, 1, 2, 2, 29, 8, 124,True
+2009, 11, 8,23, Colorado Avalanche, 7, 1, 3, 6, 3, 32, 10, 129,10, Edmonton Oilers, 4, 1, 2, 2, 4, 39, 12, 137,False
+2009, 11, 9,2, Chicago Blackhawks, 5, 2, 3, 6, 3, 23, 14, 128,9, Los Angeles Kings, 6, 0, 1, 2, 3, 25, 22, 141,True
+2009, 11, 10,0, Boston Bruins, 4, 1, 4, 7, 1, 26, 12, 127,27, Pittsburgh Penguins, 6, 1, 0, 0, 3, 14, 16, 161,True
+2009, 11, 10,16, Montreal Canadiens, 6, 0, 1, 2, 4, 30, 9, 76,20, Calgary Flames, 6, 2, 3, 6, 1, 33, 6, 104,False
+2009, 11, 10,15, Ottawa Senators, 4, 2, 2, 2, 3, 25, 14, 159,10, Edmonton Oilers, 4, 0, 5, 9, 2, 29, 11, 135,True
+2009, 11, 10,11, San Jose Sharks, 8, 1, 5, 11, 1, 38, 8, 102,14, Nashville Predators, 5, 1, 4, 5, 1, 28, 6, 95,True
+2009, 11, 10,26, St. Louis Blues, 3, 1, 2, 3, 1, 36, 8, 135,19, Vancouver Canucks, 7, 1, 1, 3, 2, 30, 16, 177,True
+2009, 11, 10,29, Toronto Maple Leafs, 3, 0, 5, 10, 1, 36, 29, 232,3, Minnesota Wild, 5, 1, 3, 4, 2, 21, 2, 25,False
+2009, 11, 11,18, Buffalo Sabres, 6, 1, 2, 4, 4, 36, 11, 139,10, Edmonton Oilers, 3, 0, 3, 5, 3, 37, 12, 131,True
+2009, 11, 11,13, Carolina Hurricanes, 0, 0, 2, 2, 3, 8, 9, 58,9, Los Angeles Kings, 6, 1, 1, 2, 4, 21, 23, 145,False
+2009, 11, 11,7, Columbus Blue Jackets, 4, 1, 3, 4, 2, 26, 15, 185,8, Detroit Red Wings, 5, 1, 1, 3, 5, 33, 13, 129,False
+2009, 11, 11,2, Chicago Blackhawks, 5, 1, 4, 8, 1, 18, 11, 111,23, Colorado Avalanche, 6, 1, 3, 6, 5, 32, 14, 112,True
+2009, 11, 11,1, New Jersey Devils, 8, 0, 3, 5, 2, 21, 11, 89,30, Anaheim Ducks, 4, 2, 4, 6, 3, 30, 12, 91,True
+2009, 11, 11,21, Washington Capitals, 7, 1, 7, 12, 4, 28, 12, 140,22, New York Islanders, 5, 1, 5, 10, 3, 34, 21, 213,True
+2009, 11, 12,0, Boston Bruins, 5, 1, 3, 6, 0, 27, 11, 128,12, Florida Panthers, 4, 1, 3, 7, 3, 24, 14, 102,False
+2009, 11, 12,8, Detroit Red Wings, 5, 2, 9, 12, 1, 26, 9, 122,19, Vancouver Canucks, 6, 0, 1, 1, 2, 17, 15, 135,True
+2009, 11, 12,24, New York Rangers, 3, 0, 1, 2, 3, 29, 6, 51,6, Atlanta Thrashers, 4, 2, 2, 3, 2, 32, 9, 103,False
+2009, 11, 12,17, Philadelphia Flyers, 6, 0, 1, 2, 1, 31, 8, 127,15, Ottawa Senators, 5, 2, 3, 5, 3, 34, 14, 168,True
+2009, 11, 12,25, Phoenix Coyotes, 5, 0, 3, 3, 4, 26, 21, 234,16, Montreal Canadiens, 5, 2, 0, 0, 3, 21, 7, 86,False
+2009, 11, 12,27, Pittsburgh Penguins, 5, 1, 0, 0, 2, 28, 13, 152,1, New Jersey Devils, 9, 1, 3, 6, 1, 32, 10, 100,False
+2009, 11, 12,11, San Jose Sharks, 8, 1, 4, 7, 0, 27, 10, 90,4, Dallas Stars, 4, 1, 3, 2, 1, 33, 22, 180,False
+2009, 11, 12,26, St. Louis Blues, 3, 1, 6, 11, 1, 23, 9, 144,14, Nashville Predators, 5, 1, 2, 7, 4, 31, 9, 83,False
+2009, 11, 12,28, Tampa Bay Lightning, 4, 0, 3, 6, 1, 37, 16, 145,3, Minnesota Wild, 6, 2, 5, 7, 2, 39, 2, 43,True
+2009, 11, 13,6, Atlanta Thrashers, 4, 1, 5, 9, 5, 36, 10, 107,9, Los Angeles Kings, 6, 0, 5, 10, 4, 29, 21, 148,True
+2009, 11, 13,18, Buffalo Sabres, 6, 0, 3, 4, 1, 29, 8, 132,20, Calgary Flames, 7, 1, 1, 2, 0, 25, 5, 96,True
+2009, 11, 13,13, Carolina Hurricanes, 0, 1, 2, 4, 4, 30, 10, 80,22, New York Islanders, 5, 1, 5, 6, 2, 31, 22, 220,False
+2009, 11, 13,7, Columbus Blue Jackets, 4, 1, 1, 3, 1, 12, 21, 156,30, Anaheim Ducks, 3, 1, 1, 2, 5, 35, 11, 79,True
+2009, 11, 13,2, Chicago Blackhawks, 5, 2, 2, 4, 2, 27, 12, 120,29, Toronto Maple Leafs, 3, 0, 2, 4, 4, 39, 32, 226,True
+2009, 11, 13,21, Washington Capitals, 7, 1, 4, 6, 1, 26, 9, 115,3, Minnesota Wild, 5, 1, 3, 4, 0, 4, 3, 26,True
+2009, 11, 14,23, Colorado Avalanche, 6, 1, 2, 1, 2, 39, 10, 96,19, Vancouver Canucks, 5, 1, 1, 2, 2, 28, 15, 146,False
+2009, 11, 14,8, Detroit Red Wings, 6, 2, 3, 6, 1, 32, 9, 128,30, Anaheim Ducks, 3, 0, 2, 4, 3, 25, 8, 73,True
+2009, 11, 14,12, Florida Panthers, 4, 1, 0, 0, 0, 40, 13, 101,22, New York Islanders, 6, 1, 4, 6, 4, 41, 23, 217,True
+2009, 11, 14,1, New Jersey Devils, 9, 2, 4, 7, 1, 26, 10, 94,21, Washington Capitals, 7, 0, 3, 4, 3, 5, 9, 119,True
+2009, 11, 14,14, Nashville Predators, 6, 1, 4, 1, 1, 22, 7, 87,16, Montreal Canadiens, 5, 1, 3, 6, 2, 20, 6, 89,True
+2009, 11, 14,15, Ottawa Senators, 4, 1, 1, 2, 5, 27, 16, 153,24, New York Rangers, 3, 1, 3, 6, 4, 26, 7, 48,False
+2009, 11, 14,17, Philadelphia Flyers, 7, 2, 4, 10, 1, 23, 11, 113,18, Buffalo Sabres, 7, 0, 1, 2, 1, 26, 8, 129,False
+2009, 11, 14,25, Phoenix Coyotes, 4, 2, 2, 4, 3, 19, 20, 227,4, Dallas Stars, 5, 0, 2, 4, 2, 32, 23, 179,True
+2009, 11, 14,27, Pittsburgh Penguins, 4, 1, 1, 3, 2, 21, 15, 170,0, Boston Bruins, 4, 1, 0, 0, 0, 23, 11, 124,True
+2009, 11, 14,26, St. Louis Blues, 3, 2, 1, 2, 2, 36, 10, 152,11, San Jose Sharks, 8, 0, 2, 2, 2, 36, 12, 99,False
+2009, 11, 14,28, Tampa Bay Lightning, 5, 1, 3, 5, 3, 34, 18, 142,9, Los Angeles Kings, 5, 0, 0, 0, 3, 14, 22, 116,False
+2009, 11, 14,29, Toronto Maple Leafs, 3, 1, 2, 4, 4, 30, 31, 221,20, Calgary Flames, 7, 1, 1, 2, 1, 33, 6, 104,False
+2009, 11, 15,6, Atlanta Thrashers, 5, 1, 7, 11, 3, 36, 5, 109,10, Edmonton Oilers, 2, 1, 1, 2, 2, 25, 11, 126,True
+2009, 11, 15,13, Carolina Hurricanes, 0, 0, 3, 5, 3, 22, 10, 75,3, Minnesota Wild, 5, 2, 1, 2, 3, 22, 5, 62,True
+2009, 11, 15,2, Chicago Blackhawks, 6, 2, 3, 4, 2, 31, 13, 129,11, San Jose Sharks, 8, 0, 3, 4, 1, 39, 11, 102,True
+2009, 11, 16,0, Boston Bruins, 4, 2, 5, 9, 2, 30, 17, 134,22, New York Islanders, 6, 0, 4, 7, 4, 42, 23, 218,False
+2009, 11, 16,7, Columbus Blue Jackets, 5, 1, 2, 4, 2, 34, 22, 178,10, Edmonton Oilers, 2, 1, 2, 4, 3, 30, 9, 118,True
+2009, 11, 16,12, Florida Panthers, 5, 0, 4, 6, 4, 40, 17, 101,9, Los Angeles Kings, 5, 1, 1, 2, 1, 29, 20, 131,False
+2009, 11, 16,17, Philadelphia Flyers, 7, 2, 3, 4, 3, 25, 11, 111,1, New Jersey Devils, 9, 0, 5, 8, 2, 29, 11, 97,True
+2009, 11, 16,25, Phoenix Coyotes, 5, 1, 3, 6, 4, 26, 19, 236,28, Tampa Bay Lightning, 5, 0, 1, 2, 5, 18, 16, 138,False
+2009, 11, 16,27, Pittsburgh Penguins, 4, 2, 6, 10, 3, 24, 18, 173,30, Anaheim Ducks, 3, 0, 4, 7, 2, 29, 10, 93,True
+2009, 11, 17,20, Calgary Flames, 7, 0, 5, 9, 2, 40, 7, 111,23, Colorado Avalanche, 5, 2, 1, 5, 4, 22, 17, 76,False
+2009, 11, 17,16, Montreal Canadiens, 4, 0, 0, 0, 2, 55, 7, 116,13, Carolina Hurricanes, 1, 2, 4, 8, 4, 32, 11, 85,True
+2009, 11, 17,14, Nashville Predators, 7, 1, 2, 3, 0, 20, 6, 65,11, San Jose Sharks, 7, 1, 3, 4, 3, 26, 14, 93,True
+2009, 11, 17,24, New York Rangers, 4, 2, 1, 1, 1, 36, 4, 58,21, Washington Capitals, 6, 0, 2, 4, 1, 30, 15, 141,False
+2009, 11, 17,15, Ottawa Senators, 3, 1, 1, 2, 5, 27, 13, 166,29, Toronto Maple Leafs, 3, 1, 2, 4, 2, 17, 29, 179,True
+2009, 11, 18,18, Buffalo Sabres, 7, 2, 2, 6, 2, 31, 9, 134,12, Florida Panthers, 5, 0, 3, 6, 3, 34, 14, 109,False
+2009, 11, 18,8, Detroit Red Wings, 7, 0, 7, 11, 4, 23, 12, 119,4, Dallas Stars, 4, 2, 2, 3, 3, 37, 20, 191,False
+2009, 11, 18,10, Edmonton Oilers, 2, 1, 2, 4, 3, 25, 8, 111,23, Colorado Avalanche, 5, 1, 3, 6, 4, 8, 15, 90,True
+2009, 11, 18,9, Los Angeles Kings, 5, 1, 3, 5, 3, 29, 22, 124,17, Philadelphia Flyers, 7, 1, 3, 3, 4, 28, 10, 121,False
+2009, 11, 18,3, Minnesota Wild, 4, 1, 3, 5, 4, 35, 6, 75,25, Phoenix Coyotes, 5, 1, 1, 2, 2, 28, 17, 224,False
+2009, 11, 19,30, Anaheim Ducks, 3, 0, 2, 4, 6, 36, 12, 87,28, Tampa Bay Lightning, 5, 1, 4, 7, 1, 31, 12, 151,True
+2009, 11, 19,6, Atlanta Thrashers, 6, 0, 3, 5, 0, 38, 4, 109,0, Boston Bruins, 3, 2, 1, 1, 3, 20, 16, 119,False
+2009, 11, 19,13, Carolina Hurricanes, 1, 1, 2, 3, 1, 24, 5, 63,29, Toronto Maple Leafs, 2, 1, 2, 4, 3, 5, 30, 183,True
+2009, 11, 19,20, Calgary Flames, 6, 0, 2, 4, 3, 24, 8, 95,2, Chicago Blackhawks, 7, 2, 4, 6, 3, 23, 13, 123,False
+2009, 11, 19,4, Dallas Stars, 5, 2, 3, 6, 3, 31, 21, 182,7, Columbus Blue Jackets, 5, 0, 2, 4, 8, 27, 19, 174,False
+2009, 11, 19,14, Nashville Predators, 7, 0, 4, 8, 3, 32, 9, 77,1, New Jersey Devils, 8, 1, 2, 4, 3, 35, 12, 103,True
+2009, 11, 19,15, Ottawa Senators, 4, 1, 3, 6, 2, 32, 8, 166,27, Pittsburgh Penguins, 5, 1, 6, 6, 2, 25, 17, 174,True
+2009, 11, 19,26, St. Louis Blues, 2, 0, 1, 2, 2, 16, 11, 139,25, Phoenix Coyotes, 5, 2, 3, 4, 2, 26, 17, 222,True
+2009, 11, 20,18, Buffalo Sabres, 6, 1, 2, 4, 5, 23, 12, 126,0, Boston Bruins, 4, 1, 3, 6, 3, 35, 16, 134,False
+2009, 11, 20,8, Detroit Red Wings, 7, 2, 1, 2, 5, 28, 11, 128,12, Florida Panthers, 6, 0, 6, 10, 7, 32, 13, 103,False
+2009, 11, 20,3, Minnesota Wild, 4, 2, 3, 4, 3, 32, 5, 72,22, New York Islanders, 6, 0, 4, 5, 3, 28, 20, 205,True
+2009, 11, 20,11, San Jose Sharks, 6, 2, 3, 6, 4, 30, 13, 109,17, Philadelphia Flyers, 7, 0, 3, 6, 2, 35, 8, 133,True
+2009, 11, 20,19, Vancouver Canucks, 5, 2, 8, 16, 2, 34, 15, 145,23, Colorado Avalanche, 4, 0, 4, 6, 2, 36, 16, 114,True
+2009, 11, 20,21, Washington Capitals, 6, 1, 4, 5, 0, 0, 10, 110,16, Montreal Canadiens, 4, 1, 2, 4, 2, 32, 5, 98,False
+2009, 11, 21,30, Anaheim Ducks, 4, 0, 4, 7, 3, 24, 10, 79,11, San Jose Sharks, 6, 2, 6, 11, 3, 29, 12, 108,False
+2009, 11, 21,6, Atlanta Thrashers, 6, 0, 3, 6, 2, 36, 7, 113,27, Pittsburgh Penguins, 4, 2, 2, 3, 5, 24, 16, 147,False
+2009, 11, 21,13, Carolina Hurricanes, 2, 1, 5, 10, 5, 32, 9, 71,28, Tampa Bay Lightning, 5, 1, 3, 6, 4, 27, 15, 147,True
+2009, 11, 21,4, Dallas Stars, 4, 1, 1, 2, 4, 28, 21, 179,1, New Jersey Devils, 8, 1, 2, 4, 1, 24, 5, 104,True
+2009, 11, 21,10, Edmonton Oilers, 3, 1, 6, 10, 4, 18, 9, 104,2, Chicago Blackhawks, 7, 1, 7, 13, 1, 28, 11, 128,False
+2009, 11, 21,9, Los Angeles Kings, 5, 0, 2, 4, 3, 20, 22, 115,20, Calgary Flames, 5, 2, 2, 2, 6, 24, 10, 57,False
+2009, 11, 21,16, Montreal Canadiens, 5, 1, 3, 6, 2, 34, 6, 99,8, Detroit Red Wings, 6, 1, 1, 2, 3, 32, 8, 120,False
+2009, 11, 21,14, Nashville Predators, 8, 1, 2, 4, 2, 28, 8, 93,7, Columbus Blue Jackets, 6, 1, 4, 5, 1, 26, 12, 168,True
+2009, 11, 21,24, New York Rangers, 4, 0, 2, 4, 3, 25, 6, 47,12, Florida Panthers, 7, 2, 2, 4, 2, 28, 10, 102,False
+2009, 11, 21,15, Ottawa Senators, 5, 2, 6, 10, 2, 27, 12, 155,18, Buffalo Sabres, 5, 0, 1, 2, 2, 14, 9, 129,True
+2009, 11, 21,25, Phoenix Coyotes, 4, 1, 2, 4, 3, 30, 18, 226,17, Philadelphia Flyers, 7, 1, 3, 6, 6, 29, 12, 127,True
+2009, 11, 21,26, St. Louis Blues, 3, 0, 3, 5, 2, 36, 7, 148,22, New York Islanders, 5, 1, 2, 4, 1, 29, 22, 191,True
+2009, 11, 21,29, Toronto Maple Leafs, 2, 1, 5, 8, 3, 21, 26, 231,21, Washington Capitals, 5, 1, 2, 4, 2, 20, 14, 131,True
+2009, 11, 22,6, Atlanta Thrashers, 6, 2, 2, 4, 3, 42, 8, 111,28, Tampa Bay Lightning, 4, 0, 1, 2, 1, 30, 14, 147,False
+2009, 11, 22,19, Vancouver Canucks, 6, 2, 5, 12, 2, 24, 15, 135,2, Chicago Blackhawks, 7, 0, 5, 9, 3, 22, 15, 139,False
+2009, 11, 23,30, Anaheim Ducks, 3, 2, 2, 4, 4, 25, 8, 85,20, Calgary Flames, 6, 0, 5, 9, 2, 25, 6, 58,True
+2009, 11, 23,23, Colorado Avalanche, 3, 1, 2, 4, 5, 27, 19, 105,17, Philadelphia Flyers, 7, 1, 1, 2, 2, 20, 10, 119,True
+2009, 11, 23,4, Dallas Stars, 4, 1, 5, 10, 3, 34, 20, 185,13, Carolina Hurricanes, 3, 0, 3, 6, 1, 21, 5, 60,True
+2009, 11, 23,10, Edmonton Oilers, 2, 1, 2, 4, 5, 30, 13, 113,25, Phoenix Coyotes, 4, 1, 3, 4, 1, 24, 16, 220,True
+2009, 11, 23,12, Florida Panthers, 7, 1, 3, 5, 2, 34, 9, 115,27, Pittsburgh Penguins, 4, 1, 3, 5, 2, 33, 13, 156,False
+2009, 11, 23,14, Nashville Predators, 8, 2, 3, 5, 3, 29, 8, 82,8, Detroit Red Wings, 7, 0, 2, 4, 2, 20, 7, 106,True
+2009, 11, 23,24, New York Rangers, 3, 1, 2, 2, 3, 28, 6, 50,7, Columbus Blue Jackets, 6, 0, 3, 6, 3, 48, 13, 188,True
+2009, 11, 23,15, Ottawa Senators, 5, 1, 5, 9, 2, 16, 10, 129,21, Washington Capitals, 5, 1, 1, 2, 1, 39, 13, 150,True
+2009, 11, 23,26, St. Louis Blues, 3, 1, 4, 8, 1, 24, 7, 144,0, Boston Bruins, 4, 1, 2, 4, 1, 26, 14, 125,False
+2009, 11, 23,29, Toronto Maple Leafs, 3, 2, 1, 3, 1, 32, 24, 242,22, New York Islanders, 4, 0, 1, 1, 4, 26, 25, 188,False
+2009, 11, 24,16, Montreal Canadiens, 5, 0, 2, 3, 2, 34, 6, 99,7, Columbus Blue Jackets, 6, 2, 4, 8, 3, 15, 15, 148,True
+2009, 11, 25,30, Anaheim Ducks, 4, 1, 2, 3, 2, 43, 9, 104,13, Carolina Hurricanes, 3, 1, 0, 0, 2, 29, 6, 68,True
+2009, 11, 25,20, Calgary Flames, 6, 1, 2, 2, 2, 31, 6, 64,25, Phoenix Coyotes, 4, 1, 0, 1, 4, 25, 19, 221,True
+2009, 11, 25,23, Colorado Avalanche, 4, 1, 5, 8, 4, 34, 18, 112,14, Nashville Predators, 8, 1, 3, 6, 1, 31, 9, 83,False
+2009, 11, 25,4, Dallas Stars, 5, 2, 2, 4, 0, 22, 17, 173,26, St. Louis Blues, 3, 0, 2, 4, 2, 40, 11, 147,False
+2009, 11, 25,8, Detroit Red Wings, 6, 2, 1, 2, 2, 18, 9, 108,6, Atlanta Thrashers, 5, 0, 3, 5, 4, 40, 9, 109,False
+2009, 11, 25,10, Edmonton Oilers, 3, 1, 4, 8, 0, 36, 10, 158,9, Los Angeles Kings, 5, 1, 2, 3, 5, 32, 24, 127,False
+2009, 11, 25,12, Florida Panthers, 6, 2, 2, 4, 3, 45, 10, 119,24, New York Rangers, 4, 0, 7, 10, 4, 30, 7, 52,False
+2009, 11, 25,3, Minnesota Wild, 5, 2, 3, 6, 2, 29, 4, 69,0, Boston Bruins, 5, 0, 4, 7, 2, 31, 15, 130,False
+2009, 11, 25,1, New Jersey Devils, 7, 2, 3, 6, 2, 17, 7, 78,15, Ottawa Senators, 6, 0, 3, 7, 3, 28, 11, 141,True
+2009, 11, 25,22, New York Islanders, 4, 0, 4, 6, 3, 29, 24, 223,17, Philadelphia Flyers, 6, 2, 2, 7, 1, 14, 11, 91,False
+2009, 11, 25,27, Pittsburgh Penguins, 5, 2, 3, 6, 2, 21, 17, 145,16, Montreal Canadiens, 5, 0, 5, 8, 3, 36, 7, 101,True
+2009, 11, 25,11, San Jose Sharks, 6, 0, 3, 4, 2, 30, 10, 99,2, Chicago Blackhawks, 8, 2, 0, 2, 2, 27, 12, 147,False
+2009, 11, 25,28, Tampa Bay Lightning, 5, 1, 4, 8, 3, 31, 16, 148,29, Toronto Maple Leafs, 3, 1, 3, 6, 1, 6, 22, 186,False
+2009, 11, 25,21, Washington Capitals, 5, 1, 3, 4, 4, 37, 16, 145,18, Buffalo Sabres, 4, 1, 3, 6, 2, 26, 12, 141,True
+2009, 11, 26,15, Ottawa Senators, 6, 0, 1, 2, 2, 20, 10, 133,7, Columbus Blue Jackets, 5, 2, 3, 6, 4, 18, 17, 162,True
+2009, 11, 26,19, Vancouver Canucks, 5, 2, 0, 0, 1, 17, 14, 128,9, Los Angeles Kings, 5, 0, 3, 5, 1, 23, 20, 118,True
+2009, 11, 27,30, Anaheim Ducks, 5, 0, 3, 6, 2, 30, 7, 92,2, Chicago Blackhawks, 8, 2, 7, 11, 2, 24, 12, 144,True
+2009, 11, 27,0, Boston Bruins, 6, 1, 1, 2, 1, 29, 14, 128,1, New Jersey Devils, 7, 1, 3, 6, 1, 25, 6, 86,False
+2009, 11, 27,13, Carolina Hurricanes, 3, 1, 2, 4, 3, 33, 7, 72,6, Atlanta Thrashers, 5, 1, 2, 4, 0, 40, 5, 109,False
+2009, 11, 27,8, Detroit Red Wings, 5, 1, 0, 0, 3, 25, 9, 115,20, Calgary Flames, 6, 1, 2, 4, 1, 28, 5, 61,False
+2009, 11, 27,10, Edmonton Oilers, 3, 0, 1, 2, 2, 34, 12, 156,11, San Jose Sharks, 5, 2, 2, 4, 4, 29, 11, 79,False
+2009, 11, 27,12, Florida Panthers, 5, 2, 1, 0, 1, 28, 8, 102,29, Toronto Maple Leafs, 4, 0, 4, 7, 3, 31, 24, 211,False
+2009, 11, 27,3, Minnesota Wild, 4, 2, 1, 2, 1, 16, 3, 56,23, Colorado Avalanche, 4, 0, 3, 5, 4, 27, 18, 105,True
+2009, 11, 27,14, Nashville Predators, 8, 2, 4, 7, 3, 22, 11, 74,26, St. Louis Blues, 4, 0, 3, 5, 4, 23, 14, 144,False
+2009, 11, 27,22, New York Islanders, 4, 0, 1, 2, 3, 61, 23, 222,27, Pittsburgh Penguins, 5, 2, 3, 5, 1, 7, 16, 143,True
+2009, 11, 27,17, Philadelphia Flyers, 6, 1, 2, 3, 4, 17, 11, 109,18, Buffalo Sabres, 4, 1, 0, 0, 2, 24, 12, 139,False
+2009, 11, 27,25, Phoenix Coyotes, 4, 2, 1, 2, 2, 26, 17, 222,4, Dallas Stars, 5, 0, 3, 6, 3, 38, 20, 189,True
+2009, 11, 27,28, Tampa Bay Lightning, 5, 0, 3, 6, 3, 27, 17, 152,24, New York Rangers, 5, 2, 1, 2, 1, 26, 4, 48,True
+2009, 11, 28,6, Atlanta Thrashers, 6, 0, 6, 11, 3, 34, 9, 105,17, Philadelphia Flyers, 5, 2, 2, 5, 1, 29, 11, 117,True
+2009, 11, 28,0, Boston Bruins, 6, 1, 1, 2, 6, 33, 14, 114,15, Ottawa Senators, 6, 1, 3, 4, 1, 33, 9, 132,True
+2009, 11, 28,18, Buffalo Sabres, 4, 1, 3, 8, 2, 33, 12, 148,13, Carolina Hurricanes, 3, 1, 4, 7, 1, 11, 9, 72,True
+2009, 11, 28,7, Columbus Blue Jackets, 5, 1, 1, 2, 2, 36, 15, 180,20, Calgary Flames, 6, 1, 3, 5, 1, 2, 4, 73,False
+2009, 11, 28,23, Colorado Avalanche, 3, 0, 4, 6, 4, 31, 18, 109,3, Minnesota Wild, 4, 2, 5, 7, 2, 40, 5, 74,False
+2009, 11, 28,4, Dallas Stars, 5, 0, 2, 2, 1, 10, 19, 148,28, Tampa Bay Lightning, 5, 1, 5, 9, 1, 27, 15, 152,True
+2009, 11, 28,9, Los Angeles Kings, 4, 0, 1, 2, 3, 33, 22, 128,2, Chicago Blackhawks, 8, 2, 0, 0, 3, 34, 13, 154,True
+2009, 11, 28,16, Montreal Canadiens, 5, 1, 1, 3, 3, 30, 6, 90,21, Washington Capitals, 6, 1, 2, 3, 0, 25, 13, 161,False
+2009, 11, 28,1, New Jersey Devils, 7, 1, 1, 2, 1, 33, 6, 94,22, New York Islanders, 5, 1, 3, 6, 2, 28, 22, 182,True
+2009, 11, 28,14, Nashville Predators, 8, 1, 1, 2, 4, 29, 8, 105,12, Florida Panthers, 5, 1, 4, 8, 1, 40, 10, 115,True
+2009, 11, 28,27, Pittsburgh Penguins, 5, 2, 2, 6, 1, 19, 18, 173,24, New York Rangers, 4, 0, 1, 2, 1, 9, 5, 31,True
+2009, 11, 28,26, St. Louis Blues, 5, 2, 3, 5, 1, 38, 11, 159,8, Detroit Red Wings, 4, 0, 0, 0, 2, 25, 9, 107,False
+2009, 11, 28,19, Vancouver Canucks, 6, 1, 4, 7, 1, 32, 14, 143,10, Edmonton Oilers, 3, 1, 4, 5, 4, 31, 13, 113,True
+2009, 11, 29,30, Anaheim Ducks, 5, 1, 3, 6, 0, 28, 5, 96,25, Phoenix Coyotes, 4, 1, 5, 10, 2, 32, 19, 224,False
+2009, 11, 29,19, Vancouver Canucks, 6, 1, 7, 13, 3, 34, 16, 145,11, San Jose Sharks, 6, 1, 4, 8, 4, 33, 11, 72,False
+2009, 11, 30,6, Atlanta Thrashers, 7, 1, 1, 2, 0, 34, 6, 105,12, Florida Panthers, 5, 1, 1, 2, 5, 32, 12, 103,True
+2009, 11, 30,13, Carolina Hurricanes, 3, 1, 1, 0, 5, 24, 13, 85,21, Washington Capitals, 6, 1, 3, 6, 5, 23, 16, 160,False
+2009, 11, 30,7, Columbus Blue Jackets, 4, 0, 2, 6, 3, 32, 16, 176,26, St. Louis Blues, 5, 2, 3, 6, 3, 36, 13, 157,True
+2009, 11, 30,8, Detroit Red Wings, 5, 0, 3, 5, 3, 35, 10, 117,4, Dallas Stars, 5, 2, 4, 7, 4, 19, 24, 177,True
+2009, 11, 30,14, Nashville Predators, 8, 0, 4, 5, 3, 38, 7, 87,20, Calgary Flames, 6, 2, 3, 6, 0, 40, 6, 103,False
+2009, 11, 30,24, New York Rangers, 4, 0, 3, 6, 4, 22, 12, 55,27, Pittsburgh Penguins, 6, 2, 8, 12, 3, 25, 20, 179,False
+2009, 11, 30,28, Tampa Bay Lightning, 5, 0, 3, 3, 4, 35, 18, 163,23, Colorado Avalanche, 2, 2, 2, 4, 2, 36, 13, 131,False
+2009, 11, 30,29, Toronto Maple Leafs, 4, 0, 6, 8, 4, 30, 26, 200,18, Buffalo Sabres, 5, 2, 5, 10, 1, 31, 11, 146,False
+2009, 12, 1,30, Anaheim Ducks, 4, 0, 2, 4, 3, 36, 8, 90,9, Los Angeles Kings, 5, 2, 1, 2, 1, 33, 20, 128,False
+2009, 12, 1,2, Chicago Blackhawks, 8, 1, 1, 2, 1, 22, 11, 142,7, Columbus Blue Jackets, 4, 1, 5, 8, 2, 29, 15, 173,True
+2009, 12, 1,16, Montreal Canadiens, 4, 2, 3, 6, 3, 23, 8, 84,29, Toronto Maple Leafs, 3, 0, 0, 0, 3, 31, 25, 201,False
+2009, 12, 1,11, San Jose Sharks, 6, 2, 4, 6, 3, 12, 9, 66,15, Ottawa Senators, 6, 0, 3, 5, 3, 33, 13, 150,True
+2009, 12, 2,0, Boston Bruins, 6, 1, 3, 6, 3, 22, 13, 121,28, Tampa Bay Lightning, 4, 1, 0, 0, 4, 38, 16, 156,True
+2009, 12, 2,12, Florida Panthers, 4, 1, 3, 5, 2, 30, 6, 75,23, Colorado Avalanche, 3, 1, 3, 4, 0, 33, 11, 128,True
+2009, 12, 2,3, Minnesota Wild, 5, 1, 2, 3, 3, 34, 5, 56,14, Nashville Predators, 8, 1, 0, 0, 4, 29, 8, 78,True
+2009, 12, 2,1, New Jersey Devils, 7, 1, 6, 11, 1, 23, 10, 78,19, Vancouver Canucks, 5, 1, 2, 3, 4, 30, 17, 141,False
+2009, 12, 3,6, Atlanta Thrashers, 7, 0, 3, 6, 4, 36, 9, 99,22, New York Islanders, 4, 2, 1, 2, 2, 21, 24, 190,False
+2009, 12, 3,18, Buffalo Sabres, 6, 1, 3, 6, 0, 38, 10, 153,16, Montreal Canadiens, 4, 1, 0, 1, 1, 31, 8, 92,True
+2009, 12, 3,7, Columbus Blue Jackets, 4, 1, 3, 5, 3, 26, 16, 170,29, Toronto Maple Leafs, 4, 1, 3, 4, 0, 18, 23, 176,False
+2009, 12, 3,4, Dallas Stars, 5, 1, 1, 2, 4, 32, 24, 191,30, Anaheim Ducks, 4, 1, 3, 5, 3, 26, 9, 96,True
+2009, 12, 3,8, Detroit Red Wings, 5, 1, 4, 7, 1, 30, 8, 112,10, Edmonton Oilers, 2, 1, 2, 5, 4, 11, 12, 105,False
+2009, 12, 3,9, Los Angeles Kings, 6, 2, 4, 8, 3, 30, 22, 125,15, Ottawa Senators, 5, 0, 2, 3, 4, 32, 14, 149,True
+2009, 12, 3,17, Philadelphia Flyers, 4, 2, 2, 2, 1, 18, 13, 113,19, Vancouver Canucks, 5, 0, 5, 9, 2, 29, 15, 140,False
+2009, 12, 3,25, Phoenix Coyotes, 5, 0, 3, 6, 2, 28, 19, 220,20, Calgary Flames, 6, 2, 5, 7, 0, 22, 6, 85,True
+2009, 12, 3,27, Pittsburgh Penguins, 7, 0, 5, 6, 2, 31, 16, 167,23, Colorado Avalanche, 3, 2, 5, 10, 0, 0, 11, 107,True
+2009, 12, 3,11, San Jose Sharks, 6, 1, 5, 7, 2, 27, 10, 92,26, St. Louis Blues, 5, 1, 2, 2, 3, 37, 13, 146,False
+2009, 12, 3,21, Washington Capitals, 6, 2, 3, 3, 3, 24, 15, 178,12, Florida Panthers, 4, 0, 5, 10, 5, 34, 14, 90,True
+2009, 12, 4,2, Chicago Blackhawks, 8, 1, 3, 5, 3, 23, 13, 143,14, Nashville Predators, 7, 1, 4, 9, 1, 24, 9, 76,False
+2009, 12, 4,3, Minnesota Wild, 5, 1, 5, 9, 4, 35, 6, 57,30, Anaheim Ducks, 4, 1, 1, 2, 4, 42, 7, 107,True
+2009, 12, 4,16, Montreal Canadiens, 4, 1, 3, 4, 3, 31, 14, 98,0, Boston Bruins, 6, 1, 4, 8, 1, 40, 11, 139,True
+2009, 12, 4,1, New Jersey Devils, 6, 2, 2, 3, 5, 26, 11, 58,28, Tampa Bay Lightning, 3, 0, 1, 2, 2, 28, 16, 157,True
+2009, 12, 5,0, Boston Bruins, 6, 2, 1, 0, 0, 6, 14, 91,29, Toronto Maple Leafs, 5, 0, 6, 8, 3, 36, 23, 171,True
+2009, 12, 5,18, Buffalo Sabres, 6, 1, 6, 11, 2, 23, 12, 138,24, New York Rangers, 3, 1, 2, 4, 4, 32, 12, 65,False
+2009, 12, 5,13, Carolina Hurricanes, 3, 1, 1, 3, 5, 33, 11, 94,19, Vancouver Canucks, 6, 1, 3, 5, 4, 13, 13, 149,True
+2009, 12, 5,7, Columbus Blue Jackets, 3, 2, 4, 5, 4, 14, 14, 140,23, Colorado Avalanche, 3, 0, 1, 2, 2, 31, 13, 152,False
+2009, 12, 5,4, Dallas Stars, 5, 1, 3, 3, 1, 27, 21, 186,10, Edmonton Oilers, 3, 1, 4, 4, 1, 28, 9, 122,False
+2009, 12, 5,12, Florida Panthers, 4, 1, 2, 3, 2, 5, 13, 93,6, Atlanta Thrashers, 6, 1, 1, 2, 3, 28, 8, 89,False
+2009, 12, 5,9, Los Angeles Kings, 6, 1, 6, 8, 3, 30, 22, 125,26, St. Louis Blues, 5, 1, 2, 3, 3, 25, 10, 146,False
+2009, 12, 5,1, New Jersey Devils, 6, 0, 3, 4, 2, 24, 8, 56,8, Detroit Red Wings, 4, 1, 1, 3, 3, 17, 10, 115,True
+2009, 12, 5,14, Nashville Predators, 7, 1, 4, 8, 1, 35, 10, 102,3, Minnesota Wild, 5, 1, 4, 7, 2, 22, 6, 44,False
+2009, 12, 5,17, Philadelphia Flyers, 3, 1, 0, 0, 4, 25, 16, 115,21, Washington Capitals, 6, 1, 6, 9, 2, 40, 15, 182,False
+2009, 12, 5,25, Phoenix Coyotes, 6, 0, 2, 4, 1, 29, 18, 221,15, Ottawa Senators, 5, 2, 3, 5, 6, 24, 17, 133,True
+2009, 12, 5,27, Pittsburgh Penguins, 8, 1, 2, 7, 1, 16, 14, 149,2, Chicago Blackhawks, 7, 0, 1, 3, 0, 30, 14, 143,False
+2009, 12, 5,11, San Jose Sharks, 6, 1, 2, 4, 2, 30, 10, 79,20, Calgary Flames, 6, 1, 1, 2, 2, 31, 8, 94,False
+2009, 12, 5,28, Tampa Bay Lightning, 3, 1, 2, 3, 4, 39, 17, 148,22, New York Islanders, 5, 1, 4, 6, 1, 27, 27, 201,True
+2009, 12, 6,30, Anaheim Ducks, 4, 2, 4, 6, 2, 36, 8, 93,15, Ottawa Senators, 5, 0, 2, 4, 3, 25, 14, 134,False
+2009, 12, 6,24, New York Rangers, 4, 0, 2, 4, 1, 37, 9, 70,8, Detroit Red Wings, 3, 1, 3, 5, 4, 36, 10, 124,False
+2009, 12, 7,18, Buffalo Sabres, 5, 1, 1, 1, 2, 32, 12, 147,1, New Jersey Devils, 6, 1, 3, 4, 3, 31, 9, 63,False
+2009, 12, 7,12, Florida Panthers, 3, 1, 1, 2, 1, 37, 12, 125,10, Edmonton Oilers, 4, 1, 2, 4, 2, 35, 13, 127,False
+2009, 12, 7,9, Los Angeles Kings, 6, 0, 4, 7, 4, 31, 23, 126,20, Calgary Flames, 6, 2, 2, 3, 1, 36, 7, 99,True
+2009, 12, 7,16, Montreal Canadiens, 4, 2, 5, 8, 1, 38, 12, 105,17, Philadelphia Flyers, 3, 0, 2, 3, 3, 13, 17, 91,True
+2009, 12, 7,25, Phoenix Coyotes, 6, 1, 3, 2, 2, 28, 19, 220,3, Minnesota Wild, 6, 1, 5, 6, 4, 22, 7, 51,True
+2009, 12, 7,27, Pittsburgh Penguins, 7, 1, 3, 3, 2, 31, 15, 164,13, Carolina Hurricanes, 4, 1, 5, 11, 3, 36, 9, 97,False
+2009, 12, 7,26, St. Louis Blues, 6, 2, 4, 7, 4, 40, 10, 157,23, Colorado Avalanche, 3, 0, 3, 6, 2, 31, 13, 148,False
+2009, 12, 7,28, Tampa Bay Lightning, 3, 0, 4, 8, 0, 30, 13, 139,21, Washington Capitals, 6, 2, 8, 14, 2, 28, 15, 178,False
+2009, 12, 7,29, Toronto Maple Leafs, 5, 1, 2, 4, 3, 10, 24, 167,6, Atlanta Thrashers, 6, 1, 2, 2, 3, 26, 6, 92,True
+2009, 12, 8,30, Anaheim Ducks, 4, 0, 3, 3, 3, 29, 7, 86,4, Dallas Stars, 5, 2, 2, 5, 2, 36, 21, 190,True
+2009, 12, 8,14, Nashville Predators, 6, 1, 3, 1, 1, 11, 9, 61,19, Vancouver Canucks, 6, 1, 3, 5, 0, 38, 13, 163,True
+2009, 12, 8,15, Ottawa Senators, 5, 2, 3, 4, 3, 36, 14, 145,16, Montreal Canadiens, 5, 0, 3, 6, 6, 37, 12, 82,False
+2009, 12, 8,17, Philadelphia Flyers, 2, 2, 1, 0, 3, 13, 17, 91,22, New York Islanders, 4, 0, 0, 0, 6, 42, 30, 199,True
+2009, 12, 9,18, Buffalo Sabres, 4, 1, 0, 0, 3, 37, 13, 152,21, Washington Capitals, 7, 1, 3, 5, 2, 36, 13, 176,True
+2009, 12, 9,7, Columbus Blue Jackets, 2, 1, 2, 4, 3, 19, 13, 145,12, Florida Panthers, 2, 1, 2, 2, 2, 28, 13, 116,True
+2009, 12, 9,20, Calgary Flames, 6, 0, 1, 1, 2, 16, 8, 79,6, Atlanta Thrashers, 5, 2, 2, 4, 0, 6, 7, 63,True
+2009, 12, 9,2, Chicago Blackhawks, 7, 0, 2, 3, 4, 23, 15, 146,24, New York Rangers, 4, 2, 1, 1, 2, 30, 10, 63,True
+2009, 12, 9,23, Colorado Avalanche, 4, 0, 4, 7, 0, 35, 12, 144,3, Minnesota Wild, 6, 2, 0, 0, 2, 31, 5, 60,False
+2009, 12, 9,8, Detroit Red Wings, 4, 1, 3, 4, 1, 29, 7, 117,26, St. Louis Blues, 6, 1, 0, 0, 2, 34, 10, 139,False
+2009, 12, 9,1, New Jersey Devils, 6, 2, 3, 6, 0, 22, 6, 54,13, Carolina Hurricanes, 4, 0, 3, 6, 0, 4, 8, 93,True
+2009, 12, 9,11, San Jose Sharks, 5, 1, 1, 2, 2, 36, 9, 96,9, Los Angeles Kings, 6, 1, 2, 4, 4, 7, 20, 122,False
+2009, 12, 9,28, Tampa Bay Lightning, 3, 1, 0, 0, 3, 34, 16, 143,10, Edmonton Oilers, 5, 1, 2, 4, 2, 35, 13, 127,False
+2009, 12, 9,29, Toronto Maple Leafs, 6, 1, 5, 10, 2, 24, 23, 181,22, New York Islanders, 4, 1, 2, 4, 4, 25, 30, 194,True
+2009, 12, 10,0, Boston Bruins, 7, 2, 7, 10, 2, 33, 16, 118,29, Toronto Maple Leafs, 7, 0, 3, 5, 2, 32, 23, 189,True
+2009, 12, 10,9, Los Angeles Kings, 6, 2, 5, 7, 1, 27, 20, 149,25, Phoenix Coyotes, 7, 0, 2, 4, 0, 28, 17, 220,True
+2009, 12, 10,16, Montreal Canadiens, 5, 0, 4, 6, 1, 15, 4, 86,27, Pittsburgh Penguins, 6, 2, 2, 6, 3, 21, 14, 162,False
+2009, 12, 10,14, Nashville Predators, 6, 2, 4, 7, 2, 36, 10, 86,7, Columbus Blue Jackets, 2, 0, 3, 3, 2, 11, 10, 158,True
+2009, 12, 10,17, Philadelphia Flyers, 2, 1, 6, 9, 2, 24, 16, 97,15, Ottawa Senators, 4, 1, 1, 2, 3, 26, 14, 135,False
+2009, 12, 10,19, Vancouver Canucks, 6, 1, 2, 3, 3, 25, 16, 150,6, Atlanta Thrashers, 5, 1, 1, 2, 5, 22, 9, 88,True
+2009, 12, 11,18, Buffalo Sabres, 5, 1, 3, 5, 5, 26, 10, 150,2, Chicago Blackhawks, 7, 1, 2, 3, 1, 18, 12, 141,True
+2009, 12, 11,20, Calgary Flames, 7, 1, 3, 4, 1, 25, 7, 88,3, Minnesota Wild, 7, 1, 1, 3, 0, 22, 3, 51,False
+2009, 12, 11,23, Colorado Avalanche, 4, 2, 0, 0, 5, 44, 13, 131,28, Tampa Bay Lightning, 3, 0, 2, 3, 3, 19, 16, 141,True
+2009, 12, 11,8, Detroit Red Wings, 4, 2, 0, 0, 1, 26, 5, 122,30, Anaheim Ducks, 4, 0, 3, 5, 3, 22, 9, 79,True
+2009, 12, 11,1, New Jersey Devils, 7, 2, 4, 5, 2, 23, 8, 55,12, Florida Panthers, 1, 0, 0, 0, 2, 11, 9, 97,False
+2009, 12, 11,11, San Jose Sharks, 5, 1, 4, 7, 5, 28, 11, 88,4, Dallas Stars, 4, 1, 3, 5, 4, 42, 23, 194,False
+2009, 12, 11,26, St. Louis Blues, 6, 0, 1, 2, 0, 42, 8, 147,10, Edmonton Oilers, 6, 2, 3, 5, 2, 34, 13, 164,False
+2009, 12, 11,21, Washington Capitals, 6, 1, 0, 0, 3, 28, 12, 178,13, Carolina Hurricanes, 4, 1, 2, 3, 3, 30, 11, 119,True
+2009, 12, 12,6, Atlanta Thrashers, 5, 1, 2, 4, 2, 31, 8, 104,16, Montreal Canadiens, 4, 1, 2, 3, 3, 41, 7, 127,True
+2009, 12, 12,7, Columbus Blue Jackets, 2, 2, 3, 5, 0, 32, 11, 186,30, Anaheim Ducks, 4, 0, 2, 4, 4, 29, 9, 88,False
+2009, 12, 12,9, Los Angeles Kings, 7, 2, 2, 3, 2, 31, 21, 153,4, Dallas Stars, 5, 0, 2, 3, 3, 28, 21, 187,True
+2009, 12, 12,1, New Jersey Devils, 7, 0, 2, 3, 4, 22, 10, 71,17, Philadelphia Flyers, 2, 2, 0, 0, 1, 24, 13, 112,True
+2009, 12, 12,14, Nashville Predators, 6, 2, 3, 5, 3, 31, 11, 81,8, Detroit Red Wings, 4, 0, 3, 6, 3, 26, 11, 119,False
+2009, 12, 12,22, New York Islanders, 3, 1, 2, 3, 3, 35, 29, 204,0, Boston Bruins, 8, 1, 5, 10, 5, 23, 15, 118,True
+2009, 12, 12,24, New York Rangers, 3, 2, 1, 2, 2, 41, 10, 74,18, Buffalo Sabres, 6, 0, 2, 3, 0, 35, 6, 164,False
+2009, 12, 12,15, Ottawa Senators, 4, 1, 2, 1, 0, 23, 10, 131,13, Carolina Hurricanes, 3, 1, 3, 4, 2, 32, 12, 129,True
+2009, 12, 12,25, Phoenix Coyotes, 6, 2, 2, 4, 2, 28, 18, 219,11, San Jose Sharks, 5, 0, 2, 4, 2, 27, 11, 108,True
+2009, 12, 12,27, Pittsburgh Penguins, 7, 2, 3, 6, 3, 37, 19, 186,12, Florida Panthers, 2, 0, 5, 8, 2, 31, 9, 114,True
+2009, 12, 12,29, Toronto Maple Leafs, 6, 1, 2, 4, 4, 33, 25, 207,21, Washington Capitals, 7, 1, 4, 7, 3, 22, 11, 163,True
+2009, 12, 12,19, Vancouver Canucks, 6, 2, 4, 8, 2, 24, 15, 149,3, Minnesota Wild, 8, 0, 2, 4, 3, 29, 4, 52,True
+2009, 12, 13,2, Chicago Blackhawks, 6, 2, 1, 2, 1, 33, 9, 170,28, Tampa Bay Lightning, 2, 0, 1, 2, 1, 34, 14, 156,True
+2009, 12, 13,23, Colorado Avalanche, 4, 2, 1, 2, 1, 22, 9, 100,20, Calgary Flames, 6, 0, 1, 3, 2, 46, 8, 109,True
+2009, 12, 14,0, Boston Bruins, 7, 1, 2, 4, 3, 19, 13, 114,17, Philadelphia Flyers, 2, 1, 1, 3, 4, 28, 19, 111,False
+2009, 12, 14,7, Columbus Blue Jackets, 2, 0, 1, 2, 3, 25, 14, 179,14, Nashville Predators, 5, 2, 2, 4, 4, 28, 11, 79,False
+2009, 12, 14,8, Detroit Red Wings, 5, 1, 3, 3, 2, 27, 10, 128,25, Phoenix Coyotes, 7, 1, 2, 3, 1, 38, 17, 229,True
+2009, 12, 14,16, Montreal Canadiens, 4, 1, 3, 4, 1, 46, 8, 120,18, Buffalo Sabres, 7, 1, 3, 5, 2, 38, 8, 167,False
+2009, 12, 14,22, New York Islanders, 4, 0, 3, 6, 2, 32, 28, 201,12, Florida Panthers, 2, 2, 2, 4, 3, 40, 11, 122,False
+2009, 12, 14,24, New York Rangers, 3, 0, 2, 4, 3, 32, 11, 65,6, Atlanta Thrashers, 6, 2, 4, 8, 3, 19, 9, 92,False
+2009, 12, 14,29, Toronto Maple Leafs, 7, 0, 6, 9, 3, 37, 24, 211,15, Ottawa Senators, 4, 2, 4, 7, 2, 25, 12, 133,True
+2009, 12, 14,19, Vancouver Canucks, 6, 2, 4, 8, 3, 41, 16, 166,9, Los Angeles Kings, 8, 0, 2, 3, 2, 27, 21, 149,True
+2009, 12, 15,23, Colorado Avalanche, 5, 1, 3, 6, 2, 21, 10, 99,21, Washington Capitals, 7, 1, 3, 6, 3, 19, 14, 177,False
+2009, 12, 15,10, Edmonton Oilers, 6, 0, 5, 7, 3, 30, 16, 148,9, Los Angeles Kings, 7, 2, 1, 2, 3, 28, 22, 150,False
+2009, 12, 15,3, Minnesota Wild, 7, 1, 3, 5, 1, 23, 5, 52,7, Columbus Blue Jackets, 2, 1, 3, 4, 5, 32, 16, 186,True
+2009, 12, 15,14, Nashville Predators, 5, 0, 5, 7, 3, 29, 10, 82,28, Tampa Bay Lightning, 2, 2, 0, 0, 4, 29, 17, 151,True
+2009, 12, 15,27, Pittsburgh Penguins, 7, 1, 3, 6, 2, 21, 18, 180,17, Philadelphia Flyers, 3, 1, 3, 4, 1, 27, 12, 61,True
+2009, 12, 15,26, St. Louis Blues, 5, 1, 3, 5, 4, 22, 14, 149,20, Calgary Flames, 6, 1, 2, 3, 3, 32, 9, 98,True
+2009, 12, 16,13, Carolina Hurricanes, 2, 0, 2, 4, 4, 40, 13, 135,4, Dallas Stars, 4, 2, 2, 3, 2, 35, 20, 167,True
+2009, 12, 16,2, Chicago Blackhawks, 6, 1, 4, 7, 2, 33, 8, 155,26, St. Louis Blues, 6, 1, 4, 8, 5, 38, 13, 150,True
+2009, 12, 16,12, Florida Panthers, 3, 0, 7, 9, 1, 31, 12, 113,6, Atlanta Thrashers, 6, 2, 2, 4, 2, 48, 8, 121,True
+2009, 12, 16,1, New Jersey Devils, 8, 2, 4, 7, 1, 23, 7, 72,16, Montreal Canadiens, 3, 0, 3, 5, 4, 34, 9, 95,True
+2009, 12, 16,24, New York Rangers, 3, 1, 2, 3, 2, 27, 10, 60,22, New York Islanders, 4, 1, 1, 2, 5, 23, 27, 158,False
+2009, 12, 16,15, Ottawa Senators, 4, 2, 1, 4, 3, 24, 13, 132,18, Buffalo Sabres, 8, 0, 4, 7, 3, 24, 9, 153,True
+2009, 12, 16,29, Toronto Maple Leafs, 7, 0, 3, 6, 2, 24, 23, 198,25, Phoenix Coyotes, 6, 2, 2, 4, 3, 32, 19, 223,False
+2009, 12, 16,19, Vancouver Canucks, 7, 0, 3, 6, 1, 25, 14, 150,30, Anaheim Ducks, 4, 2, 3, 6, 1, 36, 7, 97,False
+2009, 12, 17,6, Atlanta Thrashers, 5, 0, 3, 6, 4, 38, 10, 102,4, Dallas Stars, 3, 1, 3, 6, 2, 27, 22, 160,True
+2009, 12, 17,7, Columbus Blue Jackets, 2, 1, 1, 1, 3, 39, 13, 177,25, Phoenix Coyotes, 7, 1, 6, 11, 4, 19, 20, 209,False
+2009, 12, 17,20, Calgary Flames, 5, 1, 3, 6, 3, 35, 10, 100,9, Los Angeles Kings, 8, 1, 3, 5, 2, 29, 18, 171,True
+2009, 12, 17,8, Detroit Red Wings, 6, 2, 3, 4, 2, 32, 8, 130,28, Tampa Bay Lightning, 1, 0, 4, 7, 3, 13, 17, 117,True
+2009, 12, 17,10, Edmonton Oilers, 6, 1, 2, 3, 3, 26, 10, 135,14, Nashville Predators, 6, 1, 7, 12, 4, 34, 10, 88,False
+2009, 12, 17,16, Montreal Canadiens, 3, 1, 1, 0, 2, 27, 7, 88,3, Minnesota Wild, 8, 0, 2, 3, 1, 22, 5, 51,False
+2009, 12, 17,22, New York Islanders, 4, 2, 2, 4, 1, 26, 23, 161,24, New York Rangers, 2, 0, 1, 2, 2, 28, 10, 61,False
+2009, 12, 17,17, Philadelphia Flyers, 2, 0, 1, 2, 6, 35, 17, 69,27, Pittsburgh Penguins, 7, 2, 6, 11, 1, 27, 13, 171,False
+2009, 12, 17,11, San Jose Sharks, 4, 2, 1, 2, 2, 44, 9, 118,30, Anaheim Ducks, 4, 0, 3, 6, 3, 31, 8, 91,True
+2009, 12, 18,18, Buffalo Sabres, 7, 2, 1, 0, 2, 28, 8, 157,29, Toronto Maple Leafs, 6, 0, 3, 5, 5, 28, 26, 202,True
+2009, 12, 18,2, Chicago Blackhawks, 6, 0, 4, 6, 0, 18, 6, 149,0, Boston Bruins, 6, 2, 1, 2, 2, 37, 13, 120,True
+2009, 12, 18,12, Florida Panthers, 4, 1, 4, 8, 3, 23, 14, 105,13, Carolina Hurricanes, 3, 1, 5, 10, 3, 27, 12, 122,True
+2009, 12, 18,1, New Jersey Devils, 8, 2, 2, 4, 1, 18, 7, 67,15, Ottawa Senators, 4, 0, 2, 2, 0, 22, 11, 118,True
+2009, 12, 18,26, St. Louis Blues, 5, 1, 0, 0, 3, 23, 9, 111,28, Tampa Bay Lightning, 1, 1, 0, 0, 4, 14, 17, 126,False
+2009, 12, 18,19, Vancouver Canucks, 6, 1, 2, 4, 3, 34, 13, 179,21, Washington Capitals, 8, 1, 6, 11, 1, 28, 10, 180,True
+2009, 12, 19,30, Anaheim Ducks, 3, 1, 1, 2, 2, 30, 9, 97,25, Phoenix Coyotes, 8, 1, 1, 0, 3, 30, 17, 229,True
+2009, 12, 19,6, Atlanta Thrashers, 5, 1, 6, 9, 5, 47, 11, 111,1, New Jersey Devils, 8, 1, 4, 8, 2, 29, 8, 78,False
+2009, 12, 19,18, Buffalo Sabres, 7, 1, 4, 7, 1, 40, 8, 171,27, Pittsburgh Penguins, 7, 1, 2, 4, 2, 33, 14, 177,False
+2009, 12, 19,13, Carolina Hurricanes, 3, 0, 3, 5, 5, 26, 12, 85,12, Florida Panthers, 5, 2, 6, 9, 2, 28, 14, 117,True
+2009, 12, 19,20, Calgary Flames, 5, 2, 2, 4, 1, 35, 8, 100,14, Nashville Predators, 6, 0, 6, 10, 1, 22, 8, 49,False
+2009, 12, 19,23, Colorado Avalanche, 5, 1, 1, 2, 5, 21, 13, 82,7, Columbus Blue Jackets, 2, 1, 1, 1, 2, 23, 11, 165,True
+2009, 12, 19,4, Dallas Stars, 3, 1, 5, 7, 3, 10, 22, 139,8, Detroit Red Wings, 7, 1, 3, 5, 0, 30, 6, 128,True
+2009, 12, 19,10, Edmonton Oilers, 5, 1, 3, 6, 6, 27, 18, 129,21, Washington Capitals, 7, 1, 2, 3, 6, 36, 12, 172,False
+2009, 12, 19,22, New York Islanders, 4, 0, 2, 4, 2, 3, 25, 168,16, Montreal Canadiens, 3, 2, 1, 1, 4, 27, 8, 82,False
+2009, 12, 19,15, Ottawa Senators, 4, 1, 2, 4, 0, 0, 15, 118,3, Minnesota Wild, 8, 0, 2, 5, 1, 31, 5, 60,True
+2009, 12, 19,17, Philadelphia Flyers, 2, 0, 2, 4, 2, 30, 13, 101,24, New York Rangers, 2, 2, 5, 10, 2, 37, 10, 70,False
+2009, 12, 19,29, Toronto Maple Leafs, 6, 0, 2, 3, 1, 17, 27, 189,0, Boston Bruins, 5, 2, 4, 6, 2, 34, 15, 127,True
+2009, 12, 20,2, Chicago Blackhawks, 6, 1, 4, 6, 0, 27, 10, 144,8, Detroit Red Wings, 6, 1, 3, 7, 2, 35, 10, 119,True
+2009, 12, 20,19, Vancouver Canucks, 6, 0, 3, 4, 2, 27, 12, 172,26, St. Louis Blues, 4, 2, 3, 6, 3, 35, 11, 111,False
+2009, 12, 21,6, Atlanta Thrashers, 4, 2, 4, 9, 4, 29, 11, 106,16, Montreal Canadiens, 4, 0, 3, 6, 0, 40, 4, 88,False
+2009, 12, 21,13, Carolina Hurricanes, 4, 2, 3, 4, 2, 30, 9, 89,24, New York Rangers, 3, 0, 2, 2, 1, 37, 9, 70,False
+2009, 12, 21,4, Dallas Stars, 4, 2, 4, 8, 3, 33, 22, 162,11, San Jose Sharks, 4, 0, 4, 8, 1, 21, 8, 89,False
+2009, 12, 21,10, Edmonton Oilers, 5, 2, 2, 3, 3, 24, 16, 144,26, St. Louis Blues, 5, 0, 3, 5, 5, 23, 9, 106,False
+2009, 12, 21,3, Minnesota Wild, 7, 2, 1, 2, 4, 24, 8, 53,23, Colorado Avalanche, 6, 0, 5, 10, 2, 30, 10, 91,False
+2009, 12, 21,22, New York Islanders, 3, 1, 0, 0, 5, 22, 26, 193,28, Tampa Bay Lightning, 2, 1, 6, 10, 3, 22, 16, 138,False
+2009, 12, 21,15, Ottawa Senators, 5, 0, 4, 8, 4, 22, 16, 141,0, Boston Bruins, 4, 2, 0, 0, 4, 44, 15, 124,False
+2009, 12, 21,17, Philadelphia Flyers, 2, 1, 1, 2, 2, 24, 13, 95,12, Florida Panthers, 4, 1, 2, 4, 3, 35, 13, 123,False
+2009, 12, 21,25, Phoenix Coyotes, 7, 2, 2, 4, 4, 34, 18, 233,7, Columbus Blue Jackets, 1, 0, 2, 4, 2, 24, 13, 146,True
+2009, 12, 21,27, Pittsburgh Penguins, 8, 0, 1, 1, 1, 32, 15, 167,1, New Jersey Devils, 8, 2, 5, 8, 3, 6, 8, 62,False
+2009, 12, 21,29, Toronto Maple Leafs, 6, 0, 2, 4, 0, 25, 26, 197,18, Buffalo Sabres, 6, 2, 1, 2, 2, 42, 8, 155,False
+2009, 12, 22,2, Chicago Blackhawks, 7, 2, 3, 6, 0, 20, 10, 137,11, San Jose Sharks, 5, 0, 4, 5, 2, 38, 9, 95,False
+2009, 12, 22,23, Colorado Avalanche, 6, 0, 4, 5, 3, 31, 11, 92,30, Anaheim Ducks, 4, 2, 4, 8, 2, 41, 8, 105,False
+2009, 12, 22,19, Vancouver Canucks, 6, 0, 1, 2, 3, 26, 13, 171,14, Nashville Predators, 7, 2, 5, 11, 3, 32, 7, 61,True
+2009, 12, 23,0, Boston Bruins, 5, 2, 2, 3, 0, 29, 11, 109,6, Atlanta Thrashers, 4, 0, 3, 6, 5, 42, 11, 100,True
+2009, 12, 23,13, Carolina Hurricanes, 4, 1, 1, 3, 2, 30, 8, 73,16, Montreal Canadiens, 5, 1, 4, 7, 3, 50, 10, 92,False
+2009, 12, 23,20, Calgary Flames, 4, 1, 3, 5, 4, 19, 11, 84,26, St. Louis Blues, 6, 1, 7, 12, 2, 25, 7, 124,False
+2009, 12, 23,4, Dallas Stars, 3, 1, 2, 3, 3, 15, 21, 176,7, Columbus Blue Jackets, 1, 1, 2, 4, 3, 7, 16, 145,True
+2009, 12, 23,8, Detroit Red Wings, 5, 1, 0, 1, 4, 21, 9, 114,2, Chicago Blackhawks, 7, 1, 2, 3, 4, 29, 13, 131,False
+2009, 12, 23,3, Minnesota Wild, 6, 1, 3, 5, 4, 21, 8, 50,10, Edmonton Oilers, 5, 1, 2, 2, 4, 42, 22, 151,True
+2009, 12, 23,22, New York Islanders, 3, 1, 2, 4, 4, 28, 25, 199,29, Toronto Maple Leafs, 5, 1, 1, 3, 3, 30, 29, 202,True
+2009, 12, 23,24, New York Rangers, 4, 1, 3, 4, 1, 33, 9, 66,12, Florida Panthers, 5, 1, 4, 8, 1, 31, 11, 130,True
+2009, 12, 23,25, Phoenix Coyotes, 7, 1, 5, 10, 2, 27, 14, 245,30, Anaheim Ducks, 5, 1, 4, 6, 2, 17, 8, 81,True
+2009, 12, 23,27, Pittsburgh Penguins, 7, 1, 0, 0, 4, 16, 16, 134,15, Ottawa Senators, 5, 1, 0, 0, 1, 25, 12, 167,True
+2009, 12, 23,28, Tampa Bay Lightning, 3, 0, 4, 8, 2, 38, 15, 154,17, Philadelphia Flyers, 2, 2, 1, 2, 2, 17, 15, 101,False
+2009, 12, 23,21, Washington Capitals, 7, 1, 4, 6, 2, 28, 9, 134,18, Buffalo Sabres, 6, 1, 3, 6, 2, 36, 8, 149,True
+2009, 12, 26,18, Buffalo Sabres, 6, 0, 3, 4, 5, 38, 11, 151,15, Ottawa Senators, 5, 2, 2, 3, 6, 24, 17, 149,False
+2009, 12, 26,13, Carolina Hurricanes, 4, 0, 1, 2, 3, 7, 10, 82,17, Philadelphia Flyers, 3, 2, 5, 10, 2, 33, 15, 117,False
+2009, 12, 26,23, Colorado Avalanche, 6, 1, 2, 4, 1, 4, 11, 103,4, Dallas Stars, 4, 1, 3, 6, 1, 34, 21, 192,True
+2009, 12, 26,8, Detroit Red Wings, 5, 2, 0, 1, 3, 31, 8, 124,7, Columbus Blue Jackets, 1, 0, 1, 3, 5, 23, 17, 163,True
+2009, 12, 26,3, Minnesota Wild, 6, 0, 3, 5, 1, 31, 5, 60,26, St. Louis Blues, 6, 2, 1, 2, 1, 24, 6, 123,True
+2009, 12, 26,14, Nashville Predators, 7, 2, 1, 2, 2, 4, 10, 60,2, Chicago Blackhawks, 7, 0, 3, 6, 3, 14, 9, 135,False
+2009, 12, 26,24, New York Rangers, 5, 1, 4, 7, 1, 34, 9, 67,22, New York Islanders, 3, 1, 3, 4, 1, 27, 22, 198,False
+2009, 12, 26,25, Phoenix Coyotes, 7, 0, 4, 8, 0, 21, 14, 237,9, Los Angeles Kings, 7, 2, 1, 3, 2, 24, 18, 166,True
+2009, 12, 26,11, San Jose Sharks, 5, 2, 3, 4, 2, 47, 9, 104,30, Anaheim Ducks, 5, 0, 0, 1, 1, 4, 6, 57,True
+2009, 12, 26,28, Tampa Bay Lightning, 3, 1, 2, 3, 4, 35, 17, 151,6, Atlanta Thrashers, 3, 1, 4, 7, 3, 8, 7, 65,True
+2009, 12, 26,29, Toronto Maple Leafs, 5, 1, 1, 2, 2, 22, 28, 194,16, Montreal Canadiens, 5, 1, 5, 10, 1, 47, 6, 101,False
+2009, 12, 26,19, Vancouver Canucks, 6, 2, 4, 8, 1, 21, 11, 166,10, Edmonton Oilers, 5, 0, 1, 1, 2, 26, 15, 149,True
+2009, 12, 26,21, Washington Capitals, 7, 0, 5, 10, 2, 34, 7, 152,1, New Jersey Devils, 9, 2, 4, 8, 0, 35, 5, 91,True
+2009, 12, 27,20, Calgary Flames, 3, 2, 1, 1, 1, 27, 8, 92,19, Vancouver Canucks, 6, 0, 4, 8, 1, 25, 11, 170,False
+2009, 12, 27,2, Chicago Blackhawks, 8, 1, 4, 7, 0, 33, 7, 147,14, Nashville Predators, 6, 1, 1, 0, 4, 36, 12, 96,True
+2009, 12, 27,12, Florida Panthers, 5, 1, 2, 2, 3, 24, 14, 131,0, Boston Bruins, 5, 1, 6, 13, 4, 29, 15, 126,False
+2009, 12, 27,22, New York Islanders, 4, 0, 3, 6, 3, 28, 23, 209,17, Philadelphia Flyers, 4, 2, 3, 5, 3, 40, 16, 124,False
+2009, 12, 27,27, Pittsburgh Penguins, 7, 1, 8, 14, 2, 47, 11, 169,29, Toronto Maple Leafs, 4, 1, 2, 4, 4, 10, 28, 199,False
+2009, 12, 27,26, St. Louis Blues, 5, 1, 3, 6, 1, 30, 9, 119,18, Buffalo Sabres, 6, 1, 2, 3, 1, 24, 8, 153,False
+2009, 12, 28,7, Columbus Blue Jackets, 1, 0, 1, 1, 3, 28, 14, 167,8, Detroit Red Wings, 6, 2, 2, 4, 1, 29, 10, 116,True
+2009, 12, 28,10, Edmonton Oilers, 4, 0, 1, 1, 3, 27, 16, 150,20, Calgary Flames, 3, 2, 1, 2, 4, 13, 8, 60,False
+2009, 12, 28,9, Los Angeles Kings, 6, 2, 2, 4, 3, 35, 19, 177,3, Minnesota Wild, 6, 0, 4, 6, 3, 18, 7, 47,False
+2009, 12, 28,1, New Jersey Devils, 8, 1, 1, 0, 4, 40, 8, 100,6, Atlanta Thrashers, 3, 1, 3, 6, 2, 22, 8, 91,True
+2009, 12, 28,15, Ottawa Senators, 5, 1, 2, 4, 2, 22, 15, 145,16, Montreal Canadiens, 5, 1, 4, 7, 2, 49, 7, 103,True
+2009, 12, 28,11, San Jose Sharks, 5, 0, 5, 10, 2, 32, 9, 89,25, Phoenix Coyotes, 7, 2, 3, 3, 2, 25, 16, 241,True
+2009, 12, 28,28, Tampa Bay Lightning, 3, 0, 4, 7, 3, 27, 16, 143,0, Boston Bruins, 5, 2, 2, 4, 1, 26, 12, 123,True
+2009, 12, 28,21, Washington Capitals, 7, 2, 4, 8, 3, 20, 6, 148,13, Carolina Hurricanes, 3, 0, 3, 6, 3, 36, 9, 107,False
+2009, 12, 29,30, Anaheim Ducks, 5, 1, 2, 2, 3, 28, 10, 91,3, Minnesota Wild, 7, 1, 4, 7, 4, 29, 7, 61,True
+2009, 12, 29,18, Buffalo Sabres, 6, 0, 5, 10, 2, 40, 10, 164,27, Pittsburgh Penguins, 6, 2, 3, 4, 4, 27, 17, 143,True
+2009, 12, 29,4, Dallas Stars, 3, 1, 1, 2, 3, 31, 20, 187,2, Chicago Blackhawks, 8, 1, 5, 8, 1, 26, 10, 137,True
+2009, 12, 29,22, New York Islanders, 4, 1, 1, 3, 2, 38, 22, 211,7, Columbus Blue Jackets, 1, 1, 1, 2, 0, 34, 11, 182,True
+2009, 12, 29,25, Phoenix Coyotes, 6, 1, 2, 4, 1, 39, 16, 254,19, Vancouver Canucks, 7, 1, 5, 7, 1, 30, 11, 175,True
+2009, 12, 29,26, St. Louis Blues, 5, 1, 3, 4, 4, 20, 13, 113,14, Nashville Predators, 6, 1, 4, 5, 4, 40, 13, 89,False
+2009, 12, 30,0, Boston Bruins, 5, 2, 1, 2, 2, 31, 13, 136,6, Atlanta Thrashers, 3, 0, 2, 3, 4, 34, 9, 95,True
+2009, 12, 30,20, Calgary Flames, 3, 1, 4, 6, 1, 35, 5, 82,9, Los Angeles Kings, 5, 1, 3, 6, 4, 34, 21, 156,True
+2009, 12, 30,10, Edmonton Oilers, 3, 1, 1, 1, 4, 23, 16, 150,29, Toronto Maple Leafs, 4, 1, 4, 8, 3, 24, 27, 213,True
+2009, 12, 30,1, New Jersey Devils, 8, 2, 3, 6, 2, 26, 6, 86,27, Pittsburgh Penguins, 6, 0, 3, 5, 0, 14, 17, 140,True
+2009, 12, 30,24, New York Rangers, 4, 2, 2, 4, 3, 22, 11, 55,17, Philadelphia Flyers, 4, 0, 2, 4, 1, 29, 13, 115,False
+2009, 12, 30,15, Ottawa Senators, 6, 0, 4, 5, 2, 31, 15, 154,23, Colorado Avalanche, 7, 1, 4, 8, 3, 42, 13, 144,False
+2009, 12, 30,11, San Jose Sharks, 5, 1, 2, 2, 2, 33, 9, 90,21, Washington Capitals, 6, 1, 3, 5, 1, 30, 12, 155,True
+2009, 12, 30,28, Tampa Bay Lightning, 4, 1, 2, 4, 1, 32, 14, 148,16, Montreal Canadiens, 4, 1, 2, 4, 3, 21, 11, 65,False
+2009, 12, 31,13, Carolina Hurricanes, 3, 1, 6, 9, 3, 31, 8, 95,24, New York Rangers, 4, 1, 0, 0, 3, 11, 14, 64,False
+2009, 12, 31,7, Columbus Blue Jackets, 1, 0, 1, 2, 2, 27, 14, 162,14, Nashville Predators, 6, 2, 4, 7, 5, 29, 12, 86,False
+2009, 12, 31,20, Calgary Flames, 4, 2, 2, 4, 1, 16, 5, 71,10, Edmonton Oilers, 3, 0, 3, 6, 1, 28, 13, 157,True
+2009, 12, 31,2, Chicago Blackhawks, 7, 1, 4, 8, 4, 10, 10, 115,1, New Jersey Devils, 8, 1, 2, 3, 0, 32, 4, 92,True
+2009, 12, 31,4, Dallas Stars, 4, 1, 5, 10, 4, 37, 22, 196,30, Anaheim Ducks, 6, 1, 4, 6, 2, 31, 9, 94,True
+2009, 12, 31,8, Detroit Red Wings, 5, 0, 0, 0, 1, 40, 10, 127,23, Colorado Avalanche, 7, 2, 4, 4, 3, 30, 13, 132,True
+2009, 12, 31,12, Florida Panthers, 5, 1, 1, 2, 4, 32, 13, 127,16, Montreal Canadiens, 5, 1, 2, 3, 3, 27, 6, 96,False
+2009, 12, 31,3, Minnesota Wild, 6, 1, 2, 4, 3, 32, 6, 63,9, Los Angeles Kings, 5, 1, 1, 2, 4, 23, 19, 143,False
+2009, 12, 31,15, Ottawa Senators, 5, 2, 3, 5, 4, 20, 17, 143,22, New York Islanders, 5, 0, 1, 2, 1, 42, 21, 215,True
+2009, 12, 31,25, Phoenix Coyotes, 7, 1, 2, 4, 2, 38, 17, 245,11, San Jose Sharks, 6, 1, 5, 5, 2, 35, 9, 83,False
+2009, 12, 31,26, St. Louis Blues, 4, 2, 3, 4, 4, 30, 13, 123,19, Vancouver Canucks, 7, 0, 2, 2, 2, 25, 13, 161,False
+2010, 1, 1,0, Boston Bruins, 5, 0, 4, 8, 2, 39, 11, 123,17, Philadelphia Flyers, 5, 2, 6, 8, 0, 22, 12, 108,True
+2010, 1, 1,18, Buffalo Sabres, 6, 0, 4, 7, 3, 11, 8, 127,6, Atlanta Thrashers, 3, 2, 0, 0, 1, 20, 6, 65,True
+2010, 1, 2,7, Columbus Blue Jackets, 1, 0, 1, 2, 1, 25, 12, 171,23, Colorado Avalanche, 6, 2, 2, 4, 3, 34, 13, 136,False
+2010, 1, 2,20, Calgary Flames, 4, 1, 2, 4, 1, 24, 5, 77,29, Toronto Maple Leafs, 4, 1, 2, 0, 3, 23, 27, 212,True
+2010, 1, 2,4, Dallas Stars, 5, 1, 5, 8, 3, 34, 21, 193,19, Vancouver Canucks, 7, 1, 4, 6, 3, 25, 14, 161,False
+2010, 1, 2,9, Los Angeles Kings, 5, 2, 5, 8, 2, 29, 17, 149,21, Washington Capitals, 5, 0, 2, 3, 5, 33, 13, 175,True
+2010, 1, 2,3, Minnesota Wild, 5, 0, 2, 4, 4, 28, 7, 59,1, New Jersey Devils, 7, 2, 1, 1, 5, 36, 9, 96,False
+2010, 1, 2,14, Nashville Predators, 6, 0, 2, 2, 3, 27, 8, 89,30, Anaheim Ducks, 5, 2, 3, 6, 5, 42, 12, 100,True
+2010, 1, 2,22, New York Islanders, 4, 2, 2, 3, 2, 36, 22, 209,6, Atlanta Thrashers, 2, 0, 3, 6, 4, 23, 9, 68,True
+2010, 1, 2,24, New York Rangers, 5, 2, 2, 4, 1, 18, 12, 71,13, Carolina Hurricanes, 3, 0, 1, 3, 2, 35, 9, 103,False
+2010, 1, 2,25, Phoenix Coyotes, 6, 1, 2, 4, 2, 33, 17, 240,8, Detroit Red Wings, 6, 1, 4, 7, 2, 22, 11, 109,False
+2010, 1, 2,11, San Jose Sharks, 7, 2, 2, 3, 2, 26, 9, 84,10, Edmonton Oilers, 2, 0, 1, 3, 2, 39, 18, 153,True
+2010, 1, 2,26, St. Louis Blues, 4, 0, 3, 6, 5, 24, 13, 123,2, Chicago Blackhawks, 8, 2, 5, 8, 1, 27, 7, 132,False
+2010, 1, 2,28, Tampa Bay Lightning, 4, 0, 1, 2, 2, 35, 15, 151,27, Pittsburgh Penguins, 6, 2, 0, 0, 4, 24, 19, 169,True
+2010, 1, 3,2, Chicago Blackhawks, 8, 1, 6, 10, 1, 14, 9, 127,30, Anaheim Ducks, 5, 1, 1, 2, 5, 25, 10, 95,True
+2010, 1, 3,12, Florida Panthers, 5, 0, 4, 6, 5, 42, 13, 131,27, Pittsburgh Penguins, 5, 2, 1, 2, 3, 37, 18, 182,True
+2010, 1, 3,16, Montreal Canadiens, 6, 0, 5, 9, 1, 35, 9, 100,18, Buffalo Sabres, 6, 2, 4, 8, 3, 35, 8, 151,False
+2010, 1, 3,15, Ottawa Senators, 5, 1, 2, 3, 2, 27, 15, 150,17, Philadelphia Flyers, 5, 1, 1, 2, 2, 26, 14, 112,True
+2010, 1, 4,24, New York Rangers, 5, 1, 1, 2, 2, 19, 13, 72,0, Boston Bruins, 5, 1, 2, 4, 0, 18, 10, 109,True
+2010, 1, 4,11, San Jose Sharks, 8, 1, 4, 8, 1, 23, 11, 94,9, Los Angeles Kings, 5, 1, 2, 3, 1, 27, 16, 147,False
+2010, 1, 5,30, Anaheim Ducks, 4, 0, 2, 4, 2, 35, 10, 98,8, Detroit Red Wings, 6, 2, 4, 7, 1, 36, 11, 132,True
+2010, 1, 5,2, Chicago Blackhawks, 8, 1, 5, 9, 3, 22, 10, 137,3, Minnesota Wild, 5, 1, 3, 6, 3, 31, 7, 56,True
+2010, 1, 5,10, Edmonton Oilers, 1, 1, 1, 2, 4, 27, 20, 141,25, Phoenix Coyotes, 6, 1, 1, 3, 3, 35, 18, 242,False
+2010, 1, 5,1, New Jersey Devils, 8, 0, 5, 6, 3, 32, 7, 92,4, Dallas Stars, 4, 2, 1, 2, 3, 32, 19, 176,True
+2010, 1, 5,14, Nashville Predators, 7, 1, 3, 6, 1, 32, 6, 88,20, Calgary Flames, 5, 1, 3, 6, 1, 25, 5, 78,False
+2010, 1, 5,15, Ottawa Senators, 6, 0, 7, 13, 1, 11, 16, 127,0, Boston Bruins, 5, 2, 2, 4, 1, 25, 14, 121,False
+2010, 1, 5,27, Pittsburgh Penguins, 4, 2, 2, 3, 1, 32, 20, 179,6, Atlanta Thrashers, 1, 0, 4, 10, 3, 10, 10, 81,True
+2010, 1, 5,29, Toronto Maple Leafs, 3, 1, 1, 1, 2, 34, 26, 223,12, Florida Panthers, 5, 1, 6, 10, 2, 48, 10, 137,True
+2010, 1, 5,19, Vancouver Canucks, 7, 1, 3, 5, 1, 32, 12, 168,7, Columbus Blue Jackets, 1, 1, 2, 4, 3, 37, 12, 175,True
+2010, 1, 5,21, Washington Capitals, 5, 1, 1, 1, 2, 19, 11, 155,16, Montreal Canadiens, 6, 1, 0, 0, 1, 30, 7, 93,True
+2010, 1, 6,18, Buffalo Sabres, 6, 1, 1, 2, 0, 30, 5, 146,28, Tampa Bay Lightning, 5, 1, 3, 6, 1, 26, 14, 142,True
+2010, 1, 6,23, Colorado Avalanche, 7, 1, 3, 5, 2, 28, 12, 130,22, New York Islanders, 5, 1, 5, 8, 5, 27, 25, 200,False
+2010, 1, 6,3, Minnesota Wild, 4, 2, 2, 2, 4, 25, 8, 58,20, Calgary Flames, 6, 0, 3, 6, 1, 28, 5, 81,True
+2010, 1, 6,24, New York Rangers, 6, 0, 3, 6, 2, 28, 13, 81,4, Dallas Stars, 4, 2, 0, 0, 2, 26, 24, 180,True
+2010, 1, 6,17, Philadelphia Flyers, 4, 1, 4, 7, 2, 7, 17, 106,29, Toronto Maple Leafs, 3, 1, 3, 5, 2, 31, 26, 220,True
+2010, 1, 6,11, San Jose Sharks, 8, 1, 2, 4, 5, 16, 14, 55,26, St. Louis Blues, 3, 1, 2, 5, 4, 30, 14, 132,True
+2010, 1, 7,30, Anaheim Ducks, 4, 1, 4, 4, 1, 39, 10, 109,26, St. Louis Blues, 3, 1, 1, 2, 2, 44, 12, 146,True
+2010, 1, 7,6, Atlanta Thrashers, 1, 2, 2, 2, 5, 36, 12, 108,24, New York Rangers, 7, 0, 5, 8, 3, 20, 13, 80,True
+2010, 1, 7,0, Boston Bruins, 6, 1, 4, 6, 1, 28, 14, 124,2, Chicago Blackhawks, 8, 1, 4, 8, 2, 24, 8, 135,False
+2010, 1, 7,10, Edmonton Oilers, 1, 1, 4, 6, 7, 26, 17, 127,7, Columbus Blue Jackets, 1, 1, 3, 5, 1, 7, 14, 133,False
+2010, 1, 7,9, Los Angeles Kings, 5, 0, 6, 9, 2, 47, 17, 167,8, Detroit Red Wings, 5, 2, 1, 2, 3, 34, 13, 130,False
+2010, 1, 7,16, Montreal Canadiens, 6, 1, 2, 2, 4, 36, 10, 106,12, Florida Panthers, 5, 1, 2, 3, 3, 31, 12, 127,True
+2010, 1, 7,14, Nashville Predators, 6, 2, 1, 2, 1, 26, 6, 87,13, Carolina Hurricanes, 4, 0, 2, 4, 1, 28, 8, 102,True
+2010, 1, 7,27, Pittsburgh Penguins, 4, 2, 4, 7, 5, 34, 21, 177,17, Philadelphia Flyers, 5, 0, 6, 11, 2, 32, 17, 131,False
+2010, 1, 7,19, Vancouver Canucks, 7, 0, 7, 12, 3, 32, 14, 168,25, Phoenix Coyotes, 6, 2, 5, 7, 4, 42, 20, 244,True
+2010, 1, 7,21, Washington Capitals, 5, 1, 4, 5, 5, 25, 11, 144,15, Ottawa Senators, 5, 1, 1, 2, 0, 19, 16, 141,True
+2010, 1, 8,18, Buffalo Sabres, 7, 2, 5, 9, 3, 39, 8, 155,29, Toronto Maple Leafs, 3, 0, 2, 4, 3, 23, 30, 221,True
+2010, 1, 8,13, Carolina Hurricanes, 4, 1, 2, 3, 4, 34, 13, 115,23, Colorado Avalanche, 6, 1, 2, 3, 1, 40, 10, 140,True
+2010, 1, 8,20, Calgary Flames, 6, 2, 1, 2, 1, 22, 8, 88,7, Columbus Blue Jackets, 2, 0, 4, 7, 2, 26, 20, 171,False
+2010, 1, 8,4, Dallas Stars, 4, 2, 2, 4, 4, 24, 26, 178,22, New York Islanders, 5, 0, 3, 7, 5, 33, 22, 205,True
+2010, 1, 8,1, New Jersey Devils, 8, 2, 4, 6, 0, 28, 4, 88,28, Tampa Bay Lightning, 5, 0, 3, 4, 5, 35, 18, 151,False
+2010, 1, 9,6, Atlanta Thrashers, 1, 0, 1, 2, 1, 30, 8, 102,21, Washington Capitals, 6, 2, 5, 10, 2, 26, 8, 147,False
+2010, 1, 9,0, Boston Bruins, 6, 0, 2, 3, 4, 24, 15, 97,24, New York Rangers, 6, 2, 1, 1, 2, 27, 11, 92,False
+2010, 1, 9,18, Buffalo Sabres, 7, 0, 3, 6, 0, 27, 7, 166,23, Colorado Avalanche, 5, 1, 1, 2, 3, 35, 11, 120,False
+2010, 1, 9,9, Los Angeles Kings, 4, 1, 1, 2, 2, 24, 17, 144,26, St. Louis Blues, 3, 1, 2, 3, 3, 28, 13, 130,False
+2010, 1, 9,3, Minnesota Wild, 4, 0, 4, 8, 1, 26, 5, 59,2, Chicago Blackhawks, 8, 2, 5, 9, 1, 20, 11, 135,True
+2010, 1, 9,16, Montreal Canadiens, 7, 0, 2, 4, 0, 38, 10, 109,1, New Jersey Devils, 7, 2, 2, 4, 3, 7, 7, 54,False
+2010, 1, 9,14, Nashville Predators, 6, 1, 4, 7, 2, 27, 7, 84,30, Anaheim Ducks, 5, 1, 4, 7, 2, 22, 11, 74,False
+2010, 1, 9,15, Ottawa Senators, 5, 1, 2, 3, 4, 16, 21, 160,12, Florida Panthers, 4, 1, 0, 0, 1, 38, 10, 134,False
+2010, 1, 9,17, Philadelphia Flyers, 6, 2, 7, 13, 4, 39, 19, 138,28, Tampa Bay Lightning, 6, 0, 4, 8, 3, 26, 15, 151,True
+2010, 1, 9,25, Phoenix Coyotes, 5, 1, 0, 0, 4, 24, 20, 226,22, New York Islanders, 5, 1, 3, 3, 2, 32, 21, 187,False
+2010, 1, 9,11, San Jose Sharks, 9, 0, 2, 2, 1, 29, 10, 68,8, Detroit Red Wings, 5, 2, 2, 4, 1, 52, 11, 148,False
+2010, 1, 9,29, Toronto Maple Leafs, 3, 1, 2, 4, 6, 32, 30, 229,27, Pittsburgh Penguins, 3, 1, 5, 7, 4, 15, 20, 136,False
+2010, 1, 9,19, Vancouver Canucks, 8, 1, 4, 7, 0, 31, 9, 152,20, Calgary Flames, 5, 1, 2, 2, 4, 35, 10, 88,False
+2010, 1, 10,13, Carolina Hurricanes, 4, 1, 2, 4, 1, 30, 7, 90,15, Ottawa Senators, 4, 1, 0, 1, 5, 38, 20, 163,True
+2010, 1, 10,7, Columbus Blue Jackets, 3, 1, 3, 6, 2, 22, 19, 162,4, Dallas Stars, 5, 1, 4, 7, 3, 22, 22, 176,True
+2010, 1, 10,2, Chicago Blackhawks, 8, 1, 4, 8, 2, 21, 15, 136,30, Anaheim Ducks, 5, 1, 3, 4, 2, 27, 11, 70,False
+2010, 1, 11,20, Calgary Flames, 6, 0, 2, 3, 2, 21, 8, 74,23, Colorado Avalanche, 6, 2, 3, 5, 3, 35, 11, 120,False
+2010, 1, 11,9, Los Angeles Kings, 4, 2, 3, 6, 0, 9, 15, 116,11, San Jose Sharks, 8, 0, 1, 2, 4, 22, 13, 61,False
+2010, 1, 11,3, Minnesota Wild, 5, 2, 5, 10, 5, 12, 5, 25,27, Pittsburgh Penguins, 3, 0, 4, 9, 1, 43, 15, 168,True
+2010, 1, 11,19, Vancouver Canucks, 7, 1, 2, 5, 2, 40, 11, 161,14, Nashville Predators, 5, 1, 2, 5, 2, 33, 8, 78,False
+2010, 1, 12,6, Atlanta Thrashers, 1, 1, 1, 2, 4, 28, 10, 72,15, Ottawa Senators, 4, 1, 1, 2, 4, 33, 19, 158,True
+2010, 1, 12,10, Edmonton Oilers, 1, 1, 2, 2, 5, 30, 15, 146,14, Nashville Predators, 5, 1, 3, 4, 3, 21, 8, 77,False
+2010, 1, 12,22, New York Islanders, 6, 1, 4, 8, 4, 29, 23, 184,8, Detroit Red Wings, 5, 0, 4, 4, 1, 32, 11, 128,True
+2010, 1, 12,24, New York Rangers, 6, 1, 3, 5, 1, 30, 10, 95,1, New Jersey Devils, 7, 1, 2, 3, 1, 30, 5, 77,False
+2010, 1, 12,17, Philadelphia Flyers, 7, 1, 4, 6, 1, 18, 16, 121,4, Dallas Stars, 4, 1, 0, 0, 1, 40, 20, 194,True
+2010, 1, 12,25, Phoenix Coyotes, 5, 0, 2, 8, 0, 15, 15, 184,11, San Jose Sharks, 8, 2, 2, 2, 1, 34, 10, 73,False
+2010, 1, 12,26, St. Louis Blues, 3, 1, 5, 6, 3, 24, 13, 126,7, Columbus Blue Jackets, 4, 1, 2, 3, 0, 26, 16, 147,True
+2010, 1, 12,28, Tampa Bay Lightning, 6, 0, 1, 2, 2, 35, 15, 155,21, Washington Capitals, 6, 2, 8, 15, 1, 39, 11, 161,True
+2010, 1, 12,29, Toronto Maple Leafs, 2, 1, 1, 3, 4, 39, 28, 236,13, Carolina Hurricanes, 5, 1, 4, 7, 1, 32, 9, 104,False
+2010, 1, 13,30, Anaheim Ducks, 5, 1, 3, 4, 1, 43, 10, 86,0, Boston Bruins, 6, 1, 1, 2, 1, 12, 11, 89,True
+2010, 1, 13,20, Calgary Flames, 6, 0, 2, 3, 2, 21, 8, 74,27, Pittsburgh Penguins, 3, 2, 3, 6, 4, 24, 21, 132,False
+2010, 1, 13,12, Florida Panthers, 4, 0, 3, 5, 0, 24, 8, 131,21, Washington Capitals, 6, 2, 4, 8, 4, 15, 15, 130,False
+2010, 1, 13,3, Minnesota Wild, 6, 0, 4, 6, 3, 38, 3, 51,19, Vancouver Canucks, 7, 2, 2, 4, 3, 25, 15, 163,True
+2010, 1, 14,6, Atlanta Thrashers, 2, 1, 6, 10, 1, 31, 7, 75,18, Buffalo Sabres, 7, 1, 3, 5, 2, 50, 10, 169,False
+2010, 1, 14,2, Chicago Blackhawks, 7, 1, 2, 2, 5, 21, 15, 126,7, Columbus Blue Jackets, 4, 1, 1, 2, 3, 9, 13, 126,True
+2010, 1, 14,8, Detroit Red Wings, 5, 2, 0, 0, 3, 20, 13, 92,13, Carolina Hurricanes, 5, 0, 4, 8, 2, 40, 10, 112,True
+2010, 1, 14,10, Edmonton Oilers, 1, 0, 3, 6, 1, 14, 10, 112,27, Pittsburgh Penguins, 3, 2, 3, 4, 1, 38, 18, 173,False
+2010, 1, 14,9, Los Angeles Kings, 3, 2, 1, 2, 4, 23, 20, 160,30, Anaheim Ducks, 6, 0, 4, 8, 3, 30, 12, 73,True
+2010, 1, 14,16, Montreal Canadiens, 6, 1, 1, 1, 4, 43, 7, 102,4, Dallas Stars, 4, 1, 3, 5, 5, 19, 21, 132,True
+2010, 1, 14,24, New York Rangers, 5, 2, 0, 0, 0, 45, 9, 110,15, Ottawa Senators, 4, 0, 1, 2, 1, 23, 15, 116,False
+2010, 1, 14,25, Phoenix Coyotes, 4, 1, 1, 2, 4, 15, 18, 201,1, New Jersey Devils, 7, 1, 0, 0, 0, 51, 4, 98,True
+2010, 1, 14,11, San Jose Sharks, 8, 1, 3, 4, 1, 33, 10, 72,0, Boston Bruins, 5, 1, 3, 5, 3, 34, 14, 109,False
+2010, 1, 14,26, St. Louis Blues, 3, 1, 4, 7, 1, 27, 11, 129,3, Minnesota Wild, 6, 1, 5, 6, 0, 13, 2, 44,True
+2010, 1, 14,28, Tampa Bay Lightning, 6, 2, 7, 11, 2, 24, 14, 126,12, Florida Panthers, 3, 0, 4, 8, 4, 37, 12, 144,False
+2010, 1, 14,29, Toronto Maple Leafs, 2, 0, 2, 3, 3, 31, 23, 190,17, Philadelphia Flyers, 8, 2, 5, 12, 3, 30, 18, 132,True
+2010, 1, 15,20, Calgary Flames, 6, 1, 1, 2, 3, 27, 9, 80,14, Nashville Predators, 6, 1, 5, 9, 2, 32, 5, 92,False
+2010, 1, 15,21, Washington Capitals, 6, 0, 3, 3, 0, 15, 7, 127,29, Toronto Maple Leafs, 3, 2, 4, 8, 0, 38, 20, 197,True
+2010, 1, 16,13, Carolina Hurricanes, 5, 0, 1, 2, 3, 35, 12, 112,6, Atlanta Thrashers, 2, 2, 1, 2, 2, 32, 8, 76,False
+2010, 1, 16,7, Columbus Blue Jackets, 4, 0, 0, 0, 0, 13, 13, 153,2, Chicago Blackhawks, 7, 2, 3, 6, 0, 24, 10, 129,False
+2010, 1, 16,23, Colorado Avalanche, 6, 0, 2, 3, 2, 46, 5, 108,1, New Jersey Devils, 6, 2, 3, 5, 4, 19, 8, 66,True
+2010, 1, 16,4, Dallas Stars, 3, 1, 3, 2, 1, 9, 21, 141,8, Detroit Red Wings, 6, 1, 3, 5, 1, 38, 11, 110,True
+2010, 1, 16,12, Florida Panthers, 4, 1, 3, 4, 2, 30, 9, 129,28, Tampa Bay Lightning, 5, 1, 2, 4, 3, 29, 15, 131,True
+2010, 1, 16,9, Los Angeles Kings, 4, 1, 4, 7, 0, 22, 16, 159,0, Boston Bruins, 5, 1, 1, 2, 1, 42, 13, 136,True
+2010, 1, 16,16, Montreal Canadiens, 6, 1, 5, 8, 3, 36, 11, 97,15, Ottawa Senators, 4, 1, 2, 2, 0, 32, 15, 144,False
+2010, 1, 16,22, New York Islanders, 7, 1, 6, 10, 4, 28, 19, 171,18, Buffalo Sabres, 7, 1, 2, 3, 1, 33, 9, 152,True
+2010, 1, 16,25, Phoenix Coyotes, 4, 2, 5, 6, 3, 34, 18, 239,3, Minnesota Wild, 5, 0, 0, 0, 2, 31, 3, 68,True
+2010, 1, 16,11, San Jose Sharks, 7, 2, 1, 2, 1, 4, 10, 70,10, Edmonton Oilers, 1, 0, 2, 3, 3, 31, 12, 129,True
+2010, 1, 16,26, St. Louis Blues, 3, 1, 1, 1, 0, 19, 10, 121,24, New York Rangers, 4, 0, 0, 1, 1, 32, 10, 98,True
+2010, 1, 16,19, Vancouver Canucks, 6, 1, 2, 4, 5, 19, 13, 133,27, Pittsburgh Penguins, 4, 1, 3, 5, 2, 26, 19, 170,True
+2010, 1, 17,30, Anaheim Ducks, 6, 2, 0, 0, 3, 13, 8, 49,20, Calgary Flames, 5, 0, 0, 1, 3, 22, 7, 74,True
+2010, 1, 17,8, Detroit Red Wings, 6, 0, 2, 4, 2, 30, 12, 102,2, Chicago Blackhawks, 7, 2, 6, 12, 2, 11, 15, 131,False
+2010, 1, 17,24, New York Rangers, 4, 1, 1, 1, 1, 33, 12, 90,16, Montreal Canadiens, 5, 1, 2, 4, 2, 28, 11, 88,True
+2010, 1, 17,21, Washington Capitals, 6, 2, 6, 11, 1, 29, 13, 143,17, Philadelphia Flyers, 7, 0, 1, 0, 5, 17, 21, 126,True
+2010, 1, 18,0, Boston Bruins, 4, 2, 3, 5, 3, 34, 15, 128,15, Ottawa Senators, 4, 0, 4, 6, 3, 14, 17, 149,False
+2010, 1, 18,13, Carolina Hurricanes, 5, 1, 3, 6, 4, 36, 13, 113,28, Tampa Bay Lightning, 5, 1, 2, 3, 5, 18, 17, 125,False
+2010, 1, 18,7, Columbus Blue Jackets, 3, 1, 5, 10, 3, 36, 19, 171,26, St. Louis Blues, 4, 1, 4, 8, 1, 22, 11, 124,True
+2010, 1, 18,23, Colorado Avalanche, 6, 0, 3, 6, 1, 38, 6, 104,10, Edmonton Oilers, 1, 2, 2, 2, 4, 14, 12, 130,True
+2010, 1, 18,4, Dallas Stars, 4, 0, 2, 2, 2, 28, 22, 160,3, Minnesota Wild, 4, 2, 4, 8, 6, 33, 7, 70,True
+2010, 1, 18,12, Florida Panthers, 4, 1, 5, 9, 2, 49, 8, 134,6, Atlanta Thrashers, 3, 1, 5, 10, 4, 9, 9, 76,True
+2010, 1, 18,14, Nashville Predators, 7, 1, 1, 1, 3, 41, 7, 93,29, Toronto Maple Leafs, 3, 1, 1, 2, 3, 17, 26, 183,False
+2010, 1, 18,22, New York Islanders, 7, 0, 2, 4, 2, 33, 17, 176,1, New Jersey Devils, 6, 2, 1, 2, 2, 27, 6, 74,True
+2010, 1, 18,25, Phoenix Coyotes, 4, 0, 7, 12, 4, 22, 20, 224,18, Buffalo Sabres, 7, 2, 2, 4, 2, 38, 10, 157,False
+2010, 1, 18,11, San Jose Sharks, 7, 1, 4, 8, 1, 31, 11, 95,20, Calgary Flames, 4, 1, 4, 6, 1, 21, 9, 78,True
+2010, 1, 19,30, Anaheim Ducks, 6, 2, 5, 10, 4, 37, 8, 64,18, Buffalo Sabres, 8, 0, 7, 14, 3, 30, 10, 145,True
+2010, 1, 19,6, Atlanta Thrashers, 3, 1, 0, 0, 3, 32, 6, 91,29, Toronto Maple Leafs, 3, 1, 4, 5, 6, 24, 26, 196,True
+2010, 1, 19,9, Los Angeles Kings, 5, 1, 3, 6, 3, 24, 20, 147,11, San Jose Sharks, 7, 1, 9, 17, 1, 22, 11, 86,False
+2010, 1, 19,24, New York Rangers, 5, 1, 6, 10, 2, 20, 13, 77,28, Tampa Bay Lightning, 5, 1, 3, 6, 2, 22, 14, 129,True
+2010, 1, 19,15, Ottawa Senators, 5, 0, 5, 7, 1, 23, 16, 155,2, Chicago Blackhawks, 8, 2, 3, 6, 5, 26, 17, 139,True
+2010, 1, 19,17, Philadelphia Flyers, 6, 0, 3, 5, 5, 22, 21, 133,7, Columbus Blue Jackets, 4, 1, 4, 8, 2, 32, 18, 167,True
+2010, 1, 19,27, Pittsburgh Penguins, 4, 1, 2, 3, 2, 15, 25, 165,22, New York Islanders, 7, 1, 4, 7, 0, 16, 14, 170,True
+2010, 1, 19,21, Washington Capitals, 6, 1, 5, 6, 3, 33, 16, 159,8, Detroit Red Wings, 5, 1, 3, 6, 3, 11, 13, 101,True
+2010, 1, 20,10, Edmonton Oilers, 1, 0, 0, 0, 4, 36, 22, 160,19, Vancouver Canucks, 6, 2, 5, 9, 2, 24, 11, 124,False
+2010, 1, 20,16, Montreal Canadiens, 4, 1, 3, 5, 3, 27, 14, 86,26, St. Louis Blues, 4, 1, 2, 5, 6, 33, 14, 132,False
+2010, 1, 20,1, New Jersey Devils, 5, 1, 0, 0, 4, 32, 7, 86,12, Florida Panthers, 5, 1, 1, 2, 0, 27, 6, 112,True
+2010, 1, 21,6, Atlanta Thrashers, 4, 2, 4, 7, 3, 40, 6, 99,13, Carolina Hurricanes, 5, 0, 2, 3, 3, 32, 12, 109,False
+2010, 1, 21,0, Boston Bruins, 4, 1, 1, 2, 2, 17, 14, 85,7, Columbus Blue Jackets, 4, 1, 3, 6, 0, 7, 15, 141,False
+2010, 1, 21,20, Calgary Flames, 3, 0, 1, 2, 6, 34, 12, 77,2, Chicago Blackhawks, 7, 2, 1, 2, 3, 38, 16, 131,False
+2010, 1, 21,9, Los Angeles Kings, 5, 1, 1, 2, 5, 24, 22, 147,18, Buffalo Sabres, 7, 1, 4, 6, 1, 19, 10, 119,True
+2010, 1, 21,3, Minnesota Wild, 4, 1, 3, 6, 0, 14, 4, 29,8, Detroit Red Wings, 5, 1, 2, 2, 3, 29, 10, 118,False
+2010, 1, 21,22, New York Islanders, 7, 0, 3, 7, 5, 28, 19, 182,12, Florida Panthers, 5, 2, 0, 0, 1, 31, 7, 116,True
+2010, 1, 21,15, Ottawa Senators, 5, 2, 4, 6, 1, 30, 14, 168,26, St. Louis Blues, 5, 0, 4, 5, 4, 30, 11, 137,True
+2010, 1, 21,17, Philadelphia Flyers, 6, 1, 5, 5, 3, 28, 19, 139,24, New York Rangers, 5, 1, 8, 16, 2, 23, 13, 80,True
+2010, 1, 21,25, Phoenix Coyotes, 4, 0, 2, 4, 3, 13, 20, 201,14, Nashville Predators, 7, 2, 3, 4, 1, 14, 7, 52,True
+2010, 1, 21,27, Pittsburgh Penguins, 5, 1, 6, 11, 4, 35, 24, 190,21, Washington Capitals, 7, 1, 3, 5, 2, 46, 15, 172,False
+2010, 1, 21,11, San Jose Sharks, 7, 2, 4, 6, 1, 37, 11, 101,30, Anaheim Ducks, 7, 0, 4, 5, 4, 45, 7, 102,True
+2010, 1, 21,28, Tampa Bay Lightning, 4, 1, 2, 3, 5, 20, 20, 133,29, Toronto Maple Leafs, 3, 1, 3, 6, 3, 30, 24, 204,True
+2010, 1, 21,19, Vancouver Canucks, 6, 1, 3, 6, 2, 33, 11, 133,4, Dallas Stars, 4, 1, 4, 8, 3, 25, 23, 157,True
+2010, 1, 22,23, Colorado Avalanche, 7, 0, 6, 12, 0, 24, 5, 95,14, Nashville Predators, 6, 2, 2, 3, 3, 8, 10, 61,True
+2010, 1, 22,10, Edmonton Oilers, 1, 2, 2, 3, 3, 29, 17, 159,4, Dallas Stars, 3, 0, 3, 4, 5, 28, 24, 155,False
+2010, 1, 22,1, New Jersey Devils, 5, 2, 2, 4, 0, 22, 3, 76,16, Montreal Canadiens, 4, 0, 3, 5, 6, 34, 15, 87,False
+2010, 1, 23,0, Boston Bruins, 3, 1, 2, 4, 3, 9, 16, 91,15, Ottawa Senators, 5, 1, 4, 6, 2, 29, 13, 161,False
+2010, 1, 23,8, Detroit Red Wings, 5, 2, 3, 5, 3, 30, 10, 119,9, Los Angeles Kings, 6, 0, 3, 6, 3, 29, 20, 152,False
+2010, 1, 23,12, Florida Panthers, 5, 0, 0, 2, 1, 36, 8, 127,29, Toronto Maple Leafs, 3, 2, 2, 4, 3, 32, 24, 206,True
+2010, 1, 23,3, Minnesota Wild, 4, 1, 3, 4, 2, 18, 3, 29,7, Columbus Blue Jackets, 5, 1, 3, 4, 2, 34, 17, 168,True
+2010, 1, 23,16, Montreal Canadiens, 4, 1, 3, 6, 1, 32, 10, 85,24, New York Rangers, 5, 1, 0, 0, 2, 27, 13, 84,True
+2010, 1, 23,22, New York Islanders, 7, 1, 1, 2, 0, 20, 15, 188,1, New Jersey Devils, 5, 1, 1, 2, 3, 24, 6, 78,False
+2010, 1, 23,17, Philadelphia Flyers, 6, 2, 2, 3, 0, 24, 13, 137,13, Carolina Hurricanes, 5, 0, 5, 9, 2, 18, 11, 111,True
+2010, 1, 23,11, San Jose Sharks, 7, 0, 3, 4, 1, 27, 11, 91,18, Buffalo Sabres, 6, 2, 3, 6, 3, 29, 12, 129,True
+2010, 1, 23,26, St. Louis Blues, 5, 1, 2, 4, 3, 30, 9, 126,30, Anaheim Ducks, 7, 1, 2, 2, 2, 24, 5, 81,False
+2010, 1, 23,28, Tampa Bay Lightning, 5, 2, 3, 6, 2, 22, 17, 135,6, Atlanta Thrashers, 4, 0, 3, 3, 1, 24, 7, 80,True
+2010, 1, 23,19, Vancouver Canucks, 7, 1, 4, 6, 3, 23, 12, 123,2, Chicago Blackhawks, 7, 1, 3, 5, 1, 20, 14, 113,True
+2010, 1, 23,21, Washington Capitals, 8, 0, 6, 10, 4, 15, 15, 160,25, Phoenix Coyotes, 4, 1, 4, 7, 2, 43, 20, 229,True
+2010, 1, 24,13, Carolina Hurricanes, 5, 0, 2, 3, 2, 22, 10, 88,0, Boston Bruins, 2, 2, 1, 2, 2, 23, 15, 105,True
+2010, 1, 24,23, Colorado Avalanche, 7, 1, 2, 4, 1, 30, 6, 101,4, Dallas Stars, 4, 1, 4, 5, 3, 38, 22, 165,True
+2010, 1, 24,17, Philadelphia Flyers, 7, 1, 4, 4, 2, 35, 14, 164,27, Pittsburgh Penguins, 5, 1, 3, 7, 5, 33, 25, 188,False
+2010, 1, 25,20, Calgary Flames, 2, 0, 1, 2, 2, 27, 8, 70,26, St. Louis Blues, 5, 2, 3, 6, 3, 38, 9, 133,False
+2010, 1, 25,24, New York Rangers, 4, 0, 0, 0, 4, 15, 17, 88,27, Pittsburgh Penguins, 6, 2, 2, 4, 2, 35, 18, 179,False
+2010, 1, 25,19, Vancouver Canucks, 7, 0, 5, 9, 1, 44, 10, 144,18, Buffalo Sabres, 5, 1, 2, 4, 4, 23, 13, 123,True
+2010, 1, 26,6, Atlanta Thrashers, 4, 1, 1, 2, 1, 26, 7, 82,30, Anaheim Ducks, 8, 0, 3, 5, 3, 21, 7, 68,True
+2010, 1, 26,7, Columbus Blue Jackets, 5, 0, 2, 4, 4, 28, 19, 162,14, Nashville Predators, 5, 2, 1, 2, 2, 23, 9, 83,True
+2010, 1, 26,8, Detroit Red Wings, 4, 2, 2, 4, 3, 33, 7, 118,25, Phoenix Coyotes, 4, 0, 2, 3, 3, 33, 21, 219,False
+2010, 1, 26,10, Edmonton Oilers, 0, 0, 3, 6, 6, 34, 18, 162,2, Chicago Blackhawks, 6, 2, 1, 2, 2, 16, 14, 103,False
+2010, 1, 26,12, Florida Panthers, 5, 0, 2, 4, 0, 39, 6, 127,16, Montreal Canadiens, 4, 2, 6, 10, 0, 32, 7, 91,True
+2010, 1, 26,22, New York Islanders, 7, 1, 3, 4, 1, 34, 18, 195,21, Washington Capitals, 9, 1, 4, 7, 3, 38, 9, 178,False
+2010, 1, 26,15, Ottawa Senators, 6, 0, 2, 3, 1, 33, 14, 163,1, New Jersey Devils, 5, 2, 4, 7, 2, 22, 5, 76,True
+2010, 1, 26,29, Toronto Maple Leafs, 2, 1, 0, 0, 2, 22, 23, 196,9, Los Angeles Kings, 6, 1, 3, 6, 2, 33, 19, 156,False
+2010, 1, 27,18, Buffalo Sabres, 4, 1, 2, 4, 3, 25, 12, 125,1, New Jersey Devils, 4, 1, 0, 0, 3, 12, 6, 58,True
+2010, 1, 27,4, Dallas Stars, 4, 1, 0, 0, 4, 23, 23, 163,20, Calgary Flames, 1, 1, 0, 0, 2, 29, 8, 72,True
+2010, 1, 27,3, Minnesota Wild, 5, 0, 4, 5, 1, 11, 3, 35,8, Detroit Red Wings, 4, 2, 4, 8, 3, 23, 9, 122,True
+2010, 1, 27,24, New York Rangers, 3, 1, 2, 3, 3, 27, 16, 100,13, Carolina Hurricanes, 5, 1, 5, 8, 1, 28, 9, 94,False
+2010, 1, 27,28, Tampa Bay Lightning, 5, 1, 1, 2, 1, 38, 16, 151,16, Montreal Canadiens, 4, 1, 1, 2, 4, 28, 9, 88,True
+2010, 1, 27,19, Vancouver Canucks, 7, 1, 3, 6, 2, 32, 11, 132,26, St. Louis Blues, 6, 1, 2, 5, 0, 34, 6, 129,True
+2010, 1, 27,21, Washington Capitals, 9, 1, 8, 8, 0, 11, 6, 141,30, Anaheim Ducks, 7, 0, 1, 2, 1, 14, 7, 84,True
+2010, 1, 28,13, Carolina Hurricanes, 6, 0, 5, 9, 1, 38, 9, 104,22, New York Islanders, 6, 2, 2, 4, 3, 21, 21, 159,True
+2010, 1, 28,7, Columbus Blue Jackets, 5, 1, 3, 4, 2, 31, 17, 165,9, Los Angeles Kings, 6, 1, 5, 9, 3, 28, 20, 151,False
+2010, 1, 28,23, Colorado Avalanche, 7, 1, 4, 6, 0, 27, 4, 80,3, Minnesota Wild, 6, 1, 5, 8, 2, 28, 4, 52,False
+2010, 1, 28,10, Edmonton Oilers, 0, 1, 2, 2, 4, 37, 19, 143,26, St. Louis Blues, 6, 1, 2, 4, 3, 37, 9, 129,False
+2010, 1, 28,17, Philadelphia Flyers, 7, 1, 1, 2, 2, 22, 13, 146,6, Atlanta Thrashers, 5, 1, 2, 4, 1, 35, 7, 91,False
+2010, 1, 28,25, Phoenix Coyotes, 5, 1, 5, 11, 4, 36, 21, 225,20, Calgary Flames, 1, 1, 3, 6, 3, 36, 9, 79,True
+2010, 1, 28,27, Pittsburgh Penguins, 6, 1, 4, 8, 2, 30, 21, 174,15, Ottawa Senators, 7, 1, 3, 5, 0, 24, 14, 163,False
+2010, 1, 28,11, San Jose Sharks, 8, 1, 5, 9, 2, 40, 12, 104,2, Chicago Blackhawks, 6, 1, 4, 7, 2, 24, 14, 111,False
+2010, 1, 29,18, Buffalo Sabres, 4, 0, 1, 1, 1, 40, 10, 140,0, Boston Bruins, 2, 2, 1, 2, 1, 5, 14, 80,True
+2010, 1, 29,4, Dallas Stars, 5, 0, 3, 6, 3, 26, 22, 166,23, Colorado Avalanche, 7, 2, 0, 0, 1, 26, 5, 79,True
+2010, 1, 29,8, Detroit Red Wings, 3, 1, 2, 4, 5, 37, 14, 124,14, Nashville Predators, 4, 1, 2, 4, 4, 23, 8, 65,True
+2010, 1, 29,1, New Jersey Devils, 4, 1, 1, 1, 1, 31, 4, 77,29, Toronto Maple Leafs, 2, 1, 3, 5, 4, 32, 25, 206,True
+2010, 1, 29,28, Tampa Bay Lightning, 6, 1, 3, 5, 0, 33, 15, 146,30, Anaheim Ducks, 6, 1, 1, 1, 2, 34, 9, 109,False
+2010, 1, 29,21, Washington Capitals, 9, 2, 5, 8, 1, 31, 8, 174,12, Florida Panthers, 6, 0, 2, 2, 1, 17, 10, 109,True
+2010, 1, 30,0, Boston Bruins, 1, 0, 1, 2, 4, 15, 14, 98,9, Los Angeles Kings, 6, 2, 4, 6, 1, 30, 18, 153,False
+2010, 1, 30,13, Carolina Hurricanes, 6, 1, 4, 6, 1, 27, 9, 93,2, Chicago Blackhawks, 6, 1, 4, 8, 3, 37, 15, 124,True
+2010, 1, 30,20, Calgary Flames, 1, 2, 2, 3, 2, 31, 8, 74,10, Edmonton Oilers, 0, 0, 1, 3, 4, 32, 17, 126,True
+2010, 1, 30,14, Nashville Predators, 4, 1, 2, 4, 3, 17, 8, 71,6, Atlanta Thrashers, 5, 1, 4, 6, 3, 37, 9, 93,True
+2010, 1, 30,15, Ottawa Senators, 8, 2, 4, 7, 1, 31, 14, 170,16, Montreal Canadiens, 4, 0, 0, 0, 2, 29, 10, 90,True
+2010, 1, 30,17, Philadelphia Flyers, 6, 2, 3, 4, 4, 28, 16, 151,22, New York Islanders, 5, 0, 1, 1, 4, 12, 21, 160,True
+2010, 1, 30,25, Phoenix Coyotes, 5, 0, 2, 3, 4, 18, 18, 215,24, New York Rangers, 3, 2, 1, 2, 3, 24, 18, 97,True
+2010, 1, 30,11, San Jose Sharks, 7, 2, 3, 5, 4, 39, 14, 103,3, Minnesota Wild, 6, 0, 1, 2, 0, 29, 2, 53,True
+2010, 1, 30,26, St. Louis Blues, 6, 1, 2, 3, 1, 25, 7, 117,7, Columbus Blue Jackets, 4, 1, 1, 0, 5, 30, 19, 152,False
+2010, 1, 30,29, Toronto Maple Leafs, 2, 0, 4, 6, 2, 12, 22, 173,19, Vancouver Canucks, 7, 2, 3, 5, 2, 27, 9, 135,False
+2010, 1, 31,23, Colorado Avalanche, 6, 1, 2, 4, 3, 31, 7, 94,24, New York Rangers, 2, 1, 2, 2, 3, 24, 18, 97,False
+2010, 1, 31,4, Dallas Stars, 5, 0, 3, 6, 2, 26, 21, 166,25, Phoenix Coyotes, 6, 2, 3, 5, 2, 26, 16, 223,False
+2010, 1, 31,12, Florida Panthers, 6, 1, 2, 2, 4, 40, 13, 135,22, New York Islanders, 5, 1, 1, 2, 3, 22, 19, 180,True
+2010, 1, 31,1, New Jersey Devils, 4, 1, 5, 10, 4, 29, 7, 75,9, Los Angeles Kings, 7, 1, 2, 4, 2, 33, 17, 164,False
+2010, 1, 31,27, Pittsburgh Penguins, 6, 1, 1, 2, 3, 27, 19, 168,8, Detroit Red Wings, 3, 1, 4, 8, 2, 48, 11, 135,True
+2010, 1, 31,21, Washington Capitals, 9, 1, 4, 6, 2, 20, 9, 166,28, Tampa Bay Lightning, 5, 1, 1, 1, 2, 12, 16, 145,True
+2010, 2, 1,20, Calgary Flames, 1, 1, 6, 11, 1, 28, 7, 71,17, Philadelphia Flyers, 6, 1, 2, 4, 1, 32, 13, 155,False
+2010, 2, 1,10, Edmonton Oilers, 0, 1, 1, 2, 2, 20, 14, 141,13, Carolina Hurricanes, 6, 1, 4, 7, 2, 41, 10, 107,True
+2010, 2, 1,12, Florida Panthers, 6, 1, 2, 4, 0, 33, 9, 128,30, Anaheim Ducks, 6, 0, 1, 2, 1, 31, 8, 120,False
+2010, 2, 1,27, Pittsburgh Penguins, 6, 1, 1, 2, 1, 24, 17, 165,18, Buffalo Sabres, 4, 1, 2, 4, 1, 31, 10, 131,True
+2010, 2, 2,6, Atlanta Thrashers, 5, 0, 3, 5, 4, 21, 10, 87,28, Tampa Bay Lightning, 5, 2, 2, 4, 1, 32, 17, 164,False
+2010, 2, 2,0, Boston Bruins, 1, 0, 2, 2, 2, 29, 14, 117,21, Washington Capitals, 10, 2, 3, 6, 2, 27, 9, 173,False
+2010, 2, 2,23, Colorado Avalanche, 6, 2, 1, 2, 3, 34, 6, 119,7, Columbus Blue Jackets, 4, 0, 3, 8, 2, 27, 16, 149,True
+2010, 2, 2,4, Dallas Stars, 5, 1, 2, 3, 4, 36, 24, 190,3, Minnesota Wild, 5, 1, 2, 4, 3, 30, 10, 90,True
+2010, 2, 2,9, Los Angeles Kings, 8, 0, 3, 5, 2, 28, 17, 159,24, New York Rangers, 3, 2, 3, 6, 5, 24, 16, 108,True
+2010, 2, 2,16, Montreal Canadiens, 3, 1, 2, 3, 3, 37, 11, 98,19, Vancouver Canucks, 7, 1, 5, 7, 3, 8, 10, 126,True
+2010, 2, 2,14, Nashville Predators, 4, 1, 4, 7, 3, 26, 10, 74,25, Phoenix Coyotes, 7, 1, 4, 6, 2, 40, 18, 242,False
+2010, 2, 2,11, San Jose Sharks, 8, 0, 5, 8, 2, 38, 12, 102,8, Detroit Red Wings, 3, 2, 1, 2, 1, 47, 10, 134,False
+2010, 2, 2,29, Toronto Maple Leafs, 2, 1, 3, 4, 5, 49, 29, 255,1, New Jersey Devils, 3, 1, 2, 4, 0, 6, 6, 68,True
+2010, 2, 3,30, Anaheim Ducks, 6, 1, 3, 3, 0, 33, 0, 88,8, Detroit Red Wings, 3, 1, 4, 8, 2, 34, 11, 121,True
+2010, 2, 3,18, Buffalo Sabres, 4, 0, 4, 7, 5, 31, 14, 131,15, Ottawa Senators, 9, 2, 3, 5, 2, 29, 13, 163,False
+2010, 2, 3,20, Calgary Flames, 1, 1, 0, 1, 3, 27, 9, 70,13, Carolina Hurricanes, 5, 1, 3, 3, 4, 27, 12, 93,True
+2010, 2, 3,2, Chicago Blackhawks, 6, 2, 2, 3, 4, 24, 16, 111,26, St. Louis Blues, 5, 0, 2, 4, 3, 19, 9, 111,False
+2010, 2, 3,10, Edmonton Oilers, 1, 2, 4, 8, 2, 35, 17, 155,17, Philadelphia Flyers, 6, 0, 3, 6, 4, 35, 12, 136,True
+2010, 2, 4,0, Boston Bruins, 1, 0, 1, 2, 2, 23, 15, 113,16, Montreal Canadiens, 4, 2, 3, 5, 2, 47, 9, 103,False
+2010, 2, 4,7, Columbus Blue Jackets, 4, 1, 1, 2, 4, 18, 20, 136,4, Dallas Stars, 6, 1, 3, 5, 2, 42, 22, 196,True
+2010, 2, 4,9, Los Angeles Kings, 9, 2, 2, 2, 1, 21, 16, 152,30, Anaheim Ducks, 6, 0, 3, 6, 1, 47, 1, 102,True
+2010, 2, 4,3, Minnesota Wild, 4, 1, 2, 4, 5, 36, 11, 78,10, Edmonton Oilers, 2, 1, 1, 2, 0, 33, 15, 153,True
+2010, 2, 4,14, Nashville Predators, 4, 1, 0, 0, 0, 26, 6, 89,23, Colorado Avalanche, 7, 1, 5, 7, 1, 21, 4, 106,True
+2010, 2, 4,24, New York Rangers, 3, 1, 1, 2, 2, 21, 13, 105,21, Washington Capitals, 10, 1, 4, 5, 1, 42, 7, 183,False
+2010, 2, 4,15, Ottawa Senators, 10, 0, 4, 6, 2, 36, 13, 170,19, Vancouver Canucks, 7, 2, 2, 4, 0, 13, 10, 146,True
+2010, 2, 4,26, St. Louis Blues, 5, 1, 3, 4, 3, 34, 8, 126,11, San Jose Sharks, 7, 1, 2, 3, 2, 29, 14, 101,False
+2010, 2, 4,28, Tampa Bay Lightning, 5, 2, 2, 4, 1, 27, 17, 159,22, New York Islanders, 4, 0, 0, 1, 2, 32, 22, 191,True
+2010, 2, 5,18, Buffalo Sabres, 3, 2, 2, 5, 3, 37, 12, 137,13, Carolina Hurricanes, 5, 0, 1, 2, 1, 7, 8, 96,False
+2010, 2, 5,2, Chicago Blackhawks, 6, 1, 2, 3, 3, 19, 15, 106,25, Phoenix Coyotes, 8, 1, 0, 0, 2, 26, 16, 227,False
+2010, 2, 5,12, Florida Panthers, 6, 1, 0, 0, 3, 25, 14, 122,20, Calgary Flames, 2, 1, 4, 7, 1, 28, 7, 71,False
+2010, 2, 5,1, New Jersey Devils, 3, 1, 0, 0, 3, 22, 9, 88,29, Toronto Maple Leafs, 3, 1, 3, 6, 3, 19, 26, 243,True
+2010, 2, 5,21, Washington Capitals, 10, 2, 6, 11, 1, 36, 9, 182,6, Atlanta Thrashers, 4, 0, 1, 1, 2, 24, 8, 90,True
+2010, 2, 6,6, Atlanta Thrashers, 4, 0, 2, 3, 4, 31, 10, 97,12, Florida Panthers, 5, 2, 1, 1, 2, 40, 13, 137,True
+2010, 2, 6,0, Boston Bruins, 1, 1, 2, 4, 2, 25, 15, 115,19, Vancouver Canucks, 7, 0, 1, 2, 3, 28, 11, 156,False
+2010, 2, 6,7, Columbus Blue Jackets, 5, 2, 2, 3, 1, 23, 17, 141,18, Buffalo Sabres, 3, 0, 3, 6, 4, 11, 13, 127,True
+2010, 2, 6,23, Colorado Avalanche, 6, 1, 2, 4, 5, 36, 14, 124,10, Edmonton Oilers, 2, 1, 2, 4, 4, 36, 21, 154,True
+2010, 2, 6,4, Dallas Stars, 6, 0, 2, 3, 1, 25, 21, 179,25, Phoenix Coyotes, 8, 2, 1, 2, 0, 25, 15, 230,True
+2010, 2, 6,9, Los Angeles Kings, 9, 1, 6, 12, 4, 22, 18, 156,8, Detroit Red Wings, 3, 1, 1, 1, 3, 30, 13, 114,True
+2010, 2, 6,3, Minnesota Wild, 4, 0, 4, 5, 0, 9, 8, 74,17, Philadelphia Flyers, 5, 2, 0, 0, 1, 27, 10, 137,True
+2010, 2, 6,16, Montreal Canadiens, 4, 0, 2, 4, 2, 47, 7, 106,27, Pittsburgh Penguins, 7, 2, 5, 7, 4, 34, 24, 171,True
+2010, 2, 6,14, Nashville Predators, 4, 1, 5, 10, 3, 26, 9, 89,11, San Jose Sharks, 7, 1, 5, 10, 4, 37, 14, 109,False
+2010, 2, 6,22, New York Islanders, 3, 1, 2, 3, 2, 25, 24, 189,13, Carolina Hurricanes, 6, 1, 4, 7, 0, 0, 11, 123,False
+2010, 2, 6,24, New York Rangers, 3, 0, 5, 10, 6, 32, 17, 116,1, New Jersey Devils, 4, 2, 4, 8, 3, 20, 9, 86,True
+2010, 2, 6,26, St. Louis Blues, 4, 1, 2, 4, 2, 34, 11, 147,2, Chicago Blackhawks, 5, 1, 1, 2, 3, 12, 13, 123,False
+2010, 2, 6,28, Tampa Bay Lightning, 6, 1, 5, 10, 2, 36, 18, 168,20, Calgary Flames, 3, 1, 2, 4, 1, 13, 7, 56,True
+2010, 2, 6,29, Toronto Maple Leafs, 2, 1, 3, 3, 0, 30, 27, 252,15, Ottawa Senators, 10, 1, 3, 6, 1, 30, 12, 164,True
+2010, 2, 7,16, Montreal Canadiens, 5, 2, 5, 7, 3, 21, 8, 80,0, Boston Bruins, 0, 0, 2, 5, 2, 31, 15, 121,False
+2010, 2, 7,21, Washington Capitals, 10, 1, 5, 8, 5, 38, 10, 167,27, Pittsburgh Penguins, 6, 1, 3, 6, 4, 28, 24, 141,True
+2010, 2, 8,30, Anaheim Ducks, 6, 0, 4, 8, 6, 31, 10, 96,9, Los Angeles Kings, 9, 2, 4, 6, 3, 23, 17, 157,True
+2010, 2, 8,23, Colorado Avalanche, 6, 1, 4, 4, 0, 20, 8, 105,26, St. Louis Blues, 4, 1, 1, 2, 2, 30, 11, 143,True
+2010, 2, 8,17, Philadelphia Flyers, 5, 1, 1, 2, 2, 30, 10, 130,1, New Jersey Devils, 4, 1, 1, 1, 3, 25, 9, 91,True
+2010, 2, 8,25, Phoenix Coyotes, 7, 1, 0, 0, 4, 35, 19, 240,10, Edmonton Oilers, 2, 1, 0, 0, 2, 41, 19, 159,True
+2010, 2, 8,29, Toronto Maple Leafs, 3, 0, 5, 7, 0, 30, 27, 252,11, San Jose Sharks, 8, 2, 4, 8, 3, 38, 13, 110,False
+2010, 2, 9,18, Buffalo Sabres, 2, 1, 0, 0, 4, 27, 13, 141,0, Boston Bruins, 1, 1, 3, 4, 0, 36, 13, 126,False
+2010, 2, 9,13, Carolina Hurricanes, 7, 1, 3, 3, 3, 31, 12, 158,12, Florida Panthers, 4, 1, 2, 4, 3, 34, 11, 129,True
+2010, 2, 9,2, Chicago Blackhawks, 5, 0, 2, 4, 1, 35, 11, 146,4, Dallas Stars, 6, 2, 4, 6, 0, 34, 20, 188,True
+2010, 2, 9,22, New York Islanders, 2, 0, 1, 1, 2, 30, 25, 189,14, Nashville Predators, 3, 1, 3, 5, 4, 29, 13, 73,True
+2010, 2, 9,15, Ottawa Senators, 9, 0, 0, 0, 4, 30, 13, 157,20, Calgary Flames, 3, 2, 1, 1, 2, 23, 8, 66,True
+2010, 2, 9,26, St. Louis Blues, 3, 1, 2, 3, 5, 15, 8, 104,8, Detroit Red Wings, 3, 1, 4, 6, 4, 27, 10, 98,True
+2010, 2, 9,28, Tampa Bay Lightning, 7, 1, 2, 3, 1, 26, 17, 158,19, Vancouver Canucks, 8, 1, 1, 3, 2, 43, 10, 171,True
+2010, 2, 10,30, Anaheim Ducks, 6, 1, 3, 8, 2, 37, 6, 97,10, Edmonton Oilers, 2, 1, 1, 1, 6, 33, 23, 151,True
+2010, 2, 10,7, Columbus Blue Jackets, 6, 0, 3, 8, 0, 28, 14, 139,11, San Jose Sharks, 8, 2, 3, 5, 2, 37, 12, 106,True
+2010, 2, 10,23, Colorado Avalanche, 6, 0, 5, 10, 2, 34, 10, 119,6, Atlanta Thrashers, 4, 2, 4, 6, 2, 28, 8, 94,True
+2010, 2, 10,3, Minnesota Wild, 5, 0, 2, 2, 2, 24, 9, 104,25, Phoenix Coyotes, 8, 2, 6, 10, 1, 34, 16, 239,False
+2010, 2, 10,16, Montreal Canadiens, 5, 0, 0, 0, 3, 30, 8, 86,21, Washington Capitals, 10, 2, 5, 8, 2, 45, 9, 164,True
+2010, 2, 10,1, New Jersey Devils, 3, 1, 0, 4, 3, 37, 9, 103,17, Philadelphia Flyers, 6, 1, 3, 6, 2, 30, 11, 141,False
+2010, 2, 10,24, New York Rangers, 3, 1, 3, 4, 1, 42, 12, 126,14, Nashville Predators, 2, 0, 3, 4, 4, 29, 10, 103,False
+2010, 2, 10,27, Pittsburgh Penguins, 5, 1, 4, 5, 5, 34, 21, 134,22, New York Islanders, 2, 1, 3, 6, 4, 30, 26, 186,True
+2010, 2, 11,13, Carolina Hurricanes, 7, 1, 4, 8, 1, 20, 10, 140,18, Buffalo Sabres, 2, 1, 2, 3, 2, 34, 11, 148,True
+2010, 2, 11,20, Calgary Flames, 3, 1, 2, 4, 3, 31, 9, 74,4, Dallas Stars, 5, 1, 3, 6, 3, 40, 23, 194,False
+2010, 2, 11,8, Detroit Red Wings, 3, 2, 3, 6, 3, 45, 9, 116,11, San Jose Sharks, 7, 0, 0, 0, 2, 34, 12, 89,False
+2010, 2, 11,12, Florida Panthers, 3, 1, 1, 2, 3, 29, 12, 126,19, Vancouver Canucks, 7, 1, 1, 1, 3, 19, 11, 147,False
+2010, 2, 11,9, Los Angeles Kings, 9, 2, 2, 3, 2, 36, 18, 167,10, Edmonton Oilers, 2, 0, 2, 1, 3, 30, 19, 146,False
+2010, 2, 11,15, Ottawa Senators, 9, 1, 3, 4, 2, 29, 11, 156,21, Washington Capitals, 9, 1, 5, 7, 0, 26, 9, 123,True
+2010, 2, 11,28, Tampa Bay Lightning, 7, 1, 3, 4, 1, 40, 17, 172,0, Boston Bruins, 2, 1, 2, 4, 2, 45, 15, 135,False
+2010, 2, 12,7, Columbus Blue Jackets, 6, 1, 4, 6, 0, 40, 14, 151,19, Vancouver Canucks, 7, 1, 3, 5, 2, 20, 8, 159,False
+2010, 2, 12,23, Colorado Avalanche, 6, 1, 4, 7, 3, 36, 12, 126,25, Phoenix Coyotes, 8, 1, 3, 6, 2, 31, 17, 236,True
+2010, 2, 12,3, Minnesota Wild, 5, 1, 2, 4, 3, 31, 10, 111,6, Atlanta Thrashers, 4, 1, 3, 5, 4, 35, 10, 101,False
+2010, 2, 12,1, New Jersey Devils, 3, 1, 3, 3, 3, 15, 9, 81,14, Nashville Predators, 3, 1, 2, 2, 3, 32, 7, 112,True
+2010, 2, 12,17, Philadelphia Flyers, 6, 0, 3, 6, 2, 23, 14, 115,16, Montreal Canadiens, 6, 2, 6, 11, 5, 38, 10, 94,True
+2010, 2, 12,27, Pittsburgh Penguins, 6, 2, 3, 5, 1, 4, 17, 138,24, New York Rangers, 2, 0, 2, 1, 2, 36, 13, 120,False
+2010, 2, 12,26, St. Louis Blues, 4, 2, 3, 6, 3, 42, 8, 143,29, Toronto Maple Leafs, 2, 0, 2, 4, 3, 26, 31, 263,True
+2010, 2, 13,18, Buffalo Sabres, 2, 1, 3, 5, 4, 35, 13, 149,11, San Jose Sharks, 7, 1, 2, 4, 2, 52, 12, 107,True
+2010, 2, 13,13, Carolina Hurricanes, 8, 0, 4, 7, 1, 35, 12, 154,1, New Jersey Devils, 3, 2, 6, 7, 2, 21, 8, 87,True
+2010, 2, 13,20, Calgary Flames, 3, 0, 1, 0, 2, 22, 8, 65,30, Anaheim Ducks, 6, 2, 3, 6, 2, 39, 8, 97,True
+2010, 2, 13,2, Chicago Blackhawks, 5, 1, 3, 7, 3, 27, 13, 138,6, Atlanta Thrashers, 4, 1, 3, 6, 4, 31, 8, 104,True
+2010, 2, 13,8, Detroit Red Wings, 2, 1, 2, 4, 2, 26, 8, 97,15, Ottawa Senators, 9, 1, 6, 9, 5, 24, 14, 151,True
+2010, 2, 13,12, Florida Panthers, 3, 1, 0, 0, 3, 35, 10, 130,0, Boston Bruins, 3, 1, 4, 10, 4, 35, 17, 125,False
+2010, 2, 13,9, Los Angeles Kings, 8, 1, 2, 4, 4, 33, 18, 154,23, Colorado Avalanche, 6, 1, 2, 5, 1, 34, 10, 124,True
+2010, 2, 13,16, Montreal Canadiens, 5, 1, 2, 4, 3, 27, 8, 89,17, Philadelphia Flyers, 6, 1, 3, 6, 2, 25, 14, 117,False
+2010, 2, 13,22, New York Islanders, 2, 0, 1, 1, 3, 27, 22, 166,28, Tampa Bay Lightning, 7, 2, 4, 8, 4, 21, 18, 137,True
+2010, 2, 13,25, Phoenix Coyotes, 8, 1, 1, 2, 2, 25, 17, 230,4, Dallas Stars, 6, 1, 3, 4, 1, 34, 19, 172,False
+2010, 2, 13,26, St. Louis Blues, 5, 1, 4, 5, 0, 30, 5, 131,21, Washington Capitals, 8, 1, 5, 8, 4, 25, 16, 143,True
+2010, 2, 14,7, Columbus Blue Jackets, 6, 0, 3, 6, 5, 26, 18, 146,2, Chicago Blackhawks, 6, 2, 3, 6, 4, 27, 14, 138,False
+2010, 2, 14,10, Edmonton Oilers, 3, 0, 2, 4, 2, 43, 17, 170,30, Anaheim Ducks, 6, 2, 2, 2, 3, 38, 10, 93,False
+2010, 2, 14,3, Minnesota Wild, 5, 1, 2, 4, 3, 24, 10, 104,19, Vancouver Canucks, 7, 1, 5, 6, 0, 31, 9, 174,True
+2010, 2, 14,22, New York Islanders, 2, 0, 5, 7, 3, 28, 23, 181,15, Ottawa Senators, 8, 2, 1, 2, 3, 39, 12, 166,False
+2010, 2, 14,24, New York Rangers, 3, 1, 3, 5, 2, 27, 13, 111,28, Tampa Bay Lightning, 6, 1, 5, 7, 1, 15, 19, 149,True
+2010, 2, 14,27, Pittsburgh Penguins, 5, 0, 2, 3, 1, 17, 17, 146,14, Nashville Predators, 3, 1, 2, 4, 1, 38, 8, 99,False
+2010, 3, 1,23, Colorado Avalanche, 5, 1, 0, 0, 3, 23, 9, 98,8, Detroit Red Wings, 3, 1, 3, 7, 1, 30, 7, 101,False
+2010, 3, 2,6, Atlanta Thrashers, 4, 1, 4, 7, 2, 38, 8, 113,12, Florida Panthers, 3, 1, 2, 3, 2, 28, 11, 130,True
+2010, 3, 2,0, Boston Bruins, 4, 1, 3, 3, 2, 28, 15, 118,16, Montreal Canadiens, 4, 1, 2, 3, 1, 9, 8, 55,False
+2010, 3, 2,7, Columbus Blue Jackets, 5, 0, 4, 7, 4, 35, 17, 157,19, Vancouver Canucks, 6, 2, 2, 4, 1, 9, 12, 149,False
+2010, 3, 2,4, Dallas Stars, 6, 0, 3, 5, 0, 40, 21, 185,9, Los Angeles Kings, 8, 2, 3, 6, 0, 22, 14, 143,False
+2010, 3, 2,14, Nashville Predators, 4, 2, 3, 6, 4, 27, 10, 94,10, Edmonton Oilers, 3, 0, 3, 5, 7, 46, 23, 180,True
+2010, 3, 2,22, New York Islanders, 2, 1, 3, 5, 4, 35, 24, 188,2, Chicago Blackhawks, 6, 0, 3, 6, 4, 28, 14, 139,True
+2010, 3, 2,15, Ottawa Senators, 8, 1, 4, 8, 3, 37, 12, 164,24, New York Rangers, 4, 1, 5, 4, 2, 29, 13, 113,False
+2010, 3, 2,25, Phoenix Coyotes, 7, 1, 0, 0, 3, 22, 18, 227,26, St. Louis Blues, 5, 1, 3, 6, 3, 34, 8, 135,False
+2010, 3, 2,27, Pittsburgh Penguins, 5, 1, 3, 6, 2, 22, 19, 155,18, Buffalo Sabres, 3, 1, 3, 6, 4, 25, 10, 142,True
+2010, 3, 2,11, San Jose Sharks, 6, 0, 1, 0, 3, 28, 13, 83,1, New Jersey Devils, 3, 2, 2, 4, 4, 22, 9, 81,False
+2010, 3, 2,28, Tampa Bay Lightning, 5, 0, 2, 4, 5, 33, 22, 156,17, Philadelphia Flyers, 6, 2, 6, 6, 2, 28, 16, 147,False
+2010, 3, 2,29, Toronto Maple Leafs, 2, 0, 0, 0, 4, 33, 34, 276,13, Carolina Hurricanes, 8, 2, 4, 9, 2, 25, 13, 157,False
+2010, 3, 3,30, Anaheim Ducks, 6, 2, 6, 9, 3, 29, 13, 81,23, Colorado Avalanche, 5, 0, 2, 5, 3, 30, 11, 126,False
+2010, 3, 3,18, Buffalo Sabres, 3, 1, 2, 4, 1, 28, 9, 145,21, Washington Capitals, 7, 1, 3, 6, 3, 36, 16, 149,False
+2010, 3, 3,20, Calgary Flames, 4, 0, 3, 4, 1, 27, 7, 70,3, Minnesota Wild, 6, 2, 6, 9, 2, 29, 9, 109,False
+2010, 3, 3,2, Chicago Blackhawks, 6, 2, 3, 6, 2, 11, 13, 115,10, Edmonton Oilers, 3, 0, 2, 6, 6, 30, 19, 171,True
+2010, 3, 3,8, Detroit Red Wings, 4, 2, 3, 6, 2, 24, 8, 95,19, Vancouver Canucks, 6, 0, 4, 7, 5, 32, 13, 154,False
+2010, 3, 3,12, Florida Panthers, 2, 1, 2, 3, 2, 39, 13, 145,17, Philadelphia Flyers, 7, 1, 7, 10, 2, 38, 17, 155,True
+2010, 3, 4,6, Atlanta Thrashers, 5, 0, 3, 6, 2, 36, 8, 111,22, New York Islanders, 3, 2, 5, 9, 3, 44, 23, 197,True
+2010, 3, 4,0, Boston Bruins, 4, 1, 1, 3, 3, 25, 17, 122,29, Toronto Maple Leafs, 2, 1, 1, 1, 5, 30, 35, 273,True
+2010, 3, 4,13, Carolina Hurricanes, 8, 1, 6, 7, 3, 32, 14, 153,15, Ottawa Senators, 7, 1, 1, 2, 0, 9, 12, 145,True
+2010, 3, 4,4, Dallas Stars, 6, 1, 1, 2, 5, 22, 23, 148,26, St. Louis Blues, 6, 1, 5, 10, 2, 39, 5, 134,False
+2010, 3, 4,14, Nashville Predators, 5, 2, 4, 7, 3, 25, 7, 88,9, Los Angeles Kings, 8, 0, 5, 9, 1, 32, 14, 137,True
+2010, 3, 4,24, New York Rangers, 5, 1, 4, 6, 1, 25, 12, 109,27, Pittsburgh Penguins, 5, 1, 3, 6, 3, 26, 19, 161,False
+2010, 3, 4,25, Phoenix Coyotes, 6, 0, 1, 1, 5, 22, 19, 211,23, Colorado Avalanche, 6, 2, 4, 7, 3, 34, 9, 118,True
+2010, 3, 4,11, San Jose Sharks, 5, 1, 3, 5, 4, 25, 11, 70,16, Montreal Canadiens, 5, 1, 4, 6, 1, 24, 9, 62,True
+2010, 3, 4,21, Washington Capitals, 7, 1, 3, 5, 6, 28, 12, 116,28, Tampa Bay Lightning, 4, 1, 2, 4, 1, 3, 20, 135,True
+2010, 3, 5,18, Buffalo Sabres, 2, 2, 1, 3, 2, 39, 10, 156,17, Philadelphia Flyers, 7, 0, 4, 8, 4, 26, 15, 106,True
+2010, 3, 5,20, Calgary Flames, 4, 0, 0, 0, 4, 21, 10, 64,1, New Jersey Devils, 4, 2, 4, 8, 3, 20, 8, 79,True
+2010, 3, 5,2, Chicago Blackhawks, 6, 1, 5, 9, 2, 14, 13, 118,19, Vancouver Canucks, 6, 1, 6, 11, 3, 31, 11, 153,True
+2010, 3, 5,8, Detroit Red Wings, 4, 2, 3, 5, 4, 21, 7, 79,14, Nashville Predators, 6, 0, 4, 7, 3, 33, 6, 85,True
+2010, 3, 5,10, Edmonton Oilers, 3, 0, 3, 4, 4, 28, 18, 151,3, Minnesota Wild, 6, 2, 4, 8, 0, 29, 7, 109,True
+2010, 3, 6,23, Colorado Avalanche, 6, 2, 1, 3, 2, 29, 6, 93,26, St. Louis Blues, 6, 0, 6, 9, 1, 30, 4, 125,True
+2010, 3, 6,12, Florida Panthers, 2, 0, 7, 13, 4, 42, 15, 156,13, Carolina Hurricanes, 8, 2, 4, 5, 1, 33, 11, 156,True
+2010, 3, 6,9, Los Angeles Kings, 7, 0, 2, 3, 3, 31, 16, 136,16, Montreal Canadiens, 5, 2, 2, 3, 5, 17, 12, 87,False
+2010, 3, 6,22, New York Islanders, 3, 2, 3, 6, 3, 7, 22, 133,0, Boston Bruins, 5, 0, 2, 3, 2, 26, 16, 123,False
+2010, 3, 6,15, Ottawa Senators, 6, 0, 1, 1, 2, 5, 11, 140,29, Toronto Maple Leafs, 2, 2, 2, 4, 4, 28, 30, 254,False
+2010, 3, 6,25, Phoenix Coyotes, 6, 1, 3, 5, 1, 24, 15, 213,30, Anaheim Ducks, 6, 1, 3, 6, 4, 25, 7, 80,True
+2010, 3, 6,27, Pittsburgh Penguins, 5, 2, 5, 8, 4, 12, 20, 122,4, Dallas Stars, 5, 0, 1, 2, 2, 16, 28, 184,True
+2010, 3, 6,11, San Jose Sharks, 6, 1, 3, 5, 2, 30, 9, 75,7, Columbus Blue Jackets, 5, 1, 3, 4, 4, 31, 17, 177,True
+2010, 3, 6,28, Tampa Bay Lightning, 4, 2, 4, 8, 6, 31, 24, 166,6, Atlanta Thrashers, 5, 0, 6, 8, 3, 37, 13, 111,True
+2010, 3, 6,21, Washington Capitals, 7, 2, 5, 6, 1, 24, 11, 126,24, New York Rangers, 5, 0, 4, 9, 4, 31, 20, 170,True
+2010, 3, 7,30, Anaheim Ducks, 6, 2, 0, 0, 4, 30, 6, 93,16, Montreal Canadiens, 6, 0, 4, 7, 3, 40, 9, 95,False
+2010, 3, 7,6, Atlanta Thrashers, 4, 1, 3, 5, 4, 40, 16, 104,13, Carolina Hurricanes, 7, 1, 1, 2, 1, 26, 13, 152,False
+2010, 3, 7,2, Chicago Blackhawks, 6, 2, 6, 10, 3, 23, 14, 127,8, Detroit Red Wings, 4, 0, 5, 6, 2, 22, 7, 79,False
+2010, 3, 7,10, Edmonton Oilers, 3, 1, 1, 2, 1, 29, 15, 179,1, New Jersey Devils, 3, 1, 3, 6, 5, 25, 10, 84,True
+2010, 3, 7,3, Minnesota Wild, 5, 2, 1, 2, 1, 23, 8, 103,20, Calgary Flames, 5, 0, 5, 5, 4, 35, 13, 103,False
+2010, 3, 7,14, Nashville Predators, 5, 1, 2, 2, 2, 22, 10, 68,19, Vancouver Canucks, 5, 1, 3, 4, 5, 14, 11, 116,False
+2010, 3, 7,24, New York Rangers, 5, 1, 0, 0, 5, 55, 18, 167,18, Buffalo Sabres, 2, 1, 3, 5, 2, 29, 10, 146,False
+2010, 3, 7,17, Philadelphia Flyers, 6, 1, 2, 2, 3, 35, 10, 115,29, Toronto Maple Leafs, 3, 1, 1, 1, 2, 31, 25, 243,True
+2010, 3, 7,27, Pittsburgh Penguins, 6, 1, 6, 10, 3, 30, 19, 140,0, Boston Bruins, 6, 1, 3, 6, 2, 39, 14, 133,True
+2010, 3, 8,9, Los Angeles Kings, 6, 2, 2, 4, 3, 24, 16, 129,7, Columbus Blue Jackets, 4, 0, 1, 3, 2, 44, 15, 190,True
+2010, 3, 8,21, Washington Capitals, 7, 1, 2, 5, 4, 29, 11, 126,4, Dallas Stars, 4, 0, 3, 6, 4, 11, 30, 199,False
+2010, 3, 9,30, Anaheim Ducks, 5, 1, 4, 4, 3, 43, 6, 100,7, Columbus Blue Jackets, 4, 1, 0, 0, 2, 22, 15, 144,False
+2010, 3, 9,6, Atlanta Thrashers, 4, 1, 0, 0, 6, 30, 16, 97,14, Nashville Predators, 5, 1, 2, 4, 4, 31, 11, 73,False
+2010, 3, 9,23, Colorado Avalanche, 6, 0, 7, 12, 3, 42, 6, 112,19, Vancouver Canucks, 6, 2, 4, 7, 2, 35, 8, 137,False
+2010, 3, 9,8, Detroit Red Wings, 5, 1, 5, 8, 4, 32, 9, 89,20, Calgary Flames, 5, 1, 5, 10, 3, 25, 10, 94,False
+2010, 3, 9,10, Edmonton Oilers, 3, 0, 2, 4, 0, 22, 12, 173,15, Ottawa Senators, 5, 2, 1, 3, 1, 15, 8, 163,False
+2010, 3, 9,3, Minnesota Wild, 4, 2, 2, 4, 4, 23, 11, 103,12, Florida Panthers, 3, 0, 4, 7, 1, 32, 14, 135,False
+2010, 3, 9,16, Montreal Canadiens, 6, 1, 3, 4, 0, 21, 8, 56,28, Tampa Bay Lightning, 5, 1, 6, 10, 2, 31, 20, 166,True
+2010, 3, 9,17, Philadelphia Flyers, 6, 2, 3, 6, 1, 28, 10, 90,22, New York Islanders, 3, 0, 2, 3, 3, 34, 22, 160,True
+2010, 3, 9,29, Toronto Maple Leafs, 3, 1, 1, 2, 1, 23, 26, 237,0, Boston Bruins, 6, 1, 1, 2, 2, 33, 14, 127,True
+2010, 3, 10,18, Buffalo Sabres, 3, 2, 2, 4, 1, 36, 9, 153,4, Dallas Stars, 5, 0, 3, 5, 3, 52, 25, 221,True
+2010, 3, 10,2, Chicago Blackhawks, 6, 1, 4, 6, 1, 8, 13, 117,9, Los Angeles Kings, 6, 1, 6, 12, 0, 11, 13, 116,True
+2010, 3, 10,1, New Jersey Devils, 3, 1, 0, 0, 2, 35, 7, 94,24, New York Rangers, 4, 1, 1, 2, 2, 32, 15, 144,True
+2010, 3, 10,25, Phoenix Coyotes, 6, 1, 4, 6, 0, 32, 11, 200,19, Vancouver Canucks, 7, 1, 6, 12, 1, 10, 10, 129,True
+2010, 3, 10,21, Washington Capitals, 6, 1, 3, 7, 0, 30, 10, 123,13, Carolina Hurricanes, 8, 1, 4, 8, 0, 27, 11, 143,True
+2010, 3, 11,13, Carolina Hurricanes, 8, 1, 3, 5, 3, 29, 15, 155,27, Pittsburgh Penguins, 6, 1, 2, 3, 0, 4, 15, 133,True
+2010, 3, 11,7, Columbus Blue Jackets, 4, 2, 5, 10, 2, 38, 15, 160,6, Atlanta Thrashers, 4, 0, 1, 2, 2, 32, 12, 99,True
+2010, 3, 11,20, Calgary Flames, 6, 1, 4, 5, 2, 30, 9, 99,15, Ottawa Senators, 5, 1, 3, 7, 1, 19, 7, 149,True
+2010, 3, 11,23, Colorado Avalanche, 6, 0, 4, 5, 5, 31, 13, 126,12, Florida Panthers, 3, 2, 2, 3, 2, 11, 15, 114,True
+2010, 3, 11,8, Detroit Red Wings, 4, 1, 2, 4, 3, 31, 8, 88,3, Minnesota Wild, 4, 1, 2, 2, 2, 23, 9, 111,True
+2010, 3, 11,16, Montreal Canadiens, 6, 1, 5, 7, 3, 31, 11, 66,10, Edmonton Oilers, 3, 1, 1, 2, 5, 47, 15, 182,True
+2010, 3, 11,22, New York Islanders, 3, 1, 2, 4, 3, 15, 22, 161,26, St. Louis Blues, 6, 1, 3, 6, 4, 15, 12, 122,False
+2010, 3, 11,17, Philadelphia Flyers, 7, 1, 3, 6, 2, 25, 9, 108,0, Boston Bruins, 6, 1, 3, 6, 4, 32, 15, 106,False
+2010, 3, 11,11, San Jose Sharks, 6, 1, 2, 5, 1, 22, 7, 63,14, Nashville Predators, 5, 1, 2, 2, 1, 31, 5, 88,True
+2010, 3, 11,29, Toronto Maple Leafs, 4, 1, 4, 6, 3, 25, 30, 267,28, Tampa Bay Lightning, 4, 1, 3, 4, 1, 15, 18, 129,True
+2010, 3, 12,30, Anaheim Ducks, 4, 1, 2, 4, 3, 20, 11, 101,14, Nashville Predators, 5, 1, 5, 10, 1, 2, 8, 55,False
+2010, 3, 12,6, Atlanta Thrashers, 4, 2, 1, 0, 2, 21, 12, 88,24, New York Rangers, 4, 0, 3, 5, 5, 17, 17, 111,False
+2010, 3, 12,18, Buffalo Sabres, 4, 1, 5, 10, 3, 28, 11, 137,3, Minnesota Wild, 4, 0, 1, 2, 5, 30, 12, 118,False
+2010, 3, 12,4, Dallas Stars, 4, 0, 3, 7, 4, 42, 28, 216,9, Los Angeles Kings, 5, 2, 2, 4, 4, 30, 16, 148,False
+2010, 3, 12,1, New Jersey Devils, 4, 2, 6, 12, 3, 19, 8, 78,27, Pittsburgh Penguins, 5, 0, 3, 6, 1, 22, 18, 141,True
+2010, 3, 12,21, Washington Capitals, 6, 2, 4, 5, 3, 26, 17, 141,28, Tampa Bay Lightning, 3, 0, 3, 6, 4, 13, 21, 152,False
+2010, 3, 13,13, Carolina Hurricanes, 8, 2, 4, 5, 3, 40, 17, 166,25, Phoenix Coyotes, 6, 0, 3, 5, 3, 39, 14, 207,False
+2010, 3, 13,7, Columbus Blue Jackets, 5, 2, 1, 3, 4, 13, 14, 151,26, St. Louis Blues, 6, 0, 1, 2, 1, 30, 9, 137,False
+2010, 3, 13,8, Detroit Red Wings, 5, 1, 5, 9, 1, 22, 6, 79,18, Buffalo Sabres, 4, 1, 2, 4, 3, 20, 11, 142,True
+2010, 3, 13,16, Montreal Canadiens, 6, 1, 4, 8, 4, 25, 12, 60,0, Boston Bruins, 7, 1, 5, 9, 1, 32, 12, 106,True
+2010, 3, 13,22, New York Islanders, 3, 1, 1, 2, 3, 35, 20, 182,1, New Jersey Devils, 4, 1, 3, 6, 0, 8, 6, 94,True
+2010, 3, 13,17, Philadelphia Flyers, 7, 0, 1, 1, 4, 25, 8, 121,2, Chicago Blackhawks, 7, 1, 3, 5, 4, 17, 14, 144,True
+2010, 3, 13,11, San Jose Sharks, 7, 0, 8, 15, 2, 20, 11, 86,12, Florida Panthers, 3, 1, 0, 0, 3, 31, 11, 130,False
+2010, 3, 13,29, Toronto Maple Leafs, 4, 0, 4, 7, 3, 29, 30, 275,10, Edmonton Oilers, 3, 2, 4, 7, 4, 39, 13, 166,True
+2010, 3, 13,19, Vancouver Canucks, 6, 1, 3, 5, 4, 27, 12, 153,15, Ottawa Senators, 4, 1, 1, 1, 1, 31, 8, 155,True
+2010, 3, 14,30, Anaheim Ducks, 3, 0, 0, 0, 1, 28, 6, 99,11, San Jose Sharks, 6, 2, 2, 3, 5, 45, 12, 94,True
+2010, 3, 14,6, Atlanta Thrashers, 3, 0, 2, 3, 4, 33, 14, 101,25, Phoenix Coyotes, 6, 1, 4, 6, 0, 13, 11, 197,False
+2010, 3, 14,2, Chicago Blackhawks, 7, 1, 1, 3, 2, 30, 13, 161,21, Washington Capitals, 5, 1, 2, 6, 3, 31, 16, 159,False
+2010, 3, 14,4, Dallas Stars, 4, 1, 1, 2, 1, 28, 25, 202,23, Colorado Avalanche, 6, 1, 3, 4, 0, 27, 8, 114,False
+2010, 3, 14,9, Los Angeles Kings, 5, 0, 1, 2, 3, 43, 15, 176,14, Nashville Predators, 6, 2, 1, 2, 0, 31, 7, 79,False
+2010, 3, 14,3, Minnesota Wild, 4, 1, 3, 3, 2, 45, 9, 133,26, St. Louis Blues, 7, 1, 5, 7, 1, 25, 9, 132,True
+2010, 3, 14,22, New York Islanders, 4, 1, 4, 6, 1, 36, 23, 208,29, Toronto Maple Leafs, 5, 1, 6, 10, 3, 33, 31, 275,True
+2010, 3, 14,24, New York Rangers, 5, 0, 5, 7, 2, 31, 14, 125,17, Philadelphia Flyers, 7, 2, 3, 5, 2, 41, 6, 128,True
+2010, 3, 14,28, Tampa Bay Lightning, 3, 1, 3, 6, 2, 30, 19, 169,27, Pittsburgh Penguins, 5, 1, 1, 2, 3, 32, 19, 147,False
+2010, 3, 14,19, Vancouver Canucks, 7, 1, 5, 7, 1, 14, 11, 168,20, Calgary Flames, 6, 1, 2, 3, 0, 33, 7, 102,True
+2010, 3, 15,7, Columbus Blue Jackets, 4, 2, 2, 2, 4, 35, 18, 177,10, Edmonton Oilers, 3, 0, 4, 8, 1, 19, 11, 148,True
+2010, 3, 15,20, Calgary Flames, 5, 2, 1, 3, 3, 20, 8, 68,8, Detroit Red Wings, 6, 0, 3, 5, 2, 26, 6, 79,False
+2010, 3, 15,1, New Jersey Devils, 4, 2, 2, 3, 1, 35, 10, 115,0, Boston Bruins, 6, 0, 2, 3, 4, 30, 14, 101,True
+2010, 3, 16,6, Atlanta Thrashers, 3, 0, 2, 5, 4, 34, 7, 72,18, Buffalo Sabres, 4, 2, 2, 4, 3, 37, 11, 159,True
+2010, 3, 16,13, Carolina Hurricanes, 7, 1, 0, 0, 4, 39, 17, 142,0, Boston Bruins, 5, 1, 2, 4, 0, 16, 10, 72,False
+2010, 3, 16,4, Dallas Stars, 3, 1, 3, 6, 1, 4, 23, 162,11, San Jose Sharks, 5, 1, 2, 3, 3, 32, 10, 81,True
+2010, 3, 16,12, Florida Panthers, 4, 0, 3, 5, 2, 39, 13, 162,21, Washington Capitals, 5, 2, 4, 5, 3, 23, 16, 151,False
+2010, 3, 16,3, Minnesota Wild, 4, 1, 4, 8, 2, 38, 9, 126,10, Edmonton Oilers, 3, 1, 3, 6, 5, 28, 14, 157,True
+2010, 3, 16,14, Nashville Predators, 6, 0, 3, 6, 2, 20, 11, 50,17, Philadelphia Flyers, 6, 1, 1, 1, 3, 21, 7, 117,True
+2010, 3, 16,24, New York Rangers, 5, 1, 3, 6, 1, 18, 13, 112,16, Montreal Canadiens, 7, 1, 3, 6, 2, 23, 9, 75,False
+2010, 3, 16,15, Ottawa Senators, 4, 0, 1, 2, 2, 25, 12, 159,29, Toronto Maple Leafs, 4, 2, 1, 2, 4, 29, 28, 232,False
+2010, 3, 16,26, St. Louis Blues, 7, 0, 2, 2, 3, 7, 11, 108,23, Colorado Avalanche, 6, 2, 5, 9, 2, 20, 11, 152,False
+2010, 3, 16,28, Tampa Bay Lightning, 2, 1, 1, 2, 2, 39, 19, 178,25, Phoenix Coyotes, 7, 1, 2, 4, 0, 29, 13, 225,False
+2010, 3, 16,19, Vancouver Canucks, 7, 1, 3, 5, 1, 33, 11, 187,22, New York Islanders, 4, 1, 4, 8, 2, 40, 23, 199,False
+2010, 3, 17,30, Anaheim Ducks, 4, 1, 4, 5, 2, 33, 9, 102,2, Chicago Blackhawks, 6, 1, 4, 6, 3, 32, 13, 149,True
+2010, 3, 17,23, Colorado Avalanche, 6, 2, 5, 10, 3, 51, 9, 144,20, Calgary Flames, 5, 0, 1, 1, 0, 8, 7, 76,False
+2010, 3, 17,1, New Jersey Devils, 5, 2, 3, 5, 2, 36, 9, 95,27, Pittsburgh Penguins, 6, 0, 2, 4, 1, 22, 17, 137,True
+2010, 3, 18,6, Atlanta Thrashers, 3, 2, 4, 8, 3, 32, 7, 113,15, Ottawa Senators, 3, 0, 1, 2, 3, 29, 13, 163,True
+2010, 3, 18,0, Boston Bruins, 5, 0, 4, 6, 2, 32, 12, 88,27, Pittsburgh Penguins, 5, 2, 2, 3, 4, 13, 16, 112,False
+2010, 3, 18,13, Carolina Hurricanes, 6, 1, 2, 4, 4, 20, 17, 124,21, Washington Capitals, 6, 1, 7, 13, 3, 27, 12, 149,True
+2010, 3, 18,4, Dallas Stars, 4, 0, 8, 14, 2, 47, 24, 205,17, Philadelphia Flyers, 5, 2, 3, 6, 1, 25, 6, 103,False
+2010, 3, 18,12, Florida Panthers, 4, 0, 3, 5, 5, 21, 14, 106,25, Phoenix Coyotes, 7, 1, 2, 3, 1, 28, 14, 224,False
+2010, 3, 18,9, Los Angeles Kings, 4, 1, 2, 2, 3, 31, 15, 164,2, Chicago Blackhawks, 5, 1, 1, 4, 4, 30, 13, 152,False
+2010, 3, 18,14, Nashville Predators, 7, 0, 3, 6, 3, 45, 14, 94,3, Minnesota Wild, 5, 2, 4, 8, 2, 36, 9, 124,True
+2010, 3, 18,24, New York Rangers, 5, 0, 1, 2, 2, 34, 14, 128,26, St. Louis Blues, 7, 2, 3, 6, 1, 13, 13, 127,False
+2010, 3, 18,28, Tampa Bay Lightning, 2, 0, 1, 2, 2, 28, 19, 167,18, Buffalo Sabres, 4, 2, 3, 6, 3, 5, 9, 115,False
+2010, 3, 18,29, Toronto Maple Leafs, 5, 1, 4, 8, 4, 32, 24, 233,1, New Jersey Devils, 6, 1, 5, 4, 4, 29, 9, 85,True
+2010, 3, 18,19, Vancouver Canucks, 6, 1, 2, 4, 4, 12, 11, 139,11, San Jose Sharks, 4, 1, 2, 4, 4, 17, 13, 69,True
+2010, 3, 19,30, Anaheim Ducks, 4, 1, 4, 8, 2, 41, 8, 99,22, New York Islanders, 5, 1, 5, 9, 1, 27, 17, 186,True
+2010, 3, 19,7, Columbus Blue Jackets, 4, 0, 5, 10, 1, 29, 14, 167,3, Minnesota Wild, 5, 2, 0, 0, 4, 26, 8, 107,True
+2010, 3, 19,20, Calgary Flames, 6, 1, 3, 5, 2, 28, 8, 107,11, San Jose Sharks, 4, 1, 2, 4, 3, 26, 12, 78,True
+2010, 3, 19,10, Edmonton Oilers, 2, 2, 2, 4, 4, 28, 14, 145,8, Detroit Red Wings, 7, 0, 2, 4, 1, 23, 7, 92,True
+2010, 3, 20,6, Atlanta Thrashers, 4, 2, 6, 10, 3, 39, 8, 104,17, Philadelphia Flyers, 5, 0, 3, 5, 2, 29, 14, 118,True
+2010, 3, 20,4, Dallas Stars, 3, 0, 2, 4, 3, 31, 25, 189,15, Ottawa Senators, 2, 2, 3, 3, 5, 35, 16, 161,True
+2010, 3, 20,12, Florida Panthers, 4, 1, 3, 6, 3, 46, 12, 131,18, Buffalo Sabres, 5, 1, 6, 7, 2, 25, 8, 135,False
+2010, 3, 20,9, Los Angeles Kings, 4, 2, 0, 0, 3, 37, 15, 170,22, New York Islanders, 4, 0, 4, 7, 2, 37, 21, 198,True
+2010, 3, 20,1, New Jersey Devils, 5, 1, 1, 2, 2, 26, 5, 81,26, St. Louis Blues, 7, 0, 4, 4, 3, 29, 15, 143,False
+2010, 3, 20,14, Nashville Predators, 7, 1, 5, 8, 0, 17, 11, 66,7, Columbus Blue Jackets, 4, 1, 4, 6, 3, 32, 15, 142,True
+2010, 3, 20,25, Phoenix Coyotes, 7, 2, 3, 5, 3, 24, 16, 220,2, Chicago Blackhawks, 5, 0, 3, 4, 0, 17, 9, 139,True
+2010, 3, 20,27, Pittsburgh Penguins, 6, 0, 3, 4, 0, 17, 12, 123,13, Carolina Hurricanes, 6, 2, 4, 6, 5, 37, 16, 132,False
+2010, 3, 20,28, Tampa Bay Lightning, 2, 1, 2, 4, 5, 27, 22, 166,21, Washington Capitals, 6, 1, 1, 5, 3, 37, 13, 151,False
+2010, 3, 20,29, Toronto Maple Leafs, 6, 1, 1, 2, 1, 31, 20, 225,16, Montreal Canadiens, 7, 1, 3, 5, 1, 20, 8, 72,True
+2010, 3, 20,19, Vancouver Canucks, 7, 1, 3, 6, 2, 34, 9, 161,8, Detroit Red Wings, 7, 1, 1, 5, 2, 24, 5, 93,False
+2010, 3, 21,30, Anaheim Ducks, 4, 1, 5, 8, 3, 17, 9, 94,23, Colorado Avalanche, 5, 1, 1, 4, 3, 34, 7, 124,True
+2010, 3, 21,0, Boston Bruins, 4, 0, 1, 0, 3, 31, 13, 87,24, New York Rangers, 4, 2, 3, 6, 4, 16, 16, 110,True
+2010, 3, 21,13, Carolina Hurricanes, 6, 2, 3, 6, 2, 17, 10, 92,18, Buffalo Sabres, 5, 0, 3, 6, 1, 32, 7, 142,False
+2010, 3, 21,4, Dallas Stars, 3, 2, 5, 7, 4, 18, 26, 187,25, Phoenix Coyotes, 8, 0, 4, 6, 2, 41, 17, 234,False
+2010, 3, 21,10, Edmonton Oilers, 3, 0, 2, 3, 2, 33, 11, 139,11, San Jose Sharks, 3, 2, 3, 5, 4, 24, 16, 75,True
+2010, 3, 21,12, Florida Panthers, 4, 2, 1, 1, 1, 17, 11, 88,28, Tampa Bay Lightning, 2, 0, 1, 2, 4, 38, 20, 167,True
+2010, 3, 21,3, Minnesota Wild, 4, 1, 2, 4, 4, 32, 8, 113,20, Calgary Flames, 7, 1, 4, 7, 2, 34, 9, 107,True
+2010, 3, 21,17, Philadelphia Flyers, 4, 0, 2, 5, 5, 28, 15, 118,6, Atlanta Thrashers, 4, 2, 5, 9, 2, 34, 8, 90,False
+2010, 3, 21,26, St. Louis Blues, 7, 1, 1, 1, 5, 26, 8, 112,14, Nashville Predators, 7, 1, 1, 2, 0, 33, 11, 82,False
+2010, 3, 22,8, Detroit Red Wings, 7, 1, 4, 5, 3, 32, 6, 101,27, Pittsburgh Penguins, 6, 1, 1, 4, 3, 29, 15, 135,True
+2010, 3, 22,9, Los Angeles Kings, 5, 2, 1, 1, 0, 26, 12, 150,23, Colorado Avalanche, 5, 0, 3, 4, 4, 19, 6, 84,True
+2010, 3, 22,16, Montreal Canadiens, 7, 0, 2, 4, 2, 33, 9, 85,15, Ottawa Senators, 2, 2, 4, 7, 0, 6, 10, 124,False
+2010, 3, 23,6, Atlanta Thrashers, 4, 0, 3, 5, 2, 27, 7, 101,0, Boston Bruins, 5, 2, 2, 4, 1, 24, 11, 80,False
+2010, 3, 23,20, Calgary Flames, 6, 1, 3, 5, 1, 9, 8, 66,30, Anaheim Ducks, 5, 1, 5, 8, 2, 28, 8, 105,True
+2010, 3, 23,2, Chicago Blackhawks, 4, 0, 5, 7, 4, 35, 13, 157,25, Phoenix Coyotes, 9, 2, 2, 5, 4, 38, 17, 225,True
+2010, 3, 23,10, Edmonton Oilers, 4, 0, 5, 8, 4, 28, 10, 134,19, Vancouver Canucks, 6, 2, 3, 6, 4, 54, 11, 172,True
+2010, 3, 23,3, Minnesota Wild, 4, 0, 4, 7, 2, 31, 7, 113,11, San Jose Sharks, 3, 2, 1, 2, 5, 25, 15, 79,False
+2010, 3, 23,1, New Jersey Devils, 5, 1, 0, 0, 1, 20, 5, 89,7, Columbus Blue Jackets, 4, 0, 0, 2, 1, 31, 13, 141,True
+2010, 3, 23,14, Nashville Predators, 7, 1, 3, 6, 2, 25, 11, 87,4, Dallas Stars, 3, 1, 2, 4, 4, 29, 25, 206,False
+2010, 3, 23,15, Ottawa Senators, 2, 2, 2, 4, 0, 29, 10, 147,17, Philadelphia Flyers, 4, 0, 1, 1, 3, 31, 13, 121,True
+2010, 3, 23,28, Tampa Bay Lightning, 2, 1, 2, 2, 3, 28, 21, 169,13, Carolina Hurricanes, 5, 1, 3, 3, 1, 6, 13, 87,True
+2010, 3, 23,29, Toronto Maple Leafs, 7, 1, 2, 4, 1, 25, 23, 213,12, Florida Panthers, 5, 1, 5, 8, 2, 31, 12, 106,False
+2010, 3, 24,18, Buffalo Sabres, 6, 2, 5, 8, 3, 30, 9, 140,16, Montreal Canadiens, 7, 0, 0, 1, 3, 11, 9, 79,True
+2010, 3, 24,23, Colorado Avalanche, 5, 0, 3, 5, 4, 23, 6, 88,9, Los Angeles Kings, 5, 2, 4, 6, 3, 21, 15, 145,True
+2010, 3, 24,8, Detroit Red Wings, 7, 0, 3, 6, 1, 27, 4, 96,26, St. Louis Blues, 6, 2, 2, 4, 0, 29, 8, 146,True
+2010, 3, 24,24, New York Rangers, 3, 1, 1, 2, 2, 31, 14, 125,22, New York Islanders, 4, 1, 0, 0, 1, 26, 20, 187,True
+2010, 3, 24,19, Vancouver Canucks, 5, 0, 2, 4, 0, 7, 10, 140,30, Anaheim Ducks, 4, 2, 1, 2, 3, 28, 9, 102,True
+2010, 3, 24,21, Washington Capitals, 7, 2, 5, 5, 1, 34, 11, 148,27, Pittsburgh Penguins, 5, 0, 1, 1, 3, 33, 18, 133,True
+2010, 3, 25,6, Atlanta Thrashers, 4, 1, 0, 0, 1, 45, 6, 113,29, Toronto Maple Leafs, 7, 1, 1, 0, 2, 27, 25, 252,False
+2010, 3, 25,0, Boston Bruins, 5, 1, 4, 6, 0, 27, 10, 83,28, Tampa Bay Lightning, 3, 1, 3, 6, 2, 29, 20, 170,False
+2010, 3, 25,13, Carolina Hurricanes, 4, 1, 2, 4, 3, 27, 15, 108,21, Washington Capitals, 7, 1, 3, 5, 4, 29, 13, 156,True
+2010, 3, 25,7, Columbus Blue Jackets, 4, 0, 3, 5, 6, 30, 18, 140,2, Chicago Blackhawks, 5, 2, 2, 3, 3, 34, 9, 150,True
+2010, 3, 25,16, Montreal Canadiens, 6, 1, 2, 4, 2, 27, 12, 103,12, Florida Panthers, 6, 1, 4, 4, 2, 19, 10, 125,True
+2010, 3, 25,1, New Jersey Devils, 5, 1, 6, 12, 3, 22, 6, 103,24, New York Rangers, 3, 1, 5, 10, 0, 27, 12, 121,False
+2010, 3, 25,14, Nashville Predators, 7, 0, 1, 2, 3, 14, 12, 76,25, Phoenix Coyotes, 9, 2, 0, 0, 2, 32, 15, 219,True
+2010, 3, 25,22, New York Islanders, 3, 1, 0, 0, 5, 39, 24, 205,20, Calgary Flames, 7, 1, 3, 5, 1, 23, 8, 80,True
+2010, 3, 25,17, Philadelphia Flyers, 4, 1, 0, 0, 2, 26, 9, 122,3, Minnesota Wild, 4, 1, 1, 2, 3, 16, 8, 98,False
+2010, 3, 25,11, San Jose Sharks, 4, 1, 4, 8, 1, 19, 12, 63,4, Dallas Stars, 4, 1, 3, 5, 2, 35, 22, 212,True
+2010, 3, 25,26, St. Louis Blues, 5, 2, 2, 4, 3, 39, 10, 156,9, Los Angeles Kings, 4, 0, 3, 6, 3, 16, 13, 131,True
+2010, 3, 26,18, Buffalo Sabres, 7, 0, 2, 3, 2, 28, 8, 138,15, Ottawa Senators, 3, 2, 2, 4, 0, 26, 10, 144,False
+2010, 3, 26,8, Detroit Red Wings, 8, 1, 5, 6, 2, 32, 8, 95,3, Minnesota Wild, 5, 1, 4, 7, 3, 32, 8, 117,True
+2010, 3, 26,10, Edmonton Oilers, 5, 0, 3, 6, 2, 33, 12, 157,30, Anaheim Ducks, 4, 2, 1, 2, 1, 14, 10, 102,False
+2010, 3, 27,0, Boston Bruins, 4, 0, 3, 6, 3, 12, 15, 74,20, Calgary Flames, 6, 1, 2, 4, 3, 22, 11, 101,True
+2010, 3, 27,18, Buffalo Sabres, 6, 2, 3, 2, 1, 21, 9, 140,28, Tampa Bay Lightning, 3, 0, 5, 6, 3, 50, 21, 191,True
+2010, 3, 27,13, Carolina Hurricanes, 5, 2, 2, 4, 2, 43, 14, 124,6, Atlanta Thrashers, 4, 0, 1, 2, 4, 33, 7, 98,False
+2010, 3, 27,7, Columbus Blue Jackets, 5, 1, 8, 10, 2, 20, 15, 151,22, New York Islanders, 4, 1, 2, 5, 5, 44, 21, 189,False
+2010, 3, 27,9, Los Angeles Kings, 4, 2, 1, 0, 3, 25, 13, 140,4, Dallas Stars, 4, 0, 0, 0, 1, 35, 22, 198,False
+2010, 3, 27,16, Montreal Canadiens, 7, 1, 4, 2, 1, 24, 11, 100,1, New Jersey Devils, 5, 1, 3, 5, 3, 31, 6, 112,False
+2010, 3, 27,14, Nashville Predators, 8, 0, 3, 6, 3, 35, 10, 89,8, Detroit Red Wings, 8, 2, 6, 11, 2, 27, 8, 90,False
+2010, 3, 27,15, Ottawa Senators, 4, 1, 4, 8, 2, 43, 12, 161,12, Florida Panthers, 5, 1, 1, 2, 2, 29, 10, 135,True
+2010, 3, 27,25, Phoenix Coyotes, 8, 1, 3, 6, 3, 31, 16, 218,23, Colorado Avalanche, 5, 1, 3, 4, 3, 30, 8, 127,True
+2010, 3, 27,27, Pittsburgh Penguins, 4, 1, 3, 6, 3, 32, 20, 140,17, Philadelphia Flyers, 3, 1, 3, 3, 0, 0, 11, 73,True
+2010, 3, 27,11, San Jose Sharks, 4, 1, 3, 6, 0, 27, 9, 57,19, Vancouver Canucks, 6, 1, 4, 7, 3, 22, 11, 164,True
+2010, 3, 27,29, Toronto Maple Leafs, 7, 0, 2, 3, 1, 20, 21, 239,24, New York Rangers, 4, 2, 3, 6, 3, 38, 15, 132,True
+2010, 3, 28,2, Chicago Blackhawks, 4, 1, 3, 5, 1, 5, 14, 122,7, Columbus Blue Jackets, 5, 1, 3, 6, 3, 41, 17, 159,False
+2010, 3, 28,17, Philadelphia Flyers, 2, 2, 1, 1, 2, 7, 11, 83,1, New Jersey Devils, 6, 0, 4, 7, 2, 27, 5, 108,True
+2010, 3, 28,27, Pittsburgh Penguins, 4, 1, 4, 7, 1, 27, 18, 135,29, Toronto Maple Leafs, 8, 1, 3, 6, 3, 28, 22, 257,True
+2010, 3, 28,11, San Jose Sharks, 4, 1, 4, 4, 4, 14, 10, 93,23, Colorado Avalanche, 5, 1, 2, 6, 5, 31, 10, 128,True
+2010, 3, 28,26, St. Louis Blues, 5, 2, 3, 6, 1, 31, 10, 148,10, Edmonton Oilers, 4, 0, 2, 4, 1, 28, 13, 165,True
+2010, 3, 28,21, Washington Capitals, 6, 1, 2, 3, 3, 42, 15, 151,20, Calgary Flames, 5, 1, 0, 0, 5, 29, 10, 102,False
+2010, 3, 29,30, Anaheim Ducks, 5, 1, 3, 5, 2, 36, 11, 139,4, Dallas Stars, 4, 1, 4, 4, 1, 30, 22, 193,True
+2010, 3, 29,6, Atlanta Thrashers, 5, 1, 4, 8, 0, 34, 5, 110,13, Carolina Hurricanes, 4, 1, 0, 0, 3, 38, 16, 124,False
+2010, 3, 29,0, Boston Bruins, 5, 1, 5, 9, 0, 31, 12, 93,18, Buffalo Sabres, 6, 1, 7, 11, 3, 30, 9, 142,False
+2010, 3, 29,12, Florida Panthers, 4, 1, 2, 4, 1, 43, 12, 133,14, Nashville Predators, 7, 1, 0, 0, 6, 23, 7, 85,False
+2010, 3, 29,3, Minnesota Wild, 5, 1, 2, 4, 2, 10, 8, 92,9, Los Angeles Kings, 4, 1, 1, 2, 4, 26, 14, 141,True
+2010, 3, 30,7, Columbus Blue Jackets, 6, 1, 4, 8, 2, 35, 16, 153,28, Tampa Bay Lightning, 3, 1, 1, 2, 3, 6, 20, 127,True
+2010, 3, 30,8, Detroit Red Wings, 8, 0, 0, 0, 0, 33, 6, 96,10, Edmonton Oilers, 3, 2, 1, 0, 3, 40, 14, 168,True
+2010, 3, 30,1, New Jersey Devils, 5, 2, 1, 2, 4, 19, 9, 62,0, Boston Bruins, 5, 0, 2, 2, 0, 19, 10, 77,False
+2010, 3, 30,14, Nashville Predators, 8, 2, 3, 6, 0, 38, 3, 91,9, Los Angeles Kings, 3, 0, 2, 4, 1, 30, 13, 135,False
+2010, 3, 30,22, New York Islanders, 5, 1, 4, 8, 3, 37, 19, 162,24, New York Rangers, 4, 1, 2, 4, 3, 32, 15, 126,False
+2010, 3, 30,26, St. Louis Blues, 6, 1, 2, 3, 1, 24, 10, 141,2, Chicago Blackhawks, 3, 1, 2, 4, 3, 19, 16, 136,True
+2010, 3, 30,29, Toronto Maple Leafs, 7, 1, 4, 7, 2, 38, 25, 256,6, Atlanta Thrashers, 5, 1, 1, 2, 2, 30, 8, 97,False
+2010, 3, 30,19, Vancouver Canucks, 5, 1, 2, 3, 3, 29, 11, 171,25, Phoenix Coyotes, 8, 1, 6, 10, 2, 29, 15, 216,True
+2010, 3, 30,21, Washington Capitals, 5, 1, 3, 6, 3, 10, 15, 100,15, Ottawa Senators, 5, 1, 3, 6, 2, 22, 12, 140,False
+2010, 3, 31,18, Buffalo Sabres, 6, 1, 3, 5, 2, 42, 8, 154,12, Florida Panthers, 3, 1, 2, 4, 3, 25, 14, 115,True
+2010, 3, 31,20, Calgary Flames, 5, 0, 5, 9, 3, 34, 7, 102,25, Phoenix Coyotes, 7, 2, 1, 1, 2, 32, 17, 216,True
+2010, 3, 31,23, Colorado Avalanche, 4, 1, 3, 6, 4, 32, 11, 118,30, Anaheim Ducks, 6, 1, 3, 5, 1, 31, 12, 134,False
+2010, 3, 31,4, Dallas Stars, 4, 1, 1, 4, 3, 41, 24, 209,11, San Jose Sharks, 4, 1, 4, 8, 2, 37, 9, 124,True
+2010, 3, 31,3, Minnesota Wild, 6, 1, 3, 5, 2, 31, 8, 113,2, Chicago Blackhawks, 3, 1, 2, 3, 4, 30, 17, 147,False
+2010, 3, 31,16, Montreal Canadiens, 6, 2, 2, 4, 2, 42, 13, 101,13, Carolina Hurricanes, 5, 0, 4, 7, 1, 27, 14, 113,False
+2010, 3, 31,27, Pittsburgh Penguins, 4, 1, 4, 7, 4, 29, 21, 137,28, Tampa Bay Lightning, 3, 1, 2, 4, 4, 20, 20, 146,False
+2010, 4, 1,0, Boston Bruins, 5, 2, 1, 2, 0, 21, 10, 79,12, Florida Panthers, 3, 0, 2, 4, 3, 25, 18, 126,False
+2010, 4, 1,8, Detroit Red Wings, 9, 1, 5, 9, 4, 26, 10, 89,7, Columbus Blue Jackets, 6, 1, 3, 4, 2, 18, 16, 136,True
+2010, 4, 1,9, Los Angeles Kings, 4, 0, 2, 4, 0, 34, 12, 138,19, Vancouver Canucks, 5, 2, 3, 6, 1, 33, 9, 174,True
+2010, 4, 1,14, Nashville Predators, 7, 2, 0, 0, 2, 31, 6, 94,26, St. Louis Blues, 6, 0, 4, 8, 2, 34, 11, 151,True
+2010, 4, 1,22, New York Islanders, 5, 0, 3, 6, 2, 23, 20, 152,17, Philadelphia Flyers, 3, 2, 5, 10, 1, 33, 10, 128,True
+2010, 4, 1,15, Ottawa Senators, 5, 0, 5, 10, 4, 21, 14, 139,13, Carolina Hurricanes, 5, 2, 2, 4, 4, 43, 14, 121,True
+2010, 4, 1,29, Toronto Maple Leafs, 6, 0, 2, 2, 4, 45, 23, 254,18, Buffalo Sabres, 7, 2, 6, 10, 2, 15, 8, 127,True
+2010, 4, 1,21, Washington Capitals, 5, 2, 4, 6, 2, 12, 17, 121,6, Atlanta Thrashers, 6, 0, 3, 6, 2, 29, 8, 96,True
+2010, 4, 2,30, Anaheim Ducks, 7, 1, 5, 9, 2, 29, 11, 111,19, Vancouver Canucks, 5, 1, 4, 6, 1, 31, 16, 170,False
+2010, 4, 2,23, Colorado Avalanche, 4, 1, 2, 4, 5, 27, 15, 116,20, Calgary Flames, 5, 1, 2, 3, 1, 30, 8, 107,False
+2010, 4, 2,4, Dallas Stars, 5, 1, 5, 8, 3, 46, 18, 205,10, Edmonton Oilers, 3, 1, 4, 7, 2, 31, 17, 162,True
+2010, 4, 2,3, Minnesota Wild, 5, 0, 0, 0, 4, 35, 10, 117,11, San Jose Sharks, 4, 2, 1, 2, 5, 21, 13, 62,False
+2010, 4, 2,1, New Jersey Devils, 4, 0, 0, 0, 1, 34, 3, 88,2, Chicago Blackhawks, 3, 2, 4, 6, 0, 21, 13, 138,False
+2010, 4, 2,17, Philadelphia Flyers, 2, 2, 4, 7, 5, 24, 17, 135,16, Montreal Canadiens, 5, 0, 1, 2, 3, 25, 13, 86,False
+2010, 4, 2,28, Tampa Bay Lightning, 3, 0, 2, 4, 0, 27, 16, 153,24, New York Rangers, 5, 2, 4, 6, 3, 28, 15, 122,False
+2010, 4, 3,13, Carolina Hurricanes, 5, 1, 3, 4, 1, 35, 13, 113,1, New Jersey Devils, 4, 1, 1, 1, 1, 26, 3, 80,False
+2010, 4, 3,7, Columbus Blue Jackets, 5, 2, 2, 3, 4, 28, 17, 150,21, Washington Capitals, 5, 0, 2, 5, 5, 31, 16, 129,False
+2010, 4, 3,8, Detroit Red Wings, 9, 2, 3, 5, 2, 22, 8, 85,14, Nashville Predators, 7, 0, 3, 6, 2, 33, 7, 94,False
+2010, 4, 3,12, Florida Panthers, 3, 0, 1, 2, 0, 36, 12, 137,24, New York Rangers, 6, 2, 5, 5, 0, 30, 12, 124,False
+2010, 4, 3,9, Los Angeles Kings, 4, 1, 8, 11, 3, 20, 15, 134,30, Anaheim Ducks, 7, 1, 4, 8, 4, 40, 13, 122,False
+2010, 4, 3,16, Montreal Canadiens, 5, 0, 1, 2, 0, 35, 10, 96,18, Buffalo Sabres, 7, 2, 2, 4, 3, 33, 9, 145,True
+2010, 4, 3,22, New York Islanders, 6, 0, 6, 9, 4, 35, 22, 164,15, Ottawa Senators, 6, 2, 3, 5, 3, 31, 13, 149,True
+2010, 4, 3,25, Phoenix Coyotes, 6, 2, 1, 2, 4, 29, 17, 215,10, Edmonton Oilers, 3, 0, 3, 3, 5, 44, 19, 142,True
+2010, 4, 3,27, Pittsburgh Penguins, 4, 2, 1, 0, 2, 17, 17, 101,6, Atlanta Thrashers, 6, 0, 1, 1, 3, 21, 8, 73,True
+2010, 4, 3,26, St. Louis Blues, 5, 2, 2, 4, 3, 32, 11, 141,4, Dallas Stars, 6, 0, 6, 12, 3, 28, 22, 167,True
+2010, 4, 3,29, Toronto Maple Leafs, 6, 1, 4, 5, 3, 25, 27, 226,0, Boston Bruins, 5, 1, 0, 0, 1, 20, 11, 78,False
+2010, 4, 4,2, Chicago Blackhawks, 4, 2, 1, 2, 1, 33, 14, 150,20, Calgary Flames, 6, 0, 2, 4, 1, 36, 5, 102,True
+2010, 4, 4,23, Colorado Avalanche, 3, 0, 1, 2, 2, 27, 9, 121,11, San Jose Sharks, 5, 2, 3, 6, 2, 29, 6, 69,True
+2010, 4, 4,17, Philadelphia Flyers, 2, 0, 0, 0, 1, 23, 8, 118,8, Detroit Red Wings, 8, 1, 3, 6, 2, 12, 10, 87,True
+2010, 4, 4,19, Vancouver Canucks, 5, 0, 4, 7, 8, 29, 19, 173,3, Minnesota Wild, 4, 2, 2, 4, 3, 28, 9, 110,True
+2010, 4, 5,10, Edmonton Oilers, 3, 1, 2, 5, 6, 35, 16, 142,3, Minnesota Wild, 3, 1, 3, 4, 3, 39, 9, 121,True
+2010, 4, 5,26, St. Louis Blues, 6, 1, 2, 4, 1, 25, 9, 134,7, Columbus Blue Jackets, 5, 1, 2, 1, 2, 4, 13, 117,True
+2010, 4, 5,21, Washington Capitals, 6, 2, 2, 4, 2, 36, 13, 134,0, Boston Bruins, 6, 0, 2, 4, 1, 28, 11, 86,True
+2010, 4, 6,30, Anaheim Ducks, 7, 2, 1, 2, 1, 29, 8, 109,9, Los Angeles Kings, 4, 0, 1, 2, 1, 33, 13, 147,False
+2010, 4, 6,6, Atlanta Thrashers, 5, 0, 3, 6, 4, 35, 8, 82,1, New Jersey Devils, 4, 2, 4, 7, 0, 26, 5, 70,False
+2010, 4, 6,18, Buffalo Sabres, 7, 2, 0, 0, 3, 38, 9, 150,24, New York Rangers, 6, 0, 4, 5, 1, 20, 13, 114,True
+2010, 4, 6,20, Calgary Flames, 6, 1, 1, 1, 4, 31, 11, 108,11, San Jose Sharks, 5, 1, 4, 7, 5, 40, 11, 91,False
+2010, 4, 6,4, Dallas Stars, 5, 1, 0, 1, 2, 27, 22, 166,2, Chicago Blackhawks, 5, 1, 3, 8, 1, 26, 14, 143,False
+2010, 4, 6,12, Florida Panthers, 3, 1, 1, 2, 6, 41, 17, 122,15, Ottawa Senators, 6, 1, 1, 1, 5, 19, 15, 155,False
+2010, 4, 6,22, New York Islanders, 6, 0, 4, 8, 1, 29, 19, 158,16, Montreal Canadiens, 5, 2, 3, 6, 0, 29, 10, 90,True
+2010, 4, 6,27, Pittsburgh Penguins, 5, 0, 3, 6, 3, 24, 18, 138,21, Washington Capitals, 6, 2, 3, 6, 1, 20, 13, 128,False
+2010, 4, 6,28, Tampa Bay Lightning, 3, 2, 0, 0, 1, 15, 18, 123,13, Carolina Hurricanes, 5, 0, 0, 0, 3, 35, 15, 106,False
+2010, 4, 6,29, Toronto Maple Leafs, 6, 1, 1, 3, 2, 24, 26, 231,17, Philadelphia Flyers, 3, 1, 4, 5, 3, 34, 16, 139,False
+2010, 4, 6,19, Vancouver Canucks, 5, 2, 4, 6, 3, 27, 14, 171,23, Colorado Avalanche, 3, 0, 3, 8, 4, 22, 11, 110,False
+2010, 4, 7,2, Chicago Blackhawks, 6, 1, 6, 8, 2, 28, 15, 145,26, St. Louis Blues, 7, 1, 2, 4, 1, 28, 8, 113,True
+2010, 4, 7,8, Detroit Red Wings, 7, 1, 3, 6, 4, 24, 12, 99,7, Columbus Blue Jackets, 4, 1, 1, 2, 1, 23, 10, 162,True
+2010, 4, 7,10, Edmonton Oilers, 4, 0, 4, 7, 2, 44, 11, 163,23, Colorado Avalanche, 3, 2, 1, 2, 1, 14, 10, 120,True
+2010, 4, 7,24, New York Rangers, 5, 1, 2, 4, 3, 16, 16, 114,29, Toronto Maple Leafs, 5, 1, 0, 0, 2, 30, 25, 229,True
+2010, 4, 7,25, Phoenix Coyotes, 6, 1, 2, 4, 2, 27, 16, 217,14, Nashville Predators, 7, 1, 4, 5, 3, 31, 8, 64,True
+2010, 4, 8,0, Boston Bruins, 5, 1, 2, 4, 3, 30, 14, 92,18, Buffalo Sabres, 7, 1, 4, 9, 1, 23, 8, 144,True
+2010, 4, 8,13, Carolina Hurricanes, 5, 1, 6, 13, 3, 26, 14, 80,16, Montreal Canadiens, 4, 1, 3, 3, 3, 42, 13, 103,True
+2010, 4, 8,20, Calgary Flames, 5, 1, 1, 2, 2, 26, 9, 103,3, Minnesota Wild, 3, 1, 1, 2, 4, 31, 10, 113,False
+2010, 4, 8,4, Dallas Stars, 5, 1, 3, 4, 1, 30, 23, 187,30, Anaheim Ducks, 6, 1, 2, 3, 3, 29, 10, 116,True
+2010, 4, 8,12, Florida Panthers, 3, 1, 2, 3, 3, 26, 15, 119,1, New Jersey Devils, 4, 1, 3, 6, 0, 19, 5, 63,True
+2010, 4, 8,9, Los Angeles Kings, 5, 1, 4, 7, 3, 8, 16, 121,25, Phoenix Coyotes, 6, 1, 5, 8, 2, 31, 16, 215,False
+2010, 4, 8,27, Pittsburgh Penguins, 4, 2, 4, 7, 3, 12, 20, 135,22, New York Islanders, 6, 0, 3, 3, 3, 31, 20, 154,True
+2010, 4, 8,11, San Jose Sharks, 6, 1, 2, 4, 1, 39, 4, 79,19, Vancouver Canucks, 5, 1, 3, 4, 4, 34, 14, 168,True
+2010, 4, 8,28, Tampa Bay Lightning, 3, 1, 5, 5, 2, 17, 20, 141,15, Ottawa Senators, 7, 1, 5, 9, 4, 33, 12, 170,True
+2010, 4, 9,7, Columbus Blue Jackets, 3, 0, 3, 6, 4, 35, 12, 168,8, Detroit Red Wings, 8, 2, 4, 7, 3, 24, 11, 99,False
+2010, 4, 9,23, Colorado Avalanche, 3, 1, 4, 9, 5, 45, 14, 148,2, Chicago Blackhawks, 6, 1, 4, 11, 5, 31, 20, 159,False
+2010, 4, 9,24, New York Rangers, 6, 1, 5, 9, 1, 27, 14, 125,17, Philadelphia Flyers, 3, 1, 2, 4, 0, 23, 14, 107,True
+2010, 4, 9,26, St. Louis Blues, 6, 0, 3, 6, 3, 4, 10, 88,30, Anaheim Ducks, 5, 2, 2, 3, 4, 40, 9, 138,True
+2010, 4, 9,21, Washington Capitals, 6, 2, 5, 8, 2, 30, 17, 147,6, Atlanta Thrashers, 4, 0, 0, 2, 2, 24, 7, 74,True
+2010, 4, 10,6, Atlanta Thrashers, 3, 0, 1, 2, 3, 27, 10, 97,27, Pittsburgh Penguins, 5, 2, 7, 12, 3, 35, 20, 158,True
+2010, 4, 10,0, Boston Bruins, 6, 1, 3, 5, 1, 32, 12, 94,13, Carolina Hurricanes, 5, 1, 7, 9, 2, 32, 13, 86,True
+2010, 4, 10,9, Los Angeles Kings, 4, 1, 2, 4, 2, 27, 15, 133,10, Edmonton Oilers, 5, 1, 5, 8, 1, 26, 12, 152,False
+2010, 4, 10,3, Minnesota Wild, 4, 0, 1, 4, 1, 28, 6, 104,4, Dallas Stars, 5, 2, 2, 4, 2, 23, 25, 197,False
+2010, 4, 10,16, Montreal Canadiens, 3, 1, 2, 5, 4, 32, 14, 93,29, Toronto Maple Leafs, 4, 1, 1, 2, 1, 22, 27, 246,False
+2010, 4, 10,1, New Jersey Devils, 4, 1, 2, 4, 3, 18, 7, 80,22, New York Islanders, 5, 1, 2, 7, 4, 10, 20, 131,True
+2010, 4, 10,14, Nashville Predators, 6, 2, 2, 4, 4, 29, 9, 84,26, St. Louis Blues, 6, 0, 6, 10, 3, 22, 10, 110,True
+2010, 4, 10,15, Ottawa Senators, 7, 2, 3, 6, 2, 34, 11, 166,18, Buffalo Sabres, 6, 0, 1, 3, 2, 32, 10, 155,False
+2010, 4, 10,11, San Jose Sharks, 7, 2, 4, 9, 2, 32, 9, 74,25, Phoenix Coyotes, 6, 0, 2, 4, 2, 25, 16, 208,True
+2010, 4, 10,28, Tampa Bay Lightning, 4, 0, 3, 6, 5, 23, 21, 162,12, Florida Panthers, 4, 2, 3, 6, 2, 44, 14, 137,True
+2010, 4, 10,19, Vancouver Canucks, 4, 1, 2, 3, 3, 31, 14, 165,20, Calgary Flames, 4, 1, 1, 2, 1, 24, 10, 109,True
+2010, 4, 11,30, Anaheim Ducks, 4, 2, 5, 4, 2, 51, 13, 166,10, Edmonton Oilers, 5, 0, 3, 6, 4, 35, 14, 181,True
+2010, 4, 11,2, Chicago Blackhawks, 7, 1, 7, 10, 2, 32, 17, 160,8, Detroit Red Wings, 8, 1, 0, 0, 0, 22, 6, 111,False
+2010, 4, 11,23, Colorado Avalanche, 3, 1, 3, 3, 3, 32, 13, 140,9, Los Angeles Kings, 3, 1, 2, 5, 1, 13, 16, 122,False
+2010, 4, 11,12, Florida Panthers, 3, 1, 3, 6, 3, 37, 14, 131,28, Tampa Bay Lightning, 5, 1, 3, 6, 3, 38, 19, 171,False
+2010, 4, 11,1, New Jersey Devils, 5, 1, 7, 13, 1, 19, 5, 67,18, Buffalo Sabres, 6, 1, 5, 7, 3, 34, 10, 153,True
+2010, 4, 11,22, New York Islanders, 5, 0, 1, 2, 3, 25, 23, 158,27, Pittsburgh Penguins, 4, 2, 0, 0, 2, 15, 16, 159,False
+2010, 4, 11,17, Philadelphia Flyers, 3, 0, 3, 3, 4, 25, 19, 145,24, New York Rangers, 7, 2, 4, 6, 3, 27, 16, 125,True
+2010, 4, 11,21, Washington Capitals, 7, 2, 7, 10, 3, 29, 20, 171,0, Boston Bruins, 6, 0, 4, 4, 3, 14, 13, 97,False

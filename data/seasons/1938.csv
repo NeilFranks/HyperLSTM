@@ -1,0 +1,193 @@
+Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
+1937, 11, 4,12, Chicago Black Hawks, 4, 1, 1, 4, 6, 0, 17, 0,10, New York Americans, 4, 1, 4, 7, 0, 0, 47, 0,False
+1937, 11, 4,13, Toronto Maple Leafs, 8, 2, 4, 4, 2, 0, 7, 0,17, Detroit Red Wings, 5, 0, 2, 2, 5, 0, 12, 0,False
+1937, 11, 6,8, Montreal Maroons, 7, 1, 4, 4, 1, 0, 16, 0,7, Boston Bruins, 5, 1, 6, 7, 1, 0, 2, 0,False
+1937, 11, 6,13, Toronto Maple Leafs, 8, 1, 2, 2, 2, 0, 7, 0,10, New York Americans, 4, 1, 3, 4, 0, 0, 47, 0,True
+1937, 11, 7,17, Detroit Red Wings, 5, 2, 2, 1, 2, 0, 9, 0,11, New York Rangers, 4, 0, 4, 3, 1, 0, 11, 0,False
+1937, 11, 9,1, Montreal Canadiens, 4, 1, 1, 1, 3, 0, 18, 0,12, Chicago Black Hawks, 4, 1, 0, 0, 3, 0, 14, 0,False
+1937, 11, 11,8, Montreal Maroons, 6, 1, 3, 5, 4, 0, 18, 0,1, Montreal Canadiens, 4, 1, 2, 5, 2, 0, 17, 0,True
+1937, 11, 11,11, New York Rangers, 4, 0, 3, 5, 0, 0, 10, 0,12, Chicago Black Hawks, 4, 2, 2, 2, 2, 0, 13, 0,False
+1937, 11, 13,1, Montreal Canadiens, 3, 2, 0, 0, 3, 0, 18, 0,17, Detroit Red Wings, 5, 0, 0, 0, 3, 0, 10, 0,True
+1937, 11, 13,13, Toronto Maple Leafs, 8, 2, 6, 8, 3, 0, 8, 0,12, Chicago Black Hawks, 4, 0, 3, 3, 1, 0, 12, 0,True
+1937, 11, 14,7, Boston Bruins, 6, 2, 4, 5, 2, 0, 3, 0,11, New York Rangers, 3, 0, 1, 1, 3, 0, 13, 0,True
+1937, 11, 14,12, Chicago Black Hawks, 3, 0, 3, 3, 7, 0, 18, 0,13, Toronto Maple Leafs, 8, 2, 7, 10, 3, 0, 8, 0,False
+1937, 11, 14,17, Detroit Red Wings, 4, 0, 2, 3, 5, 0, 11, 0,1, Montreal Canadiens, 3, 2, 5, 8, 2, 0, 17, 0,True
+1937, 11, 14,10, New York Americans, 4, 0, 3, 4, 6, 0, 53, 0,8, Montreal Maroons, 7, 2, 3, 5, 0, 0, 17, 0,True
+1937, 11, 16,7, Boston Bruins, 6, 2, 3, 0, 2, 0, 3, 0,8, Montreal Maroons, 7, 0, 0, 0, 2, 0, 19, 0,True
+1937, 11, 16,11, New York Rangers, 3, 1, 2, 2, 3, 0, 13, 0,10, New York Americans, 4, 1, 2, 3, 0, 0, 47, 0,True
+1937, 11, 18,12, Chicago Black Hawks, 3, 0, 3, 4, 3, 0, 14, 0,17, Detroit Red Wings, 4, 2, 2, 3, 1, 0, 7, 0,True
+1937, 11, 18,1, Montreal Canadiens, 3, 0, 1, 0, 2, 0, 17, 0,13, Toronto Maple Leafs, 8, 2, 3, 3, 3, 0, 8, 0,False
+1937, 11, 18,10, New York Americans, 4, 1, 0, 0, 1, 0, 48, 0,7, Boston Bruins, 7, 1, 1, 1, 0, 0, 1, 0,False
+1937, 11, 20,8, Montreal Maroons, 6, 2, 0, 0, 1, 0, 15, 0,11, New York Rangers, 4, 0, 1, 1, 0, 0, 10, 0,False
+1937, 11, 20,13, Toronto Maple Leafs, 8, 1, 6, 9, 6, 0, 11, 0,7, Boston Bruins, 8, 1, 2, 2, 1, 0, 2, 0,False
+1937, 11, 21,12, Chicago Black Hawks, 4, 0, 3, 4, 1, 0, 12, 0,7, Boston Bruins, 8, 2, 3, 5, 2, 0, 3, 0,False
+1937, 11, 21,17, Detroit Red Wings, 4, 1, 1, 1, 3, 0, 13, 0,13, Toronto Maple Leafs, 8, 1, 2, 4, 3, 0, 8, 0,False
+1937, 11, 21,11, New York Rangers, 5, 1, 2, 2, 0, 0, 10, 0,8, Montreal Maroons, 5, 1, 0, 0, 3, 0, 17, 0,False
+1937, 11, 23,7, Boston Bruins, 8, 1, 2, 3, 1, 0, 2, 0,1, Montreal Canadiens, 3, 1, 5, 9, 6, 0, 21, 0,False
+1937, 11, 23,8, Montreal Maroons, 5, 1, 3, 3, 3, 0, 20, 0,13, Toronto Maple Leafs, 8, 1, 5, 5, 0, 0, 5, 0,True
+1937, 11, 23,10, New York Americans, 4, 2, 1, 2, 2, 0, 49, 0,17, Detroit Red Wings, 4, 0, 0, 0, 5, 0, 10, 0,True
+1937, 11, 25,17, Detroit Red Wings, 3, 1, 1, 0, 3, 0, 8, 0,12, Chicago Black Hawks, 4, 1, 1, 2, 2, 0, 13, 0,True
+1937, 11, 25,11, New York Rangers, 4, 2, 3, 4, 3, 0, 13, 0,13, Toronto Maple Leafs, 7, 0, 1, 1, 2, 0, 7, 0,False
+1937, 11, 27,1, Montreal Canadiens, 4, 1, 0, 2, 1, 0, 16, 0,11, New York Rangers, 4, 1, 1, 2, 3, 0, 13, 0,True
+1937, 11, 27,10, New York Americans, 4, 2, 3, 4, 1, 0, 48, 0,12, Chicago Black Hawks, 3, 0, 1, 1, 4, 0, 15, 0,True
+1937, 11, 27,13, Toronto Maple Leafs, 7, 0, 3, 5, 1, 0, 6, 0,8, Montreal Maroons, 5, 2, 2, 3, 1, 0, 17, 0,True
+1937, 11, 28,7, Boston Bruins, 7, 1, 1, 1, 1, 0, 2, 0,10, New York Americans, 5, 1, 4, 5, 0, 0, 47, 0,False
+1937, 11, 28,17, Detroit Red Wings, 3, 1, 4, 6, 1, 0, 6, 0,8, Montreal Maroons, 5, 1, 0, 0, 4, 0, 20, 0,False
+1937, 11, 30,8, Montreal Maroons, 5, 2, 3, 4, 1, 0, 17, 0,12, Chicago Black Hawks, 3, 0, 0, 0, 4, 0, 15, 0,True
+1937, 12, 2,12, Chicago Black Hawks, 3, 2, 0, 0, 1, 0, 12, 0,11, New York Rangers, 4, 0, 2, 2, 2, 0, 12, 0,True
+1937, 12, 2,1, Montreal Canadiens, 4, 2, 2, 3, 1, 0, 16, 0,7, Boston Bruins, 7, 0, 3, 4, 3, 0, 4, 0,True
+1937, 12, 4,8, Montreal Maroons, 5, 1, 1, 0, 0, 0, 16, 0,10, New York Americans, 6, 1, 3, 1, 3, 0, 50, 0,False
+1937, 12, 4,13, Toronto Maple Leafs, 7, 2, 4, 6, 0, 0, 5, 0,1, Montreal Canadiens, 4, 0, 2, 2, 0, 0, 15, 0,False
+1937, 12, 5,12, Chicago Black Hawks, 4, 2, 2, 4, 1, 0, 12, 0,1, Montreal Canadiens, 5, 0, 3, 3, 3, 0, 18, 0,False
+1937, 12, 5,17, Detroit Red Wings, 3, 0, 1, 2, 3, 0, 9, 0,10, New York Americans, 6, 2, 3, 5, 1, 0, 48, 0,False
+1937, 12, 5,11, New York Rangers, 4, 0, 1, 1, 2, 0, 12, 0,7, Boston Bruins, 7, 2, 0, 0, 2, 0, 3, 0,True
+1937, 12, 7,7, Boston Bruins, 6, 1, 0, 0, 4, 0, 5, 0,17, Detroit Red Wings, 3, 1, 1, 2, 2, 0, 8, 0,False
+1937, 12, 7,1, Montreal Canadiens, 6, 1, 3, 5, 2, 0, 17, 0,8, Montreal Maroons, 5, 1, 1, 1, 3, 0, 17, 0,True
+1937, 12, 9,8, Montreal Maroons, 4, 2, 1, 2, 5, 0, 19, 0,17, Detroit Red Wings, 3, 0, 3, 4, 2, 0, 7, 0,True
+1937, 12, 11,1, Montreal Canadiens, 7, 2, 5, 9, 1, 0, 16, 0,10, New York Americans, 7, 0, 2, 4, 1, 0, 48, 0,True
+1937, 12, 11,13, Toronto Maple Leafs, 7, 1, 3, 7, 3, 0, 8, 0,11, New York Rangers, 4, 1, 4, 8, 0, 0, 10, 0,False
+1937, 12, 12,12, Chicago Black Hawks, 3, 0, 2, 3, 3, 0, 14, 0,8, Montreal Maroons, 5, 2, 5, 5, 2, 0, 19, 0,True
+1937, 12, 12,17, Detroit Red Wings, 3, 1, 2, 3, 5, 0, 12, 0,11, New York Rangers, 4, 1, 6, 7, 3, 0, 13, 0,False
+1937, 12, 12,10, New York Americans, 6, 0, 3, 5, 4, 0, 51, 0,1, Montreal Canadiens, 8, 2, 4, 7, 3, 0, 18, 0,False
+1937, 12, 14,7, Boston Bruins, 5, 1, 2, 1, 3, 0, 4, 0,13, Toronto Maple Leafs, 6, 1, 3, 4, 6, 0, 11, 0,True
+1937, 12, 14,8, Montreal Maroons, 5, 1, 2, 3, 3, 0, 19, 0,1, Montreal Canadiens, 8, 1, 4, 3, 4, 0, 19, 0,True
+1937, 12, 14,11, New York Rangers, 5, 2, 5, 6, 2, 0, 12, 0,17, Detroit Red Wings, 3, 0, 2, 2, 5, 0, 12, 0,True
+1937, 12, 16,12, Chicago Black Hawks, 3, 1, 3, 6, 2, 0, 13, 0,17, Detroit Red Wings, 2, 1, 1, 0, 3, 0, 10, 0,True
+1937, 12, 16,1, Montreal Canadiens, 8, 1, 2, 3, 3, 0, 18, 0,13, Toronto Maple Leafs, 5, 1, 1, 0, 3, 0, 8, 0,False
+1937, 12, 16,10, New York Americans, 6, 0, 4, 7, 4, 0, 51, 0,11, New York Rangers, 6, 2, 3, 5, 1, 0, 11, 0,False
+1937, 12, 18,8, Montreal Maroons, 6, 0, 3, 5, 2, 0, 16, 0,7, Boston Bruins, 5, 2, 3, 3, 1, 0, 2, 0,False
+1937, 12, 18,13, Toronto Maple Leafs, 5, 1, 4, 5, 2, 0, 7, 0,10, New York Americans, 5, 1, 0, 0, 2, 0, 49, 0,True
+1937, 12, 19,12, Chicago Black Hawks, 4, 0, 3, 6, 1, 0, 12, 0,10, New York Americans, 5, 2, 2, 1, 3, 0, 50, 0,False
+1937, 12, 19,17, Detroit Red Wings, 2, 2, 1, 2, 3, 0, 11, 0,7, Boston Bruins, 5, 0, 3, 4, 1, 0, 2, 0,False
+1937, 12, 19,11, New York Rangers, 6, 1, 2, 1, 0, 0, 10, 0,1, Montreal Canadiens, 8, 1, 2, 4, 4, 0, 19, 0,False
+1937, 12, 21,7, Boston Bruins, 5, 2, 4, 6, 2, 0, 3, 0,12, Chicago Black Hawks, 4, 0, 0, 0, 1, 0, 12, 0,True
+1937, 12, 23,8, Montreal Maroons, 5, 1, 1, 1, 3, 0, 19, 0,11, New York Rangers, 5, 1, 2, 4, 2, 0, 12, 0,False
+1937, 12, 25,1, Montreal Canadiens, 8, 1, 2, 4, 2, 0, 17, 0,8, Montreal Maroons, 4, 1, 0, 0, 4, 0, 18, 0,True
+1937, 12, 25,10, New York Americans, 6, 1, 1, 1, 0, 0, 47, 0,7, Boston Bruins, 5, 1, 2, 2, 1, 0, 2, 0,False
+1937, 12, 25,13, Toronto Maple Leafs, 5, 1, 3, 5, 2, 0, 7, 0,17, Detroit Red Wings, 2, 1, 2, 2, 4, 0, 8, 0,False
+1937, 12, 26,7, Boston Bruins, 5, 1, 1, 2, 0, 0, 1, 0,10, New York Americans, 5, 1, 0, 0, 1, 0, 48, 0,False
+1937, 12, 26,17, Detroit Red Wings, 3, 1, 1, 2, 1, 0, 5, 0,13, Toronto Maple Leafs, 5, 1, 1, 1, 1, 0, 6, 0,False
+1937, 12, 26,11, New York Rangers, 6, 0, 4, 4, 0, 0, 10, 0,12, Chicago Black Hawks, 3, 2, 1, 1, 2, 0, 13, 0,False
+1937, 12, 28,7, Boston Bruins, 5, 1, 1, 1, 3, 0, 4, 0,11, New York Rangers, 6, 1, 1, 2, 3, 0, 13, 0,True
+1937, 12, 28,10, New York Americans, 5, 0, 3, 1, 1, 0, 48, 0,13, Toronto Maple Leafs, 5, 2, 3, 3, 1, 0, 6, 0,False
+1937, 12, 30,17, Detroit Red Wings, 2, 1, 1, 3, 3, 0, 7, 0,12, Chicago Black Hawks, 4, 1, 3, 5, 1, 0, 12, 0,False
+1937, 12, 31,11, New York Rangers, 6, 1, 2, 1, 3, 0, 13, 0,7, Boston Bruins, 6, 1, 3, 1, 2, 0, 3, 0,True
+1938, 1, 1,8, Montreal Maroons, 4, 0, 0, 0, 2, 0, 19, 0,10, New York Americans, 4, 2, 0, 1, 3, 0, 50, 0,False
+1938, 1, 1,13, Toronto Maple Leafs, 6, 1, 3, 5, 0, 0, 5, 0,1, Montreal Canadiens, 8, 1, 2, 3, 0, 0, 15, 0,True
+1938, 1, 2,12, Chicago Black Hawks, 5, 1, 2, 3, 2, 0, 13, 0,1, Montreal Canadiens, 7, 1, 4, 4, 6, 0, 21, 0,False
+1938, 1, 2,17, Detroit Red Wings, 2, 1, 2, 4, 2, 0, 8, 0,7, Boston Bruins, 6, 1, 3, 5, 5, 0, 6, 0,False
+1938, 1, 2,10, New York Americans, 4, 2, 3, 4, 1, 0, 48, 0,8, Montreal Maroons, 3, 0, 1, 2, 3, 0, 20, 0,True
+1938, 1, 4,7, Boston Bruins, 7, 2, 4, 5, 1, 0, 2, 0,13, Toronto Maple Leafs, 6, 0, 6, 7, 4, 0, 9, 0,True
+1938, 1, 4,1, Montreal Canadiens, 7, 1, 4, 5, 2, 0, 17, 0,17, Detroit Red Wings, 2, 1, 1, 2, 4, 0, 10, 0,False
+1938, 1, 4,11, New York Rangers, 7, 2, 5, 7, 3, 0, 13, 0,10, New York Americans, 4, 0, 2, 5, 1, 0, 48, 0,False
+1938, 1, 6,12, Chicago Black Hawks, 5, 2, 2, 3, 4, 0, 15, 0,11, New York Rangers, 6, 0, 5, 8, 5, 0, 15, 0,False
+1938, 1, 6,8, Montreal Maroons, 2, 1, 1, 2, 2, 0, 17, 0,13, Toronto Maple Leafs, 5, 1, 3, 5, 6, 0, 11, 0,True
+1938, 1, 6,10, New York Americans, 5, 2, 5, 5, 5, 0, 52, 0,17, Detroit Red Wings, 2, 0, 3, 6, 0, 0, 7, 0,False
+1938, 1, 8,1, Montreal Canadiens, 6, 2, 0, 0, 3, 0, 18, 0,7, Boston Bruins, 8, 0, 6, 6, 3, 0, 4, 0,True
+1938, 1, 8,13, Toronto Maple Leafs, 5, 1, 3, 4, 6, 0, 11, 0,11, New York Rangers, 6, 1, 4, 7, 1, 0, 11, 0,True
+1938, 1, 9,12, Chicago Black Hawks, 5, 1, 1, 2, 4, 0, 15, 0,8, Montreal Maroons, 3, 1, 6, 10, 3, 0, 20, 0,True
+1938, 1, 9,11, New York Rangers, 5, 2, 2, 2, 3, 0, 13, 0,17, Detroit Red Wings, 3, 0, 1, 2, 1, 0, 7, 0,True
+1938, 1, 11,7, Boston Bruins, 7, 2, 2, 1, 6, 0, 7, 0,17, Detroit Red Wings, 3, 0, 1, 3, 4, 0, 10, 0,True
+1938, 1, 11,8, Montreal Maroons, 3, 1, 0, 0, 1, 0, 16, 0,1, Montreal Canadiens, 6, 1, 7, 9, 2, 0, 17, 0,True
+1938, 1, 11,10, New York Americans, 5, 2, 1, 1, 1, 0, 48, 0,12, Chicago Black Hawks, 5, 0, 1, 2, 0, 0, 11, 0,False
+1938, 1, 13,1, Montreal Canadiens, 5, 2, 7, 10, 0, 0, 26, 0,12, Chicago Black Hawks, 6, 0, 1, 2, 1, 0, 12, 0,False
+1938, 1, 13,11, New York Rangers, 5, 2, 4, 7, 1, 0, 11, 0,17, Detroit Red Wings, 3, 0, 2, 2, 6, 0, 21, 0,False
+1938, 1, 13,13, Toronto Maple Leafs, 6, 1, 3, 4, 2, 0, 7, 0,8, Montreal Maroons, 3, 1, 11, 17, 7, 0, 24, 0,True
+1938, 1, 15,8, Montreal Maroons, 3, 2, 2, 3, 3, 0, 20, 0,17, Detroit Red Wings, 4, 0, 3, 4, 3, 0, 18, 0,False
+1938, 1, 15,13, Toronto Maple Leafs, 7, 2, 3, 5, 2, 0, 7, 0,12, Chicago Black Hawks, 6, 0, 2, 2, 2, 0, 13, 0,False
+1938, 1, 16,7, Boston Bruins, 7, 0, 6, 5, 2, 0, 3, 0,1, Montreal Canadiens, 4, 2, 2, 4, 11, 0, 28, 0,True
+1938, 1, 16,12, Chicago Black Hawks, 6, 1, 4, 5, 4, 0, 15, 0,13, Toronto Maple Leafs, 6, 1, 4, 4, 4, 0, 9, 0,False
+1938, 1, 16,17, Detroit Red Wings, 5, 1, 2, 2, 2, 0, 7, 0,8, Montreal Maroons, 2, 1, 2, 2, 2, 0, 19, 0,False
+1938, 1, 16,10, New York Americans, 5, 1, 1, 3, 1, 0, 48, 0,11, New York Rangers, 4, 1, 3, 5, 3, 0, 13, 0,False
+1938, 1, 18,7, Boston Bruins, 7, 2, 1, 2, 0, 0, 1, 0,12, Chicago Black Hawks, 6, 0, 2, 4, 7, 0, 18, 0,True
+1938, 1, 18,11, New York Rangers, 5, 0, 4, 6, 0, 0, 10, 0,1, Montreal Canadiens, 4, 2, 0, 0, 1, 0, 18, 0,True
+1938, 1, 20,17, Detroit Red Wings, 4, 0, 1, 2, 1, 0, 8, 0,12, Chicago Black Hawks, 6, 2, 1, 1, 5, 0, 16, 0,True
+1938, 1, 20,1, Montreal Canadiens, 4, 1, 1, 2, 3, 0, 20, 0,8, Montreal Maroons, 3, 1, 1, 1, 1, 0, 16, 0,False
+1938, 1, 20,10, New York Americans, 5, 0, 0, 0, 4, 0, 51, 0,13, Toronto Maple Leafs, 6, 2, 7, 8, 2, 0, 7, 0,False
+1938, 1, 22,1, Montreal Canadiens, 3, 2, 2, 3, 4, 0, 21, 0,10, New York Americans, 4, 0, 1, 2, 1, 0, 48, 0,True
+1938, 1, 22,13, Toronto Maple Leafs, 7, 0, 1, 2, 1, 0, 6, 0,7, Boston Bruins, 7, 2, 5, 2, 1, 0, 2, 0,False
+1938, 1, 23,12, Chicago Black Hawks, 5, 0, 2, 4, 4, 0, 15, 0,7, Boston Bruins, 7, 2, 9, 6, 1, 0, 2, 0,True
+1938, 1, 23,17, Detroit Red Wings, 5, 1, 4, 8, 2, 0, 6, 0,10, New York Americans, 4, 1, 0, 0, 4, 0, 51, 0,True
+1938, 1, 23,11, New York Rangers, 5, 1, 3, 4, 1, 0, 11, 0,8, Montreal Maroons, 4, 1, 4, 6, 2, 0, 17, 0,True
+1938, 1, 25,7, Boston Bruins, 7, 1, 2, 1, 3, 0, 4, 0,11, New York Rangers, 6, 1, 8, 13, 2, 0, 12, 0,False
+1938, 1, 27,12, Chicago Black Hawks, 5, 1, 2, 4, 2, 0, 13, 0,17, Detroit Red Wings, 6, 1, 3, 5, 2, 0, 6, 0,True
+1938, 1, 27,1, Montreal Canadiens, 3, 1, 4, 6, 0, 0, 17, 0,11, New York Rangers, 7, 1, 3, 3, 2, 0, 12, 0,True
+1938, 1, 29,8, Montreal Maroons, 4, 0, 2, 1, 8, 0, 26, 0,7, Boston Bruins, 6, 2, 2, 4, 3, 0, 4, 0,False
+1938, 1, 29,13, Toronto Maple Leafs, 6, 1, 1, 0, 9, 0, 14, 0,17, Detroit Red Wings, 6, 1, 3, 5, 4, 0, 10, 0,True
+1938, 1, 30,12, Chicago Black Hawks, 6, 1, 4, 8, 3, 0, 14, 0,11, New York Rangers, 6, 1, 2, 3, 4, 0, 14, 0,False
+1938, 1, 30,17, Detroit Red Wings, 5, 0, 1, 2, 4, 0, 10, 0,7, Boston Bruins, 7, 2, 2, 4, 2, 0, 3, 0,False
+1938, 1, 30,10, New York Americans, 3, 0, 2, 2, 3, 0, 50, 0,1, Montreal Canadiens, 4, 2, 4, 6, 2, 0, 19, 0,False
+1938, 2, 1,7, Boston Bruins, 7, 2, 2, 4, 2, 0, 3, 0,17, Detroit Red Wings, 4, 0, 2, 4, 2, 0, 8, 0,True
+1938, 2, 1,1, Montreal Canadiens, 4, 0, 4, 5, 2, 0, 19, 0,13, Toronto Maple Leafs, 6, 2, 4, 6, 1, 0, 6, 0,True
+1938, 2, 1,11, New York Rangers, 7, 2, 2, 2, 2, 0, 12, 0,12, Chicago Black Hawks, 6, 0, 2, 4, 2, 0, 13, 0,True
+1938, 2, 3,8, Montreal Maroons, 4, 0, 2, 3, 2, 0, 17, 0,12, Chicago Black Hawks, 5, 2, 1, 2, 6, 0, 17, 0,True
+1938, 2, 3,10, New York Americans, 3, 0, 2, 3, 4, 0, 51, 0,17, Detroit Red Wings, 4, 2, 0, 0, 2, 0, 7, 0,False
+1938, 2, 3,13, Toronto Maple Leafs, 5, 1, 1, 2, 6, 0, 11, 0,1, Montreal Canadiens, 5, 1, 6, 9, 1, 0, 18, 0,True
+1938, 2, 5,1, Montreal Canadiens, 4, 2, 0, 0, 3, 0, 20, 0,10, New York Americans, 2, 0, 1, 0, 6, 0, 53, 0,False
+1938, 2, 5,13, Toronto Maple Leafs, 6, 0, 3, 3, 0, 0, 5, 0,7, Boston Bruins, 7, 2, 2, 2, 0, 0, 1, 0,True
+1938, 2, 6,12, Chicago Black Hawks, 4, 1, 2, 3, 4, 0, 15, 0,7, Boston Bruins, 7, 1, 1, 1, 3, 0, 4, 0,False
+1938, 2, 6,17, Detroit Red Wings, 5, 2, 6, 9, 1, 0, 8, 0,1, Montreal Canadiens, 4, 0, 2, 5, 3, 0, 20, 0,True
+1938, 2, 6,11, New York Rangers, 7, 1, 6, 6, 1, 0, 11, 0,13, Toronto Maple Leafs, 7, 1, 3, 5, 1, 0, 6, 0,True
+1938, 2, 8,7, Boston Bruins, 7, 1, 7, 3, 2, 0, 3, 0,12, Chicago Black Hawks, 3, 1, 2, 4, 7, 0, 18, 0,True
+1938, 2, 8,10, New York Americans, 2, 2, 3, 4, 3, 0, 50, 0,8, Montreal Maroons, 5, 0, 4, 4, 2, 0, 17, 0,True
+1938, 2, 10,17, Detroit Red Wings, 5, 1, 8, 14, 0, 0, 12, 0,11, New York Rangers, 8, 1, 2, 3, 1, 0, 11, 0,False
+1938, 2, 10,1, Montreal Canadiens, 4, 1, 0, 0, 8, 0, 25, 0,12, Chicago Black Hawks, 2, 1, 2, 2, 3, 0, 14, 0,True
+1938, 2, 10,13, Toronto Maple Leafs, 6, 1, 1, 1, 2, 0, 7, 0,8, Montreal Maroons, 4, 1, 1, 2, 3, 0, 17, 0,True
+1938, 2, 12,8, Montreal Maroons, 4, 0, 0, 0, 3, 0, 17, 0,11, New York Rangers, 8, 2, 4, 3, 0, 0, 10, 0,False
+1938, 2, 12,13, Toronto Maple Leafs, 6, 1, 3, 5, 0, 0, 5, 0,12, Chicago Black Hawks, 2, 1, 1, 2, 2, 0, 13, 0,False
+1938, 2, 13,7, Boston Bruins, 7, 1, 3, 5, 1, 0, 2, 0,1, Montreal Canadiens, 5, 1, 2, 1, 1, 0, 18, 0,True
+1938, 2, 13,12, Chicago Black Hawks, 3, 1, 2, 1, 1, 0, 12, 0,13, Toronto Maple Leafs, 6, 1, 1, 2, 2, 0, 7, 0,False
+1938, 2, 13,17, Detroit Red Wings, 4, 2, 0, 0, 4, 0, 9, 0,10, New York Americans, 2, 0, 2, 5, 1, 0, 48, 0,False
+1938, 2, 13,11, New York Rangers, 9, 2, 5, 5, 3, 0, 13, 0,8, Montreal Maroons, 3, 0, 3, 5, 5, 0, 22, 0,True
+1938, 2, 15,7, Boston Bruins, 7, 2, 1, 2, 0, 0, 1, 0,8, Montreal Maroons, 3, 0, 1, 2, 4, 0, 19, 0,True
+1938, 2, 15,10, New York Americans, 3, 1, 2, 4, 2, 0, 49, 0,1, Montreal Canadiens, 5, 1, 0, 0, 1, 0, 18, 0,True
+1938, 2, 17,12, Chicago Black Hawks, 3, 1, 1, 1, 1, 0, 12, 0,10, New York Americans, 4, 1, 4, 6, 0, 0, 47, 0,False
+1938, 2, 17,8, Montreal Maroons, 3, 0, 2, 3, 5, 0, 20, 0,13, Toronto Maple Leafs, 6, 2, 1, 2, 1, 0, 6, 0,False
+1938, 2, 17,11, New York Rangers, 9, 2, 4, 5, 1, 0, 11, 0,7, Boston Bruins, 7, 0, 5, 7, 2, 0, 3, 0,False
+1938, 2, 19,1, Montreal Canadiens, 5, 0, 0, 0, 4, 0, 21, 0,8, Montreal Maroons, 2, 2, 1, 2, 2, 0, 19, 0,True
+1938, 2, 19,13, Toronto Maple Leafs, 6, 2, 2, 4, 1, 0, 6, 0,10, New York Americans, 5, 0, 3, 4, 3, 0, 50, 0,False
+1938, 2, 20,7, Boston Bruins, 8, 1, 3, 4, 2, 0, 3, 0,11, New York Rangers, 8, 1, 2, 4, 3, 0, 13, 0,True
+1938, 2, 20,12, Chicago Black Hawks, 2, 1, 3, 6, 3, 0, 14, 0,17, Detroit Red Wings, 4, 1, 2, 4, 2, 0, 9, 0,False
+1938, 2, 20,10, New York Americans, 6, 1, 4, 4, 0, 0, 47, 0,13, Toronto Maple Leafs, 6, 1, 0, 0, 4, 0, 9, 0,False
+1938, 2, 22,7, Boston Bruins, 9, 1, 3, 6, 2, 0, 3, 0,13, Toronto Maple Leafs, 6, 1, 3, 4, 2, 0, 7, 0,True
+1938, 2, 22,8, Montreal Maroons, 1, 1, 3, 4, 4, 0, 21, 0,12, Chicago Black Hawks, 1, 1, 0, 0, 1, 0, 12, 0,False
+1938, 2, 22,11, New York Rangers, 7, 1, 2, 1, 3, 0, 13, 0,1, Montreal Canadiens, 5, 1, 4, 7, 3, 0, 20, 0,False
+1938, 2, 24,17, Detroit Red Wings, 4, 1, 1, 0, 0, 0, 5, 0,8, Montreal Maroons, 1, 1, 5, 9, 6, 0, 22, 0,False
+1938, 2, 24,1, Montreal Canadiens, 5, 0, 2, 3, 1, 0, 18, 0,7, Boston Bruins, 9, 2, 2, 2, 0, 0, 1, 0,False
+1938, 2, 24,11, New York Rangers, 6, 2, 1, 1, 2, 0, 12, 0,12, Chicago Black Hawks, 2, 0, 6, 7, 5, 0, 16, 0,True
+1938, 2, 26,8, Montreal Maroons, 2, 0, 2, 2, 2, 0, 19, 0,10, New York Americans, 6, 2, 2, 3, 3, 0, 50, 0,False
+1938, 2, 26,13, Toronto Maple Leafs, 6, 1, 0, 0, 2, 0, 7, 0,11, New York Rangers, 7, 1, 6, 10, 3, 0, 13, 0,False
+1938, 2, 27,12, Chicago Black Hawks, 2, 0, 3, 5, 6, 0, 17, 0,11, New York Rangers, 7, 2, 4, 4, 2, 0, 12, 0,False
+1938, 2, 27,17, Detroit Red Wings, 3, 2, 2, 4, 2, 0, 7, 0,1, Montreal Canadiens, 4, 0, 1, 2, 1, 0, 18, 0,False
+1938, 2, 27,10, New York Americans, 7, 2, 5, 8, 1, 0, 48, 0,8, Montreal Maroons, 1, 0, 1, 2, 5, 0, 20, 0,False
+1938, 3, 1,7, Boston Bruins, 9, 2, 1, 2, 1, 0, 2, 0,17, Detroit Red Wings, 3, 0, 1, 2, 1, 0, 6, 0,True
+1938, 3, 1,8, Montreal Maroons, 2, 0, 4, 6, 2, 0, 17, 0,13, Toronto Maple Leafs, 5, 2, 2, 1, 4, 0, 9, 0,False
+1938, 3, 1,10, New York Americans, 7, 2, 2, 4, 4, 0, 51, 0,1, Montreal Canadiens, 4, 0, 1, 2, 1, 0, 18, 0,False
+1938, 3, 3,12, Chicago Black Hawks, 2, 0, 1, 1, 4, 0, 15, 0,7, Boston Bruins, 9, 2, 6, 6, 1, 0, 2, 0,True
+1938, 3, 3,1, Montreal Canadiens, 5, 1, 1, 1, 1, 0, 18, 0,10, New York Americans, 7, 1, 1, 1, 1, 0, 48, 0,False
+1938, 3, 3,11, New York Rangers, 7, 1, 4, 5, 1, 0, 11, 0,17, Detroit Red Wings, 3, 1, 1, 1, 6, 0, 14, 0,True
+1938, 3, 5,13, Toronto Maple Leafs, 5, 2, 5, 8, 3, 0, 8, 0,8, Montreal Maroons, 2, 0, 3, 4, 5, 0, 22, 0,True
+1938, 3, 6,12, Chicago Black Hawks, 3, 1, 3, 5, 2, 0, 13, 0,8, Montreal Maroons, 2, 1, 0, 2, 2, 0, 19, 0,True
+1938, 3, 6,17, Detroit Red Wings, 3, 0, 3, 5, 4, 0, 12, 0,7, Boston Bruins, 9, 2, 2, 3, 3, 0, 4, 0,True
+1938, 3, 6,1, Montreal Canadiens, 5, 1, 2, 4, 4, 0, 21, 0,13, Toronto Maple Leafs, 6, 1, 2, 1, 0, 0, 5, 0,False
+1938, 3, 6,10, New York Americans, 7, 1, 4, 6, 2, 0, 49, 0,11, New York Rangers, 7, 1, 4, 5, 3, 0, 13, 0,True
+1938, 3, 8,7, Boston Bruins, 8, 1, 3, 5, 4, 0, 5, 0,10, New York Americans, 7, 1, 3, 5, 1, 0, 48, 0,True
+1938, 3, 8,11, New York Rangers, 6, 2, 1, 1, 3, 0, 13, 0,13, Toronto Maple Leafs, 6, 0, 5, 7, 3, 0, 8, 0,True
+1938, 3, 10,12, Chicago Black Hawks, 4, 1, 7, 11, 1, 0, 12, 0,1, Montreal Canadiens, 5, 1, 2, 5, 6, 0, 23, 0,True
+1938, 3, 10,8, Montreal Maroons, 2, 2, 1, 2, 7, 0, 24, 0,17, Detroit Red Wings, 4, 0, 4, 6, 3, 0, 11, 0,True
+1938, 3, 10,10, New York Americans, 6, 1, 0, 0, 7, 0, 54, 0,7, Boston Bruins, 8, 1, 7, 10, 0, 0, 1, 0,False
+1938, 3, 12,8, Montreal Maroons, 3, 1, 3, 4, 2, 0, 19, 0,10, New York Americans, 5, 1, 2, 3, 2, 0, 49, 0,False
+1938, 3, 12,13, Toronto Maple Leafs, 6, 2, 4, 7, 4, 0, 9, 0,1, Montreal Canadiens, 4, 0, 2, 3, 4, 0, 21, 0,False
+1938, 3, 13,17, Detroit Red Wings, 3, 1, 2, 2, 3, 0, 10, 0,12, Chicago Black Hawks, 5, 1, 4, 7, 1, 0, 12, 0,True
+1938, 3, 13,11, New York Rangers, 6, 0, 4, 6, 3, 0, 13, 0,7, Boston Bruins, 8, 2, 2, 3, 2, 0, 3, 0,False
+1938, 3, 15,7, Boston Bruins, 8, 2, 2, 2, 1, 0, 2, 0,8, Montreal Maroons, 3, 0, 1, 2, 3, 0, 19, 0,False
+1938, 3, 15,1, Montreal Canadiens, 5, 1, 2, 5, 3, 0, 20, 0,17, Detroit Red Wings, 3, 1, 5, 8, 1, 0, 8, 0,True
+1938, 3, 15,10, New York Americans, 5, 1, 3, 2, 1, 0, 48, 0,12, Chicago Black Hawks, 4, 1, 1, 2, 5, 0, 16, 0,True
+1938, 3, 17,17, Detroit Red Wings, 3, 0, 2, 3, 3, 0, 9, 0,13, Toronto Maple Leafs, 5, 2, 3, 5, 3, 0, 8, 0,False
+1938, 3, 17,8, Montreal Maroons, 4, 1, 4, 4, 4, 0, 20, 0,1, Montreal Canadiens, 6, 1, 3, 6, 2, 0, 19, 0,False
+1938, 3, 17,11, New York Rangers, 5, 1, 1, 2, 2, 0, 12, 0,10, New York Americans, 5, 1, 2, 2, 1, 0, 48, 0,True
+1938, 3, 19,1, Montreal Canadiens, 6, 2, 7, 11, 3, 0, 20, 0,11, New York Rangers, 6, 0, 5, 7, 3, 0, 13, 0,False
+1938, 3, 19,13, Toronto Maple Leafs, 5, 1, 7, 7, 2, 0, 7, 0,10, New York Americans, 5, 1, 3, 6, 5, 0, 52, 0,True
+1938, 3, 20,7, Boston Bruins, 7, 1, 4, 6, 4, 0, 5, 0,12, Chicago Black Hawks, 4, 1, 1, 2, 2, 0, 13, 0,True
+1938, 3, 20,17, Detroit Red Wings, 3, 0, 2, 2, 0, 0, 12, 0,11, New York Rangers, 7, 2, 1, 0, 1, 0, 11, 0,True
+1938, 3, 20,10, New York Americans, 4, 0, 5, 7, 8, 0, 55, 0,13, Toronto Maple Leafs, 6, 2, 8, 11, 5, 0, 10, 0,True

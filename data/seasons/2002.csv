@@ -1,0 +1,1231 @@
+Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
+2001, 10, 3,39, Calgary Flames, 5, 0, 0, 2, 0, 19, 24, 183,35, Edmonton Oilers, 5, 2, 2, 4, 1, 22, 20, 184,True
+2001, 10, 3,22, Pittsburgh Penguins, 6, 0, 8, 9, 4, 31, 24, 217,47, Colorado Avalanche, 6, 2, 4, 7, 2, 21, 12, 118,False
+2001, 10, 3,13, Toronto Maple Leafs, 5, 0, 1, 5, 5, 34, 16, 131,0, Ottawa Senators, 7, 2, 3, 7, 3, 38, 21, 181,False
+2001, 10, 4,7, Boston Bruins, 7, 1, 4, 8, 2, 31, 13, 117,46, Mighty Ducks of Anaheim, 5, 1, 1, 4, 5, 23, 23, 154,True
+2001, 10, 4,28, Buffalo Sabres, 6, 2, 2, 2, 3, 22, 14, 110,51, Atlanta Thrashers, 3, 0, 1, 4, 3, 26, 18, 173,False
+2001, 10, 4,53, Columbus Blue Jackets, 4, 1, 5, 7, 3, 32, 7, 72,23, St. Louis Blues, 4, 1, 4, 4, 4, 18, 14, 138,False
+2001, 10, 4,25, Los Angeles Kings, 5, 2, 3, 5, 2, 33, 16, 165,48, Phoenix Coyotes, 4, 0, 4, 6, 2, 24, 19, 181,False
+2001, 10, 4,0, Ottawa Senators, 7, 1, 6, 6, 4, 27, 22, 181,1, Montreal Canadiens, 5, 1, 2, 2, 5, 29, 19, 180,False
+2001, 10, 4,21, Philadelphia Flyers, 5, 1, 1, 3, 1, 37, 25, 234,45, Florida Panthers, 5, 1, 3, 4, 3, 34, 19, 263,True
+2001, 10, 4,42, San Jose Sharks, 6, 0, 2, 4, 5, 28, 20, 170,17, Detroit Red Wings, 7, 2, 3, 7, 2, 17, 18, 133,False
+2001, 10, 4,26, Vancouver Canucks, 4, 0, 2, 4, 3, 16, 26, 223,41, Chicago Blackhawks, 0, 2, 3, 4, 4, 20, 26, 200,False
+2001, 10, 5,49, Carolina Hurricanes, 6, 2, 4, 5, 6, 22, 25, 202,11, New York Rangers, 5, 0, 0, 3, 1, 6, 28, 234,True
+2001, 10, 5,44, Dallas Stars, 8, 2, 6, 6, 4, 23, 10, 108,50, Nashville Predators, 7, 0, 0, 0, 1, 27, 10, 80,True
+2001, 10, 5,43, Tampa Bay Lightning, 2, 1, 1, 3, 4, 35, 46, 291,29, New York Islanders, 3, 1, 3, 2, 3, 31, 25, 274,False
+2001, 10, 6,7, Boston Bruins, 7, 0, 4, 5, 2, 23, 13, 109,51, Atlanta Thrashers, 4, 2, 2, 2, 1, 28, 16, 175,True
+2001, 10, 6,28, Buffalo Sabres, 6, 2, 1, 2, 2, 20, 14, 112,0, Ottawa Senators, 6, 0, 4, 5, 4, 15, 20, 160,True
+2001, 10, 6,39, Calgary Flames, 5, 2, 1, 2, 0, 24, 24, 188,41, Chicago Blackhawks, 1, 0, 5, 10, 4, 27, 26, 207,True
+2001, 10, 6,35, Edmonton Oilers, 5, 0, 0, 0, 1, 28, 20, 180,48, Phoenix Coyotes, 5, 2, 2, 2, 2, 33, 18, 189,True
+2001, 10, 6,45, Florida Panthers, 5, 1, 2, 2, 0, 25, 23, 265,29, New York Islanders, 3, 1, 3, 5, 2, 25, 25, 256,False
+2001, 10, 6,1, Montreal Canadiens, 6, 1, 6, 11, 2, 33, 18, 197,13, Toronto Maple Leafs, 4, 1, 4, 7, 5, 24, 16, 105,False
+2001, 10, 6,50, Nashville Predators, 6, 1, 1, 2, 4, 20, 13, 70,23, St. Louis Blues, 5, 1, 3, 6, 3, 28, 16, 178,False
+2001, 10, 6,21, Philadelphia Flyers, 5, 1, 5, 9, 2, 34, 29, 238,53, Columbus Blue Jackets, 4, 0, 3, 6, 3, 43, 7, 83,False
+2001, 10, 6,22, Pittsburgh Penguins, 6, 1, 1, 2, 3, 20, 23, 214,46, Mighty Ducks of Anaheim, 5, 1, 2, 4, 4, 37, 22, 168,False
+2001, 10, 6,42, San Jose Sharks, 6, 1, 3, 5, 4, 39, 17, 187,52, Minnesota Wild, 2, 1, 2, 3, 2, 12, 15, 107,False
+2001, 10, 6,26, Vancouver Canucks, 3, 1, 4, 7, 5, 33, 26, 255,17, Detroit Red Wings, 8, 1, 4, 6, 3, 21, 16, 137,False
+2001, 10, 6,31, Washington Capitals, 4, 0, 3, 6, 1, 24, 6, 105,40, New Jersey Devils, 8, 2, 1, 2, 0, 21, 13, 116,True
+2001, 10, 7,49, Carolina Hurricanes, 6, 1, 3, 4, 1, 30, 23, 217,44, Dallas Stars, 8, 1, 4, 8, 1, 19, 7, 103,True
+2001, 10, 7,25, Los Angeles Kings, 5, 1, 3, 4, 2, 17, 16, 149,52, Minnesota Wild, 3, 1, 0, 0, 2, 22, 13, 131,False
+2001, 10, 7,11, New York Rangers, 5, 0, 1, 2, 3, 31, 32, 259,28, Buffalo Sabres, 6, 2, 3, 4, 3, 15, 11, 178,True
+2001, 10, 7,43, Tampa Bay Lightning, 1, 2, 2, 4, 3, 34, 44, 276,45, Florida Panthers, 4, 0, 0, 1, 2, 22, 25, 262,False
+2001, 10, 8,7, Boston Bruins, 8, 1, 3, 7, 3, 20, 14, 106,31, Washington Capitals, 5, 1, 6, 12, 1, 38, 6, 119,True
+2001, 10, 8,53, Columbus Blue Jackets, 4, 1, 3, 5, 4, 40, 7, 80,21, Philadelphia Flyers, 5, 1, 3, 6, 2, 23, 30, 222,False
+2001, 10, 8,39, Calgary Flames, 6, 1, 4, 7, 0, 23, 21, 206,48, Phoenix Coyotes, 5, 1, 2, 4, 5, 40, 25, 211,False
+2001, 10, 8,13, Toronto Maple Leafs, 5, 1, 2, 3, 2, 22, 15, 113,46, Mighty Ducks of Anaheim, 5, 1, 4, 7, 0, 0, 20, 174,True
+2001, 10, 9,49, Carolina Hurricanes, 7, 1, 3, 6, 0, 32, 18, 206,0, Ottawa Senators, 5, 1, 2, 3, 3, 30, 19, 172,False
+2001, 10, 9,47, Colorado Avalanche, 6, 1, 3, 6, 1, 33, 9, 122,26, Vancouver Canucks, 2, 1, 1, 2, 3, 29, 33, 276,True
+2001, 10, 9,44, Dallas Stars, 7, 1, 0, 0, 3, 28, 12, 125,25, Los Angeles Kings, 5, 1, 3, 6, 4, 27, 18, 159,True
+2001, 10, 9,35, Edmonton Oilers, 5, 2, 6, 9, 2, 16, 19, 178,41, Chicago Blackhawks, 1, 0, 0, 0, 4, 25, 26, 205,True
+2001, 10, 9,1, Montreal Canadiens, 6, 1, 2, 3, 4, 41, 15, 197,46, Mighty Ducks of Anaheim, 5, 1, 1, 2, 5, 19, 24, 162,True
+2001, 10, 10,28, Buffalo Sabres, 5, 0, 4, 5, 2, 32, 13, 164,21, Philadelphia Flyers, 6, 2, 2, 2, 2, 30, 26, 216,True
+2001, 10, 10,17, Detroit Red Wings, 8, 1, 4, 7, 1, 30, 14, 146,39, Calgary Flames, 5, 1, 1, 2, 2, 27, 23, 210,False
+2001, 10, 10,45, Florida Panthers, 4, 0, 5, 9, 4, 29, 19, 255,0, Ottawa Senators, 6, 2, 6, 7, 2, 11, 18, 169,False
+2001, 10, 10,52, Minnesota Wild, 4, 1, 4, 5, 3, 31, 14, 140,7, Boston Bruins, 8, 0, 4, 7, 0, 22, 11, 108,True
+2001, 10, 10,11, New York Rangers, 6, 1, 5, 10, 0, 0, 33, 253,31, Washington Capitals, 5, 1, 0, 0, 4, 32, 11, 115,False
+2001, 10, 10,22, Pittsburgh Penguins, 6, 0, 2, 3, 4, 27, 24, 214,29, New York Islanders, 4, 2, 3, 2, 0, 31, 22, 238,False
+2001, 10, 11,49, Carolina Hurricanes, 7, 1, 2, 5, 4, 29, 25, 228,13, Toronto Maple Leafs, 6, 1, 6, 10, 1, 22, 12, 105,False
+2001, 10, 11,41, Chicago Blackhawks, 1, 0, 0, 0, 1, 29, 20, 193,48, Phoenix Coyotes, 5, 2, 1, 4, 2, 34, 21, 198,True
+2001, 10, 11,44, Dallas Stars, 7, 1, 2, 4, 4, 39, 8, 127,26, Vancouver Canucks, 2, 1, 4, 8, 4, 19, 33, 270,False
+2001, 10, 11,35, Edmonton Oilers, 6, 1, 1, 2, 0, 11, 18, 174,47, Colorado Avalanche, 6, 1, 5, 7, 4, 32, 12, 121,True
+2001, 10, 11,40, New Jersey Devils, 7, 1, 0, 3, 5, 20, 19, 120,29, New York Islanders, 4, 1, 5, 10, 4, 39, 32, 301,False
+2001, 10, 11,50, Nashville Predators, 5, 1, 2, 3, 4, 17, 11, 77,39, Calgary Flames, 5, 1, 3, 8, 4, 30, 23, 209,True
+2001, 10, 11,42, San Jose Sharks, 6, 1, 2, 2, 0, 19, 10, 130,43, Tampa Bay Lightning, 1, 1, 0, 0, 5, 37, 43, 299,True
+2001, 10, 11,23, St. Louis Blues, 6, 1, 2, 4, 3, 31, 17, 176,25, Los Angeles Kings, 5, 1, 1, 1, 2, 19, 16, 151,False
+2001, 10, 12,53, Columbus Blue Jackets, 4, 1, 2, 3, 3, 40, 5, 72,1, Montreal Canadiens, 7, 0, 3, 5, 2, 29, 11, 185,False
+2001, 10, 12,17, Detroit Red Wings, 7, 2, 2, 4, 4, 33, 20, 150,28, Buffalo Sabres, 6, 0, 2, 1, 1, 27, 15, 162,True
+2001, 10, 12,46, Mighty Ducks of Anaheim, 4, 1, 1, 2, 2, 17, 21, 160,31, Washington Capitals, 5, 1, 5, 7, 2, 27, 9, 110,True
+2001, 10, 12,52, Minnesota Wild, 5, 2, 2, 3, 0, 36, 12, 145,41, Chicago Blackhawks, 2, 0, 3, 4, 4, 28, 19, 197,True
+2001, 10, 13,51, Atlanta Thrashers, 3, 0, 4, 4, 4, 42, 19, 189,49, Carolina Hurricanes, 7, 2, 2, 3, 6, 27, 24, 229,False
+2001, 10, 13,44, Dallas Stars, 7, 1, 1, 0, 1, 26, 7, 107,39, Calgary Flames, 5, 1, 1, 0, 2, 26, 24, 199,False
+2001, 10, 13,45, Florida Panthers, 3, 1, 0, 1, 1, 27, 14, 218,21, Philadelphia Flyers, 5, 1, 1, 2, 3, 18, 26, 200,False
+2001, 10, 13,25, Los Angeles Kings, 6, 0, 6, 9, 5, 26, 16, 136,43, Tampa Bay Lightning, 1, 2, 3, 6, 3, 36, 41, 299,False
+2001, 10, 13,1, Montreal Canadiens, 7, 0, 3, 5, 1, 25, 14, 166,40, New Jersey Devils, 6, 2, 5, 8, 5, 32, 15, 141,True
+2001, 10, 13,50, Nashville Predators, 5, 1, 1, 2, 0, 26, 7, 86,35, Edmonton Oilers, 6, 1, 5, 10, 3, 34, 18, 175,False
+2001, 10, 13,29, New York Islanders, 5, 0, 6, 9, 3, 32, 28, 281,17, Detroit Red Wings, 7, 2, 4, 7, 0, 16, 18, 148,False
+2001, 10, 13,0, Ottawa Senators, 6, 1, 2, 4, 2, 27, 15, 173,11, New York Rangers, 6, 1, 2, 4, 4, 25, 35, 297,False
+2001, 10, 13,48, Phoenix Coyotes, 5, 1, 1, 0, 1, 27, 18, 179,31, Washington Capitals, 4, 1, 1, 3, 2, 27, 9, 110,True
+2001, 10, 13,42, San Jose Sharks, 6, 1, 4, 8, 1, 23, 12, 150,7, Boston Bruins, 7, 1, 1, 2, 2, 22, 13, 108,True
+2001, 10, 13,13, Toronto Maple Leafs, 6, 0, 3, 5, 2, 23, 12, 106,23, St. Louis Blues, 5, 2, 5, 7, 2, 23, 21, 182,False
+2001, 10, 13,26, Vancouver Canucks, 2, 1, 4, 8, 1, 39, 23, 266,47, Colorado Avalanche, 5, 1, 3, 5, 4, 30, 15, 132,True
+2001, 10, 14,28, Buffalo Sabres, 5, 0, 2, 3, 3, 36, 18, 182,22, Pittsburgh Penguins, 5, 2, 3, 6, 4, 20, 24, 181,True
+2001, 10, 14,41, Chicago Blackhawks, 2, 1, 4, 5, 4, 14, 20, 155,53, Columbus Blue Jackets, 4, 1, 1, 2, 2, 32, 5, 50,False
+2001, 10, 14,46, Mighty Ducks of Anaheim, 5, 1, 2, 4, 4, 28, 20, 172,43, Tampa Bay Lightning, 2, 1, 1, 2, 3, 37, 37, 277,False
+2001, 10, 14,52, Minnesota Wild, 6, 1, 6, 11, 1, 36, 16, 146,35, Edmonton Oilers, 6, 1, 4, 7, 3, 28, 21, 170,False
+2001, 10, 15,1, Montreal Canadiens, 7, 0, 3, 3, 1, 29, 12, 174,11, New York Rangers, 6, 2, 2, 4, 5, 42, 32, 287,False
+2001, 10, 16,51, Atlanta Thrashers, 2, 1, 2, 5, 4, 37, 19, 171,21, Philadelphia Flyers, 6, 1, 5, 9, 2, 25, 26, 199,False
+2001, 10, 16,28, Buffalo Sabres, 5, 2, 4, 5, 1, 26, 16, 172,50, Nashville Predators, 4, 0, 3, 4, 2, 27, 11, 79,False
+2001, 10, 16,47, Colorado Avalanche, 5, 1, 0, 1, 5, 36, 15, 122,43, Tampa Bay Lightning, 3, 1, 3, 5, 2, 35, 36, 275,True
+2001, 10, 16,17, Detroit Red Wings, 7, 1, 5, 11, 2, 31, 24, 171,53, Columbus Blue Jackets, 5, 1, 2, 4, 2, 30, 5, 48,True
+2001, 10, 16,35, Edmonton Oilers, 7, 1, 3, 6, 3, 29, 21, 171,13, Toronto Maple Leafs, 6, 1, 2, 3, 5, 24, 15, 107,False
+2001, 10, 16,25, Los Angeles Kings, 5, 1, 0, 0, 1, 19, 16, 151,31, Washington Capitals, 4, 1, 2, 4, 2, 27, 11, 117,False
+2001, 10, 16,52, Minnesota Wild, 6, 1, 3, 4, 4, 37, 18, 138,42, San Jose Sharks, 6, 1, 3, 4, 3, 27, 13, 152,False
+2001, 10, 16,48, Phoenix Coyotes, 5, 0, 5, 9, 2, 19, 18, 159,7, Boston Bruins, 7, 2, 3, 3, 3, 28, 14, 114,False
+2001, 10, 16,22, Pittsburgh Penguins, 4, 2, 1, 0, 4, 34, 24, 195,0, Ottawa Senators, 5, 0, 2, 2, 2, 34, 14, 180,True
+2001, 10, 16,26, Vancouver Canucks, 3, 2, 4, 8, 0, 22, 23, 278,45, Florida Panthers, 3, 0, 2, 4, 5, 53, 15, 247,False
+2001, 10, 17,49, Carolina Hurricanes, 7, 2, 5, 7, 2, 25, 21, 228,29, New York Islanders, 5, 0, 5, 7, 5, 33, 33, 288,False
+2001, 10, 17,46, Mighty Ducks of Anaheim, 4, 0, 2, 3, 1, 29, 19, 171,7, Boston Bruins, 7, 2, 1, 0, 3, 11, 12, 118,False
+2001, 10, 17,11, New York Rangers, 6, 1, 2, 4, 2, 32, 30, 272,40, New Jersey Devils, 6, 1, 1, 1, 2, 26, 16, 128,True
+2001, 10, 17,23, St. Louis Blues, 5, 2, 5, 7, 2, 20, 21, 179,44, Dallas Stars, 6, 0, 3, 6, 4, 32, 13, 116,False
+2001, 10, 18,39, Calgary Flames, 6, 1, 4, 5, 3, 37, 23, 201,45, Florida Panthers, 4, 1, 2, 0, 2, 20, 12, 214,True
+2001, 10, 18,47, Colorado Avalanche, 5, 1, 2, 2, 1, 20, 13, 111,35, Edmonton Oilers, 6, 1, 1, 2, 4, 21, 18, 159,False
+2001, 10, 18,44, Dallas Stars, 6, 0, 2, 4, 3, 19, 9, 99,48, Phoenix Coyotes, 5, 2, 1, 2, 1, 35, 17, 175,True
+2001, 10, 18,17, Detroit Red Wings, 8, 1, 4, 8, 3, 22, 20, 149,21, Philadelphia Flyers, 6, 1, 3, 5, 2, 23, 27, 204,True
+2001, 10, 18,25, Los Angeles Kings, 4, 0, 1, 1, 3, 32, 18, 164,46, Mighty Ducks of Anaheim, 3, 2, 2, 4, 2, 41, 20, 183,True
+2001, 10, 18,40, New Jersey Devils, 5, 1, 3, 6, 4, 32, 18, 134,42, San Jose Sharks, 6, 1, 3, 4, 2, 25, 15, 153,True
+2001, 10, 18,50, Nashville Predators, 5, 1, 3, 5, 4, 19, 12, 83,41, Chicago Blackhawks, 2, 1, 2, 4, 2, 23, 18, 164,False
+2001, 10, 18,29, New York Islanders, 6, 1, 4, 8, 0, 20, 23, 275,49, Carolina Hurricanes, 6, 1, 0, 0, 3, 30, 25, 215,True
+2001, 10, 18,0, Ottawa Senators, 5, 0, 1, 4, 0, 36, 16, 179,22, Pittsburgh Penguins, 4, 2, 5, 9, 2, 39, 21, 207,False
+2001, 10, 18,26, Vancouver Canucks, 3, 0, 2, 3, 2, 26, 26, 261,13, Toronto Maple Leafs, 6, 2, 4, 6, 1, 16, 11, 104,False
+2001, 10, 19,51, Atlanta Thrashers, 2, 1, 3, 6, 3, 37, 18, 171,11, New York Rangers, 6, 1, 4, 6, 1, 23, 35, 281,False
+2001, 10, 19,28, Buffalo Sabres, 4, 0, 3, 4, 3, 23, 19, 145,53, Columbus Blue Jackets, 4, 1, 3, 5, 3, 18, 7, 53,False
+2001, 10, 19,52, Minnesota Wild, 6, 0, 3, 6, 3, 28, 17, 127,23, St. Louis Blues, 5, 2, 2, 4, 2, 26, 19, 168,False
+2001, 10, 19,31, Washington Capitals, 5, 2, 3, 6, 2, 32, 6, 91,1, Montreal Canadiens, 6, 0, 1, 3, 2, 29, 14, 174,True
+2001, 10, 20,49, Carolina Hurricanes, 5, 2, 1, 3, 2, 37, 24, 222,51, Atlanta Thrashers, 2, 0, 3, 2, 4, 24, 19, 177,True
+2001, 10, 20,53, Columbus Blue Jackets, 4, 0, 3, 7, 1, 30, 5, 65,47, Colorado Avalanche, 5, 2, 1, 2, 4, 30, 16, 121,False
+2001, 10, 20,39, Calgary Flames, 6, 1, 3, 6, 1, 20, 21, 174,13, Toronto Maple Leafs, 7, 1, 6, 11, 5, 30, 15, 118,True
+2001, 10, 20,44, Dallas Stars, 6, 1, 3, 5, 2, 32, 7, 110,41, Chicago Blackhawks, 3, 1, 5, 10, 3, 23, 18, 149,False
+2001, 10, 20,17, Detroit Red Wings, 8, 1, 3, 4, 2, 21, 20, 148,25, Los Angeles Kings, 4, 1, 5, 7, 1, 24, 16, 156,True
+2001, 10, 20,35, Edmonton Oilers, 7, 1, 4, 6, 0, 4, 18, 174,45, Florida Panthers, 4, 1, 1, 1, 3, 20, 14, 197,True
+2001, 10, 20,1, Montreal Canadiens, 5, 1, 1, 2, 4, 26, 14, 158,28, Buffalo Sabres, 4, 1, 1, 3, 2, 16, 18, 147,False
+2001, 10, 20,40, New Jersey Devils, 5, 1, 5, 10, 1, 25, 15, 147,0, Ottawa Senators, 5, 1, 0, 0, 5, 26, 19, 166,True
+2001, 10, 20,50, Nashville Predators, 4, 2, 3, 7, 3, 31, 12, 103,7, Boston Bruins, 7, 0, 2, 3, 1, 32, 11, 138,False
+2001, 10, 20,29, New York Islanders, 6, 0, 2, 4, 1, 20, 26, 279,42, San Jose Sharks, 6, 2, 1, 2, 2, 17, 16, 134,False
+2001, 10, 20,21, Philadelphia Flyers, 6, 0, 2, 4, 3, 31, 28, 218,31, Washington Capitals, 6, 2, 4, 6, 1, 29, 5, 88,True
+2001, 10, 20,48, Phoenix Coyotes, 4, 1, 3, 2, 2, 18, 18, 158,26, Vancouver Canucks, 3, 1, 5, 8, 0, 0, 27, 226,True
+2001, 10, 20,23, St. Louis Blues, 6, 1, 3, 7, 6, 26, 19, 161,22, Pittsburgh Penguins, 4, 1, 3, 3, 0, 29, 19, 183,True
+2001, 10, 20,43, Tampa Bay Lightning, 2, 0, 1, 1, 2, 25, 42, 261,11, New York Rangers, 6, 2, 4, 6, 3, 49, 35, 298,True
+2001, 10, 21,41, Chicago Blackhawks, 4, 0, 2, 4, 2, 25, 17, 143,47, Colorado Avalanche, 5, 2, 5, 7, 0, 24, 6, 59,True
+2001, 10, 21,46, Mighty Ducks of Anaheim, 2, 2, 1, 2, 3, 27, 21, 168,26, Vancouver Canucks, 3, 0, 2, 4, 6, 18, 31, 274,True
+2001, 10, 22,35, Edmonton Oilers, 8, 2, 6, 11, 1, 29, 20, 195,50, Nashville Predators, 3, 0, 1, 1, 4, 39, 11, 115,False
+2001, 10, 22,11, New York Rangers, 6, 0, 2, 4, 0, 6, 31, 262,42, San Jose Sharks, 6, 2, 2, 3, 4, 20, 16, 157,False
+2001, 10, 22,23, St. Louis Blues, 7, 1, 2, 4, 2, 16, 14, 151,39, Calgary Flames, 6, 1, 4, 7, 1, 23, 19, 183,False
+2001, 10, 23,51, Atlanta Thrashers, 2, 0, 1, 2, 2, 29, 17, 182,22, Pittsburgh Penguins, 4, 2, 1, 2, 2, 29, 21, 183,False
+2001, 10, 23,28, Buffalo Sabres, 4, 1, 3, 5, 1, 30, 17, 161,42, San Jose Sharks, 6, 1, 5, 7, 2, 40, 13, 169,True
+2001, 10, 23,53, Columbus Blue Jackets, 4, 0, 0, 0, 4, 17, 5, 20,25, Los Angeles Kings, 3, 2, 2, 4, 3, 28, 18, 160,False
+2001, 10, 23,41, Chicago Blackhawks, 5, 0, 4, 6, 2, 16, 17, 134,39, Calgary Flames, 7, 2, 3, 6, 1, 19, 21, 190,True
+2001, 10, 23,47, Colorado Avalanche, 5, 2, 2, 5, 4, 22, 10, 58,49, Carolina Hurricanes, 5, 0, 2, 4, 4, 29, 26, 231,True
+2001, 10, 23,0, Ottawa Senators, 4, 0, 2, 4, 3, 18, 20, 171,40, New Jersey Devils, 6, 2, 4, 3, 2, 23, 14, 132,False
+2001, 10, 23,43, Tampa Bay Lightning, 3, 0, 5, 8, 2, 35, 39, 283,31, Washington Capitals, 5, 2, 3, 5, 1, 10, 6, 64,False
+2001, 10, 23,13, Toronto Maple Leafs, 6, 0, 1, 3, 4, 23, 14, 118,7, Boston Bruins, 7, 2, 2, 2, 1, 28, 11, 134,True
+2001, 10, 23,26, Vancouver Canucks, 2, 2, 1, 2, 3, 30, 23, 268,50, Nashville Predators, 4, 0, 4, 8, 2, 43, 9, 102,True
+2001, 10, 24,17, Detroit Red Wings, 9, 1, 3, 5, 2, 30, 21, 174,35, Edmonton Oilers, 7, 1, 2, 5, 4, 24, 19, 197,True
+2001, 10, 24,45, Florida Panthers, 3, 1, 2, 3, 1, 4, 22, 229,31, Washington Capitals, 6, 1, 1, 2, 5, 29, 6, 78,False
+2001, 10, 24,52, Minnesota Wild, 6, 0, 2, 3, 3, 34, 17, 133,49, Carolina Hurricanes, 4, 1, 1, 2, 1, 24, 27, 239,False
+2001, 10, 24,48, Phoenix Coyotes, 5, 1, 5, 8, 2, 37, 17, 173,46, Mighty Ducks of Anaheim, 3, 1, 3, 4, 1, 33, 19, 174,False
+2001, 10, 24,22, Pittsburgh Penguins, 4, 0, 4, 8, 2, 17, 26, 184,44, Dallas Stars, 6, 2, 2, 3, 2, 32, 11, 109,True
+2001, 10, 25,7, Boston Bruins, 7, 1, 1, 2, 1, 20, 11, 126,13, Toronto Maple Leafs, 6, 1, 2, 4, 0, 0, 10, 125,True
+2001, 10, 25,53, Columbus Blue Jackets, 4, 0, 1, 1, 1, 3, 8, 33,35, Edmonton Oilers, 7, 2, 1, 2, 0, 7, 17, 185,False
+2001, 10, 25,39, Calgary Flames, 7, 0, 3, 6, 2, 28, 25, 170,50, Nashville Predators, 3, 2, 2, 5, 2, 26, 11, 81,False
+2001, 10, 25,41, Chicago Blackhawks, 6, 0, 6, 12, 3, 29, 18, 147,42, San Jose Sharks, 6, 2, 1, 2, 1, 32, 19, 166,True
+2001, 10, 25,47, Colorado Avalanche, 6, 1, 4, 9, 1, 24, 10, 101,26, Vancouver Canucks, 3, 1, 4, 3, 0, 0, 25, 288,True
+2001, 10, 25,21, Philadelphia Flyers, 7, 1, 6, 12, 3, 22, 29, 225,0, Ottawa Senators, 3, 1, 1, 1, 2, 31, 21, 176,False
+2001, 10, 25,23, St. Louis Blues, 7, 1, 2, 4, 1, 16, 19, 157,11, New York Rangers, 5, 1, 1, 1, 5, 30, 38, 274,True
+2001, 10, 25,43, Tampa Bay Lightning, 3, 2, 1, 2, 1, 21, 40, 278,25, Los Angeles Kings, 4, 0, 6, 13, 2, 19, 16, 163,True
+2001, 10, 26,51, Atlanta Thrashers, 2, 0, 2, 3, 4, 39, 19, 192,31, Washington Capitals, 6, 2, 4, 7, 3, 25, 5, 83,True
+2001, 10, 26,28, Buffalo Sabres, 5, 1, 4, 3, 1, 20, 14, 126,1, Montreal Canadiens, 5, 1, 1, 2, 2, 31, 12, 144,False
+2001, 10, 26,49, Carolina Hurricanes, 5, 0, 7, 9, 3, 24, 30, 236,29, New York Islanders, 6, 2, 2, 5, 2, 37, 31, 322,False
+2001, 10, 26,17, Detroit Red Wings, 9, 2, 4, 8, 1, 28, 20, 165,44, Dallas Stars, 5, 0, 2, 4, 3, 26, 15, 102,False
+2001, 10, 26,45, Florida Panthers, 3, 1, 3, 5, 4, 26, 26, 248,25, Los Angeles Kings, 3, 1, 0, 0, 1, 31, 17, 162,True
+2001, 10, 27,51, Atlanta Thrashers, 2, 1, 1, 2, 0, 37, 15, 190,43, Tampa Bay Lightning, 4, 1, 3, 7, 0, 31, 39, 285,True
+2001, 10, 27,7, Boston Bruins, 7, 2, 2, 4, 1, 17, 11, 123,11, New York Rangers, 5, 0, 1, 2, 5, 40, 37, 277,False
+2001, 10, 27,39, Calgary Flames, 6, 1, 4, 6, 5, 27, 28, 169,52, Minnesota Wild, 5, 1, 3, 6, 1, 3, 18, 104,True
+2001, 10, 27,35, Edmonton Oilers, 7, 1, 5, 7, 4, 30, 19, 208,26, Vancouver Canucks, 3, 1, 1, 2, 3, 7, 30, 260,True
+2001, 10, 27,1, Montreal Canadiens, 5, 2, 5, 6, 1, 27, 10, 131,21, Philadelphia Flyers, 6, 0, 2, 4, 2, 4, 30, 191,False
+2001, 10, 27,40, New Jersey Devils, 6, 0, 2, 4, 1, 29, 15, 142,28, Buffalo Sabres, 5, 2, 2, 4, 5, 27, 25, 175,True
+2001, 10, 27,50, Nashville Predators, 4, 0, 5, 9, 4, 30, 13, 85,17, Detroit Red Wings, 8, 2, 3, 5, 4, 38, 24, 182,False
+2001, 10, 27,0, Ottawa Senators, 3, 1, 8, 12, 2, 28, 21, 169,23, St. Louis Blues, 7, 1, 5, 10, 3, 18, 16, 150,True
+2001, 10, 27,48, Phoenix Coyotes, 5, 0, 2, 4, 3, 34, 17, 143,47, Colorado Avalanche, 6, 2, 5, 6, 4, 23, 10, 105,True
+2001, 10, 27,42, San Jose Sharks, 5, 2, 2, 2, 3, 30, 21, 164,53, Columbus Blue Jackets, 3, 0, 2, 5, 7, 30, 11, 60,True
+2001, 10, 27,13, Toronto Maple Leafs, 6, 1, 1, 2, 0, 30, 14, 151,22, Pittsburgh Penguins, 5, 1, 3, 6, 2, 33, 21, 187,True
+2001, 10, 28,49, Carolina Hurricanes, 4, 0, 2, 3, 5, 37, 27, 227,25, Los Angeles Kings, 3, 2, 2, 3, 3, 25, 15, 133,True
+2001, 10, 28,41, Chicago Blackhawks, 6, 1, 4, 8, 2, 24, 17, 142,7, Boston Bruins, 6, 1, 1, 2, 2, 31, 12, 134,False
+2001, 10, 28,46, Mighty Ducks of Anaheim, 4, 1, 3, 4, 2, 26, 20, 167,47, Colorado Avalanche, 5, 1, 0, 0, 1, 28, 7, 104,False
+2001, 10, 28,29, New York Islanders, 7, 0, 3, 6, 2, 30, 30, 294,44, Dallas Stars, 5, 2, 5, 10, 1, 21, 12, 115,True
+2001, 10, 28,22, Pittsburgh Penguins, 4, 2, 0, 0, 5, 24, 23, 179,45, Florida Panthers, 3, 0, 3, 6, 2, 33, 22, 233,False
+2001, 10, 29,11, New York Rangers, 6, 0, 2, 3, 1, 46, 33, 303,44, Dallas Stars, 4, 2, 2, 3, 3, 45, 14, 140,True
+2001, 10, 30,51, Atlanta Thrashers, 3, 1, 4, 6, 3, 32, 18, 185,0, Ottawa Senators, 4, 1, 4, 8, 1, 26, 15, 158,False
+2001, 10, 30,7, Boston Bruins, 6, 1, 3, 6, 2, 28, 13, 139,40, New Jersey Devils, 6, 1, 3, 6, 1, 21, 12, 137,False
+2001, 10, 30,28, Buffalo Sabres, 4, 0, 1, 0, 5, 27, 17, 117,48, Phoenix Coyotes, 5, 2, 1, 2, 0, 29, 14, 138,False
+2001, 10, 30,49, Carolina Hurricanes, 4, 0, 3, 6, 3, 20, 26, 207,17, Detroit Red Wings, 8, 2, 1, 2, 0, 15, 15, 131,False
+2001, 10, 30,41, Chicago Blackhawks, 6, 1, 3, 6, 3, 25, 18, 143,25, Los Angeles Kings, 3, 1, 1, 3, 3, 25, 17, 146,True
+2001, 10, 30,35, Edmonton Oilers, 7, 1, 3, 5, 2, 25, 14, 179,1, Montreal Canadiens, 5, 1, 1, 2, 5, 35, 13, 141,True
+2001, 10, 30,50, Nashville Predators, 4, 2, 0, 0, 1, 33, 10, 88,52, Minnesota Wild, 4, 0, 2, 4, 4, 28, 21, 129,False
+2001, 10, 30,29, New York Islanders, 8, 1, 2, 5, 2, 43, 30, 313,45, Florida Panthers, 4, 1, 2, 4, 2, 32, 24, 229,True
+2001, 10, 30,13, Toronto Maple Leafs, 7, 0, 4, 5, 0, 23, 15, 140,43, Tampa Bay Lightning, 4, 2, 3, 5, 3, 11, 43, 271,True
+2001, 10, 30,26, Vancouver Canucks, 3, 2, 2, 3, 3, 27, 23, 220,53, Columbus Blue Jackets, 3, 0, 0, 0, 2, 21, 6, 51,True
+2001, 10, 30,31, Washington Capitals, 5, 1, 0, 0, 1, 21, 3, 79,21, Philadelphia Flyers, 6, 1, 5, 9, 1, 28, 28, 207,False
+2001, 10, 31,47, Colorado Avalanche, 5, 2, 3, 4, 1, 22, 4, 69,23, St. Louis Blues, 6, 0, 1, 1, 1, 15, 16, 167,False
+2001, 10, 31,44, Dallas Stars, 4, 1, 1, 6, 4, 23, 15, 118,17, Detroit Red Wings, 8, 1, 5, 9, 2, 28, 17, 129,False
+2001, 10, 31,46, Mighty Ducks of Anaheim, 4, 0, 2, 4, 3, 26, 21, 163,42, San Jose Sharks, 6, 2, 2, 4, 0, 16, 18, 150,False
+2001, 10, 31,52, Minnesota Wild, 5, 1, 4, 7, 6, 28, 19, 130,50, Nashville Predators, 4, 1, 2, 4, 3, 22, 12, 77,False
+2001, 10, 31,11, New York Rangers, 6, 1, 4, 7, 2, 38, 34, 298,45, Florida Panthers, 4, 1, 2, 3, 3, 37, 24, 220,False
+2001, 10, 31,21, Philadelphia Flyers, 6, 1, 3, 5, 0, 32, 27, 211,22, Pittsburgh Penguins, 4, 1, 2, 4, 2, 27, 22, 198,True
+2001, 11, 1,39, Calgary Flames, 6, 1, 4, 7, 2, 21, 27, 202,53, Columbus Blue Jackets, 2, 1, 1, 1, 3, 36, 3, 36,True
+2001, 11, 1,25, Los Angeles Kings, 3, 0, 2, 3, 4, 21, 17, 123,41, Chicago Blackhawks, 7, 2, 5, 10, 1, 26, 16, 144,False
+2001, 11, 1,40, New Jersey Devils, 6, 2, 4, 4, 3, 30, 17, 130,48, Phoenix Coyotes, 5, 0, 3, 5, 1, 15, 16, 159,True
+2001, 11, 1,22, Pittsburgh Penguins, 4, 1, 0, 0, 4, 25, 22, 188,13, Toronto Maple Leafs, 7, 1, 3, 6, 2, 22, 16, 139,True
+2001, 11, 1,42, San Jose Sharks, 7, 1, 4, 5, 2, 31, 21, 164,51, Atlanta Thrashers, 3, 1, 3, 6, 4, 43, 20, 192,True
+2001, 11, 1,23, St. Louis Blues, 6, 1, 1, 2, 0, 26, 14, 184,49, Carolina Hurricanes, 4, 1, 2, 4, 2, 20, 27, 208,True
+2001, 11, 1,26, Vancouver Canucks, 4, 2, 3, 6, 1, 23, 22, 229,1, Montreal Canadiens, 4, 0, 1, 2, 3, 19, 12, 144,True
+2001, 11, 2,28, Buffalo Sabres, 4, 2, 2, 2, 3, 19, 14, 109,43, Tampa Bay Lightning, 4, 0, 2, 3, 0, 0, 39, 271,True
+2001, 11, 2,49, Carolina Hurricanes, 4, 2, 3, 5, 4, 33, 29, 221,11, New York Rangers, 6, 0, 1, 2, 5, 31, 34, 282,True
+2001, 11, 2,44, Dallas Stars, 3, 2, 3, 4, 4, 28, 14, 124,50, Nashville Predators, 4, 0, 6, 8, 4, 22, 13, 72,True
+2001, 11, 2,17, Detroit Red Wings, 9, 2, 4, 5, 0, 4, 18, 124,29, New York Islanders, 8, 0, 4, 5, 2, 28, 31, 318,True
+2001, 11, 2,35, Edmonton Oilers, 7, 2, 3, 5, 1, 36, 16, 185,53, Columbus Blue Jackets, 2, 0, 1, 1, 0, 0, 2, 25,False
+2001, 11, 2,46, Mighty Ducks of Anaheim, 3, 2, 2, 3, 3, 22, 22, 162,41, Chicago Blackhawks, 7, 0, 3, 6, 2, 31, 17, 149,True
+2001, 11, 2,52, Minnesota Wild, 4, 0, 4, 6, 2, 29, 19, 125,47, Colorado Avalanche, 5, 2, 0, 0, 1, 22, 5, 101,True
+2001, 11, 2,31, Washington Capitals, 5, 0, 0, 0, 3, 18, 5, 76,48, Phoenix Coyotes, 5, 2, 2, 4, 2, 26, 20, 176,False
+2001, 11, 3,39, Calgary Flames, 7, 2, 2, 4, 1, 27, 25, 222,1, Montreal Canadiens, 4, 0, 0, 0, 4, 30, 14, 135,True
+2001, 11, 3,45, Florida Panthers, 4, 2, 3, 3, 1, 32, 26, 257,11, New York Rangers, 5, 0, 2, 4, 3, 28, 32, 283,False
+2001, 11, 3,25, Los Angeles Kings, 2, 1, 2, 4, 3, 21, 17, 135,51, Atlanta Thrashers, 2, 1, 2, 2, 5, 39, 20, 189,True
+2001, 11, 3,40, New Jersey Devils, 6, 2, 5, 11, 2, 24, 16, 124,7, Boston Bruins, 5, 0, 3, 3, 4, 18, 15, 129,False
+2001, 11, 3,50, Nashville Predators, 4, 0, 0, 0, 4, 17, 12, 74,44, Dallas Stars, 4, 2, 3, 5, 0, 16, 11, 109,True
+2001, 11, 3,0, Ottawa Senators, 5, 0, 5, 9, 2, 23, 18, 164,28, Buffalo Sabres, 4, 2, 4, 8, 1, 27, 13, 144,True
+2001, 11, 3,21, Philadelphia Flyers, 7, 1, 3, 6, 0, 27, 27, 214,29, New York Islanders, 7, 1, 1, 2, 2, 28, 33, 292,False
+2001, 11, 3,22, Pittsburgh Penguins, 5, 1, 3, 6, 1, 27, 19, 190,43, Tampa Bay Lightning, 4, 1, 1, 1, 3, 35, 43, 305,True
+2001, 11, 3,42, San Jose Sharks, 7, 1, 5, 9, 2, 16, 21, 149,26, Vancouver Canucks, 4, 1, 4, 8, 1, 9, 21, 261,True
+2001, 11, 3,23, St. Louis Blues, 6, 2, 4, 7, 3, 33, 18, 188,31, Washington Capitals, 4, 0, 1, 3, 2, 19, 8, 103,True
+2001, 11, 3,13, Toronto Maple Leafs, 6, 1, 1, 1, 3, 18, 15, 130,47, Colorado Avalanche, 5, 1, 2, 4, 2, 23, 7, 96,True
+2001, 11, 4,49, Carolina Hurricanes, 4, 1, 3, 5, 4, 21, 27, 230,48, Phoenix Coyotes, 5, 1, 2, 3, 2, 34, 19, 179,True
+2001, 11, 4,41, Chicago Blackhawks, 7, 1, 2, 4, 3, 11, 19, 141,17, Detroit Red Wings, 9, 1, 2, 1, 1, 26, 18, 147,True
+2001, 11, 4,46, Mighty Ducks of Anaheim, 4, 1, 5, 9, 2, 31, 21, 171,51, Atlanta Thrashers, 2, 1, 1, 1, 3, 37, 18, 187,True
+2001, 11, 4,52, Minnesota Wild, 4, 1, 4, 7, 2, 34, 19, 130,35, Edmonton Oilers, 6, 1, 1, 0, 2, 17, 16, 184,False
+2001, 11, 6,7, Boston Bruins, 6, 0, 2, 3, 1, 20, 12, 131,35, Edmonton Oilers, 6, 2, 2, 4, 0, 20, 14, 187,True
+2001, 11, 6,49, Carolina Hurricanes, 5, 1, 1, 2, 2, 34, 22, 230,22, Pittsburgh Penguins, 6, 1, 3, 5, 1, 30, 15, 200,False
+2001, 11, 6,53, Columbus Blue Jackets, 3, 0, 1, 5, 1, 32, 3, 57,26, Vancouver Canucks, 3, 2, 1, 0, 0, 17, 24, 269,False
+2001, 11, 6,41, Chicago Blackhawks, 8, 0, 5, 10, 4, 29, 20, 159,21, Philadelphia Flyers, 6, 2, 1, 1, 5, 21, 28, 210,True
+2001, 11, 6,1, Montreal Canadiens, 3, 0, 2, 4, 1, 12, 14, 158,47, Colorado Avalanche, 4, 2, 1, 2, 3, 17, 10, 93,False
+2001, 11, 6,29, New York Islanders, 7, 1, 2, 4, 1, 29, 31, 311,43, Tampa Bay Lightning, 4, 1, 1, 2, 2, 30, 44, 311,True
+2001, 11, 6,11, New York Rangers, 5, 2, 5, 9, 3, 23, 34, 284,52, Minnesota Wild, 3, 0, 0, 0, 6, 23, 19, 119,True
+2001, 11, 6,23, St. Louis Blues, 7, 1, 4, 8, 1, 23, 16, 178,42, San Jose Sharks, 7, 1, 4, 6, 1, 34, 20, 167,False
+2001, 11, 6,13, Toronto Maple Leafs, 6, 1, 4, 7, 1, 24, 13, 136,31, Washington Capitals, 4, 1, 1, 2, 4, 28, 10, 112,True
+2001, 11, 7,44, Dallas Stars, 4, 2, 1, 2, 3, 32, 11, 137,42, San Jose Sharks, 7, 0, 5, 6, 1, 32, 20, 165,False
+2001, 11, 7,45, Florida Panthers, 4, 1, 3, 5, 4, 30, 28, 248,22, Pittsburgh Penguins, 6, 1, 2, 4, 2, 33, 16, 203,True
+2001, 11, 7,46, Mighty Ducks of Anaheim, 5, 1, 5, 9, 0, 24, 19, 164,39, Calgary Flames, 7, 1, 6, 11, 2, 24, 24, 201,False
+2001, 11, 7,40, New Jersey Devils, 6, 2, 1, 1, 2, 22, 12, 140,51, Atlanta Thrashers, 2, 0, 0, 0, 4, 40, 20, 184,True
+2001, 11, 7,48, Phoenix Coyotes, 5, 0, 0, 0, 1, 27, 18, 163,17, Detroit Red Wings, 8, 2, 4, 7, 5, 14, 18, 116,False
+2001, 11, 8,7, Boston Bruins, 7, 0, 1, 1, 3, 36, 11, 131,52, Minnesota Wild, 2, 2, 1, 2, 2, 23, 16, 131,False
+2001, 11, 8,28, Buffalo Sabres, 4, 1, 0, 0, 3, 25, 16, 155,51, Atlanta Thrashers, 2, 1, 2, 3, 5, 34, 19, 165,True
+2001, 11, 8,25, Los Angeles Kings, 3, 2, 4, 8, 1, 16, 12, 111,39, Calgary Flames, 8, 0, 3, 5, 3, 34, 29, 246,False
+2001, 11, 8,1, Montreal Canadiens, 2, 1, 1, 2, 1, 33, 14, 179,50, Nashville Predators, 4, 1, 4, 5, 1, 40, 9, 97,True
+2001, 11, 8,29, New York Islanders, 7, 0, 3, 5, 0, 29, 28, 303,11, New York Rangers, 5, 2, 3, 4, 1, 24, 33, 285,False
+2001, 11, 8,0, Ottawa Senators, 5, 2, 4, 4, 0, 28, 10, 145,47, Colorado Avalanche, 5, 0, 1, 2, 1, 30, 8, 106,True
+2001, 11, 8,23, St. Louis Blues, 6, 1, 1, 2, 3, 35, 19, 182,26, Vancouver Canucks, 4, 1, 3, 6, 2, 28, 30, 289,True
+2001, 11, 8,43, Tampa Bay Lightning, 3, 1, 0, 1, 2, 21, 44, 297,21, Philadelphia Flyers, 6, 1, 1, 2, 2, 30, 27, 220,False
+2001, 11, 8,31, Washington Capitals, 4, 1, 2, 4, 4, 36, 10, 120,49, Carolina Hurricanes, 5, 1, 2, 2, 0, 28, 24, 223,False
+2001, 11, 9,49, Carolina Hurricanes, 5, 0, 3, 6, 2, 23, 26, 231,42, San Jose Sharks, 8, 2, 2, 2, 2, 32, 21, 165,True
+2001, 11, 9,53, Columbus Blue Jackets, 2, 1, 1, 3, 2, 25, 5, 50,35, Edmonton Oilers, 6, 1, 0, 0, 1, 35, 16, 216,False
+2001, 11, 9,41, Chicago Blackhawks, 8, 2, 2, 4, 1, 28, 17, 158,26, Vancouver Canucks, 4, 0, 1, 2, 2, 23, 26, 258,True
+2001, 11, 9,44, Dallas Stars, 3, 1, 2, 2, 3, 46, 10, 138,48, Phoenix Coyotes, 4, 1, 1, 1, 3, 31, 20, 181,False
+2001, 11, 9,46, Mighty Ducks of Anaheim, 4, 0, 3, 5, 3, 26, 22, 166,17, Detroit Red Wings, 8, 2, 3, 5, 1, 17, 20, 118,False
+2001, 11, 9,40, New Jersey Devils, 7, 1, 3, 5, 2, 25, 14, 116,13, Toronto Maple Leafs, 7, 1, 4, 6, 2, 38, 16, 155,True
+2001, 11, 10,7, Boston Bruins, 6, 0, 3, 4, 0, 20, 13, 111,53, Columbus Blue Jackets, 2, 1, 0, 0, 3, 25, 6, 47,False
+2001, 11, 10,28, Buffalo Sabres, 4, 1, 8, 12, 0, 16, 12, 148,11, New York Rangers, 5, 1, 6, 5, 3, 32, 34, 303,False
+2001, 11, 10,39, Calgary Flames, 8, 1, 3, 3, 2, 28, 24, 229,47, Colorado Avalanche, 4, 1, 0, 0, 1, 31, 6, 119,True
+2001, 11, 10,45, Florida Panthers, 5, 0, 2, 3, 0, 17, 20, 200,21, Philadelphia Flyers, 6, 2, 2, 3, 1, 23, 24, 208,False
+2001, 11, 10,25, Los Angeles Kings, 3, 1, 2, 4, 3, 21, 14, 116,17, Detroit Red Wings, 8, 1, 1, 2, 0, 19, 19, 120,True
+2001, 11, 10,1, Montreal Canadiens, 2, 2, 3, 3, 1, 32, 14, 173,29, New York Islanders, 7, 0, 2, 4, 6, 28, 31, 276,True
+2001, 11, 10,0, Ottawa Senators, 5, 1, 1, 2, 0, 21, 13, 143,50, Nashville Predators, 4, 1, 1, 1, 3, 24, 11, 70,True
+2001, 11, 10,23, St. Louis Blues, 7, 1, 3, 4, 1, 23, 15, 178,48, Phoenix Coyotes, 5, 1, 5, 9, 5, 32, 18, 176,True
+2001, 11, 10,43, Tampa Bay Lightning, 2, 0, 1, 2, 2, 35, 40, 285,22, Pittsburgh Penguins, 5, 2, 0, 0, 3, 28, 15, 183,True
+2001, 11, 10,13, Toronto Maple Leafs, 6, 0, 2, 4, 3, 29, 16, 147,40, New Jersey Devils, 8, 2, 3, 6, 2, 17, 14, 108,False
+2001, 11, 10,31, Washington Capitals, 3, 1, 2, 4, 3, 28, 9, 112,51, Atlanta Thrashers, 2, 1, 0, 1, 4, 28, 19, 153,True
+2001, 11, 11,49, Carolina Hurricanes, 6, 0, 3, 5, 2, 36, 24, 234,35, Edmonton Oilers, 6, 2, 3, 5, 0, 23, 14, 200,False
+2001, 11, 11,41, Chicago Blackhawks, 8, 1, 3, 5, 1, 23, 17, 153,42, San Jose Sharks, 7, 1, 2, 4, 3, 27, 22, 160,True
+2001, 11, 11,46, Mighty Ducks of Anaheim, 4, 0, 0, 0, 4, 25, 20, 167,44, Dallas Stars, 2, 2, 1, 3, 2, 29, 10, 123,False
+2001, 11, 11,52, Minnesota Wild, 3, 1, 5, 7, 3, 35, 17, 164,26, Vancouver Canucks, 4, 1, 1, 1, 2, 31, 19, 240,False
+2001, 11, 11,11, New York Rangers, 6, 2, 4, 7, 2, 39, 31, 289,1, Montreal Canadiens, 3, 0, 3, 5, 2, 24, 16, 170,True
+2001, 11, 12,45, Florida Panthers, 4, 1, 2, 2, 3, 36, 23, 219,28, Buffalo Sabres, 4, 1, 2, 3, 4, 21, 14, 132,False
+2001, 11, 13,7, Boston Bruins, 5, 2, 1, 2, 5, 18, 18, 109,1, Montreal Canadiens, 3, 0, 2, 4, 3, 32, 17, 178,True
+2001, 11, 13,53, Columbus Blue Jackets, 2, 0, 5, 7, 1, 37, 4, 59,23, St. Louis Blues, 7, 2, 4, 6, 4, 23, 15, 179,True
+2001, 11, 13,17, Detroit Red Wings, 7, 2, 2, 4, 3, 29, 18, 112,49, Carolina Hurricanes, 5, 0, 1, 2, 2, 31, 23, 226,True
+2001, 11, 13,52, Minnesota Wild, 3, 0, 0, 0, 0, 6, 16, 99,51, Atlanta Thrashers, 2, 1, 0, 0, 2, 9, 18, 145,True
+2001, 11, 13,40, New Jersey Devils, 9, 0, 1, 2, 1, 23, 13, 114,22, Pittsburgh Penguins, 5, 2, 2, 2, 3, 34, 14, 181,False
+2001, 11, 13,50, Nashville Predators, 4, 1, 2, 4, 3, 13, 11, 76,28, Buffalo Sabres, 5, 1, 5, 8, 3, 19, 15, 135,True
+2001, 11, 13,48, Phoenix Coyotes, 5, 1, 0, 2, 1, 26, 16, 181,35, Edmonton Oilers, 6, 1, 1, 2, 1, 28, 14, 208,False
+2001, 11, 13,26, Vancouver Canucks, 5, 0, 4, 8, 0, 18, 22, 227,41, Chicago Blackhawks, 8, 2, 3, 3, 2, 28, 18, 158,True
+2001, 11, 13,31, Washington Capitals, 3, 1, 4, 6, 1, 24, 6, 118,0, Ottawa Senators, 6, 1, 3, 6, 3, 30, 15, 161,False
+2001, 11, 14,47, Colorado Avalanche, 4, 1, 0, 0, 2, 24, 13, 98,52, Minnesota Wild, 4, 1, 4, 6, 2, 16, 18, 109,True
+2001, 11, 14,45, Florida Panthers, 4, 1, 3, 5, 4, 30, 28, 217,13, Toronto Maple Leafs, 5, 1, 1, 2, 2, 32, 14, 152,False
+2001, 11, 14,46, Mighty Ducks of Anaheim, 4, 0, 2, 4, 2, 44, 18, 186,42, San Jose Sharks, 6, 2, 2, 4, 3, 29, 20, 181,False
+2001, 11, 14,11, New York Rangers, 7, 0, 3, 5, 2, 22, 33, 279,21, Philadelphia Flyers, 6, 2, 3, 5, 2, 27, 25, 185,True
+2001, 11, 14,22, Pittsburgh Penguins, 5, 0, 5, 10, 2, 30, 12, 173,29, New York Islanders, 6, 2, 2, 4, 0, 8, 28, 249,False
+2001, 11, 15,7, Boston Bruins, 5, 1, 5, 6, 3, 20, 16, 111,40, New Jersey Devils, 8, 1, 1, 2, 4, 17, 14, 115,True
+2001, 11, 15,39, Calgary Flames, 8, 1, 2, 4, 0, 36, 20, 212,41, Chicago Blackhawks, 7, 1, 2, 3, 3, 26, 19, 156,False
+2001, 11, 15,25, Los Angeles Kings, 3, 0, 3, 6, 2, 22, 13, 117,44, Dallas Stars, 3, 2, 2, 3, 2, 22, 14, 90,False
+2001, 11, 15,0, Ottawa Senators, 7, 1, 10, 19, 2, 18, 17, 163,49, Carolina Hurricanes, 5, 1, 3, 6, 1, 28, 29, 223,False
+2001, 11, 15,21, Philadelphia Flyers, 6, 2, 2, 4, 2, 18, 30, 207,31, Washington Capitals, 3, 0, 5, 9, 5, 14, 16, 94,True
+2001, 11, 15,48, Phoenix Coyotes, 4, 1, 5, 7, 5, 30, 20, 185,42, San Jose Sharks, 7, 1, 4, 7, 3, 27, 21, 160,True
+2001, 11, 15,43, Tampa Bay Lightning, 3, 1, 4, 5, 2, 31, 40, 271,13, Toronto Maple Leafs, 6, 1, 3, 6, 1, 34, 15, 143,False
+2001, 11, 15,26, Vancouver Canucks, 5, 1, 3, 4, 2, 25, 26, 246,23, St. Louis Blues, 6, 1, 2, 5, 1, 24, 16, 174,True
+2001, 11, 16,51, Atlanta Thrashers, 2, 1, 2, 4, 6, 34, 19, 174,50, Nashville Predators, 4, 1, 4, 6, 1, 20, 9, 83,False
+2001, 11, 16,28, Buffalo Sabres, 4, 2, 1, 2, 2, 9, 14, 121,45, Florida Panthers, 4, 0, 2, 3, 6, 23, 25, 220,False
+2001, 11, 16,53, Columbus Blue Jackets, 3, 2, 4, 6, 2, 27, 5, 49,46, Mighty Ducks of Anaheim, 4, 0, 2, 4, 1, 27, 20, 165,True
+2001, 11, 16,47, Colorado Avalanche, 4, 1, 1, 0, 0, 26, 11, 100,29, New York Islanders, 6, 1, 3, 5, 3, 18, 32, 266,True
+2001, 11, 16,17, Detroit Red Wings, 7, 2, 4, 8, 0, 4, 16, 117,52, Minnesota Wild, 4, 0, 0, 0, 1, 30, 17, 123,True
+2001, 11, 16,35, Edmonton Oilers, 7, 2, 5, 8, 4, 30, 18, 196,41, Chicago Blackhawks, 7, 0, 2, 4, 2, 23, 18, 153,True
+2001, 11, 17,7, Boston Bruins, 6, 1, 5, 9, 4, 30, 17, 121,28, Buffalo Sabres, 3, 1, 0, 0, 1, 13, 18, 124,True
+2001, 11, 17,39, Calgary Flames, 7, 1, 2, 3, 2, 25, 29, 201,23, St. Louis Blues, 6, 1, 1, 0, 2, 23, 17, 173,True
+2001, 11, 17,17, Detroit Red Wings, 8, 1, 8, 13, 3, 24, 19, 133,25, Los Angeles Kings, 3, 1, 3, 6, 3, 17, 17, 123,True
+2001, 11, 17,1, Montreal Canadiens, 3, 1, 3, 6, 4, 34, 21, 183,45, Florida Panthers, 5, 1, 2, 2, 3, 34, 13, 199,True
+2001, 11, 17,40, New Jersey Devils, 7, 2, 4, 7, 5, 44, 18, 151,21, Philadelphia Flyers, 6, 0, 5, 10, 0, 11, 22, 185,False
+2001, 11, 17,50, Nashville Predators, 5, 1, 4, 6, 4, 29, 12, 92,53, Columbus Blue Jackets, 4, 1, 3, 6, 3, 22, 5, 49,True
+2001, 11, 17,0, Ottawa Senators, 7, 2, 2, 3, 1, 21, 16, 183,13, Toronto Maple Leafs, 6, 0, 3, 4, 2, 20, 17, 145,True
+2001, 11, 17,48, Phoenix Coyotes, 5, 1, 5, 8, 3, 29, 21, 189,29, New York Islanders, 6, 1, 0, 0, 1, 28, 26, 301,True
+2001, 11, 17,22, Pittsburgh Penguins, 4, 2, 3, 4, 3, 44, 15, 199,11, New York Rangers, 8, 0, 4, 7, 2, 31, 30, 308,True
+2001, 11, 17,42, San Jose Sharks, 7, 1, 3, 5, 2, 29, 17, 141,44, Dallas Stars, 4, 1, 4, 8, 3, 27, 11, 104,False
+2001, 11, 17,43, Tampa Bay Lightning, 2, 1, 2, 4, 3, 22, 40, 266,49, Carolina Hurricanes, 5, 1, 1, 2, 1, 37, 19, 231,True
+2001, 11, 17,26, Vancouver Canucks, 6, 0, 2, 3, 1, 29, 25, 245,35, Edmonton Oilers, 8, 2, 7, 13, 1, 28, 17, 206,False
+2001, 11, 17,31, Washington Capitals, 2, 0, 0, 0, 5, 25, 16, 105,46, Mighty Ducks of Anaheim, 3, 2, 2, 3, 3, 34, 22, 172,True
+2001, 11, 18,52, Minnesota Wild, 4, 1, 3, 6, 5, 24, 19, 113,25, Los Angeles Kings, 2, 1, 2, 4, 1, 8, 18, 139,False
+2001, 11, 18,40, New Jersey Devils, 6, 2, 1, 2, 3, 25, 14, 132,47, Colorado Avalanche, 4, 0, 1, 2, 0, 31, 11, 105,False
+2001, 11, 18,11, New York Rangers, 7, 2, 0, 0, 2, 42, 30, 310,51, Atlanta Thrashers, 1, 0, 4, 8, 4, 39, 17, 179,True
+2001, 11, 19,51, Atlanta Thrashers, 0, 1, 2, 4, 4, 39, 16, 148,28, Buffalo Sabres, 3, 1, 1, 2, 2, 18, 16, 117,True
+2001, 11, 19,49, Carolina Hurricanes, 5, 1, 0, 0, 4, 24, 19, 217,53, Columbus Blue Jackets, 4, 1, 2, 3, 2, 27, 5, 57,True
+2001, 11, 19,44, Dallas Stars, 4, 1, 2, 5, 2, 29, 10, 106,29, New York Islanders, 5, 1, 0, 2, 4, 21, 29, 266,False
+2001, 11, 19,13, Toronto Maple Leafs, 6, 1, 1, 2, 2, 27, 17, 152,45, Florida Panthers, 4, 1, 0, 1, 0, 31, 9, 202,True
+2001, 11, 20,39, Calgary Flames, 7, 1, 2, 3, 0, 38, 18, 171,25, Los Angeles Kings, 3, 1, 2, 4, 2, 18, 19, 149,False
+2001, 11, 20,17, Detroit Red Wings, 8, 2, 4, 7, 2, 10, 19, 110,50, Nashville Predators, 5, 0, 3, 5, 2, 29, 10, 92,True
+2001, 11, 20,35, Edmonton Oilers, 8, 1, 2, 4, 2, 27, 17, 196,23, St. Louis Blues, 5, 1, 0, 0, 3, 29, 20, 165,True
+2001, 11, 20,1, Montreal Canadiens, 3, 0, 1, 1, 0, 23, 17, 172,7, Boston Bruins, 6, 2, 3, 6, 1, 21, 14, 112,True
+2001, 11, 20,11, New York Rangers, 7, 0, 6, 10, 2, 40, 28, 301,47, Colorado Avalanche, 5, 2, 2, 5, 3, 27, 13, 117,True
+2001, 11, 20,0, Ottawa Senators, 8, 2, 2, 3, 1, 30, 15, 147,26, Vancouver Canucks, 6, 0, 2, 4, 2, 26, 24, 226,True
+2001, 11, 20,21, Philadelphia Flyers, 7, 1, 3, 3, 1, 34, 20, 173,40, New Jersey Devils, 5, 1, 0, 0, 2, 21, 17, 130,False
+2001, 11, 20,48, Phoenix Coyotes, 5, 2, 6, 10, 4, 38, 16, 185,52, Minnesota Wild, 3, 0, 2, 4, 2, 17, 16, 106,True
+2001, 11, 20,43, Tampa Bay Lightning, 3, 1, 2, 2, 0, 26, 39, 255,46, Mighty Ducks of Anaheim, 2, 1, 1, 2, 4, 23, 22, 169,True
+2001, 11, 21,28, Buffalo Sabres, 3, 1, 2, 2, 3, 25, 17, 158,13, Toronto Maple Leafs, 6, 1, 5, 9, 2, 28, 16, 133,True
+2001, 11, 21,53, Columbus Blue Jackets, 4, 1, 2, 4, 3, 30, 7, 67,17, Detroit Red Wings, 8, 1, 6, 11, 3, 20, 20, 132,False
+2001, 11, 21,44, Dallas Stars, 4, 0, 3, 4, 3, 17, 11, 54,49, Carolina Hurricanes, 6, 2, 5, 7, 1, 23, 22, 225,False
+2001, 11, 21,45, Florida Panthers, 3, 1, 1, 1, 1, 45, 14, 216,46, Mighty Ducks of Anaheim, 2, 1, 2, 3, 3, 31, 21, 167,True
+2001, 11, 21,50, Nashville Predators, 5, 1, 3, 4, 3, 30, 14, 94,41, Chicago Blackhawks, 7, 1, 1, 2, 5, 31, 21, 152,True
+2001, 11, 21,29, New York Islanders, 5, 0, 3, 4, 2, 19, 24, 236,47, Colorado Avalanche, 4, 2, 3, 6, 0, 13, 15, 88,True
+2001, 11, 21,22, Pittsburgh Penguins, 5, 2, 1, 1, 0, 26, 13, 188,26, Vancouver Canucks, 5, 0, 0, 0, 0, 3, 27, 214,False
+2001, 11, 21,42, San Jose Sharks, 6, 1, 2, 2, 3, 25, 17, 135,52, Minnesota Wild, 3, 1, 1, 2, 3, 16, 16, 117,False
+2001, 11, 21,31, Washington Capitals, 2, 2, 4, 6, 1, 30, 12, 110,43, Tampa Bay Lightning, 3, 0, 3, 5, 0, 0, 43, 255,True
+2001, 11, 22,51, Atlanta Thrashers, 1, 1, 3, 5, 2, 32, 14, 141,1, Montreal Canadiens, 4, 1, 2, 5, 2, 35, 18, 176,False
+2001, 11, 22,35, Edmonton Oilers, 8, 2, 2, 4, 0, 24, 15, 193,25, Los Angeles Kings, 4, 0, 5, 9, 1, 17, 15, 156,False
+2001, 11, 22,0, Ottawa Senators, 9, 2, 3, 6, 0, 26, 15, 161,39, Calgary Flames, 7, 0, 5, 9, 5, 21, 26, 159,False
+2001, 11, 23,7, Boston Bruins, 6, 0, 2, 2, 5, 16, 17, 144,26, Vancouver Canucks, 5, 2, 5, 7, 3, 14, 31, 287,True
+2001, 11, 23,28, Buffalo Sabres, 4, 2, 4, 8, 2, 27, 17, 185,39, Calgary Flames, 8, 0, 4, 7, 0, 0, 25, 167,True
+2001, 11, 23,53, Columbus Blue Jackets, 4, 2, 0, 0, 4, 37, 5, 70,41, Chicago Blackhawks, 6, 0, 3, 6, 4, 23, 20, 144,False
+2001, 11, 23,44, Dallas Stars, 4, 2, 5, 7, 4, 21, 8, 72,21, Philadelphia Flyers, 6, 0, 3, 5, 3, 45, 22, 184,False
+2001, 11, 23,17, Detroit Red Wings, 8, 2, 1, 2, 3, 32, 19, 159,23, St. Louis Blues, 5, 0, 0, 0, 2, 19, 18, 172,True
+2001, 11, 23,52, Minnesota Wild, 3, 0, 2, 1, 2, 28, 13, 123,48, Phoenix Coyotes, 5, 2, 2, 4, 1, 25, 13, 146,True
+2001, 11, 23,50, Nashville Predators, 6, 1, 4, 8, 1, 20, 8, 60,22, Pittsburgh Penguins, 5, 1, 1, 2, 1, 26, 18, 208,True
+2001, 11, 23,29, New York Islanders, 5, 1, 6, 7, 4, 28, 33, 293,13, Toronto Maple Leafs, 5, 1, 2, 4, 1, 18, 18, 130,True
+2001, 11, 23,43, Tampa Bay Lightning, 3, 0, 2, 3, 0, 0, 44, 290,40, New Jersey Devils, 5, 2, 3, 4, 0, 0, 14, 102,True
+2001, 11, 23,31, Washington Capitals, 3, 1, 3, 4, 2, 25, 13, 105,11, New York Rangers, 8, 1, 5, 7, 1, 36, 32, 308,True
+2001, 11, 24,47, Colorado Avalanche, 4, 0, 4, 8, 5, 18, 18, 96,35, Edmonton Oilers, 7, 2, 2, 4, 4, 24, 21, 196,True
+2001, 11, 24,45, Florida Panthers, 4, 0, 5, 8, 0, 30, 21, 271,40, New Jersey Devils, 4, 2, 0, 0, 3, 17, 16, 124,False
+2001, 11, 24,25, Los Angeles Kings, 5, 0, 4, 8, 2, 17, 16, 156,42, San Jose Sharks, 5, 2, 0, 0, 2, 17, 21, 149,True
+2001, 11, 24,1, Montreal Canadiens, 5, 0, 5, 10, 2, 21, 16, 162,31, Washington Capitals, 4, 2, 6, 8, 2, 23, 13, 103,True
+2001, 11, 24,29, New York Islanders, 6, 0, 2, 3, 2, 3, 32, 291,46, Mighty Ducks of Anaheim, 2, 2, 0, 0, 3, 21, 24, 161,True
+2001, 11, 24,0, Ottawa Senators, 8, 1, 4, 7, 4, 31, 19, 166,51, Atlanta Thrashers, 1, 1, 2, 4, 2, 7, 16, 145,False
+2001, 11, 24,22, Pittsburgh Penguins, 5, 1, 0, 0, 4, 21, 23, 243,28, Buffalo Sabres, 4, 1, 5, 9, 2, 31, 14, 175,True
+2001, 11, 24,23, St. Louis Blues, 4, 1, 1, 2, 2, 28, 19, 177,48, Phoenix Coyotes, 5, 1, 2, 4, 0, 6, 17, 177,True
+2001, 11, 24,13, Toronto Maple Leafs, 5, 1, 1, 2, 3, 21, 20, 133,7, Boston Bruins, 6, 1, 3, 5, 3, 25, 14, 150,True
+2001, 11, 25,49, Carolina Hurricanes, 6, 0, 4, 7, 2, 18, 25, 240,43, Tampa Bay Lightning, 4, 2, 2, 3, 0, 29, 44, 319,False
+2001, 11, 25,53, Columbus Blue Jackets, 4, 0, 2, 3, 1, 33, 3, 64,39, Calgary Flames, 7, 2, 1, 2, 5, 22, 28, 179,True
+2001, 11, 25,17, Detroit Red Wings, 8, 1, 3, 5, 1, 35, 14, 159,41, Chicago Blackhawks, 6, 1, 2, 4, 2, 9, 18, 144,False
+2001, 11, 25,52, Minnesota Wild, 4, 0, 5, 10, 2, 22, 13, 117,44, Dallas Stars, 4, 2, 3, 4, 0, 0, 7, 79,False
+2001, 11, 25,11, New York Rangers, 8, 0, 2, 5, 3, 39, 37, 323,46, Mighty Ducks of Anaheim, 1, 2, 3, 3, 2, 10, 20, 141,False
+2001, 11, 25,21, Philadelphia Flyers, 6, 2, 3, 6, 3, 30, 23, 203,26, Vancouver Canucks, 5, 0, 2, 2, 3, 30, 34, 347,False
+2001, 11, 27,7, Boston Bruins, 6, 2, 0, 0, 2, 12, 13, 137,43, Tampa Bay Lightning, 5, 0, 4, 4, 0, 41, 42, 325,True
+2001, 11, 27,28, Buffalo Sabres, 4, 0, 1, 2, 3, 27, 20, 195,11, New York Rangers, 7, 2, 2, 3, 3, 15, 35, 293,False
+2001, 11, 27,53, Columbus Blue Jackets, 4, 1, 3, 8, 3, 32, 5, 63,48, Phoenix Coyotes, 4, 1, 3, 4, 1, 21, 21, 173,True
+2001, 11, 27,47, Colorado Avalanche, 5, 2, 2, 4, 0, 11, 13, 89,45, Florida Panthers, 3, 0, 1, 0, 5, 31, 25, 227,True
+2001, 11, 27,17, Detroit Red Wings, 8, 1, 4, 7, 4, 35, 17, 159,39, Calgary Flames, 6, 1, 4, 7, 4, 29, 29, 172,True
+2001, 11, 27,52, Minnesota Wild, 4, 0, 3, 4, 0, 22, 15, 116,26, Vancouver Canucks, 5, 2, 4, 6, 1, 24, 32, 302,True
+2001, 11, 27,1, Montreal Canadiens, 6, 1, 5, 8, 3, 32, 17, 173,51, Atlanta Thrashers, 2, 1, 6, 9, 3, 35, 17, 173,True
+2001, 11, 27,29, New York Islanders, 6, 0, 5, 7, 1, 25, 29, 277,31, Washington Capitals, 4, 2, 3, 6, 6, 20, 15, 123,False
+2001, 11, 27,22, Pittsburgh Penguins, 5, 2, 3, 6, 1, 19, 16, 197,40, New Jersey Devils, 5, 0, 5, 5, 1, 25, 14, 132,True
+2001, 11, 27,42, San Jose Sharks, 4, 1, 1, 2, 3, 17, 20, 159,50, Nashville Predators, 6, 1, 5, 8, 0, 27, 7, 67,True
+2001, 11, 27,23, St. Louis Blues, 4, 0, 5, 9, 3, 30, 20, 182,0, Ottawa Senators, 7, 2, 3, 6, 3, 10, 18, 138,True
+2001, 11, 27,13, Toronto Maple Leafs, 5, 2, 2, 2, 0, 29, 17, 141,49, Carolina Hurricanes, 5, 0, 0, 0, 4, 38, 29, 254,False
+2001, 11, 28,41, Chicago Blackhawks, 7, 1, 4, 5, 2, 23, 20, 156,26, Vancouver Canucks, 5, 1, 1, 2, 1, 28, 30, 259,False
+2001, 11, 28,46, Mighty Ducks of Anaheim, 1, 0, 3, 6, 2, 35, 20, 166,35, Edmonton Oilers, 7, 2, 0, 0, 0, 0, 21, 206,False
+2001, 11, 28,31, Washington Capitals, 5, 0, 4, 10, 4, 43, 14, 141,28, Buffalo Sabres, 3, 2, 1, 1, 2, 32, 19, 177,False
+2001, 11, 29,53, Columbus Blue Jackets, 5, 1, 3, 5, 0, 26, 2, 57,23, St. Louis Blues, 4, 1, 4, 7, 2, 30, 19, 182,False
+2001, 11, 29,39, Calgary Flames, 5, 2, 2, 4, 4, 32, 29, 175,44, Dallas Stars, 4, 0, 5, 8, 3, 20, 11, 107,False
+2001, 11, 29,25, Los Angeles Kings, 6, 1, 3, 6, 1, 23, 17, 174,35, Edmonton Oilers, 7, 1, 2, 2, 1, 24, 21, 233,False
+2001, 11, 29,52, Minnesota Wild, 4, 0, 2, 3, 4, 21, 16, 121,45, Florida Panthers, 3, 2, 3, 2, 3, 26, 23, 222,True
+2001, 11, 29,29, New York Islanders, 5, 0, 5, 10, 5, 29, 28, 204,1, Montreal Canadiens, 7, 2, 5, 6, 1, 31, 16, 179,False
+2001, 11, 29,11, New York Rangers, 7, 0, 2, 4, 2, 49, 35, 321,49, Carolina Hurricanes, 6, 2, 5, 10, 2, 28, 23, 204,True
+2001, 11, 29,21, Philadelphia Flyers, 5, 1, 1, 2, 3, 19, 22, 159,7, Boston Bruins, 6, 1, 6, 12, 3, 25, 16, 152,False
+2001, 11, 29,48, Phoenix Coyotes, 4, 0, 0, 0, 3, 25, 23, 177,50, Nashville Predators, 6, 2, 2, 3, 2, 7, 10, 61,True
+2001, 11, 29,42, San Jose Sharks, 4, 2, 3, 6, 2, 16, 19, 147,22, Pittsburgh Penguins, 5, 0, 6, 10, 0, 39, 20, 208,True
+2001, 11, 29,43, Tampa Bay Lightning, 5, 0, 3, 6, 4, 24, 45, 259,51, Atlanta Thrashers, 2, 2, 1, 1, 4, 36, 19, 164,True
+2001, 11, 30,41, Chicago Blackhawks, 6, 1, 3, 5, 3, 30, 21, 163,13, Toronto Maple Leafs, 4, 1, 2, 3, 4, 19, 17, 108,False
+2001, 11, 30,17, Detroit Red Wings, 8, 1, 4, 8, 0, 38, 15, 141,40, New Jersey Devils, 4, 1, 0, 0, 4, 8, 16, 119,True
+2001, 11, 30,46, Mighty Ducks of Anaheim, 1, 0, 0, 0, 3, 16, 20, 155,42, San Jose Sharks, 4, 2, 5, 5, 0, 38, 17, 169,False
+2001, 11, 30,26, Vancouver Canucks, 6, 1, 3, 6, 3, 30, 25, 240,47, Colorado Avalanche, 6, 1, 3, 7, 1, 14, 13, 110,False
+2001, 11, 30,31, Washington Capitals, 5, 0, 3, 3, 4, 25, 14, 123,49, Carolina Hurricanes, 5, 2, 0, 0, 5, 30, 23, 208,True
+2001, 12, 1,39, Calgary Flames, 4, 1, 0, 0, 3, 22, 26, 183,47, Colorado Avalanche, 6, 1, 5, 8, 2, 33, 14, 129,False
+2001, 12, 1,35, Edmonton Oilers, 8, 1, 3, 4, 1, 18, 18, 227,44, Dallas Stars, 5, 1, 3, 7, 3, 28, 6, 100,False
+2001, 12, 1,45, Florida Panthers, 2, 1, 0, 0, 1, 5, 18, 173,51, Atlanta Thrashers, 2, 1, 2, 4, 5, 38, 20, 166,False
+2001, 12, 1,25, Los Angeles Kings, 6, 2, 1, 1, 0, 0, 16, 157,50, Nashville Predators, 5, 0, 0, 0, 1, 24, 9, 78,True
+2001, 12, 1,1, Montreal Canadiens, 8, 0, 1, 2, 1, 31, 15, 169,11, New York Rangers, 7, 2, 5, 9, 6, 51, 32, 283,False
+2001, 12, 1,40, New Jersey Devils, 3, 1, 1, 3, 4, 27, 19, 149,17, Detroit Red Wings, 8, 1, 4, 6, 2, 21, 17, 141,True
+2001, 12, 1,29, New York Islanders, 5, 0, 1, 2, 1, 21, 30, 223,28, Buffalo Sabres, 4, 2, 6, 9, 2, 32, 16, 172,False
+2001, 12, 1,0, Ottawa Senators, 6, 2, 2, 4, 4, 23, 19, 127,7, Boston Bruins, 6, 0, 3, 5, 2, 30, 14, 136,True
+2001, 12, 1,21, Philadelphia Flyers, 5, 1, 2, 4, 3, 35, 19, 185,43, Tampa Bay Lightning, 6, 1, 5, 7, 1, 5, 44, 268,True
+2001, 12, 1,48, Phoenix Coyotes, 5, 2, 1, 2, 0, 27, 18, 196,22, Pittsburgh Penguins, 4, 0, 0, 0, 5, 21, 16, 140,True
+2001, 12, 1,23, St. Louis Blues, 5, 1, 3, 5, 1, 15, 16, 161,53, Columbus Blue Jackets, 5, 1, 1, 0, 2, 31, 4, 54,True
+2001, 12, 1,13, Toronto Maple Leafs, 5, 2, 2, 2, 1, 19, 16, 130,41, Chicago Blackhawks, 5, 0, 1, 2, 2, 20, 20, 153,True
+2001, 12, 2,49, Carolina Hurricanes, 4, 1, 2, 4, 2, 17, 25, 193,31, Washington Capitals, 6, 1, 6, 11, 2, 28, 12, 126,False
+2001, 12, 2,46, Mighty Ducks of Anaheim, 1, 1, 2, 4, 2, 24, 22, 165,50, Nashville Predators, 5, 1, 2, 4, 0, 0, 9, 68,True
+2001, 12, 2,52, Minnesota Wild, 5, 0, 6, 10, 0, 29, 12, 129,23, St. Louis Blues, 5, 2, 4, 7, 3, 24, 18, 168,False
+2001, 12, 2,11, New York Rangers, 7, 1, 3, 5, 0, 22, 27, 278,43, Tampa Bay Lightning, 6, 1, 0, 0, 2, 41, 45, 305,True
+2001, 12, 2,26, Vancouver Canucks, 5, 1, 2, 4, 3, 10, 30, 254,44, Dallas Stars, 6, 1, 6, 11, 4, 33, 7, 105,False
+2001, 12, 3,47, Colorado Avalanche, 7, 0, 2, 2, 5, 27, 16, 133,0, Ottawa Senators, 6, 2, 2, 4, 1, 35, 18, 149,True
+2001, 12, 3,25, Los Angeles Kings, 6, 1, 4, 8, 2, 22, 18, 179,39, Calgary Flames, 3, 1, 2, 4, 2, 26, 30, 195,False
+2001, 12, 3,1, Montreal Canadiens, 7, 2, 1, 1, 2, 27, 18, 177,41, Chicago Blackhawks, 4, 0, 1, 2, 4, 32, 22, 165,False
+2001, 12, 4,51, Atlanta Thrashers, 3, 1, 5, 7, 2, 33, 17, 161,7, Boston Bruins, 6, 1, 1, 3, 2, 24, 12, 121,False
+2001, 12, 4,49, Carolina Hurricanes, 4, 1, 3, 5, 4, 10, 27, 203,28, Buffalo Sabres, 4, 1, 4, 7, 2, 25, 18, 160,False
+2001, 12, 4,40, New Jersey Devils, 3, 1, 5, 7, 1, 17, 16, 139,43, Tampa Bay Lightning, 5, 1, 0, 1, 1, 27, 45, 308,False
+2001, 12, 4,29, New York Islanders, 5, 2, 2, 4, 3, 21, 32, 265,21, Philadelphia Flyers, 6, 0, 2, 4, 0, 15, 18, 159,False
+2001, 12, 4,42, San Jose Sharks, 4, 1, 5, 11, 2, 34, 19, 164,39, Calgary Flames, 3, 1, 2, 4, 4, 16, 28, 195,False
+2001, 12, 4,13, Toronto Maple Leafs, 6, 1, 4, 7, 1, 31, 15, 139,22, Pittsburgh Penguins, 4, 1, 2, 2, 5, 39, 16, 159,False
+2001, 12, 4,31, Washington Capitals, 6, 2, 4, 7, 3, 26, 13, 124,11, New York Rangers, 7, 0, 1, 1, 0, 20, 29, 295,True
+2001, 12, 5,41, Chicago Blackhawks, 4, 0, 3, 6, 2, 23, 20, 156,52, Minnesota Wild, 4, 2, 4, 7, 1, 27, 16, 134,True
+2001, 12, 5,44, Dallas Stars, 7, 1, 4, 8, 2, 28, 6, 100,0, Ottawa Senators, 5, 1, 2, 4, 3, 13, 21, 139,False
+2001, 12, 5,17, Detroit Red Wings, 8, 1, 1, 3, 4, 29, 21, 168,47, Colorado Avalanche, 8, 1, 5, 8, 2, 31, 13, 140,False
+2001, 12, 5,35, Edmonton Oilers, 7, 2, 4, 6, 5, 23, 22, 236,46, Mighty Ducks of Anaheim, 2, 0, 4, 8, 2, 23, 22, 164,True
+2001, 12, 5,45, Florida Panthers, 2, 1, 2, 4, 5, 15, 22, 244,53, Columbus Blue Jackets, 4, 1, 4, 5, 2, 23, 6, 60,True
+2001, 12, 5,1, Montreal Canadiens, 6, 1, 2, 4, 3, 36, 17, 175,40, New Jersey Devils, 3, 1, 1, 3, 1, 11, 16, 133,False
+2001, 12, 5,48, Phoenix Coyotes, 5, 0, 5, 9, 2, 21, 19, 191,23, St. Louis Blues, 5, 2, 4, 5, 3, 22, 17, 171,True
+2001, 12, 6,51, Atlanta Thrashers, 3, 1, 2, 4, 3, 35, 18, 163,31, Washington Capitals, 7, 1, 5, 5, 2, 20, 12, 118,False
+2001, 12, 6,7, Boston Bruins, 7, 2, 3, 5, 2, 25, 12, 122,22, Pittsburgh Penguins, 5, 0, 1, 2, 0, 27, 11, 153,False
+2001, 12, 6,39, Calgary Flames, 4, 1, 2, 4, 2, 34, 26, 213,42, San Jose Sharks, 4, 1, 2, 2, 2, 22, 18, 192,False
+2001, 12, 6,25, Los Angeles Kings, 6, 1, 0, 0, 1, 19, 17, 176,23, St. Louis Blues, 5, 1, 0, 0, 3, 22, 19, 156,False
+2001, 12, 6,50, Nashville Predators, 5, 0, 2, 3, 4, 35, 13, 99,0, Ottawa Senators, 5, 2, 6, 7, 4, 25, 21, 155,True
+2001, 12, 6,11, New York Rangers, 6, 1, 2, 3, 5, 35, 34, 312,13, Toronto Maple Leafs, 5, 1, 0, 0, 4, 25, 15, 135,False
+2001, 12, 6,21, Philadelphia Flyers, 6, 1, 3, 6, 2, 20, 18, 170,29, New York Islanders, 4, 1, 2, 4, 0, 8, 24, 300,False
+2001, 12, 6,43, Tampa Bay Lightning, 6, 1, 1, 1, 1, 42, 44, 324,53, Columbus Blue Jackets, 3, 1, 0, 1, 4, 37, 6, 66,True
+2001, 12, 6,26, Vancouver Canucks, 4, 0, 2, 4, 4, 27, 25, 309,46, Mighty Ducks of Anaheim, 2, 2, 2, 3, 5, 26, 23, 186,True
+2001, 12, 7,28, Buffalo Sabres, 5, 2, 4, 8, 2, 27, 19, 173,47, Colorado Avalanche, 8, 0, 4, 9, 2, 34, 9, 127,False
+2001, 12, 7,41, Chicago Blackhawks, 5, 2, 4, 8, 2, 21, 20, 154,29, New York Islanders, 5, 0, 2, 3, 0, 33, 24, 325,True
+2001, 12, 7,44, Dallas Stars, 6, 2, 3, 3, 1, 3, 12, 66,35, Edmonton Oilers, 7, 0, 3, 6, 0, 27, 19, 240,True
+2001, 12, 7,17, Detroit Red Wings, 7, 2, 1, 2, 4, 18, 21, 157,48, Phoenix Coyotes, 6, 0, 3, 6, 0, 27, 16, 182,False
+2001, 12, 8,7, Boston Bruins, 6, 2, 1, 2, 3, 25, 13, 122,28, Buffalo Sabres, 5, 0, 1, 2, 4, 26, 18, 177,True
+2001, 12, 8,53, Columbus Blue Jackets, 2, 0, 0, 0, 2, 29, 3, 53,47, Colorado Avalanche, 8, 2, 4, 6, 1, 31, 8, 120,False
+2001, 12, 8,39, Calgary Flames, 3, 1, 1, 1, 1, 16, 25, 182,46, Mighty Ducks of Anaheim, 2, 1, 2, 3, 3, 28, 21, 188,False
+2001, 12, 8,45, Florida Panthers, 3, 0, 2, 3, 0, 23, 18, 272,49, Carolina Hurricanes, 4, 2, 2, 3, 4, 27, 26, 243,False
+2001, 12, 8,1, Montreal Canadiens, 6, 2, 1, 2, 2, 28, 17, 159,48, Phoenix Coyotes, 7, 0, 1, 2, 2, 15, 15, 181,False
+2001, 12, 8,40, New Jersey Devils, 4, 1, 2, 4, 1, 27, 14, 144,31, Washington Capitals, 8, 1, 3, 6, 3, 32, 13, 130,True
+2001, 12, 8,50, Nashville Predators, 5, 1, 4, 8, 2, 30, 11, 94,35, Edmonton Oilers, 6, 1, 0, 0, 4, 7, 20, 182,False
+2001, 12, 8,0, Ottawa Senators, 4, 2, 2, 2, 3, 23, 19, 158,43, Tampa Bay Lightning, 6, 0, 1, 2, 2, 42, 41, 300,True
+2001, 12, 8,21, Philadelphia Flyers, 5, 2, 0, 0, 2, 30, 23, 227,52, Minnesota Wild, 4, 0, 2, 5, 4, 34, 19, 134,True
+2001, 12, 8,22, Pittsburgh Penguins, 5, 2, 4, 8, 1, 29, 14, 189,51, Atlanta Thrashers, 3, 0, 3, 6, 5, 26, 18, 165,True
+2001, 12, 8,23, St. Louis Blues, 6, 1, 1, 2, 4, 27, 17, 155,25, Los Angeles Kings, 5, 1, 1, 2, 1, 23, 17, 180,True
+2001, 12, 8,13, Toronto Maple Leafs, 5, 2, 6, 12, 1, 23, 15, 137,11, New York Rangers, 6, 0, 2, 5, 1, 46, 32, 291,True
+2001, 12, 8,26, Vancouver Canucks, 4, 0, 3, 6, 0, 0, 29, 303,42, San Jose Sharks, 5, 2, 3, 6, 5, 37, 16, 144,False
+2001, 12, 9,41, Chicago Blackhawks, 5, 2, 4, 6, 3, 13, 21, 146,25, Los Angeles Kings, 5, 0, 0, 0, 2, 29, 18, 181,False
+2001, 12, 10,51, Atlanta Thrashers, 3, 0, 3, 6, 3, 22, 15, 142,21, Philadelphia Flyers, 6, 2, 5, 8, 1, 32, 22, 229,False
+2001, 12, 10,53, Columbus Blue Jackets, 2, 1, 0, 0, 1, 24, 3, 51,40, New Jersey Devils, 5, 1, 3, 5, 1, 19, 14, 129,True
+2001, 12, 10,39, Calgary Flames, 3, 1, 0, 0, 4, 28, 22, 162,17, Detroit Red Wings, 6, 1, 1, 2, 1, 23, 18, 162,True
+2001, 12, 10,47, Colorado Avalanche, 8, 1, 1, 3, 0, 26, 7, 121,46, Mighty Ducks of Anaheim, 3, 1, 4, 8, 0, 18, 15, 133,False
+2001, 12, 10,1, Montreal Canadiens, 6, 0, 3, 6, 3, 23, 19, 153,52, Minnesota Wild, 4, 1, 1, 2, 0, 13, 16, 108,True
+2001, 12, 10,11, New York Rangers, 5, 1, 4, 6, 6, 42, 35, 273,49, Carolina Hurricanes, 4, 1, 3, 6, 2, 36, 24, 252,False
+2001, 12, 10,26, Vancouver Canucks, 4, 1, 3, 5, 2, 18, 34, 327,43, Tampa Bay Lightning, 5, 1, 2, 4, 0, 27, 43, 301,False
+2001, 12, 11,50, Nashville Predators, 4, 0, 2, 3, 2, 23, 11, 87,25, Los Angeles Kings, 6, 2, 5, 6, 2, 24, 14, 162,False
+2001, 12, 11,29, New York Islanders, 5, 0, 3, 4, 3, 40, 33, 328,0, Ottawa Senators, 5, 2, 4, 8, 4, 21, 17, 172,False
+2001, 12, 11,42, San Jose Sharks, 5, 2, 5, 11, 1, 25, 10, 139,35, Edmonton Oilers, 6, 0, 2, 4, 2, 22, 16, 182,True
+2001, 12, 11,13, Toronto Maple Leafs, 6, 2, 4, 8, 3, 24, 16, 138,48, Phoenix Coyotes, 7, 0, 3, 4, 1, 47, 17, 203,True
+2001, 12, 11,31, Washington Capitals, 7, 2, 1, 0, 3, 22, 13, 120,22, Pittsburgh Penguins, 6, 0, 6, 9, 3, 25, 22, 216,False
+2001, 12, 12,51, Atlanta Thrashers, 3, 0, 1, 1, 2, 18, 15, 149,1, Montreal Canadiens, 6, 2, 4, 7, 0, 1, 16, 154,False
+2001, 12, 12,49, Carolina Hurricanes, 5, 2, 4, 6, 3, 43, 30, 237,45, Florida Panthers, 3, 0, 2, 6, 4, 27, 24, 255,True
+2001, 12, 12,39, Calgary Flames, 3, 2, 2, 3, 2, 10, 21, 188,43, Tampa Bay Lightning, 6, 0, 1, 0, 1, 28, 43, 319,False
+2001, 12, 12,41, Chicago Blackhawks, 5, 1, 2, 4, 0, 5, 21, 166,23, St. Louis Blues, 7, 1, 2, 4, 0, 17, 13, 145,False
+2001, 12, 12,47, Colorado Avalanche, 8, 2, 2, 1, 1, 18, 8, 113,53, Columbus Blue Jackets, 3, 0, 3, 4, 1, 30, 3, 57,True
+2001, 12, 12,44, Dallas Stars, 6, 2, 5, 8, 5, 25, 11, 95,28, Buffalo Sabres, 5, 0, 2, 4, 3, 21, 18, 120,True
+2001, 12, 12,46, Mighty Ducks of Anaheim, 4, 1, 1, 2, 1, 34, 16, 149,26, Vancouver Canucks, 4, 1, 1, 2, 1, 35, 37, 322,False
+2001, 12, 12,40, New Jersey Devils, 5, 1, 1, 2, 3, 23, 15, 144,29, New York Islanders, 4, 1, 2, 4, 2, 29, 35, 306,True
+2001, 12, 12,11, New York Rangers, 4, 0, 3, 6, 4, 40, 32, 296,50, Nashville Predators, 3, 2, 1, 2, 1, 34, 10, 98,False
+2001, 12, 12,22, Pittsburgh Penguins, 6, 1, 2, 4, 2, 34, 19, 211,7, Boston Bruins, 6, 1, 4, 3, 2, 22, 18, 161,False
+2001, 12, 13,35, Edmonton Oilers, 5, 1, 4, 6, 5, 29, 21, 209,17, Detroit Red Wings, 5, 1, 0, 0, 1, 25, 18, 154,False
+2001, 12, 13,25, Los Angeles Kings, 6, 1, 1, 0, 1, 24, 15, 185,26, Vancouver Canucks, 4, 1, 1, 2, 5, 24, 36, 313,True
+2001, 12, 13,0, Ottawa Senators, 5, 2, 2, 3, 2, 21, 13, 158,48, Phoenix Coyotes, 6, 0, 3, 5, 6, 25, 22, 182,True
+2001, 12, 13,21, Philadelphia Flyers, 6, 1, 3, 4, 1, 15, 27, 204,1, Montreal Canadiens, 6, 1, 3, 5, 0, 24, 19, 191,False
+2001, 12, 13,23, St. Louis Blues, 8, 2, 2, 3, 1, 21, 15, 149,13, Toronto Maple Leafs, 6, 0, 6, 10, 3, 21, 18, 140,False
+2001, 12, 13,31, Washington Capitals, 6, 0, 2, 3, 2, 24, 12, 122,7, Boston Bruins, 6, 2, 4, 8, 2, 29, 15, 160,True
+2001, 12, 14,51, Atlanta Thrashers, 2, 1, 3, 5, 3, 35, 16, 166,41, Chicago Blackhawks, 5, 1, 2, 3, 4, 12, 23, 189,False
+2001, 12, 14,28, Buffalo Sabres, 5, 2, 3, 5, 3, 22, 16, 113,49, Carolina Hurricanes, 5, 0, 4, 8, 1, 29, 25, 219,True
+2001, 12, 14,47, Colorado Avalanche, 9, 2, 5, 8, 1, 20, 12, 128,42, San Jose Sharks, 6, 0, 5, 8, 4, 38, 13, 152,False
+2001, 12, 14,44, Dallas Stars, 6, 1, 4, 7, 1, 14, 9, 64,39, Calgary Flames, 3, 1, 1, 2, 2, 11, 24, 207,False
+2001, 12, 14,35, Edmonton Oilers, 4, 2, 1, 2, 1, 10, 18, 216,43, Tampa Bay Lightning, 6, 0, 3, 5, 1, 29, 45, 296,True
+2001, 12, 14,46, Mighty Ducks of Anaheim, 4, 0, 0, 0, 0, 0, 16, 153,53, Columbus Blue Jackets, 3, 2, 1, 2, 5, 43, 7, 70,False
+2001, 12, 14,40, New Jersey Devils, 5, 2, 3, 6, 2, 9, 15, 137,45, Florida Panthers, 2, 0, 1, 0, 1, 9, 21, 233,False
+2001, 12, 14,22, Pittsburgh Penguins, 6, 1, 2, 2, 3, 40, 19, 214,52, Minnesota Wild, 4, 1, 0, 0, 4, 35, 20, 130,False
+2001, 12, 15,7, Boston Bruins, 6, 1, 1, 2, 2, 20, 15, 151,21, Philadelphia Flyers, 5, 1, 2, 4, 0, 6, 29, 197,False
+2001, 12, 15,25, Los Angeles Kings, 6, 2, 6, 10, 3, 29, 17, 190,53, Columbus Blue Jackets, 4, 0, 3, 5, 2, 27, 4, 64,True
+2001, 12, 15,50, Nashville Predators, 4, 1, 4, 6, 2, 30, 11, 94,41, Chicago Blackhawks, 5, 1, 3, 6, 2, 28, 20, 208,True
+2001, 12, 15,29, New York Islanders, 3, 2, 2, 3, 4, 35, 34, 303,45, Florida Panthers, 3, 0, 3, 5, 3, 9, 22, 252,False
+2001, 12, 15,11, New York Rangers, 4, 2, 0, 4, 3, 31, 34, 268,28, Buffalo Sabres, 5, 0, 3, 5, 2, 24, 18, 135,True
+2001, 12, 15,0, Ottawa Senators, 5, 0, 6, 11, 0, 18, 14, 163,40, New Jersey Devils, 5, 2, 2, 4, 2, 20, 16, 153,False
+2001, 12, 15,48, Phoenix Coyotes, 5, 1, 0, 0, 3, 36, 23, 202,44, Dallas Stars, 6, 1, 3, 3, 2, 4, 11, 90,False
+2001, 12, 15,23, St. Louis Blues, 8, 0, 3, 4, 4, 18, 19, 163,39, Calgary Flames, 4, 2, 4, 5, 3, 28, 25, 224,True
+2001, 12, 15,13, Toronto Maple Leafs, 7, 1, 4, 7, 3, 28, 17, 138,1, Montreal Canadiens, 6, 1, 3, 5, 2, 33, 18, 219,True
+2001, 12, 15,26, Vancouver Canucks, 4, 1, 3, 5, 3, 11, 35, 279,17, Detroit Red Wings, 5, 1, 2, 4, 1, 23, 15, 122,True
+2001, 12, 15,31, Washington Capitals, 6, 2, 2, 3, 5, 38, 11, 134,51, Atlanta Thrashers, 2, 0, 1, 2, 3, 31, 16, 162,True
+2001, 12, 16,46, Mighty Ducks of Anaheim, 4, 1, 2, 4, 1, 38, 19, 173,25, Los Angeles Kings, 6, 1, 3, 5, 2, 26, 19, 183,False
+2001, 12, 16,52, Minnesota Wild, 5, 1, 5, 8, 5, 22, 18, 136,47, Colorado Avalanche, 8, 1, 0, 0, 1, 27, 8, 105,False
+2001, 12, 16,21, Philadelphia Flyers, 6, 2, 5, 7, 2, 34, 29, 209,35, Edmonton Oilers, 5, 0, 2, 3, 2, 29, 22, 219,False
+2001, 12, 16,22, Pittsburgh Penguins, 6, 2, 2, 4, 4, 20, 19, 176,49, Carolina Hurricanes, 4, 0, 2, 2, 3, 39, 28, 248,False
+2001, 12, 17,44, Dallas Stars, 7, 1, 6, 10, 4, 17, 12, 120,42, San Jose Sharks, 7, 1, 3, 5, 0, 38, 12, 172,False
+2001, 12, 17,17, Detroit Red Wings, 4, 0, 0, 0, 2, 38, 16, 116,41, Chicago Blackhawks, 4, 2, 2, 4, 1, 31, 22, 189,False
+2001, 12, 17,1, Montreal Canadiens, 5, 2, 2, 4, 2, 17, 18, 193,43, Tampa Bay Lightning, 5, 0, 1, 1, 2, 35, 43, 307,False
+2001, 12, 17,11, New York Rangers, 5, 1, 3, 8, 4, 28, 32, 289,45, Florida Panthers, 4, 1, 2, 5, 1, 37, 20, 280,True
+2001, 12, 17,48, Phoenix Coyotes, 5, 0, 2, 2, 6, 39, 27, 173,53, Columbus Blue Jackets, 3, 2, 2, 2, 2, 37, 5, 62,True
+2001, 12, 18,7, Boston Bruins, 5, 2, 2, 3, 5, 31, 18, 162,51, Atlanta Thrashers, 1, 0, 2, 2, 5, 43, 18, 174,False
+2001, 12, 18,49, Carolina Hurricanes, 5, 1, 7, 12, 0, 11, 20, 206,0, Ottawa Senators, 5, 1, 0, 0, 2, 18, 13, 135,False
+2001, 12, 18,52, Minnesota Wild, 4, 2, 2, 3, 2, 41, 16, 154,46, Mighty Ducks of Anaheim, 3, 0, 2, 4, 3, 17, 21, 152,False
+2001, 12, 18,29, New York Islanders, 2, 1, 2, 1, 0, 0, 30, 280,35, Edmonton Oilers, 6, 1, 3, 5, 2, 23, 22, 213,True
+2001, 12, 18,21, Philadelphia Flyers, 5, 2, 2, 4, 3, 15, 25, 181,23, St. Louis Blues, 8, 0, 4, 6, 0, 9, 16, 161,True
+2001, 12, 18,13, Toronto Maple Leafs, 8, 1, 6, 10, 3, 26, 18, 126,25, Los Angeles Kings, 6, 1, 3, 6, 2, 20, 19, 193,False
+2001, 12, 19,51, Atlanta Thrashers, 2, 1, 3, 6, 3, 29, 15, 186,42, San Jose Sharks, 8, 1, 4, 7, 1, 22, 13, 156,False
+2001, 12, 19,28, Buffalo Sabres, 4, 2, 2, 3, 1, 6, 14, 120,41, Chicago Blackhawks, 5, 0, 2, 1, 0, 28, 23, 200,False
+2001, 12, 19,47, Colorado Avalanche, 8, 1, 3, 4, 3, 16, 10, 88,46, Mighty Ducks of Anaheim, 4, 1, 5, 9, 1, 23, 19, 158,True
+2001, 12, 19,17, Detroit Red Wings, 3, 1, 0, 0, 2, 17, 17, 146,26, Vancouver Canucks, 4, 1, 3, 5, 0, 16, 27, 278,True
+2001, 12, 19,45, Florida Panthers, 3, 0, 2, 3, 4, 38, 18, 267,31, Washington Capitals, 7, 2, 5, 8, 1, 36, 8, 121,True
+2001, 12, 19,11, New York Rangers, 5, 2, 4, 7, 2, 35, 31, 303,40, New Jersey Devils, 5, 0, 2, 2, 0, 39, 14, 172,False
+2001, 12, 19,48, Phoenix Coyotes, 6, 1, 4, 4, 1, 25, 23, 158,39, Calgary Flames, 4, 1, 0, 0, 4, 35, 25, 242,True
+2001, 12, 19,22, Pittsburgh Penguins, 5, 1, 0, 0, 3, 20, 24, 193,1, Montreal Canadiens, 4, 1, 4, 5, 4, 31, 25, 208,False
+2001, 12, 20,7, Boston Bruins, 5, 1, 2, 4, 3, 14, 16, 145,1, Montreal Canadiens, 4, 1, 3, 4, 4, 31, 22, 209,True
+2001, 12, 20,40, New Jersey Devils, 6, 1, 2, 3, 2, 25, 16, 158,35, Edmonton Oilers, 5, 1, 1, 2, 4, 27, 25, 216,False
+2001, 12, 20,50, Nashville Predators, 4, 0, 5, 8, 2, 33, 11, 97,26, Vancouver Canucks, 4, 2, 1, 3, 4, 30, 33, 287,True
+2001, 12, 20,0, Ottawa Senators, 6, 1, 6, 8, 2, 27, 18, 177,25, Los Angeles Kings, 7, 1, 3, 6, 1, 23, 18, 196,False
+2001, 12, 20,21, Philadelphia Flyers, 6, 1, 6, 10, 3, 20, 27, 194,44, Dallas Stars, 7, 1, 1, 2, 4, 32, 17, 107,True
+2001, 12, 21,28, Buffalo Sabres, 4, 2, 5, 9, 3, 21, 18, 137,13, Toronto Maple Leafs, 7, 0, 1, 2, 4, 16, 17, 125,False
+2001, 12, 21,49, Carolina Hurricanes, 4, 2, 1, 2, 5, 30, 27, 220,51, Atlanta Thrashers, 2, 0, 2, 3, 2, 55, 16, 198,True
+2001, 12, 21,41, Chicago Blackhawks, 6, 0, 6, 7, 5, 29, 29, 202,35, Edmonton Oilers, 5, 2, 3, 4, 3, 33, 23, 234,True
+2001, 12, 21,47, Colorado Avalanche, 8, 1, 2, 4, 1, 23, 8, 95,39, Calgary Flames, 4, 1, 3, 4, 6, 29, 27, 236,False
+2001, 12, 21,17, Detroit Red Wings, 4, 2, 4, 5, 1, 24, 16, 153,42, San Jose Sharks, 9, 0, 4, 8, 2, 24, 14, 158,True
+2001, 12, 21,46, Mighty Ducks of Anaheim, 4, 1, 1, 2, 2, 31, 20, 166,48, Phoenix Coyotes, 7, 1, 6, 7, 3, 20, 25, 153,True
+2001, 12, 21,11, New York Rangers, 4, 2, 4, 4, 2, 35, 36, 287,29, New York Islanders, 2, 0, 4, 7, 1, 31, 31, 287,False
+2001, 12, 21,22, Pittsburgh Penguins, 4, 1, 1, 2, 4, 29, 23, 196,31, Washington Capitals, 6, 1, 2, 3, 5, 37, 12, 122,True
+2001, 12, 21,43, Tampa Bay Lightning, 6, 1, 4, 8, 3, 22, 50, 314,23, St. Louis Blues, 7, 1, 3, 6, 2, 21, 19, 179,True
+2001, 12, 22,53, Columbus Blue Jackets, 2, 0, 1, 2, 3, 25, 6, 52,44, Dallas Stars, 6, 2, 1, 1, 2, 29, 11, 109,False
+2001, 12, 22,45, Florida Panthers, 4, 1, 5, 10, 2, 24, 17, 256,23, St. Louis Blues, 6, 1, 3, 6, 5, 28, 21, 176,False
+2001, 12, 22,1, Montreal Canadiens, 4, 0, 0, 2, 1, 32, 19, 203,25, Los Angeles Kings, 7, 2, 4, 7, 1, 13, 17, 164,True
+2001, 12, 22,40, New Jersey Devils, 6, 2, 3, 5, 3, 15, 17, 145,0, Ottawa Senators, 6, 0, 2, 3, 1, 11, 17, 141,False
+2001, 12, 22,29, New York Islanders, 3, 0, 2, 4, 1, 29, 32, 304,7, Boston Bruins, 5, 2, 5, 9, 0, 23, 13, 154,False
+2001, 12, 22,21, Philadelphia Flyers, 7, 2, 2, 4, 1, 30, 24, 212,49, Carolina Hurricanes, 5, 0, 5, 8, 4, 24, 25, 221,True
+2001, 12, 22,13, Toronto Maple Leafs, 8, 1, 3, 4, 3, 28, 17, 140,28, Buffalo Sabres, 4, 1, 3, 4, 4, 16, 17, 144,True
+2001, 12, 22,26, Vancouver Canucks, 3, 1, 2, 4, 6, 30, 35, 290,52, Minnesota Wild, 3, 1, 1, 1, 5, 19, 19, 132,False
+2001, 12, 22,31, Washington Capitals, 6, 0, 3, 5, 3, 16, 9, 82,22, Pittsburgh Penguins, 5, 2, 4, 7, 3, 25, 22, 196,False
+2001, 12, 23,51, Atlanta Thrashers, 1, 0, 4, 3, 5, 39, 19, 182,44, Dallas Stars, 6, 2, 4, 4, 2, 27, 7, 119,False
+2001, 12, 23,41, Chicago Blackhawks, 7, 2, 5, 7, 5, 30, 25, 195,17, Detroit Red Wings, 4, 0, 3, 3, 0, 19, 18, 147,False
+2001, 12, 23,47, Colorado Avalanche, 7, 2, 2, 4, 2, 27, 8, 80,52, Minnesota Wild, 4, 0, 2, 4, 3, 40, 15, 142,True
+2001, 12, 23,50, Nashville Predators, 4, 1, 6, 13, 2, 30, 11, 94,42, San Jose Sharks, 8, 1, 0, 0, 3, 29, 15, 163,False
+2001, 12, 23,11, New York Rangers, 3, 2, 1, 2, 2, 30, 31, 258,0, Ottawa Senators, 6, 0, 1, 1, 2, 12, 16, 153,True
+2001, 12, 23,48, Phoenix Coyotes, 6, 0, 1, 2, 2, 28, 24, 179,46, Mighty Ducks of Anaheim, 4, 2, 2, 3, 1, 31, 19, 166,False
+2001, 12, 26,51, Atlanta Thrashers, 1, 1, 0, 2, 4, 25, 18, 168,45, Florida Panthers, 4, 1, 1, 1, 2, 28, 19, 261,False
+2001, 12, 26,7, Boston Bruins, 5, 0, 4, 4, 2, 34, 15, 157,0, Ottawa Senators, 6, 2, 2, 3, 0, 23, 17, 170,True
+2001, 12, 26,28, Buffalo Sabres, 3, 1, 1, 6, 3, 33, 19, 169,1, Montreal Canadiens, 5, 1, 3, 4, 1, 29, 22, 195,True
+2001, 12, 26,49, Carolina Hurricanes, 5, 1, 3, 4, 4, 26, 26, 189,13, Toronto Maple Leafs, 8, 1, 3, 6, 2, 18, 16, 130,True
+2001, 12, 26,44, Dallas Stars, 6, 1, 4, 7, 2, 29, 6, 124,47, Colorado Avalanche, 7, 1, 6, 11, 3, 21, 9, 74,False
+2001, 12, 26,35, Edmonton Oilers, 5, 1, 1, 2, 5, 20, 22, 199,39, Calgary Flames, 5, 1, 2, 3, 2, 34, 26, 240,True
+2001, 12, 26,52, Minnesota Wild, 3, 0, 3, 3, 1, 29, 18, 151,17, Detroit Red Wings, 4, 2, 5, 9, 0, 23, 18, 151,False
+2001, 12, 26,40, New Jersey Devils, 5, 0, 0, 1, 1, 22, 14, 146,22, Pittsburgh Penguins, 6, 2, 4, 7, 4, 29, 23, 200,True
+2001, 12, 26,50, Nashville Predators, 4, 1, 1, 0, 1, 24, 10, 88,43, Tampa Bay Lightning, 6, 1, 4, 8, 4, 43, 46, 322,False
+2001, 12, 26,48, Phoenix Coyotes, 5, 1, 0, 0, 4, 17, 23, 161,25, Los Angeles Kings, 7, 1, 1, 2, 2, 16, 13, 130,False
+2001, 12, 26,42, San Jose Sharks, 8, 2, 1, 1, 1, 31, 13, 165,46, Mighty Ducks of Anaheim, 5, 0, 4, 6, 3, 20, 18, 159,False
+2001, 12, 26,23, St. Louis Blues, 6, 2, 2, 1, 0, 17, 17, 157,41, Chicago Blackhawks, 6, 0, 0, 1, 4, 17, 24, 168,False
+2001, 12, 26,31, Washington Capitals, 5, 0, 4, 8, 4, 34, 10, 100,21, Philadelphia Flyers, 7, 2, 4, 5, 3, 33, 25, 202,False
+2001, 12, 27,41, Chicago Blackhawks, 6, 1, 2, 4, 1, 8, 21, 175,47, Colorado Avalanche, 7, 1, 1, 2, 2, 20, 6, 84,True
+2001, 12, 27,17, Detroit Red Wings, 5, 2, 1, 4, 2, 37, 21, 152,53, Columbus Blue Jackets, 2, 0, 2, 4, 3, 27, 6, 56,True
+2001, 12, 27,25, Los Angeles Kings, 8, 2, 1, 3, 0, 0, 11, 147,46, Mighty Ducks of Anaheim, 6, 0, 2, 4, 0, 24, 16, 167,False
+2001, 12, 27,0, Ottawa Senators, 5, 2, 2, 2, 3, 29, 20, 172,29, New York Islanders, 3, 0, 2, 3, 4, 30, 27, 272,True
+2001, 12, 27,43, Tampa Bay Lightning, 7, 2, 1, 1, 3, 40, 42, 310,49, Carolina Hurricanes, 6, 0, 4, 8, 4, 23, 22, 196,False
+2001, 12, 27,26, Vancouver Canucks, 3, 1, 1, 2, 2, 20, 24, 274,39, Calgary Flames, 4, 1, 2, 5, 3, 26, 29, 229,True
+2001, 12, 28,51, Atlanta Thrashers, 1, 0, 4, 5, 3, 41, 17, 184,13, Toronto Maple Leafs, 7, 2, 3, 4, 3, 32, 17, 150,True
+2001, 12, 28,44, Dallas Stars, 5, 2, 0, 1, 2, 15, 10, 95,31, Washington Capitals, 4, 0, 1, 0, 1, 6, 10, 97,False
+2001, 12, 28,35, Edmonton Oilers, 5, 2, 3, 6, 1, 23, 19, 214,52, Minnesota Wild, 2, 0, 3, 6, 6, 49, 20, 145,True
+2001, 12, 28,45, Florida Panthers, 5, 2, 3, 6, 1, 5, 11, 204,7, Boston Bruins, 6, 0, 3, 5, 2, 26, 15, 159,False
+2001, 12, 28,48, Phoenix Coyotes, 4, 2, 1, 2, 1, 25, 20, 157,21, Philadelphia Flyers, 7, 0, 4, 7, 1, 23, 23, 192,True
+2001, 12, 28,42, San Jose Sharks, 7, 2, 1, 2, 2, 27, 12, 169,11, New York Rangers, 3, 0, 3, 5, 2, 16, 31, 258,False
+2001, 12, 28,23, St. Louis Blues, 5, 2, 1, 2, 4, 18, 21, 157,1, Montreal Canadiens, 5, 0, 1, 2, 2, 33, 20, 206,True
+2001, 12, 29,53, Columbus Blue Jackets, 2, 2, 1, 2, 3, 29, 8, 62,28, Buffalo Sabres, 3, 0, 3, 5, 3, 28, 15, 129,False
+2001, 12, 29,39, Calgary Flames, 3, 1, 2, 2, 4, 25, 23, 202,52, Minnesota Wild, 2, 1, 2, 4, 3, 23, 17, 113,True
+2001, 12, 29,47, Colorado Avalanche, 6, 1, 2, 1, 0, 31, 9, 110,21, Philadelphia Flyers, 7, 1, 2, 4, 0, 8, 24, 177,False
+2001, 12, 29,45, Florida Panthers, 5, 0, 1, 2, 2, 13, 18, 211,13, Toronto Maple Leafs, 7, 2, 4, 8, 4, 28, 19, 138,True
+2001, 12, 29,25, Los Angeles Kings, 8, 0, 2, 4, 1, 26, 13, 172,11, New York Rangers, 4, 2, 6, 5, 2, 25, 32, 285,False
+2001, 12, 29,50, Nashville Predators, 4, 0, 0, 0, 1, 22, 10, 86,17, Detroit Red Wings, 6, 2, 5, 8, 3, 24, 19, 149,True
+2001, 12, 29,29, New York Islanders, 3, 0, 2, 4, 3, 36, 29, 290,1, Montreal Canadiens, 5, 2, 0, 0, 5, 32, 21, 201,True
+2001, 12, 29,22, Pittsburgh Penguins, 5, 2, 0, 0, 4, 31, 17, 194,0, Ottawa Senators, 6, 0, 5, 8, 2, 29, 16, 184,False
+2001, 12, 29,43, Tampa Bay Lightning, 7, 0, 2, 3, 3, 28, 44, 286,7, Boston Bruins, 6, 2, 7, 14, 2, 36, 14, 159,False
+2001, 12, 29,26, Vancouver Canucks, 4, 1, 4, 8, 2, 11, 30, 262,40, New Jersey Devils, 6, 1, 4, 8, 3, 22, 14, 148,True
+2001, 12, 30,41, Chicago Blackhawks, 6, 0, 3, 5, 1, 24, 22, 195,46, Mighty Ducks of Anaheim, 6, 2, 2, 4, 1, 28, 18, 164,True
+2001, 12, 30,35, Edmonton Oilers, 6, 1, 3, 5, 2, 19, 20, 221,40, New Jersey Devils, 5, 1, 2, 3, 3, 12, 15, 134,False
+2001, 12, 30,42, San Jose Sharks, 7, 1, 3, 5, 4, 14, 15, 114,48, Phoenix Coyotes, 4, 1, 4, 8, 0, 6, 23, 178,False
+2001, 12, 30,23, St. Louis Blues, 6, 2, 3, 6, 0, 24, 14, 156,50, Nashville Predators, 5, 0, 3, 6, 4, 31, 11, 92,True
+2001, 12, 30,31, Washington Capitals, 4, 2, 3, 7, 4, 31, 11, 116,49, Carolina Hurricanes, 7, 0, 3, 6, 2, 32, 25, 225,False
+2001, 12, 31,28, Buffalo Sabres, 3, 2, 2, 4, 2, 27, 15, 165,49, Carolina Hurricanes, 7, 0, 5, 7, 3, 25, 28, 234,False
+2001, 12, 31,53, Columbus Blue Jackets, 2, 2, 3, 4, 2, 32, 7, 65,46, Mighty Ducks of Anaheim, 5, 0, 1, 2, 2, 21, 19, 167,True
+2001, 12, 31,39, Calgary Flames, 4, 1, 4, 8, 1, 18, 24, 187,35, Edmonton Oilers, 5, 1, 1, 2, 2, 29, 20, 231,False
+2001, 12, 31,44, Dallas Stars, 5, 2, 2, 3, 1, 32, 10, 112,7, Boston Bruins, 7, 0, 5, 6, 1, 26, 16, 174,True
+2001, 12, 31,17, Detroit Red Wings, 6, 2, 2, 3, 3, 35, 21, 154,52, Minnesota Wild, 2, 0, 3, 3, 4, 30, 18, 120,True
+2001, 12, 31,45, Florida Panthers, 5, 1, 4, 7, 2, 32, 18, 230,51, Atlanta Thrashers, 2, 1, 5, 5, 4, 30, 18, 173,True
+2001, 12, 31,0, Ottawa Senators, 6, 1, 5, 8, 2, 26, 18, 186,41, Chicago Blackhawks, 7, 1, 2, 3, 1, 31, 22, 202,False
+2001, 12, 31,48, Phoenix Coyotes, 4, 2, 4, 6, 2, 35, 25, 200,11, New York Rangers, 5, 0, 5, 9, 4, 35, 34, 293,True
+2001, 12, 31,43, Tampa Bay Lightning, 6, 0, 3, 7, 0, 31, 46, 297,13, Toronto Maple Leafs, 6, 2, 2, 3, 4, 31, 22, 131,False
+2001, 12, 31,26, Vancouver Canucks, 4, 1, 4, 5, 2, 20, 33, 296,21, Philadelphia Flyers, 7, 1, 5, 6, 2, 33, 24, 204,False
+2002, 1, 1,40, New Jersey Devils, 5, 1, 2, 3, 1, 24, 13, 146,23, St. Louis Blues, 6, 1, 7, 12, 2, 19, 17, 160,True
+2002, 1, 1,50, Nashville Predators, 5, 0, 2, 4, 2, 28, 14, 96,47, Colorado Avalanche, 5, 2, 2, 2, 4, 23, 14, 82,False
+2002, 1, 1,31, Washington Capitals, 3, 2, 5, 8, 2, 23, 10, 88,29, New York Islanders, 4, 0, 6, 8, 2, 19, 36, 307,True
+2002, 1, 2,49, Carolina Hurricanes, 7, 2, 5, 8, 4, 27, 27, 238,7, Boston Bruins, 6, 0, 1, 2, 2, 24, 17, 172,False
+2002, 1, 2,44, Dallas Stars, 5, 2, 2, 4, 3, 23, 9, 118,51, Atlanta Thrashers, 2, 0, 3, 4, 4, 28, 18, 171,True
+2002, 1, 2,17, Detroit Red Wings, 7, 2, 6, 8, 2, 18, 20, 137,46, Mighty Ducks of Anaheim, 5, 0, 1, 2, 2, 34, 19, 180,True
+2002, 1, 2,35, Edmonton Oilers, 6, 0, 2, 3, 2, 35, 17, 223,11, New York Rangers, 5, 2, 0, 0, 3, 43, 33, 293,True
+2002, 1, 2,25, Los Angeles Kings, 7, 0, 4, 7, 4, 16, 15, 143,45, Florida Panthers, 6, 2, 4, 7, 3, 32, 21, 239,True
+2002, 1, 2,52, Minnesota Wild, 2, 2, 2, 3, 3, 17, 17, 131,43, Tampa Bay Lightning, 5, 0, 2, 2, 5, 39, 50, 304,True
+2002, 1, 2,42, San Jose Sharks, 6, 0, 2, 4, 1, 3, 16, 109,21, Philadelphia Flyers, 7, 2, 1, 5, 1, 22, 24, 200,True
+2002, 1, 3,7, Boston Bruins, 6, 1, 6, 9, 3, 29, 18, 177,13, Toronto Maple Leafs, 6, 1, 4, 8, 1, 17, 16, 131,False
+2002, 1, 3,39, Calgary Flames, 4, 0, 2, 5, 2, 27, 21, 201,28, Buffalo Sabres, 3, 2, 5, 5, 2, 18, 15, 146,True
+2002, 1, 3,47, Colorado Avalanche, 6, 1, 4, 6, 2, 21, 14, 86,11, New York Rangers, 5, 1, 1, 0, 5, 34, 34, 279,True
+2002, 1, 3,40, New Jersey Devils, 6, 1, 2, 2, 1, 28, 15, 159,50, Nashville Predators, 4, 1, 3, 8, 7, 35, 16, 105,False
+2002, 1, 3,29, New York Islanders, 3, 2, 2, 3, 5, 30, 33, 320,22, Pittsburgh Penguins, 4, 0, 2, 3, 0, 10, 19, 196,True
+2002, 1, 3,0, Ottawa Senators, 5, 1, 4, 6, 3, 25, 19, 155,31, Washington Capitals, 4, 1, 3, 6, 2, 35, 10, 100,True
+2002, 1, 3,48, Phoenix Coyotes, 5, 2, 5, 10, 0, 37, 20, 183,51, Atlanta Thrashers, 2, 0, 1, 1, 4, 41, 16, 172,True
+2002, 1, 3,23, St. Louis Blues, 5, 2, 1, 3, 3, 18, 16, 167,53, Columbus Blue Jackets, 3, 0, 3, 3, 1, 28, 6, 61,True
+2002, 1, 3,26, Vancouver Canucks, 4, 2, 1, 2, 2, 20, 29, 302,1, Montreal Canadiens, 4, 0, 5, 10, 3, 28, 25, 214,True
+2002, 1, 4,41, Chicago Blackhawks, 8, 2, 5, 9, 4, 33, 25, 204,43, Tampa Bay Lightning, 5, 0, 0, 0, 2, 20, 47, 294,True
+2002, 1, 4,46, Mighty Ducks of Anaheim, 5, 1, 3, 4, 1, 15, 20, 143,45, Florida Panthers, 6, 1, 1, 3, 3, 37, 22, 233,False
+2002, 1, 4,52, Minnesota Wild, 3, 1, 2, 4, 3, 41, 14, 150,50, Nashville Predators, 5, 1, 4, 7, 4, 37, 12, 105,True
+2002, 1, 4,42, San Jose Sharks, 6, 0, 5, 7, 2, 24, 17, 130,48, Phoenix Coyotes, 6, 2, 2, 4, 2, 28, 21, 181,True
+2002, 1, 5,7, Boston Bruins, 6, 1, 1, 2, 2, 22, 17, 170,31, Washington Capitals, 4, 1, 1, 3, 4, 37, 12, 102,True
+2002, 1, 5,49, Carolina Hurricanes, 6, 1, 3, 6, 1, 23, 23, 190,40, New Jersey Devils, 5, 1, 2, 5, 4, 27, 16, 146,False
+2002, 1, 5,39, Calgary Flames, 4, 2, 3, 4, 1, 29, 21, 215,1, Montreal Canadiens, 3, 0, 2, 1, 4, 31, 22, 201,False
+2002, 1, 5,17, Detroit Red Wings, 7, 1, 5, 8, 3, 29, 18, 138,47, Colorado Avalanche, 6, 1, 3, 5, 2, 37, 12, 111,True
+2002, 1, 5,35, Edmonton Oilers, 7, 2, 4, 5, 1, 22, 16, 215,26, Vancouver Canucks, 5, 0, 5, 10, 2, 29, 30, 319,False
+2002, 1, 5,29, New York Islanders, 4, 0, 4, 6, 2, 20, 31, 306,25, Los Angeles Kings, 7, 2, 3, 6, 1, 30, 12, 157,False
+2002, 1, 5,22, Pittsburgh Penguins, 3, 2, 2, 4, 5, 31, 26, 223,11, New York Rangers, 5, 0, 2, 5, 3, 32, 33, 291,True
+2002, 1, 5,42, San Jose Sharks, 6, 2, 5, 10, 0, 25, 15, 116,45, Florida Panthers, 6, 0, 2, 3, 1, 27, 20, 223,True
+2002, 1, 5,23, St. Louis Blues, 5, 1, 3, 7, 2, 11, 17, 156,44, Dallas Stars, 5, 1, 2, 3, 1, 21, 6, 93,True
+2002, 1, 5,13, Toronto Maple Leafs, 6, 0, 2, 4, 1, 22, 15, 134,0, Ottawa Senators, 5, 2, 4, 6, 5, 28, 18, 144,True
+2002, 1, 6,51, Atlanta Thrashers, 2, 0, 1, 2, 2, 29, 14, 164,29, New York Islanders, 4, 2, 0, 0, 3, 26, 32, 314,False
+2002, 1, 6,49, Carolina Hurricanes, 6, 0, 1, 2, 3, 8, 22, 195,21, Philadelphia Flyers, 7, 2, 2, 3, 4, 13, 28, 202,False
+2002, 1, 6,53, Columbus Blue Jackets, 3, 0, 2, 4, 4, 30, 9, 63,50, Nashville Predators, 5, 2, 2, 2, 2, 25, 10, 93,True
+2002, 1, 6,41, Chicago Blackhawks, 8, 0, 2, 4, 0, 17, 21, 188,22, Pittsburgh Penguins, 3, 2, 4, 8, 1, 36, 21, 238,True
+2002, 1, 6,35, Edmonton Oilers, 6, 2, 3, 5, 2, 27, 19, 209,1, Montreal Canadiens, 3, 0, 4, 9, 2, 21, 20, 196,True
+2002, 1, 6,52, Minnesota Wild, 3, 0, 2, 4, 0, 36, 12, 129,28, Buffalo Sabres, 3, 1, 1, 2, 3, 24, 14, 137,False
+2002, 1, 6,48, Phoenix Coyotes, 6, 2, 3, 6, 1, 26, 24, 178,43, Tampa Bay Lightning, 4, 0, 0, 0, 2, 29, 48, 308,False
+2002, 1, 7,40, New Jersey Devils, 6, 1, 2, 4, 1, 23, 15, 147,25, Los Angeles Kings, 7, 1, 3, 4, 0, 28, 11, 155,False
+2002, 1, 7,0, Ottawa Senators, 5, 1, 1, 1, 3, 22, 16, 149,13, Toronto Maple Leafs, 6, 1, 3, 4, 1, 10, 17, 121,True
+2002, 1, 7,31, Washington Capitals, 3, 1, 4, 6, 1, 14, 12, 99,45, Florida Panthers, 5, 1, 0, 0, 3, 23, 22, 214,False
+2002, 1, 8,28, Buffalo Sabres, 4, 1, 4, 5, 1, 18, 16, 111,26, Vancouver Canucks, 5, 1, 4, 6, 2, 34, 33, 318,True
+2002, 1, 8,52, Minnesota Wild, 3, 1, 1, 1, 1, 20, 16, 109,1, Montreal Canadiens, 3, 1, 6, 9, 6, 36, 25, 203,True
+2002, 1, 8,29, New York Islanders, 5, 0, 3, 6, 2, 25, 29, 315,39, Calgary Flames, 4, 2, 2, 2, 3, 25, 27, 191,False
+2002, 1, 8,21, Philadelphia Flyers, 7, 2, 4, 4, 3, 32, 28, 202,51, Atlanta Thrashers, 2, 0, 2, 4, 2, 33, 15, 162,True
+2002, 1, 8,22, Pittsburgh Penguins, 3, 1, 0, 0, 2, 19, 22, 196,7, Boston Bruins, 7, 1, 7, 9, 4, 28, 20, 163,False
+2002, 1, 8,42, San Jose Sharks, 6, 1, 6, 11, 3, 12, 15, 119,23, St. Louis Blues, 6, 1, 5, 10, 2, 31, 16, 188,False
+2002, 1, 8,43, Tampa Bay Lightning, 4, 0, 3, 3, 0, 33, 46, 312,44, Dallas Stars, 5, 2, 2, 2, 1, 12, 9, 89,False
+2002, 1, 8,13, Toronto Maple Leafs, 5, 0, 3, 5, 5, 20, 20, 127,50, Nashville Predators, 4, 2, 3, 6, 4, 30, 12, 98,True
+2002, 1, 9,51, Atlanta Thrashers, 1, 1, 4, 7, 3, 22, 17, 136,0, Ottawa Senators, 5, 1, 4, 8, 1, 20, 17, 142,True
+2002, 1, 9,47, Colorado Avalanche, 6, 0, 1, 2, 4, 27, 14, 113,41, Chicago Blackhawks, 9, 2, 2, 4, 0, 22, 19, 191,True
+2002, 1, 9,17, Detroit Red Wings, 8, 1, 3, 5, 1, 14, 17, 119,26, Vancouver Canucks, 5, 1, 2, 3, 3, 26, 31, 298,True
+2002, 1, 9,45, Florida Panthers, 6, 1, 2, 4, 1, 39, 20, 230,44, Dallas Stars, 5, 1, 2, 3, 4, 23, 9, 112,False
+2002, 1, 9,46, Mighty Ducks of Anaheim, 5, 0, 1, 2, 2, 27, 21, 155,23, St. Louis Blues, 6, 2, 5, 9, 2, 17, 16, 174,False
+2002, 1, 9,40, New Jersey Devils, 5, 2, 2, 5, 1, 16, 17, 142,39, Calgary Flames, 4, 0, 5, 8, 2, 37, 27, 200,True
+2002, 1, 9,11, New York Rangers, 4, 2, 1, 1, 4, 32, 36, 274,25, Los Angeles Kings, 7, 0, 3, 3, 1, 6, 13, 154,False
+2002, 1, 9,48, Phoenix Coyotes, 5, 1, 0, 0, 3, 24, 26, 175,42, San Jose Sharks, 5, 1, 2, 4, 6, 30, 18, 137,False
+2002, 1, 9,31, Washington Capitals, 2, 0, 1, 2, 6, 25, 13, 103,53, Columbus Blue Jackets, 3, 1, 4, 7, 5, 33, 8, 55,True
+2002, 1, 10,7, Boston Bruins, 8, 0, 3, 6, 2, 30, 20, 187,25, Los Angeles Kings, 7, 2, 4, 6, 2, 27, 12, 182,True
+2002, 1, 10,28, Buffalo Sabres, 4, 1, 3, 4, 2, 28, 23, 151,22, Pittsburgh Penguins, 3, 1, 2, 4, 3, 31, 25, 230,False
+2002, 1, 10,41, Chicago Blackhawks, 8, 1, 3, 6, 1, 24, 26, 195,53, Columbus Blue Jackets, 3, 1, 3, 5, 3, 22, 9, 61,True
+2002, 1, 10,35, Edmonton Oilers, 6, 2, 6, 11, 2, 15, 22, 179,49, Carolina Hurricanes, 5, 0, 3, 6, 2, 31, 28, 218,False
+2002, 1, 10,1, Montreal Canadiens, 3, 1, 2, 4, 7, 28, 30, 205,29, New York Islanders, 5, 1, 2, 4, 3, 16, 35, 281,True
+2002, 1, 10,50, Nashville Predators, 3, 1, 3, 5, 4, 26, 12, 94,52, Minnesota Wild, 4, 1, 4, 6, 4, 16, 17, 106,False
+2002, 1, 10,21, Philadelphia Flyers, 8, 1, 7, 13, 5, 36, 32, 202,40, New Jersey Devils, 5, 1, 5, 5, 3, 22, 15, 142,True
+2002, 1, 11,51, Atlanta Thrashers, 2, 0, 4, 6, 4, 12, 17, 150,39, Calgary Flames, 4, 2, 1, 2, 5, 23, 28, 199,True
+2002, 1, 11,45, Florida Panthers, 5, 0, 2, 3, 3, 12, 25, 230,0, Ottawa Senators, 5, 2, 3, 5, 3, 26, 19, 160,False
+2002, 1, 11,52, Minnesota Wild, 4, 1, 2, 4, 2, 17, 15, 119,46, Mighty Ducks of Anaheim, 4, 1, 2, 3, 3, 24, 22, 152,False
+2002, 1, 11,31, Washington Capitals, 3, 0, 5, 8, 3, 22, 10, 100,13, Toronto Maple Leafs, 6, 2, 4, 7, 4, 16, 21, 138,False
+2002, 1, 12,7, Boston Bruins, 8, 2, 5, 8, 0, 12, 14, 150,29, New York Islanders, 4, 0, 0, 0, 1, 8, 36, 269,False
+2002, 1, 12,28, Buffalo Sabres, 4, 1, 0, 0, 2, 18, 21, 154,40, New Jersey Devils, 5, 1, 2, 4, 3, 20, 15, 140,True
+2002, 1, 12,53, Columbus Blue Jackets, 2, 0, 1, 2, 2, 25, 8, 64,41, Chicago Blackhawks, 8, 2, 2, 5, 7, 26, 26, 192,True
+2002, 1, 12,17, Detroit Red Wings, 9, 1, 5, 8, 4, 30, 21, 144,44, Dallas Stars, 6, 1, 3, 3, 1, 35, 6, 94,True
+2002, 1, 12,35, Edmonton Oilers, 6, 1, 1, 1, 3, 16, 22, 189,47, Colorado Avalanche, 6, 1, 6, 14, 3, 30, 14, 122,False
+2002, 1, 12,45, Florida Panthers, 5, 2, 2, 2, 3, 12, 23, 210,31, Washington Capitals, 3, 0, 3, 5, 3, 32, 10, 110,False
+2002, 1, 12,50, Nashville Predators, 2, 0, 2, 4, 2, 18, 10, 86,46, Mighty Ducks of Anaheim, 5, 2, 2, 3, 4, 13, 21, 160,True
+2002, 1, 12,21, Philadelphia Flyers, 8, 1, 3, 6, 2, 36, 32, 220,11, New York Rangers, 3, 1, 0, 0, 4, 24, 32, 291,True
+2002, 1, 12,22, Pittsburgh Penguins, 4, 1, 2, 3, 0, 36, 26, 267,23, St. Louis Blues, 7, 1, 4, 5, 2, 21, 15, 161,False
+2002, 1, 12,42, San Jose Sharks, 5, 1, 6, 10, 0, 28, 15, 165,25, Los Angeles Kings, 6, 1, 0, 0, 5, 33, 15, 185,False
+2002, 1, 12,43, Tampa Bay Lightning, 4, 0, 1, 2, 2, 28, 46, 312,0, Ottawa Senators, 5, 2, 4, 7, 4, 21, 20, 170,False
+2002, 1, 12,13, Toronto Maple Leafs, 6, 2, 3, 5, 3, 25, 17, 155,1, Montreal Canadiens, 3, 0, 4, 7, 0, 26, 21, 206,False
+2002, 1, 12,26, Vancouver Canucks, 4, 1, 4, 8, 3, 34, 38, 347,49, Carolina Hurricanes, 6, 1, 4, 6, 1, 20, 25, 208,True
+2002, 1, 13,51, Atlanta Thrashers, 3, 1, 1, 2, 0, 37, 13, 175,43, Tampa Bay Lightning, 3, 1, 1, 2, 2, 25, 44, 299,False
+2002, 1, 13,52, Minnesota Wild, 4, 0, 2, 4, 2, 21, 15, 123,44, Dallas Stars, 6, 2, 2, 3, 2, 18, 9, 93,False
+2002, 1, 14,41, Chicago Blackhawks, 7, 1, 4, 8, 5, 29, 24, 195,35, Edmonton Oilers, 5, 1, 2, 3, 2, 27, 19, 204,True
+2002, 1, 14,46, Mighty Ducks of Anaheim, 4, 1, 1, 1, 2, 32, 19, 176,50, Nashville Predators, 3, 1, 2, 4, 3, 35, 9, 93,True
+2002, 1, 14,1, Montreal Canadiens, 4, 1, 1, 2, 1, 39, 18, 208,21, Philadelphia Flyers, 8, 1, 4, 6, 4, 26, 32, 208,False
+2002, 1, 14,11, New York Rangers, 3, 1, 2, 3, 4, 23, 32, 282,53, Columbus Blue Jackets, 3, 0, 5, 8, 6, 39, 10, 75,False
+2002, 1, 14,31, Washington Capitals, 4, 1, 1, 3, 0, 25, 7, 103,7, Boston Bruins, 7, 1, 4, 7, 0, 4, 19, 170,True
+2002, 1, 15,49, Carolina Hurricanes, 5, 2, 1, 2, 7, 28, 31, 216,52, Minnesota Wild, 4, 0, 1, 2, 2, 29, 16, 118,True
+2002, 1, 15,39, Calgary Flames, 4, 2, 0, 0, 1, 20, 24, 183,29, New York Islanders, 4, 0, 5, 10, 4, 25, 33, 332,False
+2002, 1, 15,47, Colorado Avalanche, 6, 1, 2, 4, 2, 34, 9, 117,42, San Jose Sharks, 5, 1, 2, 4, 5, 42, 18, 157,False
+2002, 1, 15,25, Los Angeles Kings, 6, 2, 3, 5, 2, 41, 12, 193,50, Nashville Predators, 3, 0, 3, 4, 1, 15, 9, 59,True
+2002, 1, 15,40, New Jersey Devils, 5, 0, 1, 3, 2, 20, 15, 133,43, Tampa Bay Lightning, 3, 2, 2, 4, 4, 38, 44, 298,False
+2002, 1, 15,0, Ottawa Senators, 6, 1, 2, 4, 2, 25, 17, 183,21, Philadelphia Flyers, 8, 1, 5, 8, 0, 6, 29, 175,False
+2002, 1, 15,48, Phoenix Coyotes, 4, 1, 5, 10, 5, 25, 28, 174,17, Detroit Red Wings, 9, 1, 5, 6, 1, 28, 16, 141,False
+2002, 1, 15,23, St. Louis Blues, 8, 0, 4, 8, 1, 27, 15, 168,35, Edmonton Oilers, 5, 2, 1, 2, 4, 7, 19, 208,True
+2002, 1, 15,13, Toronto Maple Leafs, 5, 1, 1, 3, 1, 29, 13, 142,51, Atlanta Thrashers, 3, 1, 2, 3, 2, 39, 15, 177,False
+2002, 1, 15,26, Vancouver Canucks, 5, 1, 7, 14, 1, 24, 32, 303,22, Pittsburgh Penguins, 4, 1, 1, 1, 4, 36, 30, 267,True
+2002, 1, 16,53, Columbus Blue Jackets, 4, 1, 2, 4, 2, 30, 6, 66,11, New York Rangers, 3, 1, 1, 4, 4, 29, 31, 303,True
+2002, 1, 16,44, Dallas Stars, 6, 0, 3, 4, 1, 26, 10, 97,17, Detroit Red Wings, 9, 2, 2, 3, 2, 18, 17, 142,True
+2002, 1, 16,45, Florida Panthers, 4, 0, 0, 0, 1, 34, 20, 213,41, Chicago Blackhawks, 8, 2, 2, 4, 1, 18, 20, 184,False
+2002, 1, 16,46, Mighty Ducks of Anaheim, 4, 1, 5, 8, 2, 29, 20, 163,28, Buffalo Sabres, 5, 1, 2, 3, 1, 28, 17, 173,False
+2002, 1, 16,1, Montreal Canadiens, 3, 1, 3, 5, 4, 31, 20, 198,31, Washington Capitals, 5, 1, 1, 2, 0, 30, 7, 108,True
+2002, 1, 17,7, Boston Bruins, 6, 1, 0, 1, 1, 17, 20, 183,0, Ottawa Senators, 6, 1, 1, 2, 4, 35, 19, 193,True
+2002, 1, 17,49, Carolina Hurricanes, 6, 0, 2, 4, 0, 22, 24, 210,1, Montreal Canadiens, 4, 2, 2, 4, 4, 34, 16, 195,False
+2002, 1, 17,39, Calgary Flames, 3, 0, 1, 2, 2, 21, 25, 184,22, Pittsburgh Penguins, 3, 2, 2, 3, 5, 20, 31, 251,False
+2002, 1, 17,47, Colorado Avalanche, 6, 1, 1, 0, 1, 22, 6, 106,48, Phoenix Coyotes, 4, 1, 2, 4, 2, 31, 25, 180,True
+2002, 1, 17,25, Los Angeles Kings, 7, 1, 2, 3, 0, 34, 11, 177,28, Buffalo Sabres, 6, 1, 3, 4, 2, 5, 17, 150,True
+2002, 1, 17,40, New Jersey Devils, 4, 1, 4, 8, 5, 17, 18, 130,11, New York Rangers, 2, 1, 0, 0, 2, 42, 29, 298,True
+2002, 1, 17,50, Nashville Predators, 2, 1, 0, 0, 3, 11, 9, 66,13, Toronto Maple Leafs, 5, 1, 2, 4, 3, 25, 15, 135,True
+2002, 1, 17,21, Philadelphia Flyers, 8, 2, 4, 5, 1, 37, 30, 206,51, Atlanta Thrashers, 4, 0, 3, 4, 2, 42, 15, 180,True
+2002, 1, 17,42, San Jose Sharks, 5, 2, 1, 1, 0, 38, 11, 129,29, New York Islanders, 5, 0, 3, 5, 1, 34, 29, 301,True
+2002, 1, 17,23, St. Louis Blues, 8, 1, 3, 6, 2, 24, 19, 177,26, Vancouver Canucks, 6, 1, 5, 9, 2, 23, 35, 314,True
+2002, 1, 18,53, Columbus Blue Jackets, 5, 0, 2, 3, 4, 36, 4, 67,52, Minnesota Wild, 4, 2, 0, 0, 3, 16, 16, 110,False
+2002, 1, 18,44, Dallas Stars, 6, 1, 3, 6, 2, 28, 12, 121,45, Florida Panthers, 4, 1, 0, 0, 1, 13, 20, 197,False
+2002, 1, 18,17, Detroit Red Wings, 8, 1, 2, 4, 3, 31, 20, 139,31, Washington Capitals, 4, 1, 0, 1, 2, 30, 9, 108,True
+2002, 1, 18,35, Edmonton Oilers, 4, 2, 2, 4, 2, 31, 21, 226,46, Mighty Ducks of Anaheim, 3, 0, 1, 2, 3, 19, 20, 151,True
+2002, 1, 18,43, Tampa Bay Lightning, 3, 0, 5, 7, 1, 21, 46, 276,41, Chicago Blackhawks, 8, 2, 3, 5, 0, 16, 16, 178,False
+2002, 1, 19,39, Calgary Flames, 3, 1, 5, 6, 5, 33, 26, 191,46, Mighty Ducks of Anaheim, 2, 1, 1, 2, 3, 26, 20, 158,True
+2002, 1, 19,35, Edmonton Oilers, 4, 0, 3, 6, 1, 37, 20, 232,22, Pittsburgh Penguins, 3, 2, 6, 10, 4, 27, 29, 249,False
+2002, 1, 19,45, Florida Panthers, 4, 2, 3, 5, 2, 37, 21, 221,51, Atlanta Thrashers, 3, 0, 3, 5, 5, 26, 18, 164,False
+2002, 1, 19,25, Los Angeles Kings, 7, 2, 4, 4, 0, 24, 13, 166,29, New York Islanders, 5, 0, 2, 4, 4, 26, 29, 243,False
+2002, 1, 19,40, New Jersey Devils, 5, 2, 6, 12, 4, 26, 16, 158,49, Carolina Hurricanes, 5, 0, 1, 0, 4, 27, 28, 219,False
+2002, 1, 19,50, Nashville Predators, 3, 1, 3, 6, 2, 30, 8, 85,53, Columbus Blue Jackets, 5, 1, 1, 2, 0, 31, 3, 58,True
+2002, 1, 19,0, Ottawa Senators, 5, 1, 2, 4, 5, 33, 17, 148,52, Minnesota Wild, 5, 0, 3, 6, 1, 26, 14, 120,True
+2002, 1, 19,48, Phoenix Coyotes, 4, 2, 2, 4, 3, 34, 28, 211,28, Buffalo Sabres, 6, 0, 2, 4, 1, 17, 16, 149,False
+2002, 1, 19,42, San Jose Sharks, 6, 2, 3, 5, 2, 33, 13, 124,47, Colorado Avalanche, 6, 0, 3, 5, 2, 28, 9, 117,False
+2002, 1, 19,23, St. Louis Blues, 9, 1, 5, 10, 4, 26, 17, 172,7, Boston Bruins, 6, 1, 5, 8, 1, 20, 16, 159,True
+2002, 1, 19,43, Tampa Bay Lightning, 3, 1, 2, 3, 3, 19, 47, 291,1, Montreal Canadiens, 5, 1, 1, 2, 0, 28, 15, 207,False
+2002, 1, 19,13, Toronto Maple Leafs, 5, 2, 2, 4, 3, 22, 18, 137,21, Philadelphia Flyers, 9, 0, 6, 11, 3, 22, 30, 190,False
+2002, 1, 19,31, Washington Capitals, 4, 2, 1, 2, 3, 34, 10, 112,26, Vancouver Canucks, 6, 0, 4, 6, 5, 23, 38, 316,False
+2002, 1, 20,41, Chicago Blackhawks, 8, 1, 2, 4, 2, 32, 18, 194,44, Dallas Stars, 6, 1, 2, 4, 3, 20, 12, 120,True
+2002, 1, 20,17, Detroit Red Wings, 8, 2, 3, 6, 1, 17, 18, 125,0, Ottawa Senators, 5, 0, 4, 6, 0, 1, 13, 138,True
+2002, 1, 21,7, Boston Bruins, 5, 0, 1, 3, 2, 29, 17, 168,23, St. Louis Blues, 9, 2, 2, 4, 1, 29, 14, 175,False
+2002, 1, 21,49, Carolina Hurricanes, 5, 0, 3, 5, 3, 26, 27, 218,26, Vancouver Canucks, 6, 2, 5, 6, 5, 48, 34, 321,False
+2002, 1, 21,53, Columbus Blue Jackets, 5, 0, 1, 2, 2, 36, 5, 63,44, Dallas Stars, 6, 2, 2, 1, 4, 34, 12, 124,False
+2002, 1, 21,47, Colorado Avalanche, 6, 1, 3, 7, 1, 23, 10, 109,28, Buffalo Sabres, 6, 1, 3, 3, 1, 33, 16, 149,True
+2002, 1, 21,45, Florida Panthers, 3, 0, 1, 2, 2, 4, 21, 184,1, Montreal Canadiens, 6, 2, 5, 8, 1, 25, 16, 198,True
+2002, 1, 21,46, Mighty Ducks of Anaheim, 2, 1, 1, 2, 2, 17, 19, 160,25, Los Angeles Kings, 7, 1, 1, 5, 3, 25, 16, 167,False
+2002, 1, 21,50, Nashville Predators, 4, 1, 2, 4, 1, 19, 7, 74,48, Phoenix Coyotes, 4, 1, 1, 2, 2, 21, 28, 169,False
+2002, 1, 21,22, Pittsburgh Penguins, 4, 0, 1, 1, 0, 25, 22, 215,21, Philadelphia Flyers, 9, 2, 3, 4, 3, 11, 27, 199,True
+2002, 1, 21,42, San Jose Sharks, 6, 2, 1, 2, 3, 27, 16, 125,35, Edmonton Oilers, 4, 0, 0, 0, 1, 15, 19, 213,True
+2002, 1, 21,43, Tampa Bay Lightning, 3, 2, 1, 2, 3, 7, 43, 244,40, New Jersey Devils, 4, 0, 3, 5, 3, 25, 14, 149,True
+2002, 1, 22,51, Atlanta Thrashers, 4, 0, 6, 11, 1, 45, 14, 183,31, Washington Capitals, 3, 2, 2, 2, 5, 31, 12, 109,False
+2002, 1, 22,39, Calgary Flames, 4, 1, 1, 2, 1, 26, 21, 186,13, Toronto Maple Leafs, 5, 1, 0, 0, 2, 25, 16, 146,False
+2002, 1, 22,29, New York Islanders, 5, 1, 3, 5, 2, 25, 34, 306,11, New York Rangers, 1, 1, 4, 3, 6, 30, 33, 250,False
+2002, 1, 22,21, Philadelphia Flyers, 8, 1, 2, 4, 0, 31, 32, 209,0, Ottawa Senators, 5, 1, 2, 2, 1, 23, 17, 167,False
+2002, 1, 23,28, Buffalo Sabres, 5, 0, 2, 5, 3, 41, 20, 164,23, St. Louis Blues, 9, 2, 4, 8, 3, 24, 21, 175,False
+2002, 1, 23,49, Carolina Hurricanes, 4, 0, 5, 10, 3, 22, 30, 211,50, Nashville Predators, 3, 2, 0, 0, 1, 22, 7, 77,False
+2002, 1, 23,41, Chicago Blackhawks, 8, 1, 3, 6, 2, 26, 19, 167,48, Phoenix Coyotes, 4, 1, 1, 1, 0, 19, 25, 193,False
+2002, 1, 23,44, Dallas Stars, 6, 1, 5, 9, 3, 24, 16, 126,26, Vancouver Canucks, 6, 1, 7, 12, 0, 0, 36, 277,False
+2002, 1, 23,17, Detroit Red Wings, 8, 2, 3, 5, 2, 22, 19, 130,42, San Jose Sharks, 7, 0, 4, 5, 3, 20, 16, 133,False
+2002, 1, 23,35, Edmonton Oilers, 3, 0, 4, 6, 4, 35, 21, 237,47, Colorado Avalanche, 7, 2, 3, 5, 2, 28, 11, 114,False
+2002, 1, 23,45, Florida Panthers, 4, 1, 7, 14, 5, 39, 24, 219,40, New Jersey Devils, 3, 1, 3, 4, 3, 17, 14, 141,False
+2002, 1, 23,46, Mighty Ducks of Anaheim, 2, 2, 2, 3, 2, 28, 21, 167,52, Minnesota Wild, 5, 0, 1, 2, 2, 21, 17, 134,True
+2002, 1, 23,11, New York Rangers, 1, 1, 5, 6, 0, 35, 29, 238,7, Boston Bruins, 5, 1, 2, 6, 4, 22, 18, 140,True
+2002, 1, 23,22, Pittsburgh Penguins, 5, 1, 5, 9, 2, 24, 27, 208,43, Tampa Bay Lightning, 4, 1, 3, 6, 2, 21, 42, 270,True
+2002, 1, 23,31, Washington Capitals, 4, 0, 3, 5, 0, 27, 7, 105,1, Montreal Canadiens, 6, 2, 5, 8, 4, 19, 21, 168,False
+2002, 1, 24,51, Atlanta Thrashers, 4, 0, 0, 0, 3, 26, 16, 164,40, New Jersey Devils, 4, 2, 3, 6, 1, 24, 12, 146,True
+2002, 1, 24,53, Columbus Blue Jackets, 4, 0, 3, 5, 3, 27, 7, 60,42, San Jose Sharks, 7, 2, 2, 3, 3, 35, 15, 142,True
+2002, 1, 24,39, Calgary Flames, 3, 1, 1, 2, 6, 31, 27, 201,47, Colorado Avalanche, 8, 1, 4, 8, 3, 35, 11, 116,False
+2002, 1, 24,25, Los Angeles Kings, 8, 1, 5, 8, 2, 31, 15, 173,52, Minnesota Wild, 4, 1, 2, 4, 4, 40, 18, 143,True
+2002, 1, 24,29, New York Islanders, 5, 2, 4, 9, 5, 19, 33, 271,22, Pittsburgh Penguins, 6, 0, 3, 7, 4, 35, 25, 206,False
+2002, 1, 24,0, Ottawa Senators, 5, 0, 1, 0, 1, 43, 16, 182,7, Boston Bruins, 4, 2, 4, 6, 1, 5, 22, 144,True
+2002, 1, 24,21, Philadelphia Flyers, 8, 1, 2, 2, 1, 34, 33, 220,50, Nashville Predators, 4, 1, 2, 3, 1, 22, 8, 86,False
+2002, 1, 25,28, Buffalo Sabres, 5, 2, 2, 3, 4, 26, 22, 167,43, Tampa Bay Lightning, 4, 0, 1, 2, 3, 11, 43, 243,True
+2002, 1, 25,49, Carolina Hurricanes, 3, 2, 2, 4, 2, 22, 29, 211,45, Florida Panthers, 3, 0, 1, 2, 3, 37, 22, 212,False
+2002, 1, 25,41, Chicago Blackhawks, 7, 1, 1, 2, 3, 23, 20, 164,23, St. Louis Blues, 10, 1, 5, 9, 2, 25, 15, 164,True
+2002, 1, 25,44, Dallas Stars, 5, 2, 2, 4, 3, 31, 11, 112,46, Mighty Ducks of Anaheim, 3, 0, 3, 3, 2, 29, 21, 168,False
+2002, 1, 25,17, Detroit Red Wings, 8, 1, 2, 2, 2, 29, 19, 139,48, Phoenix Coyotes, 4, 1, 4, 6, 1, 24, 28, 198,True
+2002, 1, 25,26, Vancouver Canucks, 7, 0, 4, 7, 4, 27, 36, 297,13, Toronto Maple Leafs, 5, 2, 6, 10, 1, 29, 14, 139,True
+2002, 1, 26,7, Boston Bruins, 4, 1, 4, 7, 8, 26, 22, 168,45, Florida Panthers, 4, 1, 1, 2, 1, 45, 20, 220,True
+2002, 1, 26,53, Columbus Blue Jackets, 5, 1, 6, 11, 2, 22, 6, 55,48, Phoenix Coyotes, 3, 1, 2, 2, 4, 35, 31, 209,False
+2002, 1, 26,39, Calgary Flames, 3, 1, 0, 0, 1, 19, 21, 181,26, Vancouver Canucks, 7, 1, 6, 11, 1, 21, 31, 273,False
+2002, 1, 26,35, Edmonton Oilers, 2, 1, 2, 4, 3, 24, 24, 221,13, Toronto Maple Leafs, 4, 1, 1, 2, 5, 24, 16, 116,True
+2002, 1, 26,25, Los Angeles Kings, 8, 1, 4, 4, 1, 20, 13, 162,47, Colorado Avalanche, 8, 1, 2, 2, 2, 30, 8, 106,False
+2002, 1, 26,52, Minnesota Wild, 3, 0, 1, 2, 3, 30, 18, 125,40, New Jersey Devils, 3, 2, 2, 4, 1, 22, 15, 151,False
+2002, 1, 26,1, Montreal Canadiens, 6, 1, 4, 9, 3, 33, 18, 185,0, Ottawa Senators, 6, 1, 4, 6, 3, 25, 19, 166,False
+2002, 1, 26,50, Nashville Predators, 5, 1, 3, 5, 2, 29, 9, 93,46, Mighty Ducks of Anaheim, 4, 1, 6, 9, 1, 21, 20, 160,False
+2002, 1, 26,29, New York Islanders, 4, 2, 4, 7, 3, 18, 35, 282,43, Tampa Bay Lightning, 4, 0, 1, 2, 2, 16, 42, 247,True
+2002, 1, 26,11, New York Rangers, 2, 0, 8, 15, 4, 33, 32, 259,31, Washington Capitals, 4, 2, 3, 5, 4, 27, 11, 105,True
+2002, 1, 26,21, Philadelphia Flyers, 7, 2, 2, 4, 5, 27, 35, 213,49, Carolina Hurricanes, 3, 0, 1, 2, 1, 28, 28, 217,True
+2002, 1, 26,22, Pittsburgh Penguins, 6, 2, 7, 10, 1, 27, 18, 199,51, Atlanta Thrashers, 5, 0, 4, 3, 2, 49, 15, 187,True
+2002, 1, 26,23, St. Louis Blues, 9, 0, 1, 2, 2, 27, 16, 168,17, Detroit Red Wings, 8, 2, 4, 7, 2, 31, 17, 146,False
+2002, 1, 27,1, Montreal Canadiens, 6, 1, 1, 3, 1, 36, 16, 188,42, San Jose Sharks, 6, 1, 2, 3, 3, 24, 16, 108,True
+2002, 1, 27,31, Washington Capitals, 4, 0, 3, 6, 6, 47, 13, 125,28, Buffalo Sabres, 6, 2, 4, 6, 1, 22, 14, 162,False
+2002, 1, 28,51, Atlanta Thrashers, 5, 0, 2, 4, 3, 28, 16, 166,48, Phoenix Coyotes, 3, 2, 3, 4, 6, 30, 29, 207,False
+2002, 1, 28,7, Boston Bruins, 4, 2, 4, 6, 2, 22, 15, 172,41, Chicago Blackhawks, 7, 0, 2, 1, 1, 26, 18, 167,True
+2002, 1, 28,47, Colorado Avalanche, 8, 1, 4, 8, 2, 17, 8, 93,25, Los Angeles Kings, 7, 1, 2, 4, 4, 21, 16, 163,False
+2002, 1, 28,44, Dallas Stars, 5, 2, 1, 2, 5, 22, 12, 74,53, Columbus Blue Jackets, 4, 0, 2, 3, 4, 33, 7, 57,True
+2002, 1, 28,35, Edmonton Oilers, 3, 0, 4, 8, 1, 23, 20, 215,17, Detroit Red Wings, 8, 2, 5, 10, 2, 31, 17, 146,False
+2002, 1, 28,52, Minnesota Wild, 3, 0, 2, 4, 4, 22, 17, 122,39, Calgary Flames, 2, 2, 0, 0, 2, 21, 21, 178,False
+2002, 1, 28,11, New York Rangers, 3, 1, 6, 10, 3, 25, 32, 237,43, Tampa Bay Lightning, 3, 1, 2, 1, 4, 33, 46, 256,False
+2002, 1, 28,23, St. Louis Blues, 8, 2, 2, 4, 2, 24, 18, 184,46, Mighty Ducks of Anaheim, 5, 0, 3, 5, 1, 19, 20, 158,False
+2002, 1, 28,26, Vancouver Canucks, 7, 1, 2, 2, 0, 29, 36, 275,50, Nashville Predators, 5, 1, 1, 0, 3, 18, 10, 82,True
+2002, 1, 29,49, Carolina Hurricanes, 3, 1, 2, 4, 4, 17, 23, 181,28, Buffalo Sabres, 6, 1, 3, 5, 2, 31, 15, 161,False
+2002, 1, 29,29, New York Islanders, 5, 1, 6, 11, 2, 25, 38, 306,40, New Jersey Devils, 4, 1, 2, 3, 2, 36, 18, 164,False
+2002, 1, 29,21, Philadelphia Flyers, 7, 1, 4, 6, 2, 18, 28, 190,22, Pittsburgh Penguins, 7, 1, 2, 5, 4, 27, 20, 189,True
+2002, 1, 29,13, Toronto Maple Leafs, 3, 2, 1, 3, 3, 19, 17, 121,42, San Jose Sharks, 5, 0, 1, 1, 3, 6, 16, 106,True
+2002, 1, 30,51, Atlanta Thrashers, 5, 2, 2, 2, 0, 0, 16, 173,13, Toronto Maple Leafs, 4, 0, 4, 8, 3, 25, 17, 127,False
+2002, 1, 30,39, Calgary Flames, 3, 1, 3, 3, 2, 33, 19, 180,17, Detroit Red Wings, 8, 1, 1, 3, 1, 29, 17, 147,True
+2002, 1, 30,47, Colorado Avalanche, 8, 2, 4, 6, 5, 27, 10, 100,50, Nashville Predators, 5, 0, 1, 0, 1, 8, 10, 69,False
+2002, 1, 30,45, Florida Panthers, 3, 1, 2, 3, 4, 40, 23, 210,48, Phoenix Coyotes, 4, 1, 4, 5, 2, 16, 21, 202,False
+2002, 1, 30,46, Mighty Ducks of Anaheim, 5, 0, 1, 2, 0, 15, 19, 154,53, Columbus Blue Jackets, 4, 2, 2, 3, 3, 24, 6, 54,True
+2002, 1, 30,52, Minnesota Wild, 2, 0, 2, 4, 2, 27, 16, 127,25, Los Angeles Kings, 7, 2, 6, 9, 4, 30, 19, 165,False
+2002, 1, 30,1, Montreal Canadiens, 7, 1, 3, 6, 1, 27, 17, 175,7, Boston Bruins, 4, 1, 2, 5, 1, 27, 15, 162,False
+2002, 1, 30,40, New Jersey Devils, 4, 2, 3, 6, 1, 21, 17, 149,41, Chicago Blackhawks, 6, 0, 1, 2, 2, 22, 19, 163,True
+2002, 1, 30,11, New York Rangers, 3, 1, 0, 0, 4, 7, 30, 210,29, New York Islanders, 4, 1, 1, 2, 3, 21, 34, 273,False
+2002, 1, 30,0, Ottawa Senators, 6, 1, 1, 2, 1, 25, 13, 159,21, Philadelphia Flyers, 7, 1, 3, 4, 2, 22, 27, 220,True
+2002, 1, 30,22, Pittsburgh Penguins, 7, 0, 3, 2, 2, 35, 19, 201,42, San Jose Sharks, 5, 2, 3, 6, 3, 22, 17, 133,False
+2002, 1, 30,43, Tampa Bay Lightning, 4, 1, 1, 2, 0, 42, 42, 265,49, Carolina Hurricanes, 3, 1, 2, 4, 2, 36, 16, 206,False
+2002, 1, 30,26, Vancouver Canucks, 8, 1, 5, 9, 1, 14, 29, 278,35, Edmonton Oilers, 2, 1, 1, 2, 1, 22, 17, 212,False
+2002, 1, 30,31, Washington Capitals, 3, 0, 2, 4, 3, 34, 10, 112,23, St. Louis Blues, 7, 2, 0, 0, 4, 31, 18, 181,False
+2002, 2, 4,53, Columbus Blue Jackets, 4, 2, 1, 0, 3, 30, 6, 61,7, Boston Bruins, 4, 0, 4, 5, 4, 35, 18, 180,False
+2002, 2, 4,47, Colorado Avalanche, 7, 1, 2, 2, 4, 26, 14, 94,17, Detroit Red Wings, 7, 1, 3, 4, 1, 36, 20, 153,False
+2002, 2, 4,45, Florida Panthers, 3, 1, 1, 2, 0, 7, 17, 200,29, New York Islanders, 5, 1, 6, 12, 3, 34, 35, 286,False
+2002, 2, 4,25, Los Angeles Kings, 7, 1, 2, 4, 0, 20, 15, 155,21, Philadelphia Flyers, 6, 1, 1, 1, 3, 27, 23, 208,False
+2002, 2, 4,43, Tampa Bay Lightning, 4, 0, 1, 1, 3, 40, 45, 263,0, Ottawa Senators, 7, 2, 3, 6, 3, 39, 13, 153,False
+2002, 2, 4,26, Vancouver Canucks, 8, 0, 2, 4, 2, 34, 29, 286,48, Phoenix Coyotes, 5, 2, 3, 5, 1, 42, 24, 219,True
+2002, 2, 5,51, Atlanta Thrashers, 4, 1, 0, 0, 3, 28, 19, 178,35, Edmonton Oilers, 3, 1, 2, 3, 3, 19, 18, 212,True
+2002, 2, 5,7, Boston Bruins, 5, 2, 8, 15, 3, 25, 14, 165,28, Buffalo Sabres, 6, 0, 2, 2, 2, 36, 16, 165,False
+2002, 2, 5,49, Carolina Hurricanes, 3, 1, 3, 4, 1, 19, 22, 193,22, Pittsburgh Penguins, 6, 1, 3, 5, 6, 23, 20, 178,False
+2002, 2, 5,40, New Jersey Devils, 5, 1, 3, 6, 1, 28, 17, 156,1, Montreal Canadiens, 6, 1, 3, 5, 4, 35, 21, 190,False
+2002, 2, 5,29, New York Islanders, 6, 1, 6, 10, 1, 6, 35, 254,23, St. Louis Blues, 7, 1, 5, 8, 1, 25, 15, 175,True
+2002, 2, 5,13, Toronto Maple Leafs, 4, 1, 6, 7, 0, 17, 13, 118,52, Minnesota Wild, 1, 0, 0, 0, 3, 27, 16, 128,True
+2002, 2, 6,53, Columbus Blue Jackets, 3, 1, 0, 1, 3, 31, 11, 56,0, Ottawa Senators, 7, 1, 4, 4, 1, 19, 14, 145,False
+2002, 2, 6,17, Detroit Red Wings, 7, 2, 3, 5, 1, 24, 19, 121,11, New York Rangers, 3, 0, 3, 5, 4, 11, 31, 212,True
+2002, 2, 6,45, Florida Panthers, 3, 1, 6, 9, 4, 30, 23, 195,43, Tampa Bay Lightning, 3, 1, 4, 6, 6, 25, 46, 256,False
+2002, 2, 6,46, Mighty Ducks of Anaheim, 6, 2, 3, 3, 1, 26, 20, 165,21, Philadelphia Flyers, 6, 0, 3, 4, 2, 31, 24, 195,True
+2002, 2, 6,50, Nashville Predators, 5, 1, 5, 6, 4, 28, 11, 89,44, Dallas Stars, 5, 1, 4, 7, 2, 24, 9, 104,True
+2002, 2, 6,48, Phoenix Coyotes, 5, 1, 2, 2, 4, 23, 27, 200,41, Chicago Blackhawks, 6, 1, 1, 2, 3, 29, 20, 170,False
+2002, 2, 6,42, San Jose Sharks, 5, 1, 6, 11, 3, 28, 17, 139,39, Calgary Flames, 3, 1, 4, 8, 0, 0, 24, 201,True
+2002, 2, 6,31, Washington Capitals, 3, 1, 1, 3, 4, 28, 11, 106,52, Minnesota Wild, 1, 1, 1, 2, 2, 28, 16, 136,True
+2002, 2, 7,25, Los Angeles Kings, 7, 1, 1, 2, 3, 29, 18, 164,49, Carolina Hurricanes, 3, 1, 3, 4, 3, 31, 21, 208,True
+2002, 2, 7,1, Montreal Canadiens, 6, 2, 1, 2, 0, 19, 16, 166,22, Pittsburgh Penguins, 7, 0, 3, 6, 3, 40, 19, 205,True
+2002, 2, 7,40, New Jersey Devils, 5, 1, 0, 0, 1, 15, 14, 149,51, Atlanta Thrashers, 4, 1, 3, 6, 3, 12, 18, 191,False
+2002, 2, 7,29, New York Islanders, 6, 1, 4, 8, 2, 14, 26, 260,13, Toronto Maple Leafs, 4, 1, 3, 5, 1, 24, 12, 114,True
+2002, 2, 7,23, St. Louis Blues, 6, 1, 3, 3, 1, 18, 18, 170,35, Edmonton Oilers, 3, 1, 3, 3, 2, 22, 21, 236,True
+2002, 2, 7,43, Tampa Bay Lightning, 3, 1, 3, 6, 4, 33, 42, 270,45, Florida Panthers, 3, 1, 2, 4, 2, 12, 18, 238,False
+2002, 2, 8,51, Atlanta Thrashers, 5, 0, 3, 5, 2, 41, 18, 212,11, New York Rangers, 3, 2, 1, 2, 3, 35, 30, 257,False
+2002, 2, 8,28, Buffalo Sabres, 7, 1, 2, 4, 2, 39, 16, 162,0, Ottawa Senators, 7, 1, 6, 9, 4, 28, 19, 152,True
+2002, 2, 8,39, Calgary Flames, 3, 0, 0, 0, 3, 36, 26, 228,26, Vancouver Canucks, 8, 2, 4, 7, 2, 24, 25, 293,False
+2002, 2, 8,44, Dallas Stars, 4, 2, 1, 3, 2, 21, 10, 92,35, Edmonton Oilers, 3, 0, 1, 2, 3, 35, 22, 228,False
+2002, 2, 8,17, Detroit Red Wings, 7, 2, 3, 7, 4, 22, 18, 137,53, Columbus Blue Jackets, 2, 0, 4, 6, 8, 25, 13, 54,False
+2002, 2, 8,46, Mighty Ducks of Anaheim, 6, 0, 5, 10, 4, 32, 23, 171,49, Carolina Hurricanes, 2, 2, 1, 2, 0, 3, 20, 205,False
+2002, 2, 8,52, Minnesota Wild, 1, 0, 1, 2, 2, 19, 16, 127,47, Colorado Avalanche, 6, 2, 0, 2, 0, 25, 6, 111,False
+2002, 2, 8,50, Nashville Predators, 6, 1, 2, 4, 1, 34, 8, 95,31, Washington Capitals, 3, 1, 2, 4, 1, 30, 8, 108,False
+2002, 2, 8,48, Phoenix Coyotes, 5, 1, 2, 4, 2, 35, 24, 178,25, Los Angeles Kings, 7, 1, 2, 4, 1, 18, 15, 156,True
+2002, 2, 8,42, San Jose Sharks, 6, 0, 2, 2, 0, 27, 16, 164,41, Chicago Blackhawks, 6, 2, 5, 8, 2, 21, 19, 162,True
+2002, 2, 9,7, Boston Bruins, 5, 2, 2, 4, 2, 34, 12, 176,45, Florida Panthers, 4, 0, 3, 4, 1, 37, 20, 256,True
+2002, 2, 9,53, Columbus Blue Jackets, 2, 1, 2, 5, 2, 35, 7, 64,50, Nashville Predators, 6, 1, 3, 4, 2, 28, 10, 94,False
+2002, 2, 9,47, Colorado Avalanche, 7, 1, 6, 12, 2, 33, 4, 89,41, Chicago Blackhawks, 6, 1, 2, 4, 1, 21, 21, 175,False
+2002, 2, 9,0, Ottawa Senators, 7, 0, 2, 2, 4, 31, 19, 166,17, Detroit Red Wings, 7, 2, 2, 4, 1, 27, 17, 140,False
+2002, 2, 9,22, Pittsburgh Penguins, 7, 1, 0, 1, 1, 28, 17, 212,40, New Jersey Devils, 5, 1, 3, 6, 3, 19, 18, 152,False
+2002, 2, 9,23, St. Louis Blues, 6, 0, 3, 4, 1, 28, 19, 171,21, Philadelphia Flyers, 5, 2, 4, 8, 1, 21, 28, 200,False
+2002, 2, 9,43, Tampa Bay Lightning, 3, 0, 1, 2, 3, 26, 41, 263,31, Washington Capitals, 3, 2, 3, 5, 1, 8, 8, 90,False
+2002, 2, 9,13, Toronto Maple Leafs, 4, 1, 1, 1, 3, 25, 19, 131,1, Montreal Canadiens, 7, 1, 1, 2, 0, 30, 18, 190,True
+2002, 2, 9,26, Vancouver Canucks, 8, 2, 4, 7, 1, 26, 30, 274,39, Calgary Flames, 3, 0, 1, 2, 4, 27, 32, 205,False
+2002, 2, 10,46, Mighty Ducks of Anaheim, 6, 1, 1, 2, 4, 24, 23, 167,44, Dallas Stars, 4, 1, 1, 2, 1, 21, 8, 73,False
+2002, 2, 10,52, Minnesota Wild, 1, 2, 0, 0, 3, 14, 17, 99,29, New York Islanders, 6, 0, 4, 5, 1, 27, 30, 262,True
+2002, 2, 10,40, New Jersey Devils, 5, 1, 2, 4, 1, 20, 16, 153,28, Buffalo Sabres, 7, 1, 3, 4, 2, 20, 21, 157,True
+2002, 2, 10,11, New York Rangers, 4, 0, 2, 4, 1, 30, 28, 252,22, Pittsburgh Penguins, 6, 2, 1, 1, 2, 41, 21, 228,True
+2002, 2, 10,48, Phoenix Coyotes, 6, 0, 6, 10, 5, 28, 24, 143,35, Edmonton Oilers, 4, 2, 1, 1, 3, 14, 16, 206,False
+2002, 2, 10,42, San Jose Sharks, 6, 1, 4, 6, 2, 28, 19, 167,49, Carolina Hurricanes, 3, 1, 3, 6, 1, 20, 21, 204,True
+2002, 2, 11,47, Colorado Avalanche, 6, 2, 2, 4, 3, 21, 6, 90,7, Boston Bruins, 5, 0, 4, 7, 0, 30, 14, 169,True
+2002, 2, 11,25, Los Angeles Kings, 6, 0, 5, 9, 6, 34, 21, 174,44, Dallas Stars, 4, 2, 5, 10, 1, 35, 8, 87,True
+2002, 2, 11,1, Montreal Canadiens, 6, 0, 1, 3, 3, 45, 21, 205,17, Detroit Red Wings, 7, 2, 3, 5, 2, 22, 21, 126,False
+2002, 2, 11,13, Toronto Maple Leafs, 5, 1, 4, 5, 1, 8, 12, 127,51, Atlanta Thrashers, 4, 1, 1, 2, 3, 33, 18, 205,True
+2002, 2, 11,31, Washington Capitals, 4, 2, 4, 7, 2, 21, 9, 103,43, Tampa Bay Lightning, 3, 0, 2, 4, 0, 9, 42, 236,True
+2002, 2, 12,28, Buffalo Sabres, 6, 1, 1, 3, 4, 13, 20, 137,40, New Jersey Devils, 6, 1, 4, 7, 1, 22, 16, 155,False
+2002, 2, 12,53, Columbus Blue Jackets, 2, 0, 1, 0, 1, 24, 6, 53,52, Minnesota Wild, 1, 2, 4, 7, 3, 12, 17, 116,False
+2002, 2, 12,35, Edmonton Oilers, 4, 0, 4, 6, 3, 24, 16, 216,42, San Jose Sharks, 6, 2, 4, 6, 0, 24, 17, 163,False
+2002, 2, 12,50, Nashville Predators, 6, 0, 1, 2, 3, 33, 8, 91,45, Florida Panthers, 3, 2, 1, 2, 3, 23, 19, 211,True
+2002, 2, 12,0, Ottawa Senators, 7, 1, 2, 3, 3, 25, 21, 168,22, Pittsburgh Penguins, 5, 1, 3, 7, 4, 33, 26, 227,True
+2002, 2, 12,21, Philadelphia Flyers, 5, 1, 5, 8, 0, 30, 26, 212,29, New York Islanders, 6, 1, 3, 4, 1, 18, 28, 287,False
+2002, 2, 12,48, Phoenix Coyotes, 6, 2, 3, 6, 4, 31, 21, 146,39, Calgary Flames, 4, 0, 4, 9, 3, 31, 31, 226,True
+2002, 2, 12,23, St. Louis Blues, 5, 2, 0, 0, 4, 20, 23, 163,51, Atlanta Thrashers, 4, 0, 4, 8, 2, 34, 20, 201,True
+2002, 2, 12,26, Vancouver Canucks, 8, 1, 3, 6, 4, 29, 27, 289,7, Boston Bruins, 5, 1, 2, 4, 1, 24, 19, 164,False
+2002, 2, 13,41, Chicago Blackhawks, 6, 2, 3, 6, 2, 23, 22, 177,45, Florida Panthers, 3, 0, 0, 0, 1, 7, 16, 209,True
+2002, 2, 13,47, Colorado Avalanche, 6, 1, 4, 6, 2, 18, 6, 96,23, St. Louis Blues, 5, 1, 3, 6, 0, 11, 19, 154,True
+2002, 2, 13,44, Dallas Stars, 3, 1, 1, 2, 2, 15, 10, 78,11, New York Rangers, 5, 1, 4, 8, 3, 27, 32, 245,True
+2002, 2, 13,25, Los Angeles Kings, 6, 1, 2, 3, 1, 33, 15, 161,48, Phoenix Coyotes, 6, 1, 4, 8, 3, 21, 20, 136,False
+2002, 2, 13,46, Mighty Ducks of Anaheim, 6, 1, 1, 2, 4, 28, 24, 169,39, Calgary Flames, 4, 1, 3, 5, 4, 24, 32, 219,True
+2002, 2, 13,52, Minnesota Wild, 2, 0, 3, 4, 3, 31, 17, 134,17, Detroit Red Wings, 7, 2, 3, 5, 2, 23, 21, 127,False
+2002, 2, 26,51, Atlanta Thrashers, 3, 1, 0, 0, 5, 29, 21, 202,28, Buffalo Sabres, 6, 1, 2, 4, 2, 26, 13, 141,True
+2002, 2, 26,53, Columbus Blue Jackets, 2, 0, 3, 4, 3, 34, 8, 63,25, Los Angeles Kings, 6, 2, 2, 3, 2, 34, 16, 162,False
+2002, 2, 26,47, Colorado Avalanche, 6, 1, 5, 7, 1, 34, 7, 112,39, Calgary Flames, 3, 1, 3, 3, 3, 24, 28, 205,False
+2002, 2, 26,1, Montreal Canadiens, 5, 1, 2, 4, 3, 34, 20, 169,0, Ottawa Senators, 7, 1, 5, 6, 1, 26, 19, 169,False
+2002, 2, 26,50, Nashville Predators, 6, 0, 1, 2, 0, 25, 5, 79,42, San Jose Sharks, 7, 2, 3, 5, 2, 22, 19, 161,False
+2002, 2, 26,29, New York Islanders, 6, 1, 1, 0, 4, 18, 26, 251,7, Boston Bruins, 6, 1, 2, 4, 0, 6, 17, 165,False
+2002, 2, 26,11, New York Rangers, 5, 0, 3, 4, 2, 19, 29, 246,40, New Jersey Devils, 7, 2, 2, 2, 2, 22, 14, 143,False
+2002, 2, 26,21, Philadelphia Flyers, 4, 1, 0, 0, 1, 18, 24, 215,41, Chicago Blackhawks, 6, 1, 3, 7, 3, 9, 20, 140,True
+2002, 2, 26,48, Phoenix Coyotes, 6, 1, 2, 3, 2, 39, 19, 154,44, Dallas Stars, 4, 1, 4, 6, 2, 26, 8, 94,True
+2002, 2, 26,43, Tampa Bay Lightning, 2, 1, 1, 1, 2, 19, 42, 246,17, Detroit Red Wings, 8, 1, 2, 2, 0, 21, 18, 138,False
+2002, 2, 26,13, Toronto Maple Leafs, 6, 0, 5, 8, 1, 22, 15, 132,49, Carolina Hurricanes, 2, 2, 1, 1, 2, 28, 25, 243,True
+2002, 2, 26,26, Vancouver Canucks, 7, 1, 1, 2, 1, 3, 22, 283,23, St. Louis Blues, 4, 1, 1, 0, 2, 18, 19, 166,False
+2002, 2, 26,31, Washington Capitals, 5, 1, 3, 5, 2, 22, 8, 102,45, Florida Panthers, 2, 1, 4, 6, 0, 0, 19, 237,True
+2002, 2, 27,41, Chicago Blackhawks, 5, 1, 6, 10, 5, 30, 21, 153,1, Montreal Canadiens, 4, 1, 2, 4, 2, 9, 24, 183,False
+2002, 2, 27,45, Florida Panthers, 2, 1, 3, 6, 4, 22, 23, 259,17, Detroit Red Wings, 8, 1, 4, 6, 3, 37, 21, 154,False
+2002, 2, 27,46, Mighty Ducks of Anaheim, 7, 2, 3, 5, 2, 21, 22, 162,52, Minnesota Wild, 2, 0, 0, 0, 2, 24, 16, 127,False
+2002, 2, 27,40, New Jersey Devils, 7, 1, 4, 7, 3, 25, 15, 145,21, Philadelphia Flyers, 5, 1, 5, 8, 4, 28, 26, 221,False
+2002, 2, 27,22, Pittsburgh Penguins, 4, 0, 1, 1, 5, 37, 24, 238,25, Los Angeles Kings, 6, 2, 5, 9, 2, 23, 14, 141,False
+2002, 2, 28,7, Boston Bruins, 7, 1, 3, 5, 5, 25, 20, 188,49, Carolina Hurricanes, 2, 1, 1, 1, 3, 24, 26, 239,False
+2002, 2, 28,53, Columbus Blue Jackets, 2, 0, 1, 2, 5, 29, 10, 63,22, Pittsburgh Penguins, 3, 2, 4, 6, 3, 32, 24, 232,False
+2002, 2, 28,39, Calgary Flames, 4, 1, 1, 1, 2, 29, 30, 210,23, St. Louis Blues, 4, 1, 4, 8, 5, 23, 21, 172,True
+2002, 2, 28,47, Colorado Avalanche, 5, 1, 2, 3, 2, 31, 8, 109,48, Phoenix Coyotes, 7, 1, 5, 9, 1, 35, 18, 150,True
+2002, 2, 28,35, Edmonton Oilers, 4, 1, 2, 4, 3, 31, 14, 208,50, Nashville Predators, 6, 1, 1, 1, 0, 21, 10, 77,False
+2002, 2, 28,11, New York Rangers, 5, 2, 3, 6, 4, 23, 34, 273,0, Ottawa Senators, 8, 0, 5, 9, 2, 22, 19, 169,False
+2002, 2, 28,26, Vancouver Canucks, 6, 1, 4, 7, 4, 22, 25, 288,44, Dallas Stars, 4, 1, 1, 2, 1, 8, 10, 78,False
+2002, 2, 28,31, Washington Capitals, 6, 0, 4, 7, 3, 30, 9, 110,42, San Jose Sharks, 7, 2, 5, 8, 1, 19, 18, 158,False
+2002, 3, 1,51, Atlanta Thrashers, 4, 0, 2, 0, 3, 35, 17, 207,29, New York Islanders, 6, 2, 3, 6, 0, 25, 28, 340,True
+2002, 3, 1,28, Buffalo Sabres, 5, 1, 1, 1, 2, 22, 16, 140,7, Boston Bruins, 7, 1, 2, 1, 1, 25, 21, 194,True
+2002, 3, 1,40, New Jersey Devils, 7, 2, 0, 1, 3, 24, 15, 155,13, Toronto Maple Leafs, 7, 0, 4, 7, 0, 4, 11, 116,True
+2002, 3, 1,43, Tampa Bay Lightning, 2, 1, 3, 5, 1, 12, 47, 292,42, San Jose Sharks, 7, 1, 5, 8, 4, 33, 19, 166,True
+2002, 3, 2,39, Calgary Flames, 5, 0, 3, 6, 2, 23, 28, 213,50, Nashville Predators, 6, 2, 3, 6, 2, 24, 12, 80,True
+2002, 3, 2,47, Colorado Avalanche, 5, 2, 2, 4, 1, 33, 7, 111,44, Dallas Stars, 4, 0, 4, 8, 1, 21, 8, 81,False
+2002, 3, 2,35, Edmonton Oilers, 4, 0, 2, 3, 1, 28, 14, 200,23, St. Louis Blues, 4, 2, 2, 4, 4, 24, 19, 175,False
+2002, 3, 2,25, Los Angeles Kings, 6, 2, 5, 9, 1, 21, 16, 145,53, Columbus Blue Jackets, 1, 0, 3, 4, 4, 33, 9, 67,False
+2002, 3, 2,1, Montreal Canadiens, 5, 2, 3, 5, 5, 27, 22, 196,49, Carolina Hurricanes, 3, 0, 6, 9, 2, 18, 26, 225,False
+2002, 3, 2,29, New York Islanders, 6, 1, 3, 3, 3, 31, 32, 335,51, Atlanta Thrashers, 4, 1, 4, 6, 1, 34, 17, 207,True
+2002, 3, 2,11, New York Rangers, 4, 1, 0, 0, 3, 31, 35, 282,21, Philadelphia Flyers, 6, 1, 1, 2, 5, 31, 25, 218,True
+2002, 3, 2,0, Ottawa Senators, 8, 2, 3, 6, 0, 34, 13, 178,31, Washington Capitals, 5, 0, 2, 4, 4, 23, 10, 103,False
+2002, 3, 2,22, Pittsburgh Penguins, 3, 2, 4, 8, 3, 25, 23, 230,17, Detroit Red Wings, 8, 0, 3, 6, 2, 27, 18, 127,False
+2002, 3, 2,43, Tampa Bay Lightning, 3, 1, 4, 6, 2, 27, 48, 307,45, Florida Panthers, 1, 1, 2, 4, 3, 60, 21, 296,True
+2002, 3, 2,13, Toronto Maple Leafs, 6, 2, 2, 4, 4, 26, 15, 129,28, Buffalo Sabres, 6, 0, 4, 6, 3, 32, 17, 145,False
+2002, 3, 2,26, Vancouver Canucks, 5, 0, 3, 6, 4, 31, 33, 317,52, Minnesota Wild, 3, 2, 5, 9, 3, 30, 17, 124,True
+2002, 3, 3,41, Chicago Blackhawks, 4, 1, 2, 3, 0, 3, 19, 166,46, Mighty Ducks of Anaheim, 7, 1, 3, 5, 4, 24, 24, 165,True
+2002, 3, 3,44, Dallas Stars, 5, 1, 2, 1, 1, 29, 11, 86,42, San Jose Sharks, 7, 1, 2, 3, 2, 27, 18, 162,True
+2002, 3, 3,48, Phoenix Coyotes, 6, 2, 1, 0, 2, 27, 20, 156,53, Columbus Blue Jackets, 2, 0, 2, 2, 0, 30, 5, 64,True
+2002, 3, 4,7, Boston Bruins, 6, 1, 2, 3, 4, 32, 24, 201,21, Philadelphia Flyers, 6, 1, 5, 7, 5, 20, 25, 191,False
+2002, 3, 4,28, Buffalo Sabres, 7, 0, 3, 6, 3, 26, 14, 125,35, Edmonton Oilers, 4, 2, 1, 2, 1, 26, 15, 212,False
+2002, 3, 4,47, Colorado Avalanche, 4, 1, 1, 3, 2, 29, 8, 107,40, New Jersey Devils, 7, 1, 4, 5, 2, 21, 16, 142,True
+2002, 3, 4,25, Los Angeles Kings, 6, 2, 0, 0, 1, 12, 17, 150,0, Ottawa Senators, 7, 0, 2, 3, 3, 29, 18, 166,False
+2002, 3, 4,1, Montreal Canadiens, 4, 2, 3, 5, 4, 41, 21, 210,51, Atlanta Thrashers, 4, 0, 1, 2, 3, 26, 19, 199,True
+2002, 3, 4,29, New York Islanders, 6, 1, 4, 8, 1, 14, 30, 302,22, Pittsburgh Penguins, 2, 1, 2, 3, 5, 31, 25, 227,False
+2002, 3, 4,11, New York Rangers, 4, 2, 6, 10, 5, 31, 34, 262,39, Calgary Flames, 6, 0, 5, 5, 2, 23, 23, 202,False
+2002, 3, 4,31, Washington Capitals, 6, 0, 3, 4, 2, 32, 8, 112,13, Toronto Maple Leafs, 6, 2, 3, 6, 3, 28, 14, 144,False
+2002, 3, 5,41, Chicago Blackhawks, 5, 0, 2, 4, 1, 17, 20, 180,49, Carolina Hurricanes, 4, 2, 4, 5, 4, 27, 26, 224,False
+2002, 3, 5,52, Minnesota Wild, 3, 0, 2, 3, 0, 7, 17, 107,11, New York Rangers, 3, 2, 3, 6, 4, 27, 34, 265,False
+2002, 3, 5,48, Phoenix Coyotes, 6, 0, 2, 4, 1, 25, 19, 153,40, New Jersey Devils, 6, 2, 0, 0, 1, 32, 16, 141,True
+2002, 3, 5,22, Pittsburgh Penguins, 3, 0, 4, 5, 2, 24, 19, 213,45, Florida Panthers, 1, 2, 2, 3, 3, 31, 22, 259,True
+2002, 3, 5,42, San Jose Sharks, 7, 2, 1, 3, 4, 35, 20, 170,50, Nashville Predators, 5, 0, 2, 3, 4, 14, 9, 52,False
+2002, 3, 6,51, Atlanta Thrashers, 4, 0, 3, 3, 1, 23, 17, 167,46, Mighty Ducks of Anaheim, 6, 2, 1, 2, 5, 26, 22, 168,False
+2002, 3, 6,47, Colorado Avalanche, 5, 2, 2, 4, 0, 24, 6, 101,53, Columbus Blue Jackets, 2, 0, 1, 0, 2, 23, 7, 57,True
+2002, 3, 6,44, Dallas Stars, 6, 1, 4, 6, 1, 18, 12, 83,25, Los Angeles Kings, 5, 1, 1, 2, 1, 25, 18, 163,True
+2002, 3, 6,17, Detroit Red Wings, 8, 2, 4, 6, 2, 22, 20, 127,13, Toronto Maple Leafs, 7, 0, 3, 4, 0, 0, 15, 151,True
+2002, 3, 6,1, Montreal Canadiens, 5, 0, 5, 7, 2, 29, 20, 195,7, Boston Bruins, 5, 2, 1, 2, 3, 29, 23, 198,True
+2002, 3, 6,43, Tampa Bay Lightning, 4, 0, 3, 6, 2, 26, 46, 276,35, Edmonton Oilers, 4, 2, 3, 4, 3, 23, 15, 210,False
+2002, 3, 6,31, Washington Capitals, 6, 2, 2, 3, 3, 28, 9, 108,39, Calgary Flames, 6, 0, 5, 11, 3, 31, 27, 230,True
+2002, 3, 7,41, Chicago Blackhawks, 4, 0, 1, 2, 3, 23, 22, 190,11, New York Rangers, 4, 2, 3, 6, 2, 28, 35, 283,True
+2002, 3, 7,50, Nashville Predators, 6, 0, 2, 2, 0, 26, 5, 64,25, Los Angeles Kings, 4, 2, 2, 4, 3, 31, 20, 169,False
+2002, 3, 7,29, New York Islanders, 6, 0, 2, 4, 4, 29, 37, 314,28, Buffalo Sabres, 6, 2, 0, 0, 3, 33, 13, 160,False
+2002, 3, 7,21, Philadelphia Flyers, 6, 1, 4, 5, 1, 22, 21, 170,39, Calgary Flames, 5, 1, 2, 2, 3, 20, 27, 219,False
+2002, 3, 7,48, Phoenix Coyotes, 6, 1, 4, 7, 1, 27, 20, 168,26, Vancouver Canucks, 5, 1, 6, 10, 3, 14, 30, 280,True
+2002, 3, 7,22, Pittsburgh Penguins, 4, 1, 5, 9, 5, 25, 21, 170,49, Carolina Hurricanes, 5, 1, 2, 3, 3, 19, 23, 214,False
+2002, 3, 7,42, San Jose Sharks, 7, 0, 0, 0, 1, 17, 13, 148,0, Ottawa Senators, 7, 2, 1, 0, 1, 30, 14, 157,True
+2002, 3, 7,23, St. Louis Blues, 5, 2, 1, 2, 1, 30, 16, 193,52, Minnesota Wild, 3, 0, 2, 4, 3, 27, 20, 127,False
+2002, 3, 8,51, Atlanta Thrashers, 4, 1, 1, 2, 3, 6, 20, 184,7, Boston Bruins, 4, 1, 2, 5, 5, 16, 25, 161,False
+2002, 3, 8,28, Buffalo Sabres, 6, 1, 5, 10, 0, 26, 7, 130,1, Montreal Canadiens, 5, 1, 5, 8, 0, 2, 16, 176,True
+2002, 3, 8,49, Carolina Hurricanes, 6, 1, 3, 6, 1, 16, 21, 211,31, Washington Capitals, 7, 1, 3, 6, 2, 21, 8, 101,False
+2002, 3, 8,53, Columbus Blue Jackets, 2, 1, 1, 2, 3, 20, 4, 23,29, New York Islanders, 5, 1, 0, 0, 3, 8, 35, 286,True
+2002, 3, 8,44, Dallas Stars, 6, 2, 3, 5, 2, 26, 12, 95,52, Minnesota Wild, 4, 0, 3, 5, 6, 27, 17, 128,False
+2002, 3, 8,45, Florida Panthers, 1, 0, 5, 8, 6, 32, 25, 255,35, Edmonton Oilers, 5, 2, 3, 6, 0, 25, 14, 224,True
+2002, 3, 8,46, Mighty Ducks of Anaheim, 6, 0, 4, 4, 1, 22, 18, 164,40, New Jersey Devils, 5, 2, 1, 2, 2, 20, 17, 146,True
+2002, 3, 8,43, Tampa Bay Lightning, 3, 0, 2, 4, 3, 39, 48, 297,21, Philadelphia Flyers, 5, 2, 2, 4, 3, 31, 23, 174,False
+2002, 3, 9,7, Boston Bruins, 4, 0, 3, 3, 0, 21, 20, 166,39, Calgary Flames, 6, 2, 4, 7, 2, 35, 23, 235,True
+2002, 3, 9,47, Colorado Avalanche, 6, 1, 4, 7, 0, 23, 2, 59,25, Los Angeles Kings, 5, 1, 3, 6, 2, 25, 19, 163,True
+2002, 3, 9,45, Florida Panthers, 2, 1, 5, 9, 4, 44, 23, 267,50, Nashville Predators, 6, 1, 2, 4, 3, 27, 8, 65,False
+2002, 3, 9,1, Montreal Canadiens, 5, 1, 0, 0, 3, 37, 19, 211,13, Toronto Maple Leafs, 6, 1, 2, 2, 3, 13, 20, 140,False
+2002, 3, 9,48, Phoenix Coyotes, 7, 0, 6, 12, 1, 22, 20, 151,0, Ottawa Senators, 6, 2, 2, 3, 5, 21, 17, 178,True
+2002, 3, 9,22, Pittsburgh Penguins, 3, 1, 1, 3, 3, 21, 18, 187,11, New York Rangers, 4, 1, 1, 2, 5, 34, 39, 294,True
+2002, 3, 9,42, San Jose Sharks, 7, 2, 5, 5, 3, 29, 14, 176,26, Vancouver Canucks, 4, 0, 1, 2, 4, 22, 31, 279,True
+2002, 3, 9,23, St. Louis Blues, 5, 0, 0, 0, 3, 26, 19, 177,17, Detroit Red Wings, 9, 2, 6, 12, 2, 35, 20, 137,False
+2002, 3, 10,28, Buffalo Sabres, 6, 0, 3, 5, 0, 26, 7, 148,17, Detroit Red Wings, 9, 2, 5, 10, 2, 30, 20, 132,True
+2002, 3, 10,44, Dallas Stars, 6, 0, 3, 6, 2, 7, 12, 77,40, New Jersey Devils, 5, 2, 1, 2, 2, 19, 16, 148,False
+2002, 3, 10,46, Mighty Ducks of Anaheim, 6, 0, 2, 4, 1, 45, 18, 187,0, Ottawa Senators, 5, 2, 2, 3, 3, 29, 15, 186,False
+2002, 3, 10,52, Minnesota Wild, 5, 2, 5, 9, 0, 28, 14, 127,53, Columbus Blue Jackets, 3, 0, 4, 8, 2, 41, 3, 44,True
+2002, 3, 10,29, New York Islanders, 4, 1, 2, 3, 3, 16, 35, 258,51, Atlanta Thrashers, 3, 1, 0, 0, 3, 38, 20, 216,True
+2002, 3, 10,21, Philadelphia Flyers, 6, 1, 4, 6, 2, 22, 23, 164,13, Toronto Maple Leafs, 6, 1, 1, 2, 1, 21, 18, 148,False
+2002, 3, 10,43, Tampa Bay Lightning, 3, 1, 2, 4, 3, 27, 44, 289,50, Nashville Predators, 6, 1, 2, 4, 2, 30, 7, 68,True
+2002, 3, 10,26, Vancouver Canucks, 3, 0, 0, 0, 2, 5, 29, 275,42, San Jose Sharks, 7, 2, 2, 5, 2, 22, 13, 152,False
+2002, 3, 10,31, Washington Capitals, 8, 1, 2, 4, 2, 28, 7, 88,35, Edmonton Oilers, 4, 1, 4, 8, 4, 10, 17, 191,True
+2002, 3, 11,49, Carolina Hurricanes, 5, 1, 2, 4, 2, 33, 23, 227,39, Calgary Flames, 6, 1, 2, 4, 3, 23, 24, 209,False
+2002, 3, 11,25, Los Angeles Kings, 4, 1, 3, 4, 4, 24, 19, 144,41, Chicago Blackhawks, 5, 1, 5, 8, 1, 18, 20, 185,True
+2002, 3, 11,11, New York Rangers, 4, 2, 2, 4, 3, 31, 30, 227,1, Montreal Canadiens, 4, 0, 1, 2, 1, 28, 18, 216,True
+2002, 3, 11,22, Pittsburgh Penguins, 4, 2, 3, 5, 2, 26, 20, 178,53, Columbus Blue Jackets, 3, 0, 0, 0, 0, 8, 6, 28,False
+2002, 3, 11,23, St. Louis Blues, 4, 1, 2, 3, 4, 25, 20, 188,47, Colorado Avalanche, 7, 1, 4, 7, 3, 21, 5, 57,False
+2002, 3, 12,51, Atlanta Thrashers, 2, 0, 1, 2, 0, 4, 19, 174,43, Tampa Bay Lightning, 4, 2, 5, 10, 1, 21, 44, 269,False
+2002, 3, 12,28, Buffalo Sabres, 6, 2, 5, 8, 1, 20, 12, 103,29, New York Islanders, 4, 0, 6, 10, 1, 19, 30, 255,False
+2002, 3, 12,52, Minnesota Wild, 6, 0, 5, 10, 3, 26, 14, 113,0, Ottawa Senators, 5, 2, 4, 5, 3, 26, 17, 151,False
+2002, 3, 12,50, Nashville Predators, 5, 1, 1, 3, 4, 24, 10, 67,26, Vancouver Canucks, 3, 1, 4, 7, 4, 8, 29, 253,False
+2002, 3, 12,48, Phoenix Coyotes, 8, 1, 3, 5, 2, 6, 22, 149,41, Chicago Blackhawks, 5, 1, 1, 2, 2, 32, 21, 199,True
+2002, 3, 12,13, Toronto Maple Leafs, 6, 1, 3, 3, 1, 17, 15, 131,21, Philadelphia Flyers, 5, 1, 1, 1, 2, 19, 23, 161,False
+2002, 3, 12,31, Washington Capitals, 8, 1, 4, 6, 2, 28, 7, 88,44, Dallas Stars, 6, 1, 0, 0, 3, 21, 14, 109,False
+2002, 3, 13,17, Detroit Red Wings, 8, 2, 1, 2, 4, 22, 17, 118,35, Edmonton Oilers, 4, 0, 2, 2, 1, 19, 17, 198,True
+2002, 3, 13,45, Florida Panthers, 2, 0, 2, 4, 2, 24, 22, 246,39, Calgary Flames, 6, 2, 3, 4, 3, 35, 24, 221,False
+2002, 3, 13,46, Mighty Ducks of Anaheim, 5, 1, 2, 3, 2, 27, 20, 160,22, Pittsburgh Penguins, 4, 1, 2, 4, 3, 29, 22, 171,True
+2002, 3, 13,40, New Jersey Devils, 6, 2, 3, 6, 0, 22, 16, 157,29, New York Islanders, 4, 0, 3, 6, 0, 28, 30, 289,True
+2002, 3, 13,11, New York Rangers, 4, 2, 2, 3, 1, 24, 30, 301,7, Boston Bruins, 5, 0, 3, 6, 2, 31, 22, 186,False
+2002, 3, 13,42, San Jose Sharks, 7, 1, 6, 10, 4, 30, 15, 160,23, St. Louis Blues, 4, 1, 2, 4, 3, 18, 19, 180,False
+2002, 3, 14,51, Atlanta Thrashers, 2, 0, 4, 5, 4, 42, 23, 212,47, Colorado Avalanche, 7, 2, 3, 4, 1, 33, 4, 71,True
+2002, 3, 14,7, Boston Bruins, 5, 0, 4, 5, 1, 34, 21, 189,13, Toronto Maple Leafs, 6, 2, 1, 2, 1, 23, 15, 137,False
+2002, 3, 14,53, Columbus Blue Jackets, 3, 0, 4, 7, 2, 36, 8, 56,26, Vancouver Canucks, 3, 2, 5, 10, 0, 23, 25, 271,False
+2002, 3, 14,25, Los Angeles Kings, 5, 0, 2, 3, 1, 11, 16, 131,23, St. Louis Blues, 4, 2, 2, 3, 0, 18, 16, 180,True
+2002, 3, 14,1, Montreal Canadiens, 3, 0, 1, 2, 2, 42, 19, 222,44, Dallas Stars, 6, 2, 5, 5, 2, 27, 13, 114,False
+2002, 3, 14,0, Ottawa Senators, 6, 0, 4, 4, 3, 19, 13, 139,35, Edmonton Oilers, 4, 2, 3, 4, 4, 17, 20, 210,False
+2002, 3, 14,21, Philadelphia Flyers, 6, 1, 1, 2, 1, 22, 22, 164,28, Buffalo Sabres, 5, 1, 0, 0, 2, 11, 12, 126,False
+2002, 3, 14,43, Tampa Bay Lightning, 4, 1, 4, 8, 4, 26, 44, 296,39, Calgary Flames, 7, 1, 3, 6, 2, 26, 24, 224,True
+2002, 3, 15,45, Florida Panthers, 1, 1, 3, 6, 3, 49, 24, 269,28, Buffalo Sabres, 6, 1, 3, 5, 1, 32, 11, 147,True
+2002, 3, 15,46, Mighty Ducks of Anaheim, 5, 0, 4, 9, 2, 31, 20, 164,41, Chicago Blackhawks, 4, 2, 1, 2, 2, 24, 21, 191,False
+2002, 3, 15,50, Nashville Predators, 5, 0, 0, 1, 1, 9, 10, 78,48, Phoenix Coyotes, 8, 2, 3, 3, 2, 21, 19, 188,False
+2002, 3, 15,42, San Jose Sharks, 6, 2, 1, 0, 1, 26, 13, 154,31, Washington Capitals, 7, 0, 2, 5, 4, 33, 9, 93,True
+2002, 3, 16,51, Atlanta Thrashers, 3, 1, 2, 1, 0, 23, 19, 193,26, Vancouver Canucks, 3, 1, 5, 9, 1, 27, 26, 314,False
+2002, 3, 16,7, Boston Bruins, 5, 1, 1, 1, 6, 31, 22, 182,17, Detroit Red Wings, 9, 1, 4, 7, 1, 7, 19, 128,True
+2002, 3, 16,53, Columbus Blue Jackets, 3, 1, 1, 1, 1, 12, 6, 39,39, Calgary Flames, 7, 1, 2, 3, 3, 34, 24, 231,True
+2002, 3, 16,35, Edmonton Oilers, 4, 0, 4, 6, 1, 21, 17, 214,31, Washington Capitals, 6, 2, 4, 8, 0, 0, 10, 86,True
+2002, 3, 16,25, Los Angeles Kings, 5, 2, 2, 2, 1, 29, 17, 164,22, Pittsburgh Penguins, 4, 0, 2, 4, 4, 19, 19, 196,True
+2002, 3, 16,1, Montreal Canadiens, 3, 1, 3, 2, 3, 42, 19, 231,49, Carolina Hurricanes, 5, 1, 3, 5, 3, 28, 24, 243,True
+2002, 3, 16,40, New Jersey Devils, 6, 2, 3, 5, 2, 20, 18, 155,11, New York Rangers, 3, 0, 1, 3, 2, 24, 35, 280,True
+2002, 3, 16,0, Ottawa Senators, 6, 2, 0, 3, 2, 18, 13, 168,29, New York Islanders, 4, 0, 2, 4, 3, 22, 31, 287,True
+2002, 3, 16,21, Philadelphia Flyers, 5, 2, 1, 2, 2, 22, 23, 185,47, Colorado Avalanche, 7, 0, 0, 0, 2, 35, 7, 87,False
+2002, 3, 16,42, San Jose Sharks, 6, 1, 4, 8, 0, 32, 16, 155,41, Chicago Blackhawks, 5, 1, 1, 2, 2, 17, 20, 200,False
+2002, 3, 16,13, Toronto Maple Leafs, 6, 1, 2, 3, 1, 20, 17, 146,44, Dallas Stars, 7, 1, 3, 5, 3, 21, 14, 94,False
+2002, 3, 17,46, Mighty Ducks of Anaheim, 4, 1, 1, 2, 1, 40, 19, 173,23, St. Louis Blues, 4, 1, 1, 2, 2, 22, 18, 170,False
+2002, 3, 17,52, Minnesota Wild, 6, 1, 4, 5, 4, 32, 15, 119,48, Phoenix Coyotes, 9, 1, 3, 6, 1, 39, 19, 209,False
+2002, 3, 17,40, New Jersey Devils, 6, 1, 3, 6, 1, 25, 17, 160,26, Vancouver Canucks, 4, 1, 4, 5, 2, 15, 33, 302,False
+2002, 3, 17,50, Nashville Predators, 4, 1, 2, 2, 4, 36, 12, 87,47, Colorado Avalanche, 7, 1, 2, 4, 1, 27, 6, 89,False
+2002, 3, 17,11, New York Rangers, 3, 0, 1, 2, 3, 26, 36, 282,17, Detroit Red Wings, 8, 2, 1, 3, 3, 38, 21, 152,False
+2002, 3, 17,0, Ottawa Senators, 6, 2, 4, 8, 3, 21, 14, 171,45, Florida Panthers, 2, 0, 5, 10, 2, 30, 23, 271,True
+2002, 3, 17,43, Tampa Bay Lightning, 5, 0, 4, 4, 2, 32, 47, 302,28, Buffalo Sabres, 6, 2, 2, 4, 3, 6, 13, 102,False
+2002, 3, 18,51, Atlanta Thrashers, 3, 0, 2, 3, 6, 32, 23, 210,22, Pittsburgh Penguins, 4, 2, 3, 6, 1, 14, 15, 176,False
+2002, 3, 18,49, Carolina Hurricanes, 5, 1, 2, 2, 3, 22, 24, 237,1, Montreal Canadiens, 4, 1, 3, 5, 2, 33, 18, 222,False
+2002, 3, 18,41, Chicago Blackhawks, 5, 2, 2, 3, 1, 33, 20, 209,44, Dallas Stars, 7, 0, 5, 9, 2, 13, 10, 82,False
+2002, 3, 18,52, Minnesota Wild, 5, 0, 2, 4, 0, 14, 13, 114,39, Calgary Flames, 6, 2, 1, 1, 3, 20, 26, 198,True
+2002, 3, 18,21, Philadelphia Flyers, 5, 2, 1, 0, 2, 18, 23, 181,43, Tampa Bay Lightning, 5, 0, 2, 4, 6, 17, 47, 294,False
+2002, 3, 18,42, San Jose Sharks, 5, 0, 2, 4, 4, 27, 18, 160,25, Los Angeles Kings, 6, 2, 3, 8, 3, 23, 19, 167,False
+2002, 3, 19,7, Boston Bruins, 5, 2, 3, 5, 2, 27, 17, 184,48, Phoenix Coyotes, 9, 0, 2, 4, 2, 25, 20, 187,True
+2002, 3, 19,28, Buffalo Sabres, 7, 1, 2, 4, 2, 24, 14, 131,0, Ottawa Senators, 6, 1, 2, 5, 0, 28, 11, 178,True
+2002, 3, 19,47, Colorado Avalanche, 7, 1, 4, 8, 1, 37, 9, 90,31, Washington Capitals, 5, 1, 1, 2, 5, 26, 13, 108,False
+2002, 3, 19,17, Detroit Red Wings, 8, 2, 5, 9, 3, 26, 21, 140,46, Mighty Ducks of Anaheim, 4, 0, 2, 4, 3, 18, 21, 154,False
+2002, 3, 19,11, New York Rangers, 3, 0, 3, 5, 5, 31, 37, 290,26, Vancouver Canucks, 5, 2, 3, 4, 2, 16, 30, 310,False
+2002, 3, 19,23, St. Louis Blues, 4, 2, 3, 5, 2, 14, 18, 155,50, Nashville Predators, 3, 0, 4, 8, 3, 18, 13, 72,True
+2002, 3, 19,13, Toronto Maple Leafs, 5, 0, 5, 9, 5, 31, 20, 158,29, New York Islanders, 3, 2, 3, 5, 4, 31, 31, 308,True
+2002, 3, 20,41, Chicago Blackhawks, 4, 0, 1, 4, 2, 26, 21, 211,40, New Jersey Devils, 5, 2, 2, 2, 3, 24, 20, 146,False
+2002, 3, 20,44, Dallas Stars, 8, 1, 1, 5, 2, 27, 10, 89,23, St. Louis Blues, 5, 1, 5, 10, 1, 26, 17, 167,True
+2002, 3, 20,35, Edmonton Oilers, 4, 0, 3, 8, 1, 28, 16, 218,42, San Jose Sharks, 4, 2, 2, 4, 3, 30, 15, 174,True
+2002, 3, 20,45, Florida Panthers, 2, 1, 0, 0, 5, 35, 21, 280,1, Montreal Canadiens, 5, 1, 1, 1, 1, 42, 18, 213,False
+2002, 3, 20,52, Minnesota Wild, 5, 2, 4, 7, 2, 27, 15, 125,53, Columbus Blue Jackets, 4, 0, 4, 6, 1, 43, 6, 70,False
+2002, 3, 20,22, Pittsburgh Penguins, 5, 0, 5, 7, 2, 24, 16, 168,48, Phoenix Coyotes, 8, 2, 2, 4, 2, 42, 22, 192,False
+2002, 3, 20,43, Tampa Bay Lightning, 6, 2, 3, 5, 2, 24, 40, 326,51, Atlanta Thrashers, 2, 0, 2, 3, 4, 40, 20, 204,True
+2002, 3, 21,28, Buffalo Sabres, 7, 2, 5, 7, 1, 34, 10, 151,7, Boston Bruins, 5, 0, 4, 7, 2, 29, 17, 186,False
+2002, 3, 21,49, Carolina Hurricanes, 4, 1, 1, 2, 4, 36, 23, 256,45, Florida Panthers, 2, 1, 1, 2, 3, 26, 17, 221,True
+2002, 3, 21,53, Columbus Blue Jackets, 5, 1, 3, 5, 1, 3, 6, 52,17, Detroit Red Wings, 7, 1, 1, 3, 2, 25, 19, 132,False
+2002, 3, 21,39, Calgary Flames, 5, 0, 2, 3, 3, 13, 28, 202,42, San Jose Sharks, 4, 2, 1, 2, 2, 28, 14, 172,False
+2002, 3, 21,25, Los Angeles Kings, 6, 1, 3, 6, 2, 24, 17, 156,47, Colorado Avalanche, 7, 1, 0, 1, 2, 23, 12, 94,True
+2002, 3, 21,50, Nashville Predators, 3, 2, 1, 2, 5, 21, 14, 73,40, New Jersey Devils, 5, 0, 3, 5, 3, 26, 18, 144,False
+2002, 3, 21,29, New York Islanders, 3, 0, 2, 4, 3, 24, 24, 241,26, Vancouver Canucks, 6, 2, 3, 5, 1, 27, 22, 289,True
+2002, 3, 21,0, Ottawa Senators, 5, 1, 1, 2, 5, 24, 16, 156,11, New York Rangers, 3, 1, 2, 3, 4, 34, 34, 281,False
+2002, 3, 21,21, Philadelphia Flyers, 4, 0, 3, 3, 3, 25, 21, 174,46, Mighty Ducks of Anaheim, 5, 2, 2, 3, 1, 29, 19, 165,True
+2002, 3, 21,13, Toronto Maple Leafs, 5, 2, 3, 6, 1, 20, 17, 178,31, Washington Capitals, 5, 0, 3, 5, 0, 21, 8, 103,False
+2002, 3, 22,44, Dallas Stars, 8, 1, 3, 6, 2, 25, 12, 97,48, Phoenix Coyotes, 8, 1, 3, 6, 1, 30, 21, 177,True
+2002, 3, 22,11, New York Rangers, 3, 2, 5, 7, 2, 21, 32, 266,51, Atlanta Thrashers, 1, 0, 2, 4, 1, 13, 20, 201,False
+2002, 3, 22,23, St. Louis Blues, 4, 1, 2, 4, 3, 23, 20, 179,46, Mighty Ducks of Anaheim, 4, 1, 1, 0, 3, 21, 20, 159,True
+2002, 3, 22,43, Tampa Bay Lightning, 7, 1, 4, 6, 2, 21, 40, 309,1, Montreal Canadiens, 5, 1, 3, 8, 1, 30, 18, 201,False
+2002, 3, 23,53, Columbus Blue Jackets, 5, 1, 2, 3, 1, 25, 8, 70,31, Washington Capitals, 6, 1, 4, 7, 3, 22, 11, 104,False
+2002, 3, 23,47, Colorado Avalanche, 6, 0, 1, 2, 3, 21, 13, 92,17, Detroit Red Wings, 7, 2, 3, 5, 2, 22, 18, 143,False
+2002, 3, 23,35, Edmonton Oilers, 5, 2, 2, 3, 1, 25, 16, 215,39, Calgary Flames, 4, 0, 0, 1, 3, 24, 29, 225,True
+2002, 3, 23,45, Florida Panthers, 2, 0, 2, 4, 3, 35, 15, 207,7, Boston Bruins, 6, 2, 2, 4, 1, 30, 16, 183,False
+2002, 3, 23,25, Los Angeles Kings, 6, 2, 3, 6, 1, 27, 16, 159,42, San Jose Sharks, 5, 0, 4, 7, 1, 25, 11, 155,True
+2002, 3, 23,40, New Jersey Devils, 6, 1, 5, 9, 3, 27, 17, 160,49, Carolina Hurricanes, 5, 1, 3, 6, 1, 26, 26, 248,False
+2002, 3, 23,50, Nashville Predators, 2, 0, 3, 3, 4, 36, 13, 88,1, Montreal Canadiens, 6, 2, 3, 5, 1, 10, 21, 221,True
+2002, 3, 23,29, New York Islanders, 4, 0, 3, 6, 2, 38, 22, 255,52, Minnesota Wild, 5, 2, 1, 2, 3, 22, 16, 120,True
+2002, 3, 23,0, Ottawa Senators, 5, 0, 2, 2, 0, 0, 22, 162,51, Atlanta Thrashers, 2, 2, 5, 10, 2, 35, 21, 223,False
+2002, 3, 23,22, Pittsburgh Penguins, 4, 1, 2, 3, 3, 26, 23, 182,21, Philadelphia Flyers, 4, 1, 2, 2, 1, 16, 22, 170,False
+2002, 3, 23,13, Toronto Maple Leafs, 5, 1, 2, 7, 2, 28, 19, 179,28, Buffalo Sabres, 6, 1, 1, 3, 2, 27, 10, 144,True
+2002, 3, 24,41, Chicago Blackhawks, 4, 2, 1, 2, 1, 14, 20, 179,23, St. Louis Blues, 5, 0, 3, 6, 2, 23, 18, 160,True
+2002, 3, 24,44, Dallas Stars, 8, 1, 4, 5, 3, 23, 11, 77,46, Mighty Ducks of Anaheim, 4, 1, 2, 4, 3, 29, 20, 167,False
+2002, 3, 24,0, Ottawa Senators, 4, 0, 2, 3, 5, 18, 25, 177,28, Buffalo Sabres, 6, 2, 0, 0, 2, 17, 10, 140,False
+2002, 3, 24,48, Phoenix Coyotes, 8, 2, 3, 6, 4, 35, 25, 187,25, Los Angeles Kings, 7, 0, 3, 6, 4, 27, 18, 175,True
+2002, 3, 24,22, Pittsburgh Penguins, 4, 2, 3, 6, 4, 26, 24, 182,31, Washington Capitals, 6, 0, 5, 6, 2, 29, 10, 111,True
+2002, 3, 24,43, Tampa Bay Lightning, 6, 0, 3, 6, 3, 26, 39, 306,7, Boston Bruins, 7, 2, 3, 6, 1, 26, 16, 179,False
+2002, 3, 24,26, Vancouver Canucks, 6, 1, 2, 4, 3, 33, 23, 265,35, Edmonton Oilers, 6, 1, 3, 5, 1, 35, 18, 242,False
+2002, 3, 25,39, Calgary Flames, 3, 0, 2, 1, 0, 16, 23, 197,53, Columbus Blue Jackets, 4, 2, 2, 4, 3, 21, 11, 71,True
+2002, 3, 25,40, New Jersey Devils, 5, 1, 0, 2, 3, 19, 14, 159,45, Florida Panthers, 2, 1, 1, 1, 2, 22, 11, 201,True
+2002, 3, 25,50, Nashville Predators, 3, 1, 5, 3, 1, 43, 10, 95,17, Detroit Red Wings, 7, 1, 2, 3, 2, 22, 15, 143,False
+2002, 3, 25,29, New York Islanders, 4, 1, 2, 4, 1, 29, 22, 226,11, New York Rangers, 3, 1, 2, 4, 5, 31, 32, 246,True
+2002, 3, 25,21, Philadelphia Flyers, 5, 1, 4, 9, 4, 23, 21, 167,13, Toronto Maple Leafs, 6, 1, 2, 3, 0, 20, 19, 164,True
+2002, 3, 26,28, Buffalo Sabres, 6, 2, 3, 6, 2, 23, 10, 150,31, Washington Capitals, 6, 0, 2, 4, 5, 27, 11, 92,False
+2002, 3, 26,49, Carolina Hurricanes, 6, 1, 4, 6, 2, 26, 24, 253,7, Boston Bruins, 8, 1, 4, 7, 3, 30, 18, 183,False
+2002, 3, 26,35, Edmonton Oilers, 7, 1, 2, 2, 4, 31, 17, 229,53, Columbus Blue Jackets, 4, 1, 1, 2, 4, 26, 14, 84,True
+2002, 3, 26,1, Montreal Canadiens, 5, 1, 2, 2, 3, 7, 22, 197,45, Florida Panthers, 2, 1, 1, 1, 2, 25, 14, 241,False
+2002, 3, 26,42, San Jose Sharks, 5, 1, 1, 1, 3, 24, 12, 141,44, Dallas Stars, 7, 1, 1, 2, 2, 13, 10, 67,True
+2002, 3, 26,23, St. Louis Blues, 4, 1, 2, 4, 4, 20, 20, 157,52, Minnesota Wild, 4, 1, 1, 2, 2, 23, 15, 121,False
+2002, 3, 26,13, Toronto Maple Leafs, 5, 2, 2, 2, 4, 31, 22, 179,43, Tampa Bay Lightning, 5, 0, 3, 5, 4, 24, 41, 314,True
+2002, 3, 26,26, Vancouver Canucks, 5, 1, 0, 0, 2, 20, 26, 271,25, Los Angeles Kings, 7, 1, 0, 0, 2, 10, 18, 149,True
+2002, 3, 27,51, Atlanta Thrashers, 3, 1, 3, 6, 2, 52, 21, 240,52, Minnesota Wild, 5, 1, 2, 2, 2, 25, 14, 125,False
+2002, 3, 27,41, Chicago Blackhawks, 5, 0, 4, 7, 3, 31, 22, 196,50, Nashville Predators, 2, 2, 3, 4, 3, 38, 12, 90,True
+2002, 3, 27,46, Mighty Ducks of Anaheim, 5, 2, 2, 4, 1, 28, 18, 166,48, Phoenix Coyotes, 8, 0, 4, 7, 0, 25, 22, 172,False
+2002, 3, 27,29, New York Islanders, 5, 0, 4, 7, 2, 12, 24, 251,0, Ottawa Senators, 4, 2, 2, 3, 3, 26, 20, 182,False
+2002, 3, 27,11, New York Rangers, 2, 1, 2, 4, 3, 31, 28, 244,21, Philadelphia Flyers, 5, 1, 4, 4, 1, 26, 22, 195,False
+2002, 3, 27,22, Pittsburgh Penguins, 4, 0, 6, 11, 2, 23, 21, 199,40, New Jersey Devils, 6, 2, 4, 6, 1, 15, 15, 143,False
+2002, 3, 28,49, Carolina Hurricanes, 5, 0, 2, 4, 3, 30, 25, 254,21, Philadelphia Flyers, 6, 2, 4, 6, 0, 0, 23, 196,True
+2002, 3, 28,39, Calgary Flames, 4, 1, 6, 9, 3, 9, 27, 203,44, Dallas Stars, 6, 1, 2, 4, 3, 22, 10, 88,False
+2002, 3, 28,17, Detroit Red Wings, 7, 1, 2, 4, 0, 31, 17, 141,50, Nashville Predators, 2, 1, 1, 2, 4, 19, 13, 83,False
+2002, 3, 28,35, Edmonton Oilers, 7, 1, 3, 6, 0, 22, 12, 212,25, Los Angeles Kings, 7, 1, 1, 0, 4, 27, 18, 152,False
+2002, 3, 28,1, Montreal Canadiens, 4, 2, 1, 3, 2, 43, 21, 233,43, Tampa Bay Lightning, 5, 0, 2, 2, 4, 21, 39, 275,True
+2002, 3, 28,0, Ottawa Senators, 5, 2, 4, 4, 3, 17, 18, 184,45, Florida Panthers, 3, 0, 2, 4, 1, 33, 15, 251,False
+2002, 3, 28,48, Phoenix Coyotes, 8, 1, 4, 6, 4, 30, 22, 177,46, Mighty Ducks of Anaheim, 4, 1, 2, 4, 2, 23, 21, 156,False
+2002, 3, 28,42, San Jose Sharks, 5, 1, 3, 6, 2, 38, 10, 159,47, Colorado Avalanche, 6, 1, 0, 0, 2, 26, 13, 93,False
+2002, 3, 28,23, St. Louis Blues, 4, 2, 2, 1, 1, 17, 16, 181,28, Buffalo Sabres, 5, 0, 3, 6, 2, 27, 14, 142,True
+2002, 3, 28,13, Toronto Maple Leafs, 6, 1, 7, 11, 3, 35, 20, 186,29, New York Islanders, 5, 1, 1, 2, 2, 29, 28, 278,False
+2002, 3, 28,26, Vancouver Canucks, 6, 2, 4, 8, 0, 18, 28, 282,53, Columbus Blue Jackets, 4, 0, 1, 2, 6, 34, 13, 86,True
+2002, 3, 29,52, Minnesota Wild, 6, 1, 4, 8, 1, 27, 14, 124,41, Chicago Blackhawks, 5, 1, 4, 6, 1, 17, 20, 182,False
+2002, 3, 29,40, New Jersey Devils, 7, 1, 4, 7, 1, 22, 17, 149,31, Washington Capitals, 6, 1, 3, 8, 3, 31, 9, 96,False
+2002, 3, 30,7, Boston Bruins, 9, 1, 3, 2, 2, 31, 17, 184,49, Carolina Hurricanes, 5, 1, 4, 8, 1, 19, 23, 243,False
+2002, 3, 30,39, Calgary Flames, 3, 1, 3, 3, 2, 36, 26, 230,25, Los Angeles Kings, 7, 1, 2, 4, 2, 22, 16, 146,True
+2002, 3, 30,17, Detroit Red Wings, 6, 2, 3, 3, 3, 20, 22, 137,51, Atlanta Thrashers, 3, 0, 2, 3, 3, 38, 22, 226,True
+2002, 3, 30,35, Edmonton Oilers, 6, 1, 2, 3, 2, 24, 14, 213,44, Dallas Stars, 7, 1, 2, 4, 2, 33, 11, 113,True
+2002, 3, 30,45, Florida Panthers, 3, 0, 4, 8, 3, 40, 18, 251,11, New York Rangers, 2, 2, 2, 3, 3, 32, 31, 247,False
+2002, 3, 30,1, Montreal Canadiens, 5, 2, 2, 4, 1, 33, 20, 223,22, Pittsburgh Penguins, 3, 0, 3, 4, 4, 31, 23, 207,True
+2002, 3, 30,50, Nashville Predators, 2, 0, 3, 5, 4, 31, 12, 104,23, St. Louis Blues, 5, 2, 4, 7, 1, 13, 17, 169,False
+2002, 3, 30,0, Ottawa Senators, 4, 2, 3, 4, 1, 28, 19, 196,43, Tampa Bay Lightning, 5, 0, 1, 2, 3, 7, 45, 273,True
+2002, 3, 30,21, Philadelphia Flyers, 5, 0, 1, 2, 2, 27, 28, 218,28, Buffalo Sabres, 4, 2, 1, 3, 0, 5, 12, 120,False
+2002, 3, 30,48, Phoenix Coyotes, 7, 0, 1, 2, 2, 27, 20, 175,47, Colorado Avalanche, 6, 2, 3, 3, 2, 32, 11, 104,True
+2002, 3, 30,42, San Jose Sharks, 4, 1, 2, 4, 0, 7, 11, 148,53, Columbus Blue Jackets, 3, 1, 2, 2, 3, 28, 11, 91,True
+2002, 3, 30,13, Toronto Maple Leafs, 5, 0, 4, 7, 2, 26, 25, 177,40, New Jersey Devils, 7, 2, 1, 1, 3, 21, 18, 140,False
+2002, 3, 30,26, Vancouver Canucks, 7, 2, 4, 7, 3, 20, 30, 277,46, Mighty Ducks of Anaheim, 4, 0, 2, 2, 1, 27, 20, 160,True
+2002, 3, 30,31, Washington Capitals, 6, 2, 3, 3, 1, 27, 7, 92,29, New York Islanders, 6, 0, 4, 7, 4, 32, 34, 272,True
+2002, 3, 31,41, Chicago Blackhawks, 6, 2, 3, 6, 2, 15, 20, 181,52, Minnesota Wild, 5, 0, 1, 0, 3, 22, 16, 119,True
+2002, 4, 1,28, Buffalo Sabres, 5, 2, 3, 6, 1, 29, 16, 148,21, Philadelphia Flyers, 5, 0, 1, 2, 1, 8, 30, 216,True
+2002, 4, 1,47, Colorado Avalanche, 5, 1, 2, 3, 4, 20, 8, 38,50, Nashville Predators, 2, 1, 2, 3, 3, 40, 12, 102,True
+2002, 4, 1,44, Dallas Stars, 7, 2, 1, 2, 2, 25, 10, 108,53, Columbus Blue Jackets, 3, 0, 1, 3, 3, 8, 14, 55,True
+2002, 4, 1,17, Detroit Red Wings, 6, 2, 5, 9, 1, 22, 19, 137,13, Toronto Maple Leafs, 4, 0, 1, 2, 1, 6, 21, 160,False
+2002, 4, 1,29, New York Islanders, 5, 0, 3, 5, 3, 30, 33, 270,40, New Jersey Devils, 7, 2, 3, 6, 1, 33, 16, 152,True
+2002, 4, 1,48, Phoenix Coyotes, 7, 1, 5, 6, 3, 30, 21, 178,23, St. Louis Blues, 6, 1, 4, 4, 2, 24, 18, 180,True
+2002, 4, 1,22, Pittsburgh Penguins, 3, 0, 1, 2, 2, 35, 25, 205,1, Montreal Canadiens, 6, 2, 2, 4, 1, 26, 19, 220,False
+2002, 4, 1,43, Tampa Bay Lightning, 4, 1, 1, 2, 2, 24, 42, 312,11, New York Rangers, 3, 1, 4, 8, 2, 33, 28, 245,False
+2002, 4, 2,39, Calgary Flames, 4, 1, 5, 7, 3, 28, 25, 196,51, Atlanta Thrashers, 3, 1, 1, 2, 3, 24, 23, 220,True
+2002, 4, 2,35, Edmonton Oilers, 7, 2, 3, 5, 1, 19, 13, 208,52, Minnesota Wild, 4, 0, 1, 3, 2, 25, 15, 122,True
+2002, 4, 2,25, Los Angeles Kings, 7, 1, 3, 5, 5, 26, 21, 156,26, Vancouver Canucks, 8, 1, 4, 6, 1, 17, 31, 307,False
+2002, 4, 2,0, Ottawa Senators, 4, 1, 3, 4, 1, 17, 23, 179,49, Carolina Hurricanes, 5, 1, 2, 3, 0, 21, 23, 251,True
+2002, 4, 2,21, Philadelphia Flyers, 4, 2, 1, 2, 3, 22, 31, 228,7, Boston Bruins, 8, 0, 0, 1, 1, 14, 16, 167,False
+2002, 4, 2,42, San Jose Sharks, 4, 1, 10, 16, 3, 27, 16, 179,46, Mighty Ducks of Anaheim, 4, 1, 1, 1, 4, 18, 23, 164,True
+2002, 4, 3,28, Buffalo Sabres, 5, 1, 2, 6, 1, 35, 16, 154,29, New York Islanders, 5, 1, 4, 4, 2, 41, 31, 299,False
+2002, 4, 3,49, Carolina Hurricanes, 4, 2, 3, 6, 4, 21, 27, 251,40, New Jersey Devils, 6, 0, 2, 3, 3, 21, 18, 140,False
+2002, 4, 3,41, Chicago Blackhawks, 6, 1, 2, 3, 1, 19, 19, 185,50, Nashville Predators, 2, 1, 1, 3, 4, 29, 14, 95,False
+2002, 4, 3,47, Colorado Avalanche, 5, 1, 6, 8, 1, 23, 5, 54,51, Atlanta Thrashers, 3, 1, 2, 3, 4, 32, 24, 223,True
+2002, 4, 3,44, Dallas Stars, 7, 1, 3, 6, 3, 30, 8, 98,23, St. Louis Blues, 5, 1, 3, 6, 4, 15, 17, 135,False
+2002, 4, 3,45, Florida Panthers, 3, 1, 2, 4, 3, 37, 20, 257,22, Pittsburgh Penguins, 2, 1, 1, 0, 3, 10, 26, 194,True
+2002, 4, 3,46, Mighty Ducks of Anaheim, 3, 1, 1, 2, 3, 30, 22, 176,17, Detroit Red Wings, 6, 1, 3, 5, 3, 24, 21, 146,False
+2002, 4, 3,31, Washington Capitals, 6, 2, 4, 7, 2, 13, 8, 78,43, Tampa Bay Lightning, 3, 0, 4, 7, 3, 36, 48, 322,True
+2002, 4, 4,7, Boston Bruins, 8, 1, 4, 3, 2, 28, 17, 181,29, New York Islanders, 6, 1, 1, 2, 4, 35, 30, 293,False
+2002, 4, 4,53, Columbus Blue Jackets, 2, 0, 1, 1, 7, 23, 14, 68,50, Nashville Predators, 3, 2, 3, 5, 5, 33, 11, 86,True
+2002, 4, 4,39, Calgary Flames, 4, 1, 4, 5, 2, 18, 21, 186,52, Minnesota Wild, 3, 1, 1, 2, 2, 32, 15, 129,True
+2002, 4, 4,25, Los Angeles Kings, 6, 1, 4, 8, 4, 35, 20, 165,17, Detroit Red Wings, 6, 1, 2, 3, 1, 30, 19, 152,True
+2002, 4, 4,21, Philadelphia Flyers, 4, 1, 2, 3, 2, 16, 29, 247,1, Montreal Canadiens, 7, 1, 3, 6, 0, 28, 20, 222,False
+2002, 4, 4,42, San Jose Sharks, 5, 2, 3, 6, 1, 26, 10, 152,48, Phoenix Coyotes, 7, 0, 5, 9, 3, 34, 19, 164,True
+2002, 4, 4,43, Tampa Bay Lightning, 2, 1, 1, 1, 0, 6, 43, 291,22, Pittsburgh Penguins, 2, 1, 2, 4, 3, 24, 17, 213,True
+2002, 4, 4,13, Toronto Maple Leafs, 5, 2, 5, 8, 4, 35, 19, 194,11, New York Rangers, 3, 0, 6, 8, 4, 30, 31, 244,False
+2002, 4, 5,51, Atlanta Thrashers, 3, 2, 0, 0, 1, 12, 22, 213,40, New Jersey Devils, 6, 0, 3, 3, 2, 26, 14, 136,False
+2002, 4, 5,28, Buffalo Sabres, 5, 0, 1, 2, 1, 27, 12, 124,45, Florida Panthers, 4, 2, 2, 5, 2, 33, 21, 249,True
+2002, 4, 5,44, Dallas Stars, 6, 1, 1, 2, 2, 32, 10, 112,47, Colorado Avalanche, 5, 1, 6, 12, 0, 24, 4, 55,True
+2002, 4, 5,46, Mighty Ducks of Anaheim, 3, 0, 1, 2, 1, 18, 16, 138,35, Edmonton Oilers, 8, 2, 2, 3, 1, 28, 13, 217,True
+2002, 4, 5,23, St. Louis Blues, 6, 0, 2, 3, 1, 24, 15, 152,41, Chicago Blackhawks, 6, 2, 1, 2, 1, 16, 21, 185,True
+2002, 4, 5,26, Vancouver Canucks, 8, 1, 4, 7, 4, 31, 31, 322,52, Minnesota Wild, 3, 1, 3, 6, 2, 24, 17, 133,True
+2002, 4, 5,31, Washington Capitals, 7, 1, 4, 5, 1, 20, 7, 85,0, Ottawa Senators, 5, 1, 4, 7, 3, 38, 19, 198,False
+2002, 4, 6,7, Boston Bruins, 7, 1, 1, 3, 2, 16, 17, 169,11, New York Rangers, 4, 1, 4, 6, 2, 37, 30, 280,False
+2002, 4, 6,25, Los Angeles Kings, 6, 1, 3, 6, 0, 31, 20, 185,35, Edmonton Oilers, 8, 1, 0, 0, 2, 30, 18, 243,True
+2002, 4, 6,1, Montreal Canadiens, 8, 1, 3, 3, 1, 24, 21, 218,53, Columbus Blue Jackets, 3, 1, 3, 4, 3, 21, 8, 66,True
+2002, 4, 6,50, Nashville Predators, 3, 1, 1, 2, 2, 23, 8, 76,39, Calgary Flames, 4, 1, 4, 9, 3, 26, 24, 205,True
+2002, 4, 6,29, New York Islanders, 7, 0, 2, 2, 1, 35, 29, 284,31, Washington Capitals, 7, 2, 0, 0, 0, 28, 6, 93,True
+2002, 4, 6,21, Philadelphia Flyers, 4, 2, 1, 2, 3, 24, 32, 251,22, Pittsburgh Penguins, 2, 0, 2, 2, 3, 26, 17, 220,True
+2002, 4, 6,42, San Jose Sharks, 5, 1, 5, 8, 2, 23, 10, 116,17, Detroit Red Wings, 6, 1, 0, 0, 5, 26, 24, 143,True
+2002, 4, 6,13, Toronto Maple Leafs, 4, 1, 2, 4, 4, 24, 22, 172,45, Florida Panthers, 3, 1, 1, 2, 3, 34, 21, 217,False
+2002, 4, 7,49, Carolina Hurricanes, 4, 2, 2, 2, 3, 27, 27, 264,51, Atlanta Thrashers, 2, 0, 1, 2, 2, 35, 23, 236,False
+2002, 4, 7,41, Chicago Blackhawks, 6, 2, 1, 2, 3, 19, 25, 209,39, Calgary Flames, 4, 0, 1, 1, 0, 0, 22, 169,True
+2002, 4, 7,46, Mighty Ducks of Anaheim, 4, 1, 2, 4, 0, 26, 15, 146,44, Dallas Stars, 6, 1, 3, 5, 1, 22, 8, 99,True
+2002, 4, 7,40, New Jersey Devils, 7, 0, 3, 3, 1, 15, 13, 114,7, Boston Bruins, 7, 2, 4, 7, 1, 26, 20, 177,True
+2002, 4, 7,0, Ottawa Senators, 5, 2, 0, 0, 0, 25, 16, 185,1, Montreal Canadiens, 8, 0, 4, 5, 1, 20, 20, 212,False
+2002, 4, 7,23, St. Louis Blues, 6, 0, 5, 8, 1, 6, 14, 146,47, Colorado Avalanche, 5, 2, 1, 3, 0, 5, 8, 54,False
+2002, 4, 7,43, Tampa Bay Lightning, 3, 0, 4, 8, 2, 31, 43, 312,28, Buffalo Sabres, 5, 2, 3, 5, 1, 22, 15, 122,False
+2002, 4, 7,26, Vancouver Canucks, 8, 1, 5, 8, 4, 37, 30, 313,48, Phoenix Coyotes, 6, 1, 2, 4, 5, 30, 25, 177,True
+2002, 4, 8,25, Los Angeles Kings, 6, 1, 4, 8, 3, 20, 24, 180,44, Dallas Stars, 5, 1, 1, 2, 4, 22, 11, 99,True
+2002, 4, 8,52, Minnesota Wild, 3, 1, 4, 3, 4, 36, 20, 136,42, San Jose Sharks, 6, 1, 6, 9, 3, 34, 14, 160,True
+2002, 4, 8,29, New York Islanders, 8, 2, 5, 9, 4, 28, 29, 278,49, Carolina Hurricanes, 4, 0, 1, 2, 1, 22, 24, 254,False
+2002, 4, 8,11, New York Rangers, 5, 1, 6, 11, 4, 38, 30, 282,22, Pittsburgh Penguins, 2, 1, 1, 1, 3, 31, 16, 230,True
+2002, 4, 8,21, Philadelphia Flyers, 5, 2, 3, 5, 1, 18, 29, 240,45, Florida Panthers, 4, 0, 2, 0, 4, 39, 22, 259,False
+2002, 4, 8,13, Toronto Maple Leafs, 4, 0, 2, 5, 2, 25, 17, 174,53, Columbus Blue Jackets, 2, 1, 1, 2, 4, 24, 9, 69,True
+2002, 4, 9,7, Boston Bruins, 6, 2, 2, 3, 5, 24, 22, 176,43, Tampa Bay Lightning, 2, 0, 3, 5, 4, 23, 43, 299,False
+2002, 4, 9,39, Calgary Flames, 4, 0, 2, 4, 2, 23, 28, 218,48, Phoenix Coyotes, 5, 2, 3, 4, 4, 25, 22, 187,False
+2002, 4, 9,47, Colorado Avalanche, 5, 2, 4, 7, 3, 20, 7, 80,26, Vancouver Canucks, 8, 0, 4, 7, 3, 30, 22, 309,False
+2002, 4, 9,1, Montreal Canadiens, 8, 1, 3, 5, 1, 35, 20, 227,0, Ottawa Senators, 4, 1, 1, 2, 3, 19, 21, 169,True
+2002, 4, 9,23, St. Louis Blues, 5, 2, 2, 4, 1, 21, 17, 164,50, Nashville Predators, 4, 0, 3, 3, 0, 0, 6, 65,True
+2002, 4, 9,31, Washington Capitals, 7, 0, 5, 8, 5, 24, 11, 89,41, Chicago Blackhawks, 6, 2, 3, 6, 2, 17, 24, 207,True
+2002, 4, 10,51, Atlanta Thrashers, 3, 1, 1, 2, 1, 43, 22, 244,45, Florida Panthers, 5, 1, 4, 7, 2, 48, 20, 255,False
+2002, 4, 10,49, Carolina Hurricanes, 5, 2, 2, 4, 1, 25, 24, 238,43, Tampa Bay Lightning, 2, 0, 2, 3, 3, 19, 39, 315,True
+2002, 4, 10,53, Columbus Blue Jackets, 1, 1, 1, 0, 1, 23, 8, 58,42, San Jose Sharks, 6, 1, 1, 2, 2, 22, 13, 148,False
+2002, 4, 10,44, Dallas Stars, 4, 1, 0, 0, 2, 20, 7, 89,52, Minnesota Wild, 3, 1, 3, 5, 5, 27, 17, 119,False
+2002, 4, 10,17, Detroit Red Wings, 5, 1, 1, 8, 3, 28, 23, 146,41, Chicago Blackhawks, 5, 1, 1, 2, 5, 40, 25, 212,False
+2002, 4, 10,35, Edmonton Oilers, 7, 2, 3, 6, 4, 29, 18, 242,48, Phoenix Coyotes, 6, 0, 4, 3, 2, 24, 20, 186,True
+2002, 4, 10,40, New Jersey Devils, 7, 0, 3, 6, 2, 24, 14, 123,21, Philadelphia Flyers, 4, 2, 4, 6, 4, 29, 31, 255,True
+2002, 4, 10,11, New York Rangers, 6, 1, 3, 5, 2, 28, 29, 278,13, Toronto Maple Leafs, 4, 1, 4, 7, 1, 30, 16, 179,False
+2002, 4, 10,22, Pittsburgh Penguins, 1, 2, 2, 4, 2, 36, 18, 210,28, Buffalo Sabres, 5, 0, 5, 8, 3, 28, 13, 109,False
+2002, 4, 11,50, Nashville Predators, 4, 1, 2, 3, 3, 42, 9, 107,29, New York Islanders, 7, 1, 1, 1, 1, 40, 23, 266,False
+2002, 4, 11,0, Ottawa Senators, 4, 1, 2, 7, 1, 3, 18, 138,7, Boston Bruins, 5, 1, 2, 3, 3, 25, 19, 176,True
+2002, 4, 11,23, St. Louis Blues, 6, 2, 3, 6, 2, 15, 18, 158,42, San Jose Sharks, 7, 0, 5, 7, 2, 34, 14, 155,True
+2002, 4, 11,26, Vancouver Canucks, 8, 2, 2, 3, 1, 31, 24, 298,25, Los Angeles Kings, 6, 0, 3, 6, 0, 21, 19, 181,True
+2002, 4, 12,28, Buffalo Sabres, 6, 1, 3, 7, 4, 19, 14, 122,31, Washington Capitals, 7, 1, 3, 6, 0, 0, 7, 98,False
+2002, 4, 12,53, Columbus Blue Jackets, 1, 1, 4, 5, 5, 33, 12, 68,51, Atlanta Thrashers, 3, 1, 4, 5, 4, 48, 25, 249,True
+2002, 4, 12,44, Dallas Stars, 3, 1, 4, 6, 0, 11, 10, 75,41, Chicago Blackhawks, 6, 1, 3, 6, 3, 40, 23, 212,True
+2002, 4, 12,35, Edmonton Oilers, 7, 2, 3, 5, 0, 23, 13, 217,39, Calgary Flames, 4, 0, 2, 2, 3, 32, 25, 213,False
+2002, 4, 12,45, Florida Panthers, 6, 1, 3, 7, 4, 30, 23, 242,49, Carolina Hurricanes, 6, 1, 2, 3, 2, 16, 26, 248,False
+2002, 4, 12,46, Mighty Ducks of Anaheim, 4, 1, 4, 5, 1, 37, 16, 157,47, Colorado Avalanche, 4, 1, 1, 2, 2, 32, 9, 90,False
+2002, 4, 12,40, New Jersey Devils, 7, 1, 1, 1, 0, 22, 12, 121,1, Montreal Canadiens, 8, 1, 4, 6, 2, 19, 23, 225,True
+2002, 4, 12,48, Phoenix Coyotes, 5, 1, 0, 1, 3, 29, 21, 191,52, Minnesota Wild, 4, 1, 4, 8, 1, 13, 15, 101,True
+2002, 4, 12,22, Pittsburgh Penguins, 1, 2, 4, 8, 0, 9, 18, 175,13, Toronto Maple Leafs, 5, 0, 6, 11, 1, 27, 21, 175,False
+2002, 4, 12,43, Tampa Bay Lightning, 2, 0, 2, 4, 2, 38, 41, 309,29, New York Islanders, 7, 2, 5, 9, 2, 25, 28, 264,False
+2002, 4, 13,7, Boston Bruins, 4, 2, 0, 0, 2, 24, 20, 170,22, Pittsburgh Penguins, 1, 0, 1, 3, 4, 28, 23, 194,True
+2002, 4, 13,39, Calgary Flames, 5, 1, 2, 3, 3, 33, 30, 220,26, Vancouver Canucks, 8, 1, 5, 7, 2, 18, 25, 280,False
+2002, 4, 13,1, Montreal Canadiens, 7, 0, 2, 5, 3, 28, 26, 247,28, Buffalo Sabres, 6, 2, 2, 2, 4, 41, 18, 134,False
+2002, 4, 13,0, Ottawa Senators, 5, 1, 3, 7, 3, 14, 17, 157,13, Toronto Maple Leafs, 5, 1, 6, 8, 2, 25, 22, 177,False
+2002, 4, 13,21, Philadelphia Flyers, 3, 1, 0, 0, 1, 19, 26, 215,11, New York Rangers, 6, 1, 2, 4, 7, 24, 30, 206,True
+2002, 4, 13,42, San Jose Sharks, 6, 0, 1, 2, 3, 29, 17, 150,25, Los Angeles Kings, 5, 2, 2, 2, 4, 24, 25, 187,True
+2002, 4, 13,23, St. Louis Blues, 6, 0, 4, 2, 1, 23, 14, 170,17, Detroit Red Wings, 5, 2, 5, 7, 3, 23, 22, 141,True
+2002, 4, 13,31, Washington Capitals, 7, 1, 3, 6, 1, 39, 8, 137,40, New Jersey Devils, 8, 1, 6, 8, 2, 15, 14, 117,False
+2002, 4, 14,51, Atlanta Thrashers, 3, 1, 4, 3, 5, 31, 26, 232,49, Carolina Hurricanes, 6, 1, 3, 6, 2, 30, 20, 251,False
+2002, 4, 14,41, Chicago Blackhawks, 6, 1, 1, 2, 3, 22, 22, 193,53, Columbus Blue Jackets, 2, 1, 3, 11, 4, 31, 11, 66,True
+2002, 4, 14,47, Colorado Avalanche, 5, 0, 3, 3, 2, 22, 6, 85,44, Dallas Stars, 4, 2, 3, 6, 1, 23, 8, 91,False
+2002, 4, 14,17, Detroit Red Wings, 4, 1, 2, 4, 3, 25, 22, 143,23, St. Louis Blues, 7, 1, 2, 5, 3, 11, 15, 172,False
+2002, 4, 14,45, Florida Panthers, 6, 1, 1, 1, 2, 36, 19, 257,43, Tampa Bay Lightning, 2, 1, 1, 2, 2, 19, 41, 290,False
+2002, 4, 14,25, Los Angeles Kings, 4, 1, 1, 2, 1, 10, 24, 184,46, Mighty Ducks of Anaheim, 4, 1, 1, 2, 3, 32, 18, 152,True
+2002, 4, 14,52, Minnesota Wild, 4, 0, 1, 2, 7, 21, 18, 89,35, Edmonton Oilers, 6, 2, 0, 0, 1, 28, 15, 220,False
+2002, 4, 14,29, New York Islanders, 7, 2, 3, 5, 1, 25, 27, 270,21, Philadelphia Flyers, 3, 0, 2, 4, 4, 36, 27, 225,True
+2002, 4, 14,48, Phoenix Coyotes, 6, 2, 7, 13, 6, 20, 17, 145,50, Nashville Predators, 3, 0, 2, 4, 4, 30, 10, 95,True

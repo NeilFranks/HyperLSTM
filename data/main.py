@@ -30,6 +30,11 @@ def get_data_for_year(year, CSV_NAME=None):
 
     # TODO: playoff games as well
     games_table = soup.find("table", {"id": "games"})
+
+    # E.g., 2004-2005 has no games table. Just skip this entirely
+    if not games_table:
+        return
+
     games_table_data = games_table.tbody.find_all("tr")
 
     # write to CSV
@@ -78,17 +83,26 @@ def get_data_for_year(year, CSV_NAME=None):
         heading = row.find_all("th")
 
         # get boxscore
-        boxscore_soup = BeautifulSoup(
-            requests.get(
-                URL_BASE+heading[0].next.attrs['href']
-            ).content,
-            'html.parser')
+        try:
+            boxscore_url = URL_BASE+heading[0].next.attrs['href']
+        except:
+            # E.g. Game between Ottawa and Hurricanes in 2014 was rescheduled, so has no boxscore
+            boxscore_url = None
 
-        skaters_tables = boxscore_soup.find_all(
-            "table", {"id": lambda L: L and L.endswith('skaters')}
-        )
+        if boxscore_url:
+            boxscore_soup = BeautifulSoup(
+                requests.get(
+                    boxscore_url
+                ).content,
+                'html.parser')
 
-        # When a game was forfeited, there is no boxscore. Skip it as if the game never happened
+            skaters_tables = boxscore_soup.find_all(
+                "table", {"id": lambda L: L and L.endswith('skaters')}
+            )
+        else:
+            skaters_tables = None
+
+        # When a game was forfeited or otherwise did not occur, there is no boxscore. Skip it as if the game never happened
         if skaters_tables:
 
             # get date information
@@ -339,7 +353,8 @@ if __name__ == "__main__":
     if not os.path.isdir(DIR):
         os.mkdir(DIR)
 
-    for start_year in range(1918, 2022, 4):
+    # for start_year in range(1918, 2022, 4):
+    for start_year in range(2013, 2022, 4):
         # keep track of game outcomes
         # key: team, value: list of binary win conditions (win: +1; tie/loss: 0)
         outcome_dict = {}

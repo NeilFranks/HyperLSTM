@@ -1,0 +1,1231 @@
+Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
+2015, 10, 7,27, Calgary Flames, 6, 2, 5, 8, 0, 0, 18, 186,22, Vancouver Canucks, 6, 0, 8, 8, 5, 28, 17, 177,False
+2015, 10, 7,7, Chicago Blackhawks, 4, 1, 0, 4, 2, 25, 16, 130,1, New York Rangers, 7, 1, 4, 6, 2, 24, 8, 82,False
+2015, 10, 7,6, Los Angeles Kings, 5, 2, 3, 6, 1, 21, 13, 98,28, San Jose Sharks, 5, 0, 1, 3, 3, 21, 14, 116,False
+2015, 10, 7,11, Toronto Maple Leafs, 3, 0, 1, 8, 3, 33, 15, 91,10, Montreal Canadiens, 5, 2, 2, 3, 3, 22, 5, 50,False
+2015, 10, 8,0, Boston Bruins, 5, 1, 2, 4, 2, 25, 15, 115,24, Winnipeg Jets, 6, 1, 2, 2, 0, 21, 3, 79,False
+2015, 10, 8,26, Buffalo Sabres, 3, 0, 1, 2, 4, 31, 17, 194,25, Ottawa Senators, 6, 2, 3, 4, 3, 36, 10, 150,False
+2015, 10, 8,9, Colorado Avalanche, 6, 1, 4, 5, 2, 30, 8, 124,8, Minnesota Wild, 6, 1, 2, 5, 3, 14, 16, 93,False
+2015, 10, 8,2, Dallas Stars, 7, 2, 5, 5, 1, 27, 29, 257,17, Pittsburgh Penguins, 3, 0, 1, 4, 0, 28, 6, 100,True
+2015, 10, 8,12, Nashville Predators, 4, 1, 1, 2, 3, 26, 15, 150,5, Carolina Hurricanes, 4, 1, 0, 0, 1, 28, 9, 95,True
+2015, 10, 8,18, St. Louis Blues, 6, 2, 4, 6, 2, 25, 11, 117,29, Edmonton Oilers, 4, 0, 4, 5, 2, 21, 31, 258,True
+2015, 10, 8,20, Tampa Bay Lightning, 6, 1, 1, 2, 2, 38, 17, 163,16, Philadelphia Flyers, 4, 1, 2, 2, 3, 22, 16, 96,True
+2015, 10, 9,13, Columbus Blue Jackets, 9, 0, 7, 5, 2, 25, 18, 174,1, New York Rangers, 7, 2, 3, 6, 2, 34, 8, 101,False
+2015, 10, 9,19, Detroit Red Wings, 4, 0, 1, 5, 4, 26, 8, 101,11, Toronto Maple Leafs, 3, 2, 1, 2, 2, 28, 14, 86,True
+2015, 10, 9,6, Los Angeles Kings, 4, 2, 2, 2, 5, 32, 15, 84,30, Arizona Coyotes, 3, 0, 1, 1, 2, 38, 12, 103,False
+2015, 10, 9,15, New Jersey Devils, 1, 1, 3, 3, 3, 27, 19, 152,24, Winnipeg Jets, 6, 1, 6, 8, 1, 25, 5, 89,False
+2015, 10, 9,14, New York Islanders, 4, 1, 3, 7, 4, 20, 25, 184,7, Chicago Blackhawks, 4, 1, 2, 4, 3, 27, 17, 132,False
+2015, 10, 10,30, Arizona Coyotes, 4, 0, 3, 6, 1, 41, 11, 106,17, Pittsburgh Penguins, 3, 2, 0, 0, 3, 24, 8, 111,True
+2015, 10, 10,0, Boston Bruins, 5, 0, 2, 2, 5, 31, 14, 89,10, Montreal Canadiens, 5, 2, 3, 5, 1, 37, 3, 65,False
+2015, 10, 10,26, Buffalo Sabres, 3, 0, 1, 2, 1, 9, 15, 184,20, Tampa Bay Lightning, 6, 2, 3, 6, 2, 25, 17, 150,False
+2015, 10, 10,5, Carolina Hurricanes, 3, 0, 1, 1, 2, 25, 10, 92,19, Detroit Red Wings, 5, 2, 4, 8, 0, 35, 4, 97,False
+2015, 10, 10,7, Chicago Blackhawks, 5, 2, 3, 4, 3, 24, 16, 141,14, New York Islanders, 3, 0, 2, 4, 0, 0, 27, 221,True
+2015, 10, 10,9, Colorado Avalanche, 6, 2, 4, 8, 5, 30, 11, 124,2, Dallas Stars, 7, 0, 3, 6, 0, 37, 28, 267,True
+2015, 10, 10,4, Florida Panthers, 5, 1, 3, 5, 2, 36, 16, 197,16, Philadelphia Flyers, 4, 1, 2, 4, 3, 32, 16, 106,True
+2015, 10, 10,8, Minnesota Wild, 6, 1, 5, 10, 4, 23, 17, 102,18, St. Louis Blues, 7, 1, 3, 5, 1, 22, 10, 116,True
+2015, 10, 10,12, Nashville Predators, 4, 2, 2, 4, 1, 26, 11, 159,29, Edmonton Oilers, 4, 0, 1, 0, 2, 30, 29, 276,True
+2015, 10, 10,1, New York Rangers, 8, 2, 4, 4, 2, 33, 8, 96,13, Columbus Blue Jackets, 8, 0, 3, 3, 4, 25, 21, 150,True
+2015, 10, 10,28, San Jose Sharks, 6, 2, 5, 9, 1, 20, 16, 131,23, Anaheim Ducks, 6, 0, 3, 3, 1, 24, 12, 149,True
+2015, 10, 10,11, Toronto Maple Leafs, 3, 2, 0, 0, 1, 13, 12, 60,25, Ottawa Senators, 7, 0, 3, 6, 1, 27, 4, 109,False
+2015, 10, 10,22, Vancouver Canucks, 6, 1, 5, 7, 1, 30, 12, 185,27, Calgary Flames, 5, 1, 1, 2, 1, 34, 23, 230,False
+2015, 10, 10,21, Washington Capitals, 6, 2, 1, 4, 3, 33, 9, 94,15, New Jersey Devils, 1, 0, 1, 3, 4, 31, 19, 155,True
+2015, 10, 11,25, Ottawa Senators, 8, 2, 4, 8, 0, 0, 7, 123,10, Montreal Canadiens, 6, 0, 4, 8, 0, 0, 4, 49,False
+2015, 10, 12,23, Anaheim Ducks, 5, 1, 0, 0, 2, 44, 14, 165,22, Vancouver Canucks, 6, 1, 2, 4, 3, 38, 14, 193,False
+2015, 10, 12,0, Boston Bruins, 5, 0, 2, 4, 3, 37, 15, 117,20, Tampa Bay Lightning, 6, 2, 4, 7, 1, 25, 16, 150,False
+2015, 10, 12,26, Buffalo Sabres, 3, 1, 1, 2, 4, 31, 18, 203,13, Columbus Blue Jackets, 7, 1, 2, 3, 4, 22, 18, 102,True
+2015, 10, 12,14, New York Islanders, 3, 1, 1, 0, 3, 35, 29, 246,24, Winnipeg Jets, 7, 1, 3, 6, 2, 31, 5, 85,True
+2015, 10, 12,16, Philadelphia Flyers, 4, 0, 2, 2, 3, 22, 20, 104,4, Florida Panthers, 6, 2, 7, 12, 1, 39, 15, 200,True
+2015, 10, 13,5, Carolina Hurricanes, 2, 0, 3, 4, 0, 28, 12, 114,4, Florida Panthers, 5, 2, 0, 0, 2, 33, 15, 194,False
+2015, 10, 13,27, Calgary Flames, 6, 0, 3, 5, 2, 30, 24, 226,18, St. Louis Blues, 6, 2, 2, 4, 1, 24, 12, 113,False
+2015, 10, 13,2, Dallas Stars, 6, 1, 3, 6, 6, 19, 34, 258,29, Edmonton Oilers, 3, 1, 0, 0, 3, 29, 32, 301,True
+2015, 10, 13,19, Detroit Red Wings, 5, 1, 4, 5, 0, 22, 7, 109,20, Tampa Bay Lightning, 7, 1, 6, 11, 3, 30, 18, 155,True
+2015, 10, 13,6, Los Angeles Kings, 3, 0, 1, 1, 4, 22, 13, 81,22, Vancouver Canucks, 7, 2, 1, 2, 1, 29, 15, 179,False
+2015, 10, 13,15, New Jersey Devils, 1, 1, 3, 4, 4, 26, 19, 150,12, Nashville Predators, 4, 1, 3, 2, 0, 31, 10, 164,False
+2015, 10, 13,1, New York Rangers, 9, 1, 5, 8, 2, 39, 8, 102,24, Winnipeg Jets, 6, 1, 2, 5, 1, 21, 5, 87,False
+2015, 10, 13,17, Pittsburgh Penguins, 3, 1, 1, 0, 2, 39, 6, 115,10, Montreal Canadiens, 7, 1, 3, 4, 2, 21, 5, 70,False
+2015, 10, 13,21, Washington Capitals, 7, 1, 5, 8, 3, 24, 6, 94,28, San Jose Sharks, 6, 1, 2, 3, 0, 27, 14, 127,False
+2015, 10, 14,23, Anaheim Ducks, 5, 2, 1, 2, 3, 25, 18, 169,30, Arizona Coyotes, 4, 0, 3, 4, 1, 28, 9, 102,False
+2015, 10, 14,13, Columbus Blue Jackets, 6, 1, 2, 2, 4, 33, 18, 113,25, Ottawa Senators, 8, 1, 1, 0, 4, 41, 11, 155,False
+2015, 10, 14,9, Colorado Avalanche, 6, 2, 6, 12, 3, 33, 9, 127,0, Boston Bruins, 4, 0, 3, 6, 4, 23, 20, 102,False
+2015, 10, 14,16, Philadelphia Flyers, 4, 1, 1, 2, 0, 31, 17, 113,7, Chicago Blackhawks, 5, 1, 4, 7, 2, 36, 14, 146,True
+2015, 10, 15,30, Arizona Coyotes, 4, 0, 4, 7, 0, 37, 8, 111,8, Minnesota Wild, 6, 2, 3, 5, 2, 32, 15, 111,False
+2015, 10, 15,29, Edmonton Oilers, 2, 0, 2, 3, 2, 26, 33, 321,18, St. Louis Blues, 7, 2, 4, 7, 3, 18, 14, 107,False
+2015, 10, 15,4, Florida Panthers, 6, 2, 4, 7, 1, 33, 14, 184,26, Buffalo Sabres, 4, 0, 4, 8, 2, 24, 11, 159,True
+2015, 10, 15,10, Montreal Canadiens, 7, 1, 3, 6, 2, 33, 5, 82,1, New York Rangers, 8, 1, 1, 3, 3, 28, 11, 94,True
+2015, 10, 15,14, New York Islanders, 4, 2, 4, 8, 2, 24, 26, 270,12, Nashville Predators, 4, 0, 3, 4, 1, 23, 12, 154,True
+2015, 10, 15,17, Pittsburgh Penguins, 2, 1, 1, 2, 3, 30, 8, 129,25, Ottawa Senators, 8, 1, 7, 13, 3, 41, 10, 155,True
+2015, 10, 15,20, Tampa Bay Lightning, 7, 2, 1, 2, 2, 23, 16, 117,2, Dallas Stars, 7, 0, 4, 7, 2, 28, 29, 236,False
+2015, 10, 15,21, Washington Capitals, 6, 2, 1, 1, 3, 30, 6, 99,7, Chicago Blackhawks, 4, 0, 0, 0, 1, 29, 15, 139,True
+2015, 10, 16,23, Anaheim Ducks, 5, 1, 0, 0, 1, 21, 18, 148,9, Colorado Avalanche, 5, 1, 2, 2, 0, 5, 11, 77,False
+2015, 10, 16,13, Columbus Blue Jackets, 5, 1, 3, 6, 6, 26, 20, 106,11, Toronto Maple Leafs, 3, 1, 4, 5, 4, 33, 15, 80,False
+2015, 10, 16,19, Detroit Red Wings, 6, 2, 3, 6, 1, 21, 6, 107,5, Carolina Hurricanes, 2, 0, 1, 2, 4, 19, 15, 98,False
+2015, 10, 16,6, Los Angeles Kings, 3, 1, 0, 0, 2, 25, 11, 88,8, Minnesota Wild, 6, 1, 4, 7, 1, 9, 16, 109,True
+2015, 10, 16,15, New Jersey Devils, 1, 1, 1, 2, 3, 30, 16, 142,28, San Jose Sharks, 6, 1, 5, 7, 0, 31, 15, 154,False
+2015, 10, 16,22, Vancouver Canucks, 7, 2, 3, 6, 0, 15, 13, 162,18, St. Louis Blues, 8, 0, 4, 8, 3, 19, 13, 115,False
+2015, 10, 16,24, Winnipeg Jets, 7, 1, 4, 6, 3, 43, 5, 107,27, Calgary Flames, 6, 1, 3, 5, 5, 44, 26, 218,True
+2015, 10, 17,30, Arizona Coyotes, 4, 0, 3, 5, 3, 17, 13, 96,0, Boston Bruins, 4, 2, 6, 8, 6, 23, 19, 106,False
+2015, 10, 17,27, Calgary Flames, 5, 2, 1, 1, 4, 28, 23, 203,29, Edmonton Oilers, 1, 0, 2, 1, 4, 29, 35, 324,False
+2015, 10, 17,7, Chicago Blackhawks, 3, 0, 1, 2, 3, 29, 18, 134,13, Columbus Blue Jackets, 4, 2, 3, 6, 1, 7, 19, 113,True
+2015, 10, 17,4, Florida Panthers, 6, 0, 3, 4, 2, 26, 15, 177,2, Dallas Stars, 7, 2, 5, 10, 3, 33, 30, 241,False
+2015, 10, 17,10, Montreal Canadiens, 8, 2, 3, 4, 0, 25, 3, 74,19, Detroit Red Wings, 6, 0, 4, 5, 3, 47, 10, 122,True
+2015, 10, 17,14, New York Islanders, 5, 1, 4, 7, 4, 37, 27, 293,28, San Jose Sharks, 7, 1, 1, 2, 3, 35, 16, 155,True
+2015, 10, 17,25, Ottawa Senators, 7, 1, 0, 0, 2, 36, 12, 149,12, Nashville Predators, 3, 1, 3, 3, 3, 24, 15, 159,False
+2015, 10, 17,17, Pittsburgh Penguins, 2, 2, 2, 4, 0, 22, 5, 121,11, Toronto Maple Leafs, 3, 0, 6, 11, 3, 9, 14, 74,True
+2015, 10, 17,20, Tampa Bay Lightning, 6, 2, 3, 4, 5, 22, 19, 116,26, Buffalo Sabres, 3, 0, 2, 4, 3, 29, 16, 181,True
+2015, 10, 17,21, Washington Capitals, 7, 1, 4, 8, 1, 27, 4, 96,5, Carolina Hurricanes, 3, 1, 5, 9, 3, 20, 14, 99,True
+2015, 10, 18,23, Anaheim Ducks, 4, 2, 0, 0, 3, 8, 20, 151,8, Minnesota Wild, 5, 0, 1, 2, 3, 30, 17, 137,True
+2015, 10, 18,6, Los Angeles Kings, 4, 2, 2, 3, 1, 26, 10, 114,9, Colorado Avalanche, 6, 0, 3, 6, 0, 35, 11, 107,True
+2015, 10, 18,1, New York Rangers, 7, 2, 0, 0, 2, 31, 8, 92,15, New Jersey Devils, 1, 0, 1, 2, 1, 34, 14, 146,False
+2015, 10, 18,22, Vancouver Canucks, 6, 2, 2, 5, 4, 32, 18, 182,29, Edmonton Oilers, 2, 0, 5, 8, 3, 51, 33, 310,False
+2015, 10, 18,24, Winnipeg Jets, 8, 2, 3, 3, 1, 20, 3, 84,18, St. Louis Blues, 8, 0, 4, 7, 2, 26, 12, 118,False
+2015, 10, 19,1, New York Rangers, 6, 2, 1, 1, 2, 16, 10, 101,28, San Jose Sharks, 6, 0, 3, 5, 1, 32, 18, 153,True
+2015, 10, 20,13, Columbus Blue Jackets, 3, 2, 1, 1, 3, 29, 21, 135,14, New York Islanders, 5, 0, 6, 11, 3, 25, 23, 257,False
+2015, 10, 20,27, Calgary Flames, 4, 1, 2, 4, 2, 29, 26, 208,21, Washington Capitals, 7, 1, 4, 3, 1, 19, 4, 88,False
+2015, 10, 20,10, Montreal Canadiens, 9, 2, 4, 3, 1, 22, 4, 71,18, St. Louis Blues, 8, 0, 4, 8, 3, 34, 9, 133,True
+2015, 10, 20,15, New Jersey Devils, 2, 2, 2, 4, 1, 27, 14, 139,30, Arizona Coyotes, 4, 0, 3, 4, 5, 43, 15, 113,True
+2015, 10, 20,12, Nashville Predators, 4, 2, 3, 5, 4, 28, 15, 167,20, Tampa Bay Lightning, 7, 0, 2, 2, 1, 32, 15, 126,True
+2015, 10, 20,16, Philadelphia Flyers, 5, 1, 3, 6, 4, 8, 17, 112,2, Dallas Stars, 8, 1, 4, 7, 6, 28, 29, 234,False
+2015, 10, 20,17, Pittsburgh Penguins, 3, 1, 2, 2, 1, 27, 6, 126,4, Florida Panthers, 6, 1, 2, 4, 3, 36, 16, 187,True
+2015, 10, 21,0, Boston Bruins, 4, 2, 5, 11, 3, 23, 13, 126,16, Philadelphia Flyers, 4, 0, 1, 2, 0, 30, 15, 136,False
+2015, 10, 21,26, Buffalo Sabres, 2, 1, 1, 1, 2, 22, 15, 148,11, Toronto Maple Leafs, 2, 1, 1, 1, 2, 33, 13, 98,True
+2015, 10, 21,9, Colorado Avalanche, 6, 1, 1, 2, 5, 19, 13, 112,5, Carolina Hurricanes, 3, 1, 1, 0, 4, 34, 13, 140,False
+2015, 10, 21,29, Edmonton Oilers, 3, 0, 2, 3, 2, 24, 31, 293,19, Detroit Red Wings, 6, 2, 1, 1, 3, 40, 10, 115,True
+2015, 10, 22,7, Chicago Blackhawks, 3, 2, 4, 5, 1, 23, 14, 151,4, Florida Panthers, 5, 0, 2, 4, 3, 35, 16, 186,True
+2015, 10, 22,8, Minnesota Wild, 5, 0, 1, 1, 3, 21, 17, 128,13, Columbus Blue Jackets, 3, 2, 0, 0, 5, 33, 19, 144,True
+2015, 10, 22,12, Nashville Predators, 5, 0, 4, 7, 4, 29, 14, 176,23, Anaheim Ducks, 4, 2, 4, 6, 1, 35, 15, 162,True
+2015, 10, 22,1, New York Rangers, 6, 2, 4, 7, 2, 24, 7, 112,30, Arizona Coyotes, 4, 0, 2, 4, 3, 25, 12, 103,True
+2015, 10, 22,25, Ottawa Senators, 6, 1, 3, 6, 1, 35, 12, 149,15, New Jersey Devils, 2, 1, 3, 5, 2, 20, 15, 132,False
+2015, 10, 22,17, Pittsburgh Penguins, 4, 0, 3, 6, 2, 33, 7, 132,2, Dallas Stars, 9, 2, 2, 4, 1, 35, 24, 241,False
+2015, 10, 22,28, San Jose Sharks, 5, 1, 0, 1, 4, 28, 16, 155,6, Los Angeles Kings, 4, 1, 2, 2, 1, 25, 13, 134,False
+2015, 10, 22,22, Vancouver Canucks, 6, 2, 2, 2, 2, 24, 19, 177,21, Washington Capitals, 7, 0, 6, 11, 2, 19, 7, 70,False
+2015, 10, 23,26, Buffalo Sabres, 3, 2, 1, 0, 1, 24, 15, 176,10, Montreal Canadiens, 10, 0, 3, 6, 1, 21, 3, 87,False
+2015, 10, 23,27, Calgary Flames, 4, 1, 2, 3, 2, 12, 25, 181,19, Detroit Red Wings, 5, 1, 1, 2, 5, 36, 10, 103,True
+2015, 10, 23,29, Edmonton Oilers, 4, 2, 3, 6, 1, 34, 29, 306,21, Washington Capitals, 7, 0, 3, 6, 2, 25, 7, 76,False
+2015, 10, 23,6, Los Angeles Kings, 4, 1, 4, 5, 1, 23, 13, 150,5, Carolina Hurricanes, 3, 1, 1, 1, 0, 26, 13, 126,True
+2015, 10, 23,14, New York Islanders, 6, 0, 4, 5, 0, 37, 32, 238,0, Boston Bruins, 3, 2, 4, 7, 2, 22, 24, 138,False
+2015, 10, 23,24, Winnipeg Jets, 7, 1, 2, 4, 4, 41, 6, 105,20, Tampa Bay Lightning, 7, 1, 4, 6, 4, 33, 18, 127,False
+2015, 10, 24,26, Buffalo Sabres, 3, 0, 2, 3, 0, 0, 21, 178,15, New Jersey Devils, 3, 2, 4, 8, 4, 39, 17, 151,False
+2015, 10, 24,7, Chicago Blackhawks, 4, 1, 3, 6, 2, 18, 15, 146,20, Tampa Bay Lightning, 7, 1, 4, 7, 0, 0, 17, 130,True
+2015, 10, 24,9, Colorado Avalanche, 5, 1, 0, 0, 1, 19, 9, 112,13, Columbus Blue Jackets, 2, 1, 2, 4, 3, 23, 17, 134,False
+2015, 10, 24,2, Dallas Stars, 9, 2, 4, 4, 2, 26, 24, 255,4, Florida Panthers, 5, 0, 2, 2, 1, 23, 16, 178,False
+2015, 10, 24,8, Minnesota Wild, 6, 0, 3, 5, 2, 29, 16, 136,23, Anaheim Ducks, 3, 2, 1, 2, 2, 24, 19, 173,True
+2015, 10, 24,10, Montreal Canadiens, 10, 2, 7, 13, 0, 38, 4, 102,11, Toronto Maple Leafs, 2, 0, 1, 2, 1, 35, 12, 100,True
+2015, 10, 24,12, Nashville Predators, 6, 1, 5, 10, 1, 28, 9, 161,17, Pittsburgh Penguins, 4, 1, 1, 0, 4, 23, 9, 122,False
+2015, 10, 24,25, Ottawa Senators, 6, 2, 3, 6, 3, 25, 14, 149,30, Arizona Coyotes, 3, 0, 1, 2, 1, 7, 10, 91,False
+2015, 10, 24,16, Philadelphia Flyers, 5, 1, 5, 9, 2, 18, 17, 104,1, New York Rangers, 6, 1, 4, 5, 1, 35, 6, 103,True
+2015, 10, 24,28, San Jose Sharks, 5, 1, 1, 2, 4, 29, 18, 141,5, Carolina Hurricanes, 3, 1, 0, 0, 3, 29, 16, 128,True
+2015, 10, 24,18, St. Louis Blues, 7, 2, 0, 1, 2, 29, 13, 123,14, New York Islanders, 5, 0, 3, 3, 3, 47, 36, 226,False
+2015, 10, 24,22, Vancouver Canucks, 6, 1, 2, 4, 3, 35, 20, 162,19, Detroit Red Wings, 5, 1, 2, 3, 3, 28, 9, 111,False
+2015, 10, 25,29, Edmonton Oilers, 3, 1, 4, 6, 1, 9, 32, 255,6, Los Angeles Kings, 5, 1, 3, 5, 0, 40, 14, 164,False
+2015, 10, 25,1, New York Rangers, 6, 2, 2, 4, 0, 22, 9, 141,27, Calgary Flames, 4, 0, 3, 6, 2, 29, 25, 198,True
+2015, 10, 25,24, Winnipeg Jets, 6, 2, 3, 4, 1, 41, 7, 107,8, Minnesota Wild, 7, 0, 3, 6, 2, 37, 14, 122,True
+2015, 10, 26,7, Chicago Blackhawks, 5, 2, 1, 2, 0, 21, 14, 150,23, Anaheim Ducks, 2, 0, 0, 0, 3, 30, 22, 171,True
+2015, 10, 26,14, New York Islanders, 6, 2, 3, 6, 4, 25, 35, 219,27, Calgary Flames, 3, 0, 1, 2, 0, 5, 22, 173,True
+2015, 10, 26,11, Toronto Maple Leafs, 2, 0, 3, 5, 3, 27, 16, 92,30, Arizona Coyotes, 4, 2, 4, 5, 3, 27, 11, 120,False
+2015, 10, 27,0, Boston Bruins, 3, 2, 5, 7, 5, 37, 25, 142,30, Arizona Coyotes, 5, 0, 4, 7, 3, 27, 11, 120,True
+2015, 10, 27,2, Dallas Stars, 8, 1, 2, 4, 3, 19, 27, 254,23, Anaheim Ducks, 2, 1, 0, 0, 1, 24, 20, 165,True
+2015, 10, 27,19, Detroit Red Wings, 5, 1, 3, 5, 2, 32, 8, 115,5, Carolina Hurricanes, 3, 1, 2, 3, 0, 7, 14, 91,False
+2015, 10, 27,4, Florida Panthers, 6, 1, 6, 10, 3, 27, 17, 190,9, Colorado Avalanche, 5, 1, 3, 5, 2, 40, 12, 129,True
+2015, 10, 27,8, Minnesota Wild, 6, 1, 4, 5, 1, 15, 17, 103,29, Edmonton Oilers, 3, 1, 2, 5, 3, 34, 35, 280,True
+2015, 10, 27,15, New Jersey Devils, 4, 0, 4, 5, 3, 29, 16, 141,13, Columbus Blue Jackets, 2, 2, 4, 6, 3, 34, 17, 166,False
+2015, 10, 27,16, Philadelphia Flyers, 5, 1, 2, 3, 2, 39, 17, 125,26, Buffalo Sabres, 2, 1, 3, 5, 7, 26, 25, 228,False
+2015, 10, 27,18, St. Louis Blues, 7, 2, 2, 3, 3, 36, 10, 120,20, Tampa Bay Lightning, 6, 0, 0, 0, 3, 36, 18, 191,True
+2015, 10, 27,22, Vancouver Canucks, 5, 1, 2, 4, 3, 28, 18, 145,10, Montreal Canadiens, 10, 1, 5, 7, 3, 52, 7, 116,True
+2015, 10, 27,24, Winnipeg Jets, 6, 2, 5, 10, 4, 31, 10, 96,6, Los Angeles Kings, 6, 0, 3, 6, 2, 28, 16, 152,False
+2015, 10, 28,25, Ottawa Senators, 5, 1, 1, 3, 3, 25, 12, 136,27, Calgary Flames, 2, 1, 0, 0, 4, 21, 28, 191,True
+2015, 10, 28,28, San Jose Sharks, 6, 1, 5, 8, 2, 34, 15, 140,12, Nashville Predators, 6, 1, 1, 2, 2, 25, 13, 168,False
+2015, 10, 28,21, Washington Capitals, 8, 1, 7, 14, 2, 25, 9, 74,17, Pittsburgh Penguins, 5, 1, 3, 3, 1, 39, 5, 131,False
+2015, 10, 29,2, Dallas Stars, 8, 2, 4, 7, 3, 20, 27, 255,22, Vancouver Canucks, 5, 0, 5, 5, 1, 26, 16, 143,True
+2015, 10, 29,29, Edmonton Oilers, 3, 2, 3, 8, 4, 28, 38, 284,10, Montreal Canadiens, 9, 0, 1, 3, 5, 28, 9, 92,True
+2015, 10, 29,14, New York Islanders, 6, 1, 4, 7, 2, 40, 27, 230,5, Carolina Hurricanes, 3, 1, 3, 3, 4, 13, 15, 110,False
+2015, 10, 29,16, Philadelphia Flyers, 4, 0, 3, 6, 4, 40, 19, 126,15, New Jersey Devils, 4, 2, 1, 2, 3, 14, 16, 126,False
+2015, 10, 29,17, Pittsburgh Penguins, 6, 2, 3, 4, 1, 17, 6, 115,26, Buffalo Sabres, 3, 0, 3, 5, 3, 33, 22, 236,True
+2015, 10, 29,18, St. Louis Blues, 7, 1, 2, 3, 0, 26, 7, 110,23, Anaheim Ducks, 2, 1, 3, 6, 4, 34, 23, 172,True
+2015, 10, 29,20, Tampa Bay Lightning, 5, 1, 1, 1, 1, 23, 16, 178,9, Colorado Avalanche, 4, 1, 1, 1, 4, 36, 14, 117,False
+2015, 10, 29,24, Winnipeg Jets, 6, 0, 1, 0, 4, 30, 8, 95,7, Chicago Blackhawks, 6, 2, 1, 2, 0, 39, 14, 168,True
+2015, 10, 30,30, Arizona Coyotes, 5, 0, 0, 0, 6, 27, 16, 130,22, Vancouver Canucks, 4, 2, 3, 4, 2, 27, 17, 193,False
+2015, 10, 30,26, Buffalo Sabres, 3, 2, 3, 7, 4, 28, 24, 215,16, Philadelphia Flyers, 4, 0, 1, 2, 2, 12, 18, 118,True
+2015, 10, 30,5, Carolina Hurricanes, 4, 2, 3, 5, 1, 26, 13, 116,9, Colorado Avalanche, 4, 0, 2, 4, 1, 35, 11, 116,True
+2015, 10, 30,27, Calgary Flames, 2, 1, 4, 8, 0, 5, 24, 158,10, Montreal Canadiens, 8, 1, 3, 5, 2, 36, 8, 91,False
+2015, 10, 30,19, Detroit Red Wings, 5, 1, 1, 1, 3, 40, 8, 103,25, Ottawa Senators, 5, 1, 4, 6, 4, 32, 14, 152,False
+2015, 10, 30,4, Florida Panthers, 6, 1, 4, 8, 1, 32, 15, 195,0, Boston Bruins, 4, 1, 6, 11, 0, 24, 17, 132,False
+2015, 10, 30,8, Minnesota Wild, 6, 2, 4, 6, 3, 25, 19, 113,7, Chicago Blackhawks, 6, 0, 1, 2, 4, 24, 17, 160,True
+2015, 10, 30,1, New York Rangers, 6, 1, 4, 6, 2, 48, 10, 129,11, Toronto Maple Leafs, 1, 1, 3, 5, 5, 27, 17, 89,True
+2015, 10, 30,21, Washington Capitals, 7, 1, 1, 1, 2, 24, 10, 97,13, Columbus Blue Jackets, 2, 1, 3, 4, 1, 24, 16, 149,True
+2015, 10, 31,13, Columbus Blue Jackets, 2, 0, 1, 2, 2, 28, 17, 153,24, Winnipeg Jets, 6, 2, 3, 5, 2, 30, 5, 111,False
+2015, 10, 31,2, Dallas Stars, 8, 1, 4, 7, 3, 32, 29, 254,28, San Jose Sharks, 5, 1, 1, 3, 5, 33, 16, 131,True
+2015, 10, 31,29, Edmonton Oilers, 4, 1, 4, 8, 3, 21, 39, 285,27, Calgary Flames, 2, 1, 2, 4, 4, 18, 30, 184,False
+2015, 10, 31,4, Florida Panthers, 5, 1, 2, 2, 2, 35, 17, 193,21, Washington Capitals, 7, 1, 2, 4, 4, 23, 9, 103,False
+2015, 10, 31,6, Los Angeles Kings, 7, 0, 4, 7, 1, 25, 12, 137,12, Nashville Predators, 7, 2, 2, 4, 1, 21, 13, 168,True
+2015, 10, 31,15, New Jersey Devils, 5, 0, 4, 4, 1, 28, 14, 140,14, New York Islanders, 6, 2, 2, 3, 0, 29, 30, 239,True
+2015, 10, 31,25, Ottawa Senators, 5, 2, 3, 4, 4, 38, 11, 150,19, Detroit Red Wings, 4, 0, 1, 2, 2, 20, 7, 97,False
+2015, 10, 31,18, St. Louis Blues, 7, 1, 1, 4, 1, 23, 10, 95,8, Minnesota Wild, 7, 1, 5, 10, 4, 29, 20, 117,True
+2015, 10, 31,20, Tampa Bay Lightning, 4, 2, 1, 2, 2, 26, 18, 164,0, Boston Bruins, 5, 0, 3, 6, 3, 26, 18, 140,False
+2015, 10, 31,11, Toronto Maple Leafs, 1, 0, 1, 2, 2, 25, 14, 87,17, Pittsburgh Penguins, 6, 2, 4, 8, 1, 34, 8, 151,False
+2015, 11, 1,23, Anaheim Ducks, 1, 1, 1, 2, 2, 34, 21, 172,12, Nashville Predators, 7, 1, 4, 5, 3, 41, 15, 173,True
+2015, 11, 1,5, Carolina Hurricanes, 5, 1, 3, 6, 2, 32, 14, 122,20, Tampa Bay Lightning, 3, 1, 1, 2, 3, 28, 18, 171,False
+2015, 11, 1,9, Colorado Avalanche, 3, 0, 2, 4, 3, 26, 13, 107,28, San Jose Sharks, 5, 2, 3, 5, 2, 24, 15, 119,False
+2015, 11, 1,10, Montreal Canadiens, 8, 1, 6, 10, 2, 32, 8, 87,24, Winnipeg Jets, 6, 1, 2, 6, 1, 46, 5, 94,True
+2015, 11, 1,14, New York Islanders, 6, 2, 2, 4, 3, 29, 32, 227,26, Buffalo Sabres, 4, 0, 4, 6, 1, 28, 22, 239,False
+2015, 11, 2,7, Chicago Blackhawks, 6, 1, 4, 6, 3, 31, 19, 153,6, Los Angeles Kings, 7, 1, 4, 6, 3, 34, 17, 155,True
+2015, 11, 2,11, Toronto Maple Leafs, 1, 2, 0, 1, 4, 24, 16, 94,2, Dallas Stars, 8, 0, 5, 9, 3, 29, 29, 251,True
+2015, 11, 2,22, Vancouver Canucks, 4, 2, 3, 6, 4, 29, 21, 193,16, Philadelphia Flyers, 4, 0, 1, 2, 3, 32, 19, 142,True
+2015, 11, 3,0, Boston Bruins, 6, 1, 3, 4, 1, 32, 16, 136,2, Dallas Stars, 8, 1, 1, 2, 3, 11, 30, 248,False
+2015, 11, 3,9, Colorado Avalanche, 3, 1, 3, 6, 3, 31, 13, 112,27, Calgary Flames, 2, 1, 5, 7, 4, 23, 30, 189,True
+2015, 11, 3,19, Detroit Red Wings, 4, 2, 5, 10, 2, 34, 6, 109,20, Tampa Bay Lightning, 3, 0, 4, 6, 2, 33, 18, 178,True
+2015, 11, 3,29, Edmonton Oilers, 4, 1, 4, 8, 6, 17, 40, 293,16, Philadelphia Flyers, 4, 1, 1, 2, 3, 36, 19, 143,True
+2015, 11, 3,10, Montreal Canadiens, 8, 1, 5, 10, 1, 19, 7, 74,25, Ottawa Senators, 4, 1, 3, 3, 5, 28, 12, 143,False
+2015, 11, 3,14, New York Islanders, 6, 1, 1, 1, 2, 17, 27, 237,15, New Jersey Devils, 6, 1, 2, 4, 2, 26, 15, 138,True
+2015, 11, 3,1, New York Rangers, 6, 1, 3, 6, 1, 25, 11, 117,21, Washington Capitals, 8, 1, 2, 4, 1, 30, 6, 119,True
+2015, 11, 3,28, San Jose Sharks, 5, 0, 4, 5, 3, 26, 16, 111,13, Columbus Blue Jackets, 2, 2, 2, 4, 3, 11, 15, 125,False
+2015, 11, 3,18, St. Louis Blues, 7, 1, 4, 3, 2, 31, 10, 110,6, Los Angeles Kings, 7, 1, 2, 5, 1, 40, 19, 142,False
+2015, 11, 4,23, Anaheim Ducks, 2, 0, 4, 7, 2, 42, 21, 180,4, Florida Panthers, 4, 2, 1, 2, 3, 30, 17, 185,True
+2015, 11, 4,7, Chicago Blackhawks, 6, 0, 4, 7, 2, 35, 18, 157,18, St. Louis Blues, 7, 2, 0, 0, 3, 22, 10, 112,False
+2015, 11, 4,11, Toronto Maple Leafs, 2, 1, 4, 8, 1, 44, 13, 114,24, Winnipeg Jets, 5, 1, 1, 2, 1, 17, 7, 53,False
+2015, 11, 4,22, Vancouver Canucks, 5, 2, 4, 7, 1, 28, 17, 209,17, Pittsburgh Penguins, 7, 0, 4, 7, 0, 21, 6, 131,False
+2015, 11, 5,30, Arizona Coyotes, 4, 0, 3, 5, 2, 3, 13, 90,9, Colorado Avalanche, 3, 2, 6, 12, 3, 25, 13, 106,True
+2015, 11, 5,26, Buffalo Sabres, 5, 0, 2, 4, 1, 30, 20, 231,20, Tampa Bay Lightning, 3, 2, 1, 2, 3, 35, 18, 174,False
+2015, 11, 5,27, Calgary Flames, 2, 2, 3, 6, 5, 41, 31, 207,16, Philadelphia Flyers, 4, 0, 2, 4, 3, 48, 19, 155,True
+2015, 11, 5,6, Los Angeles Kings, 8, 2, 3, 6, 4, 26, 18, 126,13, Columbus Blue Jackets, 3, 0, 5, 8, 2, 43, 14, 157,False
+2015, 11, 5,8, Minnesota Wild, 6, 2, 2, 2, 3, 26, 19, 114,12, Nashville Predators, 6, 0, 2, 4, 4, 29, 16, 160,False
+2015, 11, 5,10, Montreal Canadiens, 7, 2, 1, 2, 2, 27, 8, 82,14, New York Islanders, 6, 0, 2, 4, 1, 24, 21, 207,True
+2015, 11, 5,25, Ottawa Senators, 4, 1, 2, 1, 1, 37, 8, 152,24, Winnipeg Jets, 6, 1, 4, 7, 4, 9, 8, 62,True
+2015, 11, 5,28, San Jose Sharks, 4, 0, 2, 3, 0, 2, 13, 84,4, Florida Panthers, 4, 2, 2, 4, 2, 27, 16, 194,True
+2015, 11, 5,21, Washington Capitals, 7, 2, 2, 3, 5, 22, 9, 93,0, Boston Bruins, 6, 0, 3, 5, 5, 19, 16, 104,True
+2015, 11, 6,23, Anaheim Ducks, 3, 1, 2, 4, 2, 25, 21, 163,13, Columbus Blue Jackets, 4, 1, 3, 6, 0, 16, 14, 147,True
+2015, 11, 6,5, Carolina Hurricanes, 5, 1, 3, 5, 2, 19, 16, 121,2, Dallas Stars, 8, 1, 5, 10, 3, 39, 29, 260,False
+2015, 11, 6,9, Colorado Avalanche, 3, 1, 2, 2, 4, 28, 13, 108,1, New York Rangers, 6, 1, 5, 8, 2, 34, 12, 126,False
+2015, 11, 6,29, Edmonton Oilers, 5, 0, 5, 6, 2, 22, 36, 296,17, Pittsburgh Penguins, 8, 2, 3, 6, 3, 53, 8, 130,False
+2015, 11, 6,15, New Jersey Devils, 6, 0, 1, 1, 2, 34, 15, 146,7, Chicago Blackhawks, 5, 2, 5, 5, 6, 29, 22, 151,True
+2015, 11, 6,11, Toronto Maple Leafs, 2, 1, 2, 4, 3, 33, 15, 103,19, Detroit Red Wings, 4, 1, 2, 4, 3, 36, 5, 105,False
+2015, 11, 7,30, Arizona Coyotes, 4, 0, 4, 6, 2, 28, 13, 113,1, New York Rangers, 6, 2, 2, 4, 1, 23, 11, 122,False
+2015, 11, 7,26, Buffalo Sabres, 4, 1, 1, 2, 3, 11, 16, 169,22, Vancouver Canucks, 4, 1, 2, 4, 3, 23, 20, 208,True
+2015, 11, 7,5, Carolina Hurricanes, 5, 1, 1, 2, 4, 31, 17, 130,25, Ottawa Senators, 5, 1, 2, 4, 1, 30, 9, 155,True
+2015, 11, 7,27, Calgary Flames, 3, 0, 2, 4, 1, 27, 25, 198,17, Pittsburgh Penguins, 9, 2, 2, 4, 2, 20, 6, 105,True
+2015, 11, 7,6, Los Angeles Kings, 8, 1, 2, 3, 3, 25, 17, 125,4, Florida Panthers, 3, 1, 2, 2, 2, 39, 18, 198,True
+2015, 11, 7,8, Minnesota Wild, 5, 1, 2, 4, 3, 24, 19, 112,20, Tampa Bay Lightning, 4, 1, 4, 7, 2, 29, 15, 164,True
+2015, 11, 7,10, Montreal Canadiens, 7, 2, 4, 8, 1, 18, 7, 73,0, Boston Bruins, 6, 0, 1, 2, 1, 22, 14, 115,True
+2015, 11, 7,12, Nashville Predators, 6, 1, 3, 1, 2, 29, 11, 165,18, St. Louis Blues, 7, 1, 6, 10, 1, 28, 12, 99,False
+2015, 11, 7,28, San Jose Sharks, 4, 2, 5, 8, 4, 21, 15, 115,23, Anaheim Ducks, 4, 0, 4, 6, 5, 29, 21, 174,False
+2015, 11, 7,24, Winnipeg Jets, 5, 0, 2, 2, 2, 26, 8, 88,16, Philadelphia Flyers, 3, 2, 1, 1, 2, 30, 18, 137,False
+2015, 11, 7,21, Washington Capitals, 8, 2, 4, 6, 1, 29, 3, 98,11, Toronto Maple Leafs, 2, 0, 1, 2, 2, 24, 14, 94,True
+2015, 11, 8,7, Chicago Blackhawks, 5, 1, 2, 4, 3, 13, 15, 135,29, Edmonton Oilers, 5, 1, 1, 2, 5, 32, 33, 314,True
+2015, 11, 8,19, Detroit Red Wings, 4, 2, 1, 5, 1, 30, 5, 112,2, Dallas Stars, 8, 0, 4, 5, 1, 31, 26, 246,False
+2015, 11, 8,15, New Jersey Devils, 7, 1, 4, 5, 1, 18, 15, 141,22, Vancouver Canucks, 3, 1, 2, 2, 3, 22, 22, 203,True
+2015, 11, 8,14, New York Islanders, 5, 0, 1, 2, 3, 23, 21, 215,0, Boston Bruins, 6, 2, 2, 4, 3, 30, 11, 127,False
+2015, 11, 9,23, Anaheim Ducks, 5, 1, 1, 2, 2, 36, 16, 176,30, Arizona Coyotes, 3, 1, 1, 2, 1, 13, 10, 103,False
+2015, 11, 10,13, Columbus Blue Jackets, 4, 1, 2, 3, 2, 33, 17, 164,22, Vancouver Canucks, 3, 1, 3, 5, 1, 27, 23, 209,False
+2015, 11, 10,2, Dallas Stars, 8, 0, 4, 7, 4, 26, 28, 260,11, Toronto Maple Leafs, 1, 2, 1, 3, 2, 31, 14, 101,False
+2015, 11, 10,19, Detroit Red Wings, 4, 0, 2, 2, 0, 2, 5, 73,21, Washington Capitals, 8, 2, 2, 4, 2, 25, 4, 94,True
+2015, 11, 10,4, Florida Panthers, 2, 1, 1, 1, 4, 35, 22, 212,27, Calgary Flames, 4, 1, 5, 8, 2, 25, 26, 196,True
+2015, 11, 10,6, Los Angeles Kings, 8, 1, 4, 7, 1, 19, 12, 115,30, Arizona Coyotes, 4, 1, 4, 5, 3, 17, 12, 126,False
+2015, 11, 10,8, Minnesota Wild, 5, 0, 1, 2, 0, 31, 16, 119,24, Winnipeg Jets, 4, 2, 1, 0, 2, 22, 8, 84,True
+2015, 11, 10,15, New Jersey Devils, 8, 0, 4, 7, 2, 29, 17, 154,18, St. Louis Blues, 7, 2, 4, 5, 0, 45, 10, 120,False
+2015, 11, 10,12, Nashville Predators, 5, 1, 0, 0, 4, 28, 16, 161,25, Ottawa Senators, 4, 1, 2, 4, 2, 40, 10, 167,True
+2015, 11, 10,1, New York Rangers, 7, 2, 4, 6, 1, 30, 10, 135,5, Carolina Hurricanes, 5, 0, 3, 4, 2, 21, 10, 122,True
+2015, 11, 10,16, Philadelphia Flyers, 3, 1, 3, 4, 0, 28, 16, 135,9, Colorado Avalanche, 2, 1, 1, 1, 2, 33, 11, 113,False
+2015, 11, 10,28, San Jose Sharks, 3, 1, 0, 0, 1, 17, 11, 115,14, New York Islanders, 4, 1, 1, 2, 2, 22, 24, 231,False
+2015, 11, 10,20, Tampa Bay Lightning, 3, 2, 0, 0, 1, 31, 16, 183,26, Buffalo Sabres, 5, 0, 3, 6, 0, 10, 20, 233,False
+2015, 11, 11,23, Anaheim Ducks, 4, 2, 3, 5, 4, 28, 18, 168,29, Edmonton Oilers, 4, 0, 2, 4, 2, 33, 35, 307,False
+2015, 11, 11,17, Pittsburgh Penguins, 8, 1, 2, 3, 4, 30, 8, 129,10, Montreal Canadiens, 7, 1, 4, 7, 2, 31, 8, 86,True
+2015, 11, 12,30, Arizona Coyotes, 5, 2, 3, 4, 2, 35, 14, 141,29, Edmonton Oilers, 4, 0, 4, 7, 3, 37, 36, 311,True
+2015, 11, 12,0, Boston Bruins, 6, 1, 2, 5, 1, 37, 10, 155,9, Colorado Avalanche, 3, 1, 4, 8, 0, 25, 9, 105,False
+2015, 11, 12,5, Carolina Hurricanes, 5, 0, 0, 0, 3, 23, 11, 124,8, Minnesota Wild, 6, 2, 5, 9, 3, 28, 19, 116,False
+2015, 11, 12,7, Chicago Blackhawks, 6, 1, 4, 7, 2, 36, 14, 158,15, New Jersey Devils, 7, 1, 0, 0, 2, 28, 17, 153,False
+2015, 11, 12,2, Dallas Stars, 7, 1, 2, 4, 1, 22, 27, 264,24, Winnipeg Jets, 4, 1, 3, 6, 4, 12, 9, 59,True
+2015, 11, 12,4, Florida Panthers, 3, 2, 4, 6, 3, 28, 21, 205,26, Buffalo Sabres, 6, 0, 4, 4, 2, 37, 21, 254,False
+2015, 11, 12,6, Los Angeles Kings, 7, 1, 2, 4, 0, 24, 15, 107,14, New York Islanders, 4, 1, 4, 8, 2, 27, 27, 254,True
+2015, 11, 12,12, Nashville Predators, 6, 2, 7, 11, 5, 26, 16, 170,11, Toronto Maple Leafs, 2, 0, 4, 6, 2, 38, 14, 108,False
+2015, 11, 12,1, New York Rangers, 8, 1, 3, 5, 0, 33, 9, 138,18, St. Louis Blues, 7, 1, 2, 4, 0, 24, 10, 94,True
+2015, 11, 12,25, Ottawa Senators, 4, 1, 6, 8, 3, 46, 15, 165,22, Vancouver Canucks, 4, 1, 4, 10, 4, 28, 24, 211,True
+2015, 11, 12,16, Philadelphia Flyers, 3, 2, 0, 0, 3, 33, 20, 147,21, Washington Capitals, 7, 0, 0, 0, 1, 27, 7, 108,False
+2015, 11, 12,20, Tampa Bay Lightning, 3, 2, 1, 1, 1, 25, 18, 178,27, Calgary Flames, 4, 0, 3, 4, 4, 31, 28, 196,True
+2015, 11, 13,23, Anaheim Ducks, 4, 1, 3, 6, 0, 31, 18, 167,14, New York Islanders, 4, 1, 1, 2, 2, 36, 27, 249,False
+2015, 11, 13,19, Detroit Red Wings, 5, 1, 2, 1, 2, 22, 5, 109,28, San Jose Sharks, 3, 1, 2, 4, 2, 3, 10, 92,False
+2015, 11, 13,17, Pittsburgh Penguins, 8, 1, 3, 6, 3, 35, 5, 98,13, Columbus Blue Jackets, 4, 1, 3, 5, 4, 29, 21, 159,False
+2015, 11, 13,21, Washington Capitals, 7, 1, 5, 9, 1, 27, 8, 101,27, Calgary Flames, 3, 1, 1, 3, 3, 29, 27, 194,False
+2015, 11, 14,0, Boston Bruins, 5, 2, 2, 3, 3, 30, 16, 146,19, Detroit Red Wings, 5, 0, 1, 4, 0, 38, 6, 101,True
+2015, 11, 14,26, Buffalo Sabres, 6, 2, 3, 8, 1, 31, 21, 260,28, San Jose Sharks, 4, 0, 3, 5, 2, 28, 10, 117,False
+2015, 11, 14,5, Carolina Hurricanes, 4, 2, 2, 4, 3, 21, 15, 120,16, Philadelphia Flyers, 2, 0, 2, 2, 5, 32, 22, 146,False
+2015, 11, 14,13, Columbus Blue Jackets, 5, 0, 2, 4, 1, 29, 15, 148,30, Arizona Coyotes, 6, 2, 4, 7, 1, 28, 12, 145,True
+2015, 11, 14,2, Dallas Stars, 7, 1, 6, 12, 3, 38, 30, 288,8, Minnesota Wild, 7, 1, 3, 6, 2, 39, 18, 127,True
+2015, 11, 14,6, Los Angeles Kings, 7, 1, 2, 4, 3, 25, 15, 143,29, Edmonton Oilers, 3, 1, 1, 3, 4, 28, 37, 303,True
+2015, 11, 14,10, Montreal Canadiens, 6, 2, 3, 5, 3, 34, 9, 89,9, Colorado Avalanche, 4, 0, 3, 5, 2, 27, 11, 107,False
+2015, 11, 14,15, New Jersey Devils, 7, 1, 3, 4, 2, 29, 17, 154,17, Pittsburgh Penguins, 7, 1, 1, 2, 0, 3, 4, 91,True
+2015, 11, 14,12, Nashville Predators, 5, 1, 1, 2, 1, 23, 13, 164,24, Winnipeg Jets, 4, 1, 3, 6, 1, 16, 9, 79,True
+2015, 11, 14,25, Ottawa Senators, 5, 1, 3, 5, 7, 38, 14, 160,1, New York Rangers, 9, 1, 6, 12, 3, 34, 12, 139,False
+2015, 11, 14,18, St. Louis Blues, 6, 2, 3, 4, 3, 5, 11, 76,7, Chicago Blackhawks, 5, 0, 2, 4, 3, 22, 15, 144,False
+2015, 11, 14,20, Tampa Bay Lightning, 3, 2, 3, 4, 1, 31, 18, 184,4, Florida Panthers, 3, 0, 2, 4, 3, 19, 21, 196,False
+2015, 11, 14,11, Toronto Maple Leafs, 3, 1, 1, 2, 1, 22, 13, 92,22, Vancouver Canucks, 4, 1, 2, 3, 3, 25, 22, 209,True
+2015, 11, 15,7, Chicago Blackhawks, 5, 2, 4, 7, 1, 13, 14, 153,27, Calgary Flames, 4, 0, 3, 5, 2, 36, 25, 214,True
+2015, 11, 15,1, New York Rangers, 9, 2, 1, 2, 1, 40, 10, 128,11, Toronto Maple Leafs, 4, 0, 4, 8, 4, 32, 14, 115,True
+2015, 11, 16,5, Carolina Hurricanes, 4, 0, 2, 4, 3, 28, 15, 118,23, Anaheim Ducks, 4, 2, 1, 2, 4, 29, 22, 165,False
+2015, 11, 16,4, Florida Panthers, 4, 1, 4, 6, 4, 28, 22, 205,20, Tampa Bay Lightning, 3, 1, 3, 6, 3, 26, 21, 176,True
+2015, 11, 16,10, Montreal Canadiens, 5, 1, 1, 2, 4, 11, 10, 61,22, Vancouver Canucks, 4, 1, 1, 3, 3, 45, 19, 226,True
+2015, 11, 16,14, New York Islanders, 4, 2, 4, 8, 2, 22, 27, 239,30, Arizona Coyotes, 6, 0, 2, 4, 3, 36, 17, 135,True
+2015, 11, 16,25, Ottawa Senators, 5, 1, 1, 2, 1, 34, 11, 148,19, Detroit Red Wings, 5, 1, 2, 2, 3, 14, 9, 94,False
+2015, 11, 16,18, St. Louis Blues, 6, 1, 2, 4, 3, 26, 11, 108,24, Winnipeg Jets, 3, 1, 0, 0, 3, 7, 11, 65,True
+2015, 11, 17,0, Boston Bruins, 6, 1, 3, 6, 1, 23, 12, 136,28, San Jose Sharks, 5, 1, 2, 4, 1, 31, 9, 120,False
+2015, 11, 17,26, Buffalo Sabres, 6, 1, 1, 2, 2, 38, 24, 271,2, Dallas Stars, 8, 1, 3, 6, 3, 30, 30, 269,False
+2015, 11, 17,13, Columbus Blue Jackets, 6, 2, 5, 10, 2, 29, 16, 148,18, St. Louis Blues, 7, 0, 3, 5, 2, 16, 10, 100,True
+2015, 11, 17,27, Calgary Flames, 4, 2, 1, 2, 3, 40, 26, 218,15, New Jersey Devils, 7, 0, 4, 8, 0, 21, 15, 146,True
+2015, 11, 17,12, Nashville Predators, 5, 1, 7, 14, 0, 20, 12, 161,23, Anaheim Ducks, 5, 1, 4, 8, 4, 27, 19, 161,True
+2015, 11, 17,16, Philadelphia Flyers, 2, 2, 3, 6, 2, 21, 19, 135,6, Los Angeles Kings, 7, 0, 4, 5, 3, 25, 18, 139,False
+2015, 11, 17,17, Pittsburgh Penguins, 7, 2, 0, 0, 2, 28, 8, 125,8, Minnesota Wild, 6, 0, 2, 3, 3, 36, 19, 124,True
+2015, 11, 17,11, Toronto Maple Leafs, 4, 1, 3, 4, 2, 45, 14, 113,9, Colorado Avalanche, 5, 1, 5, 8, 1, 40, 10, 120,True
+2015, 11, 18,19, Detroit Red Wings, 5, 1, 4, 6, 3, 31, 9, 105,21, Washington Capitals, 6, 1, 2, 4, 2, 20, 10, 103,False
+2015, 11, 18,29, Edmonton Oilers, 3, 0, 3, 5, 4, 21, 38, 296,7, Chicago Blackhawks, 5, 2, 4, 7, 2, 31, 16, 152,False
+2015, 11, 18,24, Winnipeg Jets, 3, 1, 2, 3, 4, 27, 11, 86,22, Vancouver Canucks, 3, 1, 4, 6, 4, 40, 23, 226,True
+2015, 11, 19,0, Boston Bruins, 5, 1, 4, 7, 3, 32, 15, 127,8, Minnesota Wild, 5, 1, 3, 7, 4, 29, 20, 117,True
+2015, 11, 19,4, Florida Panthers, 4, 1, 1, 2, 0, 39, 19, 207,23, Anaheim Ducks, 5, 1, 2, 4, 3, 10, 17, 130,False
+2015, 11, 19,10, Montreal Canadiens, 5, 1, 4, 6, 3, 26, 9, 76,30, Arizona Coyotes, 5, 1, 2, 3, 5, 21, 19, 132,False
+2015, 11, 19,25, Ottawa Senators, 5, 1, 3, 4, 4, 37, 14, 151,13, Columbus Blue Jackets, 6, 1, 3, 6, 3, 33, 15, 158,True
+2015, 11, 19,16, Philadelphia Flyers, 2, 0, 2, 4, 2, 40, 19, 154,28, San Jose Sharks, 5, 2, 5, 10, 4, 29, 10, 113,False
+2015, 11, 19,17, Pittsburgh Penguins, 7, 1, 4, 7, 3, 29, 9, 126,9, Colorado Avalanche, 5, 1, 1, 3, 4, 26, 11, 102,True
+2015, 11, 19,18, St. Louis Blues, 6, 2, 1, 2, 2, 18, 10, 121,26, Buffalo Sabres, 6, 0, 1, 2, 2, 28, 23, 254,True
+2015, 11, 19,20, Tampa Bay Lightning, 3, 2, 0, 0, 4, 23, 20, 165,1, New York Rangers, 9, 0, 4, 7, 1, 23, 12, 114,True
+2015, 11, 19,21, Washington Capitals, 6, 0, 2, 4, 3, 29, 9, 109,2, Dallas Stars, 8, 2, 3, 6, 2, 24, 28, 264,False
+2015, 11, 20,5, Carolina Hurricanes, 4, 2, 1, 2, 3, 19, 11, 91,11, Toronto Maple Leafs, 5, 0, 5, 9, 1, 35, 13, 103,False
+2015, 11, 20,13, Columbus Blue Jackets, 5, 0, 0, 0, 1, 20, 13, 134,12, Nashville Predators, 5, 2, 3, 3, 2, 40, 15, 183,True
+2015, 11, 20,27, Calgary Flames, 5, 0, 3, 6, 2, 20, 28, 188,7, Chicago Blackhawks, 5, 2, 4, 8, 1, 26, 17, 158,True
+2015, 11, 20,19, Detroit Red Wings, 5, 1, 1, 1, 2, 27, 7, 95,6, Los Angeles Kings, 7, 1, 2, 4, 1, 32, 13, 157,True
+2015, 11, 20,29, Edmonton Oilers, 3, 1, 3, 6, 4, 27, 38, 311,15, New Jersey Devils, 6, 1, 2, 4, 3, 31, 18, 155,True
+2015, 11, 20,14, New York Islanders, 4, 0, 5, 8, 2, 33, 24, 249,10, Montreal Canadiens, 5, 2, 2, 4, 4, 27, 9, 70,False
+2015, 11, 21,0, Boston Bruins, 5, 1, 4, 7, 5, 28, 14, 121,11, Toronto Maple Leafs, 6, 1, 1, 2, 1, 34, 13, 102,True
+2015, 11, 21,2, Dallas Stars, 8, 2, 3, 4, 1, 25, 30, 272,26, Buffalo Sabres, 5, 0, 2, 4, 2, 32, 25, 252,True
+2015, 11, 21,4, Florida Panthers, 3, 0, 1, 2, 2, 40, 21, 208,1, New York Rangers, 9, 2, 1, 0, 2, 28, 13, 119,False
+2015, 11, 21,8, Minnesota Wild, 5, 1, 2, 4, 4, 38, 20, 126,12, Nashville Predators, 5, 1, 0, 0, 3, 17, 16, 160,True
+2015, 11, 21,25, Ottawa Senators, 5, 2, 3, 5, 0, 25, 7, 137,16, Philadelphia Flyers, 2, 0, 0, 0, 1, 21, 18, 135,True
+2015, 11, 21,17, Pittsburgh Penguins, 7, 1, 4, 7, 3, 31, 9, 119,28, San Jose Sharks, 6, 1, 1, 3, 0, 34, 5, 106,False
+2015, 11, 21,18, St. Louis Blues, 6, 0, 2, 5, 2, 34, 11, 115,19, Detroit Red Wings, 6, 2, 3, 4, 3, 25, 7, 105,False
+2015, 11, 21,20, Tampa Bay Lightning, 4, 2, 2, 2, 1, 21, 17, 163,23, Anaheim Ducks, 6, 0, 3, 5, 1, 25, 15, 145,True
+2015, 11, 21,22, Vancouver Canucks, 3, 1, 1, 5, 3, 33, 27, 211,7, Chicago Blackhawks, 5, 1, 1, 2, 3, 37, 18, 169,True
+2015, 11, 21,24, Winnipeg Jets, 3, 1, 4, 8, 1, 30, 8, 89,30, Arizona Coyotes, 5, 1, 3, 2, 4, 31, 12, 129,True
+2015, 11, 21,21, Washington Capitals, 6, 2, 2, 5, 1, 26, 9, 111,9, Colorado Avalanche, 4, 0, 3, 5, 4, 30, 11, 106,True
+2015, 11, 22,5, Carolina Hurricanes, 3, 0, 1, 2, 1, 25, 9, 97,6, Los Angeles Kings, 6, 2, 2, 4, 2, 38, 16, 159,True
+2015, 11, 22,13, Columbus Blue Jackets, 6, 2, 4, 8, 0, 39, 15, 163,28, San Jose Sharks, 7, 0, 3, 5, 1, 21, 6, 111,False
+2015, 11, 22,10, Montreal Canadiens, 6, 2, 5, 7, 3, 36, 8, 79,14, New York Islanders, 4, 0, 3, 5, 1, 16, 26, 218,True
+2015, 11, 22,22, Vancouver Canucks, 3, 0, 6, 12, 4, 36, 27, 207,15, New Jersey Devils, 6, 2, 1, 2, 3, 30, 19, 150,False
+2015, 11, 23,26, Buffalo Sabres, 5, 0, 0, 0, 2, 29, 22, 219,18, St. Louis Blues, 5, 2, 3, 5, 4, 32, 13, 113,False
+2015, 11, 23,4, Florida Panthers, 3, 1, 4, 8, 4, 31, 23, 185,6, Los Angeles Kings, 5, 1, 3, 2, 4, 21, 15, 121,False
+2015, 11, 23,1, New York Rangers, 9, 1, 5, 9, 4, 43, 15, 134,12, Nashville Predators, 4, 1, 0, 0, 4, 27, 13, 155,True
+2015, 11, 23,16, Philadelphia Flyers, 2, 1, 0, 0, 4, 40, 21, 145,5, Carolina Hurricanes, 3, 1, 4, 7, 3, 19, 11, 101,True
+2015, 11, 23,11, Toronto Maple Leafs, 5, 0, 0, 0, 1, 36, 13, 104,0, Boston Bruins, 5, 2, 2, 4, 0, 22, 10, 115,False
+2015, 11, 23,24, Winnipeg Jets, 3, 1, 3, 3, 0, 7, 3, 38,9, Colorado Avalanche, 4, 1, 3, 6, 3, 27, 13, 104,False
+2015, 11, 23,21, Washington Capitals, 6, 1, 7, 12, 3, 27, 9, 105,29, Edmonton Oilers, 4, 1, 5, 7, 1, 20, 31, 289,True
+2015, 11, 24,23, Anaheim Ducks, 5, 1, 0, 0, 0, 11, 19, 144,27, Calgary Flames, 6, 1, 2, 2, 1, 19, 27, 168,True
+2015, 11, 24,2, Dallas Stars, 8, 2, 3, 6, 0, 22, 25, 240,25, Ottawa Senators, 5, 0, 4, 7, 0, 36, 6, 157,False
+2015, 11, 25,30, Arizona Coyotes, 5, 2, 1, 6, 2, 33, 11, 121,23, Anaheim Ducks, 5, 0, 5, 10, 1, 20, 19, 136,True
+2015, 11, 25,26, Buffalo Sabres, 4, 0, 1, 0, 2, 26, 20, 209,12, Nashville Predators, 4, 2, 0, 0, 4, 28, 12, 147,False
+2015, 11, 25,5, Carolina Hurricanes, 2, 1, 2, 4, 3, 29, 13, 112,29, Edmonton Oilers, 3, 1, 0, 0, 1, 30, 31, 299,True
+2015, 11, 25,9, Colorado Avalanche, 5, 1, 4, 8, 1, 21, 11, 98,25, Ottawa Senators, 6, 1, 7, 6, 4, 37, 10, 158,False
+2015, 11, 25,19, Detroit Red Wings, 6, 0, 4, 8, 2, 37, 7, 113,0, Boston Bruins, 5, 2, 3, 3, 2, 26, 12, 109,False
+2015, 11, 25,8, Minnesota Wild, 5, 1, 4, 8, 0, 23, 16, 111,22, Vancouver Canucks, 2, 1, 2, 3, 3, 29, 22, 210,False
+2015, 11, 25,15, New Jersey Devils, 6, 0, 3, 6, 2, 38, 18, 158,13, Columbus Blue Jackets, 6, 2, 3, 5, 4, 28, 19, 152,False
+2015, 11, 25,14, New York Islanders, 4, 1, 2, 4, 3, 11, 25, 207,16, Philadelphia Flyers, 3, 1, 3, 5, 4, 31, 19, 138,True
+2015, 11, 25,1, New York Rangers, 9, 0, 3, 4, 0, 31, 11, 122,10, Montreal Canadiens, 6, 2, 4, 6, 2, 23, 7, 66,False
+2015, 11, 25,17, Pittsburgh Penguins, 6, 1, 1, 2, 3, 29, 11, 127,18, St. Louis Blues, 6, 1, 2, 2, 1, 25, 8, 113,True
+2015, 11, 25,28, San Jose Sharks, 7, 1, 5, 6, 1, 39, 15, 125,7, Chicago Blackhawks, 5, 1, 3, 5, 5, 19, 15, 130,False
+2015, 11, 25,20, Tampa Bay Lightning, 5, 0, 5, 8, 0, 30, 15, 164,6, Los Angeles Kings, 6, 2, 3, 6, 1, 34, 15, 120,True
+2015, 11, 25,21, Washington Capitals, 6, 1, 1, 2, 0, 33, 6, 111,24, Winnipeg Jets, 3, 1, 1, 2, 3, 28, 6, 59,True
+2015, 11, 27,23, Anaheim Ducks, 4, 0, 2, 4, 3, 33, 21, 149,7, Chicago Blackhawks, 5, 2, 5, 7, 2, 29, 12, 140,False
+2015, 11, 27,30, Arizona Coyotes, 6, 0, 4, 5, 2, 31, 14, 124,27, Calgary Flames, 5, 2, 3, 6, 4, 31, 27, 182,True
+2015, 11, 27,0, Boston Bruins, 6, 1, 3, 7, 3, 42, 12, 117,1, New York Rangers, 8, 1, 1, 2, 5, 24, 13, 90,True
+2015, 11, 27,26, Buffalo Sabres, 3, 1, 2, 4, 0, 12, 17, 175,5, Carolina Hurricanes, 3, 1, 4, 7, 1, 31, 11, 114,True
+2015, 11, 27,13, Columbus Blue Jackets, 6, 2, 2, 4, 1, 28, 14, 156,17, Pittsburgh Penguins, 6, 0, 4, 7, 3, 32, 11, 130,True
+2015, 11, 27,2, Dallas Stars, 8, 2, 4, 5, 5, 16, 29, 202,22, Vancouver Canucks, 3, 0, 3, 5, 2, 33, 19, 172,True
+2015, 11, 27,19, Detroit Red Wings, 5, 1, 2, 4, 3, 33, 8, 106,29, Edmonton Oilers, 3, 1, 1, 1, 4, 28, 36, 300,True
+2015, 11, 27,4, Florida Panthers, 3, 2, 1, 2, 2, 23, 17, 155,14, New York Islanders, 5, 0, 3, 4, 1, 18, 24, 230,True
+2015, 11, 27,8, Minnesota Wild, 4, 1, 2, 4, 3, 28, 19, 116,24, Winnipeg Jets, 2, 1, 3, 6, 0, 0, 8, 65,False
+2015, 11, 27,15, New Jersey Devils, 5, 1, 1, 2, 2, 25, 18, 145,10, Montreal Canadiens, 6, 1, 5, 7, 0, 11, 3, 57,False
+2015, 11, 27,16, Philadelphia Flyers, 3, 1, 1, 2, 2, 33, 17, 142,12, Nashville Predators, 5, 1, 3, 5, 3, 19, 13, 157,True
+2015, 11, 27,21, Washington Capitals, 7, 2, 5, 9, 3, 26, 9, 106,20, Tampa Bay Lightning, 5, 0, 1, 2, 1, 20, 16, 172,True
+2015, 11, 28,30, Arizona Coyotes, 6, 1, 2, 3, 3, 23, 13, 120,25, Ottawa Senators, 6, 1, 5, 8, 3, 43, 10, 172,True
+2015, 11, 28,9, Colorado Avalanche, 4, 2, 3, 4, 3, 15, 10, 94,24, Winnipeg Jets, 3, 0, 3, 5, 5, 34, 9, 80,True
+2015, 11, 28,6, Los Angeles Kings, 5, 0, 1, 2, 1, 30, 15, 116,7, Chicago Blackhawks, 6, 2, 3, 6, 2, 37, 12, 136,True
+2015, 11, 28,8, Minnesota Wild, 4, 1, 0, 2, 4, 18, 19, 117,2, Dallas Stars, 8, 1, 2, 4, 2, 36, 26, 237,False
+2015, 11, 28,10, Montreal Canadiens, 7, 1, 2, 3, 2, 27, 5, 73,15, New Jersey Devils, 5, 1, 2, 4, 2, 27, 18, 147,False
+2015, 11, 28,12, Nashville Predators, 4, 2, 2, 4, 0, 0, 13, 174,26, Buffalo Sabres, 4, 0, 4, 5, 1, 28, 18, 200,False
+2015, 11, 28,1, New York Rangers, 7, 0, 3, 5, 0, 1, 12, 104,16, Philadelphia Flyers, 4, 2, 3, 6, 2, 35, 17, 144,False
+2015, 11, 28,17, Pittsburgh Penguins, 5, 2, 1, 1, 4, 37, 10, 141,29, Edmonton Oilers, 2, 0, 3, 4, 3, 26, 36, 305,False
+2015, 11, 28,28, San Jose Sharks, 7, 0, 2, 4, 4, 25, 16, 121,27, Calgary Flames, 5, 2, 1, 2, 4, 18, 25, 172,True
+2015, 11, 28,18, St. Louis Blues, 5, 0, 3, 6, 4, 34, 12, 131,13, Columbus Blue Jackets, 6, 2, 2, 3, 1, 25, 12, 142,True
+2015, 11, 28,20, Tampa Bay Lightning, 5, 0, 2, 3, 1, 38, 19, 204,14, New York Islanders, 4, 2, 2, 4, 3, 26, 24, 257,False
+2015, 11, 28,11, Toronto Maple Leafs, 5, 0, 3, 6, 4, 30, 15, 97,21, Washington Capitals, 7, 2, 4, 8, 2, 34, 8, 114,False
+2015, 11, 29,19, Detroit Red Wings, 5, 1, 4, 7, 3, 22, 8, 97,4, Florida Panthers, 4, 1, 2, 3, 2, 25, 17, 157,False
+2015, 11, 30,23, Anaheim Ducks, 3, 0, 2, 4, 3, 32, 22, 159,22, Vancouver Canucks, 3, 2, 2, 3, 2, 25, 18, 177,True
+2015, 11, 30,14, New York Islanders, 5, 1, 3, 4, 2, 31, 23, 262,9, Colorado Avalanche, 5, 1, 5, 8, 3, 28, 10, 107,True
+2015, 11, 30,1, New York Rangers, 6, 2, 0, 0, 4, 34, 14, 136,5, Carolina Hurricanes, 3, 0, 1, 2, 3, 14, 11, 68,True
+2015, 11, 30,11, Toronto Maple Leafs, 5, 1, 2, 3, 0, 0, 15, 90,29, Edmonton Oilers, 3, 1, 2, 4, 2, 41, 35, 320,True
+2015, 12, 1,27, Calgary Flames, 4, 1, 2, 3, 2, 21, 26, 183,2, Dallas Stars, 8, 1, 4, 7, 3, 26, 27, 227,True
+2015, 12, 1,7, Chicago Blackhawks, 6, 0, 2, 3, 2, 25, 15, 167,8, Minnesota Wild, 4, 2, 4, 5, 3, 29, 19, 143,False
+2015, 12, 1,19, Detroit Red Wings, 5, 2, 1, 0, 2, 32, 7, 107,26, Buffalo Sabres, 4, 0, 4, 7, 3, 8, 20, 205,True
+2015, 12, 1,6, Los Angeles Kings, 6, 0, 3, 4, 2, 22, 14, 103,22, Vancouver Canucks, 3, 2, 0, 0, 0, 1, 17, 160,True
+2015, 12, 1,10, Montreal Canadiens, 6, 2, 2, 4, 3, 31, 6, 77,13, Columbus Blue Jackets, 6, 0, 1, 2, 2, 31, 13, 148,True
+2015, 12, 1,15, New Jersey Devils, 5, 0, 3, 5, 2, 32, 18, 152,9, Colorado Avalanche, 5, 2, 4, 2, 1, 13, 11, 106,False
+2015, 12, 1,12, Nashville Predators, 4, 2, 1, 1, 3, 36, 14, 199,30, Arizona Coyotes, 7, 0, 4, 6, 1, 26, 11, 137,True
+2015, 12, 1,25, Ottawa Senators, 5, 2, 3, 6, 4, 19, 13, 132,16, Philadelphia Flyers, 4, 0, 3, 4, 0, 24, 15, 133,False
+2015, 12, 1,28, San Jose Sharks, 7, 1, 5, 10, 2, 27, 14, 131,17, Pittsburgh Penguins, 4, 1, 2, 3, 2, 43, 8, 142,False
+2015, 12, 1,18, St. Louis Blues, 5, 2, 3, 4, 1, 24, 9, 121,4, Florida Panthers, 5, 0, 2, 4, 1, 29, 15, 179,False
+2015, 12, 2,23, Anaheim Ducks, 4, 0, 4, 6, 0, 25, 19, 152,20, Tampa Bay Lightning, 4, 2, 2, 4, 3, 22, 21, 188,False
+2015, 12, 2,29, Edmonton Oilers, 3, 1, 0, 0, 2, 25, 33, 306,0, Boston Bruins, 7, 1, 4, 5, 3, 27, 13, 119,True
+2015, 12, 2,14, New York Islanders, 6, 0, 5, 5, 2, 27, 24, 258,1, New York Rangers, 6, 2, 4, 5, 3, 36, 13, 138,True
+2015, 12, 2,24, Winnipeg Jets, 3, 1, 3, 5, 1, 15, 8, 70,11, Toronto Maple Leafs, 6, 1, 3, 5, 0, 24, 15, 114,True
+2015, 12, 3,5, Carolina Hurricanes, 2, 1, 3, 5, 1, 7, 12, 76,15, New Jersey Devils, 4, 1, 1, 1, 4, 26, 18, 145,False
+2015, 12, 3,19, Detroit Red Wings, 5, 1, 4, 8, 3, 24, 9, 107,30, Arizona Coyotes, 6, 1, 2, 4, 4, 40, 14, 151,True
+2015, 12, 3,8, Minnesota Wild, 4, 2, 2, 4, 1, 31, 17, 145,11, Toronto Maple Leafs, 5, 0, 1, 2, 3, 29, 21, 125,True
+2015, 12, 3,10, Montreal Canadiens, 6, 1, 2, 4, 1, 23, 4, 69,21, Washington Capitals, 7, 1, 4, 6, 2, 34, 8, 114,False
+2015, 12, 3,12, Nashville Predators, 4, 2, 5, 8, 2, 15, 12, 175,4, Florida Panthers, 6, 0, 3, 2, 1, 30, 15, 180,False
+2015, 12, 3,1, New York Rangers, 5, 2, 1, 2, 2, 33, 11, 139,9, Colorado Avalanche, 5, 0, 2, 2, 4, 27, 11, 121,False
+2015, 12, 3,25, Ottawa Senators, 5, 0, 2, 3, 3, 32, 10, 156,7, Chicago Blackhawks, 5, 2, 1, 1, 2, 36, 15, 163,True
+2015, 12, 3,22, Vancouver Canucks, 2, 0, 1, 2, 4, 29, 23, 216,2, Dallas Stars, 7, 2, 3, 3, 1, 3, 26, 223,False
+2015, 12, 4,23, Anaheim Ducks, 4, 1, 1, 2, 2, 22, 21, 149,28, San Jose Sharks, 7, 1, 1, 2, 4, 28, 16, 132,True
+2015, 12, 4,26, Buffalo Sabres, 3, 1, 4, 8, 1, 29, 19, 237,30, Arizona Coyotes, 5, 1, 1, 2, 3, 16, 11, 114,True
+2015, 12, 4,13, Columbus Blue Jackets, 6, 1, 1, 1, 2, 26, 15, 144,4, Florida Panthers, 6, 1, 2, 3, 1, 9, 15, 183,False
+2015, 12, 4,27, Calgary Flames, 4, 2, 3, 4, 3, 29, 27, 206,0, Boston Bruins, 7, 0, 2, 4, 2, 34, 13, 119,True
+2015, 12, 4,29, Edmonton Oilers, 3, 1, 2, 4, 2, 40, 32, 318,2, Dallas Stars, 8, 1, 4, 5, 3, 32, 27, 236,True
+2015, 12, 4,15, New Jersey Devils, 5, 2, 5, 8, 2, 25, 15, 150,16, Philadelphia Flyers, 5, 0, 4, 7, 2, 35, 17, 134,False
+2015, 12, 4,14, New York Islanders, 6, 1, 1, 2, 3, 28, 24, 242,18, St. Louis Blues, 4, 1, 1, 2, 0, 8, 8, 90,True
+2015, 12, 5,5, Carolina Hurricanes, 2, 0, 1, 2, 4, 22, 16, 96,10, Montreal Canadiens, 6, 2, 2, 4, 3, 19, 6, 65,True
+2015, 12, 5,19, Detroit Red Wings, 6, 2, 5, 7, 4, 32, 8, 87,12, Nashville Predators, 4, 0, 1, 2, 2, 16, 12, 176,True
+2015, 12, 5,6, Los Angeles Kings, 6, 0, 2, 3, 1, 16, 12, 96,17, Pittsburgh Penguins, 5, 2, 5, 9, 1, 34, 5, 137,True
+2015, 12, 5,8, Minnesota Wild, 4, 1, 1, 2, 0, 28, 16, 142,9, Colorado Avalanche, 5, 1, 2, 4, 1, 25, 8, 119,True
+2015, 12, 5,25, Ottawa Senators, 6, 1, 4, 7, 3, 38, 10, 162,14, New York Islanders, 7, 1, 1, 2, 1, 34, 22, 246,True
+2015, 12, 5,16, Philadelphia Flyers, 6, 0, 4, 7, 2, 25, 18, 117,13, Columbus Blue Jackets, 5, 2, 1, 2, 1, 32, 14, 150,False
+2015, 12, 5,28, San Jose Sharks, 7, 1, 0, 0, 3, 31, 10, 126,20, Tampa Bay Lightning, 5, 1, 2, 4, 1, 33, 18, 189,False
+2015, 12, 5,18, St. Louis Blues, 4, 2, 1, 2, 3, 15, 11, 102,11, Toronto Maple Leafs, 4, 0, 0, 0, 6, 35, 19, 124,False
+2015, 12, 5,22, Vancouver Canucks, 2, 2, 2, 3, 2, 40, 24, 220,0, Boston Bruins, 6, 0, 4, 6, 2, 26, 14, 86,False
+2015, 12, 5,24, Winnipeg Jets, 4, 1, 6, 11, 1, 33, 8, 102,21, Washington Capitals, 8, 1, 3, 5, 2, 35, 9, 98,True
+2015, 12, 6,23, Anaheim Ducks, 5, 0, 1, 2, 0, 23, 19, 150,17, Pittsburgh Penguins, 4, 2, 3, 6, 4, 36, 8, 139,True
+2015, 12, 6,5, Carolina Hurricanes, 3, 2, 3, 6, 2, 38, 14, 112,30, Arizona Coyotes, 4, 0, 2, 2, 2, 28, 12, 108,True
+2015, 12, 6,7, Chicago Blackhawks, 5, 1, 3, 6, 4, 27, 17, 154,24, Winnipeg Jets, 5, 1, 2, 4, 4, 24, 8, 107,True
+2015, 12, 6,29, Edmonton Oilers, 4, 2, 2, 2, 1, 43, 31, 304,26, Buffalo Sabres, 3, 0, 5, 9, 2, 20, 24, 201,True
+2015, 12, 6,6, Los Angeles Kings, 7, 1, 5, 7, 3, 20, 14, 100,20, Tampa Bay Lightning, 6, 1, 3, 5, 1, 8, 19, 143,True
+2015, 12, 6,15, New Jersey Devils, 4, 1, 3, 5, 4, 25, 17, 150,4, Florida Panthers, 7, 1, 1, 3, 1, 33, 17, 179,True
+2015, 12, 6,1, New York Rangers, 4, 1, 1, 2, 1, 37, 11, 124,25, Ottawa Senators, 6, 1, 3, 4, 2, 31, 9, 140,True
+2015, 12, 7,0, Boston Bruins, 7, 1, 4, 7, 3, 11, 14, 85,12, Nashville Predators, 3, 1, 4, 6, 2, 32, 15, 179,False
+2015, 12, 7,9, Colorado Avalanche, 4, 0, 0, 0, 2, 43, 9, 137,8, Minnesota Wild, 4, 2, 3, 5, 0, 9, 12, 90,True
+2015, 12, 7,22, Vancouver Canucks, 2, 0, 0, 0, 3, 33, 27, 198,26, Buffalo Sabres, 3, 2, 2, 4, 4, 46, 26, 209,True
+2015, 12, 8,13, Columbus Blue Jackets, 5, 1, 4, 6, 1, 28, 16, 155,6, Los Angeles Kings, 7, 1, 3, 5, 1, 25, 12, 105,False
+2015, 12, 8,27, Calgary Flames, 5, 1, 5, 9, 4, 38, 28, 215,28, San Jose Sharks, 6, 1, 3, 4, 1, 26, 11, 115,True
+2015, 12, 8,7, Chicago Blackhawks, 5, 2, 3, 6, 1, 31, 14, 143,12, Nashville Predators, 3, 0, 3, 4, 5, 36, 15, 164,True
+2015, 12, 8,2, Dallas Stars, 7, 2, 1, 2, 2, 16, 29, 218,5, Carolina Hurricanes, 4, 0, 5, 8, 4, 23, 16, 97,True
+2015, 12, 8,4, Florida Panthers, 6, 1, 2, 4, 4, 18, 20, 164,25, Ottawa Senators, 6, 1, 1, 1, 3, 30, 10, 139,False
+2015, 12, 8,16, Philadelphia Flyers, 5, 1, 1, 2, 4, 34, 20, 126,14, New York Islanders, 6, 1, 2, 2, 3, 29, 27, 240,False
+2015, 12, 8,18, St. Louis Blues, 4, 2, 1, 2, 4, 29, 11, 108,30, Arizona Coyotes, 4, 0, 4, 6, 4, 27, 15, 98,True
+2015, 12, 8,11, Toronto Maple Leafs, 4, 0, 4, 8, 1, 28, 14, 117,15, New Jersey Devils, 4, 2, 4, 6, 2, 36, 15, 161,True
+2015, 12, 8,21, Washington Capitals, 7, 1, 1, 2, 2, 36, 6, 97,19, Detroit Red Wings, 7, 1, 5, 8, 1, 27, 8, 109,True
+2015, 12, 9,9, Colorado Avalanche, 5, 1, 2, 5, 1, 28, 8, 114,17, Pittsburgh Penguins, 4, 1, 1, 2, 2, 25, 6, 128,False
+2015, 12, 9,29, Edmonton Oilers, 5, 1, 4, 7, 2, 34, 32, 295,28, San Jose Sharks, 5, 1, 2, 4, 3, 14, 8, 78,True
+2015, 12, 9,10, Montreal Canadiens, 6, 2, 2, 4, 3, 29, 6, 75,0, Boston Bruins, 6, 0, 2, 4, 0, 17, 14, 107,False
+2015, 12, 9,22, Vancouver Canucks, 3, 1, 5, 10, 2, 34, 22, 189,1, New York Rangers, 4, 1, 4, 6, 1, 24, 11, 111,True
+2015, 12, 10,27, Calgary Flames, 6, 1, 4, 7, 5, 29, 29, 215,26, Buffalo Sabres, 3, 1, 2, 2, 4, 28, 22, 192,True
+2015, 12, 10,19, Detroit Red Wings, 6, 0, 2, 3, 4, 32, 9, 122,10, Montreal Canadiens, 5, 2, 1, 1, 2, 13, 6, 69,True
+2015, 12, 10,4, Florida Panthers, 5, 0, 2, 4, 1, 23, 19, 168,21, Washington Capitals, 8, 2, 2, 4, 3, 31, 6, 84,True
+2015, 12, 10,12, Nashville Predators, 3, 0, 1, 1, 3, 23, 13, 151,7, Chicago Blackhawks, 5, 2, 4, 6, 3, 36, 14, 149,True
+2015, 12, 10,18, St. Louis Blues, 4, 1, 4, 7, 0, 0, 8, 102,16, Philadelphia Flyers, 5, 1, 3, 5, 0, 16, 16, 100,False
+2015, 12, 10,20, Tampa Bay Lightning, 5, 1, 1, 1, 1, 18, 19, 137,25, Ottawa Senators, 7, 1, 4, 5, 2, 27, 9, 136,True
+2015, 12, 10,24, Winnipeg Jets, 5, 2, 1, 1, 1, 38, 6, 112,13, Columbus Blue Jackets, 4, 0, 2, 4, 2, 7, 15, 116,True
+2015, 12, 11,23, Anaheim Ducks, 5, 2, 2, 4, 1, 24, 18, 152,5, Carolina Hurricanes, 4, 0, 5, 9, 2, 12, 13, 67,False
+2015, 12, 11,30, Arizona Coyotes, 4, 0, 1, 2, 5, 18, 14, 92,8, Minnesota Wild, 4, 2, 1, 2, 2, 20, 14, 101,True
+2015, 12, 11,7, Chicago Blackhawks, 4, 1, 1, 1, 1, 37, 15, 146,24, Winnipeg Jets, 6, 1, 6, 11, 4, 29, 9, 103,True
+2015, 12, 11,2, Dallas Stars, 7, 2, 6, 14, 0, 0, 26, 218,16, Philadelphia Flyers, 6, 0, 4, 7, 2, 37, 18, 121,True
+2015, 12, 11,29, Edmonton Oilers, 6, 1, 4, 8, 3, 28, 33, 289,1, New York Rangers, 4, 1, 1, 0, 2, 25, 12, 112,True
+2015, 12, 11,15, New Jersey Devils, 4, 0, 2, 4, 2, 37, 15, 162,19, Detroit Red Wings, 7, 2, 3, 5, 2, 40, 7, 115,True
+2015, 12, 11,17, Pittsburgh Penguins, 5, 1, 4, 7, 2, 26, 6, 129,6, Los Angeles Kings, 7, 1, 3, 4, 2, 23, 16, 97,False
+2015, 12, 12,30, Arizona Coyotes, 4, 0, 3, 3, 1, 28, 10, 102,5, Carolina Hurricanes, 5, 2, 5, 9, 1, 32, 12, 87,False
+2015, 12, 12,0, Boston Bruins, 7, 1, 3, 5, 1, 33, 15, 127,4, Florida Panthers, 6, 1, 4, 7, 3, 22, 19, 166,True
+2015, 12, 12,26, Buffalo Sabres, 3, 1, 3, 5, 5, 31, 24, 238,6, Los Angeles Kings, 7, 1, 2, 4, 0, 8, 16, 116,True
+2015, 12, 12,13, Columbus Blue Jackets, 4, 1, 4, 7, 5, 34, 18, 143,14, New York Islanders, 6, 1, 4, 6, 3, 46, 29, 286,False
+2015, 12, 12,27, Calgary Flames, 6, 0, 4, 8, 3, 30, 27, 216,1, New York Rangers, 3, 2, 5, 9, 1, 3, 14, 105,True
+2015, 12, 12,10, Montreal Canadiens, 5, 1, 2, 4, 3, 29, 7, 85,25, Ottawa Senators, 6, 1, 1, 2, 3, 29, 10, 151,True
+2015, 12, 12,12, Nashville Predators, 4, 1, 5, 5, 1, 36, 11, 164,9, Colorado Avalanche, 5, 1, 2, 4, 1, 20, 11, 119,False
+2015, 12, 12,28, San Jose Sharks, 4, 2, 3, 6, 4, 20, 10, 104,8, Minnesota Wild, 4, 0, 1, 2, 2, 21, 14, 102,False
+2015, 12, 12,18, St. Louis Blues, 4, 2, 2, 3, 1, 23, 10, 114,2, Dallas Stars, 7, 0, 3, 5, 1, 20, 33, 265,True
+2015, 12, 12,20, Tampa Bay Lightning, 6, 0, 4, 5, 1, 31, 19, 165,21, Washington Capitals, 7, 2, 1, 2, 2, 23, 8, 105,False
+2015, 12, 13,7, Chicago Blackhawks, 5, 1, 2, 4, 0, 25, 17, 143,22, Vancouver Canucks, 4, 1, 2, 4, 1, 33, 22, 199,True
+2015, 12, 13,14, New York Islanders, 7, 1, 3, 3, 1, 32, 28, 270,15, New Jersey Devils, 5, 1, 3, 5, 2, 29, 15, 154,True
+2015, 12, 13,18, St. Louis Blues, 4, 2, 3, 4, 0, 26, 9, 117,9, Colorado Avalanche, 6, 0, 3, 6, 2, 36, 12, 135,False
+2015, 12, 14,0, Boston Bruins, 7, 0, 3, 4, 3, 33, 15, 121,29, Edmonton Oilers, 6, 2, 7, 12, 4, 32, 35, 295,False
+2015, 12, 14,13, Columbus Blue Jackets, 3, 1, 2, 4, 0, 0, 16, 128,20, Tampa Bay Lightning, 6, 1, 1, 2, 2, 20, 20, 154,False
+2015, 12, 14,19, Detroit Red Wings, 6, 2, 2, 4, 2, 25, 8, 104,26, Buffalo Sabres, 4, 0, 2, 3, 4, 32, 24, 246,False
+2015, 12, 14,25, Ottawa Senators, 5, 1, 1, 2, 3, 31, 10, 149,6, Los Angeles Kings, 7, 1, 1, 2, 2, 42, 15, 147,True
+2015, 12, 14,17, Pittsburgh Penguins, 4, 2, 2, 4, 2, 40, 5, 138,21, Washington Capitals, 8, 0, 2, 2, 1, 36, 7, 118,False
+2015, 12, 15,26, Buffalo Sabres, 5, 0, 2, 3, 1, 21, 21, 247,15, New Jersey Devils, 4, 2, 0, 0, 3, 18, 16, 124,False
+2015, 12, 15,7, Chicago Blackhawks, 6, 0, 4, 6, 0, 30, 17, 148,9, Colorado Avalanche, 6, 2, 3, 3, 1, 43, 11, 142,False
+2015, 12, 15,2, Dallas Stars, 6, 1, 0, 0, 5, 30, 35, 271,13, Columbus Blue Jackets, 3, 1, 1, 2, 2, 29, 18, 157,True
+2015, 12, 15,8, Minnesota Wild, 5, 0, 2, 4, 0, 25, 12, 106,22, Vancouver Canucks, 3, 2, 0, 0, 3, 29, 22, 191,True
+2015, 12, 15,10, Montreal Canadiens, 5, 1, 3, 5, 1, 26, 5, 82,28, San Jose Sharks, 3, 1, 0, 0, 1, 29, 8, 114,False
+2015, 12, 15,12, Nashville Predators, 4, 0, 2, 4, 3, 25, 13, 153,27, Calgary Flames, 7, 2, 5, 7, 2, 33, 28, 215,False
+2015, 12, 15,14, New York Islanders, 8, 0, 4, 7, 2, 30, 24, 266,4, Florida Panthers, 6, 2, 1, 2, 2, 24, 14, 151,False
+2015, 12, 15,1, New York Rangers, 2, 1, 4, 8, 5, 33, 16, 146,29, Edmonton Oilers, 7, 1, 3, 6, 5, 34, 33, 312,True
+2015, 12, 15,16, Philadelphia Flyers, 6, 2, 1, 2, 2, 43, 18, 127,5, Carolina Hurricanes, 5, 0, 5, 10, 4, 29, 15, 84,True
+2015, 12, 15,11, Toronto Maple Leafs, 5, 1, 2, 3, 4, 23, 15, 116,20, Tampa Bay Lightning, 6, 1, 2, 2, 2, 10, 19, 160,False
+2015, 12, 15,24, Winnipeg Jets, 5, 0, 0, 0, 2, 31, 7, 105,18, St. Louis Blues, 4, 2, 1, 2, 2, 17, 13, 94,False
+2015, 12, 16,0, Boston Bruins, 6, 2, 2, 4, 1, 27, 12, 113,17, Pittsburgh Penguins, 3, 0, 1, 3, 2, 36, 7, 132,True
+2015, 12, 16,21, Washington Capitals, 8, 1, 4, 7, 1, 45, 8, 116,25, Ottawa Senators, 5, 1, 5, 7, 2, 35, 10, 154,True
+2015, 12, 17,30, Arizona Coyotes, 4, 1, 2, 4, 5, 33, 14, 107,13, Columbus Blue Jackets, 2, 1, 1, 2, 1, 7, 18, 143,False
+2015, 12, 17,26, Buffalo Sabres, 5, 0, 0, 0, 1, 33, 25, 220,23, Anaheim Ducks, 5, 2, 1, 3, 3, 17, 17, 126,True
+2015, 12, 17,7, Chicago Blackhawks, 5, 2, 0, 0, 2, 26, 19, 144,29, Edmonton Oilers, 7, 0, 2, 3, 2, 49, 31, 298,True
+2015, 12, 17,9, Colorado Avalanche, 7, 0, 3, 6, 0, 29, 10, 128,14, New York Islanders, 7, 2, 1, 2, 0, 27, 24, 238,True
+2015, 12, 17,2, Dallas Stars, 6, 0, 5, 6, 1, 35, 30, 253,27, Calgary Flames, 7, 2, 2, 4, 1, 22, 27, 204,False
+2015, 12, 17,8, Minnesota Wild, 5, 0, 6, 12, 0, 11, 14, 112,1, New York Rangers, 3, 2, 4, 8, 5, 27, 15, 121,True
+2015, 12, 17,10, Montreal Canadiens, 4, 1, 1, 2, 0, 6, 4, 51,6, Los Angeles Kings, 7, 1, 3, 6, 5, 21, 19, 128,False
+2015, 12, 17,15, New Jersey Devils, 5, 1, 2, 3, 0, 25, 13, 131,4, Florida Panthers, 7, 1, 5, 7, 1, 21, 13, 161,False
+2015, 12, 17,16, Philadelphia Flyers, 6, 0, 4, 7, 3, 10, 19, 116,22, Vancouver Canucks, 3, 2, 2, 2, 0, 5, 24, 193,True
+2015, 12, 17,18, St. Louis Blues, 4, 2, 4, 8, 3, 36, 14, 113,12, Nashville Predators, 3, 0, 1, 0, 2, 21, 14, 161,True
+2015, 12, 17,11, Toronto Maple Leafs, 4, 0, 4, 7, 2, 27, 16, 120,28, San Jose Sharks, 3, 2, 3, 5, 1, 27, 10, 115,False
+2015, 12, 18,5, Carolina Hurricanes, 5, 0, 3, 6, 4, 8, 15, 86,4, Florida Panthers, 7, 2, 5, 10, 1, 34, 15, 182,False
+2015, 12, 18,19, Detroit Red Wings, 5, 1, 1, 2, 3, 38, 8, 109,22, Vancouver Canucks, 2, 1, 0, 1, 6, 36, 25, 209,False
+2015, 12, 18,25, Ottawa Senators, 4, 2, 1, 3, 3, 36, 10, 144,28, San Jose Sharks, 3, 0, 5, 9, 1, 19, 13, 119,True
+2015, 12, 18,17, Pittsburgh Penguins, 3, 0, 0, 0, 2, 28, 9, 127,0, Boston Bruins, 6, 2, 3, 6, 0, 34, 10, 131,False
+2015, 12, 18,24, Winnipeg Jets, 4, 1, 4, 6, 4, 26, 9, 95,1, New York Rangers, 3, 1, 2, 4, 4, 31, 13, 109,True
+2015, 12, 18,21, Washington Capitals, 8, 2, 2, 4, 1, 27, 8, 98,20, Tampa Bay Lightning, 6, 0, 5, 6, 1, 26, 20, 164,True
+2015, 12, 19,30, Arizona Coyotes, 3, 0, 7, 8, 2, 10, 16, 98,14, New York Islanders, 7, 2, 1, 3, 4, 16, 26, 241,True
+2015, 12, 19,26, Buffalo Sabres, 5, 0, 3, 5, 0, 44, 21, 223,7, Chicago Blackhawks, 5, 2, 4, 8, 0, 33, 13, 128,False
+2015, 12, 19,13, Columbus Blue Jackets, 2, 2, 7, 10, 4, 27, 19, 194,16, Philadelphia Flyers, 7, 0, 2, 4, 0, 36, 16, 142,True
+2015, 12, 19,9, Colorado Avalanche, 7, 0, 2, 3, 1, 34, 11, 133,29, Edmonton Oilers, 7, 2, 0, 0, 3, 20, 35, 298,True
+2015, 12, 19,2, Dallas Stars, 6, 1, 1, 1, 3, 26, 32, 245,10, Montreal Canadiens, 3, 1, 0, 0, 2, 19, 6, 64,True
+2015, 12, 19,15, New Jersey Devils, 5, 0, 1, 2, 1, 12, 17, 131,23, Anaheim Ducks, 4, 2, 0, 0, 1, 6, 17, 131,False
+2015, 12, 19,12, Nashville Predators, 3, 1, 1, 2, 2, 33, 14, 173,8, Minnesota Wild, 6, 1, 5, 10, 2, 23, 16, 124,True
+2015, 12, 19,17, Pittsburgh Penguins, 2, 1, 2, 3, 0, 0, 13, 133,5, Carolina Hurricanes, 4, 1, 0, 1, 1, 17, 12, 95,False
+2015, 12, 19,18, St. Louis Blues, 5, 2, 2, 4, 3, 28, 9, 118,27, Calgary Flames, 7, 0, 3, 5, 1, 36, 27, 218,True
+2015, 12, 19,11, Toronto Maple Leafs, 3, 1, 4, 6, 3, 29, 14, 110,6, Los Angeles Kings, 7, 1, 3, 4, 2, 30, 15, 158,True
+2015, 12, 20,0, Boston Bruins, 6, 2, 6, 10, 3, 24, 14, 113,15, New Jersey Devils, 4, 0, 1, 2, 4, 25, 18, 137,True
+2015, 12, 20,7, Chicago Blackhawks, 6, 2, 2, 3, 2, 27, 15, 122,28, San Jose Sharks, 3, 0, 2, 2, 4, 31, 15, 132,True
+2015, 12, 20,19, Detroit Red Wings, 5, 0, 3, 5, 2, 30, 6, 117,27, Calgary Flames, 7, 2, 2, 4, 3, 22, 29, 204,True
+2015, 12, 20,4, Florida Panthers, 7, 1, 2, 2, 0, 24, 14, 172,22, Vancouver Canucks, 3, 1, 3, 5, 3, 28, 19, 215,True
+2015, 12, 20,1, New York Rangers, 3, 2, 2, 4, 4, 35, 13, 113,21, Washington Capitals, 8, 0, 5, 8, 3, 12, 7, 65,False
+2015, 12, 20,20, Tampa Bay Lightning, 5, 1, 4, 5, 4, 22, 23, 160,25, Ottawa Senators, 5, 1, 4, 6, 2, 25, 12, 137,True
+2015, 12, 21,5, Carolina Hurricanes, 5, 0, 2, 3, 1, 38, 12, 116,21, Washington Capitals, 8, 2, 7, 12, 0, 7, 7, 89,False
+2015, 12, 21,9, Colorado Avalanche, 8, 1, 5, 8, 1, 40, 11, 139,11, Toronto Maple Leafs, 4, 1, 5, 10, 0, 26, 11, 107,False
+2015, 12, 21,29, Edmonton Oilers, 6, 0, 1, 2, 4, 37, 38, 323,24, Winnipeg Jets, 5, 2, 5, 8, 2, 28, 7, 97,True
+2015, 12, 21,8, Minnesota Wild, 6, 0, 2, 3, 3, 39, 17, 140,2, Dallas Stars, 6, 2, 6, 8, 3, 27, 34, 246,False
+2015, 12, 21,12, Nashville Predators, 4, 1, 3, 6, 2, 22, 17, 173,10, Montreal Canadiens, 2, 1, 2, 3, 0, 4, 7, 60,True
+2015, 12, 21,14, New York Islanders, 6, 1, 0, 0, 1, 29, 27, 247,23, Anaheim Ducks, 5, 1, 2, 2, 1, 22, 17, 147,True
+2015, 12, 21,16, Philadelphia Flyers, 6, 1, 2, 4, 2, 37, 18, 143,18, St. Louis Blues, 5, 1, 3, 5, 1, 28, 9, 128,True
+2015, 12, 21,17, Pittsburgh Penguins, 2, 0, 1, 1, 2, 26, 15, 159,13, Columbus Blue Jackets, 3, 2, 2, 2, 2, 32, 20, 192,True
+2015, 12, 22,30, Arizona Coyotes, 3, 2, 1, 2, 0, 25, 16, 122,11, Toronto Maple Leafs, 5, 0, 7, 12, 4, 28, 15, 109,True
+2015, 12, 22,0, Boston Bruins, 6, 1, 1, 2, 2, 32, 12, 119,18, St. Louis Blues, 5, 1, 3, 4, 4, 31, 12, 131,False
+2015, 12, 22,27, Calgary Flames, 7, 0, 2, 4, 3, 34, 29, 216,24, Winnipeg Jets, 5, 2, 1, 2, 0, 7, 6, 59,True
+2015, 12, 22,2, Dallas Stars, 6, 2, 6, 7, 1, 31, 32, 231,7, Chicago Blackhawks, 7, 0, 4, 5, 3, 36, 16, 131,True
+2015, 12, 22,19, Detroit Red Wings, 5, 1, 4, 5, 3, 40, 6, 115,15, New Jersey Devils, 4, 1, 1, 2, 1, 39, 15, 151,False
+2015, 12, 22,4, Florida Panthers, 7, 1, 4, 4, 4, 34, 16, 151,25, Ottawa Senators, 5, 1, 2, 3, 2, 33, 11, 148,True
+2015, 12, 22,6, Los Angeles Kings, 7, 1, 0, 0, 0, 45, 18, 160,28, San Jose Sharks, 2, 1, 3, 6, 4, 32, 13, 130,False
+2015, 12, 22,8, Minnesota Wild, 6, 1, 3, 4, 2, 31, 18, 133,10, Montreal Canadiens, 2, 1, 1, 2, 1, 4, 5, 51,True
+2015, 12, 22,1, New York Rangers, 2, 2, 3, 6, 5, 24, 13, 116,23, Anaheim Ducks, 4, 0, 2, 3, 1, 19, 17, 133,True
+2015, 12, 22,20, Tampa Bay Lightning, 6, 2, 6, 8, 2, 25, 21, 163,22, Vancouver Canucks, 3, 0, 4, 6, 0, 0, 21, 179,False
+2015, 12, 26,30, Arizona Coyotes, 3, 2, 3, 5, 2, 39, 18, 136,6, Los Angeles Kings, 6, 0, 3, 5, 4, 22, 21, 141,False
+2015, 12, 26,0, Boston Bruins, 6, 1, 0, 0, 1, 30, 12, 116,26, Buffalo Sabres, 4, 1, 2, 4, 2, 28, 27, 225,False
+2015, 12, 26,5, Carolina Hurricanes, 5, 1, 1, 2, 2, 21, 13, 99,15, New Jersey Devils, 4, 1, 4, 3, 3, 28, 17, 140,True
+2015, 12, 26,8, Minnesota Wild, 6, 0, 2, 2, 4, 32, 17, 127,17, Pittsburgh Penguins, 3, 2, 4, 11, 2, 24, 15, 157,False
+2015, 12, 26,12, Nashville Predators, 4, 0, 5, 9, 1, 36, 15, 187,19, Detroit Red Wings, 5, 2, 2, 5, 1, 11, 8, 61,False
+2015, 12, 26,18, St. Louis Blues, 6, 2, 2, 4, 0, 32, 8, 132,2, Dallas Stars, 7, 0, 4, 8, 0, 20, 31, 220,True
+2015, 12, 26,20, Tampa Bay Lightning, 6, 2, 1, 2, 2, 19, 21, 157,13, Columbus Blue Jackets, 3, 0, 2, 5, 4, 34, 22, 194,True
+2015, 12, 26,22, Vancouver Canucks, 4, 1, 2, 3, 1, 27, 22, 203,29, Edmonton Oilers, 7, 1, 3, 6, 1, 45, 35, 324,True
+2015, 12, 26,21, Washington Capitals, 8, 2, 2, 4, 3, 36, 8, 114,10, Montreal Canadiens, 1, 0, 1, 2, 2, 22, 6, 69,True
+2015, 12, 27,23, Anaheim Ducks, 4, 2, 2, 3, 3, 22, 19, 136,16, Philadelphia Flyers, 6, 0, 4, 7, 3, 29, 19, 135,True
+2015, 12, 27,27, Calgary Flames, 8, 1, 4, 8, 1, 20, 27, 202,29, Edmonton Oilers, 6, 1, 1, 2, 5, 29, 36, 303,True
+2015, 12, 27,7, Chicago Blackhawks, 7, 2, 0, 0, 4, 32, 17, 127,5, Carolina Hurricanes, 6, 0, 3, 5, 4, 31, 12, 98,False
+2015, 12, 27,9, Colorado Avalanche, 7, 1, 4, 9, 6, 21, 16, 120,30, Arizona Coyotes, 3, 1, 3, 6, 4, 10, 19, 130,False
+2015, 12, 27,2, Dallas Stars, 6, 0, 2, 4, 2, 4, 30, 266,18, St. Louis Blues, 7, 2, 2, 4, 2, 38, 10, 124,True
+2015, 12, 27,4, Florida Panthers, 7, 2, 1, 2, 1, 16, 14, 166,13, Columbus Blue Jackets, 3, 0, 2, 5, 1, 7, 19, 161,True
+2015, 12, 27,14, New York Islanders, 6, 2, 5, 8, 2, 30, 28, 253,11, Toronto Maple Leafs, 5, 0, 2, 4, 3, 26, 14, 107,False
+2015, 12, 27,25, Ottawa Senators, 4, 1, 1, 2, 1, 40, 10, 162,0, Boston Bruins, 6, 1, 3, 5, 2, 29, 16, 118,True
+2015, 12, 27,24, Winnipeg Jets, 4, 0, 1, 2, 3, 14, 9, 84,17, Pittsburgh Penguins, 3, 2, 4, 4, 6, 34, 14, 166,True
+2015, 12, 28,26, Buffalo Sabres, 5, 0, 6, 9, 2, 21, 25, 259,21, Washington Capitals, 8, 2, 3, 6, 1, 30, 6, 108,False
+2015, 12, 28,8, Minnesota Wild, 5, 0, 1, 2, 3, 32, 16, 127,19, Detroit Red Wings, 5, 2, 3, 6, 2, 26, 9, 76,True
+2015, 12, 28,12, Nashville Predators, 4, 0, 2, 3, 3, 23, 15, 171,1, New York Rangers, 3, 2, 3, 3, 2, 19, 10, 73,True
+2015, 12, 28,28, San Jose Sharks, 3, 2, 5, 6, 3, 36, 14, 158,9, Colorado Avalanche, 6, 0, 1, 2, 3, 21, 12, 127,False
+2015, 12, 28,20, Tampa Bay Lightning, 6, 2, 4, 8, 2, 32, 18, 199,10, Montreal Canadiens, 1, 0, 1, 2, 3, 33, 7, 80,False
+2015, 12, 28,22, Vancouver Canucks, 5, 1, 2, 4, 1, 33, 20, 215,6, Los Angeles Kings, 6, 1, 4, 7, 3, 27, 20, 135,False
+2015, 12, 29,30, Arizona Coyotes, 4, 1, 2, 4, 1, 39, 14, 156,7, Chicago Blackhawks, 6, 1, 1, 3, 2, 27, 14, 118,False
+2015, 12, 29,0, Boston Bruins, 5, 0, 0, 2, 2, 21, 16, 110,25, Ottawa Senators, 4, 2, 3, 6, 1, 39, 11, 163,True
+2015, 12, 29,13, Columbus Blue Jackets, 2, 1, 2, 5, 3, 32, 21, 186,2, Dallas Stars, 7, 1, 3, 3, 0, 22, 30, 250,True
+2015, 12, 29,27, Calgary Flames, 8, 1, 5, 9, 3, 31, 29, 213,23, Anaheim Ducks, 5, 1, 4, 6, 2, 26, 18, 140,False
+2015, 12, 29,29, Edmonton Oilers, 5, 0, 3, 6, 1, 7, 32, 284,6, Los Angeles Kings, 6, 2, 5, 8, 0, 27, 17, 135,False
+2015, 12, 29,4, Florida Panthers, 7, 0, 3, 5, 2, 17, 19, 172,10, Montreal Canadiens, 2, 2, 3, 6, 6, 23, 13, 109,True
+2015, 12, 29,15, New Jersey Devils, 4, 1, 1, 3, 2, 18, 17, 137,5, Carolina Hurricanes, 6, 1, 2, 4, 1, 20, 9, 103,True
+2015, 12, 29,18, St. Louis Blues, 6, 2, 0, 0, 2, 24, 10, 123,12, Nashville Predators, 5, 0, 5, 9, 2, 17, 15, 177,True
+2015, 12, 29,11, Toronto Maple Leafs, 5, 1, 3, 5, 1, 26, 9, 114,14, New York Islanders, 5, 1, 1, 2, 2, 37, 26, 249,False
+2015, 12, 29,24, Winnipeg Jets, 5, 1, 1, 0, 0, 30, 6, 100,19, Detroit Red Wings, 4, 1, 2, 2, 3, 6, 9, 84,True
+2015, 12, 30,25, Ottawa Senators, 4, 0, 3, 6, 3, 33, 17, 161,15, New Jersey Devils, 4, 2, 3, 4, 3, 25, 17, 147,False
+2015, 12, 30,17, Pittsburgh Penguins, 3, 2, 0, 2, 1, 26, 10, 156,11, Toronto Maple Leafs, 5, 0, 3, 6, 6, 15, 13, 81,False
+2015, 12, 30,28, San Jose Sharks, 3, 2, 3, 4, 5, 25, 17, 124,16, Philadelphia Flyers, 5, 0, 2, 5, 4, 37, 20, 143,True
+2015, 12, 30,20, Tampa Bay Lightning, 5, 2, 3, 5, 3, 34, 21, 167,1, New York Rangers, 3, 0, 3, 4, 5, 35, 14, 92,False
+2015, 12, 30,21, Washington Capitals, 9, 2, 2, 3, 0, 31, 5, 109,26, Buffalo Sabres, 4, 0, 0, 0, 3, 33, 27, 230,True
+2015, 12, 31,30, Arizona Coyotes, 4, 0, 5, 10, 3, 22, 15, 111,24, Winnipeg Jets, 5, 2, 4, 8, 1, 34, 7, 104,True
+2015, 12, 31,26, Buffalo Sabres, 4, 1, 2, 3, 2, 26, 28, 239,14, New York Islanders, 5, 1, 6, 10, 3, 33, 28, 254,False
+2015, 12, 31,5, Carolina Hurricanes, 5, 0, 2, 3, 1, 36, 11, 107,21, Washington Capitals, 9, 2, 5, 5, 1, 32, 7, 105,True
+2015, 12, 31,27, Calgary Flames, 7, 1, 0, 0, 1, 21, 27, 203,6, Los Angeles Kings, 6, 1, 5, 9, 2, 44, 14, 168,False
+2015, 12, 31,9, Colorado Avalanche, 7, 2, 6, 9, 2, 28, 12, 144,7, Chicago Blackhawks, 6, 0, 7, 12, 4, 33, 19, 136,False
+2015, 12, 31,2, Dallas Stars, 6, 2, 3, 6, 2, 18, 33, 223,12, Nashville Predators, 4, 0, 3, 4, 3, 29, 17, 185,True
+2015, 12, 31,19, Detroit Red Wings, 3, 1, 1, 2, 0, 11, 8, 69,17, Pittsburgh Penguins, 3, 1, 2, 3, 1, 28, 9, 176,False
+2015, 12, 31,29, Edmonton Oilers, 4, 1, 2, 4, 3, 14, 29, 287,23, Anaheim Ducks, 5, 1, 1, 2, 0, 14, 16, 128,False
+2015, 12, 31,18, St. Louis Blues, 7, 1, 4, 8, 3, 33, 11, 132,8, Minnesota Wild, 5, 1, 3, 2, 1, 29, 14, 124,False
+2016, 1, 1,0, Boston Bruins, 6, 1, 7, 12, 3, 32, 18, 130,10, Montreal Canadiens, 2, 1, 1, 2, 3, 39, 10, 116,False
+2016, 1, 1,22, Vancouver Canucks, 5, 1, 0, 0, 5, 38, 21, 240,23, Anaheim Ducks, 6, 1, 1, 1, 3, 11, 16, 135,True
+2016, 1, 2,26, Buffalo Sabres, 4, 1, 1, 2, 4, 42, 28, 246,19, Detroit Red Wings, 3, 1, 2, 4, 4, 36, 12, 94,False
+2016, 1, 2,5, Carolina Hurricanes, 6, 0, 4, 8, 2, 32, 12, 103,12, Nashville Predators, 4, 2, 1, 1, 5, 32, 19, 193,False
+2016, 1, 2,13, Columbus Blue Jackets, 3, 0, 4, 10, 3, 43, 21, 193,21, Washington Capitals, 9, 2, 2, 3, 2, 27, 9, 109,True
+2016, 1, 2,9, Colorado Avalanche, 6, 1, 3, 7, 4, 43, 14, 159,27, Calgary Flames, 6, 1, 1, 2, 3, 23, 29, 205,False
+2016, 1, 2,29, Edmonton Oilers, 3, 0, 0, 0, 1, 35, 27, 313,30, Arizona Coyotes, 5, 2, 4, 8, 2, 37, 14, 131,True
+2016, 1, 2,4, Florida Panthers, 8, 0, 3, 6, 1, 30, 14, 175,1, New York Rangers, 3, 2, 5, 6, 2, 22, 11, 99,True
+2016, 1, 2,6, Los Angeles Kings, 6, 1, 4, 6, 1, 24, 13, 148,16, Philadelphia Flyers, 4, 1, 2, 1, 3, 32, 20, 139,True
+2016, 1, 2,15, New Jersey Devils, 5, 0, 1, 1, 0, 36, 14, 158,2, Dallas Stars, 6, 2, 5, 7, 1, 34, 32, 239,True
+2016, 1, 2,17, Pittsburgh Penguins, 3, 0, 5, 8, 4, 34, 10, 183,14, New York Islanders, 6, 2, 2, 3, 1, 43, 25, 245,True
+2016, 1, 2,28, San Jose Sharks, 4, 1, 4, 8, 2, 19, 16, 123,24, Winnipeg Jets, 4, 1, 2, 2, 3, 20, 9, 90,False
+2016, 1, 2,20, Tampa Bay Lightning, 5, 1, 2, 4, 4, 37, 21, 157,8, Minnesota Wild, 6, 1, 3, 5, 1, 34, 14, 129,True
+2016, 1, 2,11, Toronto Maple Leafs, 6, 1, 2, 4, 2, 41, 9, 107,18, St. Louis Blues, 6, 1, 1, 3, 2, 28, 10, 127,True
+2016, 1, 3,23, Anaheim Ducks, 5, 2, 1, 2, 0, 21, 14, 149,24, Winnipeg Jets, 5, 0, 4, 3, 3, 32, 7, 98,True
+2016, 1, 3,7, Chicago Blackhawks, 7, 1, 4, 8, 5, 37, 18, 133,25, Ottawa Senators, 3, 1, 0, 0, 7, 37, 16, 138,True
+2016, 1, 3,4, Florida Panthers, 9, 0, 3, 5, 1, 16, 13, 185,8, Minnesota Wild, 6, 2, 2, 3, 2, 30, 15, 125,True
+2016, 1, 3,14, New York Islanders, 5, 1, 2, 4, 4, 26, 29, 245,2, Dallas Stars, 6, 1, 2, 4, 3, 14, 34, 235,True
+2016, 1, 4,9, Colorado Avalanche, 6, 0, 0, 0, 4, 19, 11, 112,6, Los Angeles Kings, 6, 2, 2, 3, 5, 34, 13, 154,True
+2016, 1, 4,29, Edmonton Oilers, 3, 0, 3, 6, 3, 34, 30, 307,5, Carolina Hurricanes, 5, 2, 1, 1, 3, 24, 12, 92,True
+2016, 1, 4,15, New Jersey Devils, 5, 2, 3, 5, 2, 31, 16, 153,19, Detroit Red Wings, 3, 0, 4, 8, 3, 35, 11, 93,False
+2016, 1, 4,18, St. Louis Blues, 6, 1, 1, 2, 2, 37, 11, 131,25, Ottawa Senators, 3, 1, 0, 0, 2, 20, 11, 130,False
+2016, 1, 4,22, Vancouver Canucks, 5, 2, 1, 2, 1, 28, 17, 214,30, Arizona Coyotes, 5, 0, 2, 6, 3, 41, 16, 130,False
+2016, 1, 5,0, Boston Bruins, 5, 0, 1, 2, 5, 30, 20, 109,21, Washington Capitals, 8, 2, 4, 7, 4, 29, 10, 111,False
+2016, 1, 5,26, Buffalo Sabres, 4, 1, 3, 3, 2, 33, 26, 226,4, Florida Panthers, 9, 1, 2, 4, 0, 40, 15, 210,False
+2016, 1, 5,13, Columbus Blue Jackets, 4, 1, 4, 8, 0, 6, 18, 152,8, Minnesota Wild, 5, 1, 1, 2, 2, 29, 15, 124,False
+2016, 1, 5,27, Calgary Flames, 6, 0, 4, 5, 0, 26, 26, 208,20, Tampa Bay Lightning, 5, 2, 2, 4, 3, 24, 19, 152,True
+2016, 1, 5,12, Nashville Predators, 4, 1, 2, 4, 1, 28, 16, 186,24, Winnipeg Jets, 4, 1, 1, 2, 1, 28, 8, 125,False
+2016, 1, 5,1, New York Rangers, 3, 0, 0, 0, 3, 20, 9, 92,2, Dallas Stars, 5, 2, 5, 7, 3, 30, 36, 264,True
+2016, 1, 5,16, Philadelphia Flyers, 4, 0, 1, 2, 2, 32, 19, 139,10, Montreal Canadiens, 3, 2, 5, 9, 3, 30, 8, 105,True
+2016, 1, 5,17, Pittsburgh Penguins, 4, 0, 5, 9, 2, 40, 12, 187,7, Chicago Blackhawks, 7, 2, 3, 4, 0, 26, 13, 122,False
+2016, 1, 6,23, Anaheim Ducks, 5, 1, 4, 6, 1, 20, 15, 148,11, Toronto Maple Leafs, 6, 1, 4, 5, 1, 40, 9, 107,False
+2016, 1, 6,7, Chicago Blackhawks, 7, 2, 3, 7, 3, 30, 15, 132,17, Pittsburgh Penguins, 4, 0, 2, 3, 3, 30, 13, 177,True
+2016, 1, 6,9, Colorado Avalanche, 6, 1, 4, 7, 1, 31, 8, 124,18, St. Louis Blues, 5, 1, 2, 4, 3, 32, 12, 126,True
+2016, 1, 6,10, Montreal Canadiens, 2, 1, 3, 6, 1, 28, 9, 106,15, New Jersey Devils, 5, 1, 0, 0, 1, 21, 15, 143,True
+2016, 1, 6,22, Vancouver Canucks, 4, 2, 2, 2, 3, 29, 21, 211,5, Carolina Hurricanes, 4, 0, 0, 0, 2, 21, 10, 95,True
+2016, 1, 7,27, Calgary Flames, 6, 1, 3, 5, 1, 31, 27, 213,30, Arizona Coyotes, 5, 1, 2, 6, 2, 37, 15, 128,False
+2016, 1, 7,2, Dallas Stars, 5, 1, 2, 5, 6, 44, 39, 263,24, Winnipeg Jets, 5, 1, 4, 5, 1, 44, 8, 141,True
+2016, 1, 7,6, Los Angeles Kings, 6, 1, 1, 2, 1, 30, 12, 153,11, Toronto Maple Leafs, 6, 1, 4, 8, 0, 6, 8, 106,True
+2016, 1, 7,8, Minnesota Wild, 5, 1, 4, 4, 2, 31, 15, 126,16, Philadelphia Flyers, 5, 1, 4, 7, 4, 33, 20, 131,False
+2016, 1, 7,14, New York Islanders, 5, 1, 6, 11, 2, 29, 31, 252,21, Washington Capitals, 8, 1, 3, 6, 2, 27, 9, 101,False
+2016, 1, 7,25, Ottawa Senators, 4, 1, 3, 4, 2, 29, 10, 147,4, Florida Panthers, 10, 1, 5, 6, 1, 32, 15, 201,False
+2016, 1, 7,28, San Jose Sharks, 4, 2, 1, 3, 3, 20, 17, 109,19, Detroit Red Wings, 4, 0, 1, 2, 0, 22, 8, 80,False
+2016, 1, 8,23, Anaheim Ducks, 5, 1, 0, 0, 3, 25, 17, 141,18, St. Louis Blues, 4, 1, 3, 4, 4, 33, 14, 135,True
+2016, 1, 8,5, Carolina Hurricanes, 4, 1, 2, 2, 1, 27, 11, 95,13, Columbus Blue Jackets, 4, 1, 2, 5, 2, 31, 19, 178,True
+2016, 1, 8,7, Chicago Blackhawks, 8, 2, 3, 2, 2, 36, 13, 120,26, Buffalo Sabres, 3, 0, 1, 2, 4, 23, 29, 211,True
+2016, 1, 8,9, Colorado Avalanche, 6, 2, 4, 6, 3, 38, 10, 131,12, Nashville Predators, 4, 0, 1, 1, 3, 17, 20, 180,True
+2016, 1, 8,29, Edmonton Oilers, 3, 1, 1, 2, 0, 29, 30, 310,20, Tampa Bay Lightning, 5, 1, 1, 2, 2, 23, 18, 151,False
+2016, 1, 8,15, New Jersey Devils, 4, 0, 1, 2, 2, 25, 16, 147,0, Boston Bruins, 4, 2, 2, 4, 4, 27, 16, 129,False
+2016, 1, 9,30, Arizona Coyotes, 6, 0, 2, 3, 1, 26, 16, 122,12, Nashville Predators, 4, 2, 3, 6, 4, 25, 21, 189,True
+2016, 1, 9,13, Columbus Blue Jackets, 4, 0, 1, 1, 4, 18, 20, 175,5, Carolina Hurricanes, 5, 2, 4, 8, 1, 36, 11, 104,False
+2016, 1, 9,2, Dallas Stars, 5, 2, 1, 2, 6, 29, 34, 252,8, Minnesota Wild, 4, 0, 3, 1, 4, 36, 17, 131,False
+2016, 1, 9,6, Los Angeles Kings, 7, 2, 2, 4, 1, 26, 11, 154,18, St. Louis Blues, 3, 0, 3, 4, 2, 27, 10, 109,False
+2016, 1, 9,10, Montreal Canadiens, 3, 1, 2, 3, 1, 20, 9, 98,17, Pittsburgh Penguins, 4, 1, 1, 2, 2, 36, 12, 183,False
+2016, 1, 9,1, New York Rangers, 4, 1, 6, 9, 2, 23, 11, 92,21, Washington Capitals, 8, 1, 4, 2, 1, 35, 8, 109,False
+2016, 1, 9,25, Ottawa Senators, 3, 1, 2, 1, 3, 16, 11, 137,0, Boston Bruins, 5, 1, 4, 7, 3, 29, 13, 122,True
+2016, 1, 9,16, Philadelphia Flyers, 5, 0, 4, 8, 3, 34, 19, 132,14, New York Islanders, 4, 2, 1, 2, 3, 37, 30, 281,True
+2016, 1, 9,28, San Jose Sharks, 4, 2, 1, 2, 2, 25, 12, 110,11, Toronto Maple Leafs, 6, 0, 1, 2, 0, 39, 10, 141,True
+2016, 1, 9,22, Vancouver Canucks, 5, 1, 3, 6, 2, 28, 24, 216,20, Tampa Bay Lightning, 5, 1, 3, 4, 2, 32, 18, 154,False
+2016, 1, 10,23, Anaheim Ducks, 6, 2, 3, 6, 3, 28, 17, 144,19, Detroit Red Wings, 5, 0, 2, 4, 1, 36, 6, 87,False
+2016, 1, 10,7, Chicago Blackhawks, 8, 1, 3, 5, 1, 29, 11, 116,9, Colorado Avalanche, 6, 1, 5, 8, 3, 22, 10, 115,True
+2016, 1, 10,29, Edmonton Oilers, 3, 1, 2, 3, 3, 26, 30, 306,4, Florida Panthers, 10, 1, 3, 5, 1, 40, 17, 208,False
+2016, 1, 10,8, Minnesota Wild, 5, 1, 2, 3, 1, 25, 14, 130,15, New Jersey Devils, 4, 1, 1, 2, 4, 31, 18, 153,False
+2016, 1, 10,24, Winnipeg Jets, 5, 2, 1, 2, 1, 24, 8, 106,26, Buffalo Sabres, 2, 0, 1, 1, 4, 26, 27, 232,False
+2016, 1, 10,21, Washington Capitals, 8, 1, 4, 4, 3, 36, 10, 100,25, Ottawa Senators, 4, 1, 2, 4, 2, 38, 9, 155,True
+2016, 1, 11,27, Calgary Flames, 5, 1, 1, 2, 2, 33, 28, 215,28, San Jose Sharks, 5, 1, 7, 14, 0, 28, 10, 113,False
+2016, 1, 11,6, Los Angeles Kings, 6, 1, 1, 2, 1, 16, 20, 146,19, Detroit Red Wings, 6, 1, 2, 1, 4, 14, 6, 82,True
+2016, 1, 11,1, New York Rangers, 4, 0, 2, 6, 4, 31, 12, 88,0, Boston Bruins, 4, 2, 1, 2, 2, 40, 12, 133,True
+2016, 1, 11,22, Vancouver Canucks, 5, 1, 2, 4, 3, 35, 22, 210,4, Florida Panthers, 10, 1, 2, 2, 2, 32, 17, 193,True
+2016, 1, 12,30, Arizona Coyotes, 7, 1, 4, 5, 0, 26, 12, 121,29, Edmonton Oilers, 3, 1, 1, 1, 2, 19, 29, 294,True
+2016, 1, 12,5, Carolina Hurricanes, 5, 2, 4, 7, 3, 24, 13, 92,17, Pittsburgh Penguins, 5, 0, 3, 4, 1, 34, 11, 181,True
+2016, 1, 12,7, Chicago Blackhawks, 8, 1, 6, 11, 3, 37, 13, 124,12, Nashville Predators, 4, 1, 0, 0, 4, 26, 17, 191,True
+2016, 1, 12,9, Colorado Avalanche, 5, 2, 3, 6, 4, 20, 13, 113,20, Tampa Bay Lightning, 5, 0, 3, 6, 2, 26, 18, 145,False
+2016, 1, 12,8, Minnesota Wild, 5, 2, 1, 2, 1, 35, 15, 122,26, Buffalo Sabres, 3, 0, 4, 8, 2, 44, 25, 250,False
+2016, 1, 12,14, New York Islanders, 4, 2, 0, 0, 5, 41, 33, 287,13, Columbus Blue Jackets, 4, 0, 3, 4, 3, 28, 17, 173,True
+2016, 1, 12,18, St. Louis Blues, 4, 2, 1, 2, 1, 27, 10, 103,15, New Jersey Devils, 5, 0, 2, 2, 2, 28, 15, 140,True
+2016, 1, 12,24, Winnipeg Jets, 4, 2, 2, 4, 3, 28, 10, 110,28, San Jose Sharks, 5, 0, 5, 6, 0, 6, 11, 99,False
+2016, 1, 13,23, Anaheim Ducks, 5, 0, 1, 2, 1, 13, 16, 140,25, Ottawa Senators, 3, 2, 1, 1, 1, 34, 12, 148,True
+2016, 1, 13,27, Calgary Flames, 4, 0, 4, 8, 4, 29, 31, 200,4, Florida Panthers, 9, 2, 2, 3, 3, 30, 17, 184,True
+2016, 1, 13,16, Philadelphia Flyers, 6, 1, 4, 8, 0, 20, 16, 118,0, Boston Bruins, 3, 1, 1, 2, 2, 30, 12, 123,True
+2016, 1, 13,11, Toronto Maple Leafs, 6, 1, 0, 0, 2, 41, 17, 133,13, Columbus Blue Jackets, 3, 1, 2, 1, 4, 30, 20, 189,False
+2016, 1, 14,30, Arizona Coyotes, 7, 1, 4, 7, 3, 28, 17, 111,19, Detroit Red Wings, 5, 1, 1, 4, 1, 31, 5, 98,False
+2016, 1, 14,9, Colorado Avalanche, 4, 2, 0, 0, 2, 15, 13, 131,15, New Jersey Devils, 5, 0, 1, 4, 1, 18, 17, 148,True
+2016, 1, 14,10, Montreal Canadiens, 3, 0, 1, 2, 2, 31, 10, 109,7, Chicago Blackhawks, 8, 2, 3, 6, 2, 43, 12, 130,False
+2016, 1, 14,14, New York Islanders, 5, 1, 5, 7, 4, 31, 30, 266,1, New York Rangers, 4, 1, 2, 4, 1, 33, 9, 90,True
+2016, 1, 14,28, San Jose Sharks, 5, 1, 4, 6, 4, 35, 12, 115,29, Edmonton Oilers, 3, 1, 3, 7, 2, 14, 33, 294,True
+2016, 1, 14,18, St. Louis Blues, 4, 2, 4, 8, 2, 24, 8, 104,5, Carolina Hurricanes, 6, 0, 3, 6, 3, 21, 12, 93,False
+2016, 1, 14,24, Winnipeg Jets, 4, 1, 1, 1, 3, 26, 11, 104,12, Nashville Predators, 3, 1, 2, 2, 3, 23, 18, 176,True
+2016, 1, 14,21, Washington Capitals, 8, 1, 7, 14, 3, 26, 8, 97,22, Vancouver Canucks, 6, 1, 3, 6, 4, 42, 22, 196,True
+2016, 1, 15,23, Anaheim Ducks, 6, 0, 4, 7, 1, 25, 12, 138,2, Dallas Stars, 4, 2, 1, 2, 1, 33, 30, 248,True
+2016, 1, 15,26, Buffalo Sabres, 3, 2, 3, 5, 1, 12, 24, 233,0, Boston Bruins, 2, 0, 2, 3, 1, 20, 13, 114,False
+2016, 1, 15,5, Carolina Hurricanes, 6, 0, 2, 5, 2, 25, 10, 96,22, Vancouver Canucks, 5, 2, 1, 2, 2, 28, 21, 193,False
+2016, 1, 15,8, Minnesota Wild, 4, 1, 2, 4, 3, 23, 17, 110,24, Winnipeg Jets, 5, 1, 5, 8, 4, 35, 12, 113,False
+2016, 1, 15,20, Tampa Bay Lightning, 6, 1, 4, 8, 2, 23, 16, 140,17, Pittsburgh Penguins, 5, 1, 2, 4, 3, 21, 10, 147,True
+2016, 1, 15,11, Toronto Maple Leafs, 5, 1, 1, 2, 2, 21, 17, 113,7, Chicago Blackhawks, 9, 1, 2, 4, 1, 18, 11, 127,False
+2016, 1, 16,30, Arizona Coyotes, 6, 0, 4, 4, 3, 5, 15, 111,15, New Jersey Devils, 4, 2, 0, 0, 2, 25, 18, 155,False
+2016, 1, 16,0, Boston Bruins, 3, 2, 4, 7, 3, 21, 13, 128,11, Toronto Maple Leafs, 4, 0, 1, 2, 7, 31, 18, 120,True
+2016, 1, 16,26, Buffalo Sabres, 3, 0, 1, 0, 2, 44, 25, 262,21, Washington Capitals, 8, 2, 4, 6, 1, 30, 6, 101,True
+2016, 1, 16,13, Columbus Blue Jackets, 3, 1, 3, 5, 1, 42, 17, 201,9, Colorado Avalanche, 5, 1, 3, 4, 0, 27, 11, 143,True
+2016, 1, 16,29, Edmonton Oilers, 2, 0, 1, 2, 1, 37, 30, 320,27, Calgary Flames, 5, 2, 6, 7, 0, 15, 27, 186,True
+2016, 1, 16,6, Los Angeles Kings, 7, 0, 4, 8, 2, 27, 14, 161,25, Ottawa Senators, 3, 2, 1, 0, 4, 38, 17, 170,False
+2016, 1, 16,12, Nashville Predators, 2, 1, 4, 6, 3, 28, 18, 180,8, Minnesota Wild, 4, 1, 0, 0, 1, 26, 15, 113,True
+2016, 1, 16,16, Philadelphia Flyers, 6, 2, 3, 5, 2, 32, 18, 130,1, New York Rangers, 4, 0, 2, 2, 2, 31, 9, 106,False
+2016, 1, 16,28, San Jose Sharks, 6, 0, 1, 2, 1, 25, 9, 105,2, Dallas Stars, 3, 2, 2, 3, 2, 25, 32, 261,True
+2016, 1, 16,18, St. Louis Blues, 3, 0, 2, 1, 3, 24, 10, 108,10, Montreal Canadiens, 3, 2, 2, 3, 2, 33, 10, 111,True
+2016, 1, 17,23, Anaheim Ducks, 7, 2, 4, 7, 2, 24, 14, 159,6, Los Angeles Kings, 7, 0, 3, 5, 4, 22, 18, 166,False
+2016, 1, 17,7, Chicago Blackhawks, 10, 2, 4, 8, 1, 40, 8, 139,10, Montreal Canadiens, 3, 0, 3, 5, 4, 31, 12, 100,True
+2016, 1, 17,19, Detroit Red Wings, 6, 1, 3, 6, 2, 29, 6, 110,16, Philadelphia Flyers, 5, 1, 2, 4, 3, 24, 18, 129,False
+2016, 1, 17,14, New York Islanders, 6, 0, 3, 2, 1, 35, 24, 266,22, Vancouver Canucks, 6, 2, 3, 3, 3, 39, 19, 218,False
+2016, 1, 17,17, Pittsburgh Penguins, 4, 0, 3, 8, 5, 25, 12, 151,5, Carolina Hurricanes, 5, 2, 2, 4, 1, 24, 11, 93,True
+2016, 1, 17,20, Tampa Bay Lightning, 6, 0, 5, 9, 0, 21, 17, 168,4, Florida Panthers, 8, 2, 0, 0, 4, 15, 19, 177,True
+2016, 1, 17,21, Washington Capitals, 7, 2, 1, 1, 3, 16, 6, 73,1, New York Rangers, 5, 0, 2, 3, 0, 0, 9, 111,True
+2016, 1, 18,30, Arizona Coyotes, 6, 0, 0, 0, 3, 25, 15, 120,26, Buffalo Sabres, 3, 2, 4, 6, 1, 34, 20, 267,False
+2016, 1, 18,4, Florida Panthers, 7, 1, 1, 1, 2, 21, 17, 193,29, Edmonton Oilers, 3, 1, 1, 2, 1, 32, 31, 314,False
+2016, 1, 18,28, San Jose Sharks, 7, 0, 4, 8, 1, 22, 13, 129,25, Ottawa Senators, 4, 2, 5, 6, 3, 33, 17, 171,False
+2016, 1, 18,18, St. Louis Blues, 4, 1, 4, 7, 3, 49, 10, 124,17, Pittsburgh Penguins, 4, 1, 6, 10, 2, 35, 7, 148,True
+2016, 1, 18,24, Winnipeg Jets, 5, 0, 1, 1, 0, 24, 10, 105,9, Colorado Avalanche, 5, 2, 1, 2, 4, 38, 13, 137,False
+2016, 1, 19,13, Columbus Blue Jackets, 4, 1, 2, 4, 1, 34, 17, 188,21, Washington Capitals, 7, 1, 5, 9, 2, 22, 4, 77,False
+2016, 1, 19,6, Los Angeles Kings, 7, 0, 3, 6, 2, 32, 16, 177,2, Dallas Stars, 3, 2, 3, 5, 4, 35, 34, 275,True
+2016, 1, 19,10, Montreal Canadiens, 3, 1, 2, 4, 4, 22, 12, 101,0, Boston Bruins, 4, 1, 3, 4, 2, 29, 11, 119,False
+2016, 1, 19,15, New Jersey Devils, 5, 0, 4, 4, 0, 38, 16, 168,27, Calgary Flames, 5, 2, 1, 4, 1, 37, 28, 208,True
+2016, 1, 19,12, Nashville Predators, 3, 1, 3, 6, 5, 24, 16, 179,7, Chicago Blackhawks, 10, 1, 5, 9, 2, 29, 13, 151,False
+2016, 1, 19,1, New York Rangers, 5, 0, 2, 5, 2, 36, 14, 135,22, Vancouver Canucks, 6, 2, 1, 2, 1, 48, 21, 241,True
+2016, 1, 19,16, Philadelphia Flyers, 6, 1, 1, 2, 2, 31, 16, 135,11, Toronto Maple Leafs, 4, 1, 2, 3, 3, 28, 14, 135,False
+2016, 1, 19,20, Tampa Bay Lightning, 7, 2, 3, 5, 4, 40, 18, 174,29, Edmonton Oilers, 4, 0, 4, 5, 4, 31, 32, 315,True
+2016, 1, 20,23, Anaheim Ducks, 6, 1, 2, 3, 3, 26, 17, 149,8, Minnesota Wild, 3, 1, 0, 0, 2, 24, 16, 111,True
+2016, 1, 20,9, Colorado Avalanche, 5, 2, 2, 4, 1, 37, 10, 136,26, Buffalo Sabres, 4, 0, 2, 4, 3, 30, 22, 261,True
+2016, 1, 20,19, Detroit Red Wings, 5, 2, 1, 2, 1, 31, 5, 112,18, St. Louis Blues, 4, 0, 5, 8, 2, 38, 9, 113,False
+2016, 1, 21,30, Arizona Coyotes, 5, 1, 1, 2, 2, 28, 14, 125,28, San Jose Sharks, 6, 1, 3, 6, 3, 35, 15, 124,False
+2016, 1, 21,0, Boston Bruins, 5, 1, 5, 5, 1, 39, 10, 129,22, Vancouver Canucks, 5, 1, 2, 3, 2, 40, 23, 242,False
+2016, 1, 21,13, Columbus Blue Jackets, 4, 2, 3, 6, 5, 27, 22, 185,27, Calgary Flames, 4, 0, 2, 4, 5, 18, 30, 196,False
+2016, 1, 21,2, Dallas Stars, 2, 1, 2, 4, 4, 39, 33, 269,29, Edmonton Oilers, 4, 1, 4, 4, 2, 33, 33, 316,True
+2016, 1, 21,6, Los Angeles Kings, 7, 1, 3, 6, 2, 29, 14, 163,8, Minnesota Wild, 2, 1, 1, 1, 2, 17, 16, 113,False
+2016, 1, 21,15, New Jersey Devils, 5, 2, 4, 7, 2, 28, 18, 158,25, Ottawa Senators, 4, 0, 3, 4, 3, 35, 16, 178,True
+2016, 1, 21,17, Pittsburgh Penguins, 4, 0, 2, 4, 0, 22, 9, 137,16, Philadelphia Flyers, 5, 2, 2, 1, 3, 35, 17, 139,True
+2016, 1, 21,20, Tampa Bay Lightning, 7, 1, 6, 11, 1, 27, 18, 160,7, Chicago Blackhawks, 10, 1, 3, 7, 1, 39, 12, 161,True
+2016, 1, 21,11, Toronto Maple Leafs, 4, 1, 3, 6, 2, 33, 13, 140,5, Carolina Hurricanes, 5, 1, 1, 1, 5, 32, 15, 101,False
+2016, 1, 21,24, Winnipeg Jets, 4, 2, 1, 2, 2, 34, 12, 115,12, Nashville Predators, 2, 0, 1, 2, 3, 26, 14, 183,False
+2016, 1, 22,26, Buffalo Sabres, 4, 1, 1, 3, 2, 35, 21, 266,19, Detroit Red Wings, 5, 1, 1, 2, 2, 20, 6, 101,False
+2016, 1, 22,5, Carolina Hurricanes, 5, 0, 1, 2, 0, 32, 10, 101,1, New York Rangers, 5, 2, 4, 5, 2, 20, 15, 121,False
+2016, 1, 22,9, Colorado Avalanche, 6, 2, 2, 3, 1, 28, 10, 127,18, St. Louis Blues, 5, 0, 2, 5, 1, 30, 8, 105,True
+2016, 1, 22,4, Florida Panthers, 6, 0, 2, 2, 2, 31, 19, 186,7, Chicago Blackhawks, 9, 2, 2, 1, 1, 29, 13, 155,True
+2016, 1, 22,25, Ottawa Senators, 4, 2, 3, 6, 1, 12, 11, 126,14, New York Islanders, 5, 0, 1, 2, 1, 26, 25, 249,False
+2016, 1, 23,30, Arizona Coyotes, 5, 1, 1, 2, 2, 22, 14, 119,6, Los Angeles Kings, 6, 1, 0, 1, 3, 28, 15, 162,True
+2016, 1, 23,0, Boston Bruins, 4, 0, 2, 3, 1, 34, 12, 116,13, Columbus Blue Jackets, 4, 2, 3, 5, 2, 14, 21, 165,True
+2016, 1, 23,2, Dallas Stars, 3, 0, 3, 5, 2, 25, 31, 255,9, Colorado Avalanche, 7, 2, 1, 2, 1, 34, 10, 133,False
+2016, 1, 23,19, Detroit Red Wings, 6, 1, 3, 5, 3, 30, 5, 99,23, Anaheim Ducks, 6, 1, 3, 6, 1, 26, 15, 149,False
+2016, 1, 23,29, Edmonton Oilers, 4, 0, 2, 3, 3, 35, 34, 318,12, Nashville Predators, 3, 2, 4, 7, 1, 27, 12, 184,False
+2016, 1, 23,4, Florida Panthers, 6, 1, 4, 3, 0, 27, 17, 182,20, Tampa Bay Lightning, 8, 1, 2, 4, 1, 18, 18, 151,True
+2016, 1, 23,17, Pittsburgh Penguins, 5, 1, 4, 6, 3, 32, 12, 147,22, Vancouver Canucks, 6, 1, 4, 8, 3, 49, 23, 245,True
+2016, 1, 23,28, San Jose Sharks, 7, 1, 3, 6, 1, 24, 12, 89,8, Minnesota Wild, 3, 1, 3, 5, 0, 32, 14, 128,True
+2016, 1, 23,11, Toronto Maple Leafs, 4, 0, 0, 0, 1, 41, 12, 148,10, Montreal Canadiens, 3, 2, 1, 2, 3, 23, 11, 102,False
+2016, 1, 23,24, Winnipeg Jets, 4, 2, 1, 2, 3, 27, 13, 108,15, New Jersey Devils, 5, 0, 7, 10, 3, 32, 19, 162,False
+2016, 1, 24,5, Carolina Hurricanes, 5, 1, 1, 2, 4, 32, 14, 101,27, Calgary Flames, 4, 1, 4, 7, 2, 29, 27, 207,True
+2016, 1, 24,7, Chicago Blackhawks, 8, 1, 0, 0, 2, 33, 16, 158,18, St. Louis Blues, 5, 1, 1, 1, 1, 41, 9, 120,True
+2016, 1, 24,25, Ottawa Senators, 4, 0, 2, 4, 4, 7, 18, 160,1, New York Rangers, 6, 2, 4, 5, 1, 31, 14, 121,True
+2016, 1, 24,28, San Jose Sharks, 7, 1, 4, 7, 3, 28, 14, 93,6, Los Angeles Kings, 5, 1, 2, 2, 4, 33, 17, 162,False
+2016, 1, 25,13, Columbus Blue Jackets, 3, 0, 2, 3, 2, 34, 21, 185,10, Montreal Canadiens, 3, 2, 2, 4, 2, 19, 10, 98,True
+2016, 1, 25,2, Dallas Stars, 2, 0, 1, 2, 3, 15, 30, 244,27, Calgary Flames, 4, 2, 2, 4, 3, 19, 27, 189,True
+2016, 1, 25,8, Minnesota Wild, 3, 1, 3, 6, 2, 26, 18, 129,30, Arizona Coyotes, 5, 1, 3, 6, 2, 28, 14, 125,False
+2016, 1, 25,14, New York Islanders, 6, 1, 5, 7, 2, 30, 26, 253,19, Detroit Red Wings, 6, 1, 3, 5, 0, 19, 6, 104,False
+2016, 1, 25,1, New York Rangers, 5, 2, 0, 0, 2, 32, 15, 122,26, Buffalo Sabres, 4, 0, 0, 0, 1, 27, 20, 254,True
+2016, 1, 25,16, Philadelphia Flyers, 5, 2, 3, 6, 1, 30, 18, 149,0, Boston Bruins, 5, 0, 2, 4, 3, 26, 17, 120,False
+2016, 1, 26,0, Boston Bruins, 6, 0, 3, 6, 2, 33, 16, 130,23, Anaheim Ducks, 6, 2, 4, 8, 2, 24, 16, 142,False
+2016, 1, 26,5, Carolina Hurricanes, 6, 1, 5, 6, 2, 35, 12, 104,7, Chicago Blackhawks, 8, 1, 2, 3, 0, 25, 14, 150,True
+2016, 1, 26,4, Florida Panthers, 6, 1, 5, 7, 2, 40, 19, 195,11, Toronto Maple Leafs, 3, 1, 2, 4, 2, 29, 13, 136,True
+2016, 1, 26,10, Montreal Canadiens, 3, 1, 2, 4, 4, 32, 12, 103,13, Columbus Blue Jackets, 3, 1, 5, 9, 2, 34, 21, 185,False
+2016, 1, 26,25, Ottawa Senators, 5, 2, 3, 3, 0, 35, 14, 188,26, Buffalo Sabres, 4, 0, 3, 5, 2, 44, 26, 260,False
+2016, 1, 26,17, Pittsburgh Penguins, 5, 0, 5, 6, 4, 32, 13, 147,15, New Jersey Devils, 5, 2, 3, 5, 1, 23, 17, 153,True
+2016, 1, 26,28, San Jose Sharks, 7, 1, 2, 4, 3, 32, 12, 106,9, Colorado Avalanche, 7, 1, 2, 2, 2, 21, 10, 142,True
+2016, 1, 26,22, Vancouver Canucks, 5, 1, 5, 6, 4, 29, 18, 201,12, Nashville Predators, 4, 1, 4, 4, 1, 24, 11, 179,False
+2016, 1, 26,24, Winnipeg Jets, 3, 1, 1, 2, 3, 16, 13, 97,30, Arizona Coyotes, 6, 1, 1, 1, 1, 35, 12, 130,True
+2016, 1, 27,27, Calgary Flames, 4, 2, 0, 2, 2, 30, 26, 200,12, Nashville Predators, 4, 0, 2, 3, 0, 29, 11, 184,False
+2016, 1, 27,6, Los Angeles Kings, 5, 1, 3, 5, 3, 24, 13, 148,9, Colorado Avalanche, 6, 1, 2, 1, 4, 20, 13, 144,False
+2016, 1, 27,20, Tampa Bay Lightning, 8, 1, 2, 3, 0, 4, 15, 137,11, Toronto Maple Leafs, 2, 1, 1, 2, 3, 45, 16, 127,True
+2016, 1, 27,21, Washington Capitals, 7, 1, 6, 11, 3, 35, 7, 91,16, Philadelphia Flyers, 5, 1, 2, 4, 3, 31, 20, 150,False
+2016, 2, 2,23, Anaheim Ducks, 7, 2, 5, 11, 2, 34, 16, 152,28, San Jose Sharks, 8, 0, 6, 8, 1, 22, 10, 96,True
+2016, 2, 2,30, Arizona Coyotes, 5, 1, 2, 2, 5, 25, 14, 116,6, Los Angeles Kings, 5, 1, 3, 6, 4, 19, 14, 130,False
+2016, 2, 2,0, Boston Bruins, 5, 2, 2, 4, 3, 22, 17, 99,11, Toronto Maple Leafs, 1, 0, 0, 0, 5, 27, 14, 111,False
+2016, 2, 2,9, Colorado Avalanche, 6, 0, 4, 8, 3, 38, 12, 162,7, Chicago Blackhawks, 7, 2, 0, 0, 3, 16, 16, 131,False
+2016, 2, 2,29, Edmonton Oilers, 3, 0, 1, 2, 3, 24, 33, 298,13, Columbus Blue Jackets, 4, 2, 5, 5, 2, 30, 21, 181,True
+2016, 2, 2,15, New Jersey Devils, 5, 1, 0, 1, 2, 31, 18, 161,1, New York Rangers, 6, 1, 5, 10, 3, 26, 14, 129,True
+2016, 2, 2,12, Nashville Predators, 5, 0, 2, 4, 1, 29, 12, 182,18, St. Louis Blues, 5, 2, 0, 0, 2, 25, 11, 99,False
+2016, 2, 2,14, New York Islanders, 5, 0, 2, 2, 4, 34, 33, 253,8, Minnesota Wild, 2, 2, 1, 2, 1, 24, 17, 127,True
+2016, 2, 2,16, Philadelphia Flyers, 6, 1, 4, 6, 4, 45, 20, 149,10, Montreal Canadiens, 2, 1, 2, 4, 4, 24, 12, 96,True
+2016, 2, 2,17, Pittsburgh Penguins, 5, 1, 2, 6, 0, 25, 9, 140,25, Ottawa Senators, 4, 1, 2, 4, 3, 22, 17, 167,True
+2016, 2, 2,24, Winnipeg Jets, 4, 0, 5, 7, 2, 34, 12, 115,2, Dallas Stars, 3, 2, 2, 4, 1, 24, 27, 247,False
+2016, 2, 2,21, Washington Capitals, 7, 1, 3, 5, 0, 11, 8, 87,4, Florida Panthers, 6, 1, 5, 6, 4, 24, 18, 178,False
+2016, 2, 3,27, Calgary Flames, 3, 0, 2, 2, 2, 24, 26, 194,5, Carolina Hurricanes, 7, 2, 5, 8, 0, 26, 10, 95,True
+2016, 2, 3,10, Montreal Canadiens, 2, 1, 2, 4, 3, 35, 11, 107,26, Buffalo Sabres, 5, 1, 3, 1, 2, 36, 23, 235,False
+2016, 2, 3,20, Tampa Bay Lightning, 8, 0, 1, 2, 4, 30, 16, 161,19, Detroit Red Wings, 6, 2, 4, 6, 2, 29, 8, 97,True
+2016, 2, 4,30, Arizona Coyotes, 4, 0, 2, 1, 5, 25, 19, 120,7, Chicago Blackhawks, 7, 2, 2, 4, 1, 23, 14, 138,False
+2016, 2, 4,26, Buffalo Sabres, 6, 1, 4, 7, 5, 32, 23, 234,0, Boston Bruins, 5, 1, 3, 6, 4, 35, 18, 112,False
+2016, 2, 4,9, Colorado Avalanche, 6, 2, 1, 2, 2, 42, 11, 166,2, Dallas Stars, 4, 0, 5, 6, 3, 24, 29, 247,False
+2016, 2, 4,4, Florida Panthers, 6, 2, 5, 9, 1, 23, 16, 192,19, Detroit Red Wings, 5, 0, 1, 2, 4, 35, 9, 91,True
+2016, 2, 4,6, Los Angeles Kings, 5, 1, 6, 11, 2, 26, 12, 137,23, Anaheim Ducks, 7, 1, 3, 5, 3, 27, 16, 150,False
+2016, 2, 4,12, Nashville Predators, 5, 0, 0, 0, 1, 23, 16, 182,16, Philadelphia Flyers, 6, 2, 4, 8, 2, 32, 18, 136,False
+2016, 2, 4,1, New York Rangers, 5, 1, 3, 4, 3, 25, 14, 128,8, Minnesota Wild, 2, 1, 3, 6, 5, 30, 17, 108,True
+2016, 2, 4,25, Ottawa Senators, 4, 2, 5, 9, 6, 44, 17, 183,29, Edmonton Oilers, 3, 0, 5, 9, 1, 37, 33, 316,False
+2016, 2, 4,18, St. Louis Blues, 6, 2, 1, 2, 0, 16, 9, 90,28, San Jose Sharks, 7, 0, 2, 4, 3, 25, 14, 99,False
+2016, 2, 4,11, Toronto Maple Leafs, 2, 1, 4, 8, 3, 42, 12, 126,15, New Jersey Devils, 6, 1, 3, 5, 4, 36, 18, 163,True
+2016, 2, 4,22, Vancouver Canucks, 5, 1, 1, 2, 2, 19, 22, 207,13, Columbus Blue Jackets, 4, 1, 1, 1, 5, 35, 23, 181,False
+2016, 2, 4,21, Washington Capitals, 7, 2, 2, 3, 4, 32, 12, 94,14, New York Islanders, 5, 0, 5, 9, 3, 25, 29, 263,True
+2016, 2, 5,23, Anaheim Ducks, 8, 0, 4, 6, 2, 32, 15, 148,30, Arizona Coyotes, 3, 2, 4, 8, 1, 10, 17, 134,True
+2016, 2, 5,27, Calgary Flames, 3, 1, 4, 8, 1, 29, 25, 199,13, Columbus Blue Jackets, 5, 1, 1, 2, 1, 38, 19, 184,False
+2016, 2, 5,20, Tampa Bay Lightning, 9, 1, 3, 4, 1, 25, 17, 187,17, Pittsburgh Penguins, 6, 1, 6, 8, 5, 23, 14, 138,True
+2016, 2, 5,24, Winnipeg Jets, 3, 2, 3, 4, 4, 26, 12, 121,5, Carolina Hurricanes, 6, 0, 1, 2, 3, 22, 14, 93,False
+2016, 2, 6,0, Boston Bruins, 6, 2, 2, 3, 2, 28, 13, 106,26, Buffalo Sabres, 5, 0, 2, 3, 2, 35, 22, 258,True
+2016, 2, 6,9, Colorado Avalanche, 6, 2, 3, 6, 1, 43, 13, 168,24, Winnipeg Jets, 3, 0, 3, 6, 2, 23, 9, 89,False
+2016, 2, 6,2, Dallas Stars, 5, 2, 3, 5, 3, 24, 32, 261,7, Chicago Blackhawks, 7, 0, 5, 7, 4, 28, 17, 143,False
+2016, 2, 6,19, Detroit Red Wings, 4, 1, 3, 4, 3, 23, 10, 88,14, New York Islanders, 5, 1, 2, 5, 3, 23, 29, 261,True
+2016, 2, 6,4, Florida Panthers, 6, 0, 6, 10, 3, 39, 18, 208,17, Pittsburgh Penguins, 6, 2, 3, 5, 1, 14, 10, 119,False
+2016, 2, 6,10, Montreal Canadiens, 1, 0, 2, 3, 4, 25, 11, 103,29, Edmonton Oilers, 4, 2, 7, 14, 2, 38, 34, 317,True
+2016, 2, 6,15, New Jersey Devils, 6, 0, 2, 4, 2, 33, 16, 166,21, Washington Capitals, 7, 2, 3, 5, 2, 26, 10, 88,False
+2016, 2, 6,12, Nashville Predators, 5, 1, 3, 6, 6, 19, 19, 177,28, San Jose Sharks, 7, 1, 3, 3, 1, 27, 12, 88,True
+2016, 2, 6,25, Ottawa Senators, 3, 1, 2, 4, 3, 10, 15, 141,11, Toronto Maple Leafs, 3, 1, 2, 4, 2, 34, 8, 117,True
+2016, 2, 6,16, Philadelphia Flyers, 6, 1, 6, 9, 3, 40, 19, 144,1, New York Rangers, 6, 1, 4, 7, 2, 18, 16, 107,False
+2016, 2, 6,18, St. Louis Blues, 6, 1, 1, 2, 3, 32, 13, 94,8, Minnesota Wild, 1, 1, 2, 2, 3, 29, 15, 107,True
+2016, 2, 6,22, Vancouver Canucks, 4, 1, 1, 2, 1, 28, 21, 208,27, Calgary Flames, 3, 1, 1, 2, 2, 17, 26, 188,False
+2016, 2, 7,10, Montreal Canadiens, 2, 1, 5, 7, 1, 24, 8, 102,5, Carolina Hurricanes, 6, 1, 5, 8, 3, 36, 14, 107,True
+2016, 2, 7,14, New York Islanders, 4, 1, 1, 2, 2, 20, 24, 198,29, Edmonton Oilers, 4, 1, 1, 2, 1, 13, 30, 290,True
+2016, 2, 7,21, Washington Capitals, 7, 1, 2, 4, 2, 24, 10, 86,16, Philadelphia Flyers, 5, 1, 2, 4, 2, 28, 18, 132,True
+2016, 2, 8,19, Detroit Red Wings, 4, 0, 4, 9, 1, 29, 8, 94,4, Florida Panthers, 5, 2, 2, 4, 2, 38, 18, 204,True
+2016, 2, 8,1, New York Rangers, 6, 0, 2, 4, 2, 28, 17, 115,15, New Jersey Devils, 5, 2, 2, 4, 2, 29, 16, 162,True
+2016, 2, 8,25, Ottawa Senators, 4, 0, 6, 12, 1, 27, 13, 158,20, Tampa Bay Lightning, 9, 2, 6, 10, 0, 30, 19, 192,True
+2016, 2, 8,17, Pittsburgh Penguins, 6, 1, 3, 5, 4, 14, 10, 160,23, Anaheim Ducks, 8, 1, 5, 8, 2, 25, 14, 159,True
+2016, 2, 9,0, Boston Bruins, 7, 1, 2, 2, 1, 38, 12, 116,6, Los Angeles Kings, 5, 1, 2, 4, 3, 9, 13, 105,False
+2016, 2, 9,26, Buffalo Sabres, 4, 1, 1, 2, 2, 38, 23, 261,4, Florida Panthers, 5, 1, 0, 0, 3, 35, 19, 197,False
+2016, 2, 9,13, Columbus Blue Jackets, 6, 0, 2, 3, 1, 31, 19, 167,14, New York Islanders, 5, 2, 8, 14, 4, 13, 25, 195,False
+2016, 2, 9,27, Calgary Flames, 4, 1, 3, 6, 1, 35, 25, 206,11, Toronto Maple Leafs, 3, 1, 1, 1, 3, 8, 11, 90,True
+2016, 2, 9,7, Chicago Blackhawks, 7, 2, 5, 7, 1, 37, 14, 152,28, San Jose Sharks, 6, 0, 2, 4, 5, 29, 15, 101,False
+2016, 2, 9,9, Colorado Avalanche, 5, 1, 2, 4, 4, 39, 16, 164,22, Vancouver Canucks, 4, 1, 1, 2, 2, 30, 23, 215,False
+2016, 2, 9,8, Minnesota Wild, 1, 1, 1, 2, 0, 8, 16, 102,2, Dallas Stars, 4, 1, 1, 2, 2, 15, 31, 234,False
+2016, 2, 9,10, Montreal Canadiens, 3, 1, 1, 2, 1, 35, 8, 113,20, Tampa Bay Lightning, 8, 1, 1, 2, 3, 30, 23, 190,True
+2016, 2, 9,15, New Jersey Devils, 5, 0, 1, 2, 2, 37, 16, 170,29, Edmonton Oilers, 4, 2, 1, 1, 5, 21, 34, 289,True
+2016, 2, 9,12, Nashville Predators, 6, 2, 6, 9, 2, 30, 16, 183,21, Washington Capitals, 7, 0, 3, 4, 2, 35, 10, 97,False
+2016, 2, 9,16, Philadelphia Flyers, 4, 0, 2, 3, 3, 30, 19, 134,23, Anaheim Ducks, 8, 2, 2, 2, 0, 4, 18, 145,False
+2016, 2, 9,18, St. Louis Blues, 6, 2, 4, 6, 1, 39, 9, 119,24, Winnipeg Jets, 4, 0, 2, 3, 3, 6, 10, 93,False
+2016, 2, 10,30, Arizona Coyotes, 2, 1, 2, 3, 5, 40, 22, 160,22, Vancouver Canucks, 4, 1, 3, 5, 2, 28, 21, 198,False
+2016, 2, 10,19, Detroit Red Wings, 5, 2, 3, 6, 0, 23, 9, 97,25, Ottawa Senators, 5, 0, 5, 6, 1, 32, 16, 134,True
+2016, 2, 10,17, Pittsburgh Penguins, 7, 0, 6, 9, 2, 38, 8, 184,1, New York Rangers, 7, 2, 2, 4, 1, 28, 13, 120,False
+2016, 2, 11,13, Columbus Blue Jackets, 5, 1, 2, 3, 2, 46, 20, 177,23, Anaheim Ducks, 8, 1, 4, 6, 1, 29, 19, 170,True
+2016, 2, 11,7, Chicago Blackhawks, 6, 1, 0, 0, 1, 26, 14, 141,2, Dallas Stars, 5, 1, 3, 7, 3, 40, 32, 259,False
+2016, 2, 11,29, Edmonton Oilers, 4, 1, 1, 2, 2, 26, 31, 294,11, Toronto Maple Leafs, 3, 1, 3, 4, 3, 17, 13, 108,True
+2016, 2, 11,8, Minnesota Wild, 1, 1, 3, 6, 4, 24, 20, 124,21, Washington Capitals, 7, 1, 5, 9, 3, 26, 11, 88,False
+2016, 2, 11,14, New York Islanders, 6, 0, 2, 3, 1, 31, 23, 213,6, Los Angeles Kings, 5, 2, 9, 14, 1, 15, 9, 158,True
+2016, 2, 11,25, Ottawa Senators, 4, 1, 1, 2, 4, 18, 17, 130,9, Colorado Avalanche, 5, 1, 1, 2, 3, 28, 15, 153,False
+2016, 2, 11,16, Philadelphia Flyers, 4, 0, 1, 2, 3, 25, 19, 129,26, Buffalo Sabres, 4, 2, 3, 7, 4, 12, 27, 244,True
+2016, 2, 11,28, San Jose Sharks, 6, 1, 2, 4, 3, 17, 11, 104,27, Calgary Flames, 4, 1, 5, 6, 2, 18, 27, 207,False
+2016, 2, 11,24, Winnipeg Jets, 5, 2, 3, 3, 1, 22, 8, 109,0, Boston Bruins, 6, 0, 2, 4, 5, 32, 18, 108,False
+2016, 2, 12,30, Arizona Coyotes, 2, 2, 1, 2, 2, 26, 18, 154,27, Calgary Flames, 5, 0, 5, 8, 0, 8, 27, 195,True
+2016, 2, 12,26, Buffalo Sabres, 3, 1, 1, 1, 2, 22, 28, 260,10, Montreal Canadiens, 4, 1, 4, 7, 2, 39, 9, 117,True
+2016, 2, 12,5, Carolina Hurricanes, 5, 1, 1, 1, 1, 34, 12, 105,17, Pittsburgh Penguins, 7, 1, 0, 0, 2, 21, 9, 166,False
+2016, 2, 12,19, Detroit Red Wings, 5, 1, 4, 5, 1, 23, 10, 97,9, Colorado Avalanche, 5, 1, 4, 7, 3, 29, 15, 154,False
+2016, 2, 12,4, Florida Panthers, 6, 1, 7, 12, 4, 34, 19, 196,18, St. Louis Blues, 5, 1, 1, 2, 1, 33, 9, 113,False
+2016, 2, 12,1, New York Rangers, 7, 1, 3, 3, 4, 23, 12, 136,6, Los Angeles Kings, 5, 1, 1, 3, 0, 10, 13, 151,False
+2016, 2, 12,20, Tampa Bay Lightning, 7, 0, 2, 3, 4, 27, 24, 187,12, Nashville Predators, 6, 2, 3, 6, 4, 22, 17, 183,True
+2016, 2, 13,5, Carolina Hurricanes, 4, 2, 1, 2, 1, 26, 12, 97,14, New York Islanders, 6, 0, 5, 8, 2, 31, 26, 220,True
+2016, 2, 13,13, Columbus Blue Jackets, 5, 0, 3, 4, 3, 27, 19, 175,25, Ottawa Senators, 3, 2, 3, 6, 2, 28, 16, 157,True
+2016, 2, 13,7, Chicago Blackhawks, 5, 2, 2, 6, 4, 18, 16, 134,23, Anaheim Ducks, 7, 0, 3, 5, 6, 31, 22, 174,False
+2016, 2, 13,2, Dallas Stars, 6, 2, 5, 6, 2, 46, 34, 279,21, Washington Capitals, 7, 0, 4, 6, 3, 36, 11, 98,True
+2016, 2, 13,29, Edmonton Oilers, 4, 1, 5, 10, 2, 51, 31, 281,24, Winnipeg Jets, 4, 1, 2, 4, 2, 22, 9, 75,False
+2016, 2, 13,4, Florida Panthers, 6, 1, 3, 4, 3, 13, 17, 159,12, Nashville Predators, 5, 1, 3, 6, 1, 27, 17, 189,False
+2016, 2, 13,8, Minnesota Wild, 1, 0, 3, 6, 4, 30, 19, 132,0, Boston Bruins, 6, 2, 4, 9, 4, 25, 17, 120,False
+2016, 2, 13,16, Philadelphia Flyers, 4, 1, 5, 6, 3, 30, 17, 146,15, New Jersey Devils, 6, 1, 2, 4, 1, 20, 15, 153,False
+2016, 2, 13,28, San Jose Sharks, 5, 1, 5, 10, 0, 33, 11, 82,30, Arizona Coyotes, 3, 1, 4, 7, 1, 27, 17, 155,True
+2016, 2, 13,22, Vancouver Canucks, 5, 1, 2, 4, 1, 34, 18, 196,11, Toronto Maple Leafs, 3, 1, 1, 3, 4, 22, 15, 94,False
+2016, 2, 14,26, Buffalo Sabres, 3, 0, 6, 8, 5, 28, 31, 264,9, Colorado Avalanche, 5, 2, 2, 4, 2, 45, 14, 170,True
+2016, 2, 14,19, Detroit Red Wings, 5, 0, 1, 4, 2, 21, 9, 103,0, Boston Bruins, 6, 2, 4, 5, 2, 36, 15, 128,True
+2016, 2, 14,15, New Jersey Devils, 6, 1, 2, 4, 2, 39, 15, 165,6, Los Angeles Kings, 5, 1, 5, 9, 4, 29, 18, 159,True
+2016, 2, 14,1, New York Rangers, 7, 2, 4, 6, 0, 34, 13, 147,16, Philadelphia Flyers, 4, 0, 1, 1, 1, 42, 16, 140,True
+2016, 2, 14,20, Tampa Bay Lightning, 7, 0, 4, 8, 3, 30, 23, 190,18, St. Louis Blues, 6, 2, 5, 9, 3, 32, 15, 109,False
+2016, 2, 15,30, Arizona Coyotes, 3, 1, 1, 1, 3, 27, 19, 155,10, Montreal Canadiens, 4, 1, 4, 6, 2, 13, 13, 86,True
+2016, 2, 15,27, Calgary Flames, 5, 0, 1, 2, 4, 35, 31, 222,23, Anaheim Ducks, 8, 2, 3, 6, 1, 6, 15, 132,False
+2016, 2, 15,7, Chicago Blackhawks, 4, 2, 2, 4, 0, 14, 14, 155,11, Toronto Maple Leafs, 3, 0, 4, 6, 2, 19, 13, 91,True
+2016, 2, 15,4, Florida Panthers, 6, 0, 0, 1, 2, 15, 19, 174,17, Pittsburgh Penguins, 7, 2, 1, 2, 1, 30, 6, 148,True
+2016, 2, 15,12, Nashville Predators, 6, 0, 5, 8, 0, 22, 16, 184,2, Dallas Stars, 7, 2, 4, 6, 3, 11, 32, 245,False
+2016, 2, 15,14, New York Islanders, 5, 0, 3, 6, 0, 3, 27, 184,19, Detroit Red Wings, 6, 2, 6, 11, 5, 32, 11, 82,True
+2016, 2, 15,22, Vancouver Canucks, 4, 1, 2, 5, 1, 30, 20, 198,8, Minnesota Wild, 1, 1, 2, 2, 3, 32, 18, 120,False
+2016, 2, 16,5, Carolina Hurricanes, 5, 1, 6, 9, 1, 10, 10, 73,24, Winnipeg Jets, 4, 1, 1, 2, 1, 22, 7, 92,True
+2016, 2, 16,13, Columbus Blue Jackets, 6, 1, 4, 6, 2, 35, 20, 171,0, Boston Bruins, 6, 1, 7, 6, 5, 24, 17, 94,False
+2016, 2, 16,29, Edmonton Oilers, 3, 1, 1, 1, 2, 36, 29, 257,23, Anaheim Ducks, 8, 1, 6, 10, 4, 37, 18, 145,False
+2016, 2, 16,15, New Jersey Devils, 6, 1, 1, 2, 1, 32, 13, 154,16, Philadelphia Flyers, 4, 1, 1, 2, 2, 24, 18, 128,False
+2016, 2, 16,25, Ottawa Senators, 3, 1, 2, 4, 3, 39, 12, 166,26, Buffalo Sabres, 4, 1, 3, 5, 1, 35, 25, 260,True
+2016, 2, 16,18, St. Louis Blues, 6, 1, 2, 1, 1, 38, 13, 115,2, Dallas Stars, 8, 1, 3, 6, 3, 23, 31, 260,True
+2016, 2, 16,20, Tampa Bay Lightning, 6, 2, 1, 2, 2, 21, 22, 181,28, San Jose Sharks, 6, 0, 4, 8, 1, 23, 12, 113,False
+2016, 2, 16,21, Washington Capitals, 7, 1, 3, 6, 0, 10, 8, 73,6, Los Angeles Kings, 4, 1, 0, 0, 2, 37, 16, 155,True
+2016, 2, 17,27, Calgary Flames, 4, 0, 4, 7, 4, 17, 27, 184,8, Minnesota Wild, 2, 2, 5, 8, 2, 26, 17, 114,False
+2016, 2, 17,9, Colorado Avalanche, 4, 1, 1, 2, 2, 2, 11, 101,10, Montreal Canadiens, 4, 1, 2, 3, 3, 8, 17, 100,True
+2016, 2, 17,1, New York Rangers, 7, 1, 3, 6, 1, 22, 15, 128,7, Chicago Blackhawks, 5, 1, 6, 12, 3, 44, 19, 188,False
+2016, 2, 18,30, Arizona Coyotes, 4, 0, 6, 12, 2, 19, 18, 143,2, Dallas Stars, 7, 2, 2, 2, 2, 26, 30, 259,True
+2016, 2, 18,29, Edmonton Oilers, 3, 1, 3, 6, 3, 29, 31, 272,8, Minnesota Wild, 2, 1, 5, 9, 3, 18, 18, 116,False
+2016, 2, 18,4, Florida Panthers, 6, 1, 1, 2, 1, 32, 22, 195,28, San Jose Sharks, 6, 1, 4, 7, 2, 30, 16, 135,False
+2016, 2, 18,12, Nashville Predators, 5, 1, 2, 3, 4, 28, 19, 190,0, Boston Bruins, 6, 1, 2, 2, 1, 29, 13, 99,True
+2016, 2, 18,14, New York Islanders, 6, 0, 4, 8, 1, 29, 29, 210,21, Washington Capitals, 7, 2, 3, 6, 4, 25, 9, 103,False
+2016, 2, 18,25, Ottawa Senators, 4, 1, 1, 2, 1, 39, 12, 167,5, Carolina Hurricanes, 6, 1, 2, 4, 1, 21, 10, 84,True
+2016, 2, 18,17, Pittsburgh Penguins, 7, 1, 1, 0, 1, 28, 9, 178,19, Detroit Red Wings, 5, 1, 1, 1, 5, 22, 10, 82,True
+2016, 2, 18,18, St. Louis Blues, 6, 1, 2, 4, 1, 18, 13, 95,6, Los Angeles Kings, 4, 1, 1, 2, 2, 31, 15, 159,True
+2016, 2, 18,20, Tampa Bay Lightning, 5, 1, 2, 3, 4, 28, 24, 191,24, Winnipeg Jets, 4, 1, 1, 2, 2, 29, 8, 85,True
+2016, 2, 18,11, Toronto Maple Leafs, 3, 0, 2, 4, 4, 34, 18, 124,1, New York Rangers, 6, 2, 3, 5, 5, 34, 19, 122,False
+2016, 2, 18,22, Vancouver Canucks, 3, 1, 2, 4, 3, 36, 30, 206,23, Anaheim Ducks, 8, 1, 5, 4, 1, 17, 17, 141,False
+2016, 2, 19,5, Carolina Hurricanes, 5, 1, 2, 4, 2, 16, 12, 84,28, San Jose Sharks, 6, 1, 1, 2, 1, 20, 17, 131,True
+2016, 2, 19,13, Columbus Blue Jackets, 6, 1, 1, 0, 2, 30, 20, 166,26, Buffalo Sabres, 4, 1, 2, 2, 1, 26, 26, 247,False
+2016, 2, 19,27, Calgary Flames, 4, 2, 3, 6, 4, 23, 27, 190,22, Vancouver Canucks, 3, 0, 2, 3, 5, 34, 31, 202,True
+2016, 2, 19,10, Montreal Canadiens, 3, 0, 2, 4, 6, 27, 17, 120,16, Philadelphia Flyers, 5, 2, 6, 11, 3, 24, 19, 128,True
+2016, 2, 19,15, New Jersey Devils, 5, 0, 3, 4, 5, 25, 17, 147,14, New York Islanders, 5, 2, 2, 3, 6, 28, 30, 223,False
+2016, 2, 20,30, Arizona Coyotes, 4, 0, 6, 11, 3, 39, 19, 163,18, St. Louis Blues, 6, 2, 2, 2, 1, 35, 7, 111,False
+2016, 2, 20,2, Dallas Stars, 7, 2, 3, 6, 2, 22, 33, 274,0, Boston Bruins, 5, 0, 0, 0, 2, 24, 14, 94,False
+2016, 2, 20,29, Edmonton Oilers, 3, 1, 2, 2, 4, 26, 32, 269,9, Colorado Avalanche, 4, 1, 3, 6, 1, 18, 11, 133,False
+2016, 2, 20,4, Florida Panthers, 5, 1, 1, 2, 5, 28, 22, 180,24, Winnipeg Jets, 4, 1, 5, 7, 2, 27, 11, 82,True
+2016, 2, 20,12, Nashville Predators, 5, 1, 2, 4, 0, 29, 15, 191,6, Los Angeles Kings, 4, 1, 1, 2, 2, 32, 17, 161,False
+2016, 2, 20,25, Ottawa Senators, 4, 0, 4, 7, 2, 32, 12, 172,19, Detroit Red Wings, 5, 2, 2, 6, 5, 32, 6, 66,True
+2016, 2, 20,17, Pittsburgh Penguins, 7, 0, 6, 11, 2, 44, 11, 188,20, Tampa Bay Lightning, 5, 2, 5, 5, 4, 31, 25, 204,False
+2016, 2, 20,11, Toronto Maple Leafs, 3, 2, 2, 4, 3, 19, 17, 109,16, Philadelphia Flyers, 4, 0, 2, 4, 3, 30, 18, 135,False
+2016, 2, 20,21, Washington Capitals, 7, 2, 3, 6, 2, 22, 5, 86,15, New Jersey Devils, 4, 0, 0, 0, 1, 24, 13, 146,True
+2016, 2, 21,23, Anaheim Ducks, 8, 2, 5, 7, 2, 21, 16, 150,27, Calgary Flames, 5, 0, 4, 10, 2, 28, 25, 195,True
+2016, 2, 21,26, Buffalo Sabres, 5, 0, 5, 5, 0, 38, 23, 245,17, Pittsburgh Penguins, 6, 2, 2, 2, 3, 38, 13, 164,False
+2016, 2, 21,5, Carolina Hurricanes, 6, 1, 5, 9, 2, 24, 12, 92,20, Tampa Bay Lightning, 6, 1, 4, 6, 2, 39, 23, 212,False
+2016, 2, 21,8, Minnesota Wild, 3, 2, 5, 8, 3, 28, 17, 131,7, Chicago Blackhawks, 6, 0, 6, 8, 3, 34, 16, 181,True
+2016, 2, 21,1, New York Rangers, 7, 0, 4, 7, 4, 19, 15, 128,19, Detroit Red Wings, 4, 2, 3, 0, 0, 6, 3, 61,True
+2016, 2, 21,22, Vancouver Canucks, 2, 1, 2, 2, 4, 32, 26, 210,9, Colorado Avalanche, 5, 1, 3, 6, 2, 34, 12, 142,True
+2016, 2, 22,0, Boston Bruins, 6, 2, 7, 13, 1, 11, 15, 99,13, Columbus Blue Jackets, 6, 0, 0, 0, 4, 31, 18, 128,False
+2016, 2, 22,10, Montreal Canadiens, 4, 0, 1, 3, 2, 37, 13, 130,12, Nashville Predators, 4, 2, 1, 2, 2, 30, 15, 196,False
+2016, 2, 22,18, St. Louis Blues, 7, 1, 5, 9, 4, 22, 10, 98,28, San Jose Sharks, 6, 1, 2, 3, 4, 36, 20, 147,False
+2016, 2, 22,21, Washington Capitals, 8, 1, 4, 7, 3, 24, 6, 88,30, Arizona Coyotes, 3, 1, 4, 5, 5, 35, 19, 167,True
+2016, 2, 23,5, Carolina Hurricanes, 5, 0, 1, 4, 3, 17, 13, 85,16, Philadelphia Flyers, 4, 2, 5, 10, 1, 10, 17, 98,True
+2016, 2, 23,19, Detroit Red Wings, 4, 0, 1, 0, 2, 27, 8, 108,13, Columbus Blue Jackets, 6, 2, 6, 8, 0, 4, 18, 127,True
+2016, 2, 23,29, Edmonton Oilers, 3, 1, 2, 4, 3, 29, 29, 276,25, Ottawa Senators, 5, 1, 2, 1, 2, 31, 14, 164,False
+2016, 2, 23,6, Los Angeles Kings, 4, 1, 2, 4, 1, 34, 15, 149,27, Calgary Flames, 5, 1, 3, 4, 2, 11, 28, 200,True
+2016, 2, 23,8, Minnesota Wild, 4, 1, 6, 10, 1, 32, 15, 135,14, New York Islanders, 6, 1, 1, 2, 0, 27, 25, 209,False
+2016, 2, 23,15, New Jersey Devils, 4, 1, 3, 5, 4, 32, 16, 154,1, New York Rangers, 7, 1, 1, 2, 0, 22, 11, 126,True
+2016, 2, 23,20, Tampa Bay Lightning, 6, 2, 4, 8, 5, 41, 23, 204,30, Arizona Coyotes, 3, 0, 2, 4, 3, 34, 19, 164,True
+2016, 2, 23,11, Toronto Maple Leafs, 3, 1, 4, 4, 2, 15, 12, 86,12, Nashville Predators, 4, 1, 1, 2, 3, 32, 16, 193,False
+2016, 2, 23,24, Winnipeg Jets, 4, 0, 1, 2, 5, 26, 12, 87,2, Dallas Stars, 6, 2, 3, 6, 5, 41, 37, 293,False
+2016, 2, 24,23, Anaheim Ducks, 8, 1, 5, 9, 3, 27, 19, 158,26, Buffalo Sabres, 4, 1, 3, 5, 4, 31, 26, 252,True
+2016, 2, 24,0, Boston Bruins, 6, 2, 4, 8, 3, 29, 19, 122,17, Pittsburgh Penguins, 6, 0, 4, 7, 3, 27, 13, 153,True
+2016, 2, 24,9, Colorado Avalanche, 4, 1, 2, 2, 2, 27, 14, 136,28, San Jose Sharks, 6, 1, 7, 11, 3, 28, 17, 123,True
+2016, 2, 24,21, Washington Capitals, 9, 2, 3, 6, 2, 27, 7, 99,10, Montreal Canadiens, 4, 0, 2, 3, 1, 30, 12, 123,False
+2016, 2, 25,13, Columbus Blue Jackets, 5, 2, 1, 2, 4, 30, 19, 151,15, New Jersey Devils, 4, 0, 5, 8, 2, 19, 14, 141,True
+2016, 2, 25,27, Calgary Flames, 4, 0, 1, 2, 2, 37, 28, 226,14, New York Islanders, 6, 2, 4, 6, 1, 31, 26, 213,False
+2016, 2, 25,7, Chicago Blackhawks, 5, 2, 1, 3, 4, 23, 15, 137,12, Nashville Predators, 5, 0, 3, 5, 1, 29, 15, 188,False
+2016, 2, 25,2, Dallas Stars, 6, 2, 5, 6, 3, 25, 35, 277,24, Winnipeg Jets, 3, 0, 2, 6, 3, 32, 11, 87,False
+2016, 2, 25,4, Florida Panthers, 5, 1, 3, 4, 1, 30, 18, 182,30, Arizona Coyotes, 3, 1, 1, 2, 2, 36, 18, 166,True
+2016, 2, 25,6, Los Angeles Kings, 5, 2, 2, 4, 1, 23, 15, 151,29, Edmonton Oilers, 2, 0, 1, 2, 3, 24, 31, 269,True
+2016, 2, 25,16, Philadelphia Flyers, 3, 2, 1, 2, 3, 18, 19, 106,8, Minnesota Wild, 4, 0, 1, 2, 3, 30, 17, 133,True
+2016, 2, 25,18, St. Louis Blues, 7, 1, 3, 6, 2, 17, 11, 101,1, New York Rangers, 7, 1, 2, 3, 4, 35, 14, 151,False
+2016, 2, 25,11, Toronto Maple Leafs, 3, 1, 2, 4, 3, 13, 13, 97,5, Carolina Hurricanes, 5, 1, 4, 4, 1, 37, 11, 105,True
+2016, 2, 25,22, Vancouver Canucks, 3, 0, 3, 10, 1, 38, 23, 189,25, Ottawa Senators, 6, 2, 4, 6, 1, 32, 10, 163,True
+2016, 2, 26,23, Anaheim Ducks, 8, 2, 1, 2, 0, 26, 16, 157,29, Edmonton Oilers, 1, 0, 1, 2, 2, 36, 30, 282,True
+2016, 2, 26,5, Carolina Hurricanes, 5, 1, 1, 1, 3, 29, 13, 97,0, Boston Bruins, 6, 1, 5, 5, 1, 42, 17, 135,False
+2016, 2, 26,15, New Jersey Devils, 4, 1, 1, 2, 3, 11, 18, 118,20, Tampa Bay Lightning, 6, 1, 2, 2, 2, 31, 19, 193,False
+2016, 2, 26,28, San Jose Sharks, 6, 1, 3, 4, 3, 41, 17, 119,26, Buffalo Sabres, 3, 1, 0, 0, 4, 30, 24, 250,False
+2016, 2, 26,21, Washington Capitals, 8, 2, 3, 6, 3, 18, 7, 74,8, Minnesota Wild, 4, 0, 2, 4, 2, 33, 17, 134,True
+2016, 2, 27,13, Columbus Blue Jackets, 6, 0, 6, 10, 1, 26, 16, 147,4, Florida Panthers, 5, 2, 3, 6, 2, 24, 19, 176,True
+2016, 2, 27,27, Calgary Flames, 4, 0, 0, 2, 2, 34, 28, 223,25, Ottawa Senators, 6, 2, 3, 5, 4, 35, 11, 156,False
+2016, 2, 27,9, Colorado Avalanche, 5, 1, 3, 6, 4, 28, 15, 142,19, Detroit Red Wings, 5, 1, 2, 1, 1, 29, 7, 110,False
+2016, 2, 27,2, Dallas Stars, 5, 1, 3, 6, 3, 20, 32, 239,1, New York Rangers, 7, 1, 2, 3, 1, 36, 11, 150,False
+2016, 2, 27,6, Los Angeles Kings, 5, 0, 2, 4, 1, 18, 12, 153,26, Buffalo Sabres, 4, 2, 3, 4, 1, 29, 21, 245,True
+2016, 2, 27,10, Montreal Canadiens, 5, 2, 3, 6, 3, 36, 14, 129,11, Toronto Maple Leafs, 3, 0, 3, 5, 1, 31, 11, 115,True
+2016, 2, 27,12, Nashville Predators, 6, 0, 3, 3, 1, 39, 15, 199,18, St. Louis Blues, 6, 2, 1, 2, 2, 23, 11, 107,True
+2016, 2, 27,16, Philadelphia Flyers, 4, 1, 3, 4, 2, 26, 18, 114,30, Arizona Coyotes, 3, 1, 2, 4, 3, 25, 19, 156,True
+2016, 2, 27,17, Pittsburgh Penguins, 5, 1, 1, 3, 5, 29, 15, 155,24, Winnipeg Jets, 4, 1, 6, 12, 3, 30, 11, 85,True
+2016, 2, 28,23, Anaheim Ducks, 8, 1, 2, 4, 2, 24, 17, 149,6, Los Angeles Kings, 6, 1, 2, 4, 1, 27, 14, 163,True
+2016, 2, 28,0, Boston Bruins, 6, 1, 4, 5, 1, 40, 14, 128,20, Tampa Bay Lightning, 6, 1, 4, 7, 0, 21, 17, 183,False
+2016, 2, 28,5, Carolina Hurricanes, 4, 1, 1, 2, 3, 21, 13, 89,18, St. Louis Blues, 6, 1, 0, 0, 4, 23, 14, 113,False
+2016, 2, 28,7, Chicago Blackhawks, 5, 0, 3, 1, 2, 31, 13, 145,21, Washington Capitals, 8, 2, 3, 6, 2, 32, 6, 93,True
+2016, 2, 28,29, Edmonton Oilers, 1, 0, 1, 2, 2, 34, 30, 280,14, New York Islanders, 7, 2, 2, 4, 1, 32, 22, 222,True
+2016, 2, 28,8, Minnesota Wild, 4, 1, 2, 4, 3, 31, 18, 128,4, Florida Panthers, 4, 1, 3, 6, 1, 18, 20, 177,True
+2016, 2, 28,22, Vancouver Canucks, 4, 1, 4, 7, 3, 30, 25, 204,28, San Jose Sharks, 5, 1, 1, 1, 2, 21, 16, 99,False
+2016, 2, 29,2, Dallas Stars, 5, 1, 2, 4, 3, 8, 31, 253,19, Detroit Red Wings, 5, 1, 5, 6, 1, 30, 9, 108,False
+2016, 2, 29,1, New York Rangers, 7, 2, 3, 5, 2, 37, 11, 155,13, Columbus Blue Jackets, 6, 0, 3, 6, 3, 31, 18, 152,True
+2016, 2, 29,16, Philadelphia Flyers, 5, 0, 4, 8, 2, 31, 18, 119,27, Calgary Flames, 3, 2, 4, 7, 5, 33, 31, 214,True
+2016, 2, 29,17, Pittsburgh Penguins, 6, 1, 4, 8, 1, 28, 11, 154,30, Arizona Coyotes, 3, 1, 2, 4, 4, 33, 18, 151,True
+2016, 2, 29,28, San Jose Sharks, 6, 1, 4, 6, 1, 24, 15, 127,10, Montreal Canadiens, 6, 1, 3, 8, 1, 32, 12, 125,True
+2016, 2, 29,11, Toronto Maple Leafs, 2, 0, 1, 1, 2, 15, 14, 120,20, Tampa Bay Lightning, 7, 2, 4, 5, 1, 30, 18, 195,False
+2016, 3, 1,0, Boston Bruins, 6, 0, 1, 1, 4, 30, 17, 118,27, Calgary Flames, 2, 2, 3, 6, 5, 25, 30, 209,True
+2016, 3, 1,26, Buffalo Sabres, 4, 0, 0, 0, 2, 35, 22, 259,29, Edmonton Oilers, 2, 2, 3, 5, 1, 37, 27, 270,False
+2016, 3, 1,8, Minnesota Wild, 5, 1, 3, 3, 1, 18, 16, 115,9, Colorado Avalanche, 5, 1, 2, 6, 4, 27, 15, 141,True
+2016, 3, 1,15, New Jersey Devils, 4, 1, 0, 0, 4, 36, 19, 143,5, Carolina Hurricanes, 4, 1, 3, 4, 3, 21, 15, 108,False
+2016, 3, 1,12, Nashville Predators, 6, 0, 5, 10, 0, 28, 14, 190,2, Dallas Stars, 4, 2, 2, 4, 3, 33, 31, 278,True
+2016, 3, 1,25, Ottawa Senators, 6, 2, 6, 10, 4, 38, 13, 183,18, St. Louis Blues, 6, 0, 4, 9, 2, 34, 14, 118,False
+2016, 3, 1,22, Vancouver Canucks, 4, 2, 3, 4, 5, 33, 21, 192,14, New York Islanders, 7, 0, 1, 2, 3, 35, 25, 217,False
+2016, 3, 1,24, Winnipeg Jets, 4, 0, 1, 2, 4, 26, 12, 74,4, Florida Panthers, 4, 2, 2, 2, 1, 22, 16, 151,False
+2016, 3, 1,21, Washington Capitals, 7, 1, 2, 2, 3, 23, 8, 85,17, Pittsburgh Penguins, 6, 1, 6, 11, 2, 36, 9, 154,True
+2016, 3, 2,23, Anaheim Ducks, 9, 2, 4, 5, 2, 29, 16, 149,10, Montreal Canadiens, 5, 0, 2, 4, 6, 36, 17, 129,True
+2016, 3, 2,19, Detroit Red Wings, 5, 2, 3, 5, 3, 27, 10, 119,7, Chicago Blackhawks, 5, 0, 3, 7, 2, 30, 12, 134,False
+2016, 3, 2,21, Washington Capitals, 7, 2, 3, 5, 1, 16, 7, 92,11, Toronto Maple Leafs, 2, 0, 1, 2, 4, 36, 14, 133,True
+2016, 3, 3,30, Arizona Coyotes, 3, 1, 0, 0, 0, 4, 22, 166,23, Anaheim Ducks, 9, 1, 2, 4, 1, 18, 16, 147,False
+2016, 3, 3,0, Boston Bruins, 6, 1, 2, 4, 1, 25, 14, 113,7, Chicago Blackhawks, 5, 1, 5, 10, 1, 9, 12, 137,True
+2016, 3, 3,26, Buffalo Sabres, 4, 0, 1, 2, 2, 41, 22, 265,27, Calgary Flames, 1, 2, 1, 2, 4, 28, 27, 209,True
+2016, 3, 3,9, Colorado Avalanche, 5, 1, 3, 6, 1, 16, 12, 109,4, Florida Panthers, 5, 1, 3, 5, 2, 32, 17, 161,True
+2016, 3, 3,6, Los Angeles Kings, 5, 2, 2, 2, 4, 29, 16, 154,10, Montreal Canadiens, 4, 0, 2, 4, 3, 28, 13, 128,True
+2016, 3, 3,12, Nashville Predators, 7, 1, 5, 10, 3, 38, 17, 200,15, New Jersey Devils, 4, 1, 2, 2, 3, 13, 17, 125,False
+2016, 3, 3,25, Ottawa Senators, 5, 1, 3, 6, 0, 17, 10, 155,20, Tampa Bay Lightning, 8, 1, 2, 2, 1, 33, 18, 197,False
+2016, 3, 3,16, Philadelphia Flyers, 6, 0, 5, 10, 3, 32, 19, 120,29, Edmonton Oilers, 3, 2, 2, 1, 1, 32, 29, 283,False
+2016, 3, 3,17, Pittsburgh Penguins, 5, 0, 2, 4, 0, 30, 10, 155,1, New York Rangers, 7, 2, 2, 3, 2, 38, 9, 143,True
+2016, 3, 3,11, Toronto Maple Leafs, 2, 0, 2, 5, 2, 28, 13, 123,8, Minnesota Wild, 6, 2, 6, 8, 3, 33, 18, 130,False
+2016, 3, 3,22, Vancouver Canucks, 4, 1, 3, 2, 3, 27, 21, 187,28, San Jose Sharks, 6, 1, 5, 11, 2, 23, 16, 109,False
+2016, 3, 3,24, Winnipeg Jets, 3, 0, 2, 3, 4, 33, 11, 70,14, New York Islanders, 7, 2, 3, 5, 2, 33, 25, 214,False
+2016, 3, 4,13, Columbus Blue Jackets, 5, 1, 1, 0, 2, 23, 17, 144,29, Edmonton Oilers, 3, 1, 4, 5, 1, 33, 26, 275,True
+2016, 3, 4,2, Dallas Stars, 3, 1, 3, 5, 1, 16, 30, 250,15, New Jersey Devils, 4, 1, 5, 10, 2, 18, 18, 146,True
+2016, 3, 4,21, Washington Capitals, 7, 2, 3, 6, 2, 30, 9, 104,1, New York Rangers, 6, 0, 1, 2, 0, 3, 9, 103,False
+2016, 3, 5,30, Arizona Coyotes, 2, 0, 2, 1, 0, 5, 19, 139,4, Florida Panthers, 4, 2, 2, 5, 1, 4, 18, 155,True
+2016, 3, 5,0, Boston Bruins, 6, 0, 4, 8, 2, 27, 15, 115,21, Washington Capitals, 7, 2, 2, 1, 2, 29, 10, 97,False
+2016, 3, 5,26, Buffalo Sabres, 5, 1, 6, 7, 3, 29, 24, 255,8, Minnesota Wild, 7, 1, 2, 2, 1, 22, 16, 119,False
+2016, 3, 5,9, Colorado Avalanche, 6, 2, 3, 5, 2, 40, 13, 133,12, Nashville Predators, 7, 0, 4, 8, 5, 33, 18, 194,False
+2016, 3, 5,6, Los Angeles Kings, 6, 0, 3, 3, 2, 15, 14, 150,23, Anaheim Ducks, 10, 2, 5, 9, 1, 28, 17, 163,False
+2016, 3, 5,16, Philadelphia Flyers, 5, 0, 0, 0, 3, 14, 20, 119,13, Columbus Blue Jackets, 6, 2, 6, 10, 1, 28, 18, 157,True
+2016, 3, 5,17, Pittsburgh Penguins, 6, 1, 4, 7, 1, 28, 12, 149,27, Calgary Flames, 1, 1, 3, 6, 2, 25, 28, 215,False
+2016, 3, 5,28, San Jose Sharks, 7, 2, 3, 5, 3, 26, 20, 138,22, Vancouver Canucks, 3, 0, 2, 4, 3, 24, 22, 190,False
+2016, 3, 5,20, Tampa Bay Lightning, 8, 2, 4, 4, 1, 34, 18, 198,5, Carolina Hurricanes, 5, 0, 3, 3, 1, 30, 13, 117,True
+2016, 3, 5,11, Toronto Maple Leafs, 2, 0, 1, 2, 3, 23, 13, 116,25, Ottawa Senators, 5, 2, 1, 1, 3, 28, 14, 161,False
+2016, 3, 5,24, Winnipeg Jets, 2, 1, 3, 6, 3, 22, 15, 86,10, Montreal Canadiens, 3, 1, 2, 3, 2, 35, 13, 131,True
+2016, 3, 6,7, Chicago Blackhawks, 4, 1, 2, 3, 2, 33, 16, 160,19, Detroit Red Wings, 4, 1, 2, 4, 5, 33, 12, 125,True
+2016, 3, 6,8, Minnesota Wild, 7, 1, 2, 4, 2, 32, 17, 129,18, St. Louis Blues, 7, 1, 3, 6, 3, 43, 15, 127,False
+2016, 3, 6,15, New Jersey Devils, 3, 1, 2, 4, 0, 6, 15, 118,17, Pittsburgh Penguins, 5, 1, 2, 3, 3, 37, 15, 151,False
+2016, 3, 6,1, New York Rangers, 7, 0, 3, 5, 2, 34, 11, 134,14, New York Islanders, 7, 2, 3, 7, 3, 26, 26, 210,False
+2016, 3, 6,25, Ottawa Senators, 6, 1, 3, 3, 2, 43, 13, 176,2, Dallas Stars, 3, 1, 4, 7, 2, 20, 31, 254,False
+2016, 3, 6,24, Winnipeg Jets, 3, 1, 4, 5, 2, 28, 14, 92,29, Edmonton Oilers, 3, 1, 3, 6, 0, 35, 33, 263,False
+2016, 3, 7,23, Anaheim Ducks, 10, 0, 3, 5, 2, 27, 18, 169,21, Washington Capitals, 7, 2, 2, 4, 3, 23, 9, 102,False
+2016, 3, 7,27, Calgary Flames, 2, 1, 4, 7, 2, 31, 28, 221,28, San Jose Sharks, 6, 1, 2, 2, 2, 30, 20, 137,False
+2016, 3, 7,9, Colorado Avalanche, 5, 0, 2, 4, 3, 12, 14, 131,30, Arizona Coyotes, 3, 2, 5, 8, 1, 33, 22, 161,True
+2016, 3, 7,4, Florida Panthers, 4, 0, 1, 2, 3, 26, 21, 187,0, Boston Bruins, 6, 2, 1, 2, 2, 30, 15, 118,False
+2016, 3, 7,6, Los Angeles Kings, 5, 2, 2, 4, 3, 22, 14, 183,22, Vancouver Canucks, 3, 0, 5, 8, 3, 30, 25, 190,True
+2016, 3, 7,16, Philadelphia Flyers, 6, 1, 6, 11, 0, 19, 17, 124,20, Tampa Bay Lightning, 9, 1, 4, 5, 1, 32, 20, 191,True
+2016, 3, 7,11, Toronto Maple Leafs, 1, 0, 2, 1, 2, 22, 13, 124,26, Buffalo Sabres, 4, 2, 2, 4, 1, 25, 24, 254,False
+2016, 3, 8,26, Buffalo Sabres, 4, 0, 3, 5, 2, 30, 26, 262,1, New York Rangers, 6, 2, 4, 7, 5, 31, 15, 136,False
+2016, 3, 8,5, Carolina Hurricanes, 4, 1, 3, 6, 5, 40, 16, 117,25, Ottawa Senators, 6, 1, 1, 2, 2, 25, 14, 142,True
+2016, 3, 8,13, Columbus Blue Jackets, 5, 1, 0, 0, 3, 36, 22, 169,19, Detroit Red Wings, 4, 1, 1, 1, 2, 21, 9, 77,True
+2016, 3, 8,29, Edmonton Oilers, 4, 1, 2, 4, 1, 40, 34, 268,28, San Jose Sharks, 6, 1, 2, 2, 3, 25, 19, 155,False
+2016, 3, 8,10, Montreal Canadiens, 3, 1, 2, 4, 3, 31, 14, 125,2, Dallas Stars, 3, 1, 2, 4, 1, 24, 30, 258,True
+2016, 3, 8,14, New York Islanders, 7, 1, 6, 11, 4, 26, 26, 196,17, Pittsburgh Penguins, 6, 1, 6, 9, 4, 30, 13, 132,True
+2016, 3, 8,20, Tampa Bay Lightning, 9, 1, 2, 4, 3, 27, 22, 198,0, Boston Bruins, 6, 1, 5, 9, 5, 34, 16, 125,False
+2016, 3, 8,24, Winnipeg Jets, 2, 1, 1, 2, 2, 31, 10, 85,12, Nashville Predators, 7, 1, 5, 7, 2, 36, 16, 181,False
+2016, 3, 9,27, Calgary Flames, 2, 1, 1, 1, 2, 23, 28, 213,12, Nashville Predators, 8, 1, 4, 8, 2, 27, 16, 168,True
+2016, 3, 9,9, Colorado Avalanche, 5, 2, 3, 6, 1, 38, 12, 157,23, Anaheim Ducks, 9, 0, 1, 2, 1, 32, 17, 174,True
+2016, 3, 9,6, Los Angeles Kings, 6, 1, 5, 7, 1, 22, 12, 185,21, Washington Capitals, 7, 1, 1, 2, 1, 28, 7, 107,True
+2016, 3, 9,18, St. Louis Blues, 7, 0, 4, 4, 2, 32, 12, 122,7, Chicago Blackhawks, 5, 2, 4, 8, 1, 34, 16, 170,True
+2016, 3, 9,11, Toronto Maple Leafs, 1, 1, 2, 6, 3, 27, 11, 137,14, New York Islanders, 8, 1, 2, 4, 0, 3, 20, 176,True
+2016, 3, 9,22, Vancouver Canucks, 3, 1, 1, 2, 2, 34, 26, 188,30, Arizona Coyotes, 2, 1, 1, 2, 3, 37, 24, 165,True
+2016, 3, 10,0, Boston Bruins, 7, 2, 1, 2, 4, 51, 11, 133,5, Carolina Hurricanes, 4, 0, 3, 4, 3, 24, 14, 101,False
+2016, 3, 10,19, Detroit Red Wings, 3, 0, 3, 5, 2, 5, 6, 95,24, Winnipeg Jets, 2, 2, 2, 4, 4, 27, 12, 85,True
+2016, 3, 10,4, Florida Panthers, 4, 2, 4, 8, 4, 16, 18, 167,25, Ottawa Senators, 5, 0, 3, 3, 3, 31, 13, 160,True
+2016, 3, 10,8, Minnesota Wild, 6, 2, 2, 3, 0, 18, 15, 104,29, Edmonton Oilers, 4, 0, 0, 1, 3, 22, 36, 252,False
+2016, 3, 10,10, Montreal Canadiens, 4, 0, 4, 7, 3, 29, 14, 127,26, Buffalo Sabres, 4, 2, 2, 3, 3, 14, 24, 224,True
+2016, 3, 10,28, San Jose Sharks, 6, 1, 3, 6, 1, 48, 16, 168,15, New Jersey Devils, 2, 1, 1, 1, 6, 30, 21, 142,False
+2016, 3, 11,13, Columbus Blue Jackets, 5, 1, 5, 10, 2, 13, 22, 168,17, Pittsburgh Penguins, 5, 1, 1, 2, 2, 27, 11, 136,False
+2016, 3, 11,27, Calgary Flames, 2, 0, 3, 6, 2, 26, 28, 216,30, Arizona Coyotes, 1, 2, 2, 4, 3, 31, 24, 159,False
+2016, 3, 11,2, Dallas Stars, 3, 1, 3, 4, 4, 28, 33, 262,7, Chicago Blackhawks, 5, 1, 2, 3, 2, 30, 17, 166,True
+2016, 3, 11,18, St. Louis Blues, 7, 1, 2, 4, 2, 35, 12, 125,23, Anaheim Ducks, 8, 1, 0, 0, 2, 34, 19, 168,True
+2016, 3, 11,20, Tampa Bay Lightning, 8, 1, 0, 0, 1, 33, 20, 204,16, Philadelphia Flyers, 7, 1, 4, 7, 2, 18, 19, 123,False
+2016, 3, 12,0, Boston Bruins, 6, 2, 2, 3, 3, 28, 10, 110,14, New York Islanders, 7, 0, 3, 2, 3, 36, 23, 209,True
+2016, 3, 12,26, Buffalo Sabres, 3, 2, 2, 5, 0, 11, 24, 244,5, Carolina Hurricanes, 5, 0, 3, 6, 2, 32, 13, 109,True
+2016, 3, 12,2, Dallas Stars, 4, 1, 5, 7, 4, 18, 31, 257,18, St. Louis Blues, 7, 1, 5, 4, 2, 28, 12, 118,False
+2016, 3, 12,19, Detroit Red Wings, 4, 1, 3, 5, 2, 25, 6, 115,1, New York Rangers, 7, 1, 3, 5, 3, 22, 12, 131,True
+2016, 3, 12,29, Edmonton Oilers, 5, 1, 2, 5, 1, 30, 34, 260,30, Arizona Coyotes, 2, 1, 4, 6, 3, 21, 22, 153,False
+2016, 3, 12,4, Florida Panthers, 4, 1, 6, 8, 2, 28, 16, 179,16, Philadelphia Flyers, 7, 1, 3, 3, 1, 19, 18, 124,True
+2016, 3, 12,6, Los Angeles Kings, 7, 1, 4, 8, 3, 32, 15, 162,15, New Jersey Devils, 3, 1, 3, 4, 0, 30, 15, 142,False
+2016, 3, 12,10, Montreal Canadiens, 5, 0, 3, 6, 2, 38, 13, 136,8, Minnesota Wild, 5, 2, 1, 0, 3, 16, 17, 111,False
+2016, 3, 12,25, Ottawa Senators, 4, 2, 2, 4, 6, 31, 18, 169,11, Toronto Maple Leafs, 2, 0, 3, 5, 3, 27, 11, 137,True
+2016, 3, 12,28, San Jose Sharks, 6, 1, 0, 0, 2, 15, 18, 148,21, Washington Capitals, 6, 1, 3, 6, 1, 34, 10, 109,True
+2016, 3, 12,22, Vancouver Canucks, 4, 1, 3, 4, 4, 28, 26, 198,12, Nashville Predators, 7, 1, 2, 4, 2, 23, 15, 190,True
+2016, 3, 12,24, Winnipeg Jets, 2, 1, 2, 3, 4, 31, 11, 93,9, Colorado Avalanche, 6, 1, 3, 6, 0, 37, 11, 156,True
+2016, 3, 13,13, Columbus Blue Jackets, 5, 0, 2, 5, 3, 31, 25, 197,20, Tampa Bay Lightning, 7, 2, 2, 3, 3, 22, 22, 193,False
+2016, 3, 13,19, Detroit Red Wings, 5, 2, 1, 6, 2, 25, 6, 115,11, Toronto Maple Leafs, 2, 0, 0, 0, 3, 31, 12, 127,False
+2016, 3, 13,1, New York Rangers, 6, 1, 3, 5, 3, 43, 15, 151,17, Pittsburgh Penguins, 6, 1, 3, 4, 2, 27, 11, 131,False
+2016, 3, 14,23, Anaheim Ducks, 7, 2, 2, 2, 4, 22, 21, 156,15, New Jersey Devils, 4, 0, 2, 2, 1, 23, 16, 135,True
+2016, 3, 14,27, Calgary Flames, 2, 0, 1, 1, 3, 25, 29, 215,18, St. Louis Blues, 7, 2, 5, 10, 4, 38, 14, 128,True
+2016, 3, 14,7, Chicago Blackhawks, 5, 1, 2, 5, 4, 20, 16, 142,6, Los Angeles Kings, 7, 1, 1, 2, 2, 24, 11, 171,False
+2016, 3, 14,29, Edmonton Oilers, 5, 0, 0, 0, 6, 27, 32, 257,12, Nashville Predators, 7, 2, 2, 4, 3, 27, 16, 194,False
+2016, 3, 14,14, New York Islanders, 7, 0, 2, 1, 3, 31, 24, 227,4, Florida Panthers, 5, 2, 4, 8, 4, 26, 18, 177,True
+2016, 3, 14,22, Vancouver Canucks, 5, 0, 4, 5, 2, 34, 23, 209,24, Winnipeg Jets, 3, 2, 3, 4, 3, 35, 9, 99,False
+2016, 3, 15,2, Dallas Stars, 4, 1, 4, 8, 2, 23, 32, 275,6, Los Angeles Kings, 7, 1, 5, 7, 0, 23, 9, 179,False
+2016, 3, 15,10, Montreal Canadiens, 4, 1, 1, 3, 3, 21, 14, 119,4, Florida Panthers, 4, 1, 2, 4, 1, 16, 20, 174,False
+2016, 3, 15,25, Ottawa Senators, 4, 1, 4, 7, 0, 29, 9, 182,8, Minnesota Wild, 5, 1, 4, 5, 1, 31, 15, 126,True
+2016, 3, 15,16, Philadelphia Flyers, 7, 2, 4, 6, 4, 29, 21, 134,19, Detroit Red Wings, 5, 0, 2, 0, 1, 27, 5, 117,True
+2016, 3, 15,17, Pittsburgh Penguins, 6, 1, 5, 9, 3, 27, 11, 125,14, New York Islanders, 7, 1, 3, 4, 1, 7, 23, 221,True
+2016, 3, 15,28, San Jose Sharks, 6, 2, 5, 10, 0, 31, 13, 127,0, Boston Bruins, 7, 0, 3, 5, 1, 26, 10, 127,True
+2016, 3, 15,11, Toronto Maple Leafs, 3, 0, 1, 1, 0, 38, 11, 126,20, Tampa Bay Lightning, 7, 2, 4, 4, 3, 39, 19, 208,True
+2016, 3, 15,21, Washington Capitals, 5, 1, 2, 4, 4, 30, 13, 102,5, Carolina Hurricanes, 4, 1, 2, 3, 4, 30, 14, 101,True
+2016, 3, 16,23, Anaheim Ducks, 7, 0, 7, 14, 3, 26, 18, 159,1, New York Rangers, 5, 2, 3, 6, 2, 36, 16, 140,False
+2016, 3, 16,26, Buffalo Sabres, 4, 1, 3, 4, 3, 34, 26, 275,10, Montreal Canadiens, 4, 1, 1, 2, 3, 33, 15, 134,False
+2016, 3, 16,27, Calgary Flames, 3, 1, 7, 11, 4, 35, 30, 225,24, Winnipeg Jets, 4, 1, 5, 11, 2, 37, 8, 104,True
+2016, 3, 16,7, Chicago Blackhawks, 4, 0, 0, 0, 1, 11, 16, 134,16, Philadelphia Flyers, 7, 2, 4, 6, 4, 31, 20, 142,False
+2016, 3, 16,29, Edmonton Oilers, 5, 0, 2, 3, 4, 29, 30, 254,18, St. Louis Blues, 6, 2, 4, 7, 4, 17, 16, 121,True
+2016, 3, 16,22, Vancouver Canucks, 5, 2, 2, 4, 2, 37, 24, 205,9, Colorado Avalanche, 5, 0, 2, 3, 3, 30, 14, 149,False
+2016, 3, 17,30, Arizona Coyotes, 3, 0, 4, 5, 0, 44, 19, 180,28, San Jose Sharks, 7, 2, 3, 6, 2, 25, 15, 119,True
+2016, 3, 17,13, Columbus Blue Jackets, 5, 1, 0, 0, 4, 37, 25, 211,19, Detroit Red Wings, 5, 1, 3, 5, 4, 31, 8, 136,False
+2016, 3, 17,2, Dallas Stars, 3, 1, 2, 0, 4, 11, 32, 241,20, Tampa Bay Lightning, 6, 1, 1, 1, 0, 37, 18, 191,True
+2016, 3, 17,6, Los Angeles Kings, 7, 2, 5, 8, 0, 32, 11, 177,1, New York Rangers, 6, 0, 2, 4, 4, 32, 15, 126,True
+2016, 3, 17,15, New Jersey Devils, 4, 1, 1, 2, 6, 24, 22, 139,8, Minnesota Wild, 5, 1, 1, 4, 3, 20, 17, 115,True
+2016, 3, 17,12, Nashville Predators, 7, 0, 3, 6, 2, 30, 17, 174,14, New York Islanders, 6, 2, 1, 2, 2, 25, 21, 243,True
+2016, 3, 17,17, Pittsburgh Penguins, 7, 2, 1, 2, 1, 18, 10, 130,5, Carolina Hurricanes, 4, 0, 1, 0, 2, 31, 12, 102,True
+2016, 3, 17,11, Toronto Maple Leafs, 3, 0, 4, 8, 1, 27, 11, 125,4, Florida Panthers, 4, 2, 4, 7, 3, 28, 20, 186,False
+2016, 3, 18,23, Anaheim Ducks, 6, 2, 1, 1, 1, 25, 17, 156,0, Boston Bruins, 6, 0, 2, 3, 0, 42, 12, 128,True
+2016, 3, 18,26, Buffalo Sabres, 4, 1, 2, 4, 2, 30, 25, 255,25, Ottawa Senators, 4, 1, 3, 6, 2, 25, 15, 162,True
+2016, 3, 18,27, Calgary Flames, 4, 1, 4, 7, 1, 29, 27, 219,9, Colorado Avalanche, 5, 1, 3, 3, 1, 29, 12, 148,False
+2016, 3, 18,29, Edmonton Oilers, 6, 1, 6, 12, 4, 28, 30, 241,22, Vancouver Canucks, 4, 1, 1, 2, 5, 29, 25, 224,True
+2016, 3, 18,24, Winnipeg Jets, 3, 0, 1, 1, 4, 21, 10, 88,7, Chicago Blackhawks, 3, 2, 2, 3, 3, 29, 18, 152,False
+2016, 3, 18,21, Washington Capitals, 6, 1, 2, 2, 1, 26, 8, 93,12, Nashville Predators, 7, 1, 4, 6, 3, 34, 17, 166,True
+2016, 3, 19,30, Arizona Coyotes, 4, 0, 3, 5, 1, 25, 20, 152,20, Tampa Bay Lightning, 5, 2, 3, 6, 4, 33, 22, 187,False
+2016, 3, 19,13, Columbus Blue Jackets, 4, 2, 1, 2, 3, 22, 24, 196,15, New Jersey Devils, 4, 0, 7, 10, 4, 32, 20, 147,True
+2016, 3, 19,2, Dallas Stars, 4, 1, 4, 5, 3, 20, 31, 250,14, New York Islanders, 5, 1, 1, 2, 3, 31, 21, 252,True
+2016, 3, 19,4, Florida Panthers, 5, 1, 4, 3, 1, 33, 15, 187,19, Detroit Red Wings, 5, 1, 3, 4, 1, 28, 9, 117,False
+2016, 3, 19,6, Los Angeles Kings, 7, 1, 4, 8, 3, 26, 15, 174,0, Boston Bruins, 5, 1, 0, 0, 3, 27, 15, 115,True
+2016, 3, 19,8, Minnesota Wild, 5, 2, 5, 8, 3, 8, 19, 95,5, Carolina Hurricanes, 3, 0, 2, 2, 3, 24, 14, 119,True
+2016, 3, 19,25, Ottawa Senators, 4, 1, 1, 2, 3, 37, 12, 170,10, Montreal Canadiens, 4, 1, 3, 3, 2, 43, 14, 144,True
+2016, 3, 19,16, Philadelphia Flyers, 8, 1, 3, 7, 3, 37, 18, 137,17, Pittsburgh Penguins, 7, 1, 4, 7, 1, 26, 10, 149,False
+2016, 3, 19,28, San Jose Sharks, 7, 0, 1, 2, 2, 21, 15, 125,1, New York Rangers, 5, 2, 3, 3, 4, 37, 11, 143,True
+2016, 3, 19,11, Toronto Maple Leafs, 3, 0, 1, 2, 4, 17, 15, 129,26, Buffalo Sabres, 4, 2, 3, 5, 1, 33, 24, 258,True
+2016, 3, 19,22, Vancouver Canucks, 3, 1, 0, 0, 3, 34, 25, 216,18, St. Louis Blues, 6, 1, 4, 8, 3, 15, 17, 130,False
+2016, 3, 20,7, Chicago Blackhawks, 4, 0, 4, 5, 0, 28, 15, 128,8, Minnesota Wild, 6, 2, 2, 4, 2, 33, 18, 120,False
+2016, 3, 20,29, Edmonton Oilers, 6, 0, 2, 3, 3, 25, 30, 289,9, Colorado Avalanche, 6, 2, 3, 5, 3, 38, 14, 152,False
+2016, 3, 20,10, Montreal Canadiens, 3, 1, 0, 0, 4, 36, 17, 145,27, Calgary Flames, 4, 1, 2, 5, 6, 35, 35, 253,False
+2016, 3, 20,15, New Jersey Devils, 4, 0, 3, 5, 0, 0, 21, 146,13, Columbus Blue Jackets, 5, 2, 6, 8, 3, 35, 24, 201,True
+2016, 3, 20,17, Pittsburgh Penguins, 7, 0, 4, 7, 1, 17, 10, 140,21, Washington Capitals, 6, 2, 4, 5, 1, 21, 8, 88,True
+2016, 3, 20,28, San Jose Sharks, 7, 1, 4, 7, 2, 23, 14, 130,30, Arizona Coyotes, 4, 1, 0, 0, 1, 28, 19, 185,True
+2016, 3, 20,24, Winnipeg Jets, 3, 0, 0, 0, 2, 28, 10, 103,23, Anaheim Ducks, 6, 2, 4, 7, 2, 23, 16, 169,False
+2016, 3, 21,12, Nashville Predators, 6, 0, 1, 2, 2, 22, 17, 184,6, Los Angeles Kings, 7, 2, 2, 4, 1, 28, 15, 182,True
+2016, 3, 21,14, New York Islanders, 5, 1, 0, 0, 2, 35, 23, 254,16, Philadelphia Flyers, 7, 1, 1, 0, 3, 34, 18, 134,False
+2016, 3, 21,1, New York Rangers, 4, 1, 1, 2, 4, 47, 10, 135,4, Florida Panthers, 5, 1, 3, 4, 1, 28, 18, 183,True
+2016, 3, 21,11, Toronto Maple Leafs, 4, 0, 4, 7, 2, 30, 10, 135,27, Calgary Flames, 5, 2, 4, 8, 5, 34, 30, 240,True
+2016, 3, 22,30, Arizona Coyotes, 4, 2, 0, 0, 2, 35, 20, 192,29, Edmonton Oilers, 5, 0, 2, 3, 0, 40, 30, 289,True
+2016, 3, 22,5, Carolina Hurricanes, 3, 0, 2, 4, 2, 32, 13, 127,26, Buffalo Sabres, 4, 2, 1, 2, 4, 31, 25, 247,False
+2016, 3, 22,13, Columbus Blue Jackets, 4, 1, 1, 4, 3, 30, 21, 178,16, Philadelphia Flyers, 7, 1, 4, 7, 1, 24, 16, 124,True
+2016, 3, 22,7, Chicago Blackhawks, 4, 0, 2, 3, 2, 34, 17, 134,2, Dallas Stars, 5, 2, 3, 4, 0, 27, 27, 233,False
+2016, 3, 22,8, Minnesota Wild, 6, 1, 2, 4, 2, 31, 13, 105,6, Los Angeles Kings, 7, 1, 2, 3, 3, 27, 16, 152,True
+2016, 3, 22,10, Montreal Canadiens, 3, 0, 1, 2, 4, 35, 17, 144,23, Anaheim Ducks, 6, 2, 3, 4, 2, 29, 14, 165,True
+2016, 3, 22,25, Ottawa Senators, 4, 0, 5, 6, 3, 34, 9, 163,21, Washington Capitals, 6, 2, 2, 3, 5, 26, 9, 71,False
+2016, 3, 22,28, San Jose Sharks, 7, 2, 3, 6, 1, 26, 13, 123,18, St. Louis Blues, 7, 0, 3, 6, 0, 19, 14, 134,False
+2016, 3, 22,20, Tampa Bay Lightning, 5, 1, 2, 3, 0, 32, 18, 186,19, Detroit Red Wings, 5, 1, 5, 9, 3, 26, 11, 115,True
+2016, 3, 22,24, Winnipeg Jets, 3, 2, 2, 3, 4, 36, 13, 111,22, Vancouver Canucks, 3, 0, 0, 0, 2, 25, 24, 231,True
+2016, 3, 23,14, New York Islanders, 4, 1, 2, 1, 1, 34, 22, 241,25, Ottawa Senators, 4, 1, 2, 4, 0, 30, 11, 143,True
+2016, 3, 23,1, New York Rangers, 4, 1, 4, 5, 2, 27, 11, 105,0, Boston Bruins, 5, 1, 0, 0, 2, 20, 15, 102,True
+2016, 3, 24,30, Arizona Coyotes, 5, 1, 4, 6, 1, 35, 19, 194,2, Dallas Stars, 6, 1, 6, 7, 2, 32, 29, 238,True
+2016, 3, 24,0, Boston Bruins, 4, 2, 2, 4, 2, 8, 13, 79,4, Florida Panthers, 4, 0, 2, 4, 4, 29, 19, 209,False
+2016, 3, 24,13, Columbus Blue Jackets, 4, 0, 2, 4, 2, 33, 21, 210,5, Carolina Hurricanes, 3, 2, 2, 3, 4, 48, 14, 120,False
+2016, 3, 24,9, Colorado Avalanche, 6, 2, 3, 6, 3, 33, 13, 142,16, Philadelphia Flyers, 6, 0, 2, 4, 2, 53, 13, 144,False
+2016, 3, 24,19, Detroit Red Wings, 4, 1, 2, 4, 3, 18, 8, 66,10, Montreal Canadiens, 4, 1, 4, 7, 5, 44, 16, 144,True
+2016, 3, 24,8, Minnesota Wild, 6, 2, 2, 4, 1, 39, 12, 113,27, Calgary Flames, 5, 0, 3, 3, 1, 22, 28, 230,True
+2016, 3, 24,12, Nashville Predators, 6, 1, 5, 7, 2, 30, 17, 194,22, Vancouver Canucks, 3, 1, 0, 1, 2, 49, 18, 256,True
+2016, 3, 24,17, Pittsburgh Penguins, 8, 2, 6, 12, 2, 18, 12, 132,15, New Jersey Devils, 5, 0, 2, 3, 1, 28, 22, 174,False
+2016, 3, 24,28, San Jose Sharks, 6, 2, 1, 0, 0, 25, 13, 121,29, Edmonton Oilers, 4, 0, 2, 4, 3, 30, 32, 277,False
+2016, 3, 24,11, Toronto Maple Leafs, 5, 1, 5, 7, 1, 21, 14, 122,23, Anaheim Ducks, 5, 1, 3, 3, 0, 38, 16, 159,True
+2016, 3, 24,24, Winnipeg Jets, 4, 1, 2, 3, 0, 28, 9, 103,6, Los Angeles Kings, 6, 1, 1, 3, 2, 18, 14, 137,True
+2016, 3, 25,15, New Jersey Devils, 6, 0, 3, 6, 0, 39, 21, 185,21, Washington Capitals, 6, 2, 3, 7, 2, 30, 6, 75,False
+2016, 3, 25,18, St. Louis Blues, 8, 2, 1, 1, 0, 37, 14, 152,22, Vancouver Canucks, 3, 0, 2, 3, 1, 48, 18, 239,True
+2016, 3, 25,20, Tampa Bay Lightning, 5, 0, 6, 10, 2, 25, 20, 179,14, New York Islanders, 4, 2, 3, 6, 3, 26, 22, 230,True
+2016, 3, 26,30, Arizona Coyotes, 6, 0, 3, 6, 2, 29, 20, 191,16, Philadelphia Flyers, 7, 2, 4, 8, 2, 34, 13, 125,True
+2016, 3, 26,26, Buffalo Sabres, 5, 1, 2, 5, 2, 27, 23, 226,24, Winnipeg Jets, 4, 1, 4, 6, 3, 33, 10, 109,True
+2016, 3, 26,5, Carolina Hurricanes, 4, 2, 3, 5, 2, 44, 12, 116,14, New York Islanders, 3, 0, 4, 6, 1, 23, 25, 237,False
+2016, 3, 26,27, Calgary Flames, 5, 1, 2, 3, 3, 28, 33, 237,7, Chicago Blackhawks, 3, 1, 2, 4, 4, 15, 20, 132,False
+2016, 3, 26,9, Colorado Avalanche, 6, 1, 2, 4, 3, 44, 13, 153,8, Minnesota Wild, 6, 1, 6, 10, 2, 33, 18, 114,False
+2016, 3, 26,19, Detroit Red Wings, 5, 0, 4, 8, 3, 29, 8, 77,17, Pittsburgh Penguins, 7, 2, 0, 0, 3, 24, 16, 153,False
+2016, 3, 26,6, Los Angeles Kings, 6, 2, 1, 2, 3, 23, 15, 142,29, Edmonton Oilers, 5, 0, 6, 10, 3, 25, 30, 269,True
+2016, 3, 26,10, Montreal Canadiens, 4, 2, 3, 4, 3, 35, 15, 140,1, New York Rangers, 5, 0, 5, 7, 0, 5, 11, 115,False
+2016, 3, 26,12, Nashville Predators, 6, 1, 2, 3, 2, 25, 15, 185,13, Columbus Blue Jackets, 4, 1, 2, 4, 2, 22, 22, 165,True
+2016, 3, 26,25, Ottawa Senators, 4, 1, 1, 2, 3, 21, 16, 142,23, Anaheim Ducks, 4, 1, 6, 10, 6, 26, 22, 147,False
+2016, 3, 26,28, San Jose Sharks, 6, 1, 3, 6, 1, 24, 21, 132,2, Dallas Stars, 6, 1, 1, 1, 1, 11, 30, 236,False
+2016, 3, 26,20, Tampa Bay Lightning, 5, 1, 6, 11, 2, 22, 22, 185,4, Florida Panthers, 5, 1, 4, 7, 1, 35, 19, 204,False
+2016, 3, 26,11, Toronto Maple Leafs, 6, 1, 7, 10, 2, 25, 14, 103,0, Boston Bruins, 3, 1, 1, 2, 3, 35, 14, 98,False
+2016, 3, 26,21, Washington Capitals, 6, 0, 1, 2, 1, 5, 4, 67,18, St. Louis Blues, 8, 2, 3, 7, 5, 26, 14, 130,False
+2016, 3, 27,5, Carolina Hurricanes, 3, 1, 3, 5, 3, 25, 14, 103,15, New Jersey Devils, 5, 1, 0, 0, 1, 26, 22, 172,True
+2016, 3, 27,1, New York Rangers, 5, 0, 5, 9, 2, 41, 13, 136,17, Pittsburgh Penguins, 8, 2, 7, 13, 2, 23, 15, 152,False
+2016, 3, 27,22, Vancouver Canucks, 2, 1, 0, 0, 2, 32, 24, 215,7, Chicago Blackhawks, 3, 1, 4, 3, 1, 32, 19, 170,False
+2016, 3, 28,30, Arizona Coyotes, 6, 2, 0, 4, 1, 38, 17, 193,27, Calgary Flames, 4, 0, 1, 0, 2, 25, 32, 234,False
+2016, 3, 28,19, Detroit Red Wings, 5, 2, 2, 4, 3, 14, 9, 73,26, Buffalo Sabres, 5, 0, 3, 4, 2, 19, 24, 218,True
+2016, 3, 28,29, Edmonton Oilers, 4, 0, 4, 5, 3, 26, 28, 240,23, Anaheim Ducks, 4, 2, 4, 8, 4, 23, 19, 154,False
+2016, 3, 28,12, Nashville Predators, 7, 1, 5, 10, 1, 19, 14, 179,9, Colorado Avalanche, 6, 1, 0, 0, 3, 34, 13, 143,False
+2016, 3, 28,16, Philadelphia Flyers, 6, 2, 1, 2, 2, 17, 13, 108,24, Winnipeg Jets, 4, 0, 2, 2, 1, 34, 10, 105,True
+2016, 3, 28,28, San Jose Sharks, 5, 1, 2, 2, 3, 16, 24, 149,6, Los Angeles Kings, 6, 1, 6, 11, 4, 29, 14, 111,True
+2016, 3, 28,20, Tampa Bay Lightning, 4, 1, 2, 4, 4, 31, 24, 189,11, Toronto Maple Leafs, 6, 1, 1, 2, 5, 38, 14, 110,True
+2016, 3, 28,21, Washington Capitals, 6, 1, 1, 0, 0, 22, 7, 91,13, Columbus Blue Jackets, 3, 1, 1, 1, 3, 24, 25, 202,True
+2016, 3, 29,2, Dallas Stars, 6, 1, 4, 7, 3, 30, 31, 261,12, Nashville Predators, 6, 1, 3, 4, 3, 10, 13, 158,True
+2016, 3, 29,4, Florida Panthers, 6, 2, 5, 7, 2, 35, 20, 204,11, Toronto Maple Leafs, 6, 0, 0, 0, 2, 32, 12, 90,False
+2016, 3, 29,8, Minnesota Wild, 6, 2, 4, 6, 0, 29, 16, 110,7, Chicago Blackhawks, 4, 0, 3, 7, 2, 28, 17, 154,True
+2016, 3, 29,10, Montreal Canadiens, 4, 0, 2, 4, 5, 19, 13, 88,19, Detroit Red Wings, 6, 2, 3, 3, 4, 27, 8, 79,True
+2016, 3, 29,15, New Jersey Devils, 5, 0, 2, 2, 3, 19, 24, 169,0, Boston Bruins, 4, 2, 3, 6, 1, 26, 12, 98,True
+2016, 3, 29,14, New York Islanders, 3, 1, 4, 5, 6, 41, 27, 259,5, Carolina Hurricanes, 4, 1, 3, 5, 2, 25, 13, 103,True
+2016, 3, 29,17, Pittsburgh Penguins, 8, 2, 3, 5, 2, 33, 10, 142,26, Buffalo Sabres, 5, 0, 2, 4, 2, 28, 24, 227,True
+2016, 3, 29,18, St. Louis Blues, 8, 0, 5, 7, 0, 15, 9, 136,9, Colorado Avalanche, 6, 2, 4, 5, 3, 35, 13, 144,True
+2016, 3, 29,22, Vancouver Canucks, 2, 1, 2, 3, 4, 37, 27, 208,28, San Jose Sharks, 5, 1, 5, 9, 5, 21, 18, 151,False
+2016, 3, 30,23, Anaheim Ducks, 5, 2, 2, 1, 1, 28, 16, 159,27, Calgary Flames, 5, 0, 5, 10, 3, 24, 32, 233,True
+2016, 3, 30,16, Philadelphia Flyers, 6, 1, 3, 5, 2, 28, 13, 119,21, Washington Capitals, 6, 1, 4, 8, 1, 22, 8, 91,True
+2016, 3, 30,24, Winnipeg Jets, 4, 0, 2, 1, 3, 29, 12, 103,25, Ottawa Senators, 3, 2, 3, 5, 3, 23, 13, 163,False
+2016, 3, 31,26, Buffalo Sabres, 4, 1, 4, 6, 4, 46, 26, 245,11, Toronto Maple Leafs, 6, 1, 5, 5, 3, 18, 8, 95,True
+2016, 3, 31,5, Carolina Hurricanes, 3, 0, 1, 1, 1, 31, 12, 109,1, New York Rangers, 5, 2, 2, 4, 3, 32, 13, 126,True
+2016, 3, 31,2, Dallas Stars, 6, 0, 5, 4, 2, 36, 30, 261,30, Arizona Coyotes, 6, 2, 4, 5, 1, 35, 21, 165,True
+2016, 3, 31,4, Florida Panthers, 6, 1, 1, 4, 3, 31, 21, 190,15, New Jersey Devils, 6, 1, 2, 4, 1, 40, 22, 190,True
+2016, 3, 31,6, Los Angeles Kings, 5, 2, 2, 4, 4, 30, 13, 130,27, Calgary Flames, 4, 0, 3, 7, 2, 24, 31, 207,True
+2016, 3, 31,8, Minnesota Wild, 7, 1, 4, 8, 1, 19, 16, 93,25, Ottawa Senators, 4, 1, 2, 2, 4, 39, 11, 161,False
+2016, 3, 31,14, New York Islanders, 4, 2, 1, 2, 1, 27, 21, 243,13, Columbus Blue Jackets, 3, 0, 1, 1, 3, 39, 24, 219,True
+2016, 3, 31,17, Pittsburgh Penguins, 9, 1, 4, 6, 2, 27, 14, 136,12, Nashville Predators, 5, 1, 1, 3, 3, 23, 16, 164,True
+2016, 3, 31,28, San Jose Sharks, 6, 1, 4, 7, 2, 32, 15, 147,22, Vancouver Canucks, 1, 1, 1, 1, 3, 32, 26, 201,False
+2016, 3, 31,20, Tampa Bay Lightning, 5, 0, 3, 4, 0, 34, 20, 192,10, Montreal Canadiens, 4, 2, 4, 8, 3, 42, 11, 111,False
+2016, 4, 1,23, Anaheim Ducks, 6, 1, 8, 13, 0, 21, 15, 105,22, Vancouver Canucks, 1, 1, 4, 3, 3, 30, 25, 203,False
+2016, 4, 1,9, Colorado Avalanche, 6, 0, 1, 3, 3, 27, 13, 136,21, Washington Capitals, 5, 2, 1, 2, 1, 34, 8, 103,False
+2016, 4, 1,19, Detroit Red Wings, 5, 1, 3, 5, 2, 20, 6, 59,8, Minnesota Wild, 7, 1, 2, 3, 3, 22, 18, 96,True
+2016, 4, 1,18, St. Louis Blues, 8, 2, 3, 4, 1, 21, 10, 142,0, Boston Bruins, 3, 0, 1, 2, 2, 15, 12, 85,False
+2016, 4, 1,24, Winnipeg Jets, 4, 0, 1, 2, 3, 32, 10, 87,7, Chicago Blackhawks, 3, 2, 0, 2, 3, 17, 18, 138,False
+2016, 4, 2,30, Arizona Coyotes, 6, 0, 1, 2, 3, 32, 25, 172,21, Washington Capitals, 6, 2, 4, 6, 4, 29, 9, 88,True
+2016, 4, 2,5, Carolina Hurricanes, 3, 2, 4, 5, 4, 31, 14, 105,13, Columbus Blue Jackets, 2, 0, 3, 4, 5, 48, 25, 207,False
+2016, 4, 2,29, Edmonton Oilers, 4, 1, 1, 2, 2, 25, 30, 239,27, Calgary Flames, 4, 1, 0, 0, 3, 29, 32, 212,False
+2016, 4, 2,4, Florida Panthers, 6, 2, 3, 5, 4, 28, 19, 190,10, Montreal Canadiens, 4, 0, 3, 5, 0, 26, 8, 95,True
+2016, 4, 2,6, Los Angeles Kings, 6, 2, 3, 6, 0, 21, 10, 114,2, Dallas Stars, 7, 0, 4, 7, 2, 30, 29, 257,False
+2016, 4, 2,12, Nashville Predators, 5, 2, 2, 4, 1, 12, 17, 172,28, San Jose Sharks, 5, 0, 2, 4, 1, 24, 16, 140,False
+2016, 4, 2,14, New York Islanders, 5, 1, 4, 8, 3, 36, 23, 240,17, Pittsburgh Penguins, 9, 1, 5, 10, 4, 30, 14, 133,False
+2016, 4, 2,1, New York Rangers, 4, 2, 3, 6, 4, 28, 17, 132,26, Buffalo Sabres, 5, 0, 4, 8, 1, 26, 22, 227,False
+2016, 4, 2,16, Philadelphia Flyers, 6, 1, 1, 2, 1, 30, 12, 121,25, Ottawa Senators, 5, 1, 3, 5, 1, 21, 11, 136,True
+2016, 4, 2,20, Tampa Bay Lightning, 5, 2, 1, 2, 2, 23, 22, 181,15, New Jersey Devils, 5, 0, 2, 2, 3, 18, 24, 190,True
+2016, 4, 2,11, Toronto Maple Leafs, 6, 1, 1, 2, 3, 36, 9, 119,19, Detroit Red Wings, 5, 1, 3, 6, 2, 22, 6, 61,False
+2016, 4, 3,23, Anaheim Ducks, 6, 1, 2, 4, 3, 28, 18, 112,2, Dallas Stars, 7, 1, 3, 4, 1, 32, 29, 253,True
+2016, 4, 3,7, Chicago Blackhawks, 4, 0, 6, 10, 4, 32, 19, 170,0, Boston Bruins, 3, 2, 6, 11, 5, 30, 17, 110,True
+2016, 4, 3,9, Colorado Avalanche, 5, 1, 2, 4, 3, 46, 13, 155,18, St. Louis Blues, 7, 1, 6, 9, 1, 5, 15, 117,False
+2016, 4, 3,17, Pittsburgh Penguins, 9, 2, 5, 7, 0, 24, 10, 127,16, Philadelphia Flyers, 7, 0, 3, 5, 2, 35, 13, 126,True
+2016, 4, 3,24, Winnipeg Jets, 3, 2, 4, 8, 5, 27, 12, 82,8, Minnesota Wild, 6, 0, 2, 4, 3, 29, 18, 103,True
+2016, 4, 4,13, Columbus Blue Jackets, 3, 0, 5, 8, 1, 27, 25, 194,1, New York Rangers, 4, 2, 3, 6, 3, 9, 15, 102,False
+2016, 4, 4,14, New York Islanders, 4, 1, 0, 0, 3, 24, 26, 253,20, Tampa Bay Lightning, 6, 1, 3, 6, 1, 26, 21, 184,True
+2016, 4, 4,18, St. Louis Blues, 7, 2, 4, 8, 5, 23, 13, 129,30, Arizona Coyotes, 6, 0, 3, 4, 0, 31, 23, 175,True
+2016, 4, 4,11, Toronto Maple Leafs, 5, 1, 2, 3, 2, 34, 9, 109,4, Florida Panthers, 6, 1, 4, 7, 2, 25, 18, 190,False
+2016, 4, 4,22, Vancouver Canucks, 2, 0, 3, 5, 2, 34, 23, 222,6, Los Angeles Kings, 5, 2, 2, 3, 3, 39, 15, 134,True
+2016, 4, 5,23, Anaheim Ducks, 6, 2, 3, 1, 1, 25, 16, 109,24, Winnipeg Jets, 3, 0, 5, 8, 2, 19, 9, 85,False
+2016, 4, 5,0, Boston Bruins, 3, 1, 4, 8, 4, 22, 16, 99,5, Carolina Hurricanes, 3, 1, 1, 3, 3, 27, 15, 101,False
+2016, 4, 5,27, Calgary Flames, 4, 0, 5, 8, 0, 28, 29, 211,6, Los Angeles Kings, 4, 2, 1, 3, 1, 2, 15, 119,False
+2016, 4, 5,7, Chicago Blackhawks, 5, 2, 6, 9, 4, 46, 19, 184,30, Arizona Coyotes, 5, 0, 2, 4, 4, 20, 28, 170,True
+2016, 4, 5,8, Minnesota Wild, 6, 1, 1, 2, 4, 33, 19, 107,28, San Jose Sharks, 5, 1, 2, 4, 2, 30, 17, 148,False
+2016, 4, 5,10, Montreal Canadiens, 4, 0, 3, 6, 4, 39, 12, 108,4, Florida Panthers, 7, 2, 5, 8, 3, 28, 19, 191,False
+2016, 4, 5,15, New Jersey Devils, 4, 2, 1, 2, 2, 35, 23, 207,26, Buffalo Sabres, 6, 0, 4, 6, 3, 36, 27, 266,False
+2016, 4, 5,12, Nashville Predators, 5, 1, 3, 4, 4, 29, 18, 191,9, Colorado Avalanche, 4, 1, 1, 2, 3, 14, 12, 119,True
+2016, 4, 5,1, New York Rangers, 5, 1, 3, 3, 2, 29, 14, 122,20, Tampa Bay Lightning, 5, 1, 1, 4, 0, 13, 21, 168,True
+2016, 4, 5,25, Ottawa Senators, 5, 0, 2, 4, 3, 36, 16, 151,17, Pittsburgh Penguins, 9, 2, 6, 9, 2, 30, 11, 143,False
+2016, 4, 5,21, Washington Capitals, 6, 2, 0, 0, 2, 19, 8, 86,14, New York Islanders, 5, 0, 5, 7, 1, 17, 23, 246,False
+2016, 4, 6,19, Detroit Red Wings, 6, 0, 3, 6, 2, 34, 6, 70,16, Philadelphia Flyers, 6, 2, 2, 4, 5, 38, 16, 129,True
+2016, 4, 6,29, Edmonton Oilers, 3, 1, 0, 0, 5, 35, 32, 246,22, Vancouver Canucks, 3, 1, 3, 4, 2, 36, 21, 217,True
+2016, 4, 6,11, Toronto Maple Leafs, 4, 1, 3, 5, 3, 26, 9, 110,13, Columbus Blue Jackets, 3, 1, 2, 3, 4, 27, 24, 183,False
+2016, 4, 7,0, Boston Bruins, 2, 1, 1, 1, 1, 28, 11, 88,19, Detroit Red Wings, 7, 1, 3, 1, 0, 30, 4, 66,True
+2016, 4, 7,5, Carolina Hurricanes, 4, 1, 1, 2, 1, 36, 13, 110,10, Montreal Canadiens, 4, 1, 1, 2, 0, 0, 12, 88,False
+2016, 4, 7,27, Calgary Flames, 3, 2, 4, 8, 5, 26, 34, 209,22, Vancouver Canucks, 3, 0, 2, 3, 2, 42, 25, 219,True
+2016, 4, 7,7, Chicago Blackhawks, 6, 1, 6, 10, 2, 31, 17, 169,18, St. Louis Blues, 7, 1, 5, 8, 2, 27, 10, 133,False
+2016, 4, 7,2, Dallas Stars, 7, 1, 1, 0, 2, 26, 33, 266,9, Colorado Avalanche, 4, 1, 3, 6, 1, 24, 13, 133,True
+2016, 4, 7,6, Los Angeles Kings, 4, 0, 6, 6, 3, 24, 18, 140,23, Anaheim Ducks, 6, 2, 1, 1, 2, 26, 17, 110,True
+2016, 4, 7,15, New Jersey Devils, 4, 0, 1, 1, 3, 40, 23, 189,20, Tampa Bay Lightning, 5, 2, 2, 3, 5, 23, 24, 183,False
+2016, 4, 7,12, Nashville Predators, 5, 1, 4, 9, 3, 28, 17, 190,30, Arizona Coyotes, 4, 1, 2, 3, 5, 26, 29, 169,True
+2016, 4, 7,1, New York Rangers, 5, 0, 4, 6, 2, 41, 11, 126,14, New York Islanders, 6, 2, 4, 8, 2, 34, 25, 261,False
+2016, 4, 7,25, Ottawa Senators, 4, 0, 3, 6, 2, 25, 14, 141,4, Florida Panthers, 7, 2, 4, 8, 3, 26, 21, 198,True
+2016, 4, 7,16, Philadelphia Flyers, 5, 1, 0, 0, 2, 25, 13, 116,11, Toronto Maple Leafs, 4, 1, 1, 2, 4, 36, 11, 116,False
+2016, 4, 7,28, San Jose Sharks, 6, 1, 3, 6, 3, 25, 14, 150,24, Winnipeg Jets, 4, 1, 2, 4, 1, 29, 8, 91,False
+2016, 4, 7,21, Washington Capitals, 5, 1, 3, 6, 4, 27, 10, 94,17, Pittsburgh Penguins, 9, 1, 5, 8, 3, 30, 11, 146,False
+2016, 4, 8,26, Buffalo Sabres, 6, 2, 4, 2, 0, 0, 30, 250,13, Columbus Blue Jackets, 4, 0, 5, 8, 3, 29, 23, 184,False
+2016, 4, 9,0, Boston Bruins, 3, 1, 5, 10, 2, 12, 10, 72,25, Ottawa Senators, 4, 1, 3, 5, 4, 27, 13, 150,False
+2016, 4, 9,13, Columbus Blue Jackets, 4, 1, 4, 7, 1, 27, 21, 190,7, Chicago Blackhawks, 6, 1, 0, 2, 5, 25, 16, 164,True
+2016, 4, 9,9, Colorado Avalanche, 3, 2, 2, 4, 4, 28, 15, 139,23, Anaheim Ducks, 5, 0, 1, 1, 2, 29, 15, 110,False
+2016, 4, 9,2, Dallas Stars, 8, 1, 2, 9, 2, 24, 33, 259,12, Nashville Predators, 5, 1, 1, 5, 2, 40, 16, 180,True
+2016, 4, 9,4, Florida Panthers, 6, 2, 1, 2, 1, 33, 21, 195,5, Carolina Hurricanes, 4, 0, 2, 4, 5, 27, 14, 102,True
+2016, 4, 9,6, Los Angeles Kings, 4, 1, 2, 4, 1, 20, 17, 145,24, Winnipeg Jets, 5, 1, 5, 10, 4, 25, 11, 87,False
+2016, 4, 9,8, Minnesota Wild, 6, 2, 0, 0, 3, 20, 18, 94,27, Calgary Flames, 4, 0, 6, 12, 5, 22, 32, 210,False
+2016, 4, 9,10, Montreal Canadiens, 4, 2, 4, 6, 4, 19, 14, 116,20, Tampa Bay Lightning, 6, 0, 4, 7, 3, 28, 21, 182,True
+2016, 4, 9,15, New Jersey Devils, 3, 0, 2, 4, 2, 17, 23, 170,11, Toronto Maple Leafs, 4, 2, 4, 6, 5, 32, 10, 124,True
+2016, 4, 9,14, New York Islanders, 7, 1, 4, 8, 3, 32, 24, 264,26, Buffalo Sabres, 6, 1, 1, 2, 2, 30, 34, 280,False
+2016, 4, 9,1, New York Rangers, 5, 1, 1, 2, 0, 6, 11, 92,19, Detroit Red Wings, 6, 1, 2, 4, 5, 26, 9, 85,True
+2016, 4, 9,16, Philadelphia Flyers, 5, 0, 3, 6, 4, 26, 15, 117,17, Pittsburgh Penguins, 9, 2, 3, 3, 3, 30, 11, 146,True
+2016, 4, 9,28, San Jose Sharks, 5, 1, 3, 7, 5, 26, 16, 157,30, Arizona Coyotes, 4, 1, 2, 4, 3, 31, 24, 160,True
+2016, 4, 9,18, St. Louis Blues, 8, 2, 2, 4, 1, 25, 9, 131,21, Washington Capitals, 4, 0, 3, 6, 4, 35, 10, 102,False
+2016, 4, 9,22, Vancouver Canucks, 3, 0, 3, 7, 6, 38, 29, 211,29, Edmonton Oilers, 4, 2, 6, 9, 2, 27, 26, 214,True
+2016, 4, 10,14, New York Islanders, 7, 0, 2, 5, 1, 37, 25, 248,16, Philadelphia Flyers, 5, 2, 1, 3, 2, 26, 12, 110,False
+2016, 4, 10,21, Washington Capitals, 5, 2, 1, 4, 3, 27, 7, 78,23, Anaheim Ducks, 5, 0, 5, 8, 3, 5, 16, 113,False

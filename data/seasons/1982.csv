@@ -1,0 +1,841 @@
+Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
+1981, 10, 6,11, New York Rangers, 6, 0, 2, 3, 2, 22, 23, 185,17, Detroit Red Wings, 2, 2, 2, 3, 3, 17, 31, 140,False
+1981, 10, 6,37, Quebec Nordiques, 7, 1, 2, 2, 4, 33, 33, 189,38, Hartford Whalers, 3, 1, 4, 4, 5, 32, 27, 171,True
+1981, 10, 6,23, St. Louis Blues, 6, 1, 3, 4, 5, 23, 33, 222,22, Pittsburgh Penguins, 6, 1, 4, 6, 5, 29, 37, 199,True
+1981, 10, 6,26, Vancouver Canucks, 4, 1, 4, 4, 7, 33, 32, 198,33, Colorado Rockies, 5, 1, 4, 4, 1, 10, 38, 187,True
+1981, 10, 6,36, Winnipeg Jets, 2, 1, 3, 4, 5, 35, 44, 225,13, Toronto Maple Leafs, 5, 1, 2, 7, 4, 11, 34, 213,False
+1981, 10, 7,28, Buffalo Sabres, 6, 2, 2, 5, 4, 25, 15, 70,31, Washington Capitals, 4, 0, 7, 8, 2, 30, 36, 218,True
+1981, 10, 7,12, Chicago Black Hawks, 6, 2, 7, 14, 4, 43, 14, 138,22, Pittsburgh Penguins, 6, 0, 2, 5, 6, 39, 38, 209,False
+1981, 10, 7,35, Edmonton Oilers, 6, 0, 7, 10, 2, 26, 34, 207,33, Colorado Rockies, 5, 2, 2, 3, 5, 31, 40, 214,True
+1981, 10, 7,25, Los Angeles Kings, 6, 0, 4, 8, 5, 29, 28, 136,29, New York Islanders, 7, 2, 6, 11, 3, 24, 15, 114,False
+1981, 10, 8,7, Boston Bruins, 5, 0, 2, 3, 1, 8, 29, 162,37, Quebec Nordiques, 7, 2, 6, 9, 5, 30, 34, 203,False
+1981, 10, 8,39, Calgary Flames, 3, 2, 8, 10, 2, 14, 8, 70,26, Vancouver Canucks, 4, 0, 4, 6, 2, 19, 27, 190,False
+1981, 10, 8,24, Minnesota North Stars, 5, 0, 4, 4, 0, 38, 31, 220,13, Toronto Maple Leafs, 5, 2, 6, 8, 5, 24, 34, 231,False
+1981, 10, 8,1, Montreal Canadiens, 7, 1, 7, 6, 0, 7, 6, 102,38, Hartford Whalers, 3, 1, 5, 8, 6, 45, 28, 184,False
+1981, 10, 9,21, Philadelphia Flyers, 4, 2, 0, 0, 2, 19, 16, 110,17, Detroit Red Wings, 2, 0, 5, 7, 2, 26, 36, 162,False
+1981, 10, 9,26, Vancouver Canucks, 4, 0, 1, 2, 2, 25, 26, 200,35, Edmonton Oilers, 6, 2, 7, 11, 4, 19, 36, 200,True
+1981, 10, 9,36, Winnipeg Jets, 2, 1, 3, 2, 6, 33, 44, 230,11, New York Rangers, 5, 1, 1, 4, 0, 34, 25, 183,True
+1981, 10, 10,33, Colorado Rockies, 5, 0, 4, 8, 0, 2, 39, 186,29, New York Islanders, 8, 2, 4, 6, 1, 25, 13, 124,False
+1981, 10, 10,38, Hartford Whalers, 3, 0, 5, 6, 5, 35, 27, 174,7, Boston Bruins, 5, 2, 5, 8, 7, 21, 35, 187,False
+1981, 10, 10,25, Los Angeles Kings, 6, 2, 1, 2, 4, 25, 27, 142,35, Edmonton Oilers, 6, 0, 2, 3, 5, 12, 38, 212,False
+1981, 10, 10,24, Minnesota North Stars, 5, 1, 3, 6, 3, 37, 34, 219,11, New York Rangers, 4, 1, 4, 6, 8, 43, 33, 192,True
+1981, 10, 10,1, Montreal Canadiens, 6, 2, 5, 10, 5, 25, 11, 120,28, Buffalo Sabres, 6, 0, 5, 7, 3, 27, 14, 72,True
+1981, 10, 10,22, Pittsburgh Penguins, 6, 0, 5, 11, 5, 46, 32, 195,37, Quebec Nordiques, 7, 2, 7, 12, 3, 42, 33, 226,True
+1981, 10, 10,23, St. Louis Blues, 6, 2, 6, 9, 2, 29, 30, 235,39, Calgary Flames, 3, 0, 1, 2, 1, 23, 6, 62,False
+1981, 10, 10,13, Toronto Maple Leafs, 6, 1, 3, 4, 1, 23, 32, 253,12, Chicago Black Hawks, 5, 1, 5, 10, 5, 39, 15, 134,True
+1981, 10, 10,31, Washington Capitals, 4, 2, 3, 5, 1, 9, 39, 224,17, Detroit Red Wings, 3, 0, 2, 2, 2, 38, 29, 197,True
+1981, 10, 11,7, Boston Bruins, 6, 1, 1, 2, 1, 18, 32, 180,31, Washington Capitals, 5, 1, 6, 10, 5, 36, 41, 255,True
+1981, 10, 11,28, Buffalo Sabres, 5, 1, 0, 0, 2, 14, 13, 59,26, Vancouver Canucks, 5, 1, 3, 11, 1, 29, 26, 202,False
+1981, 10, 11,12, Chicago Black Hawks, 4, 2, 8, 12, 2, 31, 19, 137,39, Calgary Flames, 3, 0, 6, 11, 3, 14, 9, 83,True
+1981, 10, 11,21, Philadelphia Flyers, 4, 2, 2, 3, 1, 21, 16, 107,22, Pittsburgh Penguins, 6, 0, 2, 4, 3, 7, 31, 178,True
+1981, 10, 12,37, Quebec Nordiques, 6, 1, 1, 2, 2, 25, 28, 185,24, Minnesota North Stars, 6, 1, 6, 8, 0, 28, 36, 238,False
+1981, 10, 13,25, Los Angeles Kings, 6, 1, 4, 6, 3, 21, 31, 160,39, Calgary Flames, 3, 1, 0, 0, 4, 44, 11, 103,True
+1981, 10, 14,28, Buffalo Sabres, 5, 2, 2, 2, 2, 22, 13, 67,37, Quebec Nordiques, 6, 0, 2, 3, 4, 28, 30, 188,True
+1981, 10, 14,12, Chicago Black Hawks, 4, 0, 3, 5, 0, 22, 17, 128,7, Boston Bruins, 6, 2, 6, 10, 3, 27, 34, 189,False
+1981, 10, 14,35, Edmonton Oilers, 7, 2, 7, 11, 0, 0, 37, 238,36, Winnipeg Jets, 2, 0, 8, 11, 3, 32, 37, 205,False
+1981, 10, 14,11, New York Rangers, 3, 1, 0, 1, 6, 28, 32, 190,26, Vancouver Canucks, 5, 1, 5, 4, 2, 27, 32, 202,True
+1981, 10, 14,22, Pittsburgh Penguins, 5, 2, 2, 4, 1, 22, 36, 206,29, New York Islanders, 8, 0, 2, 4, 1, 32, 16, 162,False
+1981, 10, 14,13, Toronto Maple Leafs, 7, 2, 9, 15, 3, 46, 45, 288,24, Minnesota North Stars, 6, 0, 4, 5, 2, 28, 38, 238,False
+1981, 10, 14,31, Washington Capitals, 5, 1, 3, 4, 3, 40, 42, 248,21, Philadelphia Flyers, 5, 1, 8, 12, 2, 33, 17, 119,False
+1981, 10, 15,39, Calgary Flames, 3, 2, 3, 3, 3, 31, 11, 112,36, Winnipeg Jets, 3, 0, 4, 6, 4, 40, 43, 258,False
+1981, 10, 15,17, Detroit Red Wings, 3, 0, 3, 5, 5, 34, 36, 215,23, St. Louis Blues, 6, 2, 5, 9, 5, 32, 32, 234,True
+1981, 10, 15,38, Hartford Whalers, 3, 1, 1, 2, 1, 24, 23, 163,1, Montreal Canadiens, 7, 1, 10, 16, 0, 22, 5, 98,False
+1981, 10, 15,25, Los Angeles Kings, 6, 1, 4, 8, 3, 30, 33, 173,33, Colorado Rockies, 5, 1, 2, 4, 2, 33, 41, 217,True
+1981, 10, 15,29, New York Islanders, 8, 2, 5, 10, 2, 29, 24, 177,26, Vancouver Canucks, 5, 0, 1, 1, 2, 22, 32, 205,True
+1981, 10, 15,21, Philadelphia Flyers, 5, 1, 5, 8, 2, 16, 19, 111,31, Washington Capitals, 4, 1, 5, 4, 6, 29, 44, 249,True
+1981, 10, 16,33, Colorado Rockies, 4, 0, 2, 4, 7, 41, 49, 228,7, Boston Bruins, 6, 2, 8, 11, 3, 16, 34, 178,False
+1981, 10, 16,35, Edmonton Oilers, 7, 1, 2, 3, 4, 38, 40, 274,39, Calgary Flames, 3, 1, 4, 8, 4, 47, 13, 117,True
+1981, 10, 17,38, Hartford Whalers, 3, 2, 2, 2, 7, 46, 29, 185,17, Detroit Red Wings, 4, 0, 6, 10, 3, 19, 32, 184,True
+1981, 10, 17,25, Los Angeles Kings, 6, 1, 10, 16, 6, 34, 32, 172,7, Boston Bruins, 7, 1, 6, 10, 5, 31, 33, 182,False
+1981, 10, 17,1, Montreal Canadiens, 7, 2, 7, 12, 2, 23, 7, 99,26, Vancouver Canucks, 4, 0, 1, 2, 2, 30, 33, 219,True
+1981, 10, 17,29, New York Islanders, 8, 1, 4, 6, 1, 36, 31, 204,11, New York Rangers, 4, 1, 2, 4, 4, 20, 27, 188,True
+1981, 10, 17,22, Pittsburgh Penguins, 4, 1, 0, 2, 4, 39, 39, 240,24, Minnesota North Stars, 6, 1, 3, 3, 1, 27, 37, 237,True
+1981, 10, 17,37, Quebec Nordiques, 5, 1, 2, 3, 4, 34, 30, 190,13, Toronto Maple Leafs, 6, 1, 1, 4, 2, 27, 42, 259,True
+1981, 10, 17,23, St. Louis Blues, 5, 2, 3, 4, 6, 28, 32, 214,12, Chicago Black Hawks, 4, 0, 5, 8, 9, 42, 24, 144,True
+1981, 10, 17,31, Washington Capitals, 3, 0, 2, 3, 5, 41, 43, 240,28, Buffalo Sabres, 5, 2, 4, 7, 2, 17, 13, 62,False
+1981, 10, 18,28, Buffalo Sabres, 5, 0, 4, 9, 2, 28, 13, 73,1, Montreal Canadiens, 7, 2, 10, 18, 1, 10, 13, 116,False
+1981, 10, 18,12, Chicago Black Hawks, 4, 1, 3, 5, 6, 19, 15, 92,35, Edmonton Oilers, 7, 1, 8, 16, 1, 9, 34, 237,True
+1981, 10, 18,17, Detroit Red Wings, 4, 0, 1, 2, 4, 16, 36, 205,22, Pittsburgh Penguins, 5, 2, 5, 9, 2, 33, 39, 251,True
+1981, 10, 18,11, New York Rangers, 4, 0, 4, 5, 7, 41, 28, 202,23, St. Louis Blues, 5, 2, 7, 13, 3, 35, 29, 213,True
+1981, 10, 18,21, Philadelphia Flyers, 6, 2, 5, 9, 4, 25, 18, 111,24, Minnesota North Stars, 6, 0, 2, 4, 5, 46, 41, 256,True
+1981, 10, 18,36, Winnipeg Jets, 4, 1, 5, 7, 2, 28, 42, 251,33, Colorado Rockies, 3, 1, 1, 0, 10, 44, 48, 212,False
+1981, 10, 19,37, Quebec Nordiques, 5, 1, 6, 11, 4, 27, 31, 185,26, Vancouver Canucks, 4, 1, 4, 8, 3, 36, 35, 205,True
+1981, 10, 20,39, Calgary Flames, 3, 0, 4, 8, 8, 37, 16, 102,35, Edmonton Oilers, 6, 2, 4, 7, 3, 23, 39, 272,False
+1981, 10, 20,29, New York Islanders, 9, 2, 5, 5, 1, 41, 27, 194,25, Los Angeles Kings, 5, 0, 4, 5, 2, 29, 30, 175,False
+1981, 10, 20,22, Pittsburgh Penguins, 5, 2, 3, 3, 3, 35, 40, 253,33, Colorado Rockies, 4, 0, 4, 7, 6, 25, 41, 209,True
+1981, 10, 20,23, St. Louis Blues, 5, 1, 3, 6, 3, 27, 31, 217,7, Boston Bruins, 7, 1, 4, 10, 1, 23, 30, 194,False
+1981, 10, 21,28, Buffalo Sabres, 5, 2, 3, 6, 3, 21, 14, 66,36, Winnipeg Jets, 4, 0, 3, 6, 4, 31, 44, 246,False
+1981, 10, 21,12, Chicago Black Hawks, 5, 1, 7, 11, 1, 9, 14, 108,1, Montreal Canadiens, 7, 1, 3, 7, 3, 27, 15, 133,False
+1981, 10, 21,35, Edmonton Oilers, 6, 1, 5, 9, 3, 36, 40, 282,38, Hartford Whalers, 4, 1, 8, 14, 6, 38, 23, 180,True
+1981, 10, 21,11, New York Rangers, 4, 1, 5, 7, 3, 19, 24, 180,25, Los Angeles Kings, 5, 1, 9, 15, 5, 35, 34, 173,False
+1981, 10, 21,13, Toronto Maple Leafs, 6, 2, 4, 4, 0, 9, 42, 239,33, Colorado Rockies, 3, 0, 3, 6, 3, 41, 40, 212,False
+1981, 10, 21,31, Washington Capitals, 3, 0, 2, 6, 5, 20, 42, 229,37, Quebec Nordiques, 5, 2, 6, 6, 3, 29, 31, 189,False
+1981, 10, 22,39, Calgary Flames, 3, 1, 3, 7, 5, 26, 13, 86,22, Pittsburgh Penguins, 5, 1, 5, 6, 3, 27, 39, 248,False
+1981, 10, 22,17, Detroit Red Wings, 5, 0, 3, 4, 2, 26, 39, 223,7, Boston Bruins, 7, 2, 4, 7, 4, 33, 32, 203,False
+1981, 10, 22,24, Minnesota North Stars, 6, 2, 2, 2, 3, 26, 39, 236,23, St. Louis Blues, 4, 0, 3, 5, 2, 25, 32, 249,False
+1981, 10, 22,21, Philadelphia Flyers, 6, 0, 2, 6, 2, 32, 15, 117,37, Quebec Nordiques, 6, 2, 6, 12, 5, 27, 31, 182,True
+1981, 10, 23,28, Buffalo Sabres, 5, 2, 2, 3, 2, 22, 13, 67,13, Toronto Maple Leafs, 5, 0, 4, 8, 6, 28, 47, 281,True
+1981, 10, 23,35, Edmonton Oilers, 7, 2, 5, 8, 2, 28, 42, 283,22, Pittsburgh Penguins, 6, 0, 3, 4, 8, 35, 39, 246,True
+1981, 10, 23,26, Vancouver Canucks, 4, 1, 3, 4, 10, 45, 40, 227,38, Hartford Whalers, 3, 1, 2, 3, 5, 28, 22, 170,False
+1981, 10, 23,36, Winnipeg Jets, 5, 0, 2, 4, 4, 37, 42, 250,12, Chicago Black Hawks, 4, 2, 3, 6, 5, 35, 16, 138,False
+1981, 10, 23,31, Washington Capitals, 3, 0, 3, 4, 4, 30, 43, 252,29, New York Islanders, 8, 2, 6, 9, 4, 29, 28, 174,False
+1981, 10, 24,39, Calgary Flames, 3, 2, 3, 5, 5, 36, 11, 88,38, Hartford Whalers, 4, 0, 2, 5, 1, 41, 19, 181,True
+1981, 10, 24,33, Colorado Rockies, 3, 1, 4, 6, 4, 34, 39, 215,35, Edmonton Oilers, 7, 1, 8, 13, 4, 33, 43, 293,False
+1981, 10, 24,24, Minnesota North Stars, 5, 0, 5, 6, 5, 34, 44, 245,25, Los Angeles Kings, 5, 2, 5, 8, 2, 38, 29, 176,True
+1981, 10, 24,1, Montreal Canadiens, 8, 2, 3, 2, 2, 30, 11, 116,7, Boston Bruins, 8, 0, 2, 3, 3, 32, 30, 193,True
+1981, 10, 24,29, New York Islanders, 9, 2, 4, 8, 9, 43, 25, 190,31, Washington Capitals, 2, 0, 2, 2, 1, 20, 37, 207,True
+1981, 10, 24,37, Quebec Nordiques, 5, 1, 2, 4, 3, 24, 26, 178,17, Detroit Red Wings, 4, 1, 2, 4, 2, 16, 33, 178,True
+1981, 10, 24,23, St. Louis Blues, 5, 1, 5, 9, 4, 28, 35, 258,21, Philadelphia Flyers, 7, 1, 3, 6, 2, 28, 15, 107,False
+1981, 10, 24,13, Toronto Maple Leafs, 4, 1, 2, 4, 4, 28, 44, 253,11, New York Rangers, 4, 1, 2, 5, 5, 34, 27, 178,False
+1981, 10, 25,28, Buffalo Sabres, 5, 0, 7, 11, 2, 32, 13, 77,24, Minnesota North Stars, 5, 2, 6, 10, 3, 36, 42, 247,False
+1981, 10, 25,12, Chicago Black Hawks, 4, 0, 5, 9, 3, 39, 16, 144,23, St. Louis Blues, 4, 2, 3, 5, 6, 34, 37, 264,False
+1981, 10, 25,17, Detroit Red Wings, 4, 1, 3, 6, 8, 32, 39, 194,21, Philadelphia Flyers, 7, 1, 7, 11, 2, 22, 16, 103,False
+1981, 10, 25,11, New York Rangers, 5, 1, 5, 8, 3, 36, 25, 180,1, Montreal Canadiens, 9, 1, 7, 7, 0, 25, 9, 111,False
+1981, 10, 25,26, Vancouver Canucks, 4, 2, 2, 3, 6, 28, 33, 197,22, Pittsburgh Penguins, 5, 0, 3, 5, 3, 25, 45, 222,False
+1981, 10, 25,36, Winnipeg Jets, 5, 0, 5, 9, 2, 37, 44, 257,25, Los Angeles Kings, 4, 2, 3, 5, 6, 27, 32, 150,True
+1981, 10, 27,25, Los Angeles Kings, 4, 1, 4, 7, 6, 33, 35, 166,37, Quebec Nordiques, 6, 1, 8, 11, 3, 28, 27, 189,True
+1981, 10, 27,1, Montreal Canadiens, 9, 2, 4, 5, 2, 29, 11, 115,21, Philadelphia Flyers, 7, 0, 4, 6, 1, 29, 15, 110,True
+1981, 10, 27,29, New York Islanders, 9, 1, 5, 11, 2, 26, 20, 183,35, Edmonton Oilers, 7, 1, 3, 6, 6, 44, 40, 279,True
+1981, 10, 27,23, St. Louis Blues, 5, 1, 4, 6, 4, 42, 37, 270,13, Toronto Maple Leafs, 4, 1, 3, 4, 5, 34, 48, 275,True
+1981, 10, 28,28, Buffalo Sabres, 4, 0, 3, 7, 7, 26, 16, 76,23, St. Louis Blues, 5, 2, 7, 9, 5, 34, 38, 270,True
+1981, 10, 28,12, Chicago Black Hawks, 4, 2, 4, 8, 5, 41, 17, 129,36, Winnipeg Jets, 5, 0, 9, 16, 5, 37, 46, 255,True
+1981, 10, 28,33, Colorado Rockies, 3, 0, 1, 2, 3, 53, 38, 234,37, Quebec Nordiques, 5, 2, 7, 10, 8, 37, 32, 198,False
+1981, 10, 28,24, Minnesota North Stars, 5, 1, 6, 11, 3, 36, 43, 247,39, Calgary Flames, 3, 1, 7, 12, 3, 29, 7, 83,True
+1981, 10, 28,11, New York Rangers, 4, 1, 2, 4, 5, 17, 28, 177,35, Edmonton Oilers, 6, 1, 3, 7, 3, 38, 39, 269,False
+1981, 10, 28,22, Pittsburgh Penguins, 6, 2, 6, 6, 4, 32, 46, 225,13, Toronto Maple Leafs, 4, 0, 4, 7, 7, 32, 50, 273,False
+1981, 10, 28,26, Vancouver Canucks, 4, 0, 4, 5, 2, 30, 33, 200,31, Washington Capitals, 2, 2, 4, 3, 6, 25, 42, 212,True
+1981, 10, 29,7, Boston Bruins, 7, 0, 0, 0, 1, 12, 33, 157,1, Montreal Canadiens, 9, 2, 11, 16, 2, 25, 11, 111,False
+1981, 10, 29,17, Detroit Red Wings, 4, 1, 1, 2, 1, 11, 38, 205,39, Calgary Flames, 2, 1, 1, 1, 6, 29, 7, 61,True
+1981, 10, 29,38, Hartford Whalers, 3, 0, 3, 3, 2, 39, 25, 166,29, New York Islanders, 9, 2, 5, 6, 4, 36, 19, 166,False
+1981, 10, 29,25, Los Angeles Kings, 5, 0, 8, 13, 7, 34, 40, 192,31, Washington Capitals, 1, 2, 0, 0, 3, 25, 39, 212,True
+1981, 10, 29,21, Philadelphia Flyers, 7, 2, 2, 3, 7, 36, 22, 102,22, Pittsburgh Penguins, 5, 0, 3, 6, 5, 37, 50, 230,True
+1981, 10, 31,7, Boston Bruins, 7, 1, 6, 9, 5, 37, 37, 182,11, New York Rangers, 3, 1, 3, 5, 4, 24, 28, 189,True
+1981, 10, 31,33, Colorado Rockies, 2, 0, 1, 2, 3, 30, 38, 211,31, Washington Capitals, 1, 2, 3, 6, 4, 35, 40, 222,True
+1981, 10, 31,35, Edmonton Oilers, 7, 1, 6, 10, 1, 19, 39, 271,37, Quebec Nordiques, 5, 1, 3, 5, 1, 26, 26, 196,True
+1981, 10, 31,38, Hartford Whalers, 3, 1, 6, 7, 7, 26, 29, 162,12, Chicago Black Hawks, 4, 1, 6, 13, 6, 42, 18, 130,False
+1981, 10, 31,24, Minnesota North Stars, 6, 2, 6, 11, 1, 27, 41, 238,17, Detroit Red Wings, 5, 0, 12, 22, 4, 21, 42, 220,True
+1981, 10, 31,1, Montreal Canadiens, 9, 2, 5, 9, 5, 25, 14, 111,29, New York Islanders, 9, 0, 6, 10, 3, 28, 22, 160,False
+1981, 10, 31,21, Philadelphia Flyers, 8, 1, 6, 11, 4, 9, 19, 87,26, Vancouver Canucks, 4, 1, 3, 5, 6, 31, 31, 204,False
+1981, 10, 31,22, Pittsburgh Penguins, 4, 0, 4, 8, 5, 41, 42, 236,28, Buffalo Sabres, 5, 2, 6, 11, 2, 24, 11, 74,True
+1981, 10, 31,23, St. Louis Blues, 4, 1, 2, 4, 4, 33, 39, 270,25, Los Angeles Kings, 6, 1, 4, 7, 3, 20, 34, 167,True
+1981, 10, 31,13, Toronto Maple Leafs, 4, 1, 5, 9, 3, 33, 46, 274,36, Winnipeg Jets, 5, 1, 6, 11, 4, 35, 45, 256,False
+1981, 11, 1,7, Boston Bruins, 8, 2, 7, 8, 6, 20, 35, 171,38, Hartford Whalers, 3, 0, 2, 2, 2, 28, 24, 164,True
+1981, 11, 1,28, Buffalo Sabres, 4, 2, 1, 2, 5, 31, 12, 79,21, Philadelphia Flyers, 8, 0, 4, 8, 0, 0, 23, 106,True
+1981, 11, 1,12, Chicago Black Hawks, 5, 1, 2, 4, 4, 24, 14, 117,13, Toronto Maple Leafs, 3, 1, 4, 8, 6, 43, 49, 274,True
+1981, 11, 1,17, Detroit Red Wings, 4, 1, 4, 7, 5, 32, 43, 231,26, Vancouver Canucks, 4, 1, 7, 15, 0, 34, 29, 211,True
+1981, 11, 1,11, New York Rangers, 3, 2, 3, 5, 2, 14, 26, 162,39, Calgary Flames, 2, 0, 5, 8, 9, 33, 17, 77,True
+1981, 11, 2,37, Quebec Nordiques, 5, 2, 4, 4, 5, 23, 32, 172,1, Montreal Canadiens, 9, 0, 1, 2, 2, 25, 14, 106,True
+1981, 11, 3,33, Colorado Rockies, 3, 2, 6, 9, 5, 28, 42, 188,36, Winnipeg Jets, 6, 0, 6, 10, 7, 46, 46, 251,False
+1981, 11, 3,29, New York Islanders, 9, 1, 2, 4, 1, 35, 23, 162,39, Calgary Flames, 1, 1, 2, 3, 3, 21, 11, 87,False
+1981, 11, 4,28, Buffalo Sabres, 5, 2, 6, 10, 2, 39, 9, 87,39, Calgary Flames, 2, 0, 2, 4, 4, 36, 10, 90,False
+1981, 11, 4,12, Chicago Black Hawks, 6, 1, 9, 16, 2, 29, 14, 121,25, Los Angeles Kings, 6, 1, 4, 7, 5, 31, 36, 178,True
+1981, 11, 4,35, Edmonton Oilers, 7, 2, 11, 20, 3, 40, 42, 287,13, Toronto Maple Leafs, 2, 0, 5, 5, 9, 38, 52, 269,True
+1981, 11, 4,38, Hartford Whalers, 3, 1, 1, 3, 4, 25, 26, 161,26, Vancouver Canucks, 3, 1, 2, 2, 4, 34, 32, 206,False
+1981, 11, 4,22, Pittsburgh Penguins, 5, 1, 3, 4, 1, 24, 43, 245,11, New York Rangers, 4, 1, 4, 5, 2, 22, 22, 143,True
+1981, 11, 4,37, Quebec Nordiques, 6, 0, 5, 8, 4, 30, 33, 186,23, St. Louis Blues, 5, 2, 4, 7, 4, 14, 34, 224,True
+1981, 11, 4,31, Washington Capitals, 0, 0, 4, 9, 3, 8, 41, 220,24, Minnesota North Stars, 7, 2, 4, 8, 4, 30, 44, 241,False
+1981, 11, 5,7, Boston Bruins, 8, 2, 4, 6, 3, 26, 30, 178,26, Vancouver Canucks, 3, 0, 4, 6, 3, 29, 29, 206,True
+1981, 11, 5,17, Detroit Red Wings, 4, 1, 3, 5, 1, 19, 37, 212,25, Los Angeles Kings, 5, 1, 4, 7, 9, 43, 34, 176,True
+1981, 11, 5,1, Montreal Canadiens, 8, 2, 3, 6, 1, 4, 13, 109,23, St. Louis Blues, 5, 0, 4, 3, 0, 9, 36, 234,True
+1981, 11, 5,21, Philadelphia Flyers, 7, 1, 2, 4, 4, 21, 28, 152,11, New York Rangers, 4, 1, 3, 4, 6, 37, 26, 158,False
+1981, 11, 6,33, Colorado Rockies, 3, 1, 3, 5, 4, 39, 41, 199,13, Toronto Maple Leafs, 1, 1, 4, 6, 6, 33, 52, 276,False
+1981, 11, 6,36, Winnipeg Jets, 7, 0, 5, 6, 5, 30, 44, 231,12, Chicago Black Hawks, 6, 2, 5, 10, 4, 35, 16, 127,True
+1981, 11, 7,35, Edmonton Oilers, 8, 2, 6, 10, 4, 34, 43, 272,33, Colorado Rockies, 3, 0, 4, 6, 4, 27, 41, 179,False
+1981, 11, 7,38, Hartford Whalers, 2, 1, 1, 1, 6, 35, 26, 175,24, Minnesota North Stars, 7, 1, 7, 7, 1, 28, 41, 239,True
+1981, 11, 7,25, Los Angeles Kings, 4, 1, 2, 4, 5, 35, 35, 170,13, Toronto Maple Leafs, 2, 1, 4, 6, 4, 47, 50, 290,False
+1981, 11, 7,1, Montreal Canadiens, 8, 2, 4, 8, 1, 15, 10, 107,17, Detroit Red Wings, 5, 0, 10, 18, 2, 32, 39, 219,True
+1981, 11, 7,29, New York Islanders, 8, 1, 2, 4, 2, 25, 23, 174,28, Buffalo Sabres, 5, 1, 3, 5, 3, 18, 10, 66,False
+1981, 11, 7,22, Pittsburgh Penguins, 6, 0, 6, 9, 3, 31, 41, 215,21, Philadelphia Flyers, 6, 2, 2, 3, 6, 35, 30, 135,True
+1981, 11, 7,37, Quebec Nordiques, 7, 2, 6, 11, 2, 24, 30, 185,7, Boston Bruins, 8, 0, 2, 4, 1, 27, 28, 172,False
+1981, 11, 7,23, St. Louis Blues, 4, 1, 3, 4, 4, 38, 38, 237,39, Calgary Flames, 3, 1, 3, 6, 3, 35, 15, 88,True
+1981, 11, 7,31, Washington Capitals, 0, 1, 1, 1, 5, 33, 44, 245,11, New York Rangers, 4, 1, 6, 12, 2, 33, 22, 154,False
+1981, 11, 8,7, Boston Bruins, 8, 2, 10, 15, 1, 20, 28, 163,24, Minnesota North Stars, 6, 0, 2, 6, 4, 26, 44, 237,False
+1981, 11, 8,28, Buffalo Sabres, 5, 1, 4, 12, 2, 22, 9, 70,38, Hartford Whalers, 3, 1, 4, 8, 2, 33, 18, 136,False
+1981, 11, 8,12, Chicago Black Hawks, 6, 2, 3, 5, 4, 28, 16, 122,39, Calgary Flames, 3, 0, 2, 3, 2, 24, 16, 82,True
+1981, 11, 8,26, Vancouver Canucks, 3, 1, 1, 2, 1, 34, 28, 203,36, Winnipeg Jets, 7, 1, 4, 5, 3, 19, 41, 230,True
+1981, 11, 9,37, Quebec Nordiques, 6, 2, 0, 4, 10, 29, 38, 190,17, Detroit Red Wings, 4, 0, 2, 3, 4, 30, 44, 221,True
+1981, 11, 10,39, Calgary Flames, 3, 1, 4, 6, 4, 29, 17, 117,23, St. Louis Blues, 5, 1, 4, 6, 2, 27, 36, 226,False
+1981, 11, 10,25, Los Angeles Kings, 4, 1, 4, 8, 9, 28, 42, 167,1, Montreal Canadiens, 8, 1, 4, 5, 2, 26, 11, 118,True
+1981, 11, 10,36, Winnipeg Jets, 6, 0, 1, 3, 3, 24, 43, 255,29, New York Islanders, 7, 2, 2, 2, 6, 33, 26, 151,False
+1981, 11, 11,12, Chicago Black Hawks, 7, 1, 10, 19, 4, 30, 16, 120,17, Detroit Red Wings, 4, 1, 3, 4, 5, 29, 45, 220,False
+1981, 11, 11,33, Colorado Rockies, 4, 0, 4, 7, 4, 50, 41, 202,1, Montreal Canadiens, 7, 2, 2, 3, 5, 40, 12, 124,False
+1981, 11, 11,38, Hartford Whalers, 4, 0, 2, 2, 0, 2, 18, 127,35, Edmonton Oilers, 7, 2, 4, 3, 4, 25, 44, 265,False
+1981, 11, 11,24, Minnesota North Stars, 6, 2, 4, 6, 1, 22, 41, 233,36, Winnipeg Jets, 5, 0, 3, 5, 5, 44, 45, 260,True
+1981, 11, 11,11, New York Rangers, 5, 1, 3, 6, 1, 32, 33, 185,28, Buffalo Sabres, 4, 1, 4, 3, 3, 29, 9, 78,True
+1981, 11, 11,13, Toronto Maple Leafs, 3, 1, 9, 12, 4, 37, 45, 261,29, New York Islanders, 7, 1, 5, 9, 6, 25, 28, 152,False
+1981, 11, 11,26, Vancouver Canucks, 4, 1, 5, 9, 1, 5, 26, 171,37, Quebec Nordiques, 6, 1, 5, 9, 6, 17, 31, 193,True
+1981, 11, 11,31, Washington Capitals, 0, 1, 1, 1, 3, 29, 42, 241,22, Pittsburgh Penguins, 6, 1, 6, 12, 2, 36, 39, 228,False
+1981, 11, 12,7, Boston Bruins, 7, 2, 1, 1, 1, 18, 31, 167,35, Edmonton Oilers, 8, 0, 4, 7, 4, 35, 44, 283,True
+1981, 11, 12,39, Calgary Flames, 3, 1, 0, 2, 10, 56, 20, 116,37, Quebec Nordiques, 5, 1, 6, 11, 3, 32, 31, 191,True
+1981, 11, 12,25, Los Angeles Kings, 4, 0, 4, 5, 2, 35, 35, 174,23, St. Louis Blues, 6, 2, 7, 10, 0, 33, 36, 237,True
+1981, 11, 12,21, Philadelphia Flyers, 5, 1, 2, 3, 6, 24, 31, 145,38, Hartford Whalers, 3, 1, 4, 6, 4, 35, 22, 160,True
+1981, 11, 13,28, Buffalo Sabres, 4, 1, 2, 5, 4, 22, 11, 54,11, New York Rangers, 5, 1, 7, 12, 3, 20, 35, 173,False
+1981, 11, 13,31, Washington Capitals, 0, 2, 2, 4, 6, 33, 42, 241,17, Detroit Red Wings, 4, 0, 5, 7, 5, 28, 43, 220,False
+1981, 11, 14,7, Boston Bruins, 7, 1, 5, 5, 4, 24, 32, 174,22, Pittsburgh Penguins, 7, 1, 3, 6, 2, 33, 40, 227,False
+1981, 11, 14,33, Colorado Rockies, 4, 0, 0, 1, 9, 47, 46, 215,23, St. Louis Blues, 5, 2, 2, 3, 4, 42, 40, 246,False
+1981, 11, 14,17, Detroit Red Wings, 5, 1, 3, 5, 3, 26, 40, 213,12, Chicago Black Hawks, 6, 1, 5, 9, 4, 26, 17, 128,True
+1981, 11, 14,38, Hartford Whalers, 3, 1, 4, 7, 5, 37, 23, 162,31, Washington Capitals, 0, 1, 3, 6, 3, 29, 39, 237,False
+1981, 11, 14,25, Los Angeles Kings, 4, 1, 5, 9, 2, 28, 34, 162,36, Winnipeg Jets, 5, 1, 2, 4, 5, 29, 56, 256,False
+1981, 11, 14,24, Minnesota North Stars, 7, 1, 15, 24, 2, 42, 42, 253,37, Quebec Nordiques, 5, 1, 1, 2, 6, 33, 32, 186,False
+1981, 11, 14,29, New York Islanders, 7, 2, 4, 7, 3, 37, 22, 146,35, Edmonton Oilers, 7, 0, 2, 4, 4, 43, 44, 268,False
+1981, 11, 14,13, Toronto Maple Leafs, 3, 1, 4, 7, 4, 42, 42, 262,21, Philadelphia Flyers, 5, 1, 5, 8, 3, 17, 26, 133,True
+1981, 11, 14,26, Vancouver Canucks, 5, 0, 6, 11, 0, 25, 32, 198,1, Montreal Canadiens, 7, 2, 9, 17, 0, 15, 4, 70,False
+1981, 11, 15,28, Buffalo Sabres, 4, 0, 4, 6, 3, 21, 10, 53,7, Boston Bruins, 6, 2, 3, 5, 2, 25, 31, 169,True
+1981, 11, 15,12, Chicago Black Hawks, 6, 2, 4, 5, 5, 38, 19, 132,33, Colorado Rockies, 3, 0, 2, 4, 2, 28, 38, 205,True
+1981, 11, 15,39, Calgary Flames, 4, 1, 3, 6, 2, 30, 12, 93,26, Vancouver Canucks, 5, 1, 1, 0, 5, 28, 36, 202,False
+1981, 11, 15,11, New York Rangers, 6, 0, 3, 4, 3, 33, 35, 186,35, Edmonton Oilers, 7, 2, 3, 8, 5, 40, 45, 265,False
+1981, 11, 15,21, Philadelphia Flyers, 4, 1, 0, 0, 8, 28, 29, 144,29, New York Islanders, 7, 1, 5, 7, 3, 23, 23, 138,True
+1981, 11, 17,39, Calgary Flames, 3, 1, 5, 8, 2, 6, 10, 67,36, Winnipeg Jets, 5, 1, 3, 5, 2, 37, 53, 264,True
+1981, 11, 17,37, Quebec Nordiques, 5, 1, 6, 8, 3, 35, 31, 180,29, New York Islanders, 6, 1, 4, 8, 5, 33, 25, 140,True
+1981, 11, 17,23, St. Louis Blues, 6, 0, 3, 7, 2, 31, 39, 239,35, Edmonton Oilers, 7, 2, 5, 6, 4, 20, 43, 258,False
+1981, 11, 18,12, Chicago Black Hawks, 6, 0, 10, 17, 0, 18, 14, 112,28, Buffalo Sabres, 4, 2, 3, 7, 1, 28, 8, 60,True
+1981, 11, 18,38, Hartford Whalers, 2, 0, 0, 0, 2, 24, 22, 159,13, Toronto Maple Leafs, 4, 2, 4, 6, 0, 28, 38, 248,True
+1981, 11, 18,25, Los Angeles Kings, 4, 0, 2, 4, 3, 21, 35, 155,17, Detroit Red Wings, 6, 2, 6, 9, 3, 13, 37, 222,True
+1981, 11, 18,11, New York Rangers, 5, 2, 3, 7, 4, 32, 36, 185,21, Philadelphia Flyers, 4, 0, 5, 8, 4, 26, 25, 142,True
+1981, 11, 18,22, Pittsburgh Penguins, 7, 0, 4, 4, 3, 25, 41, 229,23, St. Louis Blues, 5, 2, 1, 2, 5, 41, 42, 249,True
+1981, 11, 18,36, Winnipeg Jets, 5, 0, 3, 6, 6, 39, 55, 263,24, Minnesota North Stars, 7, 2, 5, 10, 5, 25, 44, 227,False
+1981, 11, 18,31, Washington Capitals, 1, 1, 4, 5, 0, 44, 36, 252,33, Colorado Rockies, 3, 1, 0, 0, 6, 40, 44, 216,True
+1981, 11, 19,7, Boston Bruins, 5, 2, 1, 1, 3, 20, 33, 172,38, Hartford Whalers, 3, 0, 8, 16, 5, 33, 25, 168,True
+1981, 11, 19,39, Calgary Flames, 4, 0, 6, 11, 4, 22, 11, 67,25, Los Angeles Kings, 5, 2, 7, 12, 1, 30, 33, 164,True
+1981, 11, 19,24, Minnesota North Stars, 8, 1, 6, 11, 8, 35, 44, 251,35, Edmonton Oilers, 7, 1, 5, 6, 3, 33, 35, 242,False
+1981, 11, 19,1, Montreal Canadiens, 7, 0, 3, 8, 0, 3, 6, 81,37, Quebec Nordiques, 6, 2, 7, 15, 2, 19, 25, 166,False
+1981, 11, 19,26, Vancouver Canucks, 6, 0, 7, 12, 4, 29, 35, 198,17, Detroit Red Wings, 6, 2, 1, 2, 4, 6, 39, 206,True
+1981, 11, 20,33, Colorado Rockies, 2, 0, 1, 0, 4, 13, 45, 227,28, Buffalo Sabres, 4, 2, 3, 5, 3, 13, 11, 64,False
+1981, 11, 20,22, Pittsburgh Penguins, 7, 1, 6, 11, 1, 22, 39, 226,13, Toronto Maple Leafs, 4, 1, 4, 7, 1, 5, 46, 251,False
+1981, 11, 21,39, Calgary Flames, 5, 0, 6, 11, 3, 29, 9, 78,17, Detroit Red Wings, 5, 2, 3, 6, 4, 15, 39, 215,False
+1981, 11, 21,35, Edmonton Oilers, 8, 1, 2, 4, 2, 36, 34, 245,26, Vancouver Canucks, 7, 1, 8, 8, 4, 24, 34, 203,True
+1981, 11, 21,25, Los Angeles Kings, 4, 1, 3, 5, 6, 33, 38, 167,28, Buffalo Sabres, 4, 1, 2, 7, 4, 32, 11, 72,False
+1981, 11, 21,24, Minnesota North Stars, 7, 0, 2, 4, 4, 38, 38, 250,12, Chicago Black Hawks, 7, 2, 4, 6, 3, 37, 17, 131,False
+1981, 11, 21,1, Montreal Canadiens, 6, 2, 2, 2, 1, 23, 9, 132,22, Pittsburgh Penguins, 7, 0, 3, 6, 3, 34, 41, 238,True
+1981, 11, 21,29, New York Islanders, 5, 2, 2, 3, 0, 4, 26, 126,11, New York Rangers, 6, 0, 5, 8, 2, 31, 34, 184,True
+1981, 11, 21,37, Quebec Nordiques, 6, 1, 1, 2, 1, 23, 31, 173,38, Hartford Whalers, 3, 1, 1, 1, 4, 34, 26, 164,True
+1981, 11, 21,23, St. Louis Blues, 4, 2, 1, 2, 5, 26, 37, 234,36, Winnipeg Jets, 4, 0, 5, 7, 6, 42, 62, 269,False
+1981, 11, 21,13, Toronto Maple Leafs, 5, 1, 3, 5, 3, 36, 33, 234,7, Boston Bruins, 6, 1, 6, 12, 3, 19, 31, 175,False
+1981, 11, 21,31, Washington Capitals, 2, 0, 7, 13, 1, 29, 37, 237,21, Philadelphia Flyers, 3, 2, 2, 2, 4, 29, 26, 161,True
+1981, 11, 22,7, Boston Bruins, 7, 1, 5, 9, 1, 21, 31, 182,37, Quebec Nordiques, 7, 1, 7, 11, 3, 30, 33, 180,False
+1981, 11, 22,12, Chicago Black Hawks, 7, 2, 6, 6, 4, 42, 18, 136,24, Minnesota North Stars, 6, 0, 4, 6, 2, 34, 33, 229,False
+1981, 11, 22,11, New York Rangers, 6, 0, 3, 6, 4, 27, 36, 180,29, New York Islanders, 5, 2, 4, 5, 3, 23, 29, 145,False
+1981, 11, 22,21, Philadelphia Flyers, 3, 1, 4, 8, 5, 27, 32, 171,31, Washington Capitals, 3, 1, 10, 15, 3, 29, 40, 248,False
+1981, 11, 22,26, Vancouver Canucks, 6, 1, 3, 5, 3, 34, 38, 220,33, Colorado Rockies, 2, 1, 3, 5, 2, 20, 45, 245,False
+1981, 11, 22,36, Winnipeg Jets, 5, 1, 1, 2, 15, 51, 57, 252,23, St. Louis Blues, 4, 1, 1, 2, 1, 24, 28, 215,True
+1981, 11, 23,35, Edmonton Oilers, 8, 2, 8, 14, 1, 25, 35, 253,17, Detroit Red Wings, 6, 0, 4, 6, 4, 23, 27, 182,True
+1981, 11, 24,39, Calgary Flames, 5, 1, 4, 9, 5, 26, 10, 79,33, Colorado Rockies, 3, 1, 5, 10, 4, 31, 48, 252,True
+1981, 11, 24,29, New York Islanders, 5, 0, 7, 12, 2, 31, 29, 146,7, Boston Bruins, 6, 2, 1, 3, 3, 26, 40, 201,True
+1981, 11, 24,21, Philadelphia Flyers, 2, 0, 3, 3, 3, 30, 32, 160,13, Toronto Maple Leafs, 4, 2, 3, 5, 7, 33, 34, 239,True
+1981, 11, 24,37, Quebec Nordiques, 7, 1, 6, 9, 1, 26, 34, 185,22, Pittsburgh Penguins, 6, 1, 5, 8, 8, 25, 42, 205,False
+1981, 11, 24,23, St. Louis Blues, 3, 0, 3, 5, 5, 42, 34, 219,1, Montreal Canadiens, 6, 2, 9, 14, 1, 28, 15, 147,False
+1981, 11, 25,17, Detroit Red Wings, 5, 0, 4, 4, 0, 0, 34, 208,28, Buffalo Sabres, 5, 2, 9, 10, 1, 29, 8, 69,False
+1981, 11, 25,35, Edmonton Oilers, 8, 1, 8, 12, 3, 44, 38, 262,25, Los Angeles Kings, 3, 1, 1, 2, 2, 10, 29, 136,True
+1981, 11, 25,38, Hartford Whalers, 3, 0, 3, 6, 7, 31, 29, 161,37, Quebec Nordiques, 6, 2, 1, 2, 7, 22, 28, 158,False
+1981, 11, 25,24, Minnesota North Stars, 6, 2, 1, 2, 6, 38, 32, 232,31, Washington Capitals, 4, 0, 3, 7, 2, 31, 39, 250,False
+1981, 11, 25,11, New York Rangers, 6, 2, 2, 2, 7, 39, 28, 174,13, Toronto Maple Leafs, 4, 0, 2, 4, 5, 39, 44, 274,False
+1981, 11, 25,22, Pittsburgh Penguins, 7, 0, 7, 9, 1, 26, 32, 207,1, Montreal Canadiens, 6, 2, 2, 3, 2, 32, 14, 134,True
+1981, 11, 25,26, Vancouver Canucks, 5, 1, 5, 9, 8, 41, 40, 209,12, Chicago Black Hawks, 6, 1, 1, 2, 1, 27, 15, 121,True
+1981, 11, 25,36, Winnipeg Jets, 5, 1, 5, 8, 1, 25, 39, 249,33, Colorado Rockies, 2, 1, 3, 5, 3, 13, 43, 200,True
+1981, 11, 26,7, Boston Bruins, 5, 1, 1, 0, 6, 21, 40, 199,21, Philadelphia Flyers, 3, 1, 6, 11, 3, 30, 32, 160,False
+1981, 11, 26,39, Calgary Flames, 5, 1, 8, 15, 2, 27, 9, 87,25, Los Angeles Kings, 3, 1, 4, 7, 5, 24, 38, 157,True
+1981, 11, 26,29, New York Islanders, 5, 1, 3, 5, 7, 23, 26, 154,23, St. Louis Blues, 3, 1, 2, 3, 2, 29, 32, 204,True
+1981, 11, 27,33, Colorado Rockies, 2, 1, 2, 1, 7, 40, 47, 227,26, Vancouver Canucks, 6, 1, 5, 10, 5, 23, 34, 202,False
+1981, 11, 27,35, Edmonton Oilers, 8, 0, 11, 18, 4, 34, 39, 255,12, Chicago Black Hawks, 5, 2, 2, 4, 6, 30, 20, 128,True
+1981, 11, 27,36, Winnipeg Jets, 5, 0, 7, 14, 4, 33, 40, 247,24, Minnesota North Stars, 5, 2, 3, 7, 1, 37, 30, 238,False
+1981, 11, 27,31, Washington Capitals, 5, 0, 4, 8, 4, 35, 41, 254,1, Montreal Canadiens, 6, 2, 1, 2, 5, 35, 14, 135,True
+1981, 11, 28,7, Boston Bruins, 4, 1, 1, 1, 3, 24, 36, 204,29, New York Islanders, 6, 1, 9, 14, 2, 32, 19, 154,True
+1981, 11, 28,39, Calgary Flames, 5, 0, 7, 8, 1, 29, 8, 89,12, Chicago Black Hawks, 4, 2, 1, 1, 6, 34, 22, 135,False
+1981, 11, 28,38, Hartford Whalers, 3, 1, 3, 6, 3, 28, 25, 158,31, Washington Capitals, 6, 1, 5, 9, 2, 29, 39, 248,True
+1981, 11, 28,25, Los Angeles Kings, 3, 2, 2, 1, 3, 4, 41, 161,26, Vancouver Canucks, 6, 0, 6, 10, 2, 34, 34, 214,True
+1981, 11, 28,24, Minnesota North Stars, 5, 0, 5, 8, 4, 49, 34, 232,21, Philadelphia Flyers, 4, 2, 3, 5, 1, 32, 30, 162,True
+1981, 11, 28,22, Pittsburgh Penguins, 8, 1, 2, 4, 1, 40, 31, 224,17, Detroit Red Wings, 4, 1, 1, 0, 8, 42, 37, 225,True
+1981, 11, 28,37, Quebec Nordiques, 7, 2, 3, 7, 3, 33, 23, 175,11, New York Rangers, 5, 0, 3, 6, 3, 28, 25, 159,True
+1981, 11, 28,23, St. Louis Blues, 3, 2, 2, 3, 1, 8, 38, 193,33, Colorado Rockies, 2, 0, 3, 3, 5, 31, 45, 218,True
+1981, 11, 28,13, Toronto Maple Leafs, 5, 0, 5, 2, 6, 43, 43, 242,28, Buffalo Sabres, 5, 2, 3, 4, 1, 29, 8, 69,False
+1981, 11, 29,28, Buffalo Sabres, 6, 1, 4, 4, 4, 39, 11, 79,29, New York Islanders, 6, 1, 4, 7, 1, 19, 22, 152,True
+1981, 11, 29,17, Detroit Red Wings, 4, 2, 3, 5, 2, 19, 34, 219,13, Toronto Maple Leafs, 5, 0, 4, 9, 2, 25, 38, 215,False
+1981, 11, 29,1, Montreal Canadiens, 6, 1, 2, 2, 5, 30, 13, 121,38, Hartford Whalers, 4, 1, 6, 12, 2, 30, 24, 160,True
+1981, 11, 29,11, New York Rangers, 5, 0, 4, 4, 7, 26, 29, 157,37, Quebec Nordiques, 7, 2, 6, 13, 4, 35, 24, 177,False
+1981, 11, 29,36, Winnipeg Jets, 4, 1, 5, 9, 2, 23, 43, 243,35, Edmonton Oilers, 9, 1, 10, 14, 4, 42, 37, 255,False
+1981, 11, 30,24, Minnesota North Stars, 6, 1, 5, 7, 5, 31, 34, 223,33, Colorado Rockies, 1, 1, 2, 3, 4, 28, 44, 215,False
+1981, 12, 1,1, Montreal Canadiens, 6, 1, 6, 11, 3, 35, 11, 126,35, Edmonton Oilers, 9, 1, 9, 15, 2, 40, 35, 253,False
+1981, 12, 1,21, Philadelphia Flyers, 4, 2, 3, 6, 4, 29, 33, 159,36, Winnipeg Jets, 4, 0, 2, 4, 10, 28, 51, 248,True
+1981, 12, 1,23, St. Louis Blues, 3, 1, 5, 8, 8, 23, 39, 205,17, Detroit Red Wings, 4, 1, 3, 5, 5, 36, 38, 233,True
+1981, 12, 2,33, Colorado Rockies, 2, 0, 2, 4, 2, 31, 42, 218,12, Chicago Black Hawks, 5, 2, 4, 5, 4, 36, 20, 137,True
+1981, 12, 2,25, Los Angeles Kings, 4, 2, 3, 7, 7, 30, 40, 200,11, New York Rangers, 4, 0, 4, 8, 4, 17, 26, 148,False
+1981, 12, 2,22, Pittsburgh Penguins, 8, 2, 5, 7, 3, 40, 37, 222,36, Winnipeg Jets, 4, 0, 1, 2, 5, 29, 43, 247,True
+1981, 12, 2,37, Quebec Nordiques, 8, 1, 4, 7, 4, 20, 23, 155,35, Edmonton Oilers, 10, 1, 4, 7, 1, 26, 36, 251,True
+1981, 12, 2,13, Toronto Maple Leafs, 5, 1, 6, 10, 3, 26, 39, 216,38, Hartford Whalers, 3, 1, 3, 6, 6, 29, 28, 158,False
+1981, 12, 2,26, Vancouver Canucks, 6, 0, 3, 4, 3, 28, 35, 215,24, Minnesota North Stars, 5, 2, 2, 1, 3, 32, 31, 218,True
+1981, 12, 2,31, Washington Capitals, 6, 0, 2, 4, 1, 17, 43, 256,39, Calgary Flames, 5, 2, 4, 10, 4, 28, 16, 86,True
+1981, 12, 3,7, Boston Bruins, 4, 1, 5, 6, 4, 22, 35, 193,28, Buffalo Sabres, 6, 1, 5, 11, 2, 28, 9, 68,True
+1981, 12, 3,17, Detroit Red Wings, 3, 0, 5, 6, 3, 21, 50, 258,1, Montreal Canadiens, 5, 2, 3, 6, 2, 33, 11, 120,True
+1981, 12, 3,21, Philadelphia Flyers, 5, 1, 2, 4, 1, 29, 30, 159,39, Calgary Flames, 5, 1, 3, 3, 4, 27, 21, 92,True
+1981, 12, 4,35, Edmonton Oilers, 9, 1, 8, 9, 3, 38, 43, 256,26, Vancouver Canucks, 6, 1, 5, 10, 3, 35, 32, 205,True
+1981, 12, 4,38, Hartford Whalers, 3, 2, 5, 9, 3, 24, 25, 153,28, Buffalo Sabres, 6, 0, 3, 4, 6, 38, 13, 80,False
+1981, 12, 4,31, Washington Capitals, 7, 2, 9, 13, 3, 30, 45, 269,36, Winnipeg Jets, 4, 0, 2, 2, 2, 27, 41, 251,True
+1981, 12, 5,33, Colorado Rockies, 3, 2, 3, 6, 2, 23, 42, 210,11, New York Rangers, 4, 0, 3, 7, 0, 0, 24, 173,False
+1981, 12, 5,17, Detroit Red Wings, 3, 1, 4, 6, 3, 23, 50, 270,21, Philadelphia Flyers, 5, 1, 6, 9, 1, 21, 30, 151,False
+1981, 12, 5,25, Los Angeles Kings, 4, 1, 3, 7, 4, 23, 36, 182,12, Chicago Black Hawks, 4, 1, 2, 3, 8, 37, 19, 127,False
+1981, 12, 5,24, Minnesota North Stars, 4, 1, 0, 0, 2, 26, 33, 218,29, New York Islanders, 5, 1, 2, 2, 5, 30, 28, 182,False
+1981, 12, 5,1, Montreal Canadiens, 5, 2, 3, 5, 3, 29, 13, 128,39, Calgary Flames, 5, 0, 1, 2, 6, 32, 23, 97,False
+1981, 12, 5,37, Quebec Nordiques, 9, 1, 8, 16, 8, 31, 34, 171,7, Boston Bruins, 5, 1, 6, 7, 3, 11, 34, 182,False
+1981, 12, 5,23, St. Louis Blues, 3, 1, 7, 10, 5, 34, 41, 226,22, Pittsburgh Penguins, 8, 1, 4, 8, 2, 33, 38, 223,True
+1981, 12, 5,13, Toronto Maple Leafs, 4, 1, 3, 5, 5, 37, 41, 227,31, Washington Capitals, 8, 1, 7, 14, 3, 40, 45, 279,True
+1981, 12, 5,26, Vancouver Canucks, 5, 0, 3, 4, 0, 18, 30, 194,35, Edmonton Oilers, 9, 2, 7, 15, 3, 35, 43, 253,False
+1981, 12, 6,28, Buffalo Sabres, 7, 1, 4, 4, 2, 40, 11, 80,22, Pittsburgh Penguins, 7, 1, 1, 2, 1, 6, 38, 213,True
+1981, 12, 6,11, New York Rangers, 4, 2, 2, 4, 3, 31, 25, 203,38, Hartford Whalers, 3, 0, 2, 4, 6, 28, 25, 157,False
+1981, 12, 6,21, Philadelphia Flyers, 6, 2, 5, 8, 2, 32, 31, 162,23, St. Louis Blues, 4, 0, 3, 6, 2, 16, 37, 220,True
+1981, 12, 6,36, Winnipeg Jets, 3, 0, 3, 5, 4, 40, 46, 251,29, New York Islanders, 5, 2, 8, 15, 5, 32, 28, 190,True
+1981, 12, 8,37, Quebec Nordiques, 8, 1, 4, 6, 4, 23, 30, 153,39, Calgary Flames, 5, 1, 7, 14, 4, 39, 17, 96,False
+1981, 12, 9,28, Buffalo Sabres, 8, 2, 7, 12, 4, 21, 13, 61,33, Colorado Rockies, 3, 0, 1, 2, 2, 41, 42, 228,True
+1981, 12, 9,12, Chicago Black Hawks, 5, 1, 3, 7, 3, 26, 13, 110,31, Washington Capitals, 8, 1, 4, 7, 9, 39, 51, 278,True
+1981, 12, 9,38, Hartford Whalers, 4, 0, 5, 9, 3, 26, 22, 155,23, St. Louis Blues, 3, 2, 2, 3, 1, 28, 43, 238,True
+1981, 12, 9,25, Los Angeles Kings, 3, 0, 2, 3, 2, 43, 35, 196,35, Edmonton Oilers, 9, 2, 3, 5, 3, 36, 49, 272,False
+1981, 12, 9,24, Minnesota North Stars, 4, 0, 6, 8, 5, 32, 49, 269,1, Montreal Canadiens, 4, 2, 4, 8, 4, 41, 17, 132,False
+1981, 12, 9,11, New York Rangers, 3, 1, 3, 3, 5, 26, 25, 188,7, Boston Bruins, 5, 1, 5, 9, 2, 26, 34, 193,False
+1981, 12, 9,22, Pittsburgh Penguins, 6, 1, 4, 5, 2, 23, 40, 252,21, Philadelphia Flyers, 6, 1, 8, 11, 2, 22, 31, 152,False
+1981, 12, 9,13, Toronto Maple Leafs, 5, 1, 8, 14, 4, 37, 45, 256,36, Winnipeg Jets, 4, 1, 5, 5, 7, 37, 45, 249,False
+1981, 12, 9,26, Vancouver Canucks, 5, 0, 3, 6, 7, 41, 33, 203,29, New York Islanders, 5, 2, 2, 3, 5, 38, 32, 171,True
+1981, 12, 10,7, Boston Bruins, 6, 1, 4, 8, 3, 22, 35, 186,23, St. Louis Blues, 3, 1, 1, 2, 5, 40, 43, 248,False
+1981, 12, 10,17, Detroit Red Wings, 2, 0, 2, 5, 5, 21, 52, 266,24, Minnesota North Stars, 3, 2, 6, 11, 7, 30, 50, 285,True
+1981, 12, 11,36, Winnipeg Jets, 5, 1, 3, 4, 2, 30, 41, 247,1, Montreal Canadiens, 4, 1, 6, 11, 6, 45, 19, 136,False
+1981, 12, 11,31, Washington Capitals, 7, 0, 3, 5, 3, 19, 45, 228,13, Toronto Maple Leafs, 4, 2, 3, 5, 2, 13, 44, 259,True
+1981, 12, 12,39, Calgary Flames, 6, 2, 6, 11, 4, 37, 20, 99,29, New York Islanders, 5, 0, 3, 6, 4, 23, 27, 153,False
+1981, 12, 12,17, Detroit Red Wings, 3, 0, 4, 7, 1, 16, 47, 273,28, Buffalo Sabres, 8, 2, 7, 13, 1, 24, 6, 59,False
+1981, 12, 12,38, Hartford Whalers, 5, 1, 5, 10, 1, 34, 20, 163,33, Colorado Rockies, 3, 1, 1, 1, 7, 31, 47, 218,False
+1981, 12, 12,25, Los Angeles Kings, 2, 2, 5, 7, 3, 26, 38, 184,26, Vancouver Canucks, 5, 0, 4, 6, 3, 27, 29, 195,True
+1981, 12, 12,24, Minnesota North Stars, 3, 1, 1, 3, 4, 33, 47, 288,12, Chicago Black Hawks, 6, 1, 7, 13, 3, 24, 13, 108,True
+1981, 12, 12,21, Philadelphia Flyers, 7, 0, 5, 6, 1, 25, 30, 155,11, New York Rangers, 3, 2, 4, 6, 4, 36, 27, 207,False
+1981, 12, 12,22, Pittsburgh Penguins, 5, 2, 1, 2, 3, 31, 42, 240,31, Washington Capitals, 7, 0, 10, 18, 4, 10, 44, 240,True
+1981, 12, 12,37, Quebec Nordiques, 7, 1, 3, 8, 0, 3, 35, 165,23, St. Louis Blues, 4, 1, 3, 6, 2, 30, 40, 238,False
+1981, 12, 12,13, Toronto Maple Leafs, 4, 1, 3, 3, 4, 27, 50, 259,1, Montreal Canadiens, 5, 1, 5, 6, 7, 33, 20, 140,False
+1981, 12, 13,7, Boston Bruins, 6, 2, 2, 3, 3, 19, 35, 194,33, Colorado Rockies, 4, 0, 4, 5, 6, 17, 47, 234,True
+1981, 12, 13,28, Buffalo Sabres, 9, 2, 4, 7, 2, 29, 10, 71,37, Quebec Nordiques, 6, 0, 4, 7, 0, 0, 40, 183,False
+1981, 12, 13,12, Chicago Black Hawks, 5, 1, 3, 3, 2, 20, 16, 119,38, Hartford Whalers, 4, 1, 2, 2, 3, 24, 22, 153,True
+1981, 12, 13,35, Edmonton Oilers, 9, 1, 5, 11, 5, 26, 51, 262,29, New York Islanders, 6, 1, 3, 5, 4, 28, 21, 152,True
+1981, 12, 13,26, Vancouver Canucks, 4, 2, 5, 7, 3, 33, 34, 200,39, Calgary Flames, 5, 0, 3, 4, 3, 22, 19, 84,False
+1981, 12, 13,36, Winnipeg Jets, 4, 0, 5, 10, 3, 35, 45, 255,17, Detroit Red Wings, 3, 2, 2, 4, 6, 33, 50, 280,False
+1981, 12, 14,1, Montreal Canadiens, 5, 1, 6, 11, 2, 24, 17, 140,31, Washington Capitals, 6, 1, 4, 7, 6, 34, 46, 264,True
+1981, 12, 14,11, New York Rangers, 3, 0, 5, 7, 3, 38, 26, 209,22, Pittsburgh Penguins, 5, 2, 7, 14, 6, 35, 48, 245,True
+1981, 12, 15,28, Buffalo Sabres, 8, 2, 4, 8, 4, 31, 12, 73,25, Los Angeles Kings, 3, 0, 7, 9, 5, 23, 40, 187,False
+1981, 12, 15,29, New York Islanders, 5, 0, 3, 4, 4, 30, 25, 148,37, Quebec Nordiques, 6, 2, 4, 8, 4, 29, 44, 212,True
+1981, 12, 15,23, St. Louis Blues, 5, 1, 6, 11, 4, 32, 40, 247,24, Minnesota North Stars, 4, 1, 5, 9, 6, 48, 45, 278,True
+1981, 12, 16,12, Chicago Black Hawks, 5, 1, 8, 14, 6, 35, 17, 125,36, Winnipeg Jets, 3, 1, 1, 1, 5, 39, 44, 251,False
+1981, 12, 16,33, Colorado Rockies, 3, 1, 1, 0, 5, 28, 46, 245,35, Edmonton Oilers, 9, 1, 4, 8, 8, 31, 49, 266,False
+1981, 12, 16,38, Hartford Whalers, 4, 0, 3, 5, 3, 28, 27, 159,1, Montreal Canadiens, 5, 2, 6, 11, 3, 34, 18, 150,False
+1981, 12, 16,11, New York Rangers, 4, 2, 5, 9, 4, 33, 25, 195,21, Philadelphia Flyers, 7, 0, 3, 4, 10, 39, 29, 160,False
+1981, 12, 16,22, Pittsburgh Penguins, 5, 2, 4, 8, 4, 30, 47, 228,25, Los Angeles Kings, 3, 0, 4, 7, 5, 29, 38, 190,True
+1981, 12, 16,26, Vancouver Canucks, 4, 1, 6, 11, 7, 26, 38, 194,13, Toronto Maple Leafs, 3, 1, 2, 5, 6, 36, 51, 251,False
+1981, 12, 17,7, Boston Bruins, 6, 0, 5, 10, 1, 24, 28, 205,1, Montreal Canadiens, 6, 2, 6, 11, 1, 21, 14, 129,False
+1981, 12, 17,39, Calgary Flames, 5, 0, 7, 12, 6, 35, 22, 97,35, Edmonton Oilers, 9, 2, 7, 13, 3, 30, 45, 272,False
+1981, 12, 17,17, Detroit Red Wings, 3, 0, 2, 3, 4, 23, 38, 267,37, Quebec Nordiques, 5, 2, 7, 13, 7, 28, 45, 207,False
+1981, 12, 17,24, Minnesota North Stars, 3, 2, 2, 3, 4, 31, 43, 261,36, Winnipeg Jets, 3, 0, 3, 4, 2, 31, 44, 248,False
+1981, 12, 17,29, New York Islanders, 5, 2, 9, 14, 3, 24, 31, 138,31, Washington Capitals, 5, 0, 3, 8, 6, 41, 46, 271,True
+1981, 12, 17,21, Philadelphia Flyers, 8, 0, 7, 13, 4, 27, 22, 149,28, Buffalo Sabres, 7, 2, 2, 5, 4, 38, 11, 81,True
+1981, 12, 18,33, Colorado Rockies, 3, 1, 4, 7, 2, 20, 46, 228,26, Vancouver Canucks, 4, 1, 6, 9, 7, 27, 37, 195,True
+1981, 12, 19,39, Calgary Flames, 5, 2, 4, 5, 9, 34, 16, 95,33, Colorado Rockies, 4, 0, 3, 3, 5, 20, 45, 232,True
+1981, 12, 19,35, Edmonton Oilers, 9, 1, 5, 10, 1, 12, 42, 242,24, Minnesota North Stars, 3, 1, 2, 4, 4, 29, 43, 259,True
+1981, 12, 19,38, Hartford Whalers, 4, 0, 1, 1, 6, 44, 30, 175,25, Los Angeles Kings, 3, 2, 6, 11, 3, 26, 40, 188,False
+1981, 12, 19,1, Montreal Canadiens, 7, 2, 5, 6, 1, 32, 14, 140,7, Boston Bruins, 5, 0, 1, 1, 3, 30, 32, 207,True
+1981, 12, 19,29, New York Islanders, 5, 2, 4, 6, 1, 31, 24, 154,17, Detroit Red Wings, 3, 0, 2, 2, 3, 24, 44, 269,True
+1981, 12, 19,22, Pittsburgh Penguins, 6, 1, 7, 10, 6, 36, 49, 234,11, New York Rangers, 4, 1, 3, 6, 6, 30, 34, 220,False
+1981, 12, 19,37, Quebec Nordiques, 6, 1, 4, 7, 2, 28, 42, 197,28, Buffalo Sabres, 6, 1, 1, 2, 2, 21, 11, 73,True
+1981, 12, 19,23, St. Louis Blues, 6, 2, 4, 7, 2, 21, 34, 237,26, Vancouver Canucks, 3, 0, 1, 2, 6, 27, 32, 197,True
+1981, 12, 19,36, Winnipeg Jets, 4, 2, 4, 9, 2, 36, 41, 239,13, Toronto Maple Leafs, 4, 0, 6, 7, 2, 10, 44, 227,False
+1981, 12, 19,31, Washington Capitals, 4, 1, 1, 1, 4, 35, 44, 265,12, Chicago Black Hawks, 4, 1, 3, 5, 3, 26, 14, 124,False
+1981, 12, 20,7, Boston Bruins, 5, 2, 2, 3, 5, 26, 34, 204,25, Los Angeles Kings, 4, 0, 5, 9, 5, 42, 44, 201,True
+1981, 12, 20,28, Buffalo Sabres, 5, 1, 3, 5, 1, 10, 16, 85,38, Hartford Whalers, 4, 1, 4, 8, 8, 30, 29, 161,True
+1981, 12, 20,12, Chicago Black Hawks, 5, 1, 6, 8, 3, 34, 15, 128,13, Toronto Maple Leafs, 5, 1, 8, 13, 4, 41, 46, 258,False
+1981, 12, 20,17, Detroit Red Wings, 3, 0, 1, 2, 5, 33, 44, 255,29, New York Islanders, 5, 2, 6, 10, 7, 29, 24, 162,False
+1981, 12, 20,35, Edmonton Oilers, 9, 2, 9, 16, 0, 10, 39, 227,39, Calgary Flames, 5, 0, 5, 10, 2, 19, 10, 71,False
+1981, 12, 20,11, New York Rangers, 5, 2, 3, 5, 7, 28, 31, 200,31, Washington Capitals, 3, 0, 4, 7, 6, 15, 44, 222,False
+1981, 12, 20,21, Philadelphia Flyers, 8, 1, 2, 2, 1, 22, 18, 148,22, Pittsburgh Penguins, 5, 1, 3, 4, 3, 22, 46, 217,True
+1981, 12, 20,36, Winnipeg Jets, 4, 2, 4, 7, 5, 17, 43, 216,23, St. Louis Blues, 7, 0, 5, 10, 0, 0, 35, 224,True
+1981, 12, 22,33, Colorado Rockies, 4, 1, 2, 2, 5, 27, 45, 239,25, Los Angeles Kings, 4, 1, 4, 8, 5, 31, 44, 190,True
+1981, 12, 22,17, Detroit Red Wings, 3, 0, 3, 6, 4, 25, 43, 247,38, Hartford Whalers, 3, 2, 2, 2, 8, 27, 29, 158,False
+1981, 12, 22,29, New York Islanders, 6, 1, 5, 9, 1, 39, 17, 168,36, Winnipeg Jets, 5, 1, 5, 6, 3, 12, 42, 239,True
+1981, 12, 22,37, Quebec Nordiques, 6, 2, 8, 11, 3, 19, 42, 202,1, Montreal Canadiens, 7, 0, 5, 7, 2, 25, 15, 133,True
+1981, 12, 22,23, St. Louis Blues, 7, 1, 4, 5, 0, 27, 39, 279,28, Buffalo Sabres, 5, 1, 8, 11, 6, 23, 15, 88,True
+1981, 12, 22,26, Vancouver Canucks, 2, 1, 0, 0, 2, 29, 32, 210,24, Minnesota North Stars, 2, 1, 5, 9, 3, 40, 47, 274,False
+1981, 12, 23,12, Chicago Black Hawks, 5, 2, 2, 1, 3, 33, 15, 127,21, Philadelphia Flyers, 8, 0, 3, 6, 1, 25, 18, 151,False
+1981, 12, 23,39, Calgary Flames, 5, 1, 8, 15, 5, 33, 12, 100,24, Minnesota North Stars, 2, 1, 4, 7, 8, 44, 48, 263,False
+1981, 12, 23,35, Edmonton Oilers, 8, 2, 5, 8, 3, 25, 45, 244,26, Vancouver Canucks, 2, 0, 4, 5, 5, 36, 34, 221,True
+1981, 12, 23,25, Los Angeles Kings, 4, 1, 2, 4, 7, 27, 43, 194,33, Colorado Rockies, 5, 1, 4, 8, 1, 24, 42, 245,True
+1981, 12, 23,11, New York Rangers, 5, 1, 2, 3, 3, 29, 28, 224,36, Winnipeg Jets, 5, 1, 2, 4, 4, 35, 43, 262,True
+1981, 12, 23,13, Toronto Maple Leafs, 5, 2, 3, 6, 4, 28, 43, 251,22, Pittsburgh Penguins, 4, 0, 1, 2, 2, 36, 39, 243,False
+1981, 12, 23,31, Washington Capitals, 4, 1, 3, 5, 2, 28, 40, 235,7, Boston Bruins, 6, 1, 6, 9, 4, 30, 33, 208,False
+1981, 12, 26,33, Colorado Rockies, 4, 0, 4, 6, 2, 33, 49, 254,39, Calgary Flames, 5, 2, 4, 7, 4, 34, 11, 101,True
+1981, 12, 26,38, Hartford Whalers, 4, 0, 3, 6, 2, 39, 23, 170,7, Boston Bruins, 7, 2, 7, 11, 5, 27, 33, 212,False
+1981, 12, 26,24, Minnesota North Stars, 3, 0, 4, 6, 4, 29, 44, 245,23, St. Louis Blues, 7, 2, 3, 7, 2, 32, 48, 293,True
+1981, 12, 26,29, New York Islanders, 7, 0, 5, 8, 3, 29, 21, 162,21, Philadelphia Flyers, 9, 2, 7, 12, 6, 37, 30, 172,True
+1981, 12, 26,22, Pittsburgh Penguins, 4, 1, 4, 8, 4, 39, 47, 231,28, Buffalo Sabres, 5, 1, 3, 4, 3, 21, 12, 86,False
+1981, 12, 26,13, Toronto Maple Leafs, 5, 1, 4, 8, 2, 17, 42, 218,17, Detroit Red Wings, 3, 1, 2, 3, 3, 20, 43, 239,True
+1981, 12, 26,26, Vancouver Canucks, 1, 0, 1, 1, 4, 40, 35, 211,25, Los Angeles Kings, 4, 2, 7, 13, 4, 24, 41, 188,False
+1981, 12, 26,36, Winnipeg Jets, 5, 2, 2, 3, 4, 40, 46, 250,12, Chicago Black Hawks, 5, 0, 5, 7, 4, 30, 19, 128,False
+1981, 12, 26,31, Washington Capitals, 3, 1, 4, 8, 7, 34, 45, 241,11, New York Rangers, 6, 1, 5, 8, 2, 24, 28, 208,False
+1981, 12, 27,28, Buffalo Sabres, 5, 2, 7, 8, 5, 43, 19, 122,31, Washington Capitals, 2, 0, 4, 8, 4, 30, 42, 237,True
+1981, 12, 27,12, Chicago Black Hawks, 5, 0, 3, 3, 2, 33, 17, 131,23, St. Louis Blues, 6, 2, 3, 2, 6, 34, 51, 279,False
+1981, 12, 27,35, Edmonton Oilers, 8, 2, 6, 7, 1, 34, 43, 253,25, Los Angeles Kings, 5, 0, 2, 4, 2, 32, 39, 196,True
+1981, 12, 27,38, Hartford Whalers, 3, 2, 6, 10, 5, 30, 29, 159,13, Toronto Maple Leafs, 5, 0, 8, 14, 3, 36, 43, 237,True
+1981, 12, 27,1, Montreal Canadiens, 7, 0, 2, 5, 5, 35, 21, 147,37, Quebec Nordiques, 6, 2, 5, 9, 2, 29, 43, 211,True
+1981, 12, 27,11, New York Rangers, 6, 2, 4, 5, 3, 28, 30, 222,22, Pittsburgh Penguins, 3, 0, 4, 10, 5, 18, 47, 225,True
+1981, 12, 27,36, Winnipeg Jets, 4, 0, 2, 5, 3, 24, 45, 234,17, Detroit Red Wings, 3, 2, 3, 4, 8, 34, 48, 253,False
+1981, 12, 28,39, Calgary Flames, 5, 0, 3, 4, 6, 29, 17, 104,21, Philadelphia Flyers, 8, 2, 2, 3, 3, 28, 28, 162,False
+1981, 12, 28,24, Minnesota North Stars, 4, 1, 6, 8, 4, 26, 43, 262,33, Colorado Rockies, 4, 1, 5, 11, 3, 25, 50, 246,False
+1981, 12, 29,29, New York Islanders, 7, 1, 4, 9, 2, 29, 19, 154,1, Montreal Canadiens, 8, 1, 6, 10, 5, 27, 19, 144,False
+1981, 12, 29,37, Quebec Nordiques, 5, 0, 3, 5, 6, 37, 47, 219,12, Chicago Black Hawks, 5, 2, 3, 4, 7, 34, 19, 126,True
+1981, 12, 29,23, St. Louis Blues, 6, 1, 4, 5, 5, 32, 47, 285,38, Hartford Whalers, 4, 1, 7, 11, 8, 28, 27, 164,True
+1981, 12, 29,26, Vancouver Canucks, 1, 0, 2, 2, 6, 26, 30, 178,7, Boston Bruins, 7, 2, 9, 16, 4, 34, 34, 209,False
+1981, 12, 30,39, Calgary Flames, 5, 1, 4, 4, 1, 6, 8, 54,7, Boston Bruins, 7, 1, 5, 4, 6, 24, 33, 193,False
+1981, 12, 30,33, Colorado Rockies, 5, 1, 5, 6, 4, 33, 51, 254,25, Los Angeles Kings, 5, 1, 3, 6, 10, 41, 43, 208,True
+1981, 12, 30,35, Edmonton Oilers, 9, 2, 10, 18, 3, 30, 45, 247,21, Philadelphia Flyers, 8, 0, 7, 12, 4, 27, 29, 163,True
+1981, 12, 30,1, Montreal Canadiens, 9, 1, 5, 7, 2, 16, 15, 107,12, Chicago Black Hawks, 4, 1, 1, 0, 7, 38, 16, 115,True
+1981, 12, 30,11, New York Rangers, 6, 0, 5, 8, 4, 38, 30, 220,29, New York Islanders, 7, 2, 4, 7, 2, 30, 20, 156,True
+1981, 12, 30,22, Pittsburgh Penguins, 3, 2, 3, 4, 5, 30, 44, 208,31, Washington Capitals, 2, 0, 2, 3, 3, 29, 41, 236,True
+1981, 12, 30,13, Toronto Maple Leafs, 5, 1, 2, 6, 2, 12, 44, 246,23, St. Louis Blues, 7, 1, 5, 12, 3, 22, 43, 270,False
+1981, 12, 30,36, Winnipeg Jets, 3, 1, 2, 4, 5, 24, 44, 252,38, Hartford Whalers, 3, 1, 1, 1, 3, 35, 25, 161,False
+1981, 12, 31,28, Buffalo Sabres, 5, 0, 3, 5, 2, 24, 10, 103,24, Minnesota North Stars, 4, 2, 4, 7, 3, 34, 40, 265,True
+1981, 12, 31,17, Detroit Red Wings, 3, 0, 2, 3, 2, 34, 38, 256,13, Toronto Maple Leafs, 4, 2, 4, 5, 7, 40, 47, 265,False
+1981, 12, 31,26, Vancouver Canucks, 1, 0, 3, 4, 2, 24, 29, 193,35, Edmonton Oilers, 9, 2, 7, 10, 6, 16, 47, 249,True
+1982, 1, 2,33, Colorado Rockies, 6, 1, 3, 7, 2, 34, 49, 255,17, Detroit Red Wings, 3, 1, 2, 4, 5, 21, 38, 257,False
+1982, 1, 2,35, Edmonton Oilers, 8, 0, 1, 2, 5, 32, 44, 263,7, Boston Bruins, 7, 2, 4, 4, 3, 18, 29, 196,False
+1982, 1, 2,25, Los Angeles Kings, 5, 0, 2, 4, 3, 24, 36, 191,39, Calgary Flames, 4, 2, 2, 4, 4, 32, 11, 80,False
+1982, 1, 2,1, Montreal Canadiens, 9, 1, 6, 12, 3, 21, 11, 129,11, New York Rangers, 7, 1, 6, 11, 3, 26, 31, 212,False
+1982, 1, 2,29, New York Islanders, 7, 2, 4, 9, 5, 30, 23, 150,12, Chicago Black Hawks, 3, 0, 3, 4, 1, 13, 15, 112,True
+1982, 1, 2,22, Pittsburgh Penguins, 4, 2, 6, 10, 2, 23, 41, 201,38, Hartford Whalers, 3, 0, 6, 11, 1, 34, 23, 160,True
+1982, 1, 2,37, Quebec Nordiques, 5, 2, 8, 13, 1, 29, 39, 225,28, Buffalo Sabres, 5, 0, 4, 7, 2, 26, 9, 94,True
+1982, 1, 2,23, St. Louis Blues, 8, 0, 6, 7, 4, 28, 44, 276,21, Philadelphia Flyers, 7, 2, 5, 4, 4, 29, 31, 167,False
+1982, 1, 2,13, Toronto Maple Leafs, 5, 1, 3, 7, 2, 50, 44, 284,24, Minnesota North Stars, 4, 1, 2, 4, 4, 36, 43, 270,False
+1982, 1, 2,31, Washington Capitals, 2, 1, 3, 4, 0, 8, 44, 242,26, Vancouver Canucks, 1, 1, 3, 5, 5, 41, 31, 213,True
+1982, 1, 3,28, Buffalo Sabres, 4, 0, 3, 4, 2, 23, 12, 97,1, Montreal Canadiens, 8, 2, 5, 3, 2, 14, 12, 78,True
+1982, 1, 3,12, Chicago Black Hawks, 3, 0, 3, 5, 6, 35, 18, 130,17, Detroit Red Wings, 3, 2, 3, 5, 1, 26, 36, 274,True
+1982, 1, 3,38, Hartford Whalers, 3, 0, 4, 9, 6, 25, 31, 160,22, Pittsburgh Penguins, 5, 2, 9, 13, 4, 32, 43, 210,False
+1982, 1, 3,11, New York Rangers, 8, 1, 6, 9, 4, 28, 33, 218,31, Washington Capitals, 2, 1, 5, 8, 6, 35, 46, 254,False
+1982, 1, 3,36, Winnipeg Jets, 3, 0, 1, 1, 2, 42, 45, 254,7, Boston Bruins, 7, 2, 4, 5, 2, 27, 30, 207,False
+1982, 1, 4,29, New York Islanders, 7, 1, 5, 10, 5, 30, 21, 146,26, Vancouver Canucks, 1, 1, 2, 4, 1, 26, 31, 198,True
+1982, 1, 5,39, Calgary Flames, 4, 1, 5, 5, 5, 34, 14, 80,33, Colorado Rockies, 5, 1, 1, 2, 3, 26, 50, 247,True
+1982, 1, 5,1, Montreal Canadiens, 7, 2, 2, 4, 3, 25, 13, 89,7, Boston Bruins, 8, 0, 8, 13, 4, 29, 33, 209,True
+1982, 1, 5,21, Philadelphia Flyers, 7, 2, 5, 9, 6, 31, 30, 175,25, Los Angeles Kings, 4, 0, 5, 8, 5, 37, 41, 206,True
+1982, 1, 5,37, Quebec Nordiques, 6, 2, 6, 11, 3, 27, 41, 223,31, Washington Capitals, 3, 0, 4, 6, 3, 37, 43, 256,True
+1982, 1, 5,23, St. Louis Blues, 7, 1, 3, 6, 5, 29, 51, 263,24, Minnesota North Stars, 5, 1, 6, 10, 2, 28, 41, 268,True
+1982, 1, 6,28, Buffalo Sabres, 5, 2, 3, 5, 2, 36, 15, 123,17, Detroit Red Wings, 3, 0, 3, 6, 4, 39, 42, 289,True
+1982, 1, 6,12, Chicago Black Hawks, 3, 1, 4, 8, 3, 39, 15, 134,22, Pittsburgh Penguins, 5, 1, 6, 9, 4, 38, 42, 224,True
+1982, 1, 6,35, Edmonton Oilers, 7, 1, 4, 7, 4, 21, 45, 258,33, Colorado Rockies, 5, 1, 4, 5, 8, 33, 52, 253,True
+1982, 1, 6,38, Hartford Whalers, 3, 1, 5, 7, 9, 34, 30, 168,36, Winnipeg Jets, 3, 1, 5, 9, 6, 26, 51, 240,False
+1982, 1, 6,24, Minnesota North Stars, 4, 2, 1, 2, 4, 30, 45, 263,13, Toronto Maple Leafs, 5, 0, 2, 0, 3, 25, 45, 241,False
+1982, 1, 7,7, Boston Bruins, 7, 2, 1, 3, 5, 29, 31, 201,36, Winnipeg Jets, 3, 0, 5, 6, 8, 28, 48, 256,True
+1982, 1, 7,39, Calgary Flames, 5, 1, 5, 10, 4, 38, 10, 85,13, Toronto Maple Leafs, 6, 1, 3, 3, 3, 27, 45, 243,False
+1982, 1, 7,17, Detroit Red Wings, 2, 1, 2, 3, 5, 30, 44, 274,22, Pittsburgh Penguins, 5, 1, 4, 5, 4, 35, 44, 224,True
+1982, 1, 7,11, New York Rangers, 7, 2, 3, 6, 5, 32, 30, 230,26, Vancouver Canucks, 1, 0, 1, 0, 4, 37, 34, 209,True
+1982, 1, 7,21, Philadelphia Flyers, 7, 1, 5, 11, 3, 37, 24, 180,29, New York Islanders, 8, 1, 4, 8, 1, 34, 22, 161,False
+1982, 1, 7,31, Washington Capitals, 3, 1, 0, 0, 3, 41, 43, 260,25, Los Angeles Kings, 3, 1, 3, 6, 4, 35, 41, 191,False
+1982, 1, 8,33, Colorado Rockies, 5, 0, 3, 2, 5, 32, 49, 261,23, St. Louis Blues, 7, 2, 4, 5, 1, 40, 43, 287,True
+1982, 1, 9,17, Detroit Red Wings, 3, 2, 5, 7, 4, 21, 43, 265,36, Winnipeg Jets, 2, 0, 6, 10, 7, 33, 48, 259,False
+1982, 1, 9,35, Edmonton Oilers, 7, 1, 5, 8, 3, 27, 40, 257,39, Calgary Flames, 4, 1, 4, 8, 6, 19, 10, 75,True
+1982, 1, 9,38, Hartford Whalers, 3, 0, 3, 6, 5, 33, 26, 163,28, Buffalo Sabres, 6, 2, 4, 10, 5, 29, 14, 94,False
+1982, 1, 9,24, Minnesota North Stars, 4, 0, 3, 6, 4, 23, 44, 268,1, Montreal Canadiens, 7, 2, 4, 7, 1, 20, 12, 92,False
+1982, 1, 9,29, New York Islanders, 8, 2, 5, 9, 3, 26, 21, 160,21, Philadelphia Flyers, 7, 0, 4, 5, 3, 28, 26, 171,True
+1982, 1, 9,11, New York Rangers, 7, 1, 4, 5, 4, 24, 26, 223,12, Chicago Black Hawks, 4, 1, 6, 10, 3, 34, 15, 129,True
+1982, 1, 9,22, Pittsburgh Penguins, 4, 1, 4, 6, 5, 33, 43, 225,26, Vancouver Canucks, 1, 1, 1, 1, 5, 26, 34, 203,True
+1982, 1, 9,37, Quebec Nordiques, 7, 1, 3, 6, 0, 28, 37, 218,7, Boston Bruins, 8, 1, 8, 16, 2, 21, 32, 195,True
+1982, 1, 9,23, St. Louis Blues, 6, 2, 1, 1, 7, 28, 44, 276,31, Washington Capitals, 3, 0, 3, 6, 3, 29, 43, 248,True
+1982, 1, 9,13, Toronto Maple Leafs, 6, 1, 4, 4, 4, 33, 46, 249,25, Los Angeles Kings, 4, 1, 3, 6, 4, 28, 40, 184,True
+1982, 1, 10,28, Buffalo Sabres, 7, 1, 4, 4, 2, 24, 11, 104,25, Los Angeles Kings, 3, 1, 3, 4, 1, 8, 37, 150,True
+1982, 1, 10,12, Chicago Black Hawks, 3, 0, 5, 6, 6, 24, 18, 119,26, Vancouver Canucks, 1, 2, 3, 5, 4, 31, 33, 198,True
+1982, 1, 10,39, Calgary Flames, 4, 1, 2, 5, 7, 48, 12, 100,35, Edmonton Oilers, 7, 1, 7, 14, 3, 30, 39, 259,True
+1982, 1, 10,21, Philadelphia Flyers, 6, 2, 1, 2, 5, 28, 26, 167,33, Colorado Rockies, 5, 0, 7, 13, 5, 41, 45, 260,True
+1982, 1, 10,36, Winnipeg Jets, 3, 1, 4, 4, 3, 42, 41, 256,1, Montreal Canadiens, 7, 1, 3, 5, 3, 26, 13, 90,False
+1982, 1, 11,7, Boston Bruins, 8, 1, 1, 2, 6, 23, 36, 195,13, Toronto Maple Leafs, 6, 1, 5, 6, 3, 25, 45, 241,True
+1982, 1, 11,11, New York Rangers, 8, 0, 7, 10, 1, 25, 28, 223,24, Minnesota North Stars, 4, 2, 3, 6, 3, 35, 43, 270,True
+1982, 1, 11,37, Quebec Nordiques, 8, 2, 6, 11, 1, 24, 40, 212,38, Hartford Whalers, 3, 0, 2, 3, 3, 36, 24, 166,True
+1982, 1, 12,1, Montreal Canadiens, 7, 0, 4, 8, 4, 31, 16, 101,25, Los Angeles Kings, 3, 2, 4, 6, 3, 14, 37, 170,True
+1982, 1, 13,28, Buffalo Sabres, 8, 1, 6, 11, 4, 33, 13, 113,12, Chicago Black Hawks, 4, 1, 3, 6, 4, 31, 14, 124,True
+1982, 1, 13,24, Minnesota North Stars, 4, 1, 3, 6, 3, 25, 45, 270,11, New York Rangers, 8, 1, 5, 10, 5, 29, 30, 225,False
+1982, 1, 13,23, St. Louis Blues, 6, 1, 7, 14, 4, 34, 41, 287,37, Quebec Nordiques, 8, 1, 6, 11, 2, 24, 41, 212,False
+1982, 1, 13,13, Toronto Maple Leafs, 5, 1, 3, 6, 5, 31, 47, 247,33, Colorado Rockies, 5, 1, 4, 8, 1, 31, 45, 265,True
+1982, 1, 13,26, Vancouver Canucks, 1, 1, 2, 6, 3, 47, 34, 213,39, Calgary Flames, 4, 1, 5, 9, 1, 25, 7, 79,True
+1982, 1, 13,36, Winnipeg Jets, 2, 0, 4, 7, 2, 34, 42, 251,22, Pittsburgh Penguins, 5, 2, 4, 8, 3, 29, 44, 224,True
+1982, 1, 13,31, Washington Capitals, 3, 1, 4, 6, 7, 35, 47, 254,35, Edmonton Oilers, 6, 1, 1, 3, 2, 29, 43, 259,False
+1982, 1, 14,7, Boston Bruins, 8, 1, 5, 10, 2, 25, 32, 197,29, New York Islanders, 8, 1, 3, 6, 1, 28, 17, 142,True
+1982, 1, 14,39, Calgary Flames, 3, 2, 1, 2, 5, 37, 11, 91,25, Los Angeles Kings, 3, 0, 1, 1, 2, 25, 38, 178,True
+1982, 1, 14,17, Detroit Red Wings, 3, 1, 2, 4, 3, 22, 42, 263,33, Colorado Rockies, 4, 1, 1, 2, 2, 17, 46, 251,True
+1982, 1, 14,21, Philadelphia Flyers, 6, 0, 5, 10, 3, 24, 25, 163,35, Edmonton Oilers, 6, 2, 6, 10, 5, 28, 47, 266,True
+1982, 1, 15,28, Buffalo Sabres, 8, 2, 6, 8, 2, 29, 9, 108,13, Toronto Maple Leafs, 6, 0, 2, 4, 1, 30, 43, 246,True
+1982, 1, 15,26, Vancouver Canucks, 2, 0, 5, 7, 1, 25, 32, 191,25, Los Angeles Kings, 2, 2, 2, 4, 5, 26, 41, 183,False
+1982, 1, 15,36, Winnipeg Jets, 3, 1, 6, 5, 0, 0, 40, 225,11, New York Rangers, 9, 1, 2, 2, 3, 27, 21, 185,False
+1982, 1, 16,7, Boston Bruins, 8, 2, 5, 8, 6, 21, 34, 194,38, Hartford Whalers, 3, 0, 2, 5, 6, 39, 22, 140,False
+1982, 1, 16,39, Calgary Flames, 4, 1, 5, 9, 2, 36, 8, 90,22, Pittsburgh Penguins, 5, 1, 0, 2, 6, 39, 44, 221,True
+1982, 1, 16,17, Detroit Red Wings, 4, 1, 3, 6, 1, 21, 43, 277,31, Washington Capitals, 2, 1, 5, 11, 6, 30, 46, 249,False
+1982, 1, 16,24, Minnesota North Stars, 3, 1, 0, 1, 2, 29, 44, 274,37, Quebec Nordiques, 9, 1, 4, 7, 2, 26, 45, 219,True
+1982, 1, 16,1, Montreal Canadiens, 7, 2, 2, 3, 1, 27, 16, 105,21, Philadelphia Flyers, 6, 0, 8, 12, 4, 19, 24, 160,False
+1982, 1, 16,23, St. Louis Blues, 6, 2, 3, 4, 3, 36, 39, 290,12, Chicago Black Hawks, 4, 0, 1, 4, 2, 29, 16, 123,True
+1982, 1, 16,13, Toronto Maple Leafs, 5, 0, 2, 3, 8, 39, 50, 255,35, Edmonton Oilers, 6, 2, 2, 3, 6, 36, 51, 282,True
+1982, 1, 17,28, Buffalo Sabres, 9, 2, 8, 13, 2, 39, 13, 107,38, Hartford Whalers, 3, 0, 3, 4, 3, 26, 19, 127,True
+1982, 1, 17,33, Colorado Rockies, 4, 1, 1, 2, 2, 32, 46, 266,39, Calgary Flames, 5, 1, 4, 3, 0, 29, 8, 108,False
+1982, 1, 17,17, Detroit Red Wings, 4, 0, 5, 9, 5, 31, 47, 287,35, Edmonton Oilers, 5, 2, 1, 2, 7, 35, 52, 281,False
+1982, 1, 17,24, Minnesota North Stars, 3, 2, 4, 7, 1, 27, 43, 272,12, Chicago Black Hawks, 3, 0, 6, 9, 6, 30, 22, 126,True
+1982, 1, 17,21, Philadelphia Flyers, 6, 2, 4, 8, 2, 21, 22, 179,7, Boston Bruins, 7, 0, 3, 4, 4, 22, 31, 193,True
+1982, 1, 17,26, Vancouver Canucks, 2, 0, 3, 6, 3, 30, 35, 198,22, Pittsburgh Penguins, 4, 2, 0, 0, 4, 19, 46, 213,False
+1982, 1, 17,36, Winnipeg Jets, 3, 2, 4, 8, 1, 35, 41, 241,37, Quebec Nordiques, 8, 0, 1, 1, 0, 0, 46, 254,False
+1982, 1, 17,31, Washington Capitals, 3, 0, 6, 8, 2, 20, 45, 252,29, New York Islanders, 7, 2, 4, 8, 4, 34, 25, 161,False
+1982, 1, 18,13, Toronto Maple Leafs, 6, 1, 7, 12, 1, 35, 43, 251,11, New York Rangers, 9, 1, 4, 7, 0, 26, 23, 190,True
+1982, 1, 19,25, Los Angeles Kings, 2, 1, 3, 6, 3, 40, 42, 206,33, Colorado Rockies, 3, 1, 3, 5, 5, 46, 48, 260,False
+1982, 1, 19,1, Montreal Canadiens, 7, 1, 2, 4, 4, 34, 13, 101,28, Buffalo Sabres, 9, 1, 7, 8, 2, 18, 11, 90,False
+1982, 1, 19,37, Quebec Nordiques, 8, 1, 7, 13, 4, 51, 51, 295,21, Philadelphia Flyers, 7, 1, 7, 12, 2, 38, 22, 172,False
+1982, 1, 19,26, Vancouver Canucks, 2, 0, 3, 6, 4, 21, 35, 199,23, St. Louis Blues, 6, 2, 8, 15, 6, 38, 46, 266,False
+1982, 1, 20,12, Chicago Black Hawks, 3, 1, 5, 8, 7, 32, 23, 128,17, Detroit Red Wings, 4, 1, 4, 5, 4, 29, 49, 310,False
+1982, 1, 20,33, Colorado Rockies, 3, 2, 4, 4, 4, 26, 47, 250,24, Minnesota North Stars, 3, 0, 6, 13, 5, 35, 47, 275,False
+1982, 1, 20,35, Edmonton Oilers, 5, 2, 4, 7, 4, 32, 49, 278,23, St. Louis Blues, 7, 0, 5, 6, 8, 34, 44, 262,True
+1982, 1, 20,38, Hartford Whalers, 3, 0, 1, 2, 5, 36, 28, 180,37, Quebec Nordiques, 7, 2, 2, 4, 5, 41, 49, 269,True
+1982, 1, 20,11, New York Rangers, 8, 1, 2, 3, 4, 28, 29, 194,29, New York Islanders, 7, 1, 2, 3, 5, 32, 21, 143,True
+1982, 1, 20,22, Pittsburgh Penguins, 5, 1, 3, 3, 3, 29, 45, 223,7, Boston Bruins, 6, 1, 3, 3, 3, 20, 34, 202,True
+1982, 1, 20,13, Toronto Maple Leafs, 7, 2, 6, 10, 2, 28, 44, 244,39, Calgary Flames, 6, 0, 5, 8, 3, 24, 9, 77,False
+1982, 1, 20,36, Winnipeg Jets, 3, 0, 5, 7, 1, 4, 44, 201,31, Washington Capitals, 3, 2, 2, 3, 5, 33, 45, 268,True
+1982, 1, 21,7, Boston Bruins, 5, 2, 4, 6, 7, 31, 36, 204,13, Toronto Maple Leafs, 6, 0, 5, 6, 3, 7, 46, 253,True
+1982, 1, 21,17, Detroit Red Wings, 4, 2, 5, 8, 1, 39, 44, 311,39, Calgary Flames, 7, 0, 4, 7, 4, 27, 10, 80,False
+1982, 1, 21,25, Los Angeles Kings, 2, 1, 4, 7, 5, 30, 38, 184,24, Minnesota North Stars, 4, 1, 4, 5, 1, 29, 43, 268,False
+1982, 1, 21,29, New York Islanders, 6, 1, 2, 3, 2, 30, 19, 137,22, Pittsburgh Penguins, 6, 1, 5, 9, 4, 27, 46, 221,True
+1982, 1, 21,21, Philadelphia Flyers, 7, 1, 2, 4, 3, 24, 22, 158,1, Montreal Canadiens, 6, 1, 2, 3, 2, 6, 13, 109,False
+1982, 1, 22,28, Buffalo Sabres, 9, 0, 2, 4, 1, 24, 12, 93,37, Quebec Nordiques, 7, 2, 2, 3, 2, 25, 50, 275,True
+1982, 1, 22,26, Vancouver Canucks, 2, 1, 4, 4, 3, 13, 31, 181,35, Edmonton Oilers, 5, 1, 8, 13, 8, 43, 49, 277,False
+1982, 1, 22,36, Winnipeg Jets, 4, 1, 3, 6, 6, 19, 45, 226,12, Chicago Black Hawks, 3, 1, 4, 8, 8, 32, 18, 117,True
+1982, 1, 23,7, Boston Bruins, 5, 2, 4, 8, 2, 31, 32, 179,31, Washington Capitals, 3, 0, 0, 0, 2, 36, 43, 266,True
+1982, 1, 23,33, Colorado Rockies, 2, 2, 1, 1, 2, 30, 45, 254,25, Los Angeles Kings, 2, 0, 3, 8, 3, 21, 35, 165,False
+1982, 1, 23,17, Detroit Red Wings, 4, 0, 4, 8, 2, 14, 41, 250,38, Hartford Whalers, 3, 2, 4, 6, 7, 38, 23, 168,False
+1982, 1, 23,24, Minnesota North Stars, 5, 2, 3, 6, 3, 29, 45, 268,12, Chicago Black Hawks, 3, 0, 5, 7, 6, 39, 16, 124,True
+1982, 1, 23,1, Montreal Canadiens, 6, 1, 4, 6, 2, 31, 13, 134,39, Calgary Flames, 7, 1, 7, 12, 4, 43, 13, 101,True
+1982, 1, 23,29, New York Islanders, 6, 0, 6, 11, 3, 26, 20, 148,11, New York Rangers, 8, 2, 3, 7, 2, 26, 26, 209,True
+1982, 1, 23,22, Pittsburgh Penguins, 5, 0, 0, 0, 6, 35, 43, 231,21, Philadelphia Flyers, 7, 2, 2, 3, 2, 24, 23, 171,False
+1982, 1, 23,37, Quebec Nordiques, 6, 1, 3, 4, 5, 30, 47, 267,28, Buffalo Sabres, 9, 1, 5, 10, 2, 10, 12, 56,False
+1982, 1, 23,23, St. Louis Blues, 6, 2, 6, 8, 4, 34, 43, 274,13, Toronto Maple Leafs, 6, 0, 2, 4, 4, 37, 46, 281,True
+1982, 1, 24,35, Edmonton Oilers, 6, 2, 4, 8, 6, 34, 48, 269,33, Colorado Rockies, 2, 0, 3, 6, 4, 36, 46, 253,True
+1982, 1, 24,11, New York Rangers, 7, 1, 1, 2, 6, 30, 30, 215,31, Washington Capitals, 3, 1, 1, 2, 3, 44, 44, 274,False
+1982, 1, 24,26, Vancouver Canucks, 1, 0, 3, 6, 4, 31, 32, 199,25, Los Angeles Kings, 3, 2, 3, 5, 4, 18, 35, 176,False
+1982, 1, 25,7, Boston Bruins, 5, 2, 3, 4, 1, 21, 31, 176,39, Calgary Flames, 6, 0, 2, 3, 4, 28, 13, 91,False
+1982, 1, 25,12, Chicago Black Hawks, 3, 2, 4, 7, 0, 0, 18, 120,38, Hartford Whalers, 4, 0, 2, 3, 2, 28, 18, 158,False
+1982, 1, 25,13, Toronto Maple Leafs, 5, 1, 2, 4, 6, 32, 48, 276,24, Minnesota North Stars, 5, 1, 8, 13, 5, 30, 46, 274,False
+1982, 1, 26,33, Colorado Rockies, 2, 0, 4, 8, 3, 29, 49, 257,21, Philadelphia Flyers, 7, 2, 5, 8, 4, 37, 29, 186,True
+1982, 1, 26,17, Detroit Red Wings, 3, 1, 2, 2, 2, 21, 44, 244,36, Winnipeg Jets, 5, 1, 6, 8, 0, 21, 43, 240,False
+1982, 1, 26,29, New York Islanders, 7, 2, 6, 10, 1, 22, 20, 153,22, Pittsburgh Penguins, 4, 0, 5, 7, 6, 38, 45, 239,True
+1982, 1, 26,37, Quebec Nordiques, 5, 1, 2, 3, 3, 25, 45, 232,1, Montreal Canadiens, 6, 1, 6, 8, 2, 33, 17, 114,False
+1982, 1, 26,23, St. Louis Blues, 6, 0, 6, 8, 8, 33, 44, 269,35, Edmonton Oilers, 7, 2, 7, 12, 3, 29, 46, 264,False
+1982, 1, 27,12, Chicago Black Hawks, 2, 1, 5, 8, 8, 35, 23, 150,35, Edmonton Oilers, 7, 1, 4, 10, 4, 29, 45, 267,False
+1982, 1, 27,38, Hartford Whalers, 4, 0, 6, 10, 2, 24, 21, 165,39, Calgary Flames, 7, 2, 3, 5, 3, 55, 17, 127,True
+1982, 1, 27,25, Los Angeles Kings, 4, 0, 5, 9, 3, 32, 38, 195,21, Philadelphia Flyers, 6, 2, 4, 7, 5, 35, 32, 179,False
+1982, 1, 27,24, Minnesota North Stars, 6, 1, 9, 19, 4, 35, 39, 245,17, Detroit Red Wings, 3, 1, 3, 5, 5, 10, 46, 253,True
+1982, 1, 27,22, Pittsburgh Penguins, 3, 0, 2, 4, 5, 6, 43, 194,29, New York Islanders, 8, 2, 8, 14, 1, 24, 21, 166,False
+1982, 1, 27,13, Toronto Maple Leafs, 4, 1, 2, 4, 1, 7, 46, 227,36, Winnipeg Jets, 6, 1, 3, 7, 5, 32, 47, 255,False
+1982, 1, 27,26, Vancouver Canucks, 1, 2, 5, 7, 2, 20, 33, 199,28, Buffalo Sabres, 10, 0, 3, 6, 1, 24, 13, 92,True
+1982, 1, 27,31, Washington Capitals, 3, 2, 4, 7, 4, 27, 45, 257,11, New York Rangers, 6, 0, 4, 7, 6, 32, 31, 227,False
+1982, 1, 28,7, Boston Bruins, 5, 0, 1, 7, 3, 25, 34, 183,1, Montreal Canadiens, 7, 2, 8, 14, 3, 14, 18, 95,False
+1982, 1, 28,23, St. Louis Blues, 5, 1, 4, 6, 2, 25, 40, 264,24, Minnesota North Stars, 7, 1, 8, 14, 1, 19, 39, 232,True
+1982, 1, 29,33, Colorado Rockies, 3, 1, 7, 9, 4, 38, 50, 266,11, New York Rangers, 7, 1, 5, 6, 4, 30, 29, 225,False
+1982, 1, 29,35, Edmonton Oilers, 7, 1, 5, 6, 3, 29, 40, 264,28, Buffalo Sabres, 9, 1, 3, 5, 4, 29, 16, 97,True
+1982, 1, 30,39, Calgary Flames, 7, 1, 1, 2, 2, 47, 16, 119,28, Buffalo Sabres, 8, 1, 1, 2, 3, 42, 15, 110,True
+1982, 1, 30,38, Hartford Whalers, 5, 1, 2, 6, 5, 35, 20, 168,7, Boston Bruins, 4, 1, 3, 5, 5, 22, 37, 187,True
+1982, 1, 30,25, Los Angeles Kings, 3, 1, 4, 7, 5, 33, 42, 206,23, St. Louis Blues, 6, 1, 8, 17, 6, 30, 41, 267,True
+1982, 1, 30,1, Montreal Canadiens, 8, 1, 6, 11, 3, 24, 18, 105,17, Detroit Red Wings, 3, 1, 6, 9, 7, 39, 52, 291,True
+1982, 1, 30,29, New York Islanders, 8, 2, 5, 14, 2, 35, 24, 170,24, Minnesota North Stars, 7, 0, 3, 6, 8, 38, 47, 253,True
+1982, 1, 30,22, Pittsburgh Penguins, 3, 1, 4, 5, 6, 32, 41, 239,36, Winnipeg Jets, 6, 1, 4, 5, 3, 40, 45, 253,True
+1982, 1, 30,13, Toronto Maple Leafs, 3, 1, 3, 5, 8, 26, 49, 252,37, Quebec Nordiques, 4, 1, 3, 5, 3, 41, 47, 259,False
+1982, 1, 30,26, Vancouver Canucks, 2, 2, 4, 6, 5, 31, 34, 201,21, Philadelphia Flyers, 7, 0, 4, 6, 7, 30, 31, 181,True
+1982, 1, 30,31, Washington Capitals, 2, 0, 3, 8, 3, 31, 46, 262,12, Chicago Black Hawks, 1, 2, 3, 6, 5, 33, 17, 152,True
+1982, 1, 31,7, Boston Bruins, 4, 2, 2, 2, 3, 28, 35, 193,33, Colorado Rockies, 2, 0, 2, 2, 5, 29, 51, 257,True
+1982, 1, 31,12, Chicago Black Hawks, 1, 1, 2, 4, 3, 34, 17, 144,13, Toronto Maple Leafs, 3, 1, 2, 4, 4, 32, 43, 262,False
+1982, 1, 31,35, Edmonton Oilers, 8, 1, 3, 4, 1, 29, 39, 266,21, Philadelphia Flyers, 7, 1, 2, 4, 4, 37, 28, 181,True
+1982, 1, 31,38, Hartford Whalers, 6, 1, 3, 5, 2, 54, 16, 167,37, Quebec Nordiques, 4, 1, 2, 4, 8, 34, 46, 239,False
+1982, 1, 31,25, Los Angeles Kings, 4, 1, 7, 12, 1, 12, 37, 154,11, New York Rangers, 7, 1, 5, 8, 4, 23, 26, 212,False
+1982, 1, 31,31, Washington Capitals, 3, 0, 5, 10, 2, 42, 45, 273,22, Pittsburgh Penguins, 4, 2, 2, 4, 4, 23, 38, 210,True
+1982, 2, 2,39, Calgary Flames, 7, 1, 3, 4, 2, 21, 12, 93,1, Montreal Canadiens, 8, 1, 5, 8, 3, 26, 12, 117,False
+1982, 2, 2,25, Los Angeles Kings, 4, 2, 3, 6, 3, 8, 42, 168,38, Hartford Whalers, 6, 0, 4, 8, 1, 27, 18, 152,False
+1982, 2, 2,29, New York Islanders, 8, 2, 3, 5, 2, 31, 20, 168,31, Washington Capitals, 4, 0, 7, 13, 5, 32, 46, 255,True
+1982, 2, 2,37, Quebec Nordiques, 4, 2, 4, 8, 2, 21, 47, 241,33, Colorado Rockies, 2, 0, 2, 3, 7, 40, 50, 259,True
+1982, 2, 2,23, St. Louis Blues, 5, 0, 4, 7, 3, 28, 43, 268,36, Winnipeg Jets, 6, 2, 1, 3, 3, 30, 44, 229,True
+1982, 2, 2,26, Vancouver Canucks, 3, 0, 4, 7, 3, 22, 31, 193,11, New York Rangers, 7, 2, 6, 14, 2, 29, 25, 229,False
+1982, 2, 3,28, Buffalo Sabres, 7, 1, 2, 4, 3, 25, 12, 84,7, Boston Bruins, 4, 1, 4, 6, 2, 29, 34, 194,False
+1982, 2, 3,12, Chicago Black Hawks, 0, 0, 2, 3, 4, 34, 20, 162,23, St. Louis Blues, 6, 2, 10, 18, 6, 33, 53, 286,True
+1982, 2, 3,35, Edmonton Oilers, 8, 2, 7, 12, 4, 31, 37, 257,1, Montreal Canadiens, 8, 0, 5, 9, 3, 32, 12, 123,False
+1982, 2, 3,22, Pittsburgh Penguins, 3, 1, 3, 4, 2, 12, 41, 201,24, Minnesota North Stars, 7, 1, 2, 2, 5, 22, 34, 220,False
+1982, 2, 3,26, Vancouver Canucks, 3, 1, 3, 4, 2, 31, 32, 191,13, Toronto Maple Leafs, 3, 1, 5, 9, 2, 36, 46, 277,True
+1982, 2, 4,7, Boston Bruins, 4, 2, 5, 7, 2, 25, 34, 190,28, Buffalo Sabres, 6, 0, 2, 4, 5, 25, 14, 84,True
+1982, 2, 4,39, Calgary Flames, 7, 0, 3, 6, 6, 38, 15, 101,11, New York Rangers, 7, 2, 4, 6, 3, 40, 26, 235,False
+1982, 2, 4,17, Detroit Red Wings, 2, 1, 3, 5, 4, 30, 45, 267,12, Chicago Black Hawks, 1, 1, 9, 18, 5, 31, 21, 159,True
+1982, 2, 4,21, Philadelphia Flyers, 6, 1, 4, 7, 4, 30, 32, 182,24, Minnesota North Stars, 8, 1, 9, 15, 3, 33, 42, 257,False
+1982, 2, 4,31, Washington Capitals, 4, 0, 7, 14, 1, 17, 45, 233,29, New York Islanders, 8, 2, 8, 11, 2, 18, 20, 113,False
+1982, 2, 5,33, Colorado Rockies, 2, 2, 7, 11, 4, 31, 51, 258,38, Hartford Whalers, 7, 0, 5, 6, 4, 39, 25, 165,False
+1982, 2, 5,36, Winnipeg Jets, 5, 1, 6, 11, 2, 28, 51, 242,39, Calgary Flames, 6, 1, 4, 8, 4, 26, 13, 89,True
+1982, 2, 6,7, Boston Bruins, 5, 2, 5, 9, 2, 20, 34, 185,12, Chicago Black Hawks, 1, 0, 4, 7, 5, 36, 21, 164,False
+1982, 2, 6,33, Colorado Rockies, 2, 0, 4, 6, 4, 22, 51, 249,1, Montreal Canadiens, 8, 2, 6, 7, 3, 22, 12, 106,False
+1982, 2, 6,35, Edmonton Oilers, 8, 1, 3, 6, 4, 35, 39, 263,13, Toronto Maple Leafs, 3, 1, 1, 0, 2, 29, 46, 270,True
+1982, 2, 6,25, Los Angeles Kings, 4, 2, 3, 6, 6, 26, 44, 187,26, Vancouver Canucks, 4, 0, 3, 6, 4, 20, 31, 175,True
+1982, 2, 6,29, New York Islanders, 8, 2, 5, 9, 4, 11, 21, 134,17, Detroit Red Wings, 3, 0, 6, 10, 3, 24, 46, 254,True
+1982, 2, 6,22, Pittsburgh Penguins, 3, 1, 5, 9, 6, 36, 48, 226,31, Washington Capitals, 4, 1, 2, 2, 6, 17, 49, 247,False
+1982, 2, 6,37, Quebec Nordiques, 4, 0, 8, 11, 4, 34, 45, 210,21, Philadelphia Flyers, 5, 2, 3, 6, 7, 39, 31, 179,True
+1982, 2, 6,23, St. Louis Blues, 5, 1, 5, 8, 6, 24, 49, 262,38, Hartford Whalers, 8, 1, 4, 6, 3, 45, 25, 165,False
+1982, 2, 7,28, Buffalo Sabres, 5, 2, 2, 1, 5, 36, 14, 84,29, New York Islanders, 9, 0, 6, 10, 2, 36, 19, 153,False
+1982, 2, 7,12, Chicago Black Hawks, 2, 0, 4, 7, 3, 28, 18, 152,24, Minnesota North Stars, 8, 2, 4, 8, 3, 35, 42, 259,True
+1982, 2, 7,39, Calgary Flames, 5, 1, 4, 7, 5, 29, 13, 93,13, Toronto Maple Leafs, 2, 1, 1, 2, 2, 33, 49, 277,True
+1982, 2, 7,17, Detroit Red Wings, 2, 1, 2, 2, 4, 19, 45, 232,23, St. Louis Blues, 5, 1, 2, 4, 8, 26, 46, 260,True
+1982, 2, 7,35, Edmonton Oilers, 9, 2, 5, 10, 6, 37, 36, 247,11, New York Rangers, 7, 0, 3, 8, 3, 35, 29, 219,True
+1982, 2, 7,25, Los Angeles Kings, 5, 1, 5, 8, 5, 27, 42, 191,1, Montreal Canadiens, 8, 1, 5, 10, 3, 22, 15, 113,False
+1982, 2, 7,21, Philadelphia Flyers, 4, 2, 3, 4, 3, 27, 28, 170,22, Pittsburgh Penguins, 3, 0, 4, 6, 3, 24, 41, 204,True
+1982, 2, 7,31, Washington Capitals, 4, 0, 6, 7, 1, 2, 42, 242,37, Quebec Nordiques, 5, 2, 4, 8, 3, 21, 44, 197,False
+1982, 2, 10,28, Buffalo Sabres, 4, 1, 3, 4, 7, 32, 17, 83,36, Winnipeg Jets, 6, 1, 6, 9, 10, 43, 49, 226,True
+1982, 2, 10,22, Pittsburgh Penguins, 2, 2, 4, 7, 2, 10, 43, 209,38, Hartford Whalers, 8, 0, 5, 7, 4, 39, 24, 161,False
+1982, 2, 10,23, St. Louis Blues, 4, 1, 5, 10, 8, 38, 40, 254,11, New York Rangers, 6, 1, 4, 6, 4, 30, 34, 227,False
+1982, 2, 10,13, Toronto Maple Leafs, 1, 1, 2, 3, 5, 36, 55, 281,26, Vancouver Canucks, 3, 1, 4, 6, 1, 15, 32, 183,False
+1982, 2, 11,12, Chicago Black Hawks, 3, 0, 5, 5, 2, 29, 15, 113,29, New York Islanders, 9, 2, 7, 11, 2, 30, 20, 152,False
+1982, 2, 11,39, Calgary Flames, 5, 1, 8, 16, 2, 38, 12, 106,31, Washington Capitals, 4, 1, 5, 9, 3, 41, 46, 275,False
+1982, 2, 11,17, Detroit Red Wings, 3, 1, 7, 14, 6, 31, 50, 268,26, Vancouver Canucks, 4, 1, 4, 5, 1, 24, 32, 192,False
+1982, 2, 11,25, Los Angeles Kings, 4, 1, 2, 3, 7, 39, 44, 203,37, Quebec Nordiques, 5, 1, 4, 8, 5, 25, 47, 220,False
+1982, 2, 11,24, Minnesota North Stars, 7, 1, 2, 4, 6, 34, 43, 254,7, Boston Bruins, 5, 1, 3, 6, 4, 22, 37, 184,False
+1982, 2, 11,1, Montreal Canadiens, 9, 1, 6, 9, 2, 29, 13, 107,22, Pittsburgh Penguins, 1, 1, 3, 6, 3, 29, 43, 225,True
+1982, 2, 11,21, Philadelphia Flyers, 4, 1, 5, 8, 4, 28, 29, 171,28, Buffalo Sabres, 4, 1, 4, 8, 3, 34, 13, 85,True
+1982, 2, 12,33, Colorado Rockies, 2, 0, 2, 4, 5, 34, 52, 261,37, Quebec Nordiques, 6, 2, 4, 5, 7, 16, 46, 232,True
+1982, 2, 12,35, Edmonton Oilers, 9, 1, 8, 13, 1, 19, 39, 245,31, Washington Capitals, 5, 1, 5, 7, 3, 32, 46, 266,True
+1982, 2, 13,39, Calgary Flames, 4, 1, 3, 5, 5, 43, 14, 111,7, Boston Bruins, 6, 1, 4, 6, 6, 29, 35, 194,True
+1982, 2, 13,38, Hartford Whalers, 9, 1, 3, 6, 3, 36, 23, 141,11, New York Rangers, 7, 1, 3, 5, 8, 43, 33, 229,False
+1982, 2, 13,24, Minnesota North Stars, 6, 1, 2, 4, 4, 30, 32, 222,17, Detroit Red Wings, 3, 1, 5, 8, 5, 22, 50, 266,True
+1982, 2, 13,1, Montreal Canadiens, 10, 2, 4, 6, 2, 30, 13, 108,36, Winnipeg Jets, 5, 0, 3, 6, 4, 22, 44, 234,True
+1982, 2, 13,29, New York Islanders, 10, 2, 7, 12, 3, 26, 20, 156,21, Philadelphia Flyers, 4, 0, 6, 10, 4, 26, 29, 169,True
+1982, 2, 13,22, Pittsburgh Penguins, 1, 2, 3, 5, 3, 36, 35, 207,25, Los Angeles Kings, 4, 0, 5, 5, 4, 30, 41, 190,False
+1982, 2, 13,23, St. Louis Blues, 3, 2, 2, 7, 3, 22, 35, 244,26, Vancouver Canucks, 5, 0, 4, 5, 4, 27, 35, 195,False
+1982, 2, 13,13, Toronto Maple Leafs, 1, 2, 1, 2, 4, 23, 46, 244,12, Chicago Black Hawks, 3, 0, 2, 3, 8, 36, 21, 120,False
+1982, 2, 14,33, Colorado Rockies, 2, 1, 9, 16, 2, 33, 49, 260,31, Washington Capitals, 5, 1, 3, 4, 5, 51, 48, 285,True
+1982, 2, 14,35, Edmonton Oilers, 9, 0, 5, 10, 4, 27, 35, 238,7, Boston Bruins, 5, 2, 3, 6, 2, 32, 33, 197,False
+1982, 2, 14,38, Hartford Whalers, 8, 0, 2, 3, 0, 1, 23, 140,29, New York Islanders, 10, 2, 9, 15, 2, 32, 18, 174,False
+1982, 2, 14,11, New York Rangers, 7, 0, 3, 5, 3, 32, 30, 234,37, Quebec Nordiques, 6, 2, 2, 5, 4, 30, 50, 260,True
+1982, 2, 14,21, Philadelphia Flyers, 4, 2, 2, 3, 4, 30, 33, 180,25, Los Angeles Kings, 5, 0, 3, 4, 3, 29, 40, 189,True
+1982, 2, 15,12, Chicago Black Hawks, 4, 1, 6, 9, 4, 30, 26, 164,26, Vancouver Canucks, 6, 1, 3, 5, 2, 31, 33, 199,False
+1982, 2, 15,13, Toronto Maple Leafs, 1, 1, 4, 7, 8, 37, 47, 242,24, Minnesota North Stars, 6, 1, 6, 9, 2, 12, 31, 246,False
+1982, 2, 16,39, Calgary Flames, 4, 1, 6, 10, 3, 39, 13, 115,38, Hartford Whalers, 7, 1, 1, 3, 9, 51, 32, 190,True
+1982, 2, 16,1, Montreal Canadiens, 10, 2, 7, 13, 3, 33, 15, 109,33, Colorado Rockies, 3, 0, 4, 9, 3, 50, 50, 277,False
+1982, 2, 16,29, New York Islanders, 10, 2, 9, 17, 2, 23, 16, 177,22, Pittsburgh Penguins, 1, 0, 3, 6, 3, 33, 33, 185,True
+1982, 2, 16,37, Quebec Nordiques, 6, 1, 2, 2, 5, 38, 54, 263,36, Winnipeg Jets, 5, 1, 3, 4, 7, 42, 51, 261,True
+1982, 2, 16,23, St. Louis Blues, 3, 1, 2, 4, 3, 28, 35, 243,28, Buffalo Sabres, 3, 1, 4, 8, 4, 15, 14, 74,False
+1982, 2, 17,12, Chicago Black Hawks, 4, 1, 1, 1, 3, 34, 22, 144,28, Buffalo Sabres, 3, 1, 2, 3, 1, 31, 11, 90,False
+1982, 2, 17,35, Edmonton Oilers, 8, 2, 2, 4, 2, 27, 33, 238,24, Minnesota North Stars, 6, 0, 3, 4, 1, 42, 32, 261,True
+1982, 2, 17,25, Los Angeles Kings, 4, 2, 4, 5, 4, 26, 43, 204,31, Washington Capitals, 4, 0, 3, 5, 5, 35, 47, 259,False
+1982, 2, 17,22, Pittsburgh Penguins, 1, 0, 2, 4, 6, 28, 36, 180,11, New York Rangers, 8, 2, 5, 7, 2, 28, 29, 215,False
+1982, 2, 17,13, Toronto Maple Leafs, 1, 2, 3, 5, 3, 31, 42, 236,17, Detroit Red Wings, 2, 0, 1, 2, 4, 17, 42, 246,False
+1982, 2, 17,26, Vancouver Canucks, 7, 0, 4, 5, 1, 43, 32, 211,7, Boston Bruins, 5, 2, 4, 3, 2, 29, 33, 194,True
+1982, 2, 18,39, Calgary Flames, 5, 0, 7, 12, 2, 30, 10, 101,24, Minnesota North Stars, 5, 2, 4, 5, 3, 27, 38, 255,False
+1982, 2, 18,17, Detroit Red Wings, 3, 1, 3, 5, 3, 29, 41, 258,13, Toronto Maple Leafs, 1, 1, 3, 6, 3, 33, 42, 238,True
+1982, 2, 18,1, Montreal Canadiens, 9, 2, 3, 6, 2, 18, 15, 97,23, St. Louis Blues, 2, 0, 1, 2, 2, 34, 34, 249,True
+1982, 2, 18,11, New York Rangers, 9, 2, 5, 9, 2, 26, 30, 226,33, Colorado Rockies, 4, 0, 3, 5, 3, 33, 50, 260,False
+1982, 2, 18,21, Philadelphia Flyers, 4, 0, 6, 11, 4, 25, 33, 175,29, New York Islanders, 10, 2, 6, 11, 1, 40, 19, 177,False
+1982, 2, 19,35, Edmonton Oilers, 8, 2, 7, 12, 1, 7, 33, 223,38, Hartford Whalers, 6, 0, 2, 2, 1, 16, 27, 147,True
+1982, 2, 19,36, Winnipeg Jets, 5, 0, 3, 4, 4, 25, 49, 256,37, Quebec Nordiques, 7, 2, 7, 10, 3, 33, 52, 262,False
+1982, 2, 20,17, Detroit Red Wings, 4, 0, 4, 8, 2, 24, 44, 274,7, Boston Bruins, 5, 2, 3, 6, 6, 24, 37, 189,False
+1982, 2, 20,25, Los Angeles Kings, 3, 0, 2, 3, 0, 9, 37, 158,39, Calgary Flames, 4, 2, 2, 5, 5, 38, 11, 103,True
+1982, 2, 20,24, Minnesota North Stars, 5, 1, 2, 3, 3, 26, 37, 260,31, Washington Capitals, 5, 1, 5, 9, 2, 37, 44, 261,True
+1982, 2, 20,1, Montreal Canadiens, 9, 0, 5, 8, 3, 41, 16, 120,28, Buffalo Sabres, 3, 2, 3, 4, 2, 30, 11, 96,False
+1982, 2, 20,29, New York Islanders, 10, 2, 7, 10, 2, 31, 22, 165,33, Colorado Rockies, 5, 0, 5, 8, 4, 35, 51, 262,True
+1982, 2, 20,22, Pittsburgh Penguins, 1, 0, 3, 5, 5, 31, 41, 194,21, Philadelphia Flyers, 4, 2, 4, 8, 8, 37, 34, 187,True
+1982, 2, 20,13, Toronto Maple Leafs, 1, 0, 4, 4, 5, 21, 43, 245,23, St. Louis Blues, 2, 2, 3, 4, 2, 31, 34, 235,True
+1982, 2, 20,26, Vancouver Canucks, 8, 1, 5, 10, 3, 33, 34, 201,38, Hartford Whalers, 5, 1, 4, 5, 7, 28, 33, 159,True
+1982, 2, 21,28, Buffalo Sabres, 4, 2, 2, 4, 2, 27, 11, 93,33, Colorado Rockies, 4, 0, 2, 4, 3, 30, 50, 257,True
+1982, 2, 21,12, Chicago Black Hawks, 4, 1, 2, 2, 5, 25, 22, 143,37, Quebec Nordiques, 8, 1, 4, 7, 9, 39, 53, 263,True
+1982, 2, 21,17, Detroit Red Wings, 4, 0, 5, 5, 3, 24, 54, 299,35, Edmonton Oilers, 8, 2, 7, 13, 4, 28, 36, 244,False
+1982, 2, 21,11, New York Rangers, 8, 1, 4, 7, 3, 39, 32, 218,1, Montreal Canadiens, 8, 1, 2, 4, 3, 21, 15, 104,False
+1982, 2, 21,21, Philadelphia Flyers, 3, 2, 5, 10, 6, 36, 32, 186,7, Boston Bruins, 6, 0, 6, 12, 5, 19, 41, 190,False
+1982, 2, 21,22, Pittsburgh Penguins, 1, 0, 6, 11, 5, 32, 38, 197,29, New York Islanders, 10, 2, 3, 6, 4, 28, 23, 159,True
+1982, 2, 21,36, Winnipeg Jets, 4, 1, 4, 8, 4, 24, 47, 262,31, Washington Capitals, 4, 1, 3, 6, 4, 25, 49, 280,False
+1982, 2, 22,24, Minnesota North Stars, 6, 0, 7, 12, 7, 36, 37, 254,38, Hartford Whalers, 4, 2, 2, 4, 6, 27, 26, 160,True
+1982, 2, 23,33, Colorado Rockies, 4, 0, 3, 3, 6, 39, 53, 266,17, Detroit Red Wings, 4, 2, 3, 6, 7, 30, 57, 305,False
+1982, 2, 23,29, New York Islanders, 9, 2, 5, 5, 4, 28, 22, 148,12, Chicago Black Hawks, 5, 0, 5, 10, 3, 23, 22, 152,True
+1982, 2, 23,37, Quebec Nordiques, 7, 0, 3, 8, 4, 33, 46, 268,1, Montreal Canadiens, 8, 2, 4, 4, 2, 27, 14, 110,True
+1982, 2, 23,23, St. Louis Blues, 1, 1, 5, 9, 8, 42, 40, 237,13, Toronto Maple Leafs, 2, 1, 8, 9, 5, 29, 43, 253,True
+1982, 2, 23,26, Vancouver Canucks, 8, 1, 4, 7, 2, 35, 33, 215,39, Calgary Flames, 4, 1, 2, 3, 2, 32, 11, 90,False
+1982, 2, 24,28, Buffalo Sabres, 5, 1, 6, 10, 2, 22, 15, 94,35, Edmonton Oilers, 8, 1, 7, 14, 3, 21, 36, 233,False
+1982, 2, 24,38, Hartford Whalers, 4, 2, 7, 9, 4, 30, 28, 171,7, Boston Bruins, 7, 0, 1, 3, 0, 27, 32, 187,True
+1982, 2, 24,25, Los Angeles Kings, 4, 1, 6, 11, 2, 33, 39, 182,17, Detroit Red Wings, 5, 1, 6, 9, 7, 30, 53, 294,True
+1982, 2, 24,24, Minnesota North Stars, 7, 2, 8, 11, 3, 20, 35, 224,13, Toronto Maple Leafs, 1, 0, 2, 4, 3, 39, 41, 263,True
+1982, 2, 24,11, New York Rangers, 7, 2, 2, 4, 4, 18, 28, 188,12, Chicago Black Hawks, 5, 0, 1, 2, 3, 33, 24, 166,True
+1982, 2, 24,36, Winnipeg Jets, 3, 0, 3, 4, 2, 10, 42, 213,21, Philadelphia Flyers, 3, 2, 0, 0, 1, 28, 27, 178,True
+1982, 2, 25,39, Calgary Flames, 4, 1, 1, 2, 2, 35, 11, 93,26, Vancouver Canucks, 7, 1, 2, 2, 2, 25, 33, 205,True
+1982, 2, 25,1, Montreal Canadiens, 7, 1, 3, 5, 4, 20, 18, 113,37, Quebec Nordiques, 7, 1, 4, 8, 3, 27, 45, 262,False
+1982, 2, 25,29, New York Islanders, 9, 1, 5, 11, 2, 19, 23, 130,22, Pittsburgh Penguins, 2, 1, 4, 7, 3, 38, 35, 198,True
+1982, 2, 25,31, Washington Capitals, 4, 0, 7, 10, 3, 41, 48, 296,23, St. Louis Blues, 2, 2, 3, 6, 2, 23, 34, 218,True
+1982, 2, 26,33, Colorado Rockies, 4, 1, 3, 6, 5, 28, 53, 274,26, Vancouver Canucks, 7, 1, 4, 3, 5, 19, 37, 196,False
+1982, 2, 26,36, Winnipeg Jets, 3, 1, 6, 11, 2, 29, 42, 221,28, Buffalo Sabres, 5, 1, 3, 7, 6, 29, 17, 97,False
+1982, 2, 27,7, Boston Bruins, 6, 2, 3, 4, 4, 42, 36, 202,11, New York Rangers, 7, 0, 7, 10, 4, 28, 30, 207,False
+1982, 2, 27,39, Calgary Flames, 5, 0, 11, 18, 4, 32, 14, 93,21, Philadelphia Flyers, 3, 2, 2, 4, 6, 35, 32, 185,False
+1982, 2, 27,25, Los Angeles Kings, 4, 0, 4, 9, 3, 22, 40, 171,12, Chicago Black Hawks, 4, 2, 4, 7, 5, 25, 26, 158,False
+1982, 2, 27,24, Minnesota North Stars, 7, 1, 7, 13, 5, 27, 37, 246,28, Buffalo Sabres, 6, 1, 4, 7, 4, 24, 15, 92,False
+1982, 2, 27,1, Montreal Canadiens, 6, 2, 4, 6, 2, 17, 18, 113,13, Toronto Maple Leafs, 1, 0, 5, 7, 4, 40, 44, 261,False
+1982, 2, 27,29, New York Islanders, 9, 1, 4, 6, 2, 28, 22, 138,37, Quebec Nordiques, 7, 1, 4, 6, 5, 38, 46, 254,False
+1982, 2, 27,22, Pittsburgh Penguins, 2, 0, 2, 4, 3, 27, 35, 202,35, Edmonton Oilers, 8, 2, 6, 9, 3, 28, 36, 246,False
+1982, 2, 27,23, St. Louis Blues, 1, 1, 1, 2, 3, 11, 41, 241,17, Detroit Red Wings, 4, 1, 3, 1, 5, 26, 49, 301,True
+1982, 2, 27,31, Washington Capitals, 5, 1, 9, 13, 7, 56, 46, 282,38, Hartford Whalers, 4, 1, 4, 6, 3, 25, 27, 156,True
+1982, 2, 28,33, Colorado Rockies, 4, 1, 3, 6, 4, 27, 52, 273,12, Chicago Black Hawks, 5, 1, 5, 9, 3, 35, 24, 168,True
+1982, 2, 28,17, Detroit Red Wings, 4, 0, 2, 3, 3, 19, 44, 278,24, Minnesota North Stars, 6, 2, 4, 10, 5, 42, 36, 246,False
+1982, 2, 28,38, Hartford Whalers, 3, 0, 1, 2, 7, 45, 31, 176,1, Montreal Canadiens, 5, 2, 3, 6, 3, 34, 19, 130,False
+1982, 2, 28,11, New York Rangers, 7, 2, 6, 10, 4, 42, 30, 221,22, Pittsburgh Penguins, 2, 0, 2, 2, 1, 15, 34, 238,False
+1982, 2, 28,26, Vancouver Canucks, 7, 2, 4, 8, 6, 25, 35, 199,21, Philadelphia Flyers, 4, 0, 9, 16, 5, 37, 34, 192,False
+1982, 2, 28,36, Winnipeg Jets, 2, 1, 4, 8, 4, 29, 43, 236,23, St. Louis Blues, 2, 1, 6, 5, 9, 46, 41, 285,True
+1982, 2, 28,31, Washington Capitals, 6, 0, 7, 12, 1, 27, 40, 252,35, Edmonton Oilers, 8, 2, 4, 6, 3, 20, 35, 268,False
+1982, 3, 1,37, Quebec Nordiques, 7, 1, 5, 9, 4, 30, 43, 270,25, Los Angeles Kings, 4, 1, 3, 6, 0, 8, 38, 156,False
+1982, 3, 1,13, Toronto Maple Leafs, 2, 1, 3, 5, 3, 37, 43, 258,29, New York Islanders, 8, 1, 4, 10, 1, 20, 21, 161,False
+1982, 3, 2,1, Montreal Canadiens, 5, 1, 5, 10, 4, 20, 12, 98,35, Edmonton Oilers, 9, 1, 4, 5, 1, 36, 33, 284,False
+1982, 3, 2,29, New York Islanders, 8, 1, 10, 18, 5, 33, 25, 163,39, Calgary Flames, 5, 1, 9, 11, 6, 31, 20, 96,True
+1982, 3, 2,21, Philadelphia Flyers, 5, 1, 3, 5, 8, 42, 32, 188,36, Winnipeg Jets, 3, 1, 5, 8, 2, 21, 41, 228,False
+1982, 3, 2,23, St. Louis Blues, 2, 1, 3, 7, 5, 34, 37, 273,7, Boston Bruins, 5, 1, 4, 5, 6, 29, 40, 191,False
+1982, 3, 3,28, Buffalo Sabres, 7, 2, 5, 8, 5, 23, 16, 96,38, Hartford Whalers, 2, 0, 0, 0, 8, 38, 29, 168,False
+1982, 3, 3,12, Chicago Black Hawks, 4, 1, 3, 4, 4, 35, 20, 182,36, Winnipeg Jets, 4, 1, 6, 11, 6, 54, 45, 261,False
+1982, 3, 3,33, Colorado Rockies, 5, 1, 5, 7, 3, 32, 51, 278,26, Vancouver Canucks, 7, 1, 3, 7, 3, 38, 32, 212,True
+1982, 3, 3,24, Minnesota North Stars, 7, 2, 5, 10, 5, 29, 36, 268,17, Detroit Red Wings, 3, 0, 4, 6, 5, 31, 42, 292,True
+1982, 3, 3,11, New York Rangers, 6, 2, 2, 3, 4, 18, 28, 216,39, Calgary Flames, 5, 0, 3, 6, 5, 31, 19, 96,True
+1982, 3, 3,22, Pittsburgh Penguins, 3, 2, 4, 6, 2, 42, 35, 261,7, Boston Bruins, 5, 0, 2, 4, 2, 31, 37, 193,False
+1982, 3, 3,37, Quebec Nordiques, 6, 1, 6, 9, 5, 30, 45, 256,35, Edmonton Oilers, 9, 1, 3, 5, 1, 39, 35, 279,True
+1982, 3, 3,13, Toronto Maple Leafs, 2, 2, 5, 8, 3, 13, 42, 219,25, Los Angeles Kings, 5, 0, 5, 5, 5, 14, 39, 174,False
+1982, 3, 3,31, Washington Capitals, 5, 1, 1, 1, 1, 26, 42, 251,23, St. Louis Blues, 2, 1, 2, 4, 2, 32, 34, 270,True
+1982, 3, 4,29, New York Islanders, 8, 2, 6, 6, 3, 35, 22, 152,13, Toronto Maple Leafs, 2, 0, 1, 0, 3, 24, 42, 230,True
+1982, 3, 4,21, Philadelphia Flyers, 4, 1, 6, 12, 7, 45, 31, 178,11, New York Rangers, 7, 1, 4, 8, 2, 23, 26, 221,False
+1982, 3, 5,36, Winnipeg Jets, 4, 2, 5, 6, 2, 36, 42, 229,17, Detroit Red Wings, 3, 0, 4, 6, 6, 33, 51, 291,True
+1982, 3, 5,31, Washington Capitals, 6, 2, 8, 12, 3, 26, 45, 258,39, Calgary Flames, 4, 0, 2, 4, 4, 38, 17, 93,True
+1982, 3, 6,7, Boston Bruins, 6, 2, 3, 6, 2, 30, 37, 192,25, Los Angeles Kings, 5, 0, 4, 9, 5, 25, 35, 189,True
+1982, 3, 6,12, Chicago Black Hawks, 3, 1, 2, 4, 5, 37, 19, 174,21, Philadelphia Flyers, 3, 1, 4, 7, 3, 33, 28, 156,True
+1982, 3, 6,33, Colorado Rockies, 6, 0, 3, 5, 2, 25, 50, 271,35, Edmonton Oilers, 8, 2, 4, 7, 3, 31, 40, 272,True
+1982, 3, 6,38, Hartford Whalers, 2, 1, 3, 6, 5, 37, 24, 182,28, Buffalo Sabres, 7, 1, 3, 6, 3, 15, 9, 75,False
+1982, 3, 6,24, Minnesota North Stars, 8, 1, 7, 11, 4, 41, 35, 272,26, Vancouver Canucks, 6, 1, 2, 4, 3, 32, 28, 211,True
+1982, 3, 6,29, New York Islanders, 8, 1, 9, 13, 1, 32, 20, 151,11, New York Rangers, 7, 1, 4, 5, 4, 30, 26, 230,True
+1982, 3, 6,37, Quebec Nordiques, 6, 0, 6, 10, 4, 20, 49, 239,22, Pittsburgh Penguins, 3, 2, 2, 3, 3, 28, 33, 252,False
+1982, 3, 6,23, St. Louis Blues, 2, 1, 4, 8, 2, 31, 40, 271,17, Detroit Red Wings, 3, 1, 0, 0, 1, 20, 44, 272,True
+1982, 3, 6,13, Toronto Maple Leafs, 2, 1, 1, 2, 0, 0, 43, 214,1, Montreal Canadiens, 4, 1, 3, 5, 3, 38, 14, 121,False
+1982, 3, 7,28, Buffalo Sabres, 7, 2, 2, 3, 2, 37, 12, 109,1, Montreal Canadiens, 4, 0, 6, 11, 0, 28, 12, 108,False
+1982, 3, 7,12, Chicago Black Hawks, 4, 1, 4, 7, 3, 27, 15, 179,7, Boston Bruins, 6, 1, 4, 3, 0, 24, 35, 186,True
+1982, 3, 7,38, Hartford Whalers, 2, 1, 2, 4, 3, 52, 21, 187,25, Los Angeles Kings, 5, 1, 0, 0, 1, 29, 37, 190,True
+1982, 3, 7,21, Philadelphia Flyers, 3, 0, 1, 1, 3, 36, 28, 159,31, Washington Capitals, 6, 2, 8, 14, 4, 33, 48, 266,True
+1982, 3, 7,22, Pittsburgh Penguins, 4, 1, 6, 7, 4, 24, 37, 254,39, Calgary Flames, 4, 1, 5, 11, 9, 35, 23, 111,False
+1982, 3, 7,36, Winnipeg Jets, 5, 1, 2, 4, 0, 33, 41, 219,26, Vancouver Canucks, 5, 1, 1, 2, 3, 22, 28, 212,True
+1982, 3, 8,24, Minnesota North Stars, 8, 0, 3, 5, 1, 34, 32, 265,23, St. Louis Blues, 3, 2, 5, 10, 1, 32, 39, 272,True
+1982, 3, 8,11, New York Rangers, 6, 0, 3, 7, 4, 35, 30, 215,17, Detroit Red Wings, 2, 2, 1, 3, 5, 32, 52, 279,True
+1982, 3, 9,33, Colorado Rockies, 6, 1, 5, 9, 2, 26, 50, 272,25, Los Angeles Kings, 5, 1, 6, 10, 2, 17, 39, 180,False
+1982, 3, 9,1, Montreal Canadiens, 5, 2, 5, 8, 1, 25, 15, 114,7, Boston Bruins, 6, 0, 1, 2, 6, 19, 40, 186,True
+1982, 3, 9,37, Quebec Nordiques, 6, 0, 4, 5, 5, 28, 52, 249,39, Calgary Flames, 4, 2, 5, 6, 4, 37, 18, 113,False
+1982, 3, 9,23, St. Louis Blues, 3, 0, 1, 2, 6, 24, 38, 246,29, New York Islanders, 8, 2, 7, 11, 5, 22, 23, 146,False
+1982, 3, 10,38, Hartford Whalers, 3, 1, 7, 12, 2, 42, 28, 177,36, Winnipeg Jets, 6, 1, 5, 10, 2, 20, 43, 206,True
+1982, 3, 10,25, Los Angeles Kings, 5, 0, 2, 0, 0, 16, 35, 162,35, Edmonton Oilers, 7, 2, 2, 4, 4, 28, 43, 267,True
+1982, 3, 10,24, Minnesota North Stars, 8, 0, 8, 14, 1, 33, 32, 264,29, New York Islanders, 8, 2, 6, 10, 4, 24, 22, 168,False
+1982, 3, 10,11, New York Rangers, 6, 1, 6, 9, 6, 28, 33, 218,21, Philadelphia Flyers, 3, 1, 7, 10, 1, 45, 26, 168,False
+1982, 3, 10,13, Toronto Maple Leafs, 2, 1, 1, 1, 6, 49, 49, 263,12, Chicago Black Hawks, 4, 1, 5, 8, 1, 36, 16, 176,False
+1982, 3, 10,26, Vancouver Canucks, 4, 2, 2, 2, 3, 33, 30, 226,28, Buffalo Sabres, 7, 0, 3, 7, 5, 35, 16, 108,False
+1982, 3, 10,31, Washington Capitals, 6, 2, 1, 3, 3, 28, 45, 244,22, Pittsburgh Penguins, 4, 0, 4, 7, 4, 21, 37, 255,False
+1982, 3, 11,7, Boston Bruins, 5, 2, 2, 4, 1, 23, 33, 173,36, Winnipeg Jets, 6, 0, 2, 4, 6, 32, 45, 232,True
+1982, 3, 11,39, Calgary Flames, 4, 2, 9, 13, 4, 35, 18, 111,26, Vancouver Canucks, 3, 0, 4, 5, 7, 42, 34, 235,True
+1982, 3, 11,17, Detroit Red Wings, 1, 1, 3, 5, 6, 33, 49, 233,11, New York Rangers, 5, 1, 5, 9, 3, 26, 33, 231,False
+1982, 3, 11,1, Montreal Canadiens, 5, 2, 4, 5, 2, 24, 16, 113,12, Chicago Black Hawks, 5, 0, 7, 11, 6, 43, 21, 183,True
+1982, 3, 11,21, Philadelphia Flyers, 4, 1, 5, 9, 5, 27, 30, 150,33, Colorado Rockies, 5, 1, 0, 0, 2, 29, 50, 275,True
+1982, 3, 12,35, Edmonton Oilers, 7, 2, 2, 4, 0, 0, 35, 249,28, Buffalo Sabres, 7, 0, 7, 10, 4, 30, 13, 90,False
+1982, 3, 13,7, Boston Bruins, 6, 2, 4, 12, 4, 20, 36, 170,17, Detroit Red Wings, 1, 0, 1, 2, 4, 20, 50, 250,True
+1982, 3, 13,39, Calgary Flames, 5, 2, 6, 12, 3, 24, 17, 100,28, Buffalo Sabres, 7, 0, 3, 4, 2, 44, 12, 128,True
+1982, 3, 13,35, Edmonton Oilers, 6, 1, 2, 2, 3, 33, 38, 279,26, Vancouver Canucks, 2, 1, 3, 6, 2, 15, 34, 243,True
+1982, 3, 13,25, Los Angeles Kings, 6, 1, 3, 5, 2, 21, 32, 133,29, New York Islanders, 8, 1, 4, 9, 4, 44, 27, 207,True
+1982, 3, 13,1, Montreal Canadiens, 6, 2, 3, 7, 3, 34, 14, 114,38, Hartford Whalers, 4, 0, 6, 11, 2, 46, 28, 181,True
+1982, 3, 13,22, Pittsburgh Penguins, 5, 2, 7, 13, 2, 35, 35, 251,33, Colorado Rockies, 4, 0, 1, 2, 8, 39, 53, 296,True
+1982, 3, 13,37, Quebec Nordiques, 6, 1, 3, 9, 6, 37, 51, 248,12, Chicago Black Hawks, 5, 1, 0, 0, 1, 42, 19, 177,True
+1982, 3, 13,23, St. Louis Blues, 3, 1, 4, 8, 6, 35, 39, 246,24, Minnesota North Stars, 8, 1, 4, 6, 4, 35, 35, 266,False
+1982, 3, 13,13, Toronto Maple Leafs, 2, 1, 5, 9, 6, 18, 50, 240,36, Winnipeg Jets, 6, 1, 4, 6, 4, 15, 46, 221,False
+1982, 3, 13,31, Washington Capitals, 6, 1, 2, 4, 4, 17, 49, 246,21, Philadelphia Flyers, 5, 1, 5, 8, 1, 24, 24, 128,True
+1982, 3, 14,7, Boston Bruins, 6, 0, 5, 7, 3, 27, 35, 177,1, Montreal Canadiens, 6, 2, 5, 8, 0, 25, 15, 125,False
+1982, 3, 14,38, Hartford Whalers, 4, 1, 0, 0, 6, 40, 31, 173,33, Colorado Rockies, 3, 1, 2, 3, 6, 20, 51, 277,False
+1982, 3, 14,11, New York Rangers, 6, 1, 4, 7, 5, 37, 31, 233,31, Washington Capitals, 6, 1, 6, 10, 3, 38, 48, 267,False
+1982, 3, 15,35, Edmonton Oilers, 6, 1, 5, 8, 3, 39, 38, 274,25, Los Angeles Kings, 7, 1, 3, 6, 0, 23, 30, 135,False
+1982, 3, 15,24, Minnesota North Stars, 8, 1, 3, 7, 2, 36, 33, 267,22, Pittsburgh Penguins, 6, 1, 6, 12, 2, 38, 35, 236,True
+1982, 3, 16,28, Buffalo Sabres, 6, 0, 1, 1, 3, 28, 13, 112,7, Boston Bruins, 5, 2, 2, 4, 4, 26, 36, 176,False
+1982, 3, 16,37, Quebec Nordiques, 6, 1, 10, 11, 3, 24, 48, 235,38, Hartford Whalers, 4, 1, 3, 4, 5, 38, 29, 159,False
+1982, 3, 16,23, St. Louis Blues, 3, 1, 2, 4, 5, 36, 38, 308,36, Winnipeg Jets, 7, 1, 10, 18, 2, 25, 44, 231,False
+1982, 3, 17,33, Colorado Rockies, 4, 0, 4, 6, 3, 39, 48, 296,29, New York Islanders, 8, 2, 0, 0, 4, 40, 25, 186,False
+1982, 3, 17,35, Edmonton Oilers, 5, 2, 3, 6, 3, 30, 40, 257,22, Pittsburgh Penguins, 5, 0, 3, 5, 2, 20, 37, 231,True
+1982, 3, 17,25, Los Angeles Kings, 7, 1, 3, 6, 3, 37, 33, 149,39, Calgary Flames, 6, 1, 3, 5, 1, 36, 15, 101,True
+1982, 3, 17,24, Minnesota North Stars, 8, 1, 4, 9, 3, 40, 36, 271,36, Winnipeg Jets, 7, 1, 7, 10, 3, 45, 53, 273,False
+1982, 3, 17,11, New York Rangers, 6, 1, 5, 9, 1, 28, 31, 222,21, Philadelphia Flyers, 5, 1, 2, 6, 4, 23, 28, 141,True
+1982, 3, 17,13, Toronto Maple Leafs, 2, 0, 2, 3, 10, 39, 54, 261,37, Quebec Nordiques, 5, 2, 6, 8, 6, 26, 60, 271,True
+1982, 3, 17,31, Washington Capitals, 7, 1, 4, 10, 5, 43, 50, 272,26, Vancouver Canucks, 1, 1, 3, 7, 5, 35, 47, 243,False
+1982, 3, 18,17, Detroit Red Wings, 1, 0, 3, 5, 5, 44, 52, 286,23, St. Louis Blues, 2, 2, 3, 6, 3, 32, 42, 319,False
+1982, 3, 18,38, Hartford Whalers, 5, 1, 7, 10, 5, 33, 29, 154,28, Buffalo Sabres, 5, 1, 3, 4, 3, 34, 15, 107,True
+1982, 3, 18,1, Montreal Canadiens, 7, 2, 5, 9, 0, 24, 10, 108,26, Vancouver Canucks, 2, 0, 5, 8, 6, 33, 48, 241,False
+1982, 3, 18,21, Philadelphia Flyers, 5, 1, 2, 3, 5, 44, 29, 162,12, Chicago Black Hawks, 4, 1, 3, 2, 9, 34, 25, 155,False
+1982, 3, 19,35, Edmonton Oilers, 5, 1, 9, 17, 3, 22, 41, 269,39, Calgary Flames, 5, 1, 4, 7, 2, 12, 15, 85,False
+1982, 3, 20,7, Boston Bruins, 6, 2, 3, 6, 3, 15, 35, 165,28, Buffalo Sabres, 5, 0, 1, 3, 3, 33, 15, 106,True
+1982, 3, 20,33, Colorado Rockies, 4, 0, 2, 1, 5, 50, 50, 289,39, Calgary Flames, 5, 2, 3, 2, 3, 34, 16, 107,False
+1982, 3, 20,17, Detroit Red Wings, 0, 2, 4, 8, 6, 33, 54, 275,12, Chicago Black Hawks, 5, 0, 4, 8, 4, 37, 20, 168,False
+1982, 3, 20,38, Hartford Whalers, 5, 0, 4, 8, 1, 19, 25, 140,21, Philadelphia Flyers, 4, 2, 4, 5, 4, 35, 28, 153,False
+1982, 3, 20,25, Los Angeles Kings, 7, 1, 9, 15, 4, 27, 34, 139,22, Pittsburgh Penguins, 4, 1, 4, 6, 10, 42, 48, 253,True
+1982, 3, 20,1, Montreal Canadiens, 7, 2, 2, 4, 2, 26, 14, 102,24, Minnesota North Stars, 7, 0, 1, 4, 3, 25, 36, 256,True
+1982, 3, 20,29, New York Islanders, 8, 2, 5, 8, 2, 23, 19, 161,23, St. Louis Blues, 3, 0, 7, 11, 4, 48, 43, 335,False
+1982, 3, 20,37, Quebec Nordiques, 5, 1, 3, 3, 9, 30, 57, 260,26, Vancouver Canucks, 3, 1, 4, 6, 2, 36, 39, 257,False
+1982, 3, 20,36, Winnipeg Jets, 8, 2, 3, 5, 2, 43, 49, 251,13, Toronto Maple Leafs, 2, 0, 3, 6, 3, 21, 47, 243,True
+1982, 3, 20,31, Washington Capitals, 6, 1, 7, 12, 6, 37, 51, 266,11, New York Rangers, 6, 1, 5, 10, 5, 26, 32, 214,False
+1982, 3, 21,28, Buffalo Sabres, 4, 1, 4, 6, 6, 39, 18, 112,1, Montreal Canadiens, 8, 1, 5, 9, 1, 20, 17, 108,True
+1982, 3, 21,33, Colorado Rockies, 4, 0, 1, 4, 4, 37, 49, 276,22, Pittsburgh Penguins, 4, 2, 3, 8, 4, 38, 45, 233,False
+1982, 3, 21,11, New York Rangers, 6, 2, 4, 8, 2, 20, 30, 226,23, St. Louis Blues, 3, 0, 3, 4, 3, 28, 32, 258,True
+1982, 3, 21,21, Philadelphia Flyers, 4, 2, 5, 9, 2, 35, 22, 128,38, Hartford Whalers, 5, 0, 2, 4, 4, 39, 22, 151,True
+1982, 3, 21,36, Winnipeg Jets, 8, 2, 7, 11, 0, 21, 47, 229,17, Detroit Red Wings, 0, 0, 3, 4, 7, 33, 52, 267,True
+1982, 3, 21,31, Washington Capitals, 5, 0, 3, 3, 4, 19, 49, 248,29, New York Islanders, 7, 2, 3, 4, 2, 27, 22, 148,False
+1982, 3, 22,7, Boston Bruins, 7, 1, 6, 6, 4, 32, 36, 182,37, Quebec Nordiques, 4, 1, 3, 4, 3, 21, 51, 251,True
+1982, 3, 22,24, Minnesota North Stars, 6, 2, 2, 2, 4, 33, 34, 257,25, Los Angeles Kings, 8, 0, 7, 14, 2, 25, 35, 147,True
+1982, 3, 22,13, Toronto Maple Leafs, 2, 0, 3, 1, 7, 33, 51, 255,12, Chicago Black Hawks, 6, 2, 4, 3, 3, 38, 19, 169,True
+1982, 3, 23,29, New York Islanders, 8, 2, 3, 4, 3, 36, 22, 146,31, Washington Capitals, 4, 0, 3, 5, 7, 30, 48, 257,True
+1982, 3, 24,12, Chicago Black Hawks, 5, 1, 4, 8, 7, 34, 23, 165,17, Detroit Red Wings, 0, 1, 2, 4, 0, 0, 45, 228,True
+1982, 3, 24,38, Hartford Whalers, 5, 1, 3, 6, 4, 26, 24, 176,37, Quebec Nordiques, 3, 1, 4, 7, 6, 35, 53, 265,False
+1982, 3, 24,22, Pittsburgh Penguins, 5, 1, 4, 8, 0, 28, 41, 234,11, New York Rangers, 7, 1, 8, 13, 3, 38, 33, 229,False
+1982, 3, 24,13, Toronto Maple Leafs, 3, 1, 8, 8, 5, 23, 49, 245,23, St. Louis Blues, 3, 1, 5, 9, 7, 28, 39, 235,True
+1982, 3, 24,26, Vancouver Canucks, 3, 1, 3, 4, 3, 25, 34, 215,33, Colorado Rockies, 4, 1, 0, 0, 1, 7, 46, 236,True
+1982, 3, 24,36, Winnipeg Jets, 8, 2, 8, 11, 2, 31, 49, 239,25, Los Angeles Kings, 7, 0, 2, 2, 0, 1, 34, 149,True
+1982, 3, 25,7, Boston Bruins, 7, 2, 8, 7, 4, 30, 36, 180,28, Buffalo Sabres, 4, 0, 5, 7, 4, 27, 11, 87,True
+1982, 3, 25,39, Calgary Flames, 6, 2, 4, 2, 2, 32, 12, 102,35, Edmonton Oilers, 4, 0, 4, 3, 3, 28, 41, 263,False
+1982, 3, 25,17, Detroit Red Wings, 0, 0, 4, 8, 6, 34, 51, 262,24, Minnesota North Stars, 7, 2, 4, 7, 5, 36, 39, 254,False
+1982, 3, 25,29, New York Islanders, 8, 1, 8, 15, 2, 25, 21, 136,1, Montreal Canadiens, 7, 1, 4, 6, 4, 18, 17, 114,True
+1982, 3, 25,21, Philadelphia Flyers, 5, 1, 5, 7, 3, 44, 27, 171,31, Washington Capitals, 4, 1, 1, 2, 5, 13, 46, 225,False
+1982, 3, 26,28, Buffalo Sabres, 4, 0, 1, 0, 5, 21, 12, 81,11, New York Rangers, 7, 2, 7, 12, 0, 0, 27, 194,False
+1982, 3, 26,33, Colorado Rockies, 3, 1, 4, 6, 5, 22, 50, 270,35, Edmonton Oilers, 4, 1, 7, 9, 4, 42, 40, 270,False
+1982, 3, 26,36, Winnipeg Jets, 8, 2, 5, 9, 3, 25, 50, 233,23, St. Louis Blues, 3, 0, 3, 5, 4, 32, 41, 267,False
+1982, 3, 27,7, Boston Bruins, 7, 1, 5, 6, 1, 30, 33, 180,24, Minnesota North Stars, 7, 1, 4, 6, 2, 32, 39, 243,False
+1982, 3, 27,25, Los Angeles Kings, 6, 2, 3, 4, 4, 39, 38, 189,33, Colorado Rockies, 2, 0, 7, 12, 6, 27, 51, 275,True
+1982, 3, 27,1, Montreal Canadiens, 7, 0, 1, 0, 5, 22, 16, 118,37, Quebec Nordiques, 3, 2, 3, 5, 3, 32, 52, 249,True
+1982, 3, 27,29, New York Islanders, 8, 2, 3, 5, 1, 20, 24, 151,38, Hartford Whalers, 4, 0, 3, 3, 4, 50, 23, 185,True
+1982, 3, 27,22, Pittsburgh Penguins, 4, 1, 3, 4, 7, 22, 50, 221,12, Chicago Black Hawks, 6, 1, 6, 9, 4, 47, 19, 178,False
+1982, 3, 27,13, Toronto Maple Leafs, 3, 0, 5, 8, 3, 37, 49, 256,17, Detroit Red Wings, 0, 2, 3, 5, 2, 20, 51, 247,False
+1982, 3, 27,26, Vancouver Canucks, 4, 0, 5, 5, 4, 31, 34, 213,39, Calgary Flames, 6, 2, 3, 6, 1, 13, 11, 78,True
+1982, 3, 27,31, Washington Capitals, 4, 2, 4, 8, 3, 38, 44, 250,21, Philadelphia Flyers, 5, 0, 4, 7, 7, 32, 28, 156,False
+1982, 3, 28,28, Buffalo Sabres, 3, 0, 5, 9, 2, 8, 13, 69,7, Boston Bruins, 6, 2, 4, 5, 6, 30, 38, 180,True
+1982, 3, 28,12, Chicago Black Hawks, 7, 1, 4, 4, 4, 38, 18, 170,23, St. Louis Blues, 4, 1, 4, 6, 4, 42, 42, 286,False
+1982, 3, 28,17, Detroit Red Wings, 1, 2, 2, 2, 1, 17, 49, 249,13, Toronto Maple Leafs, 3, 0, 1, 2, 1, 20, 47, 259,True
+1982, 3, 28,38, Hartford Whalers, 4, 1, 4, 3, 5, 38, 24, 173,24, Minnesota North Stars, 7, 1, 6, 7, 3, 28, 45, 253,False
+1982, 3, 28,25, Los Angeles Kings, 7, 2, 9, 18, 0, 2, 37, 186,35, Edmonton Oilers, 4, 0, 6, 12, 2, 35, 42, 257,False
+1982, 3, 28,21, Philadelphia Flyers, 6, 1, 3, 7, 4, 32, 25, 156,11, New York Rangers, 7, 1, 8, 11, 2, 26, 32, 227,True
+1982, 3, 28,26, Vancouver Canucks, 5, 1, 6, 12, 5, 23, 32, 206,36, Winnipeg Jets, 7, 1, 4, 6, 7, 36, 47, 243,True
+1982, 3, 28,31, Washington Capitals, 3, 1, 4, 7, 4, 27, 45, 239,22, Pittsburgh Penguins, 4, 1, 3, 5, 7, 26, 49, 226,False
+1982, 3, 29,11, New York Rangers, 7, 0, 1, 2, 5, 33, 31, 245,29, New York Islanders, 8, 2, 5, 9, 4, 28, 25, 152,False
+1982, 3, 30,39, Calgary Flames, 6, 0, 2, 5, 7, 29, 17, 94,25, Los Angeles Kings, 7, 2, 2, 2, 4, 36, 39, 190,True
+1982, 3, 30,24, Minnesota North Stars, 7, 0, 5, 6, 2, 48, 42, 270,36, Winnipeg Jets, 6, 2, 0, 0, 4, 34, 45, 244,False
+1982, 3, 30,1, Montreal Canadiens, 7, 2, 4, 7, 2, 15, 11, 95,38, Hartford Whalers, 3, 0, 2, 4, 3, 35, 24, 164,True
+1982, 3, 30,37, Quebec Nordiques, 3, 0, 2, 4, 4, 39, 49, 257,28, Buffalo Sabres, 4, 2, 9, 14, 5, 21, 19, 88,False
+1982, 3, 30,23, St. Louis Blues, 4, 1, 8, 10, 3, 34, 35, 270,13, Toronto Maple Leafs, 3, 1, 4, 7, 1, 21, 51, 282,True
+1982, 3, 31,12, Chicago Black Hawks, 6, 0, 3, 4, 3, 39, 25, 171,11, New York Rangers, 6, 2, 3, 6, 3, 43, 33, 242,False
+1982, 3, 31,17, Detroit Red Wings, 2, 0, 6, 10, 6, 31, 52, 255,36, Winnipeg Jets, 7, 2, 6, 10, 5, 33, 46, 243,True
+1982, 3, 31,35, Edmonton Oilers, 5, 1, 6, 8, 2, 29, 39, 243,25, Los Angeles Kings, 6, 1, 5, 9, 7, 31, 42, 185,True
+1982, 3, 31,38, Hartford Whalers, 2, 0, 4, 8, 5, 29, 27, 165,1, Montreal Canadiens, 7, 2, 7, 10, 4, 9, 17, 118,False
+1982, 3, 31,22, Pittsburgh Penguins, 4, 2, 6, 10, 5, 23, 46, 225,31, Washington Capitals, 3, 0, 5, 6, 3, 13, 47, 251,False
+1982, 3, 31,26, Vancouver Canucks, 6, 1, 5, 9, 2, 24, 28, 195,33, Colorado Rockies, 1, 1, 4, 4, 9, 35, 54, 283,False
+1982, 4, 1,7, Boston Bruins, 6, 1, 6, 7, 2, 12, 34, 158,37, Quebec Nordiques, 2, 1, 4, 8, 5, 35, 51, 245,False
+1982, 4, 1,39, Calgary Flames, 7, 2, 7, 13, 5, 31, 17, 84,33, Colorado Rockies, 2, 0, 4, 7, 5, 41, 49, 282,True
+1982, 4, 1,21, Philadelphia Flyers, 6, 0, 4, 5, 1, 23, 22, 127,29, New York Islanders, 8, 2, 7, 10, 1, 27, 23, 125,False
+1982, 4, 2,11, New York Rangers, 7, 1, 4, 4, 7, 30, 31, 220,22, Pittsburgh Penguins, 4, 1, 6, 9, 3, 23, 45, 242,False
+1982, 4, 2,36, Winnipeg Jets, 7, 2, 3, 3, 3, 42, 46, 252,24, Minnesota North Stars, 6, 0, 6, 11, 5, 29, 45, 285,False
+1982, 4, 3,33, Colorado Rockies, 2, 0, 0, 0, 6, 14, 51, 242,39, Calgary Flames, 7, 2, 11, 19, 0, 18, 12, 71,True
+1982, 4, 3,38, Hartford Whalers, 2, 1, 1, 2, 5, 22, 27, 161,11, New York Rangers, 6, 1, 3, 8, 1, 21, 30, 217,False
+1982, 4, 3,25, Los Angeles Kings, 5, 2, 3, 5, 7, 38, 45, 207,26, Vancouver Canucks, 6, 0, 5, 7, 4, 23, 30, 194,False
+1982, 4, 3,1, Montreal Canadiens, 7, 1, 6, 8, 4, 26, 14, 138,28, Buffalo Sabres, 4, 1, 6, 12, 5, 15, 18, 97,False
+1982, 4, 3,29, New York Islanders, 8, 2, 3, 5, 3, 23, 16, 147,21, Philadelphia Flyers, 5, 0, 3, 4, 3, 25, 24, 129,True
+1982, 4, 3,37, Quebec Nordiques, 3, 1, 8, 14, 6, 27, 53, 248,7, Boston Bruins, 6, 1, 5, 10, 0, 0, 33, 163,False
+1982, 4, 3,23, St. Louis Blues, 5, 1, 5, 8, 3, 15, 34, 241,12, Chicago Black Hawks, 5, 1, 1, 2, 4, 32, 26, 164,False
+1982, 4, 3,13, Toronto Maple Leafs, 3, 1, 3, 5, 6, 34, 55, 294,31, Washington Capitals, 4, 1, 4, 7, 6, 39, 48, 267,False
+1982, 4, 4,7, Boston Bruins, 6, 0, 5, 9, 4, 25, 37, 188,38, Hartford Whalers, 2, 2, 3, 4, 3, 23, 25, 162,True
+1982, 4, 4,28, Buffalo Sabres, 4, 2, 5, 9, 4, 30, 17, 106,37, Quebec Nordiques, 3, 0, 4, 6, 5, 38, 52, 246,False
+1982, 4, 4,12, Chicago Black Hawks, 5, 1, 7, 14, 4, 29, 26, 161,24, Minnesota North Stars, 7, 1, 5, 7, 7, 37, 40, 269,True
+1982, 4, 4,17, Detroit Red Wings, 3, 0, 3, 5, 4, 23, 48, 244,23, St. Louis Blues, 5, 2, 4, 6, 7, 37, 38, 263,False
+1982, 4, 4,35, Edmonton Oilers, 6, 1, 5, 12, 3, 32, 41, 272,36, Winnipeg Jets, 6, 1, 2, 3, 5, 37, 48, 236,True
+1982, 4, 4,21, Philadelphia Flyers, 4, 1, 3, 5, 6, 40, 27, 144,13, Toronto Maple Leafs, 3, 1, 4, 8, 5, 33, 52, 274,True
+1982, 4, 4,22, Pittsburgh Penguins, 4, 1, 7, 12, 5, 23, 47, 229,29, New York Islanders, 8, 1, 6, 10, 3, 33, 16, 164,True
+1982, 4, 4,26, Vancouver Canucks, 7, 1, 5, 7, 0, 19, 25, 196,25, Los Angeles Kings, 4, 1, 0, 1, 4, 7, 44, 193,True
+1982, 4, 4,31, Washington Capitals, 4, 1, 6, 11, 0, 0, 42, 234,1, Montreal Canadiens, 6, 1, 3, 7, 5, 26, 17, 164,True
