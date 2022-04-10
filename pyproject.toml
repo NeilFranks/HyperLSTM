@@ -10,9 +10,14 @@ requests = "^2.27.1"
 beautifulsoup4 = "^4.11.1"
 lxml = "^4.8.0"
 pandas = "^1.4.2"
+absl-py = "^1.0.0"
+ml-collections = "^0.1.1"
+flax = {version = "^0.4.1", extras = ["jax"]}
+tensorflow = "^2.8.0"
+tensorflow-datasets = "^4.5.2"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "==6.2.5"
 autopep8 = "^1.6.0"
 
 [build-system]

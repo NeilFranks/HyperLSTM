@@ -22,7 +22,7 @@ import tensorflow as tf
 import tensorflow_datasets as tfds
 import tensorflow_text as text
 
-import vocabulary
+from . import vocabulary
 
 
 AUTOTUNE = tf.data.experimental.AUTOTUNE

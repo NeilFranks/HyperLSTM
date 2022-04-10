@@ -20,7 +20,7 @@ from jax import numpy as jnp
 import jax.test_util
 import numpy as np
 
-import models
+from . import models
 
 
 # Parse absl flags test_srcdir and test_tmpdir.
