@@ -77,7 +77,7 @@ def goalie_is_on_team(goalies_on_team_dict, team_id, player_id):
         goalies_on_team_dict[team_id] = player_id
     else:
         goalies_on_team_list = goalies_on_team_dict[team_id].split(";")
-        if player_id not in goalies_on_team_list:
+        if player_id and player_id not in goalies_on_team_list:
             goalies_on_team_list.append(player_id)
             goalies_on_team_dict[team_id] = ";".join(goalies_on_team_list)
     return goalies_on_team_dict
