@@ -1,14 +1,27 @@
-import requests
+import os
 
 from bs4 import BeautifulSoup
+import requests
 
 from utils import *
 
 
 URL_BASE = "https://www.hockey-reference.com"
 
+global outcome_dict
+global outcome_by_team_dict
+global players_dict
+global goalies_dict
+global goalies_on_team_dict
 
-def get_data_for_year(year):
+
+def get_data_for_year(year, CSV_NAME=None):
+    global outcome_dict
+    global outcome_by_team_dict
+    global players_dict
+    global goalies_dict
+    global goalies_on_team_dict
+
     page = requests.get(
         f"{URL_BASE}/leagues/NHL_{year}_games.html"
     )
@@ -19,28 +32,14 @@ def get_data_for_year(year):
     games_table = soup.find("table", {"id": "games"})
     games_table_data = games_table.tbody.find_all("tr")
 
-    # keep track of game outcomes
-    # key: team, value: list of binary win conditions (win: +1; tie/loss: 0)
-    outcome_dict = {}
-    outcome_by_team_dict = {}
-
-    # keep track of players who played this season.
-    # Will tally up the number of goals and assists they scored during each game
-    players_dict = {}
-
-    # keep track of goalies who played this season.
-    # Will tally up the number their goals allowed and shots faced
-    goalies_dict = {}
-    goalies_on_team_dict = {}  # key: team id, value: goalies separated by semicolon
-
     # write to CSV
-    CSV_NAME = f"{year}.csv"
-    with open(CSV_NAME, 'w') as file:
-        file.write("Year, Month, Day,")
-        file.write("Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last10, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,")
-        file.write("Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last10, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,")
-        file.write("Home_Won")
-        file.write("\n")
+    if CSV_NAME:
+        with open(CSV_NAME, 'w') as file:
+            file.write("Year, Month, Day,")
+            file.write("Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last10, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,")
+            file.write("Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last10, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,")
+            file.write("Home_Won")
+            file.write("\n")
 
     for row in games_table_data:
         """
@@ -225,12 +224,13 @@ def get_data_for_year(year):
             outcome = home_goals > away_goals
 
             # Write data to CSV
-            write_to_CSV(
-                CSV_NAME, year, month, day,
-                home_team_id, home_team_name, home_wins_in_last_10, home_wins_VERSUS_last_10, home_players_goals_last_game, home_players_assists_last_game, home_starting_goalie_goals_against_last_game, home_starting_goalie_shots_against_last_game, home_all_goalies_goals_against_last_game, home_all_goalies_shots_against_last_game,
-                away_team_id, away_team_name, away_wins_in_last_10, away_wins_VERSUS_last_10, away_players_goals_last_game, away_players_assists_last_game, away_starting_goalie_goals_against_last_game, away_starting_goalie_shots_against_last_game, away_all_goalies_goals_against_last_game, away_all_goalies_shots_against_last_game,
-                outcome
-            )
+            if CSV_NAME:
+                write_to_CSV(
+                    CSV_NAME, year, month, day,
+                    home_team_id, home_team_name, home_wins_in_last_10, home_wins_VERSUS_last_10, home_players_goals_last_game, home_players_assists_last_game, home_starting_goalie_goals_against_last_game, home_starting_goalie_shots_against_last_game, home_all_goalies_goals_against_last_game, home_all_goalies_shots_against_last_game,
+                    away_team_id, away_team_name, away_wins_in_last_10, away_wins_VERSUS_last_10, away_players_goals_last_game, away_players_assists_last_game, away_starting_goalie_goals_against_last_game, away_starting_goalie_shots_against_last_game, away_all_goalies_goals_against_last_game, away_all_goalies_shots_against_last_game,
+                    outcome
+                )
 
             # Record everything in dicts
             outcome_dict, outcome_by_team_dict, players_dict, goalies_dict, goalies_on_team_dict = record(
@@ -321,4 +321,34 @@ def record(outcome_dict, outcome_by_team_dict, players_dict, goalies_dict, goali
 
 
 if __name__ == "__main__":
-    get_data_for_year(1918)
+    """
+    Need to be clever about how to do season-after-season data without blowing up memory;
+
+    Hacky solution will be to generate one season in-advance to act at the starting point for next season;
+    re-initialize all dicts after, say, 4 seasons?
+    """
+    DIR = "data/seasons"
+    if not os.path.isdir(DIR):
+        os.mkdir(DIR)
+
+    for start_year in range(1918, 2022, 4):
+        # keep track of game outcomes
+        # key: team, value: list of binary win conditions (win: +1; tie/loss: 0)
+        outcome_dict = {}
+        outcome_by_team_dict = {}
+
+        # keep track of players who played this season.
+        # Will tally up the number of goals and assists they scored during each game
+        players_dict = {}
+
+        # keep track of goalies who played this season.
+        # Will tally up the number their goals allowed and shots faced
+        goalies_dict = {}
+        goalies_on_team_dict = {}  # key: team id, value: goalies separated by semicolon
+
+        get_data_for_year(
+            # won't write to a CSV; this is just to re-fill the dicts with games from this season
+            start_year
+        )
+        for year in range(start_year+1, start_year+5):
+            get_data_for_year(year, CSV_NAME=f"{DIR}/{year}.csv")

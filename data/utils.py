@@ -1,5 +1,6 @@
 TEAMS = []
 
+
 # general stuff
 
 
