@@ -1,445 +1,445 @@
-Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
-1967, 10, 11,7, Boston Bruins, 2, 2, 2, 3, 3, 28, 14, 115,17, Detroit Red Wings, 3, 0, 3, 4, 6, 21, 13, 103,False
-1967, 10, 11,12, Chicago Black Hawks, 5, 1, 2, 8, 4, 33, 7, 100,11, New York Rangers, 4, 1, 0, 1, 6, 22, 13, 61,False
-1967, 10, 11,20, Oakland Seals, 0, 0, 0, 0, 5, 34, 5, 34,21, Philadelphia Flyers, 0, 0, 3, 3, 2, 38, 2, 38,True
-1967, 10, 11,22, Pittsburgh Penguins, 0, 0, 0, 0, 3, 41, 3, 41,1, Montreal Canadiens, 10, 0, 3, 5, 2, 30, 8, 80,False
-1967, 10, 11,23, St. Louis Blues, 0, 0, 2, 0, 0, 0, 0, 0,24, Minnesota North Stars, 0, 0, 0, 4, 4, 24, 4, 24,False
-1967, 10, 13,23, St. Louis Blues, 0, 0, 2, 3, 2, 34, 2, 34,22, Pittsburgh Penguins, 0, 0, 1, 2, 2, 39, 2, 39,False
-1967, 10, 14,25, Los Angeles Kings, 0, 0, 0, 0, 0, 0, 0, 0,21, Philadelphia Flyers, 0, 0, 1, 2, 0, 0, 5, 33,True
-1967, 10, 14,1, Montreal Canadiens, 10, 2, 2, 1, 1, 36, 5, 89,17, Detroit Red Wings, 4, 0, 4, 4, 3, 22, 5, 80,True
-1967, 10, 14,20, Oakland Seals, 1, 0, 5, 10, 1, 25, 1, 25,24, Minnesota North Stars, 1, 0, 2, 2, 2, 11, 4, 38,True
-1967, 10, 14,22, Pittsburgh Penguins, 1, 1, 3, 4, 1, 38, 1, 38,23, St. Louis Blues, 0, 0, 1, 2, 3, 35, 3, 35,False
-1967, 10, 14,13, Toronto Maple Leafs, 6, 1, 5, 7, 1, 38, 16, 141,12, Chicago Black Hawks, 4, 1, 3, 5, 6, 41, 9, 108,True
-1967, 10, 15,7, Boston Bruins, 2, 0, 4, 7, 4, 34, 18, 116,1, Montreal Canadiens, 10, 2, 6, 7, 2, 23, 5, 71,True
-1967, 10, 15,12, Chicago Black Hawks, 3, 0, 1, 2, 5, 32, 8, 99,13, Toronto Maple Leafs, 7, 2, 5, 9, 1, 32, 16, 135,False
-1967, 10, 15,17, Detroit Red Wings, 3, 1, 2, 4, 1, 10, 10, 66,11, New York Rangers, 5, 1, 6, 10, 3, 32, 14, 98,True
-1967, 10, 15,25, Los Angeles Kings, 1, 0, 4, 6, 2, 16, 2, 16,24, Minnesota North Stars, 1, 0, 0, 0, 2, 27, 8, 65,True
-1967, 10, 18,12, Chicago Black Hawks, 3, 2, 3, 5, 0, 33, 7, 104,7, Boston Bruins, 2, 0, 6, 11, 2, 27, 16, 109,False
-1967, 10, 18,11, New York Rangers, 5, 0, 2, 3, 3, 35, 9, 67,1, Montreal Canadiens, 9, 2, 2, 3, 1, 1, 11, 88,False
-1967, 10, 18,20, Oakland Seals, 2, 0, 6, 10, 0, 20, 0, 20,25, Los Angeles Kings, 2, 0, 5, 8, 3, 20, 3, 20,False
-1967, 10, 18,22, Pittsburgh Penguins, 1, 0, 2, 3, 0, 0, 4, 41,24, Minnesota North Stars, 1, 0, 3, 6, 1, 4, 5, 41,False
-1967, 10, 18,23, St. Louis Blues, 1, 0, 4, 4, 3, 34, 5, 65,21, Philadelphia Flyers, 0, 0, 2, 2, 3, 37, 8, 70,False
-1967, 10, 18,13, Toronto Maple Leafs, 7, 1, 5, 6, 3, 38, 18, 141,17, Detroit Red Wings, 4, 1, 3, 6, 2, 27, 11, 83,False
-1967, 10, 19,17, Detroit Red Wings, 5, 1, 3, 4, 2, 30, 11, 86,7, Boston Bruins, 3, 1, 7, 8, 1, 19, 15, 101,False
-1967, 10, 19,1, Montreal Canadiens, 9, 2, 1, 4, 2, 28, 11, 98,13, Toronto Maple Leafs, 6, 0, 2, 4, 3, 36, 18, 139,True
-1967, 10, 19,21, Philadelphia Flyers, 1, 0, 2, 3, 1, 35, 6, 68,22, Pittsburgh Penguins, 1, 0, 3, 5, 3, 31, 7, 72,True
-1967, 10, 21,24, Minnesota North Stars, 2, 0, 4, 4, 2, 29, 3, 45,20, Oakland Seals, 2, 1, 2, 3, 2, 24, 2, 24,True
-1967, 10, 21,1, Montreal Canadiens, 9, 1, 1, 0, 6, 30, 10, 114,7, Boston Bruins, 3, 1, 6, 10, 3, 31, 17, 113,True
-1967, 10, 21,22, Pittsburgh Penguins, 1, 0, 0, 0, 1, 22, 5, 63,12, Chicago Black Hawks, 3, 0, 1, 2, 7, 36, 13, 94,True
-1967, 10, 21,23, St. Louis Blues, 1, 0, 1, 2, 2, 21, 2, 30,25, Los Angeles Kings, 3, 0, 1, 2, 2, 27, 2, 27,False
-1967, 10, 21,13, Toronto Maple Leafs, 6, 1, 0, 0, 1, 27, 16, 130,11, New York Rangers, 5, 1, 2, 4, 2, 25, 8, 75,False
-1967, 10, 22,12, Chicago Black Hawks, 3, 0, 2, 2, 4, 43, 11, 116,25, Los Angeles Kings, 4, 0, 4, 5, 1, 6, 4, 42,False
-1967, 10, 22,17, Detroit Red Wings, 4, 0, 3, 6, 5, 15, 15, 87,23, St. Louis Blues, 1, 0, 3, 5, 3, 36, 3, 45,True
-1967, 10, 22,11, New York Rangers, 5, 0, 5, 9, 3, 30, 9, 80,22, Pittsburgh Penguins, 2, 0, 4, 7, 2, 33, 6, 74,True
-1967, 10, 22,21, Philadelphia Flyers, 2, 0, 1, 2, 0, 17, 5, 50,20, Oakland Seals, 2, 1, 1, 2, 3, 53, 3, 53,True
-1967, 10, 25,24, Minnesota North Stars, 3, 1, 3, 5, 1, 16, 2, 38,23, St. Louis Blues, 1, 0, 0, 0, 1, 33, 1, 42,True
-1967, 10, 25,11, New York Rangers, 5, 1, 6, 8, 4, 26, 10, 76,12, Chicago Black Hawks, 3, 1, 3, 5, 5, 29, 12, 96,False
-1967, 10, 25,22, Pittsburgh Penguins, 2, 0, 4, 6, 4, 41, 10, 92,20, Oakland Seals, 2, 0, 2, 2, 5, 31, 5, 31,True
-1967, 10, 25,13, Toronto Maple Leafs, 5, 0, 3, 4, 5, 35, 22, 178,25, Los Angeles Kings, 5, 0, 5, 8, 3, 42, 6, 78,True
-1967, 10, 26,7, Boston Bruins, 3, 0, 2, 2, 4, 25, 18, 107,25, Los Angeles Kings, 5, 0, 2, 2, 3, 36, 7, 70,True
-1967, 10, 26,17, Detroit Red Wings, 5, 0, 1, 2, 0, 30, 7, 86,20, Oakland Seals, 2, 0, 1, 1, 4, 39, 4, 39,True
-1967, 10, 26,1, Montreal Canadiens, 9, 2, 5, 5, 2, 34, 12, 112,11, New York Rangers, 5, 0, 2, 3, 2, 27, 8, 77,False
-1967, 10, 28,24, Minnesota North Stars, 4, 0, 3, 4, 1, 22, 3, 43,12, Chicago Black Hawks, 3, 0, 3, 4, 2, 30, 9, 97,False
-1967, 10, 28,1, Montreal Canadiens, 8, 0, 1, 3, 1, 23, 10, 92,23, St. Louis Blues, 1, 0, 2, 4, 0, 9, 3, 39,True
-1967, 10, 28,21, Philadelphia Flyers, 3, 0, 5, 7, 2, 30, 7, 63,17, Detroit Red Wings, 5, 0, 8, 16, 2, 25, 9, 81,False
-1967, 10, 28,22, Pittsburgh Penguins, 3, 0, 4, 3, 1, 25, 7, 76,25, Los Angeles Kings, 5, 0, 0, 0, 4, 34, 6, 74,False
-1967, 10, 28,13, Toronto Maple Leafs, 5, 0, 4, 7, 2, 31, 19, 175,20, Oakland Seals, 2, 0, 2, 3, 8, 42, 8, 42,True
-1967, 10, 29,7, Boston Bruins, 4, 0, 2, 4, 0, 26, 14, 108,22, Pittsburgh Penguins, 3, 0, 3, 5, 6, 51, 11, 81,True
-1967, 10, 29,17, Detroit Red Wings, 6, 1, 3, 6, 1, 21, 12, 82,12, Chicago Black Hawks, 3, 1, 4, 7, 2, 26, 9, 93,True
-1967, 10, 29,11, New York Rangers, 5, 1, 0, 1, 1, 31, 9, 70,13, Toronto Maple Leafs, 6, 1, 5, 8, 5, 39, 19, 173,True
-1967, 10, 29,21, Philadelphia Flyers, 3, 1, 1, 2, 3, 36, 8, 69,20, Oakland Seals, 2, 1, 2, 2, 5, 48, 5, 48,False
-1967, 10, 31,25, Los Angeles Kings, 6, 0, 5, 3, 3, 43, 5, 83,11, New York Rangers, 5, 0, 3, 8, 2, 30, 10, 69,False
-1967, 11, 1,24, Minnesota North Stars, 4, 1, 2, 4, 1, 12, 4, 23,22, Pittsburgh Penguins, 3, 0, 2, 5, 4, 39, 9, 69,False
-1967, 11, 1,20, Oakland Seals, 3, 0, 2, 4, 2, 19, 2, 19,11, New York Rangers, 6, 0, 6, 9, 1, 27, 9, 66,False
-1967, 11, 1,23, St. Louis Blues, 1, 0, 1, 2, 3, 30, 7, 57,7, Boston Bruins, 5, 0, 4, 4, 2, 22, 16, 104,True
-1967, 11, 1,13, Toronto Maple Leafs, 6, 0, 2, 4, 3, 36, 20, 154,1, Montreal Canadiens, 8, 2, 4, 8, 1, 29, 7, 90,True
-1967, 11, 2,17, Detroit Red Wings, 7, 1, 5, 8, 1, 23, 12, 84,13, Toronto Maple Leafs, 6, 1, 4, 6, 2, 29, 17, 158,False
-1967, 11, 2,25, Los Angeles Kings, 6, 1, 1, 0, 6, 27, 8, 67,12, Chicago Black Hawks, 3, 0, 1, 2, 4, 34, 6, 75,False
-1967, 11, 2,21, Philadelphia Flyers, 3, 0, 2, 4, 2, 18, 7, 51,24, Minnesota North Stars, 4, 0, 1, 2, 3, 11, 7, 32,False
-1967, 11, 4,24, Minnesota North Stars, 5, 0, 3, 6, 1, 29, 5, 50,25, Los Angeles Kings, 6, 1, 1, 2, 3, 14, 3, 17,False
-1967, 11, 4,1, Montreal Canadiens, 7, 0, 0, 1, 3, 24, 11, 76,21, Philadelphia Flyers, 3, 0, 1, 2, 5, 33, 8, 63,False
-1967, 11, 4,20, Oakland Seals, 3, 0, 0, 0, 2, 25, 2, 25,22, Pittsburgh Penguins, 4, 1, 4, 4, 1, 27, 6, 57,False
-1967, 11, 4,23, St. Louis Blues, 2, 0, 4, 9, 4, 27, 5, 58,17, Detroit Red Wings, 7, 1, 3, 5, 9, 36, 20, 97,True
-1967, 11, 4,13, Toronto Maple Leafs, 6, 0, 9, 16, 3, 29, 14, 170,11, New York Rangers, 7, 2, 2, 3, 0, 16, 7, 69,True
-1967, 11, 5,7, Boston Bruins, 5, 0, 1, 2, 5, 42, 15, 125,13, Toronto Maple Leafs, 6, 2, 4, 5, 0, 40, 13, 177,False
-1967, 11, 5,17, Detroit Red Wings, 6, 0, 2, 5, 3, 27, 14, 88,25, Los Angeles Kings, 6, 0, 2, 3, 0, 3, 2, 42,False
-1967, 11, 5,20, Oakland Seals, 2, 0, 0, 0, 1, 24, 1, 24,12, Chicago Black Hawks, 3, 0, 3, 6, 1, 28, 3, 69,False
-1967, 11, 5,21, Philadelphia Flyers, 4, 1, 4, 6, 1, 34, 4, 64,1, Montreal Canadiens, 6, 0, 1, 2, 2, 6, 12, 79,False
-1967, 11, 7,25, Los Angeles Kings, 6, 1, 6, 11, 4, 34, 6, 73,20, Oakland Seals, 1, 0, 2, 4, 2, 33, 2, 33,True
-1967, 11, 8,12, Chicago Black Hawks, 4, 0, 2, 3, 2, 18, 4, 59,1, Montreal Canadiens, 6, 2, 1, 2, 1, 23, 14, 91,True
-1967, 11, 8,24, Minnesota North Stars, 5, 2, 2, 4, 2, 25, 6, 46,23, St. Louis Blues, 3, 0, 3, 3, 1, 31, 3, 65,True
-1967, 11, 8,11, New York Rangers, 6, 2, 2, 4, 4, 36, 10, 89,7, Boston Bruins, 5, 0, 2, 3, 2, 41, 12, 121,False
-1967, 11, 8,20, Oakland Seals, 1, 0, 3, 6, 5, 28, 5, 28,13, Toronto Maple Leafs, 6, 1, 2, 2, 2, 37, 15, 174,False
-1967, 11, 8,22, Pittsburgh Penguins, 4, 0, 1, 0, 0, 31, 5, 61,21, Philadelphia Flyers, 4, 1, 1, 2, 1, 31, 4, 61,False
-1967, 11, 9,17, Detroit Red Wings, 6, 0, 4, 6, 0, 0, 17, 102,22, Pittsburgh Penguins, 4, 0, 1, 2, 1, 34, 6, 64,True
-1967, 11, 9,25, Los Angeles Kings, 6, 0, 5, 9, 4, 32, 6, 71,13, Toronto Maple Leafs, 7, 1, 6, 8, 1, 39, 14, 176,True
-1967, 11, 11,7, Boston Bruins, 6, 0, 6, 8, 3, 39, 13, 130,20, Oakland Seals, 1, 0, 2, 1, 6, 28, 6, 28,True
-1967, 11, 11,24, Minnesota North Stars, 5, 0, 5, 9, 1, 25, 5, 46,13, Toronto Maple Leafs, 7, 0, 1, 2, 2, 36, 16, 167,True
-1967, 11, 11,1, Montreal Canadiens, 5, 1, 2, 2, 4, 19, 13, 91,12, Chicago Black Hawks, 5, 1, 3, 5, 2, 30, 8, 66,False
-1967, 11, 11,22, Pittsburgh Penguins, 4, 1, 1, 2, 5, 32, 10, 62,23, St. Louis Blues, 3, 1, 2, 3, 2, 34, 7, 60,False
-1967, 11, 12,7, Boston Bruins, 7, 0, 2, 4, 1, 19, 11, 110,21, Philadelphia Flyers, 5, 0, 1, 1, 1, 42, 4, 72,False
-1967, 11, 12,12, Chicago Black Hawks, 6, 0, 3, 3, 3, 30, 9, 66,23, St. Louis Blues, 4, 0, 5, 5, 5, 26, 6, 57,True
-1967, 11, 12,17, Detroit Red Wings, 6, 0, 5, 8, 1, 20, 18, 122,1, Montreal Canadiens, 5, 2, 3, 5, 3, 31, 12, 103,True
-1967, 11, 12,11, New York Rangers, 6, 1, 4, 6, 6, 31, 12, 73,20, Oakland Seals, 1, 0, 1, 3, 4, 27, 6, 57,True
-1967, 11, 15,24, Minnesota North Stars, 6, 0, 2, 2, 1, 14, 5, 35,1, Montreal Canadiens, 4, 0, 1, 2, 3, 21, 14, 90,False
-1967, 11, 15,20, Oakland Seals, 1, 0, 3, 4, 4, 15, 5, 42,25, Los Angeles Kings, 6, 2, 3, 5, 2, 39, 3, 77,True
-1967, 11, 15,22, Pittsburgh Penguins, 4, 0, 1, 2, 5, 30, 10, 68,21, Philadelphia Flyers, 6, 2, 4, 5, 2, 39, 5, 69,True
-1967, 11, 15,23, St. Louis Blues, 3, 0, 2, 4, 5, 28, 6, 59,12, Chicago Black Hawks, 7, 1, 5, 10, 2, 24, 8, 62,False
-1967, 11, 15,13, Toronto Maple Leafs, 7, 2, 1, 1, 3, 30, 14, 153,7, Boston Bruins, 6, 0, 2, 2, 5, 28, 17, 109,True
-1967, 11, 16,20, Oakland Seals, 2, 0, 4, 6, 1, 27, 2, 46,17, Detroit Red Wings, 6, 1, 3, 5, 1, 37, 13, 136,False
-1967, 11, 16,21, Philadelphia Flyers, 5, 0, 0, 0, 3, 30, 8, 71,11, New York Rangers, 7, 0, 5, 10, 3, 21, 13, 72,True
-1967, 11, 17,25, Los Angeles Kings, 5, 1, 2, 0, 3, 25, 4, 63,17, Detroit Red Wings, 7, 0, 1, 2, 1, 18, 13, 117,False
-1967, 11, 18,7, Boston Bruins, 5, 1, 2, 4, 1, 23, 13, 96,11, New York Rangers, 6, 1, 2, 4, 3, 18, 13, 69,True
-1967, 11, 18,24, Minnesota North Stars, 6, 1, 1, 2, 4, 21, 9, 44,21, Philadelphia Flyers, 5, 0, 3, 5, 2, 32, 7, 73,False
-1967, 11, 18,20, Oakland Seals, 2, 0, 1, 2, 1, 19, 2, 40,1, Montreal Canadiens, 4, 0, 5, 10, 1, 15, 7, 89,True
-1967, 11, 18,23, St. Louis Blues, 3, 2, 1, 2, 1, 31, 5, 70,22, Pittsburgh Penguins, 4, 0, 5, 9, 0, 27, 5, 65,False
-1967, 11, 18,13, Toronto Maple Leafs, 7, 2, 4, 6, 2, 31, 14, 147,12, Chicago Black Hawks, 8, 0, 4, 7, 1, 27, 6, 76,False
-1967, 11, 19,7, Boston Bruins, 5, 0, 3, 4, 1, 33, 13, 106,13, Toronto Maple Leafs, 6, 2, 2, 2, 2, 37, 14, 153,True
-1967, 11, 19,12, Chicago Black Hawks, 9, 1, 2, 3, 2, 32, 7, 81,17, Detroit Red Wings, 7, 1, 4, 7, 1, 31, 16, 128,False
-1967, 11, 19,25, Los Angeles Kings, 5, 0, 1, 2, 1, 38, 5, 62,1, Montreal Canadiens, 3, 0, 1, 2, 3, 33, 8, 100,True
-1967, 11, 19,11, New York Rangers, 5, 0, 1, 2, 2, 28, 12, 79,24, Minnesota North Stars, 5, 0, 2, 4, 5, 23, 7, 45,True
-1967, 11, 19,21, Philadelphia Flyers, 5, 1, 2, 4, 5, 41, 7, 66,23, St. Louis Blues, 3, 0, 3, 6, 4, 39, 8, 74,True
-1967, 11, 22,25, Los Angeles Kings, 6, 1, 4, 8, 2, 24, 6, 48,20, Oakland Seals, 2, 1, 2, 4, 1, 28, 2, 49,True
-1967, 11, 22,11, New York Rangers, 6, 1, 5, 9, 2, 30, 12, 114,12, Chicago Black Hawks, 8, 1, 2, 4, 2, 25, 6, 64,False
-1967, 11, 22,21, Philadelphia Flyers, 6, 0, 3, 5, 2, 15, 4, 40,17, Detroit Red Wings, 7, 1, 2, 3, 2, 24, 17, 121,True
-1967, 11, 22,22, Pittsburgh Penguins, 5, 0, 5, 9, 5, 38, 8, 63,7, Boston Bruins, 6, 1, 6, 12, 2, 23, 11, 87,True
-1967, 11, 22,23, St. Louis Blues, 3, 0, 2, 2, 3, 29, 7, 64,1, Montreal Canadiens, 3, 1, 2, 3, 2, 17, 11, 90,False
-1967, 11, 22,13, Toronto Maple Leafs, 6, 0, 2, 3, 3, 26, 16, 136,24, Minnesota North Stars, 4, 1, 2, 2, 5, 56, 7, 78,True
-1967, 11, 23,7, Boston Bruins, 5, 2, 1, 2, 4, 39, 13, 103,11, New York Rangers, 5, 0, 1, 2, 1, 6, 15, 96,True
-1967, 11, 23,12, Chicago Black Hawks, 8, 2, 7, 8, 1, 27, 5, 74,1, Montreal Canadiens, 3, 0, 3, 2, 1, 29, 10, 102,False
-1967, 11, 24,25, Los Angeles Kings, 6, 1, 3, 5, 1, 16, 5, 40,22, Pittsburgh Penguins, 5, 0, 4, 7, 1, 32, 4, 57,True
-1967, 11, 25,24, Minnesota North Stars, 3, 0, 0, 0, 2, 22, 5, 63,12, Chicago Black Hawks, 8, 1, 0, 0, 7, 32, 11, 79,False
-1967, 11, 25,1, Montreal Canadiens, 4, 1, 7, 11, 0, 15, 11, 98,7, Boston Bruins, 5, 1, 4, 8, 2, 23, 11, 87,False
-1967, 11, 25,20, Oakland Seals, 2, 0, 1, 0, 3, 28, 4, 49,22, Pittsburgh Penguins, 5, 2, 3, 5, 3, 25, 8, 53,False
-1967, 11, 25,23, St. Louis Blues, 3, 0, 1, 2, 4, 35, 7, 72,21, Philadelphia Flyers, 7, 2, 4, 6, 2, 32, 4, 57,False
-1967, 11, 25,13, Toronto Maple Leafs, 6, 1, 3, 5, 0, 33, 13, 143,17, Detroit Red Wings, 6, 1, 2, 4, 4, 26, 18, 128,True
-1967, 11, 26,7, Boston Bruins, 6, 1, 3, 5, 1, 17, 9, 91,17, Detroit Red Wings, 5, 1, 2, 3, 6, 31, 17, 137,True
-1967, 11, 26,12, Chicago Black Hawks, 8, 2, 4, 7, 1, 18, 5, 65,24, Minnesota North Stars, 3, 0, 1, 2, 3, 41, 7, 73,True
-1967, 11, 26,11, New York Rangers, 4, 0, 2, 4, 4, 47, 17, 127,23, St. Louis Blues, 3, 0, 1, 2, 2, 23, 5, 60,True
-1967, 11, 26,21, Philadelphia Flyers, 8, 0, 2, 4, 1, 42, 3, 67,25, Los Angeles Kings, 7, 1, 5, 9, 3, 26, 7, 50,True
-1967, 11, 29,7, Boston Bruins, 7, 0, 6, 12, 5, 23, 14, 82,24, Minnesota North Stars, 3, 0, 1, 2, 2, 31, 2, 34,True
-1967, 11, 29,12, Chicago Black Hawks, 8, 0, 2, 4, 1, 28, 5, 75,21, Philadelphia Flyers, 8, 0, 7, 13, 2, 27, 4, 52,True
-1967, 11, 29,11, New York Rangers, 4, 1, 1, 1, 0, 35, 16, 120,17, Detroit Red Wings, 5, 1, 5, 10, 3, 35, 18, 142,False
-1967, 11, 29,22, Pittsburgh Penguins, 6, 2, 2, 2, 5, 28, 7, 58,20, Oakland Seals, 2, 0, 2, 5, 2, 22, 3, 43,True
-1967, 11, 29,23, St. Louis Blues, 2, 0, 0, 0, 1, 37, 4, 74,25, Los Angeles Kings, 7, 1, 2, 4, 2, 11, 7, 32,True
-1967, 11, 29,13, Toronto Maple Leafs, 6, 1, 4, 8, 3, 30, 14, 153,1, Montreal Canadiens, 4, 1, 1, 1, 3, 26, 13, 84,True
-1967, 11, 30,17, Detroit Red Wings, 6, 0, 3, 6, 1, 24, 16, 131,13, Toronto Maple Leafs, 6, 2, 2, 4, 2, 36, 12, 157,False
-1967, 11, 30,1, Montreal Canadiens, 3, 1, 1, 2, 2, 31, 12, 89,24, Minnesota North Stars, 2, 0, 1, 1, 0, 3, 5, 39,False
-1967, 11, 30,21, Philadelphia Flyers, 8, 1, 1, 3, 2, 29, 4, 54,20, Oakland Seals, 2, 1, 1, 1, 6, 32, 7, 53,False
-1967, 12, 2,7, Boston Bruins, 7, 1, 6, 11, 1, 22, 11, 86,12, Chicago Black Hawks, 8, 1, 3, 6, 1, 24, 5, 71,False
-1967, 12, 2,1, Montreal Canadiens, 3, 0, 1, 1, 1, 27, 7, 96,25, Los Angeles Kings, 6, 1, 2, 2, 5, 21, 8, 52,False
-1967, 12, 2,22, Pittsburgh Penguins, 6, 0, 6, 11, 2, 30, 3, 63,11, New York Rangers, 3, 1, 1, 2, 6, 21, 19, 118,False
-1967, 12, 2,23, St. Louis Blues, 2, 0, 3, 5, 2, 29, 5, 66,24, Minnesota North Stars, 3, 2, 1, 1, 1, 28, 6, 64,False
-1967, 12, 2,13, Toronto Maple Leafs, 6, 2, 3, 6, 1, 34, 11, 141,20, Oakland Seals, 3, 0, 3, 4, 1, 18, 2, 39,True
-1967, 12, 3,7, Boston Bruins, 6, 1, 4, 6, 4, 21, 14, 85,1, Montreal Canadiens, 3, 1, 2, 4, 2, 11, 7, 99,True
-1967, 12, 3,12, Chicago Black Hawks, 8, 2, 4, 7, 1, 10, 8, 87,24, Minnesota North Stars, 3, 0, 5, 7, 1, 22, 6, 58,False
-1967, 12, 3,17, Detroit Red Wings, 6, 1, 3, 5, 3, 31, 13, 110,22, Pittsburgh Penguins, 5, 0, 1, 2, 1, 33, 5, 69,True
-1967, 12, 3,11, New York Rangers, 4, 1, 4, 6, 1, 31, 14, 128,25, Los Angeles Kings, 6, 0, 3, 4, 1, 23, 2, 32,True
-1967, 12, 3,21, Philadelphia Flyers, 7, 2, 1, 2, 3, 32, 5, 57,23, St. Louis Blues, 2, 0, 1, 2, 3, 37, 8, 69,True
-1967, 12, 6,12, Chicago Black Hawks, 7, 0, 3, 6, 3, 6, 8, 56,22, Pittsburgh Penguins, 5, 1, 1, 1, 6, 40, 10, 76,True
-1967, 12, 6,25, Los Angeles Kings, 5, 1, 2, 2, 4, 35, 5, 44,23, St. Louis Blues, 1, 1, 2, 4, 4, 29, 9, 61,True
-1967, 12, 6,24, Minnesota North Stars, 3, 1, 4, 4, 3, 31, 8, 67,13, Toronto Maple Leafs, 6, 1, 3, 6, 0, 38, 10, 145,False
-1967, 12, 6,11, New York Rangers, 5, 0, 4, 7, 2, 31, 15, 128,17, Detroit Red Wings, 6, 2, 6, 10, 1, 29, 10, 85,False
-1967, 12, 6,20, Oakland Seals, 3, 2, 0, 0, 3, 49, 4, 70,21, Philadelphia Flyers, 7, 0, 4, 4, 2, 25, 4, 59,True
-1967, 12, 7,7, Boston Bruins, 7, 2, 5, 6, 3, 33, 12, 99,11, New York Rangers, 4, 0, 3, 4, 3, 34, 16, 131,True
-1967, 12, 7,1, Montreal Canadiens, 3, 1, 3, 5, 1, 17, 8, 84,17, Detroit Red Wings, 6, 1, 3, 5, 3, 37, 12, 93,False
-1967, 12, 8,25, Los Angeles Kings, 5, 1, 3, 5, 2, 24, 3, 33,21, Philadelphia Flyers, 7, 1, 2, 3, 4, 37, 6, 71,False
-1967, 12, 9,17, Detroit Red Wings, 6, 2, 2, 3, 2, 28, 11, 84,11, New York Rangers, 4, 0, 1, 1, 3, 28, 16, 125,True
-1967, 12, 9,24, Minnesota North Stars, 3, 1, 1, 2, 1, 18, 6, 54,22, Pittsburgh Penguins, 5, 1, 2, 3, 4, 20, 7, 33,False
-1967, 12, 9,1, Montreal Canadiens, 2, 1, 2, 2, 2, 27, 11, 103,12, Chicago Black Hawks, 7, 1, 7, 12, 2, 21, 6, 67,False
-1967, 12, 9,20, Oakland Seals, 4, 0, 4, 4, 2, 22, 3, 43,23, St. Louis Blues, 1, 0, 2, 2, 3, 25, 8, 57,False
-1967, 12, 9,13, Toronto Maple Leafs, 7, 1, 1, 2, 1, 30, 11, 137,7, Boston Bruins, 8, 1, 3, 5, 1, 22, 10, 88,False
-1967, 12, 10,7, Boston Bruins, 8, 1, 3, 4, 3, 36, 12, 102,25, Los Angeles Kings, 5, 0, 0, 0, 3, 19, 4, 28,False
-1967, 12, 10,11, New York Rangers, 4, 1, 2, 3, 3, 41, 16, 138,1, Montreal Canadiens, 2, 1, 2, 2, 2, 14, 10, 89,True
-1967, 12, 10,21, Philadelphia Flyers, 7, 0, 3, 6, 0, 24, 2, 58,12, Chicago Black Hawks, 7, 1, 2, 3, 2, 39, 3, 90,False
-1967, 12, 10,22, Pittsburgh Penguins, 6, 2, 3, 5, 1, 12, 2, 18,24, Minnesota North Stars, 3, 0, 2, 3, 5, 36, 8, 63,False
-1967, 12, 10,23, St. Louis Blues, 2, 0, 1, 0, 0, 30, 5, 62,13, Toronto Maple Leafs, 7, 0, 3, 4, 3, 42, 13, 144,True
-1967, 12, 13,7, Boston Bruins, 7, 2, 1, 1, 3, 11, 12, 99,1, Montreal Canadiens, 2, 0, 2, 3, 3, 26, 11, 101,False
-1967, 12, 13,12, Chicago Black Hawks, 8, 2, 3, 5, 0, 30, 2, 82,11, New York Rangers, 4, 0, 3, 4, 2, 31, 14, 134,True
-1967, 12, 13,24, Minnesota North Stars, 4, 0, 7, 10, 4, 42, 7, 69,25, Los Angeles Kings, 6, 2, 3, 5, 1, 23, 2, 32,True
-1967, 12, 13,23, St. Louis Blues, 3, 1, 2, 3, 1, 31, 6, 63,20, Oakland Seals, 4, 0, 0, 0, 1, 21, 2, 42,True
-1967, 12, 13,13, Toronto Maple Leafs, 6, 0, 1, 2, 3, 37, 12, 134,22, Pittsburgh Penguins, 5, 0, 4, 6, 5, 18, 7, 33,False
-1967, 12, 14,17, Detroit Red Wings, 6, 2, 3, 5, 2, 28, 10, 86,12, Chicago Black Hawks, 8, 0, 5, 10, 2, 38, 4, 83,False
-1967, 12, 14,21, Philadelphia Flyers, 6, 2, 0, 1, 2, 34, 5, 69,23, St. Louis Blues, 4, 0, 3, 6, 1, 24, 6, 56,False
-1967, 12, 15,25, Los Angeles Kings, 5, 1, 0, 0, 4, 30, 5, 39,24, Minnesota North Stars, 5, 1, 4, 7, 0, 27, 3, 54,False
-1967, 12, 15,20, Oakland Seals, 3, 0, 0, 2, 3, 33, 4, 54,7, Boston Bruins, 7, 1, 2, 6, 6, 45, 15, 131,True
-1967, 12, 16,25, Los Angeles Kings, 4, 1, 0, 0, 2, 17, 3, 26,7, Boston Bruins, 6, 1, 1, 2, 3, 33, 13, 108,False
-1967, 12, 16,1, Montreal Canadiens, 2, 0, 5, 11, 2, 25, 10, 100,17, Detroit Red Wings, 5, 2, 1, 2, 3, 26, 11, 84,True
-1967, 12, 16,20, Oakland Seals, 4, 1, 4, 7, 1, 21, 2, 42,24, Minnesota North Stars, 6, 1, 3, 4, 0, 23, 3, 50,False
-1967, 12, 16,22, Pittsburgh Penguins, 5, 1, 2, 3, 1, 31, 3, 46,12, Chicago Black Hawks, 9, 1, 3, 4, 1, 24, 4, 76,False
-1967, 12, 16,23, St. Louis Blues, 5, 1, 2, 2, 2, 31, 7, 63,21, Philadelphia Flyers, 5, 1, 2, 3, 2, 32, 5, 67,False
-1967, 12, 16,13, Toronto Maple Leafs, 6, 1, 1, 1, 2, 30, 11, 127,11, New York Rangers, 4, 1, 2, 3, 5, 32, 13, 121,True
-1967, 12, 17,12, Chicago Black Hawks, 9, 1, 1, 2, 1, 29, 3, 67,13, Toronto Maple Leafs, 7, 1, 4, 7, 2, 37, 11, 134,True
-1967, 12, 17,17, Detroit Red Wings, 5, 1, 3, 5, 4, 26, 12, 84,1, Montreal Canadiens, 2, 1, 4, 8, 3, 25, 11, 92,True
-1967, 12, 17,11, New York Rangers, 4, 1, 2, 4, 4, 48, 12, 137,23, St. Louis Blues, 5, 0, 0, 0, 5, 32, 6, 49,True
-1967, 12, 17,21, Philadelphia Flyers, 5, 1, 1, 2, 0, 26, 3, 61,22, Pittsburgh Penguins, 4, 1, 1, 1, 1, 26, 3, 41,True
-1967, 12, 19,25, Los Angeles Kings, 3, 1, 2, 4, 5, 19, 6, 28,20, Oakland Seals, 3, 1, 1, 0, 1, 21, 2, 34,True
-1967, 12, 20,12, Chicago Black Hawks, 9, 1, 2, 2, 0, 29, 2, 67,7, Boston Bruins, 6, 1, 5, 10, 4, 22, 11, 106,True
-1967, 12, 20,1, Montreal Canadiens, 2, 0, 6, 10, 6, 25, 12, 79,13, Toronto Maple Leafs, 6, 2, 0, 0, 1, 32, 11, 136,True
-1967, 12, 20,11, New York Rangers, 4, 0, 5, 7, 3, 24, 11, 113,17, Detroit Red Wings, 6, 2, 8, 10, 6, 25, 14, 83,True
-1967, 12, 20,20, Oakland Seals, 3, 0, 1, 0, 1, 13, 3, 41,23, St. Louis Blues, 5, 2, 3, 6, 1, 17, 6, 53,False
-1967, 12, 21,25, Los Angeles Kings, 4, 2, 3, 5, 1, 20, 2, 29,22, Pittsburgh Penguins, 4, 0, 0, 2, 2, 22, 4, 37,True
-1967, 12, 21,21, Philadelphia Flyers, 5, 1, 2, 4, 1, 37, 4, 72,24, Minnesota North Stars, 7, 1, 1, 1, 0, 28, 3, 55,True
-1967, 12, 23,12, Chicago Black Hawks, 9, 2, 6, 9, 3, 21, 5, 66,21, Philadelphia Flyers, 5, 0, 6, 12, 0, 31, 3, 66,True
-1967, 12, 23,25, Los Angeles Kings, 5, 1, 4, 8, 1, 21, 2, 30,23, St. Louis Blues, 5, 1, 2, 2, 1, 24, 6, 60,True
-1967, 12, 23,1, Montreal Canadiens, 3, 0, 5, 9, 0, 27, 7, 91,20, Oakland Seals, 3, 1, 1, 2, 2, 23, 4, 51,True
-1967, 12, 23,11, New York Rangers, 5, 0, 2, 2, 0, 27, 14, 127,7, Boston Bruins, 5, 2, 3, 5, 0, 0, 15, 107,False
-1967, 12, 23,22, Pittsburgh Penguins, 3, 1, 1, 1, 4, 25, 6, 40,24, Minnesota North Stars, 7, 1, 0, 0, 3, 27, 9, 66,True
-1967, 12, 23,13, Toronto Maple Leafs, 5, 2, 0, 0, 1, 11, 13, 106,17, Detroit Red Wings, 6, 0, 0, 0, 1, 23, 9, 81,True
-1967, 12, 25,7, Boston Bruins, 5, 1, 4, 6, 0, 41, 15, 148,20, Oakland Seals, 3, 1, 2, 4, 2, 28, 6, 56,True
-1967, 12, 25,12, Chicago Black Hawks, 9, 1, 3, 5, 2, 28, 7, 69,1, Montreal Canadiens, 4, 1, 5, 8, 2, 33, 12, 117,True
-1967, 12, 25,17, Detroit Red Wings, 5, 0, 1, 4, 5, 40, 13, 98,13, Toronto Maple Leafs, 5, 2, 5, 9, 3, 39, 19, 151,False
-1967, 12, 25,24, Minnesota North Stars, 6, 2, 0, 0, 4, 42, 10, 81,23, St. Louis Blues, 5, 0, 0, 0, 0, 6, 4, 26,False
-1967, 12, 25,21, Philadelphia Flyers, 5, 1, 2, 3, 3, 28, 6, 63,11, New York Rangers, 4, 0, 0, 0, 4, 30, 18, 130,False
-1967, 12, 25,22, Pittsburgh Penguins, 3, 0, 5, 6, 0, 23, 2, 38,25, Los Angeles Kings, 5, 2, 4, 7, 0, 21, 1, 30,True
-1967, 12, 27,7, Boston Bruins, 6, 0, 6, 9, 3, 23, 18, 138,12, Chicago Black Hawks, 10, 2, 3, 6, 1, 31, 6, 72,True
-1967, 12, 27,11, New York Rangers, 4, 1, 3, 5, 1, 33, 15, 133,24, Minnesota North Stars, 5, 0, 0, 1, 6, 39, 7, 55,False
-1967, 12, 27,22, Pittsburgh Penguins, 4, 2, 4, 6, 3, 26, 5, 41,20, Oakland Seals, 2, 0, 3, 5, 6, 45, 10, 73,False
-1967, 12, 27,23, St. Louis Blues, 6, 0, 1, 0, 0, 23, 4, 43,25, Los Angeles Kings, 5, 2, 3, 3, 0, 0, 5, 40,True
-1967, 12, 27,13, Toronto Maple Leafs, 5, 1, 3, 6, 4, 23, 11, 135,1, Montreal Canadiens, 4, 1, 1, 3, 3, 34, 10, 92,False
-1967, 12, 28,17, Detroit Red Wings, 5, 1, 1, 2, 3, 26, 11, 84,21, Philadelphia Flyers, 5, 1, 1, 1, 3, 35, 6, 71,True
-1967, 12, 28,1, Montreal Canadiens, 5, 1, 2, 3, 2, 31, 9, 89,24, Minnesota North Stars, 5, 1, 3, 5, 1, 16, 4, 57,True
-1967, 12, 29,23, St. Louis Blues, 7, 1, 4, 6, 2, 19, 6, 39,22, Pittsburgh Penguins, 4, 1, 0, 0, 0, 24, 2, 39,True
-1967, 12, 30,25, Los Angeles Kings, 4, 0, 2, 3, 4, 31, 9, 77,21, Philadelphia Flyers, 4, 2, 3, 4, 5, 38, 8, 74,False
-1967, 12, 30,24, Minnesota North Stars, 5, 0, 2, 4, 3, 41, 9, 82,7, Boston Bruins, 6, 1, 7, 12, 2, 22, 17, 137,True
-1967, 12, 30,1, Montreal Canadiens, 6, 1, 6, 8, 2, 28, 14, 111,20, Oakland Seals, 3, 1, 0, 0, 0, 34, 4, 62,True
-1967, 12, 30,11, New York Rangers, 4, 0, 3, 5, 5, 28, 15, 123,12, Chicago Black Hawks, 9, 2, 2, 3, 6, 20, 11, 57,False
-1967, 12, 30,22, Pittsburgh Penguins, 4, 0, 1, 1, 2, 30, 4, 45,17, Detroit Red Wings, 5, 2, 5, 7, 3, 14, 11, 72,False
-1967, 12, 30,13, Toronto Maple Leafs, 4, 0, 2, 3, 2, 34, 11, 152,23, St. Louis Blues, 7, 1, 2, 3, 0, 0, 5, 41,True
-1967, 12, 31,12, Chicago Black Hawks, 9, 1, 3, 7, 3, 28, 8, 65,20, Oakland Seals, 2, 0, 0, 0, 2, 40, 6, 68,True
-1967, 12, 31,17, Detroit Red Wings, 5, 0, 5, 7, 2, 27, 10, 85,7, Boston Bruins, 5, 2, 4, 3, 5, 25, 20, 140,True
-1967, 12, 31,11, New York Rangers, 4, 0, 3, 5, 3, 32, 13, 120,13, Toronto Maple Leafs, 4, 2, 8, 16, 1, 34, 11, 143,True
-1967, 12, 31,21, Philadelphia Flyers, 5, 2, 2, 2, 0, 25, 3, 61,25, Los Angeles Kings, 4, 0, 0, 0, 1, 9, 7, 65,True
-1968, 1, 3,24, Minnesota North Stars, 6, 2, 5, 7, 4, 30, 10, 71,25, Los Angeles Kings, 3, 0, 1, 0, 4, 13, 13, 69,True
-1968, 1, 3,1, Montreal Canadiens, 7, 2, 2, 3, 0, 24, 12, 107,13, Toronto Maple Leafs, 4, 0, 0, 0, 1, 35, 14, 149,False
-1968, 1, 3,11, New York Rangers, 5, 0, 4, 7, 0, 22, 6, 115,7, Boston Bruins, 4, 2, 4, 9, 2, 18, 18, 130,False
-1968, 1, 3,23, St. Louis Blues, 6, 2, 1, 1, 4, 20, 12, 67,20, Oakland Seals, 2, 0, 0, 0, 3, 30, 7, 58,True
-1968, 1, 4,17, Detroit Red Wings, 5, 2, 6, 9, 4, 24, 12, 82,20, Oakland Seals, 2, 0, 0, 0, 4, 35, 8, 63,True
-1968, 1, 4,21, Philadelphia Flyers, 5, 1, 9, 14, 3, 36, 4, 74,7, Boston Bruins, 5, 0, 5, 7, 6, 32, 21, 140,False
-1968, 1, 4,22, Pittsburgh Penguins, 3, 1, 2, 5, 5, 40, 7, 55,25, Los Angeles Kings, 3, 1, 0, 0, 1, 8, 10, 65,True
-1968, 1, 6,12, Chicago Black Hawks, 9, 1, 3, 6, 0, 23, 1, 67,17, Detroit Red Wings, 5, 1, 7, 12, 0, 2, 11, 85,True
-1968, 1, 6,1, Montreal Canadiens, 7, 0, 1, 2, 1, 23, 13, 106,11, New York Rangers, 4, 2, 5, 10, 5, 45, 11, 138,True
-1968, 1, 6,20, Oakland Seals, 1, 0, 3, 5, 9, 38, 13, 66,24, Minnesota North Stars, 6, 2, 6, 10, 0, 35, 6, 76,False
-1968, 1, 6,22, Pittsburgh Penguins, 4, 1, 4, 7, 3, 32, 5, 47,21, Philadelphia Flyers, 5, 1, 2, 3, 1, 38, 4, 79,False
-1968, 1, 6,23, St. Louis Blues, 6, 1, 4, 7, 0, 27, 8, 74,25, Los Angeles Kings, 3, 1, 3, 6, 4, 37, 13, 94,True
-1968, 1, 6,13, Toronto Maple Leafs, 5, 0, 1, 2, 1, 30, 17, 172,7, Boston Bruins, 6, 2, 3, 6, 2, 22, 17, 135,False
-1968, 1, 7,12, Chicago Black Hawks, 9, 1, 6, 11, 2, 26, 4, 75,7, Boston Bruins, 7, 1, 3, 6, 3, 26, 18, 139,True
-1968, 1, 7,17, Detroit Red Wings, 5, 1, 5, 5, 3, 11, 14, 98,1, Montreal Canadiens, 7, 1, 5, 5, 2, 25, 14, 108,False
-1968, 1, 7,11, New York Rangers, 4, 1, 2, 1, 5, 22, 16, 104,13, Toronto Maple Leafs, 5, 1, 3, 5, 4, 41, 19, 180,True
-1968, 1, 7,20, Oakland Seals, 1, 0, 5, 7, 4, 28, 9, 62,25, Los Angeles Kings, 3, 2, 1, 1, 2, 32, 11, 89,True
-1968, 1, 7,21, Philadelphia Flyers, 6, 2, 2, 3, 2, 32, 5, 73,22, Pittsburgh Penguins, 3, 0, 2, 4, 2, 16, 4, 31,True
-1968, 1, 10,12, Chicago Black Hawks, 9, 2, 4, 7, 2, 30, 4, 79,11, New York Rangers, 5, 0, 6, 10, 3, 25, 13, 118,False
-1968, 1, 10,24, Minnesota North Stars, 6, 0, 5, 7, 5, 24, 11, 65,21, Philadelphia Flyers, 6, 2, 3, 5, 1, 37, 4, 78,True
-1968, 1, 10,20, Oakland Seals, 2, 0, 6, 7, 0, 26, 5, 60,23, St. Louis Blues, 6, 2, 2, 4, 1, 32, 9, 79,False
-1968, 1, 10,22, Pittsburgh Penguins, 3, 0, 1, 0, 2, 15, 5, 39,1, Montreal Canadiens, 7, 1, 3, 9, 2, 14, 13, 122,False
-1968, 1, 10,13, Toronto Maple Leafs, 4, 2, 2, 4, 6, 38, 25, 173,17, Detroit Red Wings, 5, 0, 3, 5, 4, 28, 17, 123,True
-1968, 1, 11,7, Boston Bruins, 6, 1, 2, 4, 3, 31, 18, 144,17, Detroit Red Wings, 4, 1, 1, 2, 2, 43, 15, 138,True
-1968, 1, 11,25, Los Angeles Kings, 2, 0, 0, 0, 6, 28, 15, 85,23, St. Louis Blues, 7, 2, 2, 3, 5, 25, 10, 70,False
-1968, 1, 11,21, Philadelphia Flyers, 5, 1, 4, 8, 3, 41, 9, 80,1, Montreal Canadiens, 8, 1, 4, 7, 3, 26, 14, 134,False
-1968, 1, 12,22, Pittsburgh Penguins, 3, 1, 3, 6, 3, 24, 7, 47,13, Toronto Maple Leafs, 5, 0, 2, 2, 1, 36, 16, 166,True
-1968, 1, 13,17, Detroit Red Wings, 4, 0, 4, 7, 3, 31, 18, 132,12, Chicago Black Hawks, 8, 2, 3, 6, 3, 30, 6, 70,False
-1968, 1, 13,24, Minnesota North Stars, 6, 2, 6, 9, 4, 21, 10, 62,20, Oakland Seals, 2, 0, 2, 5, 2, 28, 7, 62,False
-1968, 1, 13,1, Montreal Canadiens, 8, 1, 4, 6, 2, 25, 13, 138,7, Boston Bruins, 7, 1, 5, 7, 5, 28, 20, 136,True
-1968, 1, 13,23, St. Louis Blues, 8, 0, 2, 1, 2, 23, 7, 66,11, New York Rangers, 5, 2, 3, 6, 2, 36, 10, 117,False
-1968, 1, 13,13, Toronto Maple Leafs, 5, 0, 3, 4, 4, 29, 19, 159,22, Pittsburgh Penguins, 4, 2, 4, 8, 3, 35, 7, 58,True
-1968, 1, 14,7, Boston Bruins, 6, 1, 1, 3, 3, 22, 16, 106,24, Minnesota North Stars, 5, 1, 2, 4, 6, 41, 8, 62,True
-1968, 1, 14,12, Chicago Black Hawks, 8, 2, 4, 7, 4, 47, 8, 88,23, St. Louis Blues, 7, 0, 1, 1, 2, 21, 8, 67,False
-1968, 1, 14,20, Oakland Seals, 3, 2, 2, 4, 2, 33, 7, 67,21, Philadelphia Flyers, 4, 0, 1, 4, 4, 36, 10, 75,False
-1968, 1, 17,12, Chicago Black Hawks, 7, 1, 2, 4, 2, 30, 6, 71,11, New York Rangers, 5, 1, 3, 6, 3, 27, 9, 114,False
-1968, 1, 17,1, Montreal Canadiens, 8, 1, 6, 10, 1, 35, 19, 155,17, Detroit Red Wings, 4, 1, 3, 7, 3, 8, 10, 74,True
-1968, 1, 17,20, Oakland Seals, 3, 1, 3, 6, 6, 26, 11, 60,22, Pittsburgh Penguins, 3, 1, 0, 0, 7, 27, 7, 34,False
-1968, 1, 17,23, St. Louis Blues, 8, 1, 2, 2, 3, 24, 8, 72,24, Minnesota North Stars, 5, 1, 2, 3, 9, 55, 11, 76,True
-1968, 1, 18,7, Boston Bruins, 6, 2, 8, 16, 2, 24, 14, 91,13, Toronto Maple Leafs, 5, 0, 7, 13, 0, 33, 15, 163,False
-1968, 1, 18,25, Los Angeles Kings, 1, 0, 2, 4, 2, 23, 11, 80,22, Pittsburgh Penguins, 3, 2, 1, 1, 1, 22, 1, 29,True
-1968, 1, 18,24, Minnesota North Stars, 5, 1, 0, 0, 5, 41, 7, 62,21, Philadelphia Flyers, 5, 1, 6, 10, 6, 39, 9, 58,False
-1968, 1, 19,25, Los Angeles Kings, 1, 0, 3, 5, 2, 22, 11, 79,11, New York Rangers, 6, 2, 4, 7, 1, 33, 8, 121,True
-1968, 1, 20,7, Boston Bruins, 5, 1, 2, 3, 4, 26, 16, 93,21, Philadelphia Flyers, 6, 1, 4, 8, 3, 19, 5, 43,True
-1968, 1, 20,1, Montreal Canadiens, 9, 0, 6, 10, 1, 19, 9, 103,12, Chicago Black Hawks, 6, 2, 2, 4, 4, 25, 5, 66,True
-1968, 1, 20,20, Oakland Seals, 2, 0, 1, 2, 1, 26, 6, 60,11, New York Rangers, 5, 2, 2, 3, 5, 36, 12, 124,False
-1968, 1, 20,22, Pittsburgh Penguins, 3, 0, 2, 2, 3, 29, 3, 36,17, Detroit Red Wings, 4, 2, 3, 2, 6, 55, 13, 121,True
-1968, 1, 20,13, Toronto Maple Leafs, 5, 2, 4, 6, 2, 24, 17, 162,24, Minnesota North Stars, 5, 0, 2, 2, 4, 19, 6, 40,True
-1968, 1, 21,7, Boston Bruins, 6, 1, 4, 6, 2, 4, 15, 103,12, Chicago Black Hawks, 5, 1, 1, 2, 3, 31, 4, 72,True
-1968, 1, 21,17, Detroit Red Wings, 3, 0, 5, 6, 6, 41, 14, 82,13, Toronto Maple Leafs, 6, 2, 5, 9, 1, 35, 16, 173,False
-1968, 1, 21,24, Minnesota North Stars, 4, 1, 1, 2, 5, 44, 7, 65,22, Pittsburgh Penguins, 4, 1, 8, 12, 5, 37, 5, 44,True
-1968, 1, 21,20, Oakland Seals, 2, 1, 0, 0, 3, 21, 8, 55,25, Los Angeles Kings, 2, 1, 5, 7, 2, 31, 11, 88,True
-1968, 1, 21,21, Philadelphia Flyers, 6, 1, 2, 4, 4, 35, 6, 59,23, St. Louis Blues, 8, 1, 5, 7, 0, 24, 5, 72,False
-1968, 1, 24,12, Chicago Black Hawks, 5, 2, 0, 0, 4, 23, 8, 58,17, Detroit Red Wings, 2, 0, 0, 0, 1, 9, 10, 67,False
-1968, 1, 24,25, Los Angeles Kings, 2, 0, 0, 0, 3, 30, 12, 87,20, Oakland Seals, 3, 2, 3, 6, 0, 39, 5, 73,False
-1968, 1, 24,11, New York Rangers, 6, 0, 3, 6, 0, 15, 7, 103,7, Boston Bruins, 7, 2, 6, 12, 0, 33, 11, 128,True
-1968, 1, 24,23, St. Louis Blues, 8, 2, 2, 4, 2, 25, 7, 73,24, Minnesota North Stars, 5, 0, 4, 8, 2, 21, 5, 46,True
-1968, 1, 24,13, Toronto Maple Leafs, 6, 0, 2, 3, 0, 40, 17, 166,21, Philadelphia Flyers, 5, 0, 2, 4, 2, 24, 4, 55,False
-1968, 1, 25,7, Boston Bruins, 6, 0, 2, 1, 2, 37, 13, 132,1, Montreal Canadiens, 9, 2, 3, 6, 1, 24, 8, 127,False
-1968, 1, 25,17, Detroit Red Wings, 2, 1, 4, 6, 2, 43, 11, 101,23, St. Louis Blues, 8, 1, 5, 6, 0, 6, 5, 36,False
-1968, 1, 25,21, Philadelphia Flyers, 5, 1, 1, 4, 2, 31, 3, 78,24, Minnesota North Stars, 4, 1, 2, 2, 5, 40, 8, 65,False
-1968, 1, 27,17, Detroit Red Wings, 1, 1, 4, 6, 2, 26, 13, 84,21, Philadelphia Flyers, 5, 1, 0, 0, 3, 41, 4, 88,True
-1968, 1, 27,24, Minnesota North Stars, 4, 1, 3, 3, 0, 19, 3, 44,20, Oakland Seals, 4, 1, 4, 6, 1, 39, 6, 73,True
-1968, 1, 27,1, Montreal Canadiens, 9, 2, 2, 4, 0, 31, 9, 127,7, Boston Bruins, 5, 0, 0, 0, 2, 18, 14, 118,True
-1968, 1, 27,22, Pittsburgh Penguins, 4, 1, 3, 4, 4, 28, 4, 35,25, Los Angeles Kings, 2, 1, 0, 0, 4, 19, 13, 76,False
-1968, 1, 27,23, St. Louis Blues, 9, 0, 4, 6, 2, 8, 9, 55,11, New York Rangers, 7, 2, 2, 3, 1, 22, 7, 112,True
-1968, 1, 27,13, Toronto Maple Leafs, 6, 0, 1, 1, 2, 32, 18, 169,12, Chicago Black Hawks, 4, 2, 2, 3, 2, 10, 9, 85,False
-1968, 1, 28,7, Boston Bruins, 4, 1, 2, 4, 5, 32, 17, 132,22, Pittsburgh Penguins, 3, 1, 3, 6, 4, 25, 4, 32,False
-1968, 1, 28,12, Chicago Black Hawks, 4, 2, 4, 4, 1, 37, 8, 112,13, Toronto Maple Leafs, 5, 0, 1, 2, 0, 5, 17, 133,False
-1968, 1, 28,24, Minnesota North Stars, 4, 0, 3, 5, 1, 23, 4, 48,17, Detroit Red Wings, 2, 0, 3, 5, 2, 16, 13, 74,True
-1968, 1, 28,11, New York Rangers, 6, 2, 3, 6, 2, 34, 10, 126,20, Oakland Seals, 4, 0, 1, 2, 3, 32, 8, 66,True
-1968, 1, 28,21, Philadelphia Flyers, 4, 2, 3, 4, 1, 47, 4, 83,25, Los Angeles Kings, 3, 0, 5, 6, 3, 30, 12, 87,False
-1968, 1, 30,1, Montreal Canadiens, 9, 1, 4, 8, 2, 21, 12, 131,13, Toronto Maple Leafs, 6, 1, 3, 2, 1, 33, 15, 158,True
-1968, 1, 31,24, Minnesota North Stars, 4, 2, 2, 2, 1, 35, 4, 60,25, Los Angeles Kings, 4, 0, 2, 3, 0, 27, 9, 84,True
-1968, 1, 31,11, New York Rangers, 7, 2, 4, 6, 2, 13, 10, 100,12, Chicago Black Hawks, 3, 0, 1, 2, 2, 35, 9, 110,False
-1968, 1, 31,23, St. Louis Blues, 9, 1, 4, 7, 3, 31, 10, 78,22, Pittsburgh Penguins, 4, 1, 1, 2, 0, 33, 0, 40,True
-1968, 2, 1,7, Boston Bruins, 4, 1, 0, 0, 2, 20, 13, 116,12, Chicago Black Hawks, 3, 1, 3, 5, 2, 41, 10, 119,False
-1968, 2, 1,17, Detroit Red Wings, 2, 1, 1, 2, 0, 9, 8, 60,25, Los Angeles Kings, 4, 1, 1, 1, 1, 10, 10, 66,False
-1968, 2, 1,1, Montreal Canadiens, 10, 1, 4, 5, 0, 19, 10, 129,11, New York Rangers, 7, 1, 2, 4, 4, 24, 11, 115,True
-1968, 2, 1,21, Philadelphia Flyers, 3, 1, 0, 0, 2, 28, 5, 64,20, Oakland Seals, 4, 1, 2, 4, 4, 46, 9, 80,False
-1968, 2, 1,22, Pittsburgh Penguins, 4, 0, 4, 4, 7, 35, 9, 45,23, St. Louis Blues, 9, 2, 9, 15, 4, 34, 11, 81,True
-1968, 2, 3,7, Boston Bruins, 3, 1, 4, 7, 1, 16, 15, 125,11, New York Rangers, 6, 1, 2, 3, 4, 29, 11, 120,False
-1968, 2, 3,17, Detroit Red Wings, 2, 0, 6, 9, 2, 12, 13, 62,24, Minnesota North Stars, 5, 1, 6, 10, 3, 25, 4, 55,True
-1968, 2, 3,1, Montreal Canadiens, 10, 0, 5, 8, 2, 36, 15, 131,25, Los Angeles Kings, 5, 2, 8, 13, 6, 47, 15, 103,True
-1968, 2, 3,21, Philadelphia Flyers, 3, 0, 3, 4, 3, 36, 6, 67,12, Chicago Black Hawks, 4, 2, 4, 8, 4, 44, 10, 103,True
-1968, 2, 3,22, Pittsburgh Penguins, 5, 1, 2, 4, 0, 22, 2, 32,13, Toronto Maple Leafs, 6, 1, 0, 0, 3, 29, 18, 118,False
-1968, 2, 3,23, St. Louis Blues, 8, 2, 0, 0, 2, 22, 9, 69,20, Oakland Seals, 4, 0, 3, 2, 5, 34, 8, 64,True
-1968, 2, 4,7, Boston Bruins, 3, 1, 3, 6, 1, 20, 13, 111,17, Detroit Red Wings, 3, 1, 8, 14, 5, 14, 12, 70,True
-1968, 2, 4,12, Chicago Black Hawks, 3, 1, 3, 6, 4, 37, 10, 81,25, Los Angeles Kings, 5, 1, 1, 3, 5, 19, 14, 82,True
-1968, 2, 4,24, Minnesota North Stars, 5, 1, 1, 2, 1, 9, 8, 35,20, Oakland Seals, 4, 1, 1, 1, 0, 25, 4, 38,True
-1968, 2, 4,11, New York Rangers, 6, 0, 3, 5, 3, 36, 12, 128,1, Montreal Canadiens, 10, 2, 5, 9, 1, 25, 15, 103,True
-1968, 2, 4,21, Philadelphia Flyers, 4, 1, 5, 10, 3, 31, 6, 67,13, Toronto Maple Leafs, 6, 0, 3, 6, 3, 27, 16, 123,True
-1968, 2, 7,12, Chicago Black Hawks, 4, 1, 5, 10, 3, 26, 9, 70,13, Toronto Maple Leafs, 6, 1, 1, 2, 0, 1, 17, 132,True
-1968, 2, 7,25, Los Angeles Kings, 5, 0, 3, 5, 1, 14, 9, 77,24, Minnesota North Stars, 6, 2, 4, 3, 3, 31, 10, 57,False
-1968, 2, 7,1, Montreal Canadiens, 9, 2, 0, 0, 3, 39, 17, 112,21, Philadelphia Flyers, 4, 0, 4, 8, 3, 36, 4, 80,True
-1968, 2, 7,20, Oakland Seals, 3, 1, 3, 4, 4, 13, 8, 47,22, Pittsburgh Penguins, 4, 1, 3, 4, 3, 37, 5, 47,False
-1968, 2, 7,23, St. Louis Blues, 8, 1, 4, 7, 1, 17, 8, 64,7, Boston Bruins, 3, 0, 5, 6, 2, 11, 17, 116,False
-1968, 2, 8,17, Detroit Red Wings, 3, 1, 4, 7, 3, 19, 11, 86,11, New York Rangers, 6, 1, 2, 4, 0, 23, 8, 112,False
-1968, 2, 8,25, Los Angeles Kings, 4, 2, 2, 3, 3, 29, 11, 92,22, Pittsburgh Penguins, 5, 0, 4, 5, 1, 19, 3, 29,True
-1968, 2, 10,17, Detroit Red Wings, 3, 0, 2, 3, 3, 29, 11, 96,7, Boston Bruins, 4, 2, 6, 10, 4, 27, 19, 137,False
-1968, 2, 10,1, Montreal Canadiens, 9, 1, 4, 7, 1, 19, 15, 112,12, Chicago Black Hawks, 5, 1, 3, 2, 5, 27, 13, 75,True
-1968, 2, 10,20, Oakland Seals, 3, 0, 1, 1, 4, 33, 8, 67,24, Minnesota North Stars, 7, 2, 4, 6, 2, 28, 9, 54,False
-1968, 2, 10,22, Pittsburgh Penguins, 4, 0, 1, 2, 3, 35, 5, 45,11, New York Rangers, 6, 2, 4, 5, 2, 24, 10, 108,False
-1968, 2, 10,23, St. Louis Blues, 8, 1, 4, 7, 4, 25, 13, 72,21, Philadelphia Flyers, 3, 1, 1, 1, 1, 44, 5, 78,False
-1968, 2, 11,7, Boston Bruins, 4, 1, 1, 2, 1, 29, 16, 139,23, St. Louis Blues, 7, 1, 1, 1, 2, 26, 11, 73,False
-1968, 2, 11,12, Chicago Black Hawks, 5, 0, 4, 8, 2, 11, 12, 51,1, Montreal Canadiens, 9, 2, 6, 12, 3, 34, 19, 109,False
-1968, 2, 11,24, Minnesota North Stars, 8, 1, 5, 7, 2, 23, 9, 49,21, Philadelphia Flyers, 4, 1, 2, 5, 1, 34, 5, 68,False
-1968, 2, 11,11, New York Rangers, 7, 2, 2, 4, 2, 29, 11, 115,17, Detroit Red Wings, 3, 0, 1, 1, 1, 29, 9, 96,False
-1968, 2, 11,20, Oakland Seals, 3, 0, 2, 4, 4, 34, 9, 57,13, Toronto Maple Leafs, 5, 2, 2, 2, 1, 26, 16, 136,True
-1968, 2, 12,25, Los Angeles Kings, 4, 1, 3, 4, 1, 35, 9, 98,13, Toronto Maple Leafs, 4, 1, 3, 5, 2, 15, 18, 134,True
-1968, 2, 14,12, Chicago Black Hawks, 5, 1, 0, 0, 4, 15, 16, 74,7, Boston Bruins, 3, 1, 3, 5, 3, 28, 18, 138,True
-1968, 2, 14,20, Oakland Seals, 4, 1, 4, 6, 5, 23, 8, 51,21, Philadelphia Flyers, 5, 1, 3, 4, 4, 34, 6, 63,True
-1968, 2, 14,22, Pittsburgh Penguins, 4, 1, 2, 6, 2, 24, 4, 34,24, Minnesota North Stars, 7, 1, 2, 3, 3, 25, 10, 51,True
-1968, 2, 14,23, St. Louis Blues, 7, 2, 3, 5, 3, 37, 12, 84,25, Los Angeles Kings, 5, 0, 2, 3, 0, 31, 8, 94,False
-1968, 2, 14,13, Toronto Maple Leafs, 3, 1, 0, 0, 2, 34, 15, 132,1, Montreal Canadiens, 9, 1, 6, 10, 0, 27, 11, 90,False
-1968, 2, 15,17, Detroit Red Wings, 4, 0, 3, 4, 3, 35, 11, 102,1, Montreal Canadiens, 9, 2, 4, 8, 2, 34, 13, 97,False
-1968, 2, 15,24, Minnesota North Stars, 7, 1, 3, 6, 3, 25, 13, 65,11, New York Rangers, 6, 1, 3, 6, 3, 31, 12, 117,False
-1968, 2, 16,25, Los Angeles Kings, 6, 1, 2, 4, 2, 21, 10, 84,21, Philadelphia Flyers, 4, 1, 0, 0, 4, 18, 6, 47,True
-1968, 2, 16,22, Pittsburgh Penguins, 4, 1, 6, 11, 3, 35, 5, 45,23, St. Louis Blues, 6, 1, 2, 3, 2, 33, 11, 80,False
-1968, 2, 17,17, Detroit Red Wings, 3, 1, 0, 0, 1, 29, 9, 96,12, Chicago Black Hawks, 6, 1, 3, 5, 1, 25, 13, 84,False
-1968, 2, 17,24, Minnesota North Stars, 6, 0, 2, 4, 6, 43, 16, 83,23, St. Louis Blues, 6, 2, 3, 2, 1, 29, 10, 76,False
-1968, 2, 17,1, Montreal Canadiens, 9, 2, 2, 2, 0, 27, 11, 90,22, Pittsburgh Penguins, 4, 0, 1, 2, 2, 27, 4, 37,True
-1968, 2, 17,20, Oakland Seals, 4, 1, 4, 6, 0, 11, 0, 18,7, Boston Bruins, 3, 1, 1, 1, 4, 32, 21, 166,True
-1968, 2, 17,13, Toronto Maple Leafs, 2, 0, 2, 4, 3, 34, 16, 132,11, New York Rangers, 6, 2, 6, 12, 2, 29, 10, 119,False
-1968, 2, 18,12, Chicago Black Hawks, 6, 1, 7, 12, 4, 37, 16, 96,17, Detroit Red Wings, 3, 1, 4, 5, 2, 18, 13, 66,True
-1968, 2, 18,25, Los Angeles Kings, 6, 1, 7, 11, 1, 31, 9, 94,7, Boston Bruins, 3, 1, 1, 1, 3, 44, 20, 161,False
-1968, 2, 18,11, New York Rangers, 7, 1, 3, 4, 2, 30, 10, 120,21, Philadelphia Flyers, 4, 1, 1, 0, 2, 29, 9, 75,True
-1968, 2, 21,24, Minnesota North Stars, 5, 1, 2, 4, 3, 14, 12, 69,7, Boston Bruins, 4, 1, 6, 11, 5, 34, 22, 151,True
-1968, 2, 21,11, New York Rangers, 7, 1, 3, 4, 1, 18, 9, 108,1, Montreal Canadiens, 9, 1, 4, 6, 4, 26, 15, 109,False
-1968, 2, 21,20, Oakland Seals, 4, 0, 3, 5, 1, 29, 1, 36,12, Chicago Black Hawks, 7, 2, 7, 11, 1, 32, 13, 91,False
-1968, 2, 21,22, Pittsburgh Penguins, 4, 0, 3, 6, 4, 41, 6, 51,21, Philadelphia Flyers, 4, 2, 2, 2, 3, 45, 10, 91,False
-1968, 2, 21,13, Toronto Maple Leafs, 2, 1, 2, 4, 3, 39, 16, 137,23, St. Louis Blues, 6, 1, 2, 3, 6, 25, 11, 77,False
-1968, 2, 22,17, Detroit Red Wings, 2, 0, 1, 1, 7, 31, 18, 79,7, Boston Bruins, 4, 2, 3, 4, 2, 21, 19, 130,False
-1968, 2, 22,1, Montreal Canadiens, 9, 2, 7, 10, 3, 28, 13, 106,23, St. Louis Blues, 6, 0, 5, 9, 1, 33, 6, 85,True
-1968, 2, 22,21, Philadelphia Flyers, 5, 1, 1, 0, 1, 38, 8, 84,24, Minnesota North Stars, 5, 1, 5, 8, 2, 29, 12, 81,True
-1968, 2, 24,17, Detroit Red Wings, 2, 1, 2, 3, 5, 12, 14, 77,24, Minnesota North Stars, 4, 1, 3, 5, 3, 26, 17, 90,True
-1968, 2, 24,25, Los Angeles Kings, 5, 0, 5, 6, 6, 32, 14, 95,12, Chicago Black Hawks, 7, 2, 1, 1, 6, 34, 8, 87,False
-1968, 2, 24,1, Montreal Canadiens, 9, 1, 2, 4, 1, 17, 11, 95,11, New York Rangers, 7, 1, 2, 3, 7, 34, 20, 133,False
-1968, 2, 24,22, Pittsburgh Penguins, 3, 2, 1, 2, 1, 27, 3, 37,20, Oakland Seals, 4, 0, 0, 0, 1, 29, 1, 36,False
-1968, 2, 24,13, Toronto Maple Leafs, 2, 1, 1, 2, 1, 8, 14, 94,7, Boston Bruins, 5, 1, 3, 5, 2, 39, 19, 148,True
-1968, 2, 25,25, Los Angeles Kings, 5, 1, 3, 6, 3, 31, 11, 94,23, St. Louis Blues, 5, 1, 1, 2, 2, 36, 7, 88,True
-1968, 2, 25,24, Minnesota North Stars, 4, 2, 1, 1, 3, 43, 17, 107,20, Oakland Seals, 5, 0, 3, 4, 1, 30, 1, 37,False
-1968, 2, 25,11, New York Rangers, 8, 2, 6, 11, 1, 23, 14, 122,13, Toronto Maple Leafs, 2, 0, 1, 2, 0, 34, 13, 120,True
-1968, 2, 25,21, Philadelphia Flyers, 6, 2, 7, 13, 3, 37, 10, 83,22, Pittsburgh Penguins, 3, 0, 1, 2, 3, 28, 5, 38,False
-1968, 2, 27,22, Pittsburgh Penguins, 3, 2, 2, 3, 1, 30, 3, 40,7, Boston Bruins, 5, 0, 0, 0, 1, 44, 18, 153,False
-1968, 2, 28,20, Oakland Seals, 5, 1, 3, 5, 3, 37, 3, 44,24, Minnesota North Stars, 3, 1, 3, 6, 3, 31, 17, 95,True
-1968, 2, 28,23, St. Louis Blues, 5, 0, 1, 4, 3, 44, 8, 96,1, Montreal Canadiens, 8, 2, 1, 2, 2, 23, 18, 114,False
-1968, 2, 28,13, Toronto Maple Leafs, 2, 1, 1, 1, 2, 35, 15, 121,12, Chicago Black Hawks, 7, 1, 3, 3, 0, 27, 6, 61,False
-1968, 2, 29,7, Boston Bruins, 5, 0, 5, 8, 3, 37, 20, 146,13, Toronto Maple Leafs, 1, 2, 0, 0, 1, 28, 14, 114,True
-1968, 2, 29,17, Detroit Red Wings, 3, 1, 3, 4, 3, 29, 10, 86,11, New York Rangers, 8, 1, 3, 5, 1, 20, 14, 119,False
-1968, 2, 29,21, Philadelphia Flyers, 5, 0, 1, 1, 2, 32, 9, 78,25, Los Angeles Kings, 5, 2, 4, 7, 2, 21, 10, 84,False
-1968, 3, 2,24, Minnesota North Stars, 2, 1, 3, 4, 7, 38, 20, 87,1, Montreal Canadiens, 9, 1, 3, 5, 6, 37, 19, 121,True
-1968, 3, 2,11, New York Rangers, 8, 2, 4, 6, 2, 27, 10, 123,21, Philadelphia Flyers, 4, 0, 1, 2, 7, 46, 10, 78,True
-1968, 3, 2,22, Pittsburgh Penguins, 3, 1, 3, 6, 5, 31, 7, 41,20, Oakland Seals, 6, 1, 6, 10, 3, 28, 3, 35,False
-1968, 3, 2,23, St. Louis Blues, 4, 1, 3, 6, 3, 22, 8, 74,12, Chicago Black Hawks, 8, 1, 1, 1, 0, 38, 6, 72,False
-1968, 3, 2,13, Toronto Maple Leafs, 1, 0, 1, 0, 4, 18, 17, 140,25, Los Angeles Kings, 6, 2, 3, 6, 1, 34, 9, 97,True
-1968, 3, 3,7, Boston Bruins, 5, 1, 4, 5, 1, 31, 15, 125,23, St. Louis Blues, 4, 1, 3, 4, 3, 37, 8, 89,True
-1968, 3, 3,17, Detroit Red Wings, 2, 0, 2, 4, 4, 36, 11, 93,1, Montreal Canadiens, 8, 2, 2, 3, 3, 23, 19, 123,True
-1968, 3, 3,11, New York Rangers, 8, 1, 4, 5, 0, 18, 8, 114,12, Chicago Black Hawks, 8, 1, 3, 5, 3, 38, 14, 73,True
-1968, 3, 3,21, Philadelphia Flyers, 4, 0, 0, 0, 3, 32, 7, 63,20, Oakland Seals, 7, 2, 6, 9, 6, 44, 6, 51,False
-1968, 3, 5,25, Los Angeles Kings, 6, 1, 2, 4, 5, 28, 13, 91,1, Montreal Canadiens, 7, 1, 2, 4, 3, 30, 16, 114,False
-1968, 3, 6,12, Chicago Black Hawks, 7, 2, 0, 0, 0, 6, 12, 60,7, Boston Bruins, 5, 0, 9, 17, 3, 23, 17, 117,False
-1968, 3, 6,11, New York Rangers, 8, 1, 4, 7, 0, 13, 8, 109,17, Detroit Red Wings, 3, 1, 2, 7, 1, 21, 9, 98,True
-1968, 3, 6,20, Oakland Seals, 8, 0, 1, 3, 0, 17, 1, 40,1, Montreal Canadiens, 7, 2, 6, 7, 2, 26, 15, 110,False
-1968, 3, 6,23, St. Louis Blues, 4, 1, 3, 3, 8, 23, 12, 55,22, Pittsburgh Penguins, 2, 1, 6, 12, 2, 10, 8, 34,True
-1968, 3, 6,13, Toronto Maple Leafs, 2, 0, 8, 8, 4, 54, 13, 146,21, Philadelphia Flyers, 3, 2, 1, 1, 1, 35, 5, 66,True
-1968, 3, 7,25, Los Angeles Kings, 6, 0, 2, 4, 0, 4, 10, 67,20, Oakland Seals, 8, 2, 0, 0, 2, 23, 3, 46,True
-1968, 3, 7,24, Minnesota North Stars, 2, 1, 3, 4, 2, 35, 15, 84,22, Pittsburgh Penguins, 2, 1, 2, 3, 4, 40, 10, 64,False
-1968, 3, 7,21, Philadelphia Flyers, 2, 0, 2, 4, 4, 31, 11, 77,7, Boston Bruins, 6, 2, 5, 10, 3, 31, 17, 125,False
-1968, 3, 9,24, Minnesota North Stars, 2, 1, 2, 4, 2, 26, 15, 75,11, New York Rangers, 9, 1, 6, 10, 1, 22, 9, 109,False
-1968, 3, 9,1, Montreal Canadiens, 7, 2, 2, 1, 0, 22, 16, 107,12, Chicago Black Hawks, 7, 0, 3, 5, 0, 0, 10, 86,True
-1968, 3, 9,22, Pittsburgh Penguins, 3, 0, 2, 4, 2, 29, 8, 53,25, Los Angeles Kings, 6, 2, 9, 16, 2, 18, 12, 81,True
-1968, 3, 9,23, St. Louis Blues, 4, 2, 4, 8, 2, 21, 6, 53,20, Oakland Seals, 7, 0, 1, 4, 5, 30, 9, 54,True
-1968, 3, 9,13, Toronto Maple Leafs, 3, 2, 7, 14, 2, 27, 13, 146,17, Detroit Red Wings, 3, 0, 1, 1, 2, 19, 11, 87,True
-1968, 3, 10,7, Boston Bruins, 7, 2, 2, 3, 3, 19, 13, 137,17, Detroit Red Wings, 3, 0, 5, 9, 6, 38, 12, 92,False
-1968, 3, 10,12, Chicago Black Hawks, 7, 2, 0, 1, 2, 26, 10, 99,13, Toronto Maple Leafs, 4, 0, 7, 9, 0, 0, 16, 152,True
-1968, 3, 10,11, New York Rangers, 9, 1, 1, 0, 1, 31, 8, 132,25, Los Angeles Kings, 5, 1, 1, 2, 3, 40, 13, 103,False
-1968, 3, 10,20, Oakland Seals, 6, 0, 2, 1, 4, 24, 7, 68,23, St. Louis Blues, 5, 2, 3, 5, 1, 29, 5, 61,False
-1968, 3, 10,21, Philadelphia Flyers, 2, 2, 0, 2, 2, 40, 9, 86,24, Minnesota North Stars, 2, 0, 1, 2, 7, 26, 14, 89,True
-1968, 3, 12,25, Los Angeles Kings, 5, 1, 4, 6, 3, 34, 13, 97,17, Detroit Red Wings, 3, 1, 7, 8, 0, 13, 10, 88,False
-1968, 3, 13,12, Chicago Black Hawks, 7, 2, 4, 8, 0, 27, 7, 87,22, Pittsburgh Penguins, 3, 0, 2, 6, 1, 27, 7, 51,True
-1968, 3, 13,24, Minnesota North Stars, 2, 0, 0, 0, 0, 9, 8, 49,21, Philadelphia Flyers, 3, 2, 3, 1, 7, 46, 7, 76,False
-1968, 3, 13,11, New York Rangers, 8, 2, 3, 5, 4, 23, 14, 104,7, Boston Bruins, 7, 0, 5, 6, 5, 16, 13, 93,False
-1968, 3, 13,20, Oakland Seals, 5, 0, 0, 0, 1, 30, 4, 74,17, Detroit Red Wings, 4, 2, 2, 4, 5, 22, 15, 105,False
-1968, 3, 13,23, St. Louis Blues, 5, 1, 1, 2, 0, 16, 4, 48,13, Toronto Maple Leafs, 4, 1, 0, 0, 5, 33, 18, 167,False
-1968, 3, 14,1, Montreal Canadiens, 7, 1, 5, 6, 0, 26, 9, 103,11, New York Rangers, 7, 1, 1, 1, 2, 22, 12, 103,True
-1968, 3, 14,21, Philadelphia Flyers, 4, 0, 4, 7, 0, 13, 2, 26,25, Los Angeles Kings, 4, 2, 2, 4, 2, 23, 12, 86,False
-1968, 3, 15,23, St. Louis Blues, 4, 2, 3, 4, 3, 33, 7, 65,20, Oakland Seals, 5, 0, 2, 4, 3, 44, 7, 76,False
-1968, 3, 16,24, Minnesota North Stars, 2, 2, 2, 2, 4, 20, 10, 53,25, Los Angeles Kings, 5, 0, 0, 0, 0, 20, 10, 83,False
-1968, 3, 16,1, Montreal Canadiens, 7, 2, 3, 6, 5, 35, 10, 103,22, Pittsburgh Penguins, 3, 0, 4, 6, 4, 26, 10, 50,True
-1968, 3, 16,23, St. Louis Blues, 3, 2, 1, 4, 1, 10, 5, 61,17, Detroit Red Wings, 5, 0, 4, 7, 2, 26, 13, 136,False
-1968, 3, 16,13, Toronto Maple Leafs, 5, 1, 3, 5, 3, 30, 13, 166,7, Boston Bruins, 7, 1, 2, 3, 1, 40, 9, 136,True
-1968, 3, 17,7, Boston Bruins, 7, 0, 0, 0, 2, 35, 10, 131,1, Montreal Canadiens, 7, 2, 6, 11, 3, 28, 8, 74,True
-1968, 3, 17,12, Chicago Black Hawks, 7, 2, 4, 6, 3, 13, 11, 102,20, Oakland Seals, 5, 0, 1, 2, 1, 43, 5, 75,True
-1968, 3, 17,24, Minnesota North Stars, 1, 0, 1, 1, 2, 34, 8, 67,17, Detroit Red Wings, 6, 2, 6, 9, 2, 31, 14, 140,True
-1968, 3, 17,11, New York Rangers, 7, 2, 1, 1, 3, 39, 10, 135,22, Pittsburgh Penguins, 3, 0, 4, 6, 5, 53, 11, 77,True
-1968, 3, 17,21, Philadelphia Flyers, 3, 1, 0, 0, 0, 32, 2, 45,13, Toronto Maple Leafs, 6, 1, 3, 5, 3, 32, 13, 156,True
-1968, 3, 20,12, Chicago Black Hawks, 7, 1, 4, 6, 1, 23, 9, 112,11, New York Rangers, 7, 1, 3, 6, 0, 20, 7, 116,False
-1968, 3, 20,25, Los Angeles Kings, 6, 1, 2, 3, 1, 26, 11, 89,24, Minnesota North Stars, 2, 1, 5, 10, 1, 35, 7, 68,False
-1968, 3, 20,1, Montreal Canadiens, 6, 2, 1, 1, 1, 28, 6, 72,13, Toronto Maple Leafs, 5, 0, 1, 7, 1, 9, 17, 135,True
-1968, 3, 20,20, Oakland Seals, 4, 2, 1, 2, 4, 32, 8, 64,21, Philadelphia Flyers, 3, 0, 7, 9, 4, 48, 6, 61,False
-1968, 3, 20,22, Pittsburgh Penguins, 3, 0, 0, 0, 3, 34, 9, 58,23, St. Louis Blues, 3, 2, 3, 4, 1, 29, 10, 88,True
-1968, 3, 21,7, Boston Bruins, 7, 1, 3, 4, 1, 34, 10, 120,12, Chicago Black Hawks, 6, 1, 3, 6, 3, 29, 15, 130,True
-1968, 3, 21,17, Detroit Red Wings, 6, 0, 1, 2, 5, 49, 14, 124,13, Toronto Maple Leafs, 5, 2, 2, 4, 3, 36, 16, 130,False
-1968, 3, 22,25, Los Angeles Kings, 5, 2, 3, 6, 6, 26, 13, 92,23, St. Louis Blues, 3, 0, 2, 4, 3, 36, 12, 95,True
-1968, 3, 23,25, Los Angeles Kings, 5, 2, 6, 9, 3, 29, 8, 99,21, Philadelphia Flyers, 4, 0, 5, 7, 1, 22, 3, 35,True
-1968, 3, 23,24, Minnesota North Stars, 3, 0, 3, 6, 3, 30, 9, 63,22, Pittsburgh Penguins, 4, 2, 4, 7, 2, 19, 8, 43,True
-1968, 3, 23,1, Montreal Canadiens, 7, 1, 3, 3, 1, 2, 7, 72,17, Detroit Red Wings, 5, 1, 2, 4, 3, 30, 14, 118,True
-1968, 3, 23,20, Oakland Seals, 3, 1, 1, 1, 4, 32, 9, 59,23, St. Louis Blues, 3, 1, 1, 1, 5, 27, 9, 62,False
-1968, 3, 23,13, Toronto Maple Leafs, 6, 0, 5, 8, 2, 38, 14, 129,11, New York Rangers, 7, 2, 5, 8, 3, 51, 9, 143,True
-1968, 3, 24,12, Chicago Black Hawks, 5, 0, 0, 0, 5, 23, 15, 91,1, Montreal Canadiens, 7, 2, 7, 10, 4, 29, 9, 90,False
-1968, 3, 24,17, Detroit Red Wings, 5, 1, 4, 7, 5, 27, 18, 124,7, Boston Bruins, 8, 1, 8, 16, 0, 21, 12, 124,True
-1968, 3, 24,11, New York Rangers, 6, 1, 1, 2, 3, 34, 9, 126,13, Toronto Maple Leafs, 7, 1, 3, 3, 1, 34, 13, 125,True
-1968, 3, 24,22, Pittsburgh Penguins, 3, 1, 0, 0, 2, 35, 8, 59,24, Minnesota North Stars, 4, 1, 3, 4, 0, 31, 6, 64,False
-1968, 3, 26,25, Los Angeles Kings, 6, 1, 4, 5, 2, 26, 7, 96,22, Pittsburgh Penguins, 3, 1, 4, 8, 6, 24, 10, 50,False
-1968, 3, 27,25, Los Angeles Kings, 6, 1, 1, 2, 2, 17, 7, 87,24, Minnesota North Stars, 5, 1, 4, 4, 4, 34, 10, 67,False
-1968, 3, 27,20, Oakland Seals, 2, 2, 3, 5, 3, 23, 8, 50,22, Pittsburgh Penguins, 4, 0, 2, 4, 1, 42, 5, 68,False
-1968, 3, 27,23, St. Louis Blues, 4, 1, 3, 6, 3, 26, 7, 61,21, Philadelphia Flyers, 4, 1, 2, 4, 2, 13, 6, 52,True
-1968, 3, 27,13, Toronto Maple Leafs, 6, 0, 2, 2, 0, 3, 18, 133,1, Montreal Canadiens, 8, 2, 7, 12, 2, 28, 11, 93,True
-1968, 3, 28,7, Boston Bruins, 7, 1, 3, 3, 5, 30, 17, 133,11, New York Rangers, 6, 1, 4, 5, 2, 24, 11, 115,False
-1968, 3, 28,17, Detroit Red Wings, 5, 0, 5, 6, 3, 27, 18, 115,12, Chicago Black Hawks, 4, 2, 2, 4, 7, 31, 14, 90,True
-1968, 3, 28,21, Philadelphia Flyers, 4, 1, 0, 2, 3, 33, 7, 72,23, St. Louis Blues, 5, 1, 3, 6, 0, 17, 4, 52,True
-1968, 3, 30,17, Detroit Red Wings, 6, 0, 3, 4, 1, 19, 16, 107,11, New York Rangers, 6, 2, 5, 7, 4, 28, 13, 119,False
-1968, 3, 30,1, Montreal Canadiens, 8, 1, 0, 1, 6, 39, 15, 104,7, Boston Bruins, 6, 1, 4, 7, 1, 20, 17, 121,False
-1968, 3, 30,20, Oakland Seals, 1, 1, 4, 8, 7, 27, 12, 54,25, Los Angeles Kings, 5, 1, 3, 6, 1, 33, 9, 95,False
-1968, 3, 30,21, Philadelphia Flyers, 5, 1, 2, 4, 0, 26, 4, 65,22, Pittsburgh Penguins, 5, 1, 7, 12, 4, 29, 8, 55,False
-1968, 3, 30,23, St. Louis Blues, 4, 2, 0, 0, 2, 29, 6, 64,24, Minnesota North Stars, 5, 0, 5, 9, 3, 30, 9, 63,True
-1968, 3, 30,13, Toronto Maple Leafs, 6, 0, 6, 11, 0, 26, 18, 156,12, Chicago Black Hawks, 3, 2, 1, 2, 3, 11, 12, 95,True
-1968, 3, 31,7, Boston Bruins, 6, 1, 2, 4, 1, 24, 17, 125,13, Toronto Maple Leafs, 6, 1, 3, 4, 4, 43, 18, 164,False
-1968, 3, 31,12, Chicago Black Hawks, 3, 1, 0, 0, 3, 27, 12, 111,17, Detroit Red Wings, 6, 1, 1, 2, 3, 27, 18, 115,False
-1968, 3, 31,24, Minnesota North Stars, 5, 0, 2, 5, 3, 42, 9, 75,23, St. Louis Blues, 4, 2, 3, 4, 2, 24, 6, 59,False
-1968, 3, 31,11, New York Rangers, 6, 1, 3, 5, 1, 28, 12, 114,1, Montreal Canadiens, 7, 1, 1, 1, 2, 30, 6, 106,True
-1968, 3, 31,22, Pittsburgh Penguins, 5, 2, 2, 2, 4, 26, 4, 49,21, Philadelphia Flyers, 5, 0, 0, 0, 1, 22, 5, 61,True
+Year,Month,Day,Home_ID,Home_name,Home_wins_last10,Home_wins_VERSUS_last2,Home_goals_lastGame,Home_assists_lastGame,Home_GA_startingGoalie,Home_SA_startingGoalie,Home_GA_allGoalies,Home_SA_allGoalies,Away_ID,Away_name,Away_wins_last10,Away_wins_VERSUS_last2,Away_goals_lastGame,Away_assists_lastGame,Away_GA_startingGoalie,Away_SA_startingGoalie,Away_GA_allGoalies,Away_SA_allGoalies,Home_Won
+1967,10,11,6,Boston Bruins,2,2,2,3,3,28,14,115,16,Detroit Red Wings,3,0,3,4,6,21,13,103,False
+1967,10,11,11,Chicago Black Hawks,5,1,2,8,4,33,7,100,10,New York Rangers,4,1,0,1,6,22,13,61,False
+1967,10,11,19,Oakland Seals,0,0,0,0,5,34,5,34,23,Philadelphia Flyers,0,0,3,3,2,38,2,38,True
+1967,10,11,20,Pittsburgh Penguins,0,0,0,0,3,41,3,41,0,Montreal Canadiens,10,0,3,5,2,30,8,80,False
+1967,10,11,21,St. Louis Blues,0,0,2,0,0,0,0,0,24,Minnesota North Stars,0,0,0,4,4,24,4,24,False
+1967,10,13,21,St. Louis Blues,0,0,2,3,2,34,2,34,20,Pittsburgh Penguins,0,0,1,2,2,39,2,39,False
+1967,10,14,22,Los Angeles Kings,0,0,0,0,0,0,0,0,23,Philadelphia Flyers,0,0,1,2,0,0,5,33,True
+1967,10,14,0,Montreal Canadiens,10,2,2,1,1,36,5,89,16,Detroit Red Wings,4,0,4,4,3,22,5,80,True
+1967,10,14,19,Oakland Seals,1,0,5,10,1,25,1,25,24,Minnesota North Stars,1,0,2,2,2,11,4,38,True
+1967,10,14,20,Pittsburgh Penguins,1,1,3,4,1,38,1,38,21,St. Louis Blues,0,0,1,2,3,35,3,35,False
+1967,10,14,13,Toronto Maple Leafs,6,1,5,7,1,38,16,141,11,Chicago Black Hawks,4,1,3,5,6,41,9,108,True
+1967,10,15,6,Boston Bruins,2,0,4,7,4,34,18,116,0,Montreal Canadiens,10,2,6,7,2,23,5,71,True
+1967,10,15,11,Chicago Black Hawks,3,0,1,2,5,32,8,99,13,Toronto Maple Leafs,7,2,5,9,1,32,16,135,False
+1967,10,15,16,Detroit Red Wings,3,1,2,4,1,10,10,66,10,New York Rangers,5,1,6,10,3,32,14,98,True
+1967,10,15,22,Los Angeles Kings,1,0,4,6,2,16,2,16,24,Minnesota North Stars,1,0,0,0,2,27,8,65,True
+1967,10,18,11,Chicago Black Hawks,3,2,3,5,0,33,7,104,6,Boston Bruins,2,0,6,11,2,27,16,109,False
+1967,10,18,10,New York Rangers,5,0,2,3,3,35,9,67,0,Montreal Canadiens,9,2,2,3,1,1,11,88,False
+1967,10,18,19,Oakland Seals,2,0,6,10,0,20,0,20,22,Los Angeles Kings,2,0,5,8,3,20,3,20,False
+1967,10,18,20,Pittsburgh Penguins,1,0,2,3,0,0,4,41,24,Minnesota North Stars,1,0,3,6,1,4,5,41,False
+1967,10,18,21,St. Louis Blues,1,0,4,4,3,34,5,65,23,Philadelphia Flyers,0,0,2,2,3,37,8,70,False
+1967,10,18,13,Toronto Maple Leafs,7,1,5,6,3,38,18,141,16,Detroit Red Wings,4,1,3,6,2,27,11,83,False
+1967,10,19,16,Detroit Red Wings,5,1,3,4,2,30,11,86,6,Boston Bruins,3,1,7,8,1,19,15,101,False
+1967,10,19,0,Montreal Canadiens,9,2,1,4,2,28,11,98,13,Toronto Maple Leafs,6,0,2,4,3,36,18,139,True
+1967,10,19,23,Philadelphia Flyers,1,0,2,3,1,35,6,68,20,Pittsburgh Penguins,1,0,3,5,3,31,7,72,True
+1967,10,21,24,Minnesota North Stars,2,0,4,4,2,29,3,45,19,Oakland Seals,2,1,2,3,2,24,2,24,True
+1967,10,21,0,Montreal Canadiens,9,1,1,0,6,30,10,114,6,Boston Bruins,3,1,6,10,3,31,17,113,True
+1967,10,21,20,Pittsburgh Penguins,1,0,0,0,1,22,5,63,11,Chicago Black Hawks,3,0,1,2,7,36,13,94,True
+1967,10,21,21,St. Louis Blues,1,0,1,2,2,21,2,30,22,Los Angeles Kings,3,0,1,2,2,27,2,27,False
+1967,10,21,13,Toronto Maple Leafs,6,1,0,0,1,27,16,130,10,New York Rangers,5,1,2,4,2,25,8,75,False
+1967,10,22,11,Chicago Black Hawks,3,0,2,2,4,43,11,116,22,Los Angeles Kings,4,0,4,5,1,6,4,42,False
+1967,10,22,16,Detroit Red Wings,4,0,3,6,5,15,15,87,21,St. Louis Blues,1,0,3,5,3,36,3,45,True
+1967,10,22,10,New York Rangers,5,0,5,9,3,30,9,80,20,Pittsburgh Penguins,2,0,4,7,2,33,6,74,True
+1967,10,22,23,Philadelphia Flyers,2,0,1,2,0,17,5,50,19,Oakland Seals,2,1,1,2,3,53,3,53,True
+1967,10,25,24,Minnesota North Stars,3,1,3,5,1,16,2,38,21,St. Louis Blues,1,0,0,0,1,33,1,42,True
+1967,10,25,10,New York Rangers,5,1,6,8,4,26,10,76,11,Chicago Black Hawks,3,1,3,5,5,29,12,96,False
+1967,10,25,20,Pittsburgh Penguins,2,0,4,6,4,41,10,92,19,Oakland Seals,2,0,2,2,5,31,5,31,True
+1967,10,25,13,Toronto Maple Leafs,5,0,3,4,5,35,22,178,22,Los Angeles Kings,5,0,5,8,3,42,6,78,True
+1967,10,26,6,Boston Bruins,3,0,2,2,4,25,18,107,22,Los Angeles Kings,5,0,2,2,3,36,7,70,True
+1967,10,26,16,Detroit Red Wings,5,0,1,2,0,30,7,86,19,Oakland Seals,2,0,1,1,4,39,4,39,True
+1967,10,26,0,Montreal Canadiens,9,2,5,5,2,34,12,112,10,New York Rangers,5,0,2,3,2,27,8,77,False
+1967,10,28,24,Minnesota North Stars,4,0,3,4,1,22,3,43,11,Chicago Black Hawks,3,0,3,4,2,30,9,97,False
+1967,10,28,0,Montreal Canadiens,8,0,1,3,1,23,10,92,21,St. Louis Blues,1,0,2,4,0,9,3,39,True
+1967,10,28,23,Philadelphia Flyers,3,0,5,7,2,30,7,63,16,Detroit Red Wings,5,0,8,16,2,25,9,81,False
+1967,10,28,20,Pittsburgh Penguins,3,0,4,3,1,25,7,76,22,Los Angeles Kings,5,0,0,0,4,34,6,74,False
+1967,10,28,13,Toronto Maple Leafs,5,0,4,7,2,31,19,175,19,Oakland Seals,2,0,2,3,8,42,8,42,True
+1967,10,29,6,Boston Bruins,4,0,2,4,0,26,14,108,20,Pittsburgh Penguins,3,0,3,5,6,51,11,81,True
+1967,10,29,16,Detroit Red Wings,6,1,3,6,1,21,12,82,11,Chicago Black Hawks,3,1,4,7,2,26,9,93,True
+1967,10,29,10,New York Rangers,5,1,0,1,1,31,9,70,13,Toronto Maple Leafs,6,1,5,8,5,39,19,173,True
+1967,10,29,23,Philadelphia Flyers,3,1,1,2,3,36,8,69,19,Oakland Seals,2,1,2,2,5,48,5,48,False
+1967,10,31,22,Los Angeles Kings,6,0,5,3,3,43,5,83,10,New York Rangers,5,0,3,8,2,30,10,69,False
+1967,11,1,24,Minnesota North Stars,4,1,2,4,1,12,4,23,20,Pittsburgh Penguins,3,0,2,5,4,39,9,69,False
+1967,11,1,19,Oakland Seals,3,0,2,4,2,19,2,19,10,New York Rangers,6,0,6,9,1,27,9,66,False
+1967,11,1,21,St. Louis Blues,1,0,1,2,3,30,7,57,6,Boston Bruins,5,0,4,4,2,22,16,104,True
+1967,11,1,13,Toronto Maple Leafs,6,0,2,4,3,36,20,154,0,Montreal Canadiens,8,2,4,8,1,29,7,90,True
+1967,11,2,16,Detroit Red Wings,7,1,5,8,1,23,12,84,13,Toronto Maple Leafs,6,1,4,6,2,29,17,158,False
+1967,11,2,22,Los Angeles Kings,6,1,1,0,6,27,8,67,11,Chicago Black Hawks,3,0,1,2,4,34,6,75,False
+1967,11,2,23,Philadelphia Flyers,3,0,2,4,2,18,7,51,24,Minnesota North Stars,4,0,1,2,3,11,7,32,False
+1967,11,4,24,Minnesota North Stars,5,0,3,6,1,29,5,50,22,Los Angeles Kings,6,1,1,2,3,14,3,17,False
+1967,11,4,0,Montreal Canadiens,7,0,0,1,3,24,11,76,23,Philadelphia Flyers,3,0,1,2,5,33,8,63,False
+1967,11,4,19,Oakland Seals,3,0,0,0,2,25,2,25,20,Pittsburgh Penguins,4,1,4,4,1,27,6,57,False
+1967,11,4,21,St. Louis Blues,2,0,4,9,4,27,5,58,16,Detroit Red Wings,7,1,3,5,9,36,20,97,True
+1967,11,4,13,Toronto Maple Leafs,6,0,9,16,3,29,14,170,10,New York Rangers,7,2,2,3,0,16,7,69,True
+1967,11,5,6,Boston Bruins,5,0,1,2,5,42,15,125,13,Toronto Maple Leafs,6,2,4,5,0,40,13,177,False
+1967,11,5,16,Detroit Red Wings,6,0,2,5,3,27,14,88,22,Los Angeles Kings,6,0,2,3,0,3,2,42,False
+1967,11,5,19,Oakland Seals,2,0,0,0,1,24,1,24,11,Chicago Black Hawks,3,0,3,6,1,28,3,69,False
+1967,11,5,23,Philadelphia Flyers,4,1,4,6,1,34,4,64,0,Montreal Canadiens,6,0,1,2,2,6,12,79,False
+1967,11,7,22,Los Angeles Kings,6,1,6,11,4,34,6,73,19,Oakland Seals,1,0,2,4,2,33,2,33,True
+1967,11,8,11,Chicago Black Hawks,4,0,2,3,2,18,4,59,0,Montreal Canadiens,6,2,1,2,1,23,14,91,True
+1967,11,8,24,Minnesota North Stars,5,2,2,4,2,25,6,46,21,St. Louis Blues,3,0,3,3,1,31,3,65,True
+1967,11,8,10,New York Rangers,6,2,2,4,4,36,10,89,6,Boston Bruins,5,0,2,3,2,41,12,121,False
+1967,11,8,19,Oakland Seals,1,0,3,6,5,28,5,28,13,Toronto Maple Leafs,6,1,2,2,2,37,15,174,False
+1967,11,8,20,Pittsburgh Penguins,4,0,1,0,0,31,5,61,23,Philadelphia Flyers,4,1,1,2,1,31,4,61,False
+1967,11,9,16,Detroit Red Wings,6,0,4,6,0,0,17,102,20,Pittsburgh Penguins,4,0,1,2,1,34,6,64,True
+1967,11,9,22,Los Angeles Kings,6,0,5,9,4,32,6,71,13,Toronto Maple Leafs,7,1,6,8,1,39,14,176,True
+1967,11,11,6,Boston Bruins,6,0,6,8,3,39,13,130,19,Oakland Seals,1,0,2,1,6,28,6,28,True
+1967,11,11,24,Minnesota North Stars,5,0,5,9,1,25,5,46,13,Toronto Maple Leafs,7,0,1,2,2,36,16,167,True
+1967,11,11,0,Montreal Canadiens,5,1,2,2,4,19,13,91,11,Chicago Black Hawks,5,1,3,5,2,30,8,66,False
+1967,11,11,20,Pittsburgh Penguins,4,1,1,2,5,32,10,62,21,St. Louis Blues,3,1,2,3,2,34,7,60,False
+1967,11,12,6,Boston Bruins,7,0,2,4,1,19,11,110,23,Philadelphia Flyers,5,0,1,1,1,42,4,72,False
+1967,11,12,11,Chicago Black Hawks,6,0,3,3,3,30,9,66,21,St. Louis Blues,4,0,5,5,5,26,6,57,True
+1967,11,12,16,Detroit Red Wings,6,0,5,8,1,20,18,122,0,Montreal Canadiens,5,2,3,5,3,31,12,103,True
+1967,11,12,10,New York Rangers,6,1,4,6,6,31,12,73,19,Oakland Seals,1,0,1,3,4,27,6,57,True
+1967,11,15,24,Minnesota North Stars,6,0,2,2,1,14,5,35,0,Montreal Canadiens,4,0,1,2,3,21,14,90,False
+1967,11,15,19,Oakland Seals,1,0,3,4,4,15,5,42,22,Los Angeles Kings,6,2,3,5,2,39,3,77,True
+1967,11,15,20,Pittsburgh Penguins,4,0,1,2,5,30,10,68,23,Philadelphia Flyers,6,2,4,5,2,39,5,69,True
+1967,11,15,21,St. Louis Blues,3,0,2,4,5,28,6,59,11,Chicago Black Hawks,7,1,5,10,2,24,8,62,False
+1967,11,15,13,Toronto Maple Leafs,7,2,1,1,3,30,14,153,6,Boston Bruins,6,0,2,2,5,28,17,109,True
+1967,11,16,19,Oakland Seals,2,0,4,6,1,27,2,46,16,Detroit Red Wings,6,1,3,5,1,37,13,136,False
+1967,11,16,23,Philadelphia Flyers,5,0,0,0,3,30,8,71,10,New York Rangers,7,0,5,10,3,21,13,72,True
+1967,11,17,22,Los Angeles Kings,5,1,2,0,3,25,4,63,16,Detroit Red Wings,7,0,1,2,1,18,13,117,False
+1967,11,18,6,Boston Bruins,5,1,2,4,1,23,13,96,10,New York Rangers,6,1,2,4,3,18,13,69,True
+1967,11,18,24,Minnesota North Stars,6,1,1,2,4,21,9,44,23,Philadelphia Flyers,5,0,3,5,2,32,7,73,False
+1967,11,18,19,Oakland Seals,2,0,1,2,1,19,2,40,0,Montreal Canadiens,4,0,5,10,1,15,7,89,True
+1967,11,18,21,St. Louis Blues,3,2,1,2,1,31,5,70,20,Pittsburgh Penguins,4,0,5,9,0,27,5,65,False
+1967,11,18,13,Toronto Maple Leafs,7,2,4,6,2,31,14,147,11,Chicago Black Hawks,8,0,4,7,1,27,6,76,False
+1967,11,19,6,Boston Bruins,5,0,3,4,1,33,13,106,13,Toronto Maple Leafs,6,2,2,2,2,37,14,153,True
+1967,11,19,11,Chicago Black Hawks,9,1,2,3,2,32,7,81,16,Detroit Red Wings,7,1,4,7,1,31,16,128,False
+1967,11,19,22,Los Angeles Kings,5,0,1,2,1,38,5,62,0,Montreal Canadiens,3,0,1,2,3,33,8,100,True
+1967,11,19,10,New York Rangers,5,0,1,2,2,28,12,79,24,Minnesota North Stars,5,0,2,4,5,23,7,45,True
+1967,11,19,23,Philadelphia Flyers,5,1,2,4,5,41,7,66,21,St. Louis Blues,3,0,3,6,4,39,8,74,True
+1967,11,22,22,Los Angeles Kings,6,1,4,8,2,24,6,48,19,Oakland Seals,2,1,2,4,1,28,2,49,True
+1967,11,22,10,New York Rangers,6,1,5,9,2,30,12,114,11,Chicago Black Hawks,8,1,2,4,2,25,6,64,False
+1967,11,22,23,Philadelphia Flyers,6,0,3,5,2,15,4,40,16,Detroit Red Wings,7,1,2,3,2,24,17,121,True
+1967,11,22,20,Pittsburgh Penguins,5,0,5,9,5,38,8,63,6,Boston Bruins,6,1,6,12,2,23,11,87,True
+1967,11,22,21,St. Louis Blues,3,0,2,2,3,29,7,64,0,Montreal Canadiens,3,1,2,3,2,17,11,90,False
+1967,11,22,13,Toronto Maple Leafs,6,0,2,3,3,26,16,136,24,Minnesota North Stars,4,1,2,2,5,56,7,78,True
+1967,11,23,6,Boston Bruins,5,2,1,2,4,39,13,103,10,New York Rangers,5,0,1,2,1,6,15,96,True
+1967,11,23,11,Chicago Black Hawks,8,2,7,8,1,27,5,74,0,Montreal Canadiens,3,0,3,2,1,29,10,102,False
+1967,11,24,22,Los Angeles Kings,6,1,3,5,1,16,5,40,20,Pittsburgh Penguins,5,0,4,7,1,32,4,57,True
+1967,11,25,24,Minnesota North Stars,3,0,0,0,2,22,5,63,11,Chicago Black Hawks,8,1,0,0,7,32,11,79,False
+1967,11,25,0,Montreal Canadiens,4,1,7,11,0,15,11,98,6,Boston Bruins,5,1,4,8,2,23,11,87,False
+1967,11,25,19,Oakland Seals,2,0,1,0,3,28,4,49,20,Pittsburgh Penguins,5,2,3,5,3,25,8,53,False
+1967,11,25,21,St. Louis Blues,3,0,1,2,4,35,7,72,23,Philadelphia Flyers,7,2,4,6,2,32,4,57,False
+1967,11,25,13,Toronto Maple Leafs,6,1,3,5,0,33,13,143,16,Detroit Red Wings,6,1,2,4,4,26,18,128,True
+1967,11,26,6,Boston Bruins,6,1,3,5,1,17,9,91,16,Detroit Red Wings,5,1,2,3,6,31,17,137,True
+1967,11,26,11,Chicago Black Hawks,8,2,4,7,1,18,5,65,24,Minnesota North Stars,3,0,1,2,3,41,7,73,True
+1967,11,26,10,New York Rangers,4,0,2,4,4,47,17,127,21,St. Louis Blues,3,0,1,2,2,23,5,60,True
+1967,11,26,23,Philadelphia Flyers,8,0,2,4,1,42,3,67,22,Los Angeles Kings,7,1,5,9,3,26,7,50,True
+1967,11,29,6,Boston Bruins,7,0,6,12,5,23,14,82,24,Minnesota North Stars,3,0,1,2,2,31,2,34,True
+1967,11,29,11,Chicago Black Hawks,8,0,2,4,1,28,5,75,23,Philadelphia Flyers,8,0,7,13,2,27,4,52,True
+1967,11,29,10,New York Rangers,4,1,1,1,0,35,16,120,16,Detroit Red Wings,5,1,5,10,3,35,18,142,False
+1967,11,29,20,Pittsburgh Penguins,6,2,2,2,5,28,7,58,19,Oakland Seals,2,0,2,5,2,22,3,43,True
+1967,11,29,21,St. Louis Blues,2,0,0,0,1,37,4,74,22,Los Angeles Kings,7,1,2,4,2,11,7,32,True
+1967,11,29,13,Toronto Maple Leafs,6,1,4,8,3,30,14,153,0,Montreal Canadiens,4,1,1,1,3,26,13,84,True
+1967,11,30,16,Detroit Red Wings,6,0,3,6,1,24,16,131,13,Toronto Maple Leafs,6,2,2,4,2,36,12,157,False
+1967,11,30,0,Montreal Canadiens,3,1,1,2,2,31,12,89,24,Minnesota North Stars,2,0,1,1,0,3,5,39,False
+1967,11,30,23,Philadelphia Flyers,8,1,1,3,2,29,4,54,19,Oakland Seals,2,1,1,1,6,32,7,53,False
+1967,12,2,6,Boston Bruins,7,1,6,11,1,22,11,86,11,Chicago Black Hawks,8,1,3,6,1,24,5,71,False
+1967,12,2,0,Montreal Canadiens,3,0,1,1,1,27,7,96,22,Los Angeles Kings,6,1,2,2,5,21,8,52,False
+1967,12,2,20,Pittsburgh Penguins,6,0,6,11,2,30,3,63,10,New York Rangers,3,1,1,2,6,21,19,118,False
+1967,12,2,21,St. Louis Blues,2,0,3,5,2,29,5,66,24,Minnesota North Stars,3,2,1,1,1,28,6,64,False
+1967,12,2,13,Toronto Maple Leafs,6,2,3,6,1,34,11,141,19,Oakland Seals,3,0,3,4,1,18,2,39,True
+1967,12,3,6,Boston Bruins,6,1,4,6,4,21,14,85,0,Montreal Canadiens,3,1,2,4,2,11,7,99,True
+1967,12,3,11,Chicago Black Hawks,8,2,4,7,1,10,8,87,24,Minnesota North Stars,3,0,5,7,1,22,6,58,False
+1967,12,3,16,Detroit Red Wings,6,1,3,5,3,31,13,110,20,Pittsburgh Penguins,5,0,1,2,1,33,5,69,True
+1967,12,3,10,New York Rangers,4,1,4,6,1,31,14,128,22,Los Angeles Kings,6,0,3,4,1,23,2,32,True
+1967,12,3,23,Philadelphia Flyers,7,2,1,2,3,32,5,57,21,St. Louis Blues,2,0,1,2,3,37,8,69,True
+1967,12,6,11,Chicago Black Hawks,7,0,3,6,3,6,8,56,20,Pittsburgh Penguins,5,1,1,1,6,40,10,76,True
+1967,12,6,22,Los Angeles Kings,5,1,2,2,4,35,5,44,21,St. Louis Blues,1,1,2,4,4,29,9,61,True
+1967,12,6,24,Minnesota North Stars,3,1,4,4,3,31,8,67,13,Toronto Maple Leafs,6,1,3,6,0,38,10,145,False
+1967,12,6,10,New York Rangers,5,0,4,7,2,31,15,128,16,Detroit Red Wings,6,2,6,10,1,29,10,85,False
+1967,12,6,19,Oakland Seals,3,2,0,0,3,49,4,70,23,Philadelphia Flyers,7,0,4,4,2,25,4,59,True
+1967,12,7,6,Boston Bruins,7,2,5,6,3,33,12,99,10,New York Rangers,4,0,3,4,3,34,16,131,True
+1967,12,7,0,Montreal Canadiens,3,1,3,5,1,17,8,84,16,Detroit Red Wings,6,1,3,5,3,37,12,93,False
+1967,12,8,22,Los Angeles Kings,5,1,3,5,2,24,3,33,23,Philadelphia Flyers,7,1,2,3,4,37,6,71,False
+1967,12,9,16,Detroit Red Wings,6,2,2,3,2,28,11,84,10,New York Rangers,4,0,1,1,3,28,16,125,True
+1967,12,9,24,Minnesota North Stars,3,1,1,2,1,18,6,54,20,Pittsburgh Penguins,5,1,2,3,4,20,7,33,False
+1967,12,9,0,Montreal Canadiens,2,1,2,2,2,27,11,103,11,Chicago Black Hawks,7,1,7,12,2,21,6,67,False
+1967,12,9,19,Oakland Seals,4,0,4,4,2,22,3,43,21,St. Louis Blues,1,0,2,2,3,25,8,57,False
+1967,12,9,13,Toronto Maple Leafs,7,1,1,2,1,30,11,137,6,Boston Bruins,8,1,3,5,1,22,10,88,False
+1967,12,10,6,Boston Bruins,8,1,3,4,3,36,12,102,22,Los Angeles Kings,5,0,0,0,3,19,4,28,False
+1967,12,10,10,New York Rangers,4,1,2,3,3,41,16,138,0,Montreal Canadiens,2,1,2,2,2,14,10,89,True
+1967,12,10,23,Philadelphia Flyers,7,0,3,6,0,24,2,58,11,Chicago Black Hawks,7,1,2,3,2,39,3,90,False
+1967,12,10,20,Pittsburgh Penguins,6,2,3,5,1,12,2,18,24,Minnesota North Stars,3,0,2,3,5,36,8,63,False
+1967,12,10,21,St. Louis Blues,2,0,1,0,0,30,5,62,13,Toronto Maple Leafs,7,0,3,4,3,42,13,144,True
+1967,12,13,6,Boston Bruins,7,2,1,1,3,11,12,99,0,Montreal Canadiens,2,0,2,3,3,26,11,101,False
+1967,12,13,11,Chicago Black Hawks,8,2,3,5,0,30,2,82,10,New York Rangers,4,0,3,4,2,31,14,134,True
+1967,12,13,24,Minnesota North Stars,4,0,7,10,4,42,7,69,22,Los Angeles Kings,6,2,3,5,1,23,2,32,True
+1967,12,13,21,St. Louis Blues,3,1,2,3,1,31,6,63,19,Oakland Seals,4,0,0,0,1,21,2,42,True
+1967,12,13,13,Toronto Maple Leafs,6,0,1,2,3,37,12,134,20,Pittsburgh Penguins,5,0,4,6,5,18,7,33,False
+1967,12,14,16,Detroit Red Wings,6,2,3,5,2,28,10,86,11,Chicago Black Hawks,8,0,5,10,2,38,4,83,False
+1967,12,14,23,Philadelphia Flyers,6,2,0,1,2,34,5,69,21,St. Louis Blues,4,0,3,6,1,24,6,56,False
+1967,12,15,22,Los Angeles Kings,5,1,0,0,4,30,5,39,24,Minnesota North Stars,5,1,4,7,0,27,3,54,False
+1967,12,15,19,Oakland Seals,3,0,0,2,3,33,4,54,6,Boston Bruins,7,1,2,6,6,45,15,131,True
+1967,12,16,22,Los Angeles Kings,4,1,0,0,2,17,3,26,6,Boston Bruins,6,1,1,2,3,33,13,108,False
+1967,12,16,0,Montreal Canadiens,2,0,5,11,2,25,10,100,16,Detroit Red Wings,5,2,1,2,3,26,11,84,True
+1967,12,16,19,Oakland Seals,4,1,4,7,1,21,2,42,24,Minnesota North Stars,6,1,3,4,0,23,3,50,False
+1967,12,16,20,Pittsburgh Penguins,5,1,2,3,1,31,3,46,11,Chicago Black Hawks,9,1,3,4,1,24,4,76,False
+1967,12,16,21,St. Louis Blues,5,1,2,2,2,31,7,63,23,Philadelphia Flyers,5,1,2,3,2,32,5,67,False
+1967,12,16,13,Toronto Maple Leafs,6,1,1,1,2,30,11,127,10,New York Rangers,4,1,2,3,5,32,13,121,True
+1967,12,17,11,Chicago Black Hawks,9,1,1,2,1,29,3,67,13,Toronto Maple Leafs,7,1,4,7,2,37,11,134,True
+1967,12,17,16,Detroit Red Wings,5,1,3,5,4,26,12,84,0,Montreal Canadiens,2,1,4,8,3,25,11,92,True
+1967,12,17,10,New York Rangers,4,1,2,4,4,48,12,137,21,St. Louis Blues,5,0,0,0,5,32,6,49,True
+1967,12,17,23,Philadelphia Flyers,5,1,1,2,0,26,3,61,20,Pittsburgh Penguins,4,1,1,1,1,26,3,41,True
+1967,12,19,22,Los Angeles Kings,3,1,2,4,5,19,6,28,19,Oakland Seals,3,1,1,0,1,21,2,34,True
+1967,12,20,11,Chicago Black Hawks,9,1,2,2,0,29,2,67,6,Boston Bruins,6,1,5,10,4,22,11,106,True
+1967,12,20,0,Montreal Canadiens,2,0,6,10,6,25,12,79,13,Toronto Maple Leafs,6,2,0,0,1,32,11,136,True
+1967,12,20,10,New York Rangers,4,0,5,7,3,24,11,113,16,Detroit Red Wings,6,2,8,10,6,25,14,83,True
+1967,12,20,19,Oakland Seals,3,0,1,0,1,13,3,41,21,St. Louis Blues,5,2,3,6,1,17,6,53,False
+1967,12,21,22,Los Angeles Kings,4,2,3,5,1,20,2,29,20,Pittsburgh Penguins,4,0,0,2,2,22,4,37,True
+1967,12,21,23,Philadelphia Flyers,5,1,2,4,1,37,4,72,24,Minnesota North Stars,7,1,1,1,0,28,3,55,True
+1967,12,23,11,Chicago Black Hawks,9,2,6,9,3,21,5,66,23,Philadelphia Flyers,5,0,6,12,0,31,3,66,True
+1967,12,23,22,Los Angeles Kings,5,1,4,8,1,21,2,30,21,St. Louis Blues,5,1,2,2,1,24,6,60,True
+1967,12,23,0,Montreal Canadiens,3,0,5,9,0,27,7,91,19,Oakland Seals,3,1,1,2,2,23,4,51,True
+1967,12,23,10,New York Rangers,5,0,2,2,0,27,14,127,6,Boston Bruins,5,2,3,5,0,0,15,107,False
+1967,12,23,20,Pittsburgh Penguins,3,1,1,1,4,25,6,40,24,Minnesota North Stars,7,1,0,0,3,27,9,66,True
+1967,12,23,13,Toronto Maple Leafs,5,2,0,0,1,11,13,106,16,Detroit Red Wings,6,0,0,0,1,23,9,81,True
+1967,12,25,6,Boston Bruins,5,1,4,6,0,41,15,148,19,Oakland Seals,3,1,2,4,2,28,6,56,True
+1967,12,25,11,Chicago Black Hawks,9,1,3,5,2,28,7,69,0,Montreal Canadiens,4,1,5,8,2,33,12,117,True
+1967,12,25,16,Detroit Red Wings,5,0,1,4,5,40,13,98,13,Toronto Maple Leafs,5,2,5,9,3,39,19,151,False
+1967,12,25,24,Minnesota North Stars,6,2,0,0,4,42,10,81,21,St. Louis Blues,5,0,0,0,0,6,4,26,False
+1967,12,25,23,Philadelphia Flyers,5,1,2,3,3,28,6,63,10,New York Rangers,4,0,0,0,4,30,18,130,False
+1967,12,25,20,Pittsburgh Penguins,3,0,5,6,0,23,2,38,22,Los Angeles Kings,5,2,4,7,0,21,1,30,True
+1967,12,27,6,Boston Bruins,6,0,6,9,3,23,18,138,11,Chicago Black Hawks,10,2,3,6,1,31,6,72,True
+1967,12,27,10,New York Rangers,4,1,3,5,1,33,15,133,24,Minnesota North Stars,5,0,0,1,6,39,7,55,False
+1967,12,27,20,Pittsburgh Penguins,4,2,4,6,3,26,5,41,19,Oakland Seals,2,0,3,5,6,45,10,73,False
+1967,12,27,21,St. Louis Blues,6,0,1,0,0,23,4,43,22,Los Angeles Kings,5,2,3,3,0,0,5,40,True
+1967,12,27,13,Toronto Maple Leafs,5,1,3,6,4,23,11,135,0,Montreal Canadiens,4,1,1,3,3,34,10,92,False
+1967,12,28,16,Detroit Red Wings,5,1,1,2,3,26,11,84,23,Philadelphia Flyers,5,1,1,1,3,35,6,71,True
+1967,12,28,0,Montreal Canadiens,5,1,2,3,2,31,9,89,24,Minnesota North Stars,5,1,3,5,1,16,4,57,True
+1967,12,29,21,St. Louis Blues,7,1,4,6,2,19,6,39,20,Pittsburgh Penguins,4,1,0,0,0,24,2,39,True
+1967,12,30,22,Los Angeles Kings,4,0,2,3,4,31,9,77,23,Philadelphia Flyers,4,2,3,4,5,38,8,74,False
+1967,12,30,24,Minnesota North Stars,5,0,2,4,3,41,9,82,6,Boston Bruins,6,1,7,12,2,22,17,137,True
+1967,12,30,0,Montreal Canadiens,6,1,6,8,2,28,14,111,19,Oakland Seals,3,1,0,0,0,34,4,62,True
+1967,12,30,10,New York Rangers,4,0,3,5,5,28,15,123,11,Chicago Black Hawks,9,2,2,3,6,20,11,57,False
+1967,12,30,20,Pittsburgh Penguins,4,0,1,1,2,30,4,45,16,Detroit Red Wings,5,2,5,7,3,14,11,72,False
+1967,12,30,13,Toronto Maple Leafs,4,0,2,3,2,34,11,152,21,St. Louis Blues,7,1,2,3,0,0,5,41,True
+1967,12,31,11,Chicago Black Hawks,9,1,3,7,3,28,8,65,19,Oakland Seals,2,0,0,0,2,40,6,68,True
+1967,12,31,16,Detroit Red Wings,5,0,5,7,2,27,10,85,6,Boston Bruins,5,2,4,3,5,25,20,140,True
+1967,12,31,10,New York Rangers,4,0,3,5,3,32,13,120,13,Toronto Maple Leafs,4,2,8,16,1,34,11,143,True
+1967,12,31,23,Philadelphia Flyers,5,2,2,2,0,25,3,61,22,Los Angeles Kings,4,0,0,0,1,9,7,65,True
+1968,1,3,24,Minnesota North Stars,6,2,5,7,4,30,10,71,22,Los Angeles Kings,3,0,1,0,4,13,13,69,True
+1968,1,3,0,Montreal Canadiens,7,2,2,3,0,24,12,107,13,Toronto Maple Leafs,4,0,0,0,1,35,14,149,False
+1968,1,3,10,New York Rangers,5,0,4,7,0,22,6,115,6,Boston Bruins,4,2,4,9,2,18,18,130,False
+1968,1,3,21,St. Louis Blues,6,2,1,1,4,20,12,67,19,Oakland Seals,2,0,0,0,3,30,7,58,True
+1968,1,4,16,Detroit Red Wings,5,2,6,9,4,24,12,82,19,Oakland Seals,2,0,0,0,4,35,8,63,True
+1968,1,4,23,Philadelphia Flyers,5,1,9,14,3,36,4,74,6,Boston Bruins,5,0,5,7,6,32,21,140,False
+1968,1,4,20,Pittsburgh Penguins,3,1,2,5,5,40,7,55,22,Los Angeles Kings,3,1,0,0,1,8,10,65,True
+1968,1,6,11,Chicago Black Hawks,9,1,3,6,0,23,1,67,16,Detroit Red Wings,5,1,7,12,0,2,11,85,True
+1968,1,6,0,Montreal Canadiens,7,0,1,2,1,23,13,106,10,New York Rangers,4,2,5,10,5,45,11,138,True
+1968,1,6,19,Oakland Seals,1,0,3,5,9,38,13,66,24,Minnesota North Stars,6,2,6,10,0,35,6,76,False
+1968,1,6,20,Pittsburgh Penguins,4,1,4,7,3,32,5,47,23,Philadelphia Flyers,5,1,2,3,1,38,4,79,False
+1968,1,6,21,St. Louis Blues,6,1,4,7,0,27,8,74,22,Los Angeles Kings,3,1,3,6,4,37,13,94,True
+1968,1,6,13,Toronto Maple Leafs,5,0,1,2,1,30,17,172,6,Boston Bruins,6,2,3,6,2,22,17,135,False
+1968,1,7,11,Chicago Black Hawks,9,1,6,11,2,26,4,75,6,Boston Bruins,7,1,3,6,3,26,18,139,True
+1968,1,7,16,Detroit Red Wings,5,1,5,5,3,11,14,98,0,Montreal Canadiens,7,1,5,5,2,25,14,108,False
+1968,1,7,10,New York Rangers,4,1,2,1,5,22,16,104,13,Toronto Maple Leafs,5,1,3,5,4,41,19,180,True
+1968,1,7,19,Oakland Seals,1,0,5,7,4,28,9,62,22,Los Angeles Kings,3,2,1,1,2,32,11,89,True
+1968,1,7,23,Philadelphia Flyers,6,2,2,3,2,32,5,73,20,Pittsburgh Penguins,3,0,2,4,2,16,4,31,True
+1968,1,10,11,Chicago Black Hawks,9,2,4,7,2,30,4,79,10,New York Rangers,5,0,6,10,3,25,13,118,False
+1968,1,10,24,Minnesota North Stars,6,0,5,7,5,24,11,65,23,Philadelphia Flyers,6,2,3,5,1,37,4,78,True
+1968,1,10,19,Oakland Seals,2,0,6,7,0,26,5,60,21,St. Louis Blues,6,2,2,4,1,32,9,79,False
+1968,1,10,20,Pittsburgh Penguins,3,0,1,0,2,15,5,39,0,Montreal Canadiens,7,1,3,9,2,14,13,122,False
+1968,1,10,13,Toronto Maple Leafs,4,2,2,4,6,38,25,173,16,Detroit Red Wings,5,0,3,5,4,28,17,123,True
+1968,1,11,6,Boston Bruins,6,1,2,4,3,31,18,144,16,Detroit Red Wings,4,1,1,2,2,43,15,138,True
+1968,1,11,22,Los Angeles Kings,2,0,0,0,6,28,15,85,21,St. Louis Blues,7,2,2,3,5,25,10,70,False
+1968,1,11,23,Philadelphia Flyers,5,1,4,8,3,41,9,80,0,Montreal Canadiens,8,1,4,7,3,26,14,134,False
+1968,1,12,20,Pittsburgh Penguins,3,1,3,6,3,24,7,47,13,Toronto Maple Leafs,5,0,2,2,1,36,16,166,True
+1968,1,13,16,Detroit Red Wings,4,0,4,7,3,31,18,132,11,Chicago Black Hawks,8,2,3,6,3,30,6,70,False
+1968,1,13,24,Minnesota North Stars,6,2,6,9,4,21,10,62,19,Oakland Seals,2,0,2,5,2,28,7,62,False
+1968,1,13,0,Montreal Canadiens,8,1,4,6,2,25,13,138,6,Boston Bruins,7,1,5,7,5,28,20,136,True
+1968,1,13,21,St. Louis Blues,8,0,2,1,2,23,7,66,10,New York Rangers,5,2,3,6,2,36,10,117,False
+1968,1,13,13,Toronto Maple Leafs,5,0,3,4,4,29,19,159,20,Pittsburgh Penguins,4,2,4,8,3,35,7,58,True
+1968,1,14,6,Boston Bruins,6,1,1,3,3,22,16,106,24,Minnesota North Stars,5,1,2,4,6,41,8,62,True
+1968,1,14,11,Chicago Black Hawks,8,2,4,7,4,47,8,88,21,St. Louis Blues,7,0,1,1,2,21,8,67,False
+1968,1,14,19,Oakland Seals,3,2,2,4,2,33,7,67,23,Philadelphia Flyers,4,0,1,4,4,36,10,75,False
+1968,1,17,11,Chicago Black Hawks,7,1,2,4,2,30,6,71,10,New York Rangers,5,1,3,6,3,27,9,114,False
+1968,1,17,0,Montreal Canadiens,8,1,6,10,1,35,19,155,16,Detroit Red Wings,4,1,3,7,3,8,10,74,True
+1968,1,17,19,Oakland Seals,3,1,3,6,6,26,11,60,20,Pittsburgh Penguins,3,1,0,0,7,27,7,34,False
+1968,1,17,21,St. Louis Blues,8,1,2,2,3,24,8,72,24,Minnesota North Stars,5,1,2,3,9,55,11,76,True
+1968,1,18,6,Boston Bruins,6,2,8,16,2,24,14,91,13,Toronto Maple Leafs,5,0,7,13,0,33,15,163,False
+1968,1,18,22,Los Angeles Kings,1,0,2,4,2,23,11,80,20,Pittsburgh Penguins,3,2,1,1,1,22,1,29,True
+1968,1,18,24,Minnesota North Stars,5,1,0,0,5,41,7,62,23,Philadelphia Flyers,5,1,6,10,6,39,9,58,False
+1968,1,19,22,Los Angeles Kings,1,0,3,5,2,22,11,79,10,New York Rangers,6,2,4,7,1,33,8,121,True
+1968,1,20,6,Boston Bruins,5,1,2,3,4,26,16,93,23,Philadelphia Flyers,6,1,4,8,3,19,5,43,True
+1968,1,20,0,Montreal Canadiens,9,0,6,10,1,19,9,103,11,Chicago Black Hawks,6,2,2,4,4,25,5,66,True
+1968,1,20,19,Oakland Seals,2,0,1,2,1,26,6,60,10,New York Rangers,5,2,2,3,5,36,12,124,False
+1968,1,20,20,Pittsburgh Penguins,3,0,2,2,3,29,3,36,16,Detroit Red Wings,4,2,3,2,6,55,13,121,True
+1968,1,20,13,Toronto Maple Leafs,5,2,4,6,2,24,17,162,24,Minnesota North Stars,5,0,2,2,4,19,6,40,True
+1968,1,21,6,Boston Bruins,6,1,4,6,2,4,15,103,11,Chicago Black Hawks,5,1,1,2,3,31,4,72,True
+1968,1,21,16,Detroit Red Wings,3,0,5,6,6,41,14,82,13,Toronto Maple Leafs,6,2,5,9,1,35,16,173,False
+1968,1,21,24,Minnesota North Stars,4,1,1,2,5,44,7,65,20,Pittsburgh Penguins,4,1,8,12,5,37,5,44,True
+1968,1,21,19,Oakland Seals,2,1,0,0,3,21,8,55,22,Los Angeles Kings,2,1,5,7,2,31,11,88,True
+1968,1,21,23,Philadelphia Flyers,6,1,2,4,4,35,6,59,21,St. Louis Blues,8,1,5,7,0,24,5,72,False
+1968,1,24,11,Chicago Black Hawks,5,2,0,0,4,23,8,58,16,Detroit Red Wings,2,0,0,0,1,9,10,67,False
+1968,1,24,22,Los Angeles Kings,2,0,0,0,3,30,12,87,19,Oakland Seals,3,2,3,6,0,39,5,73,False
+1968,1,24,10,New York Rangers,6,0,3,6,0,15,7,103,6,Boston Bruins,7,2,6,12,0,33,11,128,True
+1968,1,24,21,St. Louis Blues,8,2,2,4,2,25,7,73,24,Minnesota North Stars,5,0,4,8,2,21,5,46,True
+1968,1,24,13,Toronto Maple Leafs,6,0,2,3,0,40,17,166,23,Philadelphia Flyers,5,0,2,4,2,24,4,55,False
+1968,1,25,6,Boston Bruins,6,0,2,1,2,37,13,132,0,Montreal Canadiens,9,2,3,6,1,24,8,127,False
+1968,1,25,16,Detroit Red Wings,2,1,4,6,2,43,11,101,21,St. Louis Blues,8,1,5,6,0,6,5,36,False
+1968,1,25,23,Philadelphia Flyers,5,1,1,4,2,31,3,78,24,Minnesota North Stars,4,1,2,2,5,40,8,65,False
+1968,1,27,16,Detroit Red Wings,1,1,4,6,2,26,13,84,23,Philadelphia Flyers,5,1,0,0,3,41,4,88,True
+1968,1,27,24,Minnesota North Stars,4,1,3,3,0,19,3,44,19,Oakland Seals,4,1,4,6,1,39,6,73,True
+1968,1,27,0,Montreal Canadiens,9,2,2,4,0,31,9,127,6,Boston Bruins,5,0,0,0,2,18,14,118,True
+1968,1,27,20,Pittsburgh Penguins,4,1,3,4,4,28,4,35,22,Los Angeles Kings,2,1,0,0,4,19,13,76,False
+1968,1,27,21,St. Louis Blues,9,0,4,6,2,8,9,55,10,New York Rangers,7,2,2,3,1,22,7,112,True
+1968,1,27,13,Toronto Maple Leafs,6,0,1,1,2,32,18,169,11,Chicago Black Hawks,4,2,2,3,2,10,9,85,False
+1968,1,28,6,Boston Bruins,4,1,2,4,5,32,17,132,20,Pittsburgh Penguins,3,1,3,6,4,25,4,32,False
+1968,1,28,11,Chicago Black Hawks,4,2,4,4,1,37,8,112,13,Toronto Maple Leafs,5,0,1,2,0,5,17,133,False
+1968,1,28,24,Minnesota North Stars,4,0,3,5,1,23,4,48,16,Detroit Red Wings,2,0,3,5,2,16,13,74,True
+1968,1,28,10,New York Rangers,6,2,3,6,2,34,10,126,19,Oakland Seals,4,0,1,2,3,32,8,66,True
+1968,1,28,23,Philadelphia Flyers,4,2,3,4,1,47,4,83,22,Los Angeles Kings,3,0,5,6,3,30,12,87,False
+1968,1,30,0,Montreal Canadiens,9,1,4,8,2,21,12,131,13,Toronto Maple Leafs,6,1,3,2,1,33,15,158,True
+1968,1,31,24,Minnesota North Stars,4,2,2,2,1,35,4,60,22,Los Angeles Kings,4,0,2,3,0,27,9,84,True
+1968,1,31,10,New York Rangers,7,2,4,6,2,13,10,100,11,Chicago Black Hawks,3,0,1,2,2,35,9,110,False
+1968,1,31,21,St. Louis Blues,9,1,4,7,3,31,10,78,20,Pittsburgh Penguins,4,1,1,2,0,33,0,40,True
+1968,2,1,6,Boston Bruins,4,1,0,0,2,20,13,116,11,Chicago Black Hawks,3,1,3,5,2,41,10,119,False
+1968,2,1,16,Detroit Red Wings,2,1,1,2,0,9,8,60,22,Los Angeles Kings,4,1,1,1,1,10,10,66,False
+1968,2,1,0,Montreal Canadiens,10,1,4,5,0,19,10,129,10,New York Rangers,7,1,2,4,4,24,11,115,True
+1968,2,1,23,Philadelphia Flyers,3,1,0,0,2,28,5,64,19,Oakland Seals,4,1,2,4,4,46,9,80,False
+1968,2,1,20,Pittsburgh Penguins,4,0,4,4,7,35,9,45,21,St. Louis Blues,9,2,9,15,4,34,11,81,True
+1968,2,3,6,Boston Bruins,3,1,4,7,1,16,15,125,10,New York Rangers,6,1,2,3,4,29,11,120,False
+1968,2,3,16,Detroit Red Wings,2,0,6,9,2,12,13,62,24,Minnesota North Stars,5,1,6,10,3,25,4,55,True
+1968,2,3,0,Montreal Canadiens,10,0,5,8,2,36,15,131,22,Los Angeles Kings,5,2,8,13,6,47,15,103,True
+1968,2,3,23,Philadelphia Flyers,3,0,3,4,3,36,6,67,11,Chicago Black Hawks,4,2,4,8,4,44,10,103,True
+1968,2,3,20,Pittsburgh Penguins,5,1,2,4,0,22,2,32,13,Toronto Maple Leafs,6,1,0,0,3,29,18,118,False
+1968,2,3,21,St. Louis Blues,8,2,0,0,2,22,9,69,19,Oakland Seals,4,0,3,2,5,34,8,64,True
+1968,2,4,6,Boston Bruins,3,1,3,6,1,20,13,111,16,Detroit Red Wings,3,1,8,14,5,14,12,70,True
+1968,2,4,11,Chicago Black Hawks,3,1,3,6,4,37,10,81,22,Los Angeles Kings,5,1,1,3,5,19,14,82,True
+1968,2,4,24,Minnesota North Stars,5,1,1,2,1,9,8,35,19,Oakland Seals,4,1,1,1,0,25,4,38,True
+1968,2,4,10,New York Rangers,6,0,3,5,3,36,12,128,0,Montreal Canadiens,10,2,5,9,1,25,15,103,True
+1968,2,4,23,Philadelphia Flyers,4,1,5,10,3,31,6,67,13,Toronto Maple Leafs,6,0,3,6,3,27,16,123,True
+1968,2,7,11,Chicago Black Hawks,4,1,5,10,3,26,9,70,13,Toronto Maple Leafs,6,1,1,2,0,1,17,132,True
+1968,2,7,22,Los Angeles Kings,5,0,3,5,1,14,9,77,24,Minnesota North Stars,6,2,4,3,3,31,10,57,False
+1968,2,7,0,Montreal Canadiens,9,2,0,0,3,39,17,112,23,Philadelphia Flyers,4,0,4,8,3,36,4,80,True
+1968,2,7,19,Oakland Seals,3,1,3,4,4,13,8,47,20,Pittsburgh Penguins,4,1,3,4,3,37,5,47,False
+1968,2,7,21,St. Louis Blues,8,1,4,7,1,17,8,64,6,Boston Bruins,3,0,5,6,2,11,17,116,False
+1968,2,8,16,Detroit Red Wings,3,1,4,7,3,19,11,86,10,New York Rangers,6,1,2,4,0,23,8,112,False
+1968,2,8,22,Los Angeles Kings,4,2,2,3,3,29,11,92,20,Pittsburgh Penguins,5,0,4,5,1,19,3,29,True
+1968,2,10,16,Detroit Red Wings,3,0,2,3,3,29,11,96,6,Boston Bruins,4,2,6,10,4,27,19,137,False
+1968,2,10,0,Montreal Canadiens,9,1,4,7,1,19,15,112,11,Chicago Black Hawks,5,1,3,2,5,27,13,75,True
+1968,2,10,19,Oakland Seals,3,0,1,1,4,33,8,67,24,Minnesota North Stars,7,2,4,6,2,28,9,54,False
+1968,2,10,20,Pittsburgh Penguins,4,0,1,2,3,35,5,45,10,New York Rangers,6,2,4,5,2,24,10,108,False
+1968,2,10,21,St. Louis Blues,8,1,4,7,4,25,13,72,23,Philadelphia Flyers,3,1,1,1,1,44,5,78,False
+1968,2,11,6,Boston Bruins,4,1,1,2,1,29,16,139,21,St. Louis Blues,7,1,1,1,2,26,11,73,False
+1968,2,11,11,Chicago Black Hawks,5,0,4,8,2,11,12,51,0,Montreal Canadiens,9,2,6,12,3,34,19,109,False
+1968,2,11,24,Minnesota North Stars,8,1,5,7,2,23,9,49,23,Philadelphia Flyers,4,1,2,5,1,34,5,68,False
+1968,2,11,10,New York Rangers,7,2,2,4,2,29,11,115,16,Detroit Red Wings,3,0,1,1,1,29,9,96,False
+1968,2,11,19,Oakland Seals,3,0,2,4,4,34,9,57,13,Toronto Maple Leafs,5,2,2,2,1,26,16,136,True
+1968,2,12,22,Los Angeles Kings,4,1,3,4,1,35,9,98,13,Toronto Maple Leafs,4,1,3,5,2,15,18,134,True
+1968,2,14,11,Chicago Black Hawks,5,1,0,0,4,15,16,74,6,Boston Bruins,3,1,3,5,3,28,18,138,True
+1968,2,14,19,Oakland Seals,4,1,4,6,5,23,8,51,23,Philadelphia Flyers,5,1,3,4,4,34,6,63,True
+1968,2,14,20,Pittsburgh Penguins,4,1,2,6,2,24,4,34,24,Minnesota North Stars,7,1,2,3,3,25,10,51,True
+1968,2,14,21,St. Louis Blues,7,2,3,5,3,37,12,84,22,Los Angeles Kings,5,0,2,3,0,31,8,94,False
+1968,2,14,13,Toronto Maple Leafs,3,1,0,0,2,34,15,132,0,Montreal Canadiens,9,1,6,10,0,27,11,90,False
+1968,2,15,16,Detroit Red Wings,4,0,3,4,3,35,11,102,0,Montreal Canadiens,9,2,4,8,2,34,13,97,False
+1968,2,15,24,Minnesota North Stars,7,1,3,6,3,25,13,65,10,New York Rangers,6,1,3,6,3,31,12,117,False
+1968,2,16,22,Los Angeles Kings,6,1,2,4,2,21,10,84,23,Philadelphia Flyers,4,1,0,0,4,18,6,47,True
+1968,2,16,20,Pittsburgh Penguins,4,1,6,11,3,35,5,45,21,St. Louis Blues,6,1,2,3,2,33,11,80,False
+1968,2,17,16,Detroit Red Wings,3,1,0,0,1,29,9,96,11,Chicago Black Hawks,6,1,3,5,1,25,13,84,False
+1968,2,17,24,Minnesota North Stars,6,0,2,4,6,43,16,83,21,St. Louis Blues,6,2,3,2,1,29,10,76,False
+1968,2,17,0,Montreal Canadiens,9,2,2,2,0,27,11,90,20,Pittsburgh Penguins,4,0,1,2,2,27,4,37,True
+1968,2,17,19,Oakland Seals,4,1,4,6,0,11,0,18,6,Boston Bruins,3,1,1,1,4,32,21,166,True
+1968,2,17,13,Toronto Maple Leafs,2,0,2,4,3,34,16,132,10,New York Rangers,6,2,6,12,2,29,10,119,False
+1968,2,18,11,Chicago Black Hawks,6,1,7,12,4,37,16,96,16,Detroit Red Wings,3,1,4,5,2,18,13,66,True
+1968,2,18,22,Los Angeles Kings,6,1,7,11,1,31,9,94,6,Boston Bruins,3,1,1,1,3,44,20,161,False
+1968,2,18,10,New York Rangers,7,1,3,4,2,30,10,120,23,Philadelphia Flyers,4,1,1,0,2,29,9,75,True
+1968,2,21,24,Minnesota North Stars,5,1,2,4,3,14,12,69,6,Boston Bruins,4,1,6,11,5,34,22,151,True
+1968,2,21,10,New York Rangers,7,1,3,4,1,18,9,108,0,Montreal Canadiens,9,1,4,6,4,26,15,109,False
+1968,2,21,19,Oakland Seals,4,0,3,5,1,29,1,36,11,Chicago Black Hawks,7,2,7,11,1,32,13,91,False
+1968,2,21,20,Pittsburgh Penguins,4,0,3,6,4,41,6,51,23,Philadelphia Flyers,4,2,2,2,3,45,10,91,False
+1968,2,21,13,Toronto Maple Leafs,2,1,2,4,3,39,16,137,21,St. Louis Blues,6,1,2,3,6,25,11,77,False
+1968,2,22,16,Detroit Red Wings,2,0,1,1,7,31,18,79,6,Boston Bruins,4,2,3,4,2,21,19,130,False
+1968,2,22,0,Montreal Canadiens,9,2,7,10,3,28,13,106,21,St. Louis Blues,6,0,5,9,1,33,6,85,True
+1968,2,22,23,Philadelphia Flyers,5,1,1,0,1,38,8,84,24,Minnesota North Stars,5,1,5,8,2,29,12,81,True
+1968,2,24,16,Detroit Red Wings,2,1,2,3,5,12,14,77,24,Minnesota North Stars,4,1,3,5,3,26,17,90,True
+1968,2,24,22,Los Angeles Kings,5,0,5,6,6,32,14,95,11,Chicago Black Hawks,7,2,1,1,6,34,8,87,False
+1968,2,24,0,Montreal Canadiens,9,1,2,4,1,17,11,95,10,New York Rangers,7,1,2,3,7,34,20,133,False
+1968,2,24,20,Pittsburgh Penguins,3,2,1,2,1,27,3,37,19,Oakland Seals,4,0,0,0,1,29,1,36,False
+1968,2,24,13,Toronto Maple Leafs,2,1,1,2,1,8,14,94,6,Boston Bruins,5,1,3,5,2,39,19,148,True
+1968,2,25,22,Los Angeles Kings,5,1,3,6,3,31,11,94,21,St. Louis Blues,5,1,1,2,2,36,7,88,True
+1968,2,25,24,Minnesota North Stars,4,2,1,1,3,43,17,107,19,Oakland Seals,5,0,3,4,1,30,1,37,False
+1968,2,25,10,New York Rangers,8,2,6,11,1,23,14,122,13,Toronto Maple Leafs,2,0,1,2,0,34,13,120,True
+1968,2,25,23,Philadelphia Flyers,6,2,7,13,3,37,10,83,20,Pittsburgh Penguins,3,0,1,2,3,28,5,38,False
+1968,2,27,20,Pittsburgh Penguins,3,2,2,3,1,30,3,40,6,Boston Bruins,5,0,0,0,1,44,18,153,False
+1968,2,28,19,Oakland Seals,5,1,3,5,3,37,3,44,24,Minnesota North Stars,3,1,3,6,3,31,17,95,True
+1968,2,28,21,St. Louis Blues,5,0,1,4,3,44,8,96,0,Montreal Canadiens,8,2,1,2,2,23,18,114,False
+1968,2,28,13,Toronto Maple Leafs,2,1,1,1,2,35,15,121,11,Chicago Black Hawks,7,1,3,3,0,27,6,61,False
+1968,2,29,6,Boston Bruins,5,0,5,8,3,37,20,146,13,Toronto Maple Leafs,1,2,0,0,1,28,14,114,True
+1968,2,29,16,Detroit Red Wings,3,1,3,4,3,29,10,86,10,New York Rangers,8,1,3,5,1,20,14,119,False
+1968,2,29,23,Philadelphia Flyers,5,0,1,1,2,32,9,78,22,Los Angeles Kings,5,2,4,7,2,21,10,84,False
+1968,3,2,24,Minnesota North Stars,2,1,3,4,7,38,20,87,0,Montreal Canadiens,9,1,3,5,6,37,19,121,True
+1968,3,2,10,New York Rangers,8,2,4,6,2,27,10,123,23,Philadelphia Flyers,4,0,1,2,7,46,10,78,True
+1968,3,2,20,Pittsburgh Penguins,3,1,3,6,5,31,7,41,19,Oakland Seals,6,1,6,10,3,28,3,35,False
+1968,3,2,21,St. Louis Blues,4,1,3,6,3,22,8,74,11,Chicago Black Hawks,8,1,1,1,0,38,6,72,False
+1968,3,2,13,Toronto Maple Leafs,1,0,1,0,4,18,17,140,22,Los Angeles Kings,6,2,3,6,1,34,9,97,True
+1968,3,3,6,Boston Bruins,5,1,4,5,1,31,15,125,21,St. Louis Blues,4,1,3,4,3,37,8,89,True
+1968,3,3,16,Detroit Red Wings,2,0,2,4,4,36,11,93,0,Montreal Canadiens,8,2,2,3,3,23,19,123,True
+1968,3,3,10,New York Rangers,8,1,4,5,0,18,8,114,11,Chicago Black Hawks,8,1,3,5,3,38,14,73,True
+1968,3,3,23,Philadelphia Flyers,4,0,0,0,3,32,7,63,19,Oakland Seals,7,2,6,9,6,44,6,51,False
+1968,3,5,22,Los Angeles Kings,6,1,2,4,5,28,13,91,0,Montreal Canadiens,7,1,2,4,3,30,16,114,False
+1968,3,6,11,Chicago Black Hawks,7,2,0,0,0,6,12,60,6,Boston Bruins,5,0,9,17,3,23,17,117,False
+1968,3,6,10,New York Rangers,8,1,4,7,0,13,8,109,16,Detroit Red Wings,3,1,2,7,1,21,9,98,True
+1968,3,6,19,Oakland Seals,8,0,1,3,0,17,1,40,0,Montreal Canadiens,7,2,6,7,2,26,15,110,False
+1968,3,6,21,St. Louis Blues,4,1,3,3,8,23,12,55,20,Pittsburgh Penguins,2,1,6,12,2,10,8,34,True
+1968,3,6,13,Toronto Maple Leafs,2,0,8,8,4,54,13,146,23,Philadelphia Flyers,3,2,1,1,1,35,5,66,True
+1968,3,7,22,Los Angeles Kings,6,0,2,4,0,4,10,67,19,Oakland Seals,8,2,0,0,2,23,3,46,True
+1968,3,7,24,Minnesota North Stars,2,1,3,4,2,35,15,84,20,Pittsburgh Penguins,2,1,2,3,4,40,10,64,False
+1968,3,7,23,Philadelphia Flyers,2,0,2,4,4,31,11,77,6,Boston Bruins,6,2,5,10,3,31,17,125,False
+1968,3,9,24,Minnesota North Stars,2,1,2,4,2,26,15,75,10,New York Rangers,9,1,6,10,1,22,9,109,False
+1968,3,9,0,Montreal Canadiens,7,2,2,1,0,22,16,107,11,Chicago Black Hawks,7,0,3,5,0,0,10,86,True
+1968,3,9,20,Pittsburgh Penguins,3,0,2,4,2,29,8,53,22,Los Angeles Kings,6,2,9,16,2,18,12,81,True
+1968,3,9,21,St. Louis Blues,4,2,4,8,2,21,6,53,19,Oakland Seals,7,0,1,4,5,30,9,54,True
+1968,3,9,13,Toronto Maple Leafs,3,2,7,14,2,27,13,146,16,Detroit Red Wings,3,0,1,1,2,19,11,87,True
+1968,3,10,6,Boston Bruins,7,2,2,3,3,19,13,137,16,Detroit Red Wings,3,0,5,9,6,38,12,92,False
+1968,3,10,11,Chicago Black Hawks,7,2,0,1,2,26,10,99,13,Toronto Maple Leafs,4,0,7,9,0,0,16,152,True
+1968,3,10,10,New York Rangers,9,1,1,0,1,31,8,132,22,Los Angeles Kings,5,1,1,2,3,40,13,103,False
+1968,3,10,19,Oakland Seals,6,0,2,1,4,24,7,68,21,St. Louis Blues,5,2,3,5,1,29,5,61,False
+1968,3,10,23,Philadelphia Flyers,2,2,0,2,2,40,9,86,24,Minnesota North Stars,2,0,1,2,7,26,14,89,True
+1968,3,12,22,Los Angeles Kings,5,1,4,6,3,34,13,97,16,Detroit Red Wings,3,1,7,8,0,13,10,88,False
+1968,3,13,11,Chicago Black Hawks,7,2,4,8,0,27,7,87,20,Pittsburgh Penguins,3,0,2,6,1,27,7,51,True
+1968,3,13,24,Minnesota North Stars,2,0,0,0,0,9,8,49,23,Philadelphia Flyers,3,2,3,1,7,46,7,76,False
+1968,3,13,10,New York Rangers,8,2,3,5,4,23,14,104,6,Boston Bruins,7,0,5,6,5,16,13,93,False
+1968,3,13,19,Oakland Seals,5,0,0,0,1,30,4,74,16,Detroit Red Wings,4,2,2,4,5,22,15,105,False
+1968,3,13,21,St. Louis Blues,5,1,1,2,0,16,4,48,13,Toronto Maple Leafs,4,1,0,0,5,33,18,167,False
+1968,3,14,0,Montreal Canadiens,7,1,5,6,0,26,9,103,10,New York Rangers,7,1,1,1,2,22,12,103,True
+1968,3,14,23,Philadelphia Flyers,4,0,4,7,0,13,2,26,22,Los Angeles Kings,4,2,2,4,2,23,12,86,False
+1968,3,15,21,St. Louis Blues,4,2,3,4,3,33,7,65,19,Oakland Seals,5,0,2,4,3,44,7,76,False
+1968,3,16,24,Minnesota North Stars,2,2,2,2,4,20,10,53,22,Los Angeles Kings,5,0,0,0,0,20,10,83,False
+1968,3,16,0,Montreal Canadiens,7,2,3,6,5,35,10,103,20,Pittsburgh Penguins,3,0,4,6,4,26,10,50,True
+1968,3,16,21,St. Louis Blues,3,2,1,4,1,10,5,61,16,Detroit Red Wings,5,0,4,7,2,26,13,136,False
+1968,3,16,13,Toronto Maple Leafs,5,1,3,5,3,30,13,166,6,Boston Bruins,7,1,2,3,1,40,9,136,True
+1968,3,17,6,Boston Bruins,7,0,0,0,2,35,10,131,0,Montreal Canadiens,7,2,6,11,3,28,8,74,True
+1968,3,17,11,Chicago Black Hawks,7,2,4,6,3,13,11,102,19,Oakland Seals,5,0,1,2,1,43,5,75,True
+1968,3,17,24,Minnesota North Stars,1,0,1,1,2,34,8,67,16,Detroit Red Wings,6,2,6,9,2,31,14,140,True
+1968,3,17,10,New York Rangers,7,2,1,1,3,39,10,135,20,Pittsburgh Penguins,3,0,4,6,5,53,11,77,True
+1968,3,17,23,Philadelphia Flyers,3,1,0,0,0,32,2,45,13,Toronto Maple Leafs,6,1,3,5,3,32,13,156,True
+1968,3,20,11,Chicago Black Hawks,7,1,4,6,1,23,9,112,10,New York Rangers,7,1,3,6,0,20,7,116,False
+1968,3,20,22,Los Angeles Kings,6,1,2,3,1,26,11,89,24,Minnesota North Stars,2,1,5,10,1,35,7,68,False
+1968,3,20,0,Montreal Canadiens,6,2,1,1,1,28,6,72,13,Toronto Maple Leafs,5,0,1,7,1,9,17,135,True
+1968,3,20,19,Oakland Seals,4,2,1,2,4,32,8,64,23,Philadelphia Flyers,3,0,7,9,4,48,6,61,False
+1968,3,20,20,Pittsburgh Penguins,3,0,0,0,3,34,9,58,21,St. Louis Blues,3,2,3,4,1,29,10,88,True
+1968,3,21,6,Boston Bruins,7,1,3,4,1,34,10,120,11,Chicago Black Hawks,6,1,3,6,3,29,15,130,True
+1968,3,21,16,Detroit Red Wings,6,0,1,2,5,49,14,124,13,Toronto Maple Leafs,5,2,2,4,3,36,16,130,False
+1968,3,22,22,Los Angeles Kings,5,2,3,6,6,26,13,92,21,St. Louis Blues,3,0,2,4,3,36,12,95,True
+1968,3,23,22,Los Angeles Kings,5,2,6,9,3,29,8,99,23,Philadelphia Flyers,4,0,5,7,1,22,3,35,True
+1968,3,23,24,Minnesota North Stars,3,0,3,6,3,30,9,63,20,Pittsburgh Penguins,4,2,4,7,2,19,8,43,True
+1968,3,23,0,Montreal Canadiens,7,1,3,3,1,2,7,72,16,Detroit Red Wings,5,1,2,4,3,30,14,118,True
+1968,3,23,19,Oakland Seals,3,1,1,1,4,32,9,59,21,St. Louis Blues,3,1,1,1,5,27,9,62,False
+1968,3,23,13,Toronto Maple Leafs,6,0,5,8,2,38,14,129,10,New York Rangers,7,2,5,8,3,51,9,143,True
+1968,3,24,11,Chicago Black Hawks,5,0,0,0,5,23,15,91,0,Montreal Canadiens,7,2,7,10,4,29,9,90,False
+1968,3,24,16,Detroit Red Wings,5,1,4,7,5,27,18,124,6,Boston Bruins,8,1,8,16,0,21,12,124,True
+1968,3,24,10,New York Rangers,6,1,1,2,3,34,9,126,13,Toronto Maple Leafs,7,1,3,3,1,34,13,125,True
+1968,3,24,20,Pittsburgh Penguins,3,1,0,0,2,35,8,59,24,Minnesota North Stars,4,1,3,4,0,31,6,64,False
+1968,3,26,22,Los Angeles Kings,6,1,4,5,2,26,7,96,20,Pittsburgh Penguins,3,1,4,8,6,24,10,50,False
+1968,3,27,22,Los Angeles Kings,6,1,1,2,2,17,7,87,24,Minnesota North Stars,5,1,4,4,4,34,10,67,False
+1968,3,27,19,Oakland Seals,2,2,3,5,3,23,8,50,20,Pittsburgh Penguins,4,0,2,4,1,42,5,68,False
+1968,3,27,21,St. Louis Blues,4,1,3,6,3,26,7,61,23,Philadelphia Flyers,4,1,2,4,2,13,6,52,True
+1968,3,27,13,Toronto Maple Leafs,6,0,2,2,0,3,18,133,0,Montreal Canadiens,8,2,7,12,2,28,11,93,True
+1968,3,28,6,Boston Bruins,7,1,3,3,5,30,17,133,10,New York Rangers,6,1,4,5,2,24,11,115,False
+1968,3,28,16,Detroit Red Wings,5,0,5,6,3,27,18,115,11,Chicago Black Hawks,4,2,2,4,7,31,14,90,True
+1968,3,28,23,Philadelphia Flyers,4,1,0,2,3,33,7,72,21,St. Louis Blues,5,1,3,6,0,17,4,52,True
+1968,3,30,16,Detroit Red Wings,6,0,3,4,1,19,16,107,10,New York Rangers,6,2,5,7,4,28,13,119,False
+1968,3,30,0,Montreal Canadiens,8,1,0,1,6,39,15,104,6,Boston Bruins,6,1,4,7,1,20,17,121,False
+1968,3,30,19,Oakland Seals,1,1,4,8,7,27,12,54,22,Los Angeles Kings,5,1,3,6,1,33,9,95,False
+1968,3,30,23,Philadelphia Flyers,5,1,2,4,0,26,4,65,20,Pittsburgh Penguins,5,1,7,12,4,29,8,55,False
+1968,3,30,21,St. Louis Blues,4,2,0,0,2,29,6,64,24,Minnesota North Stars,5,0,5,9,3,30,9,63,True
+1968,3,30,13,Toronto Maple Leafs,6,0,6,11,0,26,18,156,11,Chicago Black Hawks,3,2,1,2,3,11,12,95,True
+1968,3,31,6,Boston Bruins,6,1,2,4,1,24,17,125,13,Toronto Maple Leafs,6,1,3,4,4,43,18,164,False
+1968,3,31,11,Chicago Black Hawks,3,1,0,0,3,27,12,111,16,Detroit Red Wings,6,1,1,2,3,27,18,115,False
+1968,3,31,24,Minnesota North Stars,5,0,2,5,3,42,9,75,21,St. Louis Blues,4,2,3,4,2,24,6,59,False
+1968,3,31,10,New York Rangers,6,1,3,5,1,28,12,114,0,Montreal Canadiens,7,1,1,1,2,30,6,106,True
+1968,3,31,20,Pittsburgh Penguins,5,2,2,2,4,26,4,49,23,Philadelphia Flyers,5,0,0,0,1,22,5,61,True

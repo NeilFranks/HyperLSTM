@@ -1,681 +1,681 @@
-Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
-1978, 10, 11,12, Chicago Black Hawks, 5, 0, 2, 6, 2, 24, 8, 85,30, Atlanta Flames, 7, 2, 2, 1, 1, 29, 9, 98,False
-1978, 10, 11,17, Detroit Red Wings, 6, 1, 2, 6, 3, 18, 13, 108,23, St. Louis Blues, 5, 1, 2, 5, 4, 40, 16, 161,False
-1978, 10, 11,25, Los Angeles Kings, 5, 2, 3, 4, 5, 22, 11, 41,31, Washington Capitals, 4, 0, 4, 4, 2, 34, 6, 111,False
-1978, 10, 11,1, Montreal Canadiens, 9, 1, 0, 0, 1, 18, 5, 47,24, Minnesota North Stars, 3, 1, 6, 5, 3, 27, 9, 126,True
-1978, 10, 11,22, Pittsburgh Penguins, 3, 2, 2, 3, 2, 43, 15, 95,13, Toronto Maple Leafs, 2, 0, 1, 4, 2, 36, 4, 63,False
-1978, 10, 11,26, Vancouver Canucks, 1, 0, 3, 1, 0, 0, 10, 69,33, Colorado Rockies, 6, 2, 6, 6, 2, 27, 17, 119,True
-1978, 10, 12,7, Boston Bruins, 5, 2, 2, 2, 6, 38, 17, 119,22, Pittsburgh Penguins, 3, 0, 2, 3, 3, 27, 16, 79,True
-1978, 10, 12,28, Buffalo Sabres, 5, 1, 2, 4, 1, 24, 6, 61,29, New York Islanders, 6, 1, 5, 8, 2, 26, 4, 58,False
-1978, 10, 12,11, New York Rangers, 5, 0, 2, 2, 2, 5, 12, 107,21, Philadelphia Flyers, 8, 2, 1, 1, 1, 17, 8, 59,False
-1978, 10, 13,30, Atlanta Flames, 7, 1, 4, 4, 4, 31, 12, 102,31, Washington Capitals, 5, 1, 4, 7, 2, 31, 6, 108,False
-1978, 10, 13,26, Vancouver Canucks, 2, 1, 8, 12, 2, 36, 12, 105,23, St. Louis Blues, 5, 1, 5, 8, 4, 42, 16, 163,True
-1978, 10, 14,17, Detroit Red Wings, 5, 0, 4, 8, 0, 28, 15, 104,21, Philadelphia Flyers, 8, 2, 3, 5, 3, 30, 10, 72,False
-1978, 10, 14,25, Los Angeles Kings, 5, 1, 2, 4, 4, 29, 10, 48,23, St. Louis Blues, 5, 1, 4, 8, 3, 34, 20, 157,True
-1978, 10, 14,24, Minnesota North Stars, 3, 1, 2, 4, 5, 32, 11, 131,28, Buffalo Sabres, 4, 1, 2, 4, 2, 20, 7, 57,False
-1978, 10, 14,1, Montreal Canadiens, 9, 2, 4, 5, 4, 29, 6, 53,33, Colorado Rockies, 5, 0, 2, 4, 1, 9, 17, 82,True
-1978, 10, 14,22, Pittsburgh Penguins, 3, 0, 2, 4, 8, 38, 21, 90,7, Boston Bruins, 5, 2, 7, 12, 2, 16, 11, 90,False
-1978, 10, 14,13, Toronto Maple Leafs, 3, 0, 3, 5, 2, 40, 4, 67,29, New York Islanders, 7, 2, 2, 4, 2, 28, 4, 66,True
-1978, 10, 14,31, Washington Capitals, 6, 2, 3, 3, 3, 35, 7, 112,30, Atlanta Flames, 7, 0, 3, 6, 3, 37, 15, 102,False
-1978, 10, 15,7, Boston Bruins, 6, 2, 4, 5, 4, 34, 13, 108,13, Toronto Maple Leafs, 4, 0, 10, 18, 1, 38, 10, 92,True
-1978, 10, 15,28, Buffalo Sabres, 4, 0, 5, 7, 2, 44, 7, 81,17, Detroit Red Wings, 4, 2, 1, 0, 5, 14, 17, 98,False
-1978, 10, 15,12, Chicago Black Hawks, 4, 1, 3, 8, 4, 33, 10, 94,26, Vancouver Canucks, 3, 1, 8, 13, 4, 23, 14, 92,False
-1978, 10, 15,11, New York Rangers, 4, 1, 2, 7, 3, 25, 13, 127,33, Colorado Rockies, 4, 1, 1, 3, 7, 23, 21, 100,True
-1978, 10, 15,21, Philadelphia Flyers, 8, 0, 3, 3, 1, 28, 8, 70,1, Montreal Canadiens, 9, 2, 5, 8, 2, 24, 4, 44,False
-1978, 10, 17,30, Atlanta Flames, 7, 1, 6, 8, 3, 24, 15, 89,33, Colorado Rockies, 4, 1, 2, 2, 3, 30, 17, 107,True
-1978, 10, 17,29, New York Islanders, 6, 0, 7, 14, 5, 21, 10, 38,1, Montreal Canadiens, 9, 2, 3, 5, 2, 37, 4, 57,True
-1978, 10, 17,23, St. Louis Blues, 5, 0, 2, 4, 8, 36, 23, 165,26, Vancouver Canucks, 4, 2, 3, 6, 3, 30, 13, 99,True
-1978, 10, 18,25, Los Angeles Kings, 5, 0, 6, 11, 2, 22, 5, 54,7, Boston Bruins, 7, 2, 4, 7, 2, 18, 11, 92,False
-1978, 10, 18,24, Minnesota North Stars, 3, 1, 3, 4, 5, 29, 19, 149,26, Vancouver Canucks, 4, 1, 6, 12, 4, 38, 18, 103,True
-1978, 10, 18,11, New York Rangers, 4, 2, 4, 6, 5, 38, 11, 115,17, Detroit Red Wings, 4, 0, 3, 6, 2, 27, 14, 111,False
-1978, 10, 18,22, Pittsburgh Penguins, 3, 0, 4, 4, 4, 26, 17, 78,29, New York Islanders, 7, 2, 3, 6, 1, 25, 6, 42,False
-1978, 10, 18,13, Toronto Maple Leafs, 4, 1, 2, 3, 7, 27, 13, 80,28, Buffalo Sabres, 3, 1, 2, 3, 3, 34, 8, 71,True
-1978, 10, 18,31, Washington Capitals, 6, 0, 3, 5, 3, 44, 10, 104,12, Chicago Black Hawks, 4, 2, 4, 5, 3, 23, 9, 84,False
-1978, 10, 19,28, Buffalo Sabres, 3, 1, 0, 0, 2, 35, 7, 72,13, Toronto Maple Leafs, 4, 1, 2, 3, 4, 26, 6, 74,True
-1978, 10, 19,12, Chicago Black Hawks, 5, 2, 4, 9, 2, 25, 8, 86,24, Minnesota North Stars, 4, 0, 8, 9, 1, 20, 8, 120,True
-1978, 10, 19,17, Detroit Red Wings, 5, 1, 3, 5, 2, 22, 15, 117,11, New York Rangers, 3, 1, 2, 3, 1, 13, 9, 101,False
-1978, 10, 19,21, Philadelphia Flyers, 7, 1, 2, 4, 3, 24, 10, 66,22, Pittsburgh Penguins, 3, 1, 2, 6, 5, 33, 18, 85,True
-1978, 10, 20,30, Atlanta Flames, 7, 0, 8, 12, 2, 26, 12, 86,1, Montreal Canadiens, 8, 2, 1, 2, 3, 24, 5, 44,True
-1978, 10, 20,33, Colorado Rockies, 4, 2, 1, 2, 5, 19, 17, 78,23, St. Louis Blues, 5, 0, 8, 15, 6, 31, 21, 160,False
-1978, 10, 20,26, Vancouver Canucks, 4, 0, 2, 4, 7, 50, 13, 81,7, Boston Bruins, 7, 2, 3, 7, 2, 28, 12, 106,False
-1978, 10, 20,31, Washington Capitals, 6, 1, 2, 1, 6, 27, 11, 91,25, Los Angeles Kings, 4, 1, 2, 3, 3, 26, 7, 64,False
-1978, 10, 21,17, Detroit Red Wings, 5, 2, 2, 2, 3, 33, 15, 112,24, Minnesota North Stars, 3, 0, 2, 6, 6, 29, 13, 129,False
-1978, 10, 21,29, New York Islanders, 7, 1, 5, 9, 3, 38, 8, 55,11, New York Rangers, 3, 1, 3, 5, 3, 24, 10, 119,True
-1978, 10, 21,22, Pittsburgh Penguins, 3, 0, 1, 2, 3, 28, 16, 80,31, Washington Capitals, 5, 2, 4, 6, 4, 31, 11, 86,True
-1978, 10, 21,23, St. Louis Blues, 6, 1, 5, 6, 5, 41, 20, 170,33, Colorado Rockies, 3, 1, 5, 7, 3, 9, 17, 86,False
-1978, 10, 21,13, Toronto Maple Leafs, 4, 1, 0, 0, 0, 21, 3, 81,21, Philadelphia Flyers, 8, 1, 3, 6, 1, 25, 8, 67,True
-1978, 10, 22,12, Chicago Black Hawks, 5, 1, 5, 9, 2, 34, 8, 95,7, Boston Bruins, 7, 1, 5, 4, 1, 23, 12, 108,True
-1978, 10, 22,1, Montreal Canadiens, 7, 2, 5, 7, 2, 20, 9, 58,25, Los Angeles Kings, 5, 0, 6, 11, 4, 33, 9, 62,True
-1978, 10, 22,11, New York Rangers, 3, 1, 3, 4, 2, 31, 9, 85,13, Toronto Maple Leafs, 4, 1, 2, 3, 1, 33, 3, 84,True
-1978, 10, 22,21, Philadelphia Flyers, 7, 2, 0, 1, 2, 26, 9, 68,30, Atlanta Flames, 7, 0, 7, 10, 5, 37, 13, 98,False
-1978, 10, 22,26, Vancouver Canucks, 4, 1, 1, 1, 0, 0, 11, 56,28, Buffalo Sabres, 4, 1, 1, 2, 0, 19, 5, 56,True
-1978, 10, 24,30, Atlanta Flames, 7, 1, 5, 8, 2, 40, 10, 101,25, Los Angeles Kings, 5, 1, 4, 6, 8, 42, 13, 71,True
-1978, 10, 24,29, New York Islanders, 8, 0, 5, 6, 3, 25, 8, 42,21, Philadelphia Flyers, 6, 2, 2, 3, 3, 26, 12, 65,False
-1978, 10, 24,23, St. Louis Blues, 5, 0, 3, 5, 4, 32, 19, 161,7, Boston Bruins, 7, 2, 5, 8, 6, 38, 20, 124,False
-1978, 10, 25,12, Chicago Black Hawks, 5, 2, 5, 9, 5, 28, 11, 89,31, Washington Capitals, 5, 0, 1, 2, 6, 22, 12, 100,False
-1978, 10, 25,17, Detroit Red Wings, 5, 1, 6, 7, 4, 24, 16, 103,33, Colorado Rockies, 4, 1, 5, 9, 5, 27, 17, 105,True
-1978, 10, 25,24, Minnesota North Stars, 4, 0, 4, 6, 4, 27, 15, 129,7, Boston Bruins, 7, 2, 7, 11, 1, 8, 10, 89,False
-1978, 10, 25,11, New York Rangers, 4, 2, 6, 11, 2, 26, 9, 80,26, Vancouver Canucks, 5, 0, 3, 5, 2, 28, 13, 84,True
-1978, 10, 25,22, Pittsburgh Penguins, 3, 1, 5, 9, 1, 38, 14, 90,23, St. Louis Blues, 4, 1, 2, 3, 6, 42, 22, 162,False
-1978, 10, 25,13, Toronto Maple Leafs, 4, 0, 2, 3, 0, 24, 7, 86,1, Montreal Canadiens, 7, 2, 9, 13, 7, 38, 11, 58,False
-1978, 10, 26,25, Los Angeles Kings, 4, 1, 2, 4, 0, 0, 12, 69,28, Buffalo Sabres, 4, 1, 2, 1, 3, 19, 8, 56,True
-1978, 10, 26,21, Philadelphia Flyers, 6, 1, 4, 7, 5, 23, 13, 58,13, Toronto Maple Leafs, 4, 1, 4, 6, 4, 41, 11, 103,True
-1978, 10, 27,30, Atlanta Flames, 7, 1, 7, 14, 2, 21, 13, 83,29, New York Islanders, 7, 1, 4, 7, 5, 13, 9, 36,True
-1978, 10, 27,33, Colorado Rockies, 3, 1, 4, 8, 5, 31, 17, 109,17, Detroit Red Wings, 5, 1, 5, 10, 2, 17, 16, 109,False
-1978, 10, 28,17, Detroit Red Wings, 5, 0, 5, 7, 4, 30, 16, 131,12, Chicago Black Hawks, 4, 2, 4, 5, 2, 24, 8, 85,True
-1978, 10, 28,25, Los Angeles Kings, 5, 1, 6, 11, 0, 18, 10, 83,31, Washington Capitals, 6, 1, 2, 5, 2, 31, 8, 109,True
-1978, 10, 28,24, Minnesota North Stars, 4, 1, 2, 2, 1, 6, 13, 120,33, Colorado Rockies, 3, 1, 2, 3, 3, 28, 17, 106,False
-1978, 10, 28,1, Montreal Canadiens, 7, 1, 4, 6, 4, 20, 8, 50,11, New York Rangers, 5, 1, 6, 12, 5, 20, 9, 82,False
-1978, 10, 28,29, New York Islanders, 6, 2, 5, 9, 4, 19, 12, 53,26, Vancouver Canucks, 4, 0, 2, 3, 6, 29, 17, 85,True
-1978, 10, 28,22, Pittsburgh Penguins, 2, 0, 6, 8, 6, 32, 19, 84,30, Atlanta Flames, 7, 2, 8, 15, 5, 38, 16, 100,False
-1978, 10, 28,23, St. Louis Blues, 5, 0, 6, 13, 7, 33, 21, 159,28, Buffalo Sabres, 4, 2, 0, 0, 2, 29, 11, 61,False
-1978, 10, 28,13, Toronto Maple Leafs, 4, 0, 0, 0, 5, 35, 12, 85,7, Boston Bruins, 8, 2, 2, 1, 1, 21, 11, 119,False
-1978, 10, 29,12, Chicago Black Hawks, 4, 1, 2, 4, 7, 39, 13, 100,1, Montreal Canadiens, 6, 1, 1, 3, 4, 30, 6, 58,True
-1978, 10, 29,11, New York Rangers, 6, 0, 2, 4, 2, 28, 5, 93,22, Pittsburgh Penguins, 2, 2, 2, 4, 3, 23, 16, 75,True
-1978, 10, 29,21, Philadelphia Flyers, 6, 2, 5, 6, 4, 19, 8, 60,26, Vancouver Canucks, 4, 0, 2, 3, 5, 25, 16, 78,False
-1978, 10, 31,29, New York Islanders, 7, 2, 5, 9, 2, 29, 10, 63,33, Colorado Rockies, 3, 0, 1, 0, 0, 30, 14, 108,True
-1978, 10, 31,23, St. Louis Blues, 4, 0, 7, 12, 4, 36, 16, 127,30, Atlanta Flames, 8, 2, 4, 5, 2, 46, 10, 111,False
-1978, 11, 1,30, Atlanta Flames, 9, 1, 5, 9, 2, 26, 11, 87,21, Philadelphia Flyers, 5, 1, 2, 5, 0, 25, 8, 70,True
-1978, 11, 1,12, Chicago Black Hawks, 5, 1, 4, 7, 1, 36, 7, 97,26, Vancouver Canucks, 5, 1, 5, 5, 2, 35, 13, 88,False
-1978, 11, 1,17, Detroit Red Wings, 6, 1, 7, 13, 2, 26, 14, 127,1, Montreal Canadiens, 5, 1, 1, 3, 2, 28, 5, 48,False
-1978, 11, 1,25, Los Angeles Kings, 6, 1, 5, 7, 1, 31, 13, 104,13, Toronto Maple Leafs, 4, 1, 3, 2, 5, 23, 12, 72,False
-1978, 11, 1,24, Minnesota North Stars, 3, 1, 0, 1, 1, 21, 13, 122,23, St. Louis Blues, 4, 1, 2, 4, 3, 4, 17, 123,True
-1978, 11, 1,31, Washington Capitals, 5, 1, 1, 1, 5, 45, 11, 111,22, Pittsburgh Penguins, 2, 1, 2, 4, 0, 0, 16, 85,True
-1978, 11, 2,7, Boston Bruins, 8, 0, 5, 6, 3, 35, 13, 133,29, New York Islanders, 7, 2, 6, 14, 8, 30, 13, 55,True
-1978, 11, 2,33, Colorado Rockies, 2, 1, 5, 7, 8, 26, 22, 104,11, New York Rangers, 7, 1, 3, 6, 1, 31, 5, 93,False
-1978, 11, 2,1, Montreal Canadiens, 6, 2, 4, 6, 3, 20, 4, 41,31, Washington Capitals, 5, 0, 6, 11, 5, 33, 10, 91,True
-1978, 11, 2,21, Philadelphia Flyers, 5, 0, 0, 0, 3, 21, 11, 66,28, Buffalo Sabres, 5, 2, 7, 9, 6, 24, 16, 66,False
-1978, 11, 3,30, Atlanta Flames, 9, 2, 3, 6, 0, 40, 9, 101,22, Pittsburgh Penguins, 1, 0, 4, 5, 3, 33, 21, 112,True
-1978, 11, 3,26, Vancouver Canucks, 5, 0, 1, 1, 0, 21, 11, 74,13, Toronto Maple Leafs, 4, 2, 4, 6, 5, 22, 9, 83,False
-1978, 11, 4,7, Boston Bruins, 9, 0, 4, 8, 2, 38, 11, 113,21, Philadelphia Flyers, 4, 2, 3, 5, 4, 29, 11, 74,False
-1978, 11, 4,33, Colorado Rockies, 2, 0, 0, 0, 5, 28, 16, 104,13, Toronto Maple Leafs, 4, 2, 3, 6, 2, 34, 5, 92,False
-1978, 11, 4,25, Los Angeles Kings, 5, 1, 2, 5, 7, 34, 16, 103,11, New York Rangers, 7, 1, 3, 3, 2, 28, 4, 88,False
-1978, 11, 4,24, Minnesota North Stars, 4, 0, 9, 15, 1, 18, 9, 128,28, Buffalo Sabres, 5, 2, 3, 6, 3, 42, 13, 84,True
-1978, 11, 4,1, Montreal Canadiens, 6, 1, 4, 6, 1, 21, 3, 39,30, Atlanta Flames, 10, 1, 2, 1, 0, 25, 9, 86,True
-1978, 11, 4,29, New York Islanders, 6, 2, 3, 2, 4, 26, 9, 51,31, Washington Capitals, 4, 0, 2, 2, 4, 25, 9, 101,True
-1978, 11, 4,22, Pittsburgh Penguins, 1, 0, 0, 0, 1, 19, 19, 98,17, Detroit Red Wings, 5, 2, 1, 2, 2, 39, 16, 135,True
-1978, 11, 4,23, St. Louis Blues, 3, 2, 1, 0, 5, 32, 23, 156,12, Chicago Black Hawks, 4, 0, 0, 0, 3, 33, 7, 84,False
-1978, 11, 5,7, Boston Bruins, 8, 0, 3, 5, 5, 10, 15, 90,1, Montreal Canadiens, 6, 2, 4, 6, 2, 18, 4, 43,False
-1978, 11, 5,28, Buffalo Sabres, 4, 1, 1, 2, 2, 32, 12, 74,24, Minnesota North Stars, 5, 1, 2, 4, 2, 18, 9, 142,True
-1978, 11, 5,12, Chicago Black Hawks, 5, 1, 5, 8, 1, 23, 9, 88,23, St. Louis Blues, 3, 1, 5, 7, 5, 23, 23, 147,True
-1978, 11, 5,21, Philadelphia Flyers, 4, 1, 6, 9, 3, 29, 10, 72,33, Colorado Rockies, 2, 1, 4, 6, 5, 28, 15, 103,True
-1978, 11, 5,26, Vancouver Canucks, 4, 0, 1, 2, 5, 22, 14, 68,11, New York Rangers, 8, 2, 7, 10, 0, 26, 5, 84,False
-1978, 11, 5,31, Washington Capitals, 3, 0, 2, 2, 4, 43, 9, 121,17, Detroit Red Wings, 5, 2, 3, 5, 1, 15, 17, 107,False
-1978, 11, 7,30, Atlanta Flames, 9, 2, 2, 4, 3, 29, 10, 97,26, Vancouver Canucks, 3, 0, 2, 4, 3, 15, 14, 75,True
-1978, 11, 7,29, New York Islanders, 6, 2, 4, 7, 5, 21, 6, 42,24, Minnesota North Stars, 4, 0, 1, 2, 4, 28, 9, 146,True
-1978, 11, 7,23, St. Louis Blues, 3, 0, 1, 2, 3, 39, 21, 163,13, Toronto Maple Leafs, 5, 2, 4, 7, 1, 31, 7, 95,False
-1978, 11, 8,12, Chicago Black Hawks, 6, 1, 3, 5, 1, 30, 9, 95,13, Toronto Maple Leafs, 5, 1, 5, 9, 4, 37, 6, 80,True
-1978, 11, 8,17, Detroit Red Wings, 6, 1, 3, 6, 3, 36, 19, 128,26, Vancouver Canucks, 3, 1, 2, 4, 5, 29, 15, 102,False
-1978, 11, 8,25, Los Angeles Kings, 4, 1, 3, 4, 4, 30, 18, 89,21, Philadelphia Flyers, 5, 1, 6, 9, 4, 29, 11, 72,False
-1978, 11, 8,11, New York Rangers, 8, 2, 5, 7, 3, 24, 7, 82,24, Minnesota North Stars, 4, 0, 2, 2, 1, 32, 10, 114,False
-1978, 11, 8,22, Pittsburgh Penguins, 2, 1, 7, 11, 5, 27, 21, 110,33, Colorado Rockies, 2, 1, 4, 7, 6, 41, 16, 116,True
-1978, 11, 8,31, Washington Capitals, 2, 0, 3, 6, 3, 23, 8, 101,1, Montreal Canadiens, 6, 2, 1, 2, 1, 17, 3, 42,False
-1978, 11, 9,7, Boston Bruins, 7, 2, 1, 2, 1, 26, 11, 103,31, Washington Capitals, 2, 0, 0, 0, 4, 45, 11, 107,True
-1978, 11, 9,28, Buffalo Sabres, 5, 1, 2, 3, 1, 22, 11, 64,22, Pittsburgh Penguins, 3, 1, 6, 9, 3, 31, 19, 118,False
-1978, 11, 9,1, Montreal Canadiens, 7, 1, 6, 8, 2, 25, 2, 45,17, Detroit Red Wings, 5, 1, 4, 5, 6, 17, 22, 109,True
-1978, 11, 10,30, Atlanta Flames, 9, 2, 4, 7, 2, 27, 11, 94,12, Chicago Black Hawks, 7, 0, 2, 3, 1, 31, 9, 96,True
-1978, 11, 10,33, Colorado Rockies, 2, 1, 3, 4, 6, 39, 16, 114,21, Philadelphia Flyers, 5, 1, 5, 8, 3, 25, 10, 68,False
-1978, 11, 10,26, Vancouver Canucks, 4, 0, 6, 10, 4, 27, 14, 100,24, Minnesota North Stars, 5, 2, 5, 7, 3, 38, 12, 120,False
-1978, 11, 11,17, Detroit Red Wings, 4, 0, 3, 5, 6, 30, 24, 128,7, Boston Bruins, 7, 2, 6, 10, 1, 23, 12, 106,True
-1978, 11, 11,25, Los Angeles Kings, 4, 1, 3, 6, 7, 37, 21, 117,24, Minnesota North Stars, 5, 1, 3, 4, 2, 22, 11, 106,True
-1978, 11, 11,1, Montreal Canadiens, 8, 2, 8, 13, 0, 20, 3, 42,13, Toronto Maple Leafs, 5, 0, 1, 2, 1, 29, 4, 58,True
-1978, 11, 11,29, New York Islanders, 7, 0, 5, 5, 2, 29, 3, 50,30, Atlanta Flames, 9, 2, 5, 8, 3, 26, 12, 93,True
-1978, 11, 11,22, Pittsburgh Penguins, 4, 1, 4, 6, 4, 34, 20, 121,11, New York Rangers, 8, 1, 3, 7, 0, 5, 9, 82,False
-1978, 11, 11,23, St. Louis Blues, 2, 1, 0, 0, 2, 30, 23, 162,33, Colorado Rockies, 2, 1, 2, 4, 2, 39, 12, 114,True
-1978, 11, 11,31, Washington Capitals, 2, 1, 2, 4, 6, 29, 13, 101,28, Buffalo Sabres, 4, 1, 4, 8, 4, 36, 14, 78,False
-1978, 11, 12,28, Buffalo Sabres, 5, 1, 2, 3, 0, 25, 10, 67,7, Boston Bruins, 6, 1, 1, 2, 2, 29, 12, 116,False
-1978, 11, 12,12, Chicago Black Hawks, 6, 2, 3, 3, 5, 47, 13, 112,25, Los Angeles Kings, 4, 0, 8, 9, 1, 34, 15, 114,False
-1978, 11, 12,11, New York Rangers, 8, 0, 2, 3, 2, 24, 10, 124,29, New York Islanders, 7, 2, 4, 4, 1, 17, 3, 43,False
-1978, 11, 12,26, Vancouver Canucks, 4, 1, 2, 4, 3, 17, 13, 90,21, Philadelphia Flyers, 6, 1, 2, 3, 2, 24, 9, 67,False
-1978, 11, 14,29, New York Islanders, 7, 2, 5, 6, 2, 22, 5, 60,33, Colorado Rockies, 1, 0, 3, 4, 2, 26, 14, 97,False
-1978, 11, 14,23, St. Louis Blues, 2, 1, 5, 7, 3, 39, 24, 171,25, Los Angeles Kings, 5, 1, 4, 8, 1, 22, 15, 102,False
-1978, 11, 14,31, Washington Capitals, 2, 1, 0, 0, 2, 23, 9, 95,30, Atlanta Flames, 8, 1, 2, 3, 4, 29, 13, 100,True
-1978, 11, 15,30, Atlanta Flames, 7, 0, 7, 9, 4, 33, 17, 95,17, Detroit Red Wings, 5, 2, 7, 11, 8, 36, 19, 115,True
-1978, 11, 15,33, Colorado Rockies, 2, 0, 2, 4, 4, 22, 14, 98,1, Montreal Canadiens, 8, 2, 3, 6, 2, 29, 5, 51,False
-1978, 11, 15,24, Minnesota North Stars, 5, 1, 1, 3, 8, 30, 17, 114,31, Washington Capitals, 3, 1, 8, 13, 5, 20, 8, 65,False
-1978, 11, 15,11, New York Rangers, 8, 2, 2, 6, 5, 24, 13, 121,12, Chicago Black Hawks, 5, 0, 1, 2, 4, 29, 12, 94,True
-1978, 11, 15,13, Toronto Maple Leafs, 4, 1, 2, 2, 3, 30, 6, 59,28, Buffalo Sabres, 5, 1, 4, 8, 4, 33, 14, 75,False
-1978, 11, 16,7, Boston Bruins, 6, 2, 4, 7, 7, 36, 15, 93,13, Toronto Maple Leafs, 4, 0, 2, 2, 2, 27, 5, 56,False
-1978, 11, 16,28, Buffalo Sabres, 5, 2, 2, 3, 2, 42, 12, 84,23, St. Louis Blues, 2, 0, 2, 4, 3, 21, 28, 148,True
-1978, 11, 16,25, Los Angeles Kings, 5, 0, 4, 5, 2, 20, 13, 93,1, Montreal Canadiens, 8, 2, 6, 7, 3, 22, 4, 43,True
-1978, 11, 16,21, Philadelphia Flyers, 7, 0, 3, 6, 0, 14, 7, 57,12, Chicago Black Hawks, 4, 2, 1, 2, 5, 37, 16, 104,False
-1978, 11, 16,26, Vancouver Canucks, 3, 2, 0, 0, 4, 36, 14, 109,22, Pittsburgh Penguins, 4, 0, 1, 3, 2, 33, 18, 120,False
-1978, 11, 17,30, Atlanta Flames, 7, 1, 5, 11, 3, 19, 16, 81,7, Boston Bruins, 6, 1, 4, 7, 4, 20, 14, 99,False
-1978, 11, 17,31, Washington Capitals, 3, 0, 3, 4, 2, 12, 5, 83,29, New York Islanders, 6, 2, 2, 2, 3, 34, 5, 65,False
-1978, 11, 18,33, Colorado Rockies, 2, 1, 0, 2, 2, 27, 16, 119,12, Chicago Black Hawks, 5, 1, 4, 4, 8, 39, 14, 113,True
-1978, 11, 18,17, Detroit Red Wings, 5, 2, 3, 1, 1, 17, 16, 108,28, Buffalo Sabres, 6, 0, 6, 11, 2, 33, 12, 75,False
-1978, 11, 18,25, Los Angeles Kings, 6, 2, 6, 10, 3, 34, 14, 107,22, Pittsburgh Penguins, 4, 0, 6, 9, 3, 35, 19, 116,False
-1978, 11, 18,24, Minnesota North Stars, 4, 1, 2, 5, 3, 24, 12, 108,11, New York Rangers, 8, 1, 8, 13, 5, 21, 9, 130,False
-1978, 11, 18,29, New York Islanders, 7, 0, 4, 3, 2, 27, 4, 59,21, Philadelphia Flyers, 6, 2, 4, 5, 3, 27, 11, 67,True
-1978, 11, 18,13, Toronto Maple Leafs, 5, 2, 6, 9, 1, 2, 7, 62,23, St. Louis Blues, 2, 0, 2, 4, 5, 38, 31, 158,True
-1978, 11, 18,26, Vancouver Canucks, 3, 0, 3, 5, 4, 42, 15, 102,1, Montreal Canadiens, 8, 2, 3, 4, 1, 21, 7, 43,False
-1978, 11, 19,7, Boston Bruins, 6, 2, 6, 10, 5, 28, 12, 107,23, St. Louis Blues, 1, 0, 1, 2, 6, 31, 29, 155,True
-1978, 11, 19,28, Buffalo Sabres, 7, 1, 3, 4, 1, 39, 11, 81,24, Minnesota North Stars, 4, 1, 2, 4, 4, 29, 11, 111,True
-1978, 11, 19,11, New York Rangers, 8, 0, 7, 12, 1, 33, 6, 143,30, Atlanta Flames, 6, 2, 2, 4, 6, 27, 17, 86,False
-1978, 11, 19,21, Philadelphia Flyers, 5, 2, 3, 3, 3, 10, 12, 40,17, Detroit Red Wings, 4, 0, 1, 2, 5, 29, 17, 112,True
-1978, 11, 20,25, Los Angeles Kings, 6, 1, 1, 2, 5, 39, 13, 116,12, Chicago Black Hawks, 5, 1, 3, 4, 8, 29, 14, 103,True
-1978, 11, 21,30, Atlanta Flames, 6, 1, 3, 4, 1, 30, 12, 89,13, Toronto Maple Leafs, 6, 1, 3, 5, 1, 18, 7, 78,False
-1978, 11, 21,33, Colorado Rockies, 2, 1, 9, 14, 6, 43, 17, 120,29, New York Islanders, 8, 1, 8, 13, 2, 28, 4, 64,False
-1978, 11, 21,23, St. Louis Blues, 1, 1, 2, 4, 3, 35, 28, 162,31, Washington Capitals, 3, 1, 2, 3, 2, 38, 7, 102,False
-1978, 11, 21,26, Vancouver Canucks, 3, 2, 2, 2, 4, 33, 15, 93,12, Chicago Black Hawks, 4, 0, 3, 7, 3, 46, 10, 113,True
-1978, 11, 22,28, Buffalo Sabres, 7, 2, 9, 10, 2, 21, 12, 63,21, Philadelphia Flyers, 6, 0, 3, 6, 3, 22, 12, 52,False
-1978, 11, 22,25, Los Angeles Kings, 6, 1, 4, 5, 3, 23, 11, 100,17, Detroit Red Wings, 3, 1, 3, 2, 2, 21, 16, 114,False
-1978, 11, 22,24, Minnesota North Stars, 4, 0, 1, 4, 2, 24, 15, 119,29, New York Islanders, 8, 2, 7, 13, 2, 32, 3, 60,False
-1978, 11, 22,11, New York Rangers, 7, 2, 1, 2, 1, 47, 8, 129,13, Toronto Maple Leafs, 7, 0, 4, 4, 3, 28, 9, 88,False
-1978, 11, 22,22, Pittsburgh Penguins, 5, 0, 2, 3, 1, 23, 17, 104,1, Montreal Canadiens, 9, 2, 4, 6, 6, 22, 8, 44,False
-1978, 11, 22,31, Washington Capitals, 3, 1, 4, 8, 3, 33, 8, 97,23, St. Louis Blues, 1, 1, 3, 4, 5, 38, 29, 157,False
-1978, 11, 23,7, Boston Bruins, 6, 1, 6, 9, 2, 21, 9, 91,28, Buffalo Sabres, 6, 1, 2, 4, 3, 33, 13, 75,True
-1978, 11, 23,33, Colorado Rockies, 2, 1, 1, 2, 3, 27, 15, 87,26, Vancouver Canucks, 3, 1, 5, 7, 2, 19, 13, 79,False
-1978, 11, 23,1, Montreal Canadiens, 9, 2, 3, 5, 2, 22, 4, 52,22, Pittsburgh Penguins, 5, 0, 2, 4, 3, 40, 19, 121,True
-1978, 11, 24,30, Atlanta Flames, 5, 2, 3, 5, 4, 34, 16, 88,23, St. Louis Blues, 2, 0, 3, 5, 1, 27, 25, 146,True
-1978, 11, 24,21, Philadelphia Flyers, 7, 1, 3, 4, 5, 14, 11, 52,24, Minnesota North Stars, 3, 1, 1, 2, 3, 27, 16, 116,True
-1978, 11, 25,24, Minnesota North Stars, 2, 0, 3, 4, 4, 20, 17, 109,25, Los Angeles Kings, 5, 2, 3, 6, 3, 41, 11, 102,False
-1978, 11, 25,1, Montreal Canadiens, 9, 1, 8, 14, 2, 30, 6, 61,12, Chicago Black Hawks, 4, 1, 2, 4, 4, 39, 11, 112,False
-1978, 11, 25,22, Pittsburgh Penguins, 5, 0, 5, 5, 3, 5, 21, 78,21, Philadelphia Flyers, 8, 2, 5, 8, 2, 22, 9, 52,False
-1978, 11, 25,23, St. Louis Blues, 2, 2, 1, 0, 4, 30, 28, 154,17, Detroit Red Wings, 3, 0, 3, 5, 4, 31, 17, 116,True
-1978, 11, 25,13, Toronto Maple Leafs, 7, 2, 3, 5, 4, 33, 9, 82,33, Colorado Rockies, 2, 0, 2, 3, 4, 11, 19, 91,False
-1978, 11, 25,26, Vancouver Canucks, 3, 0, 7, 10, 2, 35, 13, 95,29, New York Islanders, 8, 2, 4, 10, 1, 24, 2, 60,False
-1978, 11, 25,31, Washington Capitals, 3, 0, 1, 2, 4, 31, 8, 95,7, Boston Bruins, 6, 2, 5, 7, 2, 21, 7, 78,False
-1978, 11, 26,7, Boston Bruins, 6, 1, 5, 7, 3, 26, 8, 75,30, Atlanta Flames, 5, 1, 4, 8, 1, 16, 9, 61,True
-1978, 11, 26,28, Buffalo Sabres, 6, 2, 2, 4, 7, 34, 15, 71,33, Colorado Rockies, 3, 0, 6, 6, 3, 49, 18, 129,True
-1978, 11, 26,17, Detroit Red Wings, 3, 1, 0, 0, 3, 23, 17, 113,25, Los Angeles Kings, 6, 1, 4, 6, 1, 28, 9, 86,True
-1978, 11, 26,11, New York Rangers, 6, 2, 4, 5, 2, 34, 10, 108,31, Washington Capitals, 3, 0, 5, 8, 3, 31, 9, 87,True
-1978, 11, 26,13, Toronto Maple Leafs, 6, 1, 3, 5, 5, 23, 10, 72,22, Pittsburgh Penguins, 5, 1, 1, 1, 3, 30, 21, 103,True
-1978, 11, 28,1, Montreal Canadiens, 8, 2, 3, 4, 4, 31, 12, 62,21, Philadelphia Flyers, 8, 0, 3, 6, 1, 26, 8, 56,True
-1978, 11, 28,23, St. Louis Blues, 3, 1, 4, 8, 0, 21, 24, 145,26, Vancouver Canucks, 3, 1, 2, 2, 5, 43, 16, 103,False
-1978, 11, 29,30, Atlanta Flames, 5, 2, 2, 4, 4, 31, 18, 100,11, New York Rangers, 6, 0, 8, 15, 3, 19, 12, 97,False
-1978, 11, 29,12, Chicago Black Hawks, 4, 0, 9, 11, 3, 34, 10, 107,26, Vancouver Canucks, 4, 2, 6, 11, 3, 33, 14, 93,False
-1978, 11, 29,33, Colorado Rockies, 3, 0, 1, 2, 4, 30, 19, 110,17, Detroit Red Wings, 4, 2, 4, 6, 4, 28, 16, 107,False
-1978, 11, 29,25, Los Angeles Kings, 6, 0, 2, 5, 3, 25, 10, 80,29, New York Islanders, 9, 2, 5, 10, 1, 32, 3, 63,False
-1978, 11, 29,24, Minnesota North Stars, 2, 0, 1, 2, 4, 36, 17, 125,13, Toronto Maple Leafs, 6, 2, 8, 14, 3, 22, 7, 82,False
-1978, 11, 29,22, Pittsburgh Penguins, 5, 1, 4, 3, 5, 22, 21, 84,31, Washington Capitals, 3, 1, 4, 8, 9, 30, 15, 86,True
-1978, 11, 30,28, Buffalo Sabres, 6, 0, 4, 7, 1, 30, 9, 67,7, Boston Bruins, 7, 2, 4, 6, 2, 17, 10, 76,False
-1978, 11, 30,21, Philadelphia Flyers, 7, 2, 0, 0, 3, 14, 9, 56,23, St. Louis Blues, 3, 0, 3, 6, 4, 35, 30, 169,True
-1978, 12, 1,30, Atlanta Flames, 4, 2, 3, 5, 5, 32, 19, 101,24, Minnesota North Stars, 2, 0, 3, 4, 3, 23, 18, 130,False
-1978, 12, 1,26, Vancouver Canucks, 5, 1, 1, 2, 1, 25, 12, 85,17, Detroit Red Wings, 4, 1, 2, 4, 2, 20, 14, 99,True
-1978, 12, 1,31, Washington Capitals, 3, 1, 3, 6, 5, 52, 11, 108,22, Pittsburgh Penguins, 5, 1, 5, 6, 3, 36, 19, 98,False
-1978, 12, 2,7, Boston Bruins, 8, 0, 4, 8, 2, 25, 11, 86,21, Philadelphia Flyers, 7, 2, 3, 5, 2, 26, 6, 59,True
-1978, 12, 2,33, Colorado Rockies, 3, 1, 2, 4, 7, 31, 17, 103,29, New York Islanders, 9, 1, 5, 10, 2, 27, 7, 63,False
-1978, 12, 2,25, Los Angeles Kings, 6, 0, 5, 9, 4, 30, 12, 89,17, Detroit Red Wings, 4, 2, 1, 2, 2, 17, 14, 95,True
-1978, 12, 2,24, Minnesota North Stars, 2, 1, 4, 6, 3, 26, 18, 133,30, Atlanta Flames, 3, 1, 3, 6, 0, 0, 18, 92,True
-1978, 12, 2,1, Montreal Canadiens, 8, 1, 3, 4, 0, 21, 8, 52,28, Buffalo Sabres, 6, 1, 3, 6, 4, 44, 12, 81,True
-1978, 12, 2,22, Pittsburgh Penguins, 5, 1, 7, 12, 4, 28, 20, 90,12, Chicago Black Hawks, 3, 1, 1, 2, 4, 45, 8, 100,True
-1978, 12, 2,23, St. Louis Blues, 2, 1, 0, 0, 3, 34, 29, 168,31, Washington Capitals, 3, 1, 4, 7, 0, 0, 12, 86,True
-1978, 12, 2,13, Toronto Maple Leafs, 6, 1, 5, 8, 2, 33, 7, 93,11, New York Rangers, 6, 1, 6, 9, 4, 23, 12, 114,True
-1978, 12, 3,28, Buffalo Sabres, 5, 1, 1, 2, 7, 26, 14, 64,1, Montreal Canadiens, 8, 1, 8, 13, 8, 31, 9, 50,False
-1978, 12, 3,12, Chicago Black Hawks, 2, 0, 2, 4, 1, 27, 9, 94,33, Colorado Rockies, 3, 2, 2, 4, 5, 26, 15, 98,True
-1978, 12, 3,11, New York Rangers, 5, 0, 2, 4, 3, 36, 13, 127,7, Boston Bruins, 8, 2, 5, 10, 3, 16, 10, 73,False
-1978, 12, 3,21, Philadelphia Flyers, 6, 1, 3, 5, 0, 17, 8, 61,13, Toronto Maple Leafs, 7, 1, 5, 10, 3, 33, 7, 92,True
-1978, 12, 4,25, Los Angeles Kings, 6, 2, 5, 9, 2, 26, 10, 85,31, Washington Capitals, 3, 0, 1, 4, 0, 15, 11, 96,True
-1978, 12, 5,33, Colorado Rockies, 3, 0, 3, 5, 3, 7, 12, 86,31, Washington Capitals, 2, 2, 2, 4, 4, 18, 21, 119,False
-1978, 12, 5,29, New York Islanders, 9, 2, 5, 9, 5, 32, 7, 61,22, Pittsburgh Penguins, 5, 0, 5, 7, 2, 25, 18, 87,False
-1978, 12, 5,13, Toronto Maple Leafs, 7, 1, 2, 4, 2, 32, 11, 97,7, Boston Bruins, 9, 1, 3, 5, 2, 4, 9, 74,False
-1978, 12, 5,26, Vancouver Canucks, 5, 0, 2, 4, 1, 25, 12, 85,30, Atlanta Flames, 3, 2, 3, 3, 4, 23, 22, 113,True
-1978, 12, 6,17, Detroit Red Wings, 4, 0, 2, 2, 2, 16, 17, 106,1, Montreal Canadiens, 8, 2, 4, 6, 1, 19, 2, 44,False
-1978, 12, 6,24, Minnesota North Stars, 2, 0, 5, 5, 5, 30, 22, 139,25, Los Angeles Kings, 6, 2, 10, 13, 2, 23, 10, 82,True
-1978, 12, 6,11, New York Rangers, 5, 2, 2, 2, 3, 26, 13, 114,23, St. Louis Blues, 3, 0, 5, 10, 6, 45, 28, 162,True
-1978, 12, 6,22, Pittsburgh Penguins, 6, 0, 3, 4, 3, 45, 19, 107,13, Toronto Maple Leafs, 7, 2, 1, 1, 7, 38, 14, 103,True
-1978, 12, 7,7, Boston Bruins, 9, 1, 5, 9, 2, 20, 10, 96,17, Detroit Red Wings, 3, 1, 2, 4, 5, 28, 17, 106,True
-1978, 12, 7,28, Buffalo Sabres, 5, 1, 1, 2, 4, 31, 11, 69,25, Los Angeles Kings, 5, 1, 0, 0, 5, 38, 12, 87,False
-1978, 12, 7,29, New York Islanders, 8, 1, 3, 5, 2, 25, 5, 57,23, St. Louis Blues, 3, 1, 4, 8, 2, 28, 29, 150,True
-1978, 12, 7,21, Philadelphia Flyers, 6, 2, 7, 14, 2, 26, 10, 70,11, New York Rangers, 5, 0, 7, 11, 5, 36, 14, 114,False
-1978, 12, 7,26, Vancouver Canucks, 6, 2, 3, 4, 0, 21, 11, 81,12, Chicago Black Hawks, 3, 0, 4, 5, 3, 37, 11, 104,True
-1978, 12, 8,33, Colorado Rockies, 2, 0, 1, 2, 1, 30, 13, 100,30, Atlanta Flames, 3, 2, 0, 0, 3, 30, 22, 108,False
-1978, 12, 8,1, Montreal Canadiens, 8, 2, 2, 5, 1, 25, 3, 48,22, Pittsburgh Penguins, 6, 0, 6, 10, 4, 37, 20, 99,False
-1978, 12, 9,17, Detroit Red Wings, 3, 1, 5, 7, 2, 16, 18, 102,11, New York Rangers, 6, 1, 5, 9, 3, 23, 11, 99,True
-1978, 12, 9,25, Los Angeles Kings, 5, 0, 2, 4, 3, 26, 12, 89,30, Atlanta Flames, 3, 2, 4, 8, 3, 23, 22, 101,True
-1978, 12, 9,24, Minnesota North Stars, 3, 1, 4, 7, 0, 33, 16, 127,33, Colorado Rockies, 2, 1, 3, 5, 4, 26, 16, 96,True
-1978, 12, 9,21, Philadelphia Flyers, 6, 1, 2, 4, 4, 28, 12, 73,7, Boston Bruins, 10, 1, 6, 11, 1, 21, 13, 100,True
-1978, 12, 9,22, Pittsburgh Penguins, 6, 2, 3, 5, 3, 30, 19, 92,28, Buffalo Sabres, 4, 0, 2, 5, 3, 32, 10, 70,False
-1978, 12, 9,23, St. Louis Blues, 3, 0, 1, 2, 7, 33, 34, 156,12, Chicago Black Hawks, 3, 2, 2, 4, 3, 28, 11, 95,False
-1978, 12, 9,13, Toronto Maple Leafs, 6, 1, 4, 5, 5, 38, 13, 88,29, New York Islanders, 8, 1, 7, 13, 3, 28, 4, 47,False
-1978, 12, 9,26, Vancouver Canucks, 7, 2, 4, 7, 2, 33, 13, 93,31, Washington Capitals, 2, 0, 4, 8, 1, 37, 18, 138,False
-1978, 12, 10,7, Boston Bruins, 9, 2, 2, 3, 3, 6, 16, 85,24, Minnesota North Stars, 4, 0, 3, 6, 0, 23, 16, 117,False
-1978, 12, 10,28, Buffalo Sabres, 4, 2, 4, 7, 4, 34, 11, 72,13, Toronto Maple Leafs, 5, 0, 2, 2, 3, 31, 11, 81,True
-1978, 12, 10,12, Chicago Black Hawks, 4, 1, 4, 6, 2, 33, 10, 100,17, Detroit Red Wings, 4, 1, 5, 8, 4, 30, 20, 116,False
-1978, 12, 10,1, Montreal Canadiens, 7, 1, 3, 6, 2, 23, 5, 48,29, New York Islanders, 9, 1, 3, 6, 1, 15, 3, 48,True
-1978, 12, 10,11, New York Rangers, 5, 1, 3, 7, 2, 21, 13, 111,21, Philadelphia Flyers, 7, 1, 9, 15, 2, 18, 10, 63,False
-1978, 12, 12,7, Boston Bruins, 8, 2, 4, 6, 4, 14, 17, 93,26, Vancouver Canucks, 7, 0, 5, 7, 5, 29, 17, 92,True
-1978, 12, 12,29, New York Islanders, 8, 2, 3, 5, 2, 29, 6, 67,25, Los Angeles Kings, 6, 0, 5, 8, 4, 28, 9, 95,False
-1978, 12, 12,23, St. Louis Blues, 3, 0, 2, 5, 7, 34, 31, 156,1, Montreal Canadiens, 8, 2, 4, 6, 3, 21, 6, 46,False
-1978, 12, 12,31, Washington Capitals, 3, 2, 7, 12, 5, 23, 22, 124,33, Colorado Rockies, 1, 0, 0, 0, 2, 36, 14, 106,False
-1978, 12, 13,12, Chicago Black Hawks, 3, 0, 3, 4, 3, 30, 11, 97,28, Buffalo Sabres, 4, 2, 5, 10, 3, 19, 10, 62,False
-1978, 12, 13,17, Detroit Red Wings, 5, 1, 3, 6, 6, 24, 19, 121,30, Atlanta Flames, 3, 1, 1, 1, 4, 21, 21, 120,False
-1978, 12, 13,24, Minnesota North Stars, 5, 0, 4, 5, 4, 22, 20, 116,1, Montreal Canadiens, 8, 2, 6, 9, 3, 25, 3, 44,False
-1978, 12, 13,11, New York Rangers, 4, 1, 1, 1, 5, 35, 15, 119,25, Los Angeles Kings, 6, 1, 6, 9, 5, 32, 10, 99,True
-1978, 12, 13,22, Pittsburgh Penguins, 6, 0, 4, 7, 3, 10, 20, 99,23, St. Louis Blues, 3, 2, 0, 0, 6, 31, 30, 153,True
-1978, 12, 13,13, Toronto Maple Leafs, 4, 2, 3, 5, 5, 47, 13, 97,26, Vancouver Canucks, 7, 0, 3, 6, 6, 32, 19, 101,True
-1978, 12, 14,30, Atlanta Flames, 3, 2, 5, 10, 5, 42, 22, 131,33, Colorado Rockies, 2, 0, 4, 4, 3, 39, 15, 109,True
-1978, 12, 14,7, Boston Bruins, 8, 2, 7, 11, 3, 18, 20, 106,31, Washington Capitals, 2, 0, 2, 5, 6, 30, 21, 128,True
-1978, 12, 14,28, Buffalo Sabres, 4, 2, 6, 7, 0, 5, 6, 50,12, Chicago Black Hawks, 3, 0, 2, 4, 5, 39, 14, 97,True
-1978, 12, 14,29, New York Islanders, 7, 2, 5, 8, 4, 34, 9, 63,17, Detroit Red Wings, 4, 0, 5, 9, 3, 35, 18, 121,True
-1978, 12, 14,21, Philadelphia Flyers, 7, 2, 4, 5, 0, 28, 8, 73,22, Pittsburgh Penguins, 7, 0, 3, 3, 4, 37, 17, 122,True
-1978, 12, 15,31, Washington Capitals, 2, 2, 2, 4, 5, 27, 20, 125,24, Minnesota North Stars, 5, 0, 2, 4, 3, 25, 19, 119,False
-1978, 12, 16,30, Atlanta Flames, 4, 2, 4, 9, 3, 22, 20, 111,21, Philadelphia Flyers, 7, 0, 2, 4, 1, 25, 9, 70,True
-1978, 12, 16,7, Boston Bruins, 8, 2, 5, 8, 2, 28, 19, 116,11, New York Rangers, 5, 0, 7, 12, 1, 4, 13, 82,True
-1978, 12, 16,33, Colorado Rockies, 2, 1, 3, 4, 5, 26, 17, 96,12, Chicago Black Hawks, 3, 1, 2, 3, 6, 30, 12, 94,True
-1978, 12, 16,25, Los Angeles Kings, 6, 1, 7, 13, 1, 27, 14, 101,1, Montreal Canadiens, 8, 1, 3, 7, 0, 19, 2, 48,False
-1978, 12, 16,24, Minnesota North Stars, 6, 0, 6, 9, 1, 33, 17, 127,28, Buffalo Sabres, 5, 2, 3, 5, 2, 25, 8, 70,False
-1978, 12, 16,22, Pittsburgh Penguins, 7, 1, 1, 1, 0, 33, 15, 118,26, Vancouver Canucks, 6, 1, 1, 2, 5, 49, 18, 118,True
-1978, 12, 16,23, St. Louis Blues, 2, 1, 0, 0, 4, 33, 27, 157,29, New York Islanders, 7, 1, 4, 8, 5, 25, 6, 66,False
-1978, 12, 16,13, Toronto Maple Leafs, 4, 0, 5, 7, 1, 28, 9, 78,17, Detroit Red Wings, 4, 2, 1, 2, 4, 32, 19, 118,True
-1978, 12, 17,28, Buffalo Sabres, 6, 1, 5, 8, 2, 27, 8, 72,26, Vancouver Canucks, 5, 1, 5, 8, 7, 38, 19, 109,True
-1978, 12, 17,12, Chicago Black Hawks, 3, 1, 1, 2, 3, 36, 11, 90,22, Pittsburgh Penguins, 8, 1, 6, 9, 2, 33, 20, 115,False
-1978, 12, 17,17, Detroit Red Wings, 3, 0, 2, 2, 4, 46, 19, 132,29, New York Islanders, 7, 2, 2, 4, 1, 37, 3, 67,False
-1978, 12, 17,11, New York Rangers, 5, 0, 2, 2, 6, 23, 16, 106,7, Boston Bruins, 8, 2, 4, 7, 3, 27, 18, 109,False
-1978, 12, 17,21, Philadelphia Flyers, 6, 2, 2, 2, 0, 0, 11, 40,23, St. Louis Blues, 2, 0, 2, 4, 2, 24, 25, 148,True
-1978, 12, 17,31, Washington Capitals, 2, 0, 2, 2, 1, 5, 17, 93,13, Toronto Maple Leafs, 5, 2, 4, 6, 6, 23, 10, 86,True
-1978, 12, 19,33, Colorado Rockies, 2, 1, 5, 8, 4, 21, 13, 96,25, Los Angeles Kings, 5, 1, 2, 6, 5, 25, 17, 94,False
-1978, 12, 19,24, Minnesota North Stars, 6, 2, 2, 2, 5, 26, 20, 110,26, Vancouver Canucks, 5, 0, 3, 4, 7, 34, 25, 136,True
-1978, 12, 19,23, St. Louis Blues, 1, 0, 1, 0, 3, 35, 27, 160,30, Atlanta Flames, 4, 2, 8, 14, 2, 31, 19, 123,True
-1978, 12, 19,31, Washington Capitals, 3, 0, 7, 10, 0, 0, 22, 121,21, Philadelphia Flyers, 6, 2, 4, 5, 1, 17, 12, 57,False
-1978, 12, 20,12, Chicago Black Hawks, 2, 2, 2, 6, 5, 26, 11, 85,1, Montreal Canadiens, 8, 0, 5, 7, 2, 29, 4, 57,False
-1978, 12, 20,17, Detroit Red Wings, 2, 0, 0, 0, 3, 27, 18, 113,26, Vancouver Canucks, 4, 2, 3, 6, 6, 31, 22, 141,True
-1978, 12, 20,11, New York Rangers, 4, 0, 1, 2, 4, 28, 14, 110,28, Buffalo Sabres, 6, 2, 7, 6, 3, 19, 7, 46,True
-1978, 12, 20,13, Toronto Maple Leafs, 4, 2, 6, 10, 2, 13, 9, 53,24, Minnesota North Stars, 7, 0, 5, 6, 3, 31, 18, 115,True
-1978, 12, 21,7, Boston Bruins, 8, 2, 4, 7, 1, 21, 16, 101,33, Colorado Rockies, 2, 0, 2, 4, 1, 26, 11, 103,True
-1978, 12, 21,28, Buffalo Sabres, 6, 1, 3, 6, 0, 8, 10, 61,30, Atlanta Flames, 4, 1, 4, 6, 2, 16, 16, 95,True
-1978, 12, 21,25, Los Angeles Kings, 6, 1, 2, 3, 2, 27, 13, 91,22, Pittsburgh Penguins, 8, 1, 2, 6, 5, 30, 17, 97,False
-1978, 12, 21,1, Montreal Canadiens, 9, 1, 5, 6, 2, 28, 5, 61,12, Chicago Black Hawks, 2, 1, 3, 5, 4, 32, 10, 91,True
-1978, 12, 21,29, New York Islanders, 7, 2, 3, 4, 2, 26, 2, 51,23, St. Louis Blues, 2, 0, 7, 13, 4, 31, 25, 143,True
-1978, 12, 21,21, Philadelphia Flyers, 7, 2, 4, 6, 4, 15, 15, 59,31, Washington Capitals, 3, 0, 4, 8, 4, 39, 26, 160,True
-1978, 12, 22,30, Atlanta Flames, 4, 1, 4, 6, 5, 34, 19, 113,13, Toronto Maple Leafs, 4, 1, 4, 7, 2, 26, 9, 66,True
-1978, 12, 22,11, New York Rangers, 4, 1, 6, 11, 4, 27, 13, 110,17, Detroit Red Wings, 3, 1, 4, 12, 2, 22, 17, 108,True
-1978, 12, 23,7, Boston Bruins, 8, 2, 4, 7, 2, 20, 17, 100,28, Buffalo Sabres, 7, 0, 5, 9, 4, 25, 14, 78,True
-1978, 12, 23,12, Chicago Black Hawks, 2, 2, 1, 2, 3, 31, 11, 92,21, Philadelphia Flyers, 7, 0, 5, 8, 4, 19, 13, 68,True
-1978, 12, 23,17, Detroit Red Wings, 3, 2, 5, 4, 3, 32, 18, 118,31, Washington Capitals, 3, 0, 2, 3, 5, 46, 27, 167,False
-1978, 12, 23,24, Minnesota North Stars, 7, 1, 2, 4, 4, 34, 19, 118,22, Pittsburgh Penguins, 8, 1, 5, 6, 3, 35, 13, 96,True
-1978, 12, 23,1, Montreal Canadiens, 9, 2, 5, 8, 3, 33, 4, 57,33, Colorado Rockies, 2, 0, 2, 3, 3, 18, 12, 77,True
-1978, 12, 23,29, New York Islanders, 7, 2, 5, 8, 0, 21, 1, 47,11, New York Rangers, 5, 0, 4, 7, 3, 28, 11, 102,True
-1978, 12, 23,23, St. Louis Blues, 2, 0, 1, 2, 4, 36, 26, 136,13, Toronto Maple Leafs, 3, 2, 1, 1, 5, 13, 10, 73,False
-1978, 12, 23,26, Vancouver Canucks, 3, 0, 2, 2, 6, 40, 19, 102,25, Los Angeles Kings, 6, 2, 1, 2, 8, 37, 15, 97,True
-1978, 12, 26,30, Atlanta Flames, 5, 1, 3, 6, 1, 27, 17, 97,11, New York Rangers, 5, 1, 4, 8, 1, 13, 15, 91,False
-1978, 12, 26,17, Detroit Red Wings, 3, 0, 2, 4, 2, 18, 17, 104,21, Philadelphia Flyers, 7, 2, 2, 4, 2, 24, 13, 79,False
-1978, 12, 26,29, New York Islanders, 7, 1, 9, 16, 1, 22, 5, 57,13, Toronto Maple Leafs, 4, 1, 5, 8, 3, 33, 6, 93,True
-1978, 12, 26,23, St. Louis Blues, 1, 0, 1, 2, 5, 24, 28, 127,24, Minnesota North Stars, 7, 2, 5, 8, 3, 29, 14, 133,False
-1978, 12, 27,12, Chicago Black Hawks, 2, 2, 5, 8, 5, 33, 10, 89,23, St. Louis Blues, 1, 0, 4, 7, 5, 28, 28, 131,True
-1978, 12, 27,33, Colorado Rockies, 2, 0, 2, 3, 3, 31, 12, 90,28, Buffalo Sabres, 7, 2, 4, 7, 6, 28, 16, 81,False
-1978, 12, 27,17, Detroit Red Wings, 3, 0, 2, 4, 2, 30, 17, 116,1, Montreal Canadiens, 9, 2, 3, 7, 1, 24, 3, 40,False
-1978, 12, 27,24, Minnesota North Stars, 7, 1, 6, 11, 4, 25, 15, 129,31, Washington Capitals, 4, 1, 2, 4, 5, 17, 24, 153,True
-1978, 12, 27,22, Pittsburgh Penguins, 7, 2, 3, 5, 1, 29, 15, 88,25, Los Angeles Kings, 5, 0, 0, 0, 2, 23, 12, 97,True
-1978, 12, 27,13, Toronto Maple Leafs, 4, 1, 1, 4, 5, 51, 8, 111,7, Boston Bruins, 8, 1, 6, 12, 4, 24, 16, 93,False
-1978, 12, 28,30, Atlanta Flames, 5, 1, 3, 6, 5, 43, 21, 113,29, New York Islanders, 8, 1, 5, 10, 4, 31, 5, 55,False
-1978, 12, 28,1, Montreal Canadiens, 9, 1, 4, 7, 2, 16, 4, 36,25, Los Angeles Kings, 4, 1, 2, 2, 0, 8, 11, 71,False
-1978, 12, 28,21, Philadelphia Flyers, 7, 1, 2, 4, 2, 21, 13, 76,11, New York Rangers, 5, 1, 5, 8, 4, 26, 17, 101,True
-1978, 12, 28,26, Vancouver Canucks, 3, 1, 2, 4, 0, 24, 13, 86,28, Buffalo Sabres, 8, 1, 5, 7, 6, 34, 12, 89,False
-1978, 12, 30,12, Chicago Black Hawks, 3, 0, 4, 7, 2, 28, 8, 81,11, New York Rangers, 4, 2, 5, 7, 3, 23, 19, 107,False
-1978, 12, 30,33, Colorado Rockies, 2, 1, 2, 3, 5, 27, 14, 86,24, Minnesota North Stars, 7, 1, 6, 9, 1, 29, 12, 133,True
-1978, 12, 30,25, Los Angeles Kings, 5, 1, 3, 3, 3, 31, 14, 94,26, Vancouver Canucks, 2, 1, 3, 6, 3, 24, 16, 86,True
-1978, 12, 30,1, Montreal Canadiens, 8, 2, 3, 6, 2, 20, 5, 46,7, Boston Bruins, 8, 0, 1, 2, 1, 27, 13, 96,True
-1978, 12, 30,29, New York Islanders, 8, 2, 10, 18, 1, 20, 5, 52,30, Atlanta Flames, 5, 0, 4, 8, 7, 22, 21, 89,True
-1978, 12, 30,22, Pittsburgh Penguins, 7, 1, 5, 7, 2, 33, 16, 92,17, Detroit Red Wings, 2, 1, 2, 4, 5, 32, 20, 118,True
-1978, 12, 30,23, St. Louis Blues, 1, 0, 3, 6, 6, 27, 22, 124,21, Philadelphia Flyers, 8, 2, 6, 7, 4, 30, 16, 80,True
-1978, 12, 30,13, Toronto Maple Leafs, 4, 1, 1, 2, 1, 35, 4, 95,31, Washington Capitals, 4, 1, 1, 1, 2, 32, 25, 177,False
-1978, 12, 31,28, Buffalo Sabres, 8, 0, 3, 8, 2, 36, 9, 82,7, Boston Bruins, 7, 2, 1, 1, 1, 19, 18, 99,False
-1978, 12, 31,17, Detroit Red Wings, 1, 0, 1, 2, 5, 24, 18, 120,22, Pittsburgh Penguins, 7, 2, 3, 6, 1, 28, 15, 87,False
-1978, 12, 31,11, New York Rangers, 5, 2, 5, 9, 8, 23, 20, 119,30, Atlanta Flames, 4, 0, 2, 3, 0, 8, 12, 96,False
-1979, 1, 1,25, Los Angeles Kings, 5, 2, 4, 8, 0, 13, 6, 46,33, Colorado Rockies, 3, 0, 7, 13, 1, 10, 11, 93,True
-1979, 1, 2,33, Colorado Rockies, 3, 1, 3, 5, 2, 34, 15, 113,23, St. Louis Blues, 2, 1, 5, 11, 3, 31, 24, 147,True
-1979, 1, 2,29, New York Islanders, 8, 2, 4, 6, 2, 30, 6, 62,26, Vancouver Canucks, 1, 0, 0, 0, 4, 39, 17, 101,True
-1979, 1, 3,12, Chicago Black Hawks, 2, 1, 5, 7, 3, 25, 11, 85,7, Boston Bruins, 8, 1, 7, 12, 6, 30, 20, 104,False
-1979, 1, 3,24, Minnesota North Stars, 6, 2, 2, 4, 7, 19, 18, 123,23, St. Louis Blues, 2, 0, 2, 4, 3, 34, 24, 150,False
-1979, 1, 3,11, New York Rangers, 5, 2, 5, 7, 4, 35, 18, 123,1, Montreal Canadiens, 9, 0, 7, 10, 1, 26, 4, 52,True
-1979, 1, 3,22, Pittsburgh Penguins, 7, 2, 5, 7, 4, 23, 18, 82,26, Vancouver Canucks, 1, 0, 0, 0, 3, 14, 22, 97,False
-1979, 1, 3,13, Toronto Maple Leafs, 4, 1, 5, 7, 5, 28, 8, 88,30, Atlanta Flames, 5, 1, 6, 10, 4, 25, 17, 119,False
-1979, 1, 3,31, Washington Capitals, 4, 0, 5, 7, 5, 35, 28, 180,25, Los Angeles Kings, 5, 2, 5, 10, 3, 20, 9, 53,True
-1979, 1, 4,28, Buffalo Sabres, 7, 2, 3, 5, 0, 11, 11, 48,12, Chicago Black Hawks, 2, 0, 3, 6, 5, 32, 13, 86,False
-1979, 1, 4,1, Montreal Canadiens, 8, 1, 2, 1, 3, 26, 9, 52,25, Los Angeles Kings, 4, 1, 3, 6, 6, 32, 9, 45,False
-1979, 1, 4,21, Philadelphia Flyers, 7, 1, 3, 4, 5, 25, 17, 77,29, New York Islanders, 9, 1, 9, 16, 4, 28, 4, 55,True
-1979, 1, 5,30, Atlanta Flames, 5, 2, 3, 6, 1, 27, 14, 121,22, Pittsburgh Penguins, 7, 0, 3, 5, 5, 27, 19, 122,False
-1979, 1, 5,33, Colorado Rockies, 4, 0, 4, 6, 2, 21, 15, 100,7, Boston Bruins, 9, 2, 6, 9, 3, 24, 14, 78,False
-1979, 1, 5,11, New York Rangers, 5, 2, 6, 10, 6, 32, 16, 115,26, Vancouver Canucks, 2, 0, 5, 7, 3, 51, 22, 134,True
-1979, 1, 6,17, Detroit Red Wings, 1, 1, 4, 8, 0, 2, 15, 94,31, Washington Capitals, 4, 1, 7, 13, 3, 43, 26, 188,False
-1979, 1, 6,24, Minnesota North Stars, 5, 1, 3, 6, 3, 29, 14, 133,7, Boston Bruins, 9, 1, 5, 6, 3, 22, 14, 76,False
-1979, 1, 6,1, Montreal Canadiens, 7, 2, 4, 8, 6, 26, 11, 52,26, Vancouver Canucks, 2, 0, 4, 7, 9, 35, 25, 111,True
-1979, 1, 6,29, New York Islanders, 9, 1, 2, 3, 0, 23, 3, 58,21, Philadelphia Flyers, 7, 1, 3, 6, 5, 27, 14, 84,True
-1979, 1, 6,22, Pittsburgh Penguins, 7, 2, 3, 2, 5, 26, 20, 92,25, Los Angeles Kings, 5, 0, 4, 8, 4, 30, 11, 69,False
-1979, 1, 6,23, St. Louis Blues, 3, 1, 4, 4, 3, 35, 24, 151,33, Colorado Rockies, 3, 1, 3, 6, 4, 23, 17, 102,False
-1979, 1, 6,13, Toronto Maple Leafs, 4, 1, 1, 2, 4, 35, 7, 95,12, Chicago Black Hawks, 3, 1, 3, 5, 5, 26, 11, 94,False
-1979, 1, 7,28, Buffalo Sabres, 6, 1, 3, 5, 7, 18, 14, 60,17, Detroit Red Wings, 1, 1, 1, 2, 5, 30, 19, 120,True
-1979, 1, 7,12, Chicago Black Hawks, 4, 1, 5, 8, 3, 48, 9, 116,31, Washington Capitals, 5, 1, 4, 6, 6, 33, 24, 171,True
-1979, 1, 7,21, Philadelphia Flyers, 6, 2, 1, 2, 3, 9, 12, 50,25, Los Angeles Kings, 6, 0, 4, 6, 2, 6, 10, 85,True
-1979, 1, 8,1, Montreal Canadiens, 7, 2, 2, 4, 0, 24, 5, 50,24, Minnesota North Stars, 5, 0, 2, 3, 3, 27, 15, 140,True
-1979, 1, 8,13, Toronto Maple Leafs, 3, 2, 3, 5, 1, 33, 7, 91,26, Vancouver Canucks, 2, 0, 0, 0, 2, 33, 18, 109,False
-1979, 1, 9,30, Atlanta Flames, 4, 1, 3, 6, 3, 26, 16, 104,28, Buffalo Sabres, 6, 1, 4, 4, 3, 28, 10, 70,True
-1979, 1, 9,29, New York Islanders, 9, 1, 5, 6, 3, 31, 4, 55,25, Los Angeles Kings, 5, 1, 0, 0, 3, 45, 11, 124,True
-1979, 1, 9,23, St. Louis Blues, 3, 0, 0, 3, 3, 19, 24, 135,11, New York Rangers, 6, 2, 6, 9, 2, 27, 14, 109,False
-1979, 1, 9,31, Washington Capitals, 5, 0, 3, 5, 1, 8, 22, 143,21, Philadelphia Flyers, 7, 2, 3, 5, 3, 9, 9, 60,False
-1979, 1, 10,12, Chicago Black Hawks, 5, 0, 5, 7, 3, 28, 9, 96,25, Los Angeles Kings, 5, 2, 1, 1, 3, 46, 15, 121,True
-1979, 1, 10,33, Colorado Rockies, 4, 0, 4, 7, 1, 30, 14, 109,11, New York Rangers, 7, 2, 6, 8, 6, 27, 15, 106,False
-1979, 1, 10,17, Detroit Red Wings, 1, 0, 3, 7, 4, 28, 18, 115,29, New York Islanders, 9, 2, 7, 13, 1, 20, 2, 54,False
-1979, 1, 10,22, Pittsburgh Penguins, 7, 1, 3, 5, 3, 20, 19, 90,1, Montreal Canadiens, 7, 1, 3, 4, 5, 26, 6, 44,True
-1979, 1, 10,13, Toronto Maple Leafs, 2, 2, 1, 2, 4, 31, 11, 93,24, Minnesota North Stars, 4, 0, 1, 1, 2, 22, 18, 137,False
-1979, 1, 11,7, Boston Bruins, 9, 1, 4, 5, 2, 28, 18, 118,24, Minnesota North Stars, 5, 1, 2, 0, 4, 36, 18, 142,True
-1979, 1, 11,28, Buffalo Sabres, 5, 1, 3, 6, 5, 39, 12, 81,31, Washington Capitals, 5, 1, 3, 4, 5, 22, 26, 157,True
-1979, 1, 11,21, Philadelphia Flyers, 7, 2, 5, 9, 0, 19, 8, 94,17, Detroit Red Wings, 1, 0, 5, 9, 5, 28, 19, 115,False
-1979, 1, 11,26, Vancouver Canucks, 3, 1, 5, 9, 1, 26, 17, 102,23, St. Louis Blues, 3, 1, 3, 3, 4, 24, 26, 154,True
-1979, 1, 12,30, Atlanta Flames, 4, 0, 5, 10, 5, 32, 18, 119,29, New York Islanders, 9, 2, 5, 10, 1, 30, 6, 68,False
-1979, 1, 12,31, Washington Capitals, 4, 1, 2, 4, 6, 27, 27, 162,33, Colorado Rockies, 3, 1, 3, 5, 5, 33, 18, 112,True
-1979, 1, 13,17, Detroit Red Wings, 1, 1, 3, 6, 3, 40, 17, 127,25, Los Angeles Kings, 5, 1, 0, 1, 3, 28, 14, 115,False
-1979, 1, 13,24, Minnesota North Stars, 4, 0, 4, 6, 2, 27, 20, 127,12, Chicago Black Hawks, 6, 2, 3, 5, 0, 32, 6, 100,True
-1979, 1, 13,1, Montreal Canadiens, 6, 2, 2, 4, 1, 18, 4, 39,28, Buffalo Sabres, 5, 0, 6, 10, 2, 27, 9, 69,True
-1979, 1, 13,22, Pittsburgh Penguins, 7, 0, 3, 6, 2, 31, 18, 101,7, Boston Bruins, 9, 2, 6, 10, 3, 24, 20, 110,True
-1979, 1, 13,23, St. Louis Blues, 2, 0, 3, 5, 4, 31, 26, 161,26, Vancouver Canucks, 4, 2, 4, 6, 3, 25, 19, 101,False
-1979, 1, 13,13, Toronto Maple Leafs, 2, 1, 2, 1, 5, 35, 9, 100,33, Colorado Rockies, 3, 1, 1, 1, 1, 13, 16, 91,True
-1979, 1, 14,30, Atlanta Flames, 4, 1, 2, 2, 3, 22, 17, 111,11, New York Rangers, 7, 1, 5, 9, 3, 24, 12, 103,False
-1979, 1, 14,7, Boston Bruins, 8, 2, 3, 4, 5, 36, 22, 122,25, Los Angeles Kings, 6, 0, 7, 12, 7, 42, 18, 112,False
-1979, 1, 14,28, Buffalo Sabres, 5, 1, 2, 4, 3, 23, 11, 68,22, Pittsburgh Penguins, 7, 1, 5, 10, 3, 28, 19, 98,False
-1979, 1, 14,21, Philadelphia Flyers, 6, 1, 3, 3, 2, 43, 11, 97,29, New York Islanders, 9, 1, 4, 8, 5, 34, 6, 66,False
-1979, 1, 14,31, Washington Capitals, 5, 1, 8, 12, 1, 23, 22, 158,26, Vancouver Canucks, 5, 1, 3, 5, 6, 28, 19, 106,True
-1979, 1, 15,11, New York Rangers, 7, 1, 6, 12, 4, 26, 13, 107,24, Minnesota North Stars, 5, 1, 4, 8, 6, 21, 18, 123,False
-1979, 1, 16,30, Atlanta Flames, 4, 2, 3, 8, 5, 28, 19, 117,21, Philadelphia Flyers, 5, 0, 1, 2, 3, 22, 10, 84,True
-1979, 1, 16,33, Colorado Rockies, 3, 1, 2, 4, 7, 29, 19, 112,13, Toronto Maple Leafs, 2, 1, 4, 7, 2, 38, 6, 99,False
-1979, 1, 16,29, New York Islanders, 9, 2, 1, 2, 1, 28, 2, 61,31, Washington Capitals, 6, 0, 5, 5, 3, 26, 24, 161,True
-1979, 1, 16,22, Pittsburgh Penguins, 7, 1, 5, 10, 4, 24, 19, 95,24, Minnesota North Stars, 5, 1, 8, 13, 3, 24, 13, 136,True
-1979, 1, 16,23, St. Louis Blues, 2, 0, 3, 4, 5, 38, 25, 157,7, Boston Bruins, 7, 2, 3, 5, 4, 20, 19, 90,True
-1979, 1, 16,26, Vancouver Canucks, 4, 0, 3, 6, 3, 30, 18, 101,1, Montreal Canadiens, 6, 2, 5, 7, 2, 29, 5, 50,False
-1979, 1, 17,12, Chicago Black Hawks, 6, 1, 3, 5, 4, 39, 10, 107,33, Colorado Rockies, 3, 1, 2, 4, 4, 34, 15, 110,True
-1979, 1, 17,17, Detroit Red Wings, 1, 0, 3, 3, 7, 33, 21, 120,22, Pittsburgh Penguins, 8, 2, 5, 5, 4, 30, 15, 96,True
-1979, 1, 17,25, Los Angeles Kings, 6, 2, 6, 9, 3, 32, 8, 93,1, Montreal Canadiens, 6, 0, 2, 4, 2, 20, 5, 41,False
-1979, 1, 17,11, New York Rangers, 7, 0, 1, 2, 4, 28, 14, 78,29, New York Islanders, 9, 2, 6, 11, 1, 29, 3, 64,True
-1979, 1, 18,7, Boston Bruins, 6, 1, 2, 4, 6, 20, 20, 98,23, St. Louis Blues, 3, 1, 5, 10, 2, 28, 22, 147,True
-1979, 1, 18,21, Philadelphia Flyers, 5, 1, 0, 0, 1, 30, 12, 89,28, Buffalo Sabres, 4, 1, 4, 8, 4, 26, 13, 68,False
-1979, 1, 19,30, Atlanta Flames, 4, 2, 5, 9, 0, 36, 13, 116,12, Chicago Black Hawks, 7, 0, 2, 4, 1, 26, 7, 94,True
-1979, 1, 19,33, Colorado Rockies, 3, 1, 1, 2, 3, 27, 13, 132,24, Minnesota North Stars, 4, 1, 0, 1, 1, 34, 15, 155,True
-1979, 1, 19,26, Vancouver Canucks, 4, 1, 2, 5, 2, 37, 17, 108,13, Toronto Maple Leafs, 3, 1, 3, 4, 2, 34, 6, 82,False
-1979, 1, 19,31, Washington Capitals, 5, 2, 2, 4, 6, 26, 27, 161,17, Detroit Red Wings, 2, 0, 4, 7, 1, 30, 15, 117,True
-1979, 1, 20,7, Boston Bruins, 6, 2, 4, 8, 0, 13, 14, 91,28, Buffalo Sabres, 5, 0, 4, 5, 4, 28, 13, 70,False
-1979, 1, 20,17, Detroit Red Wings, 2, 0, 1, 0, 5, 28, 19, 115,30, Atlanta Flames, 5, 2, 6, 11, 4, 24, 14, 104,False
-1979, 1, 20,25, Los Angeles Kings, 5, 0, 3, 4, 3, 26, 15, 95,13, Toronto Maple Leafs, 3, 2, 2, 5, 2, 21, 7, 72,False
-1979, 1, 20,24, Minnesota North Stars, 3, 0, 3, 6, 5, 43, 19, 141,33, Colorado Rockies, 3, 2, 5, 6, 2, 56, 13, 140,False
-1979, 1, 20,1, Montreal Canadiens, 6, 2, 7, 10, 3, 26, 6, 47,21, Philadelphia Flyers, 4, 0, 4, 7, 4, 29, 15, 88,False
-1979, 1, 20,29, New York Islanders, 8, 1, 3, 4, 2, 31, 7, 74,12, Chicago Black Hawks, 6, 1, 1, 1, 6, 34, 12, 102,True
-1979, 1, 20,22, Pittsburgh Penguins, 7, 2, 1, 1, 0, 25, 15, 99,31, Washington Capitals, 6, 0, 5, 8, 1, 35, 22, 170,False
-1979, 1, 20,23, St. Louis Blues, 3, 0, 0, 0, 3, 27, 24, 148,11, New York Rangers, 7, 2, 5, 8, 3, 25, 13, 75,True
-1979, 1, 21,11, New York Rangers, 7, 0, 2, 4, 3, 22, 13, 72,21, Philadelphia Flyers, 4, 2, 5, 6, 5, 27, 16, 90,False
-1979, 1, 22,7, Boston Bruins, 6, 2, 0, 2, 5, 28, 16, 90,30, Atlanta Flames, 6, 0, 5, 6, 1, 24, 13, 112,True
-1979, 1, 22,12, Chicago Black Hawks, 5, 0, 2, 3, 4, 39, 10, 107,29, New York Islanders, 8, 2, 3, 7, 2, 27, 7, 70,False
-1979, 1, 23,23, St. Louis Blues, 4, 0, 3, 6, 2, 31, 23, 152,1, Montreal Canadiens, 6, 2, 5, 8, 5, 34, 8, 55,False
-1979, 1, 24,25, Los Angeles Kings, 4, 1, 2, 3, 7, 44, 15, 92,22, Pittsburgh Penguins, 6, 1, 2, 4, 4, 33, 20, 110,True
-1979, 1, 24,24, Minnesota North Stars, 3, 1, 3, 5, 4, 30, 17, 127,13, Toronto Maple Leafs, 4, 1, 5, 4, 2, 36, 7, 87,False
-1979, 1, 24,26, Vancouver Canucks, 4, 2, 3, 4, 3, 24, 18, 95,12, Chicago Black Hawks, 5, 0, 1, 2, 2, 31, 8, 99,False
-1979, 1, 24,31, Washington Capitals, 6, 0, 5, 9, 2, 39, 23, 174,11, New York Rangers, 6, 2, 5, 8, 5, 25, 15, 75,True
-1979, 1, 25,7, Boston Bruins, 6, 1, 3, 5, 2, 15, 12, 79,29, New York Islanders, 8, 1, 2, 3, 5, 39, 6, 62,False
-1979, 1, 25,28, Buffalo Sabres, 5, 1, 1, 6, 1, 27, 10, 69,11, New York Rangers, 6, 1, 1, 1, 5, 34, 15, 84,False
-1979, 1, 25,33, Colorado Rockies, 4, 1, 3, 6, 3, 35, 14, 122,22, Pittsburgh Penguins, 5, 1, 1, 2, 5, 36, 19, 111,True
-1979, 1, 25,25, Los Angeles Kings, 5, 2, 4, 6, 1, 23, 9, 71,17, Detroit Red Wings, 2, 0, 3, 6, 4, 20, 18, 107,False
-1979, 1, 25,1, Montreal Canadiens, 6, 1, 6, 10, 3, 21, 6, 52,30, Atlanta Flames, 6, 1, 1, 2, 3, 22, 15, 110,True
-1979, 1, 26,30, Atlanta Flames, 5, 2, 0, 0, 4, 26, 15, 91,13, Toronto Maple Leafs, 5, 0, 1, 4, 2, 34, 7, 85,True
-1979, 1, 26,26, Vancouver Canucks, 4, 2, 0, 0, 5, 15, 20, 86,23, St. Louis Blues, 3, 0, 3, 6, 4, 29, 27, 151,True
-1979, 1, 27,33, Colorado Rockies, 4, 0, 5, 10, 3, 38, 14, 109,26, Vancouver Canucks, 4, 2, 4, 8, 4, 17, 16, 96,False
-1979, 1, 27,17, Detroit Red Wings, 3, 0, 6, 6, 4, 25, 20, 119,28, Buffalo Sabres, 4, 2, 5, 6, 5, 23, 14, 63,False
-1979, 1, 27,24, Minnesota North Stars, 3, 1, 2, 4, 2, 25, 15, 122,21, Philadelphia Flyers, 5, 1, 5, 7, 5, 31, 16, 99,True
-1979, 1, 27,1, Montreal Canadiens, 7, 2, 6, 10, 3, 31, 3, 45,7, Boston Bruins, 5, 0, 2, 2, 1, 17, 13, 80,True
-1979, 1, 27,29, New York Islanders, 9, 1, 4, 6, 1, 19, 3, 53,11, New York Rangers, 6, 1, 5, 8, 4, 39, 14, 89,False
-1979, 1, 27,22, Pittsburgh Penguins, 5, 0, 3, 6, 3, 34, 18, 109,25, Los Angeles Kings, 4, 2, 6, 11, 6, 26, 16, 86,True
-1979, 1, 27,31, Washington Capitals, 6, 1, 5, 9, 1, 18, 22, 153,12, Chicago Black Hawks, 6, 1, 5, 11, 0, 34, 6, 102,True
-1979, 1, 28,30, Atlanta Flames, 5, 2, 4, 8, 2, 9, 13, 95,17, Detroit Red Wings, 3, 0, 3, 6, 6, 32, 22, 128,True
-1979, 1, 28,7, Boston Bruins, 4, 1, 1, 0, 3, 27, 15, 90,25, Los Angeles Kings, 3, 1, 3, 6, 3, 23, 16, 94,False
-1979, 1, 28,28, Buffalo Sabres, 5, 2, 6, 10, 3, 24, 12, 64,24, Minnesota North Stars, 4, 0, 3, 5, 3, 29, 14, 123,False
-1979, 1, 28,12, Chicago Black Hawks, 5, 2, 1, 1, 3, 31, 9, 99,23, St. Louis Blues, 3, 0, 1, 1, 6, 30, 27, 154,False
-1979, 1, 28,31, Washington Capitals, 6, 2, 4, 6, 1, 31, 22, 166,13, Toronto Maple Leafs, 5, 0, 2, 4, 4, 19, 9, 70,False
-1979, 1, 29,21, Philadelphia Flyers, 4, 1, 1, 2, 3, 30, 14, 98,1, Montreal Canadiens, 8, 1, 3, 5, 0, 14, 1, 36,False
-1979, 1, 30,17, Detroit Red Wings, 3, 0, 2, 5, 7, 31, 23, 127,31, Washington Capitals, 6, 2, 2, 3, 2, 27, 23, 162,True
-1979, 1, 30,29, New York Islanders, 8, 2, 2, 3, 2, 30, 9, 67,24, Minnesota North Stars, 5, 0, 3, 5, 1, 26, 12, 120,False
-1979, 1, 30,23, St. Louis Blues, 3, 0, 7, 10, 2, 29, 23, 153,25, Los Angeles Kings, 4, 2, 5, 8, 3, 30, 13, 94,True
-1979, 1, 30,26, Vancouver Canucks, 5, 0, 2, 3, 2, 20, 13, 82,11, New York Rangers, 6, 2, 7, 13, 2, 25, 12, 75,False
-1979, 1, 31,28, Buffalo Sabres, 5, 1, 1, 3, 5, 21, 12, 59,30, Atlanta Flames, 6, 1, 7, 8, 2, 27, 13, 115,False
-1979, 1, 31,12, Chicago Black Hawks, 4, 1, 2, 2, 7, 37, 13, 105,7, Boston Bruins, 3, 1, 3, 6, 3, 16, 21, 97,False
-1979, 1, 31,33, Colorado Rockies, 4, 0, 2, 2, 3, 22, 13, 96,11, New York Rangers, 6, 2, 5, 11, 3, 8, 13, 97,True
-1979, 1, 31,22, Pittsburgh Penguins, 5, 2, 5, 8, 4, 34, 18, 106,1, Montreal Canadiens, 8, 0, 7, 15, 1, 22, 4, 55,False
-1979, 1, 31,13, Toronto Maple Leafs, 6, 2, 2, 3, 3, 24, 7, 84,23, St. Louis Blues, 4, 0, 7, 13, 1, 29, 22, 153,True
-1979, 1, 31,31, Washington Capitals, 6, 1, 4, 6, 6, 31, 27, 166,25, Los Angeles Kings, 4, 1, 1, 2, 5, 35, 17, 94,True
-1979, 2, 1,30, Atlanta Flames, 6, 1, 5, 9, 2, 29, 13, 129,26, Vancouver Canucks, 5, 1, 3, 5, 5, 36, 16, 98,True
-1979, 2, 1,7, Boston Bruins, 3, 2, 2, 4, 2, 19, 20, 100,12, Chicago Black Hawks, 3, 0, 2, 4, 3, 40, 8, 105,True
-1979, 2, 1,24, Minnesota North Stars, 5, 1, 5, 8, 4, 26, 13, 125,17, Detroit Red Wings, 4, 1, 7, 12, 4, 24, 20, 120,True
-1979, 2, 1,21, Philadelphia Flyers, 4, 0, 3, 6, 3, 19, 13, 62,29, New York Islanders, 7, 2, 4, 8, 7, 33, 12, 61,False
-1979, 2, 3,30, Atlanta Flames, 7, 2, 4, 6, 2, 41, 12, 134,12, Chicago Black Hawks, 2, 0, 1, 2, 6, 32, 11, 97,False
-1979, 2, 3,25, Los Angeles Kings, 4, 0, 3, 4, 4, 31, 18, 102,11, New York Rangers, 5, 2, 4, 8, 3, 47, 15, 111,True
-1979, 2, 3,24, Minnesota North Stars, 6, 1, 6, 11, 0, 2, 9, 102,28, Buffalo Sabres, 4, 1, 2, 3, 5, 24, 12, 62,False
-1979, 2, 3,29, New York Islanders, 7, 1, 4, 6, 5, 24, 6, 52,7, Boston Bruins, 4, 1, 5, 6, 1, 17, 19, 98,False
-1979, 2, 3,22, Pittsburgh Penguins, 5, 1, 1, 0, 4, 31, 18, 103,17, Detroit Red Wings, 4, 1, 1, 2, 6, 36, 22, 132,True
-1979, 2, 3,23, St. Louis Blues, 4, 0, 1, 0, 4, 32, 26, 154,33, Colorado Rockies, 4, 2, 5, 9, 2, 25, 14, 116,True
-1979, 2, 3,13, Toronto Maple Leafs, 7, 0, 6, 8, 2, 33, 5, 89,1, Montreal Canadiens, 8, 2, 3, 8, 1, 24, 4, 57,False
-1979, 2, 3,31, Washington Capitals, 7, 2, 5, 8, 3, 28, 24, 163,26, Vancouver Canucks, 4, 0, 1, 2, 4, 37, 15, 99,False
-1979, 2, 4,7, Boston Bruins, 5, 2, 4, 6, 6, 24, 22, 103,26, Vancouver Canucks, 4, 0, 5, 9, 1, 31, 12, 93,True
-1979, 2, 4,28, Buffalo Sabres, 5, 2, 2, 3, 1, 45, 8, 83,23, St. Louis Blues, 5, 0, 6, 12, 5, 30, 25, 146,True
-1979, 2, 4,12, Chicago Black Hawks, 3, 0, 4, 8, 2, 37, 7, 113,29, New York Islanders, 6, 2, 4, 5, 1, 24, 5, 61,True
-1979, 2, 4,33, Colorado Rockies, 4, 0, 3, 6, 4, 42, 18, 129,25, Los Angeles Kings, 4, 2, 4, 5, 2, 34, 14, 97,False
-1979, 2, 4,17, Detroit Red Wings, 3, 1, 2, 4, 4, 28, 20, 124,22, Pittsburgh Penguins, 5, 1, 4, 6, 3, 8, 16, 102,True
-1979, 2, 4,24, Minnesota North Stars, 5, 1, 1, 2, 1, 27, 11, 125,13, Toronto Maple Leafs, 7, 1, 3, 4, 6, 31, 9, 87,True
-1979, 2, 4,21, Philadelphia Flyers, 3, 0, 1, 1, 4, 18, 14, 61,30, Atlanta Flames, 7, 2, 2, 3, 1, 34, 13, 107,True
-1979, 2, 4,31, Washington Capitals, 6, 0, 1, 2, 4, 38, 25, 173,1, Montreal Canadiens, 9, 2, 7, 12, 3, 33, 6, 63,False
-1979, 2, 12,12, Chicago Black Hawks, 3, 2, 5, 10, 4, 31, 9, 107,13, Toronto Maple Leafs, 7, 0, 4, 8, 6, 45, 9, 101,False
-1979, 2, 13,29, New York Islanders, 5, 2, 5, 7, 4, 33, 9, 74,33, Colorado Rockies, 4, 0, 1, 1, 6, 38, 17, 123,True
-1979, 2, 13,23, St. Louis Blues, 5, 0, 2, 3, 2, 38, 22, 154,26, Vancouver Canucks, 3, 2, 1, 0, 5, 23, 17, 89,False
-1979, 2, 14,28, Buffalo Sabres, 5, 0, 3, 6, 1, 32, 8, 70,29, New York Islanders, 5, 2, 6, 10, 5, 37, 6, 68,True
-1979, 2, 14,12, Chicago Black Hawks, 3, 1, 2, 4, 2, 48, 10, 104,30, Atlanta Flames, 6, 1, 4, 5, 2, 11, 15, 81,False
-1979, 2, 14,17, Detroit Red Wings, 4, 1, 8, 15, 3, 21, 19, 117,25, Los Angeles Kings, 4, 1, 4, 8, 1, 31, 12, 87,False
-1979, 2, 14,24, Minnesota North Stars, 5, 2, 6, 12, 4, 26, 14, 124,26, Vancouver Canucks, 4, 0, 3, 6, 3, 34, 15, 100,True
-1979, 2, 14,11, New York Rangers, 4, 0, 2, 4, 3, 32, 15, 96,7, Boston Bruins, 6, 2, 7, 13, 1, 30, 17, 109,True
-1979, 2, 14,13, Toronto Maple Leafs, 7, 0, 5, 7, 2, 35, 5, 91,21, Philadelphia Flyers, 3, 2, 6, 13, 4, 11, 14, 64,False
-1979, 2, 15,28, Buffalo Sabres, 6, 0, 2, 3, 1, 26, 8, 64,11, New York Rangers, 5, 2, 5, 9, 1, 22, 13, 86,True
-1979, 2, 15,33, Colorado Rockies, 4, 1, 1, 1, 6, 28, 17, 113,31, Washington Capitals, 5, 1, 4, 6, 8, 32, 29, 167,False
-1979, 2, 15,1, Montreal Canadiens, 9, 1, 8, 11, 4, 23, 7, 53,25, Los Angeles Kings, 5, 1, 3, 6, 2, 26, 13, 84,False
-1979, 2, 15,21, Philadelphia Flyers, 4, 1, 2, 3, 4, 21, 12, 91,7, Boston Bruins, 5, 1, 1, 1, 5, 27, 21, 111,True
-1979, 2, 15,22, Pittsburgh Penguins, 4, 1, 3, 6, 3, 31, 24, 140,24, Minnesota North Stars, 6, 1, 8, 15, 2, 25, 11, 123,True
-1979, 2, 17,33, Colorado Rockies, 4, 0, 3, 6, 4, 11, 17, 83,30, Atlanta Flames, 6, 2, 4, 7, 5, 19, 17, 101,False
-1979, 2, 17,24, Minnesota North Stars, 6, 0, 5, 6, 1, 25, 15, 136,7, Boston Bruins, 5, 2, 3, 6, 4, 22, 21, 112,False
-1979, 2, 17,1, Montreal Canadiens, 8, 2, 2, 5, 3, 30, 5, 60,31, Washington Capitals, 6, 0, 9, 14, 3, 29, 24, 164,True
-1979, 2, 17,21, Philadelphia Flyers, 5, 2, 5, 10, 3, 26, 11, 96,11, New York Rangers, 4, 0, 3, 6, 5, 22, 16, 94,False
-1979, 2, 17,22, Pittsburgh Penguins, 4, 1, 6, 10, 2, 30, 26, 147,28, Buffalo Sabres, 7, 1, 4, 7, 3, 19, 10, 68,True
-1979, 2, 17,23, St. Louis Blues, 4, 1, 3, 6, 3, 32, 23, 148,12, Chicago Black Hawks, 3, 1, 5, 8, 5, 28, 12, 85,False
-1979, 2, 17,13, Toronto Maple Leafs, 6, 2, 2, 4, 2, 30, 5, 86,25, Los Angeles Kings, 6, 0, 2, 2, 2, 24, 13, 82,True
-1979, 2, 17,26, Vancouver Canucks, 4, 0, 1, 1, 8, 42, 20, 108,29, New York Islanders, 5, 2, 1, 2, 1, 27, 3, 60,False
-1979, 2, 18,28, Buffalo Sabres, 6, 0, 3, 5, 3, 30, 13, 81,1, Montreal Canadiens, 8, 2, 2, 4, 2, 30, 2, 61,False
-1979, 2, 18,12, Chicago Black Hawks, 4, 1, 5, 8, 1, 40, 8, 97,33, Colorado Rockies, 4, 1, 1, 1, 5, 23, 18, 103,True
-1979, 2, 18,17, Detroit Red Wings, 3, 1, 2, 4, 6, 34, 19, 119,22, Pittsburgh Penguins, 4, 1, 6, 11, 5, 38, 24, 145,True
-1979, 2, 18,11, New York Rangers, 5, 1, 4, 6, 4, 30, 13, 104,31, Washington Capitals, 5, 1, 0, 0, 2, 28, 23, 163,False
-1979, 2, 18,21, Philadelphia Flyers, 5, 1, 2, 2, 3, 23, 9, 58,24, Minnesota North Stars, 6, 1, 3, 5, 3, 24, 17, 135,True
-1979, 2, 18,23, St. Louis Blues, 4, 1, 1, 2, 3, 24, 25, 141,30, Atlanta Flames, 6, 1, 5, 10, 4, 31, 13, 106,False
-1979, 2, 19,17, Detroit Red Wings, 4, 1, 6, 7, 3, 23, 15, 113,13, Toronto Maple Leafs, 6, 1, 5, 6, 2, 32, 5, 88,False
-1979, 2, 19,25, Los Angeles Kings, 5, 1, 2, 4, 7, 30, 18, 95,29, New York Islanders, 5, 1, 5, 9, 2, 29, 5, 65,False
-1979, 2, 20,30, Atlanta Flames, 7, 1, 6, 9, 4, 29, 16, 108,31, Washington Capitals, 5, 1, 6, 7, 4, 23, 27, 167,True
-1979, 2, 20,33, Colorado Rockies, 3, 0, 3, 1, 5, 31, 18, 110,7, Boston Bruins, 5, 2, 2, 6, 5, 32, 21, 122,False
-1979, 2, 20,26, Vancouver Canucks, 4, 1, 3, 6, 6, 27, 17, 95,21, Philadelphia Flyers, 6, 1, 3, 6, 2, 20, 8, 55,False
-1979, 2, 21,12, Chicago Black Hawks, 4, 1, 5, 8, 3, 40, 10, 97,28, Buffalo Sabres, 5, 1, 2, 4, 5, 38, 15, 89,True
-1979, 2, 21,25, Los Angeles Kings, 5, 2, 3, 5, 4, 26, 19, 96,7, Boston Bruins, 6, 0, 5, 9, 3, 31, 19, 119,True
-1979, 2, 21,24, Minnesota North Stars, 6, 1, 2, 3, 6, 38, 17, 146,13, Toronto Maple Leafs, 6, 1, 4, 9, 1, 29, 5, 87,True
-1979, 2, 21,11, New York Rangers, 5, 1, 5, 12, 6, 30, 15, 104,23, St. Louis Blues, 3, 1, 4, 6, 5, 25, 28, 145,True
-1979, 2, 21,22, Pittsburgh Penguins, 4, 1, 2, 3, 1, 14, 22, 94,1, Montreal Canadiens, 9, 1, 5, 8, 0, 31, 2, 66,True
-1979, 2, 21,31, Washington Capitals, 4, 1, 3, 6, 6, 32, 28, 178,17, Detroit Red Wings, 4, 1, 1, 3, 6, 34, 18, 124,False
-1979, 2, 22,28, Buffalo Sabres, 5, 0, 2, 2, 3, 24, 13, 75,12, Chicago Black Hawks, 5, 2, 3, 5, 4, 29, 9, 93,False
-1979, 2, 22,1, Montreal Canadiens, 8, 1, 1, 0, 2, 35, 5, 68,22, Pittsburgh Penguins, 5, 1, 3, 6, 1, 36, 22, 116,True
-1979, 2, 22,29, New York Islanders, 5, 2, 8, 12, 3, 32, 6, 52,23, St. Louis Blues, 3, 0, 3, 5, 6, 28, 30, 170,True
-1979, 2, 22,26, Vancouver Canucks, 4, 2, 3, 6, 3, 33, 14, 101,33, Colorado Rockies, 2, 0, 3, 4, 5, 30, 18, 103,True
-1979, 2, 23,30, Atlanta Flames, 8, 0, 5, 8, 3, 27, 15, 111,24, Minnesota North Stars, 6, 2, 5, 7, 3, 35, 16, 133,False
-1979, 2, 23,33, Colorado Rockies, 1, 0, 0, 0, 5, 24, 16, 102,21, Philadelphia Flyers, 6, 2, 3, 6, 3, 25, 9, 60,False
-1979, 2, 24,25, Los Angeles Kings, 6, 0, 3, 5, 1, 30, 13, 111,21, Philadelphia Flyers, 6, 2, 5, 8, 3, 22, 9, 57,False
-1979, 2, 24,24, Minnesota North Stars, 6, 2, 2, 4, 2, 36, 15, 134,30, Atlanta Flames, 7, 0, 2, 3, 1, 24, 14, 108,False
-1979, 2, 24,1, Montreal Canadiens, 8, 2, 12, 21, 3, 33, 3, 58,23, St. Louis Blues, 3, 0, 1, 2, 7, 50, 30, 175,True
-1979, 2, 24,29, New York Islanders, 5, 2, 6, 10, 3, 16, 4, 41,17, Detroit Red Wings, 4, 0, 4, 8, 3, 45, 15, 135,True
-1979, 2, 24,22, Pittsburgh Penguins, 5, 2, 0, 0, 7, 24, 28, 103,12, Chicago Black Hawks, 6, 0, 4, 4, 2, 36, 7, 98,True
-1979, 2, 24,13, Toronto Maple Leafs, 5, 2, 3, 3, 2, 31, 9, 88,11, New York Rangers, 6, 0, 7, 10, 2, 32, 12, 93,False
-1979, 2, 24,26, Vancouver Canucks, 4, 0, 3, 6, 0, 25, 11, 93,7, Boston Bruins, 6, 2, 2, 1, 3, 36, 19, 124,False
-1979, 2, 24,31, Washington Capitals, 3, 0, 3, 6, 4, 25, 26, 171,28, Buffalo Sabres, 4, 2, 2, 2, 6, 32, 14, 80,False
-1979, 2, 25,12, Chicago Black Hawks, 6, 0, 1, 1, 5, 47, 10, 109,22, Pittsburgh Penguins, 6, 2, 5, 7, 5, 13, 22, 99,False
-1979, 2, 25,17, Detroit Red Wings, 4, 2, 1, 0, 3, 22, 15, 112,33, Colorado Rockies, 1, 0, 2, 3, 3, 29, 16, 112,True
-1979, 2, 25,11, New York Rangers, 6, 2, 4, 8, 5, 13, 12, 93,29, New York Islanders, 6, 0, 3, 6, 1, 21, 2, 53,True
-1979, 2, 25,31, Washington Capitals, 3, 0, 4, 6, 5, 34, 28, 183,1, Montreal Canadiens, 8, 2, 6, 7, 0, 25, 4, 52,False
-1979, 2, 26,28, Buffalo Sabres, 5, 2, 6, 10, 4, 29, 12, 80,13, Toronto Maple Leafs, 5, 0, 2, 3, 5, 30, 11, 106,True
-1979, 2, 26,25, Los Angeles Kings, 5, 1, 3, 6, 4, 25, 14, 81,26, Vancouver Canucks, 3, 1, 3, 2, 4, 25, 15, 93,True
-1979, 2, 27,7, Boston Bruins, 7, 2, 4, 7, 3, 29, 19, 114,33, Colorado Rockies, 0, 0, 2, 3, 5, 34, 21, 123,False
-1979, 2, 27,29, New York Islanders, 6, 1, 2, 4, 1, 28, 4, 66,1, Montreal Canadiens, 8, 1, 8, 12, 4, 27, 9, 58,True
-1979, 2, 27,23, St. Louis Blues, 2, 1, 4, 6, 6, 31, 29, 156,11, New York Rangers, 6, 1, 4, 3, 2, 32, 9, 96,True
-1979, 2, 28,17, Detroit Red Wings, 5, 0, 9, 13, 1, 20, 13, 110,23, St. Louis Blues, 2, 2, 3, 8, 6, 33, 24, 155,False
-1979, 2, 28,25, Los Angeles Kings, 6, 0, 2, 4, 0, 24, 15, 87,31, Washington Capitals, 3, 2, 5, 6, 4, 14, 25, 145,False
-1979, 2, 28,24, Minnesota North Stars, 5, 1, 3, 4, 6, 36, 17, 134,11, New York Rangers, 5, 1, 1, 2, 2, 16, 11, 87,False
-1979, 2, 28,22, Pittsburgh Penguins, 6, 1, 2, 4, 2, 37, 19, 123,33, Colorado Rockies, 1, 1, 4, 6, 2, 33, 18, 122,True
-1979, 2, 28,13, Toronto Maple Leafs, 4, 0, 1, 2, 3, 30, 5, 64,30, Atlanta Flames, 7, 2, 6, 10, 2, 24, 15, 102,False
-1979, 2, 28,26, Vancouver Canucks, 3, 1, 0, 0, 2, 39, 13, 107,12, Chicago Black Hawks, 6, 1, 2, 4, 2, 49, 7, 111,False
-1979, 3, 1,7, Boston Bruins, 6, 0, 2, 3, 3, 26, 20, 105,21, Philadelphia Flyers, 7, 2, 4, 6, 4, 16, 9, 64,False
-1979, 3, 1,28, Buffalo Sabres, 6, 1, 3, 4, 1, 26, 9, 77,24, Minnesota North Stars, 4, 1, 3, 6, 1, 24, 18, 137,False
-1979, 3, 1,1, Montreal Canadiens, 7, 2, 3, 7, 7, 35, 12, 66,13, Toronto Maple Leafs, 3, 0, 4, 6, 6, 30, 8, 64,True
-1979, 3, 2,30, Atlanta Flames, 7, 0, 6, 6, 4, 36, 17, 114,29, New York Islanders, 6, 2, 7, 11, 3, 34, 6, 79,True
-1979, 3, 2,33, Colorado Rockies, 1, 0, 3, 5, 4, 26, 20, 115,12, Chicago Black Hawks, 6, 2, 4, 7, 4, 35, 9, 97,False
-1979, 3, 2,26, Vancouver Canucks, 3, 1, 4, 6, 4, 30, 15, 98,31, Washington Capitals, 3, 1, 3, 4, 3, 40, 24, 171,False
-1979, 3, 3,7, Boston Bruins, 5, 2, 4, 8, 5, 28, 21, 100,24, Minnesota North Stars, 5, 0, 5, 7, 5, 31, 18, 147,True
-1979, 3, 3,25, Los Angeles Kings, 6, 1, 3, 5, 3, 21, 18, 84,12, Chicago Black Hawks, 6, 1, 4, 7, 0, 26, 5, 88,True
-1979, 3, 3,1, Montreal Canadiens, 7, 2, 2, 4, 5, 31, 6, 57,17, Detroit Red Wings, 4, 0, 5, 9, 2, 28, 18, 117,False
-1979, 3, 3,29, New York Islanders, 6, 1, 2, 3, 3, 41, 6, 80,30, Atlanta Flames, 7, 1, 2, 5, 2, 17, 15, 95,True
-1979, 3, 3,11, New York Rangers, 6, 1, 3, 8, 4, 23, 13, 105,28, Buffalo Sabres, 5, 1, 5, 9, 4, 32, 13, 87,False
-1979, 3, 3,23, St. Louis Blues, 3, 1, 6, 12, 1, 30, 23, 150,22, Pittsburgh Penguins, 7, 1, 5, 6, 1, 20, 17, 84,True
-1979, 3, 3,13, Toronto Maple Leafs, 3, 0, 1, 1, 0, 7, 4, 68,21, Philadelphia Flyers, 8, 2, 4, 5, 2, 25, 6, 48,True
-1979, 3, 4,28, Buffalo Sabres, 5, 1, 2, 3, 2, 23, 11, 78,21, Philadelphia Flyers, 8, 1, 3, 6, 2, 4, 8, 51,False
-1979, 3, 4,33, Colorado Rockies, 1, 1, 1, 0, 4, 25, 20, 114,22, Pittsburgh Penguins, 6, 1, 4, 6, 3, 17, 24, 106,False
-1979, 3, 4,17, Detroit Red Wings, 5, 1, 5, 4, 3, 32, 19, 121,7, Boston Bruins, 5, 1, 5, 9, 4, 21, 16, 98,False
-1979, 3, 4,11, New York Rangers, 6, 1, 3, 4, 4, 34, 11, 107,13, Toronto Maple Leafs, 4, 1, 4, 5, 3, 30, 7, 91,False
-1979, 3, 4,26, Vancouver Canucks, 2, 0, 2, 6, 2, 10, 12, 64,25, Los Angeles Kings, 6, 2, 8, 13, 5, 35, 20, 98,False
-1979, 3, 4,31, Washington Capitals, 4, 0, 6, 9, 2, 27, 23, 158,24, Minnesota North Stars, 4, 2, 1, 1, 4, 39, 18, 145,True
-1979, 3, 5,31, Washington Capitals, 5, 0, 6, 9, 6, 41, 25, 169,1, Montreal Canadiens, 6, 2, 3, 3, 1, 26, 6, 55,False
-1979, 3, 6,29, New York Islanders, 7, 1, 3, 8, 3, 35, 5, 63,28, Buffalo Sabres, 4, 1, 1, 2, 5, 36, 15, 93,False
-1979, 3, 6,21, Philadelphia Flyers, 8, 2, 6, 9, 0, 0, 7, 78,33, Colorado Rockies, 1, 0, 1, 2, 8, 40, 23, 130,True
-1979, 3, 7,24, Minnesota North Stars, 3, 2, 4, 7, 5, 27, 19, 133,17, Detroit Red Wings, 5, 0, 4, 6, 6, 35, 22, 124,True
-1979, 3, 7,11, New York Rangers, 5, 1, 2, 3, 2, 25, 10, 88,33, Colorado Rockies, 1, 1, 0, 0, 5, 44, 20, 134,True
-1979, 3, 7,22, Pittsburgh Penguins, 7, 1, 7, 13, 2, 23, 24, 135,25, Los Angeles Kings, 6, 1, 3, 5, 2, 18, 17, 81,False
-1979, 3, 7,23, St. Louis Blues, 3, 0, 8, 14, 5, 28, 26, 147,29, New York Islanders, 6, 2, 2, 3, 2, 24, 5, 61,False
-1979, 3, 7,13, Toronto Maple Leafs, 4, 1, 4, 6, 2, 35, 6, 96,26, Vancouver Canucks, 2, 1, 2, 3, 3, 33, 13, 87,True
-1979, 3, 8,30, Atlanta Flames, 7, 0, 2, 2, 4, 45, 17, 120,7, Boston Bruins, 5, 2, 6, 10, 4, 20, 16, 105,True
-1979, 3, 8,28, Buffalo Sabres, 4, 0, 3, 5, 2, 34, 12, 91,25, Los Angeles Kings, 6, 2, 4, 7, 0, 26, 15, 89,True
-1979, 3, 8,1, Montreal Canadiens, 7, 2, 2, 4, 2, 17, 7, 46,26, Vancouver Canucks, 1, 0, 0, 0, 4, 15, 12, 99,True
-1979, 3, 8,21, Philadelphia Flyers, 8, 0, 5, 10, 1, 31, 7, 100,12, Chicago Black Hawks, 6, 2, 5, 10, 2, 34, 11, 107,False
-1979, 3, 10,30, Atlanta Flames, 8, 2, 7, 11, 5, 30, 18, 105,28, Buffalo Sabres, 5, 0, 6, 11, 6, 38, 14, 93,False
-1979, 3, 10,24, Minnesota North Stars, 4, 0, 5, 7, 1, 35, 15, 141,7, Boston Bruins, 5, 2, 5, 10, 4, 28, 19, 121,False
-1979, 3, 10,1, Montreal Canadiens, 7, 0, 11, 20, 1, 26, 6, 55,11, New York Rangers, 6, 2, 5, 9, 3, 15, 11, 89,False
-1979, 3, 10,29, New York Islanders, 7, 1, 5, 9, 3, 33, 8, 59,12, Chicago Black Hawks, 7, 1, 3, 7, 6, 45, 10, 107,True
-1979, 3, 10,22, Pittsburgh Penguins, 6, 0, 0, 0, 8, 42, 25, 112,21, Philadelphia Flyers, 7, 2, 1, 2, 5, 24, 11, 93,True
-1979, 3, 10,13, Toronto Maple Leafs, 5, 2, 2, 2, 0, 40, 4, 101,25, Los Angeles Kings, 5, 0, 4, 5, 6, 44, 21, 107,True
-1979, 3, 10,26, Vancouver Canucks, 1, 2, 1, 0, 2, 4, 17, 85,33, Colorado Rockies, 1, 0, 3, 4, 1, 22, 13, 82,False
-1979, 3, 10,31, Washington Capitals, 4, 0, 2, 2, 4, 38, 21, 155,23, St. Louis Blues, 3, 2, 5, 9, 4, 27, 26, 144,True
-1979, 3, 11,7, Boston Bruins, 6, 1, 4, 5, 0, 26, 12, 110,29, New York Islanders, 7, 1, 7, 13, 5, 22, 6, 62,False
-1979, 3, 11,28, Buffalo Sabres, 6, 1, 5, 10, 4, 36, 13, 81,30, Atlanta Flames, 7, 1, 5, 8, 3, 23, 18, 105,True
-1979, 3, 11,17, Detroit Red Wings, 4, 2, 1, 3, 5, 31, 21, 120,31, Washington Capitals, 5, 0, 7, 12, 5, 23, 22, 140,False
-1979, 3, 11,11, New York Rangers, 6, 2, 6, 9, 3, 26, 11, 104,12, Chicago Black Hawks, 6, 0, 1, 2, 1, 34, 11, 95,True
-1979, 3, 11,21, Philadelphia Flyers, 7, 2, 2, 4, 3, 37, 9, 106,25, Los Angeles Kings, 5, 0, 4, 7, 2, 12, 16, 72,True
-1979, 3, 11,23, St. Louis Blues, 3, 1, 5, 8, 5, 25, 29, 140,24, Minnesota North Stars, 4, 1, 3, 4, 5, 29, 18, 140,True
-1979, 3, 11,13, Toronto Maple Leafs, 5, 1, 9, 17, 4, 43, 8, 104,22, Pittsburgh Penguins, 6, 1, 2, 5, 2, 38, 20, 137,True
-1979, 3, 12,1, Montreal Canadiens, 6, 1, 3, 3, 1, 4, 6, 32,17, Detroit Red Wings, 4, 1, 3, 6, 3, 20, 19, 109,False
-1979, 3, 13,33, Colorado Rockies, 2, 1, 2, 5, 1, 21, 13, 81,23, St. Louis Blues, 4, 1, 9, 13, 2, 31, 26, 146,False
-1979, 3, 13,29, New York Islanders, 7, 1, 4, 7, 1, 36, 5, 74,7, Boston Bruins, 5, 1, 4, 7, 3, 36, 20, 121,True
-1979, 3, 13,26, Vancouver Canucks, 1, 1, 1, 2, 9, 42, 18, 114,22, Pittsburgh Penguins, 6, 1, 0, 0, 4, 36, 22, 135,False
-1979, 3, 14,12, Chicago Black Hawks, 5, 2, 1, 3, 4, 33, 14, 94,21, Philadelphia Flyers, 7, 0, 6, 11, 3, 37, 9, 106,False
-1979, 3, 14,25, Los Angeles Kings, 5, 1, 3, 5, 7, 28, 20, 93,22, Pittsburgh Penguins, 6, 1, 9, 13, 3, 26, 21, 100,False
-1979, 3, 14,24, Minnesota North Stars, 4, 0, 2, 3, 4, 34, 21, 136,1, Montreal Canadiens, 6, 2, 2, 5, 3, 25, 8, 53,True
-1979, 3, 14,11, New York Rangers, 7, 1, 5, 8, 3, 30, 10, 102,30, Atlanta Flames, 6, 1, 5, 6, 2, 18, 19, 109,False
-1979, 3, 14,13, Toronto Maple Leafs, 5, 0, 5, 8, 0, 39, 4, 100,28, Buffalo Sabres, 7, 2, 9, 15, 4, 26, 13, 71,False
-1979, 3, 14,31, Washington Capitals, 5, 1, 3, 7, 3, 33, 20, 150,17, Detroit Red Wings, 4, 1, 3, 6, 3, 41, 19, 130,False
-1979, 3, 15,7, Boston Bruins, 4, 1, 2, 3, 4, 16, 24, 110,11, New York Rangers, 6, 1, 4, 5, 2, 24, 12, 99,False
-1979, 3, 15,28, Buffalo Sabres, 8, 2, 4, 6, 1, 26, 10, 71,26, Vancouver Canucks, 1, 0, 3, 4, 6, 32, 15, 79,True
-1979, 3, 15,29, New York Islanders, 7, 2, 8, 13, 4, 34, 6, 68,13, Toronto Maple Leafs, 5, 0, 1, 2, 4, 23, 8, 84,True
-1979, 3, 15,21, Philadelphia Flyers, 7, 1, 4, 5, 0, 15, 6, 84,30, Atlanta Flames, 6, 1, 6, 9, 4, 23, 21, 114,True
-1979, 3, 16,33, Colorado Rockies, 2, 1, 5, 7, 4, 11, 17, 86,26, Vancouver Canucks, 0, 1, 2, 3, 3, 8, 13, 92,False
-1979, 3, 17,7, Boston Bruins, 4, 2, 4, 4, 7, 25, 27, 116,12, Chicago Black Hawks, 4, 0, 2, 1, 7, 33, 14, 97,True
-1979, 3, 17,25, Los Angeles Kings, 4, 1, 3, 6, 3, 19, 16, 84,1, Montreal Canadiens, 5, 1, 4, 5, 5, 28, 9, 62,True
-1979, 3, 17,29, New York Islanders, 7, 0, 6, 8, 2, 30, 4, 67,11, New York Rangers, 6, 2, 7, 11, 5, 27, 14, 100,True
-1979, 3, 17,21, Philadelphia Flyers, 7, 1, 5, 8, 4, 29, 10, 98,28, Buffalo Sabres, 8, 1, 3, 6, 5, 26, 11, 65,True
-1979, 3, 17,23, St. Louis Blues, 5, 2, 5, 9, 7, 23, 29, 149,17, Detroit Red Wings, 5, 0, 4, 4, 1, 33, 17, 122,False
-1979, 3, 17,13, Toronto Maple Leafs, 5, 0, 2, 3, 5, 22, 9, 83,24, Minnesota North Stars, 4, 2, 4, 7, 3, 33, 20, 135,True
-1979, 3, 17,31, Washington Capitals, 5, 1, 1, 2, 2, 27, 21, 150,22, Pittsburgh Penguins, 7, 1, 3, 4, 3, 31, 19, 126,False
-1979, 3, 18,28, Buffalo Sabres, 7, 2, 4, 5, 2, 20, 11, 80,31, Washington Capitals, 5, 0, 2, 4, 2, 8, 20, 113,False
-1979, 3, 18,12, Chicago Black Hawks, 3, 0, 2, 5, 4, 15, 11, 79,17, Detroit Red Wings, 5, 2, 3, 6, 1, 31, 17, 120,False
-1979, 3, 18,33, Colorado Rockies, 2, 0, 1, 2, 5, 26, 16, 106,1, Montreal Canadiens, 4, 2, 1, 0, 2, 31, 6, 65,False
-1979, 3, 18,24, Minnesota North Stars, 3, 1, 3, 5, 5, 37, 22, 139,29, New York Islanders, 8, 1, 5, 9, 2, 33, 4, 78,False
-1979, 3, 18,11, New York Rangers, 5, 2, 2, 5, 0, 5, 10, 71,22, Pittsburgh Penguins, 7, 0, 5, 6, 2, 31, 18, 126,False
-1979, 3, 18,21, Philadelphia Flyers, 7, 1, 5, 7, 0, 22, 9, 88,23, St. Louis Blues, 5, 1, 1, 3, 0, 15, 20, 121,True
-1979, 3, 18,26, Vancouver Canucks, 1, 1, 4, 4, 4, 45, 11, 113,30, Atlanta Flames, 5, 1, 4, 5, 7, 30, 20, 100,True
-1979, 3, 19,7, Boston Bruins, 4, 2, 4, 9, 2, 23, 22, 114,13, Toronto Maple Leafs, 6, 0, 6, 10, 4, 42, 8, 103,True
-1979, 3, 20,17, Detroit Red Wings, 6, 2, 4, 5, 2, 26, 18, 115,12, Chicago Black Hawks, 3, 0, 2, 3, 3, 34, 10, 98,True
-1979, 3, 20,25, Los Angeles Kings, 5, 1, 3, 5, 1, 28, 14, 93,30, Atlanta Flames, 5, 1, 1, 2, 5, 29, 15, 99,True
-1979, 3, 20,31, Washington Capitals, 6, 2, 3, 4, 3, 34, 21, 139,11, New York Rangers, 5, 0, 1, 2, 5, 18, 15, 95,False
-1979, 3, 21,12, Chicago Black Hawks, 3, 0, 3, 4, 4, 40, 11, 104,11, New York Rangers, 5, 2, 2, 4, 5, 29, 12, 109,False
-1979, 3, 21,33, Colorado Rockies, 2, 0, 1, 2, 2, 24, 13, 104,28, Buffalo Sabres, 7, 2, 3, 5, 5, 41, 12, 94,False
-1979, 3, 21,24, Minnesota North Stars, 3, 1, 3, 6, 4, 26, 14, 108,21, Philadelphia Flyers, 7, 1, 5, 7, 3, 19, 12, 90,True
-1979, 3, 21,22, Pittsburgh Penguins, 7, 1, 4, 7, 1, 29, 17, 124,31, Washington Capitals, 6, 1, 2, 4, 3, 15, 20, 127,False
-1979, 3, 21,13, Toronto Maple Leafs, 6, 2, 3, 4, 4, 32, 8, 93,17, Detroit Red Wings, 6, 0, 5, 8, 3, 29, 19, 118,False
-1979, 3, 21,26, Vancouver Canucks, 2, 2, 2, 3, 1, 29, 8, 87,23, St. Louis Blues, 5, 0, 3, 6, 4, 30, 24, 136,False
-1979, 3, 22,7, Boston Bruins, 5, 1, 4, 7, 3, 21, 23, 112,22, Pittsburgh Penguins, 6, 1, 3, 3, 2, 37, 18, 124,False
-1979, 3, 22,25, Los Angeles Kings, 5, 1, 4, 6, 6, 33, 16, 95,23, St. Louis Blues, 6, 1, 1, 1, 3, 14, 21, 130,False
-1979, 3, 22,1, Montreal Canadiens, 4, 1, 3, 7, 1, 24, 5, 58,29, New York Islanders, 8, 1, 5, 11, 2, 41, 5, 88,False
-1979, 3, 23,30, Atlanta Flames, 4, 0, 3, 6, 4, 32, 14, 124,21, Philadelphia Flyers, 7, 2, 3, 5, 7, 31, 16, 102,False
-1979, 3, 23,26, Vancouver Canucks, 2, 0, 1, 2, 1, 21, 8, 79,28, Buffalo Sabres, 7, 2, 3, 2, 3, 34, 9, 72,False
-1979, 3, 24,7, Boston Bruins, 5, 2, 1, 2, 3, 27, 20, 104,17, Detroit Red Wings, 7, 0, 4, 7, 2, 34, 18, 123,True
-1979, 3, 24,33, Colorado Rockies, 1, 2, 3, 5, 3, 30, 14, 110,24, Minnesota North Stars, 4, 0, 7, 11, 6, 11, 13, 114,False
-1979, 3, 24,25, Los Angeles Kings, 5, 1, 3, 7, 3, 30, 13, 81,28, Buffalo Sabres, 8, 1, 4, 8, 2, 19, 9, 63,False
-1979, 3, 24,1, Montreal Canadiens, 4, 2, 3, 5, 4, 34, 9, 64,31, Washington Capitals, 6, 0, 2, 4, 2, 22, 19, 141,True
-1979, 3, 24,29, New York Islanders, 9, 1, 5, 8, 3, 43, 6, 80,22, Pittsburgh Penguins, 7, 1, 3, 5, 1, 22, 20, 113,False
-1979, 3, 24,13, Toronto Maple Leafs, 6, 1, 1, 4, 4, 36, 8, 97,12, Chicago Black Hawks, 2, 1, 4, 9, 7, 38, 14, 102,False
-1979, 3, 25,30, Atlanta Flames, 3, 1, 1, 2, 2, 29, 14, 118,23, St. Louis Blues, 6, 1, 2, 5, 1, 24, 21, 152,True
-1979, 3, 25,12, Chicago Black Hawks, 2, 2, 3, 5, 3, 44, 10, 108,33, Colorado Rockies, 1, 0, 1, 2, 3, 31, 14, 106,True
-1979, 3, 25,17, Detroit Red Wings, 6, 1, 2, 4, 5, 27, 21, 116,13, Toronto Maple Leafs, 5, 1, 4, 5, 3, 28, 7, 89,True
-1979, 3, 25,11, New York Rangers, 6, 2, 7, 11, 2, 32, 13, 125,1, Montreal Canadiens, 4, 0, 3, 4, 1, 21, 6, 51,False
-1979, 3, 25,21, Philadelphia Flyers, 7, 2, 4, 5, 1, 23, 10, 94,31, Washington Capitals, 5, 0, 1, 2, 2, 29, 20, 160,True
-1979, 3, 25,22, Pittsburgh Penguins, 7, 2, 3, 3, 3, 24, 22, 115,29, New York Islanders, 8, 0, 3, 5, 3, 33, 6, 64,False
-1979, 3, 25,26, Vancouver Canucks, 2, 0, 3, 5, 1, 19, 11, 83,24, Minnesota North Stars, 4, 2, 3, 4, 3, 32, 8, 138,True
-1979, 3, 26,23, St. Louis Blues, 5, 0, 2, 4, 3, 18, 25, 120,28, Buffalo Sabres, 8, 2, 3, 6, 3, 25, 9, 81,False
-1979, 3, 27,30, Atlanta Flames, 3, 0, 8, 15, 2, 22, 16, 85,1, Montreal Canadiens, 5, 2, 1, 2, 0, 25, 5, 55,False
-1979, 3, 27,33, Colorado Rockies, 1, 0, 0, 0, 3, 22, 14, 97,12, Chicago Black Hawks, 3, 2, 5, 4, 0, 27, 7, 91,False
-1979, 3, 27,24, Minnesota North Stars, 4, 0, 1, 1, 2, 14, 7, 120,22, Pittsburgh Penguins, 7, 2, 2, 4, 2, 27, 21, 118,False
-1979, 3, 27,11, New York Rangers, 6, 1, 0, 0, 6, 45, 12, 123,21, Philadelphia Flyers, 7, 1, 7, 14, 3, 24, 13, 89,False
-1979, 3, 27,26, Vancouver Canucks, 3, 1, 2, 2, 1, 21, 11, 85,17, Detroit Red Wings, 7, 1, 1, 3, 1, 29, 17, 118,True
-1979, 3, 28,28, Buffalo Sabres, 8, 1, 4, 7, 2, 27, 8, 83,7, Boston Bruins, 5, 1, 6, 8, 7, 22, 19, 92,True
-1979, 3, 28,25, Los Angeles Kings, 4, 1, 2, 4, 3, 27, 13, 78,17, Detroit Red Wings, 7, 1, 2, 4, 6, 27, 21, 120,True
-1979, 3, 28,22, Pittsburgh Penguins, 7, 1, 5, 7, 1, 38, 20, 129,11, New York Rangers, 5, 1, 4, 5, 1, 30, 10, 102,True
-1979, 3, 28,13, Toronto Maple Leafs, 4, 1, 1, 2, 2, 25, 6, 86,31, Washington Capitals, 4, 1, 4, 3, 3, 41, 25, 164,True
-1979, 3, 29,7, Boston Bruins, 4, 2, 2, 2, 2, 15, 21, 101,24, Minnesota North Stars, 4, 0, 1, 3, 1, 35, 10, 129,True
-1979, 3, 29,12, Chicago Black Hawks, 3, 1, 1, 2, 1, 43, 8, 107,29, New York Islanders, 9, 1, 2, 4, 3, 27, 5, 63,True
-1979, 3, 29,1, Montreal Canadiens, 5, 2, 6, 7, 4, 22, 9, 52,23, St. Louis Blues, 4, 0, 2, 3, 4, 33, 26, 135,True
-1979, 3, 29,21, Philadelphia Flyers, 8, 2, 4, 6, 1, 12, 10, 74,26, Vancouver Canucks, 4, 0, 5, 9, 2, 25, 12, 89,True
-1979, 3, 30,30, Atlanta Flames, 3, 0, 4, 7, 2, 23, 16, 64,25, Los Angeles Kings, 4, 2, 8, 14, 1, 15, 13, 71,True
-1979, 3, 31,33, Colorado Rockies, 1, 1, 1, 1, 1, 26, 12, 101,26, Vancouver Canucks, 4, 1, 0, 0, 5, 42, 15, 106,False
-1979, 3, 31,17, Detroit Red Wings, 7, 0, 1, 2, 5, 31, 23, 125,25, Los Angeles Kings, 3, 2, 3, 5, 5, 26, 17, 82,False
-1979, 3, 31,1, Montreal Canadiens, 5, 1, 5, 8, 2, 20, 7, 50,22, Pittsburgh Penguins, 8, 1, 7, 8, 1, 29, 20, 120,True
-1979, 3, 31,29, New York Islanders, 8, 0, 1, 3, 2, 32, 8, 64,28, Buffalo Sabres, 8, 2, 8, 14, 2, 37, 8, 83,True
-1979, 3, 31,23, St. Louis Blues, 4, 1, 3, 1, 5, 44, 27, 146,21, Philadelphia Flyers, 9, 1, 5, 7, 3, 15, 9, 84,False
-1979, 3, 31,13, Toronto Maple Leafs, 4, 1, 6, 11, 2, 29, 6, 90,24, Minnesota North Stars, 3, 1, 4, 6, 5, 23, 16, 119,True
-1979, 3, 31,31, Washington Capitals, 4, 0, 2, 4, 6, 40, 28, 163,7, Boston Bruins, 5, 2, 7, 13, 4, 25, 23, 111,False
-1979, 4, 1,7, Boston Bruins, 5, 0, 4, 6, 1, 22, 20, 108,1, Montreal Canadiens, 6, 2, 5, 7, 5, 30, 8, 62,False
-1979, 4, 1,28, Buffalo Sabres, 7, 2, 0, 0, 2, 27, 8, 76,13, Toronto Maple Leafs, 4, 0, 6, 9, 2, 31, 6, 92,False
-1979, 4, 1,12, Chicago Black Hawks, 4, 2, 6, 11, 1, 32, 8, 96,26, Vancouver Canucks, 5, 0, 2, 4, 0, 24, 10, 88,False
-1979, 4, 1,33, Colorado Rockies, 1, 0, 0, 0, 3, 26, 13, 102,23, St. Louis Blues, 4, 2, 2, 4, 0, 0, 26, 127,True
-1979, 4, 1,17, Detroit Red Wings, 6, 0, 4, 6, 5, 28, 23, 122,24, Minnesota North Stars, 3, 2, 2, 3, 7, 25, 17, 127,True
-1979, 4, 1,21, Philadelphia Flyers, 9, 1, 4, 5, 2, 28, 8, 97,11, New York Rangers, 4, 1, 1, 2, 3, 19, 16, 114,True
-1979, 4, 1,22, Pittsburgh Penguins, 7, 1, 3, 3, 4, 29, 24, 122,30, Atlanta Flames, 3, 1, 5, 9, 3, 26, 17, 67,False
-1979, 4, 1,31, Washington Capitals, 3, 0, 1, 2, 4, 27, 26, 150,29, New York Islanders, 8, 2, 2, 4, 0, 32, 6, 64,True
-1979, 4, 2,11, New York Rangers, 3, 1, 3, 4, 6, 34, 16, 114,25, Los Angeles Kings, 4, 1, 5, 9, 3, 19, 16, 83,True
-1979, 4, 3,24, Minnesota North Stars, 3, 1, 0, 2, 3, 29, 13, 131,12, Chicago Black Hawks, 4, 1, 2, 4, 4, 36, 9, 90,True
-1979, 4, 3,29, New York Islanders, 7, 1, 4, 8, 3, 8, 6, 38,30, Atlanta Flames, 4, 1, 7, 10, 2, 29, 16, 70,True
-1979, 4, 3,23, St. Louis Blues, 3, 1, 5, 6, 4, 25, 35, 163,22, Pittsburgh Penguins, 6, 1, 2, 4, 3, 25, 22, 99,False
-1979, 4, 3,26, Vancouver Canucks, 6, 2, 1, 3, 2, 28, 12, 92,33, Colorado Rockies, 2, 0, 9, 15, 5, 33, 15, 109,True
-1979, 4, 3,31, Washington Capitals, 3, 2, 5, 11, 4, 36, 26, 159,25, Los Angeles Kings, 4, 0, 4, 6, 5, 27, 18, 91,True
-1979, 4, 4,12, Chicago Black Hawks, 4, 0, 3, 4, 2, 26, 9, 99,24, Minnesota North Stars, 3, 2, 5, 7, 6, 31, 13, 127,True
-1979, 4, 4,1, Montreal Canadiens, 7, 0, 3, 3, 3, 21, 6, 53,17, Detroit Red Wings, 6, 2, 3, 5, 1, 20, 19, 114,True
-1979, 4, 4,11, New York Rangers, 4, 1, 5, 9, 4, 28, 14, 108,30, Atlanta Flames, 4, 1, 2, 3, 4, 4, 17, 72,False
-1979, 4, 4,13, Toronto Maple Leafs, 4, 0, 6, 9, 2, 33, 7, 92,7, Boston Bruins, 5, 2, 2, 4, 3, 28, 25, 129,False
-1979, 4, 5,7, Boston Bruins, 6, 0, 3, 6, 3, 25, 25, 126,28, Buffalo Sabres, 6, 2, 3, 5, 2, 30, 12, 78,False
-1979, 4, 5,25, Los Angeles Kings, 4, 2, 2, 5, 4, 27, 19, 98,33, Colorado Rockies, 1, 0, 1, 1, 2, 24, 12, 100,False
-1979, 4, 5,21, Philadelphia Flyers, 9, 0, 7, 13, 3, 18, 9, 87,29, New York Islanders, 7, 2, 3, 5, 3, 26, 5, 55,False
-1979, 4, 6,30, Atlanta Flames, 4, 2, 3, 6, 3, 39, 16, 107,11, New York Rangers, 3, 0, 3, 5, 3, 20, 13, 100,True
-1979, 4, 6,26, Vancouver Canucks, 7, 1, 3, 3, 1, 24, 11, 88,24, Minnesota North Stars, 3, 1, 1, 0, 7, 27, 15, 108,False
-1979, 4, 7,25, Los Angeles Kings, 4, 1, 4, 4, 4, 30, 19, 101,24, Minnesota North Stars, 4, 1, 2, 3, 2, 24, 10, 105,True
-1979, 4, 7,1, Montreal Canadiens, 8, 2, 4, 8, 3, 32, 4, 53,31, Washington Capitals, 4, 0, 6, 11, 2, 26, 24, 149,True
-1979, 4, 7,29, New York Islanders, 7, 2, 3, 7, 2, 25, 3, 63,21, Philadelphia Flyers, 8, 0, 1, 2, 2, 25, 8, 94,True
-1979, 4, 7,22, Pittsburgh Penguins, 6, 0, 2, 4, 4, 12, 21, 108,17, Detroit Red Wings, 5, 2, 1, 2, 8, 32, 22, 131,True
-1979, 4, 7,23, St. Louis Blues, 2, 1, 2, 4, 5, 10, 34, 162,12, Chicago Black Hawks, 5, 1, 7, 11, 1, 32, 8, 105,True
-1979, 4, 7,13, Toronto Maple Leafs, 4, 1, 2, 5, 3, 31, 8, 77,28, Buffalo Sabres, 6, 1, 9, 15, 6, 29, 13, 83,True
-1979, 4, 8,7, Boston Bruins, 6, 2, 3, 5, 7, 36, 22, 97,13, Toronto Maple Leafs, 5, 0, 7, 10, 3, 18, 7, 71,True
-1979, 4, 8,28, Buffalo Sabres, 6, 2, 2, 1, 6, 29, 13, 83,33, Colorado Rockies, 2, 0, 4, 8, 4, 28, 14, 104,False
-1979, 4, 8,12, Chicago Black Hawks, 5, 1, 1, 2, 3, 29, 10, 102,23, St. Louis Blues, 3, 1, 4, 5, 3, 24, 30, 177,True
-1979, 4, 8,17, Detroit Red Wings, 4, 1, 3, 4, 4, 37, 18, 123,1, Montreal Canadiens, 9, 1, 10, 18, 1, 21, 4, 39,True
-1979, 4, 8,11, New York Rangers, 3, 1, 2, 4, 7, 20, 12, 73,29, New York Islanders, 7, 1, 9, 18, 1, 34, 3, 70,False
-1979, 4, 8,21, Philadelphia Flyers, 7, 2, 2, 3, 6, 18, 15, 81,30, Atlanta Flames, 5, 0, 9, 14, 3, 31, 11, 108,True
-1979, 4, 8,31, Washington Capitals, 4, 1, 3, 6, 7, 33, 32, 164,22, Pittsburgh Penguins, 6, 1, 4, 5, 3, 35, 20, 131,True
+Year,Month,Day,Home_ID,Home_name,Home_wins_last10,Home_wins_VERSUS_last2,Home_goals_lastGame,Home_assists_lastGame,Home_GA_startingGoalie,Home_SA_startingGoalie,Home_GA_allGoalies,Home_SA_allGoalies,Away_ID,Away_name,Away_wins_last10,Away_wins_VERSUS_last2,Away_goals_lastGame,Away_assists_lastGame,Away_GA_startingGoalie,Away_SA_startingGoalie,Away_GA_allGoalies,Away_SA_allGoalies,Home_Won
+1978,10,11,11,Chicago Black Hawks,5,0,2,6,2,24,8,85,29,Atlanta Flames,7,2,2,1,1,29,9,98,False
+1978,10,11,16,Detroit Red Wings,6,1,2,6,3,18,13,108,21,St. Louis Blues,5,1,2,5,4,40,16,161,False
+1978,10,11,22,Los Angeles Kings,5,2,3,4,5,22,11,41,30,Washington Capitals,4,0,4,4,2,34,6,111,False
+1978,10,11,0,Montreal Canadiens,9,1,0,0,1,18,5,47,24,Minnesota North Stars,3,1,6,5,3,27,9,126,True
+1978,10,11,20,Pittsburgh Penguins,3,2,2,3,2,43,15,95,13,Toronto Maple Leafs,2,0,1,4,2,36,4,63,False
+1978,10,11,25,Vancouver Canucks,1,0,3,1,0,0,10,69,32,Colorado Rockies,6,2,6,6,2,27,17,119,True
+1978,10,12,6,Boston Bruins,5,2,2,2,6,38,17,119,20,Pittsburgh Penguins,3,0,2,3,3,27,16,79,True
+1978,10,12,26,Buffalo Sabres,5,1,2,4,1,24,6,61,28,New York Islanders,6,1,5,8,2,26,4,58,False
+1978,10,12,10,New York Rangers,5,0,2,2,2,5,12,107,23,Philadelphia Flyers,8,2,1,1,1,17,8,59,False
+1978,10,13,29,Atlanta Flames,7,1,4,4,4,31,12,102,30,Washington Capitals,5,1,4,7,2,31,6,108,False
+1978,10,13,25,Vancouver Canucks,2,1,8,12,2,36,12,105,21,St. Louis Blues,5,1,5,8,4,42,16,163,True
+1978,10,14,16,Detroit Red Wings,5,0,4,8,0,28,15,104,23,Philadelphia Flyers,8,2,3,5,3,30,10,72,False
+1978,10,14,22,Los Angeles Kings,5,1,2,4,4,29,10,48,21,St. Louis Blues,5,1,4,8,3,34,20,157,True
+1978,10,14,24,Minnesota North Stars,3,1,2,4,5,32,11,131,26,Buffalo Sabres,4,1,2,4,2,20,7,57,False
+1978,10,14,0,Montreal Canadiens,9,2,4,5,4,29,6,53,32,Colorado Rockies,5,0,2,4,1,9,17,82,True
+1978,10,14,20,Pittsburgh Penguins,3,0,2,4,8,38,21,90,6,Boston Bruins,5,2,7,12,2,16,11,90,False
+1978,10,14,13,Toronto Maple Leafs,3,0,3,5,2,40,4,67,28,New York Islanders,7,2,2,4,2,28,4,66,True
+1978,10,14,30,Washington Capitals,6,2,3,3,3,35,7,112,29,Atlanta Flames,7,0,3,6,3,37,15,102,False
+1978,10,15,6,Boston Bruins,6,2,4,5,4,34,13,108,13,Toronto Maple Leafs,4,0,10,18,1,38,10,92,True
+1978,10,15,26,Buffalo Sabres,4,0,5,7,2,44,7,81,16,Detroit Red Wings,4,2,1,0,5,14,17,98,False
+1978,10,15,11,Chicago Black Hawks,4,1,3,8,4,33,10,94,25,Vancouver Canucks,3,1,8,13,4,23,14,92,False
+1978,10,15,10,New York Rangers,4,1,2,7,3,25,13,127,32,Colorado Rockies,4,1,1,3,7,23,21,100,True
+1978,10,15,23,Philadelphia Flyers,8,0,3,3,1,28,8,70,0,Montreal Canadiens,9,2,5,8,2,24,4,44,False
+1978,10,17,29,Atlanta Flames,7,1,6,8,3,24,15,89,32,Colorado Rockies,4,1,2,2,3,30,17,107,True
+1978,10,17,28,New York Islanders,6,0,7,14,5,21,10,38,0,Montreal Canadiens,9,2,3,5,2,37,4,57,True
+1978,10,17,21,St. Louis Blues,5,0,2,4,8,36,23,165,25,Vancouver Canucks,4,2,3,6,3,30,13,99,True
+1978,10,18,22,Los Angeles Kings,5,0,6,11,2,22,5,54,6,Boston Bruins,7,2,4,7,2,18,11,92,False
+1978,10,18,24,Minnesota North Stars,3,1,3,4,5,29,19,149,25,Vancouver Canucks,4,1,6,12,4,38,18,103,True
+1978,10,18,10,New York Rangers,4,2,4,6,5,38,11,115,16,Detroit Red Wings,4,0,3,6,2,27,14,111,False
+1978,10,18,20,Pittsburgh Penguins,3,0,4,4,4,26,17,78,28,New York Islanders,7,2,3,6,1,25,6,42,False
+1978,10,18,13,Toronto Maple Leafs,4,1,2,3,7,27,13,80,26,Buffalo Sabres,3,1,2,3,3,34,8,71,True
+1978,10,18,30,Washington Capitals,6,0,3,5,3,44,10,104,11,Chicago Black Hawks,4,2,4,5,3,23,9,84,False
+1978,10,19,26,Buffalo Sabres,3,1,0,0,2,35,7,72,13,Toronto Maple Leafs,4,1,2,3,4,26,6,74,True
+1978,10,19,11,Chicago Black Hawks,5,2,4,9,2,25,8,86,24,Minnesota North Stars,4,0,8,9,1,20,8,120,True
+1978,10,19,16,Detroit Red Wings,5,1,3,5,2,22,15,117,10,New York Rangers,3,1,2,3,1,13,9,101,False
+1978,10,19,23,Philadelphia Flyers,7,1,2,4,3,24,10,66,20,Pittsburgh Penguins,3,1,2,6,5,33,18,85,True
+1978,10,20,29,Atlanta Flames,7,0,8,12,2,26,12,86,0,Montreal Canadiens,8,2,1,2,3,24,5,44,True
+1978,10,20,32,Colorado Rockies,4,2,1,2,5,19,17,78,21,St. Louis Blues,5,0,8,15,6,31,21,160,False
+1978,10,20,25,Vancouver Canucks,4,0,2,4,7,50,13,81,6,Boston Bruins,7,2,3,7,2,28,12,106,False
+1978,10,20,30,Washington Capitals,6,1,2,1,6,27,11,91,22,Los Angeles Kings,4,1,2,3,3,26,7,64,False
+1978,10,21,16,Detroit Red Wings,5,2,2,2,3,33,15,112,24,Minnesota North Stars,3,0,2,6,6,29,13,129,False
+1978,10,21,28,New York Islanders,7,1,5,9,3,38,8,55,10,New York Rangers,3,1,3,5,3,24,10,119,True
+1978,10,21,20,Pittsburgh Penguins,3,0,1,2,3,28,16,80,30,Washington Capitals,5,2,4,6,4,31,11,86,True
+1978,10,21,21,St. Louis Blues,6,1,5,6,5,41,20,170,32,Colorado Rockies,3,1,5,7,3,9,17,86,False
+1978,10,21,13,Toronto Maple Leafs,4,1,0,0,0,21,3,81,23,Philadelphia Flyers,8,1,3,6,1,25,8,67,True
+1978,10,22,11,Chicago Black Hawks,5,1,5,9,2,34,8,95,6,Boston Bruins,7,1,5,4,1,23,12,108,True
+1978,10,22,0,Montreal Canadiens,7,2,5,7,2,20,9,58,22,Los Angeles Kings,5,0,6,11,4,33,9,62,True
+1978,10,22,10,New York Rangers,3,1,3,4,2,31,9,85,13,Toronto Maple Leafs,4,1,2,3,1,33,3,84,True
+1978,10,22,23,Philadelphia Flyers,7,2,0,1,2,26,9,68,29,Atlanta Flames,7,0,7,10,5,37,13,98,False
+1978,10,22,25,Vancouver Canucks,4,1,1,1,0,0,11,56,26,Buffalo Sabres,4,1,1,2,0,19,5,56,True
+1978,10,24,29,Atlanta Flames,7,1,5,8,2,40,10,101,22,Los Angeles Kings,5,1,4,6,8,42,13,71,True
+1978,10,24,28,New York Islanders,8,0,5,6,3,25,8,42,23,Philadelphia Flyers,6,2,2,3,3,26,12,65,False
+1978,10,24,21,St. Louis Blues,5,0,3,5,4,32,19,161,6,Boston Bruins,7,2,5,8,6,38,20,124,False
+1978,10,25,11,Chicago Black Hawks,5,2,5,9,5,28,11,89,30,Washington Capitals,5,0,1,2,6,22,12,100,False
+1978,10,25,16,Detroit Red Wings,5,1,6,7,4,24,16,103,32,Colorado Rockies,4,1,5,9,5,27,17,105,True
+1978,10,25,24,Minnesota North Stars,4,0,4,6,4,27,15,129,6,Boston Bruins,7,2,7,11,1,8,10,89,False
+1978,10,25,10,New York Rangers,4,2,6,11,2,26,9,80,25,Vancouver Canucks,5,0,3,5,2,28,13,84,True
+1978,10,25,20,Pittsburgh Penguins,3,1,5,9,1,38,14,90,21,St. Louis Blues,4,1,2,3,6,42,22,162,False
+1978,10,25,13,Toronto Maple Leafs,4,0,2,3,0,24,7,86,0,Montreal Canadiens,7,2,9,13,7,38,11,58,False
+1978,10,26,22,Los Angeles Kings,4,1,2,4,0,0,12,69,26,Buffalo Sabres,4,1,2,1,3,19,8,56,True
+1978,10,26,23,Philadelphia Flyers,6,1,4,7,5,23,13,58,13,Toronto Maple Leafs,4,1,4,6,4,41,11,103,True
+1978,10,27,29,Atlanta Flames,7,1,7,14,2,21,13,83,28,New York Islanders,7,1,4,7,5,13,9,36,True
+1978,10,27,32,Colorado Rockies,3,1,4,8,5,31,17,109,16,Detroit Red Wings,5,1,5,10,2,17,16,109,False
+1978,10,28,16,Detroit Red Wings,5,0,5,7,4,30,16,131,11,Chicago Black Hawks,4,2,4,5,2,24,8,85,True
+1978,10,28,22,Los Angeles Kings,5,1,6,11,0,18,10,83,30,Washington Capitals,6,1,2,5,2,31,8,109,True
+1978,10,28,24,Minnesota North Stars,4,1,2,2,1,6,13,120,32,Colorado Rockies,3,1,2,3,3,28,17,106,False
+1978,10,28,0,Montreal Canadiens,7,1,4,6,4,20,8,50,10,New York Rangers,5,1,6,12,5,20,9,82,False
+1978,10,28,28,New York Islanders,6,2,5,9,4,19,12,53,25,Vancouver Canucks,4,0,2,3,6,29,17,85,True
+1978,10,28,20,Pittsburgh Penguins,2,0,6,8,6,32,19,84,29,Atlanta Flames,7,2,8,15,5,38,16,100,False
+1978,10,28,21,St. Louis Blues,5,0,6,13,7,33,21,159,26,Buffalo Sabres,4,2,0,0,2,29,11,61,False
+1978,10,28,13,Toronto Maple Leafs,4,0,0,0,5,35,12,85,6,Boston Bruins,8,2,2,1,1,21,11,119,False
+1978,10,29,11,Chicago Black Hawks,4,1,2,4,7,39,13,100,0,Montreal Canadiens,6,1,1,3,4,30,6,58,True
+1978,10,29,10,New York Rangers,6,0,2,4,2,28,5,93,20,Pittsburgh Penguins,2,2,2,4,3,23,16,75,True
+1978,10,29,23,Philadelphia Flyers,6,2,5,6,4,19,8,60,25,Vancouver Canucks,4,0,2,3,5,25,16,78,False
+1978,10,31,28,New York Islanders,7,2,5,9,2,29,10,63,32,Colorado Rockies,3,0,1,0,0,30,14,108,True
+1978,10,31,21,St. Louis Blues,4,0,7,12,4,36,16,127,29,Atlanta Flames,8,2,4,5,2,46,10,111,False
+1978,11,1,29,Atlanta Flames,9,1,5,9,2,26,11,87,23,Philadelphia Flyers,5,1,2,5,0,25,8,70,True
+1978,11,1,11,Chicago Black Hawks,5,1,4,7,1,36,7,97,25,Vancouver Canucks,5,1,5,5,2,35,13,88,False
+1978,11,1,16,Detroit Red Wings,6,1,7,13,2,26,14,127,0,Montreal Canadiens,5,1,1,3,2,28,5,48,False
+1978,11,1,22,Los Angeles Kings,6,1,5,7,1,31,13,104,13,Toronto Maple Leafs,4,1,3,2,5,23,12,72,False
+1978,11,1,24,Minnesota North Stars,3,1,0,1,1,21,13,122,21,St. Louis Blues,4,1,2,4,3,4,17,123,True
+1978,11,1,30,Washington Capitals,5,1,1,1,5,45,11,111,20,Pittsburgh Penguins,2,1,2,4,0,0,16,85,True
+1978,11,2,6,Boston Bruins,8,0,5,6,3,35,13,133,28,New York Islanders,7,2,6,14,8,30,13,55,True
+1978,11,2,32,Colorado Rockies,2,1,5,7,8,26,22,104,10,New York Rangers,7,1,3,6,1,31,5,93,False
+1978,11,2,0,Montreal Canadiens,6,2,4,6,3,20,4,41,30,Washington Capitals,5,0,6,11,5,33,10,91,True
+1978,11,2,23,Philadelphia Flyers,5,0,0,0,3,21,11,66,26,Buffalo Sabres,5,2,7,9,6,24,16,66,False
+1978,11,3,29,Atlanta Flames,9,2,3,6,0,40,9,101,20,Pittsburgh Penguins,1,0,4,5,3,33,21,112,True
+1978,11,3,25,Vancouver Canucks,5,0,1,1,0,21,11,74,13,Toronto Maple Leafs,4,2,4,6,5,22,9,83,False
+1978,11,4,6,Boston Bruins,9,0,4,8,2,38,11,113,23,Philadelphia Flyers,4,2,3,5,4,29,11,74,False
+1978,11,4,32,Colorado Rockies,2,0,0,0,5,28,16,104,13,Toronto Maple Leafs,4,2,3,6,2,34,5,92,False
+1978,11,4,22,Los Angeles Kings,5,1,2,5,7,34,16,103,10,New York Rangers,7,1,3,3,2,28,4,88,False
+1978,11,4,24,Minnesota North Stars,4,0,9,15,1,18,9,128,26,Buffalo Sabres,5,2,3,6,3,42,13,84,True
+1978,11,4,0,Montreal Canadiens,6,1,4,6,1,21,3,39,29,Atlanta Flames,10,1,2,1,0,25,9,86,True
+1978,11,4,28,New York Islanders,6,2,3,2,4,26,9,51,30,Washington Capitals,4,0,2,2,4,25,9,101,True
+1978,11,4,20,Pittsburgh Penguins,1,0,0,0,1,19,19,98,16,Detroit Red Wings,5,2,1,2,2,39,16,135,True
+1978,11,4,21,St. Louis Blues,3,2,1,0,5,32,23,156,11,Chicago Black Hawks,4,0,0,0,3,33,7,84,False
+1978,11,5,6,Boston Bruins,8,0,3,5,5,10,15,90,0,Montreal Canadiens,6,2,4,6,2,18,4,43,False
+1978,11,5,26,Buffalo Sabres,4,1,1,2,2,32,12,74,24,Minnesota North Stars,5,1,2,4,2,18,9,142,True
+1978,11,5,11,Chicago Black Hawks,5,1,5,8,1,23,9,88,21,St. Louis Blues,3,1,5,7,5,23,23,147,True
+1978,11,5,23,Philadelphia Flyers,4,1,6,9,3,29,10,72,32,Colorado Rockies,2,1,4,6,5,28,15,103,True
+1978,11,5,25,Vancouver Canucks,4,0,1,2,5,22,14,68,10,New York Rangers,8,2,7,10,0,26,5,84,False
+1978,11,5,30,Washington Capitals,3,0,2,2,4,43,9,121,16,Detroit Red Wings,5,2,3,5,1,15,17,107,False
+1978,11,7,29,Atlanta Flames,9,2,2,4,3,29,10,97,25,Vancouver Canucks,3,0,2,4,3,15,14,75,True
+1978,11,7,28,New York Islanders,6,2,4,7,5,21,6,42,24,Minnesota North Stars,4,0,1,2,4,28,9,146,True
+1978,11,7,21,St. Louis Blues,3,0,1,2,3,39,21,163,13,Toronto Maple Leafs,5,2,4,7,1,31,7,95,False
+1978,11,8,11,Chicago Black Hawks,6,1,3,5,1,30,9,95,13,Toronto Maple Leafs,5,1,5,9,4,37,6,80,True
+1978,11,8,16,Detroit Red Wings,6,1,3,6,3,36,19,128,25,Vancouver Canucks,3,1,2,4,5,29,15,102,False
+1978,11,8,22,Los Angeles Kings,4,1,3,4,4,30,18,89,23,Philadelphia Flyers,5,1,6,9,4,29,11,72,False
+1978,11,8,10,New York Rangers,8,2,5,7,3,24,7,82,24,Minnesota North Stars,4,0,2,2,1,32,10,114,False
+1978,11,8,20,Pittsburgh Penguins,2,1,7,11,5,27,21,110,32,Colorado Rockies,2,1,4,7,6,41,16,116,True
+1978,11,8,30,Washington Capitals,2,0,3,6,3,23,8,101,0,Montreal Canadiens,6,2,1,2,1,17,3,42,False
+1978,11,9,6,Boston Bruins,7,2,1,2,1,26,11,103,30,Washington Capitals,2,0,0,0,4,45,11,107,True
+1978,11,9,26,Buffalo Sabres,5,1,2,3,1,22,11,64,20,Pittsburgh Penguins,3,1,6,9,3,31,19,118,False
+1978,11,9,0,Montreal Canadiens,7,1,6,8,2,25,2,45,16,Detroit Red Wings,5,1,4,5,6,17,22,109,True
+1978,11,10,29,Atlanta Flames,9,2,4,7,2,27,11,94,11,Chicago Black Hawks,7,0,2,3,1,31,9,96,True
+1978,11,10,32,Colorado Rockies,2,1,3,4,6,39,16,114,23,Philadelphia Flyers,5,1,5,8,3,25,10,68,False
+1978,11,10,25,Vancouver Canucks,4,0,6,10,4,27,14,100,24,Minnesota North Stars,5,2,5,7,3,38,12,120,False
+1978,11,11,16,Detroit Red Wings,4,0,3,5,6,30,24,128,6,Boston Bruins,7,2,6,10,1,23,12,106,True
+1978,11,11,22,Los Angeles Kings,4,1,3,6,7,37,21,117,24,Minnesota North Stars,5,1,3,4,2,22,11,106,True
+1978,11,11,0,Montreal Canadiens,8,2,8,13,0,20,3,42,13,Toronto Maple Leafs,5,0,1,2,1,29,4,58,True
+1978,11,11,28,New York Islanders,7,0,5,5,2,29,3,50,29,Atlanta Flames,9,2,5,8,3,26,12,93,True
+1978,11,11,20,Pittsburgh Penguins,4,1,4,6,4,34,20,121,10,New York Rangers,8,1,3,7,0,5,9,82,False
+1978,11,11,21,St. Louis Blues,2,1,0,0,2,30,23,162,32,Colorado Rockies,2,1,2,4,2,39,12,114,True
+1978,11,11,30,Washington Capitals,2,1,2,4,6,29,13,101,26,Buffalo Sabres,4,1,4,8,4,36,14,78,False
+1978,11,12,26,Buffalo Sabres,5,1,2,3,0,25,10,67,6,Boston Bruins,6,1,1,2,2,29,12,116,False
+1978,11,12,11,Chicago Black Hawks,6,2,3,3,5,47,13,112,22,Los Angeles Kings,4,0,8,9,1,34,15,114,False
+1978,11,12,10,New York Rangers,8,0,2,3,2,24,10,124,28,New York Islanders,7,2,4,4,1,17,3,43,False
+1978,11,12,25,Vancouver Canucks,4,1,2,4,3,17,13,90,23,Philadelphia Flyers,6,1,2,3,2,24,9,67,False
+1978,11,14,28,New York Islanders,7,2,5,6,2,22,5,60,32,Colorado Rockies,1,0,3,4,2,26,14,97,False
+1978,11,14,21,St. Louis Blues,2,1,5,7,3,39,24,171,22,Los Angeles Kings,5,1,4,8,1,22,15,102,False
+1978,11,14,30,Washington Capitals,2,1,0,0,2,23,9,95,29,Atlanta Flames,8,1,2,3,4,29,13,100,True
+1978,11,15,29,Atlanta Flames,7,0,7,9,4,33,17,95,16,Detroit Red Wings,5,2,7,11,8,36,19,115,True
+1978,11,15,32,Colorado Rockies,2,0,2,4,4,22,14,98,0,Montreal Canadiens,8,2,3,6,2,29,5,51,False
+1978,11,15,24,Minnesota North Stars,5,1,1,3,8,30,17,114,30,Washington Capitals,3,1,8,13,5,20,8,65,False
+1978,11,15,10,New York Rangers,8,2,2,6,5,24,13,121,11,Chicago Black Hawks,5,0,1,2,4,29,12,94,True
+1978,11,15,13,Toronto Maple Leafs,4,1,2,2,3,30,6,59,26,Buffalo Sabres,5,1,4,8,4,33,14,75,False
+1978,11,16,6,Boston Bruins,6,2,4,7,7,36,15,93,13,Toronto Maple Leafs,4,0,2,2,2,27,5,56,False
+1978,11,16,26,Buffalo Sabres,5,2,2,3,2,42,12,84,21,St. Louis Blues,2,0,2,4,3,21,28,148,True
+1978,11,16,22,Los Angeles Kings,5,0,4,5,2,20,13,93,0,Montreal Canadiens,8,2,6,7,3,22,4,43,True
+1978,11,16,23,Philadelphia Flyers,7,0,3,6,0,14,7,57,11,Chicago Black Hawks,4,2,1,2,5,37,16,104,False
+1978,11,16,25,Vancouver Canucks,3,2,0,0,4,36,14,109,20,Pittsburgh Penguins,4,0,1,3,2,33,18,120,False
+1978,11,17,29,Atlanta Flames,7,1,5,11,3,19,16,81,6,Boston Bruins,6,1,4,7,4,20,14,99,False
+1978,11,17,30,Washington Capitals,3,0,3,4,2,12,5,83,28,New York Islanders,6,2,2,2,3,34,5,65,False
+1978,11,18,32,Colorado Rockies,2,1,0,2,2,27,16,119,11,Chicago Black Hawks,5,1,4,4,8,39,14,113,True
+1978,11,18,16,Detroit Red Wings,5,2,3,1,1,17,16,108,26,Buffalo Sabres,6,0,6,11,2,33,12,75,False
+1978,11,18,22,Los Angeles Kings,6,2,6,10,3,34,14,107,20,Pittsburgh Penguins,4,0,6,9,3,35,19,116,False
+1978,11,18,24,Minnesota North Stars,4,1,2,5,3,24,12,108,10,New York Rangers,8,1,8,13,5,21,9,130,False
+1978,11,18,28,New York Islanders,7,0,4,3,2,27,4,59,23,Philadelphia Flyers,6,2,4,5,3,27,11,67,True
+1978,11,18,13,Toronto Maple Leafs,5,2,6,9,1,2,7,62,21,St. Louis Blues,2,0,2,4,5,38,31,158,True
+1978,11,18,25,Vancouver Canucks,3,0,3,5,4,42,15,102,0,Montreal Canadiens,8,2,3,4,1,21,7,43,False
+1978,11,19,6,Boston Bruins,6,2,6,10,5,28,12,107,21,St. Louis Blues,1,0,1,2,6,31,29,155,True
+1978,11,19,26,Buffalo Sabres,7,1,3,4,1,39,11,81,24,Minnesota North Stars,4,1,2,4,4,29,11,111,True
+1978,11,19,10,New York Rangers,8,0,7,12,1,33,6,143,29,Atlanta Flames,6,2,2,4,6,27,17,86,False
+1978,11,19,23,Philadelphia Flyers,5,2,3,3,3,10,12,40,16,Detroit Red Wings,4,0,1,2,5,29,17,112,True
+1978,11,20,22,Los Angeles Kings,6,1,1,2,5,39,13,116,11,Chicago Black Hawks,5,1,3,4,8,29,14,103,True
+1978,11,21,29,Atlanta Flames,6,1,3,4,1,30,12,89,13,Toronto Maple Leafs,6,1,3,5,1,18,7,78,False
+1978,11,21,32,Colorado Rockies,2,1,9,14,6,43,17,120,28,New York Islanders,8,1,8,13,2,28,4,64,False
+1978,11,21,21,St. Louis Blues,1,1,2,4,3,35,28,162,30,Washington Capitals,3,1,2,3,2,38,7,102,False
+1978,11,21,25,Vancouver Canucks,3,2,2,2,4,33,15,93,11,Chicago Black Hawks,4,0,3,7,3,46,10,113,True
+1978,11,22,26,Buffalo Sabres,7,2,9,10,2,21,12,63,23,Philadelphia Flyers,6,0,3,6,3,22,12,52,False
+1978,11,22,22,Los Angeles Kings,6,1,4,5,3,23,11,100,16,Detroit Red Wings,3,1,3,2,2,21,16,114,False
+1978,11,22,24,Minnesota North Stars,4,0,1,4,2,24,15,119,28,New York Islanders,8,2,7,13,2,32,3,60,False
+1978,11,22,10,New York Rangers,7,2,1,2,1,47,8,129,13,Toronto Maple Leafs,7,0,4,4,3,28,9,88,False
+1978,11,22,20,Pittsburgh Penguins,5,0,2,3,1,23,17,104,0,Montreal Canadiens,9,2,4,6,6,22,8,44,False
+1978,11,22,30,Washington Capitals,3,1,4,8,3,33,8,97,21,St. Louis Blues,1,1,3,4,5,38,29,157,False
+1978,11,23,6,Boston Bruins,6,1,6,9,2,21,9,91,26,Buffalo Sabres,6,1,2,4,3,33,13,75,True
+1978,11,23,32,Colorado Rockies,2,1,1,2,3,27,15,87,25,Vancouver Canucks,3,1,5,7,2,19,13,79,False
+1978,11,23,0,Montreal Canadiens,9,2,3,5,2,22,4,52,20,Pittsburgh Penguins,5,0,2,4,3,40,19,121,True
+1978,11,24,29,Atlanta Flames,5,2,3,5,4,34,16,88,21,St. Louis Blues,2,0,3,5,1,27,25,146,True
+1978,11,24,23,Philadelphia Flyers,7,1,3,4,5,14,11,52,24,Minnesota North Stars,3,1,1,2,3,27,16,116,True
+1978,11,25,24,Minnesota North Stars,2,0,3,4,4,20,17,109,22,Los Angeles Kings,5,2,3,6,3,41,11,102,False
+1978,11,25,0,Montreal Canadiens,9,1,8,14,2,30,6,61,11,Chicago Black Hawks,4,1,2,4,4,39,11,112,False
+1978,11,25,20,Pittsburgh Penguins,5,0,5,5,3,5,21,78,23,Philadelphia Flyers,8,2,5,8,2,22,9,52,False
+1978,11,25,21,St. Louis Blues,2,2,1,0,4,30,28,154,16,Detroit Red Wings,3,0,3,5,4,31,17,116,True
+1978,11,25,13,Toronto Maple Leafs,7,2,3,5,4,33,9,82,32,Colorado Rockies,2,0,2,3,4,11,19,91,False
+1978,11,25,25,Vancouver Canucks,3,0,7,10,2,35,13,95,28,New York Islanders,8,2,4,10,1,24,2,60,False
+1978,11,25,30,Washington Capitals,3,0,1,2,4,31,8,95,6,Boston Bruins,6,2,5,7,2,21,7,78,False
+1978,11,26,6,Boston Bruins,6,1,5,7,3,26,8,75,29,Atlanta Flames,5,1,4,8,1,16,9,61,True
+1978,11,26,26,Buffalo Sabres,6,2,2,4,7,34,15,71,32,Colorado Rockies,3,0,6,6,3,49,18,129,True
+1978,11,26,16,Detroit Red Wings,3,1,0,0,3,23,17,113,22,Los Angeles Kings,6,1,4,6,1,28,9,86,True
+1978,11,26,10,New York Rangers,6,2,4,5,2,34,10,108,30,Washington Capitals,3,0,5,8,3,31,9,87,True
+1978,11,26,13,Toronto Maple Leafs,6,1,3,5,5,23,10,72,20,Pittsburgh Penguins,5,1,1,1,3,30,21,103,True
+1978,11,28,0,Montreal Canadiens,8,2,3,4,4,31,12,62,23,Philadelphia Flyers,8,0,3,6,1,26,8,56,True
+1978,11,28,21,St. Louis Blues,3,1,4,8,0,21,24,145,25,Vancouver Canucks,3,1,2,2,5,43,16,103,False
+1978,11,29,29,Atlanta Flames,5,2,2,4,4,31,18,100,10,New York Rangers,6,0,8,15,3,19,12,97,False
+1978,11,29,11,Chicago Black Hawks,4,0,9,11,3,34,10,107,25,Vancouver Canucks,4,2,6,11,3,33,14,93,False
+1978,11,29,32,Colorado Rockies,3,0,1,2,4,30,19,110,16,Detroit Red Wings,4,2,4,6,4,28,16,107,False
+1978,11,29,22,Los Angeles Kings,6,0,2,5,3,25,10,80,28,New York Islanders,9,2,5,10,1,32,3,63,False
+1978,11,29,24,Minnesota North Stars,2,0,1,2,4,36,17,125,13,Toronto Maple Leafs,6,2,8,14,3,22,7,82,False
+1978,11,29,20,Pittsburgh Penguins,5,1,4,3,5,22,21,84,30,Washington Capitals,3,1,4,8,9,30,15,86,True
+1978,11,30,26,Buffalo Sabres,6,0,4,7,1,30,9,67,6,Boston Bruins,7,2,4,6,2,17,10,76,False
+1978,11,30,23,Philadelphia Flyers,7,2,0,0,3,14,9,56,21,St. Louis Blues,3,0,3,6,4,35,30,169,True
+1978,12,1,29,Atlanta Flames,4,2,3,5,5,32,19,101,24,Minnesota North Stars,2,0,3,4,3,23,18,130,False
+1978,12,1,25,Vancouver Canucks,5,1,1,2,1,25,12,85,16,Detroit Red Wings,4,1,2,4,2,20,14,99,True
+1978,12,1,30,Washington Capitals,3,1,3,6,5,52,11,108,20,Pittsburgh Penguins,5,1,5,6,3,36,19,98,False
+1978,12,2,6,Boston Bruins,8,0,4,8,2,25,11,86,23,Philadelphia Flyers,7,2,3,5,2,26,6,59,True
+1978,12,2,32,Colorado Rockies,3,1,2,4,7,31,17,103,28,New York Islanders,9,1,5,10,2,27,7,63,False
+1978,12,2,22,Los Angeles Kings,6,0,5,9,4,30,12,89,16,Detroit Red Wings,4,2,1,2,2,17,14,95,True
+1978,12,2,24,Minnesota North Stars,2,1,4,6,3,26,18,133,29,Atlanta Flames,3,1,3,6,0,0,18,92,True
+1978,12,2,0,Montreal Canadiens,8,1,3,4,0,21,8,52,26,Buffalo Sabres,6,1,3,6,4,44,12,81,True
+1978,12,2,20,Pittsburgh Penguins,5,1,7,12,4,28,20,90,11,Chicago Black Hawks,3,1,1,2,4,45,8,100,True
+1978,12,2,21,St. Louis Blues,2,1,0,0,3,34,29,168,30,Washington Capitals,3,1,4,7,0,0,12,86,True
+1978,12,2,13,Toronto Maple Leafs,6,1,5,8,2,33,7,93,10,New York Rangers,6,1,6,9,4,23,12,114,True
+1978,12,3,26,Buffalo Sabres,5,1,1,2,7,26,14,64,0,Montreal Canadiens,8,1,8,13,8,31,9,50,False
+1978,12,3,11,Chicago Black Hawks,2,0,2,4,1,27,9,94,32,Colorado Rockies,3,2,2,4,5,26,15,98,True
+1978,12,3,10,New York Rangers,5,0,2,4,3,36,13,127,6,Boston Bruins,8,2,5,10,3,16,10,73,False
+1978,12,3,23,Philadelphia Flyers,6,1,3,5,0,17,8,61,13,Toronto Maple Leafs,7,1,5,10,3,33,7,92,True
+1978,12,4,22,Los Angeles Kings,6,2,5,9,2,26,10,85,30,Washington Capitals,3,0,1,4,0,15,11,96,True
+1978,12,5,32,Colorado Rockies,3,0,3,5,3,7,12,86,30,Washington Capitals,2,2,2,4,4,18,21,119,False
+1978,12,5,28,New York Islanders,9,2,5,9,5,32,7,61,20,Pittsburgh Penguins,5,0,5,7,2,25,18,87,False
+1978,12,5,13,Toronto Maple Leafs,7,1,2,4,2,32,11,97,6,Boston Bruins,9,1,3,5,2,4,9,74,False
+1978,12,5,25,Vancouver Canucks,5,0,2,4,1,25,12,85,29,Atlanta Flames,3,2,3,3,4,23,22,113,True
+1978,12,6,16,Detroit Red Wings,4,0,2,2,2,16,17,106,0,Montreal Canadiens,8,2,4,6,1,19,2,44,False
+1978,12,6,24,Minnesota North Stars,2,0,5,5,5,30,22,139,22,Los Angeles Kings,6,2,10,13,2,23,10,82,True
+1978,12,6,10,New York Rangers,5,2,2,2,3,26,13,114,21,St. Louis Blues,3,0,5,10,6,45,28,162,True
+1978,12,6,20,Pittsburgh Penguins,6,0,3,4,3,45,19,107,13,Toronto Maple Leafs,7,2,1,1,7,38,14,103,True
+1978,12,7,6,Boston Bruins,9,1,5,9,2,20,10,96,16,Detroit Red Wings,3,1,2,4,5,28,17,106,True
+1978,12,7,26,Buffalo Sabres,5,1,1,2,4,31,11,69,22,Los Angeles Kings,5,1,0,0,5,38,12,87,False
+1978,12,7,28,New York Islanders,8,1,3,5,2,25,5,57,21,St. Louis Blues,3,1,4,8,2,28,29,150,True
+1978,12,7,23,Philadelphia Flyers,6,2,7,14,2,26,10,70,10,New York Rangers,5,0,7,11,5,36,14,114,False
+1978,12,7,25,Vancouver Canucks,6,2,3,4,0,21,11,81,11,Chicago Black Hawks,3,0,4,5,3,37,11,104,True
+1978,12,8,32,Colorado Rockies,2,0,1,2,1,30,13,100,29,Atlanta Flames,3,2,0,0,3,30,22,108,False
+1978,12,8,0,Montreal Canadiens,8,2,2,5,1,25,3,48,20,Pittsburgh Penguins,6,0,6,10,4,37,20,99,False
+1978,12,9,16,Detroit Red Wings,3,1,5,7,2,16,18,102,10,New York Rangers,6,1,5,9,3,23,11,99,True
+1978,12,9,22,Los Angeles Kings,5,0,2,4,3,26,12,89,29,Atlanta Flames,3,2,4,8,3,23,22,101,True
+1978,12,9,24,Minnesota North Stars,3,1,4,7,0,33,16,127,32,Colorado Rockies,2,1,3,5,4,26,16,96,True
+1978,12,9,23,Philadelphia Flyers,6,1,2,4,4,28,12,73,6,Boston Bruins,10,1,6,11,1,21,13,100,True
+1978,12,9,20,Pittsburgh Penguins,6,2,3,5,3,30,19,92,26,Buffalo Sabres,4,0,2,5,3,32,10,70,False
+1978,12,9,21,St. Louis Blues,3,0,1,2,7,33,34,156,11,Chicago Black Hawks,3,2,2,4,3,28,11,95,False
+1978,12,9,13,Toronto Maple Leafs,6,1,4,5,5,38,13,88,28,New York Islanders,8,1,7,13,3,28,4,47,False
+1978,12,9,25,Vancouver Canucks,7,2,4,7,2,33,13,93,30,Washington Capitals,2,0,4,8,1,37,18,138,False
+1978,12,10,6,Boston Bruins,9,2,2,3,3,6,16,85,24,Minnesota North Stars,4,0,3,6,0,23,16,117,False
+1978,12,10,26,Buffalo Sabres,4,2,4,7,4,34,11,72,13,Toronto Maple Leafs,5,0,2,2,3,31,11,81,True
+1978,12,10,11,Chicago Black Hawks,4,1,4,6,2,33,10,100,16,Detroit Red Wings,4,1,5,8,4,30,20,116,False
+1978,12,10,0,Montreal Canadiens,7,1,3,6,2,23,5,48,28,New York Islanders,9,1,3,6,1,15,3,48,True
+1978,12,10,10,New York Rangers,5,1,3,7,2,21,13,111,23,Philadelphia Flyers,7,1,9,15,2,18,10,63,False
+1978,12,12,6,Boston Bruins,8,2,4,6,4,14,17,93,25,Vancouver Canucks,7,0,5,7,5,29,17,92,True
+1978,12,12,28,New York Islanders,8,2,3,5,2,29,6,67,22,Los Angeles Kings,6,0,5,8,4,28,9,95,False
+1978,12,12,21,St. Louis Blues,3,0,2,5,7,34,31,156,0,Montreal Canadiens,8,2,4,6,3,21,6,46,False
+1978,12,12,30,Washington Capitals,3,2,7,12,5,23,22,124,32,Colorado Rockies,1,0,0,0,2,36,14,106,False
+1978,12,13,11,Chicago Black Hawks,3,0,3,4,3,30,11,97,26,Buffalo Sabres,4,2,5,10,3,19,10,62,False
+1978,12,13,16,Detroit Red Wings,5,1,3,6,6,24,19,121,29,Atlanta Flames,3,1,1,1,4,21,21,120,False
+1978,12,13,24,Minnesota North Stars,5,0,4,5,4,22,20,116,0,Montreal Canadiens,8,2,6,9,3,25,3,44,False
+1978,12,13,10,New York Rangers,4,1,1,1,5,35,15,119,22,Los Angeles Kings,6,1,6,9,5,32,10,99,True
+1978,12,13,20,Pittsburgh Penguins,6,0,4,7,3,10,20,99,21,St. Louis Blues,3,2,0,0,6,31,30,153,True
+1978,12,13,13,Toronto Maple Leafs,4,2,3,5,5,47,13,97,25,Vancouver Canucks,7,0,3,6,6,32,19,101,True
+1978,12,14,29,Atlanta Flames,3,2,5,10,5,42,22,131,32,Colorado Rockies,2,0,4,4,3,39,15,109,True
+1978,12,14,6,Boston Bruins,8,2,7,11,3,18,20,106,30,Washington Capitals,2,0,2,5,6,30,21,128,True
+1978,12,14,26,Buffalo Sabres,4,2,6,7,0,5,6,50,11,Chicago Black Hawks,3,0,2,4,5,39,14,97,True
+1978,12,14,28,New York Islanders,7,2,5,8,4,34,9,63,16,Detroit Red Wings,4,0,5,9,3,35,18,121,True
+1978,12,14,23,Philadelphia Flyers,7,2,4,5,0,28,8,73,20,Pittsburgh Penguins,7,0,3,3,4,37,17,122,True
+1978,12,15,30,Washington Capitals,2,2,2,4,5,27,20,125,24,Minnesota North Stars,5,0,2,4,3,25,19,119,False
+1978,12,16,29,Atlanta Flames,4,2,4,9,3,22,20,111,23,Philadelphia Flyers,7,0,2,4,1,25,9,70,True
+1978,12,16,6,Boston Bruins,8,2,5,8,2,28,19,116,10,New York Rangers,5,0,7,12,1,4,13,82,True
+1978,12,16,32,Colorado Rockies,2,1,3,4,5,26,17,96,11,Chicago Black Hawks,3,1,2,3,6,30,12,94,True
+1978,12,16,22,Los Angeles Kings,6,1,7,13,1,27,14,101,0,Montreal Canadiens,8,1,3,7,0,19,2,48,False
+1978,12,16,24,Minnesota North Stars,6,0,6,9,1,33,17,127,26,Buffalo Sabres,5,2,3,5,2,25,8,70,False
+1978,12,16,20,Pittsburgh Penguins,7,1,1,1,0,33,15,118,25,Vancouver Canucks,6,1,1,2,5,49,18,118,True
+1978,12,16,21,St. Louis Blues,2,1,0,0,4,33,27,157,28,New York Islanders,7,1,4,8,5,25,6,66,False
+1978,12,16,13,Toronto Maple Leafs,4,0,5,7,1,28,9,78,16,Detroit Red Wings,4,2,1,2,4,32,19,118,True
+1978,12,17,26,Buffalo Sabres,6,1,5,8,2,27,8,72,25,Vancouver Canucks,5,1,5,8,7,38,19,109,True
+1978,12,17,11,Chicago Black Hawks,3,1,1,2,3,36,11,90,20,Pittsburgh Penguins,8,1,6,9,2,33,20,115,False
+1978,12,17,16,Detroit Red Wings,3,0,2,2,4,46,19,132,28,New York Islanders,7,2,2,4,1,37,3,67,False
+1978,12,17,10,New York Rangers,5,0,2,2,6,23,16,106,6,Boston Bruins,8,2,4,7,3,27,18,109,False
+1978,12,17,23,Philadelphia Flyers,6,2,2,2,0,0,11,40,21,St. Louis Blues,2,0,2,4,2,24,25,148,True
+1978,12,17,30,Washington Capitals,2,0,2,2,1,5,17,93,13,Toronto Maple Leafs,5,2,4,6,6,23,10,86,True
+1978,12,19,32,Colorado Rockies,2,1,5,8,4,21,13,96,22,Los Angeles Kings,5,1,2,6,5,25,17,94,False
+1978,12,19,24,Minnesota North Stars,6,2,2,2,5,26,20,110,25,Vancouver Canucks,5,0,3,4,7,34,25,136,True
+1978,12,19,21,St. Louis Blues,1,0,1,0,3,35,27,160,29,Atlanta Flames,4,2,8,14,2,31,19,123,True
+1978,12,19,30,Washington Capitals,3,0,7,10,0,0,22,121,23,Philadelphia Flyers,6,2,4,5,1,17,12,57,False
+1978,12,20,11,Chicago Black Hawks,2,2,2,6,5,26,11,85,0,Montreal Canadiens,8,0,5,7,2,29,4,57,False
+1978,12,20,16,Detroit Red Wings,2,0,0,0,3,27,18,113,25,Vancouver Canucks,4,2,3,6,6,31,22,141,True
+1978,12,20,10,New York Rangers,4,0,1,2,4,28,14,110,26,Buffalo Sabres,6,2,7,6,3,19,7,46,True
+1978,12,20,13,Toronto Maple Leafs,4,2,6,10,2,13,9,53,24,Minnesota North Stars,7,0,5,6,3,31,18,115,True
+1978,12,21,6,Boston Bruins,8,2,4,7,1,21,16,101,32,Colorado Rockies,2,0,2,4,1,26,11,103,True
+1978,12,21,26,Buffalo Sabres,6,1,3,6,0,8,10,61,29,Atlanta Flames,4,1,4,6,2,16,16,95,True
+1978,12,21,22,Los Angeles Kings,6,1,2,3,2,27,13,91,20,Pittsburgh Penguins,8,1,2,6,5,30,17,97,False
+1978,12,21,0,Montreal Canadiens,9,1,5,6,2,28,5,61,11,Chicago Black Hawks,2,1,3,5,4,32,10,91,True
+1978,12,21,28,New York Islanders,7,2,3,4,2,26,2,51,21,St. Louis Blues,2,0,7,13,4,31,25,143,True
+1978,12,21,23,Philadelphia Flyers,7,2,4,6,4,15,15,59,30,Washington Capitals,3,0,4,8,4,39,26,160,True
+1978,12,22,29,Atlanta Flames,4,1,4,6,5,34,19,113,13,Toronto Maple Leafs,4,1,4,7,2,26,9,66,True
+1978,12,22,10,New York Rangers,4,1,6,11,4,27,13,110,16,Detroit Red Wings,3,1,4,12,2,22,17,108,True
+1978,12,23,6,Boston Bruins,8,2,4,7,2,20,17,100,26,Buffalo Sabres,7,0,5,9,4,25,14,78,True
+1978,12,23,11,Chicago Black Hawks,2,2,1,2,3,31,11,92,23,Philadelphia Flyers,7,0,5,8,4,19,13,68,True
+1978,12,23,16,Detroit Red Wings,3,2,5,4,3,32,18,118,30,Washington Capitals,3,0,2,3,5,46,27,167,False
+1978,12,23,24,Minnesota North Stars,7,1,2,4,4,34,19,118,20,Pittsburgh Penguins,8,1,5,6,3,35,13,96,True
+1978,12,23,0,Montreal Canadiens,9,2,5,8,3,33,4,57,32,Colorado Rockies,2,0,2,3,3,18,12,77,True
+1978,12,23,28,New York Islanders,7,2,5,8,0,21,1,47,10,New York Rangers,5,0,4,7,3,28,11,102,True
+1978,12,23,21,St. Louis Blues,2,0,1,2,4,36,26,136,13,Toronto Maple Leafs,3,2,1,1,5,13,10,73,False
+1978,12,23,25,Vancouver Canucks,3,0,2,2,6,40,19,102,22,Los Angeles Kings,6,2,1,2,8,37,15,97,True
+1978,12,26,29,Atlanta Flames,5,1,3,6,1,27,17,97,10,New York Rangers,5,1,4,8,1,13,15,91,False
+1978,12,26,16,Detroit Red Wings,3,0,2,4,2,18,17,104,23,Philadelphia Flyers,7,2,2,4,2,24,13,79,False
+1978,12,26,28,New York Islanders,7,1,9,16,1,22,5,57,13,Toronto Maple Leafs,4,1,5,8,3,33,6,93,True
+1978,12,26,21,St. Louis Blues,1,0,1,2,5,24,28,127,24,Minnesota North Stars,7,2,5,8,3,29,14,133,False
+1978,12,27,11,Chicago Black Hawks,2,2,5,8,5,33,10,89,21,St. Louis Blues,1,0,4,7,5,28,28,131,True
+1978,12,27,32,Colorado Rockies,2,0,2,3,3,31,12,90,26,Buffalo Sabres,7,2,4,7,6,28,16,81,False
+1978,12,27,16,Detroit Red Wings,3,0,2,4,2,30,17,116,0,Montreal Canadiens,9,2,3,7,1,24,3,40,False
+1978,12,27,24,Minnesota North Stars,7,1,6,11,4,25,15,129,30,Washington Capitals,4,1,2,4,5,17,24,153,True
+1978,12,27,20,Pittsburgh Penguins,7,2,3,5,1,29,15,88,22,Los Angeles Kings,5,0,0,0,2,23,12,97,True
+1978,12,27,13,Toronto Maple Leafs,4,1,1,4,5,51,8,111,6,Boston Bruins,8,1,6,12,4,24,16,93,False
+1978,12,28,29,Atlanta Flames,5,1,3,6,5,43,21,113,28,New York Islanders,8,1,5,10,4,31,5,55,False
+1978,12,28,0,Montreal Canadiens,9,1,4,7,2,16,4,36,22,Los Angeles Kings,4,1,2,2,0,8,11,71,False
+1978,12,28,23,Philadelphia Flyers,7,1,2,4,2,21,13,76,10,New York Rangers,5,1,5,8,4,26,17,101,True
+1978,12,28,25,Vancouver Canucks,3,1,2,4,0,24,13,86,26,Buffalo Sabres,8,1,5,7,6,34,12,89,False
+1978,12,30,11,Chicago Black Hawks,3,0,4,7,2,28,8,81,10,New York Rangers,4,2,5,7,3,23,19,107,False
+1978,12,30,32,Colorado Rockies,2,1,2,3,5,27,14,86,24,Minnesota North Stars,7,1,6,9,1,29,12,133,True
+1978,12,30,22,Los Angeles Kings,5,1,3,3,3,31,14,94,25,Vancouver Canucks,2,1,3,6,3,24,16,86,True
+1978,12,30,0,Montreal Canadiens,8,2,3,6,2,20,5,46,6,Boston Bruins,8,0,1,2,1,27,13,96,True
+1978,12,30,28,New York Islanders,8,2,10,18,1,20,5,52,29,Atlanta Flames,5,0,4,8,7,22,21,89,True
+1978,12,30,20,Pittsburgh Penguins,7,1,5,7,2,33,16,92,16,Detroit Red Wings,2,1,2,4,5,32,20,118,True
+1978,12,30,21,St. Louis Blues,1,0,3,6,6,27,22,124,23,Philadelphia Flyers,8,2,6,7,4,30,16,80,True
+1978,12,30,13,Toronto Maple Leafs,4,1,1,2,1,35,4,95,30,Washington Capitals,4,1,1,1,2,32,25,177,False
+1978,12,31,26,Buffalo Sabres,8,0,3,8,2,36,9,82,6,Boston Bruins,7,2,1,1,1,19,18,99,False
+1978,12,31,16,Detroit Red Wings,1,0,1,2,5,24,18,120,20,Pittsburgh Penguins,7,2,3,6,1,28,15,87,False
+1978,12,31,10,New York Rangers,5,2,5,9,8,23,20,119,29,Atlanta Flames,4,0,2,3,0,8,12,96,False
+1979,1,1,22,Los Angeles Kings,5,2,4,8,0,13,6,46,32,Colorado Rockies,3,0,7,13,1,10,11,93,True
+1979,1,2,32,Colorado Rockies,3,1,3,5,2,34,15,113,21,St. Louis Blues,2,1,5,11,3,31,24,147,True
+1979,1,2,28,New York Islanders,8,2,4,6,2,30,6,62,25,Vancouver Canucks,1,0,0,0,4,39,17,101,True
+1979,1,3,11,Chicago Black Hawks,2,1,5,7,3,25,11,85,6,Boston Bruins,8,1,7,12,6,30,20,104,False
+1979,1,3,24,Minnesota North Stars,6,2,2,4,7,19,18,123,21,St. Louis Blues,2,0,2,4,3,34,24,150,False
+1979,1,3,10,New York Rangers,5,2,5,7,4,35,18,123,0,Montreal Canadiens,9,0,7,10,1,26,4,52,True
+1979,1,3,20,Pittsburgh Penguins,7,2,5,7,4,23,18,82,25,Vancouver Canucks,1,0,0,0,3,14,22,97,False
+1979,1,3,13,Toronto Maple Leafs,4,1,5,7,5,28,8,88,29,Atlanta Flames,5,1,6,10,4,25,17,119,False
+1979,1,3,30,Washington Capitals,4,0,5,7,5,35,28,180,22,Los Angeles Kings,5,2,5,10,3,20,9,53,True
+1979,1,4,26,Buffalo Sabres,7,2,3,5,0,11,11,48,11,Chicago Black Hawks,2,0,3,6,5,32,13,86,False
+1979,1,4,0,Montreal Canadiens,8,1,2,1,3,26,9,52,22,Los Angeles Kings,4,1,3,6,6,32,9,45,False
+1979,1,4,23,Philadelphia Flyers,7,1,3,4,5,25,17,77,28,New York Islanders,9,1,9,16,4,28,4,55,True
+1979,1,5,29,Atlanta Flames,5,2,3,6,1,27,14,121,20,Pittsburgh Penguins,7,0,3,5,5,27,19,122,False
+1979,1,5,32,Colorado Rockies,4,0,4,6,2,21,15,100,6,Boston Bruins,9,2,6,9,3,24,14,78,False
+1979,1,5,10,New York Rangers,5,2,6,10,6,32,16,115,25,Vancouver Canucks,2,0,5,7,3,51,22,134,True
+1979,1,6,16,Detroit Red Wings,1,1,4,8,0,2,15,94,30,Washington Capitals,4,1,7,13,3,43,26,188,False
+1979,1,6,24,Minnesota North Stars,5,1,3,6,3,29,14,133,6,Boston Bruins,9,1,5,6,3,22,14,76,False
+1979,1,6,0,Montreal Canadiens,7,2,4,8,6,26,11,52,25,Vancouver Canucks,2,0,4,7,9,35,25,111,True
+1979,1,6,28,New York Islanders,9,1,2,3,0,23,3,58,23,Philadelphia Flyers,7,1,3,6,5,27,14,84,True
+1979,1,6,20,Pittsburgh Penguins,7,2,3,2,5,26,20,92,22,Los Angeles Kings,5,0,4,8,4,30,11,69,False
+1979,1,6,21,St. Louis Blues,3,1,4,4,3,35,24,151,32,Colorado Rockies,3,1,3,6,4,23,17,102,False
+1979,1,6,13,Toronto Maple Leafs,4,1,1,2,4,35,7,95,11,Chicago Black Hawks,3,1,3,5,5,26,11,94,False
+1979,1,7,26,Buffalo Sabres,6,1,3,5,7,18,14,60,16,Detroit Red Wings,1,1,1,2,5,30,19,120,True
+1979,1,7,11,Chicago Black Hawks,4,1,5,8,3,48,9,116,30,Washington Capitals,5,1,4,6,6,33,24,171,True
+1979,1,7,23,Philadelphia Flyers,6,2,1,2,3,9,12,50,22,Los Angeles Kings,6,0,4,6,2,6,10,85,True
+1979,1,8,0,Montreal Canadiens,7,2,2,4,0,24,5,50,24,Minnesota North Stars,5,0,2,3,3,27,15,140,True
+1979,1,8,13,Toronto Maple Leafs,3,2,3,5,1,33,7,91,25,Vancouver Canucks,2,0,0,0,2,33,18,109,False
+1979,1,9,29,Atlanta Flames,4,1,3,6,3,26,16,104,26,Buffalo Sabres,6,1,4,4,3,28,10,70,True
+1979,1,9,28,New York Islanders,9,1,5,6,3,31,4,55,22,Los Angeles Kings,5,1,0,0,3,45,11,124,True
+1979,1,9,21,St. Louis Blues,3,0,0,3,3,19,24,135,10,New York Rangers,6,2,6,9,2,27,14,109,False
+1979,1,9,30,Washington Capitals,5,0,3,5,1,8,22,143,23,Philadelphia Flyers,7,2,3,5,3,9,9,60,False
+1979,1,10,11,Chicago Black Hawks,5,0,5,7,3,28,9,96,22,Los Angeles Kings,5,2,1,1,3,46,15,121,True
+1979,1,10,32,Colorado Rockies,4,0,4,7,1,30,14,109,10,New York Rangers,7,2,6,8,6,27,15,106,False
+1979,1,10,16,Detroit Red Wings,1,0,3,7,4,28,18,115,28,New York Islanders,9,2,7,13,1,20,2,54,False
+1979,1,10,20,Pittsburgh Penguins,7,1,3,5,3,20,19,90,0,Montreal Canadiens,7,1,3,4,5,26,6,44,True
+1979,1,10,13,Toronto Maple Leafs,2,2,1,2,4,31,11,93,24,Minnesota North Stars,4,0,1,1,2,22,18,137,False
+1979,1,11,6,Boston Bruins,9,1,4,5,2,28,18,118,24,Minnesota North Stars,5,1,2,0,4,36,18,142,True
+1979,1,11,26,Buffalo Sabres,5,1,3,6,5,39,12,81,30,Washington Capitals,5,1,3,4,5,22,26,157,True
+1979,1,11,23,Philadelphia Flyers,7,2,5,9,0,19,8,94,16,Detroit Red Wings,1,0,5,9,5,28,19,115,False
+1979,1,11,25,Vancouver Canucks,3,1,5,9,1,26,17,102,21,St. Louis Blues,3,1,3,3,4,24,26,154,True
+1979,1,12,29,Atlanta Flames,4,0,5,10,5,32,18,119,28,New York Islanders,9,2,5,10,1,30,6,68,False
+1979,1,12,30,Washington Capitals,4,1,2,4,6,27,27,162,32,Colorado Rockies,3,1,3,5,5,33,18,112,True
+1979,1,13,16,Detroit Red Wings,1,1,3,6,3,40,17,127,22,Los Angeles Kings,5,1,0,1,3,28,14,115,False
+1979,1,13,24,Minnesota North Stars,4,0,4,6,2,27,20,127,11,Chicago Black Hawks,6,2,3,5,0,32,6,100,True
+1979,1,13,0,Montreal Canadiens,6,2,2,4,1,18,4,39,26,Buffalo Sabres,5,0,6,10,2,27,9,69,True
+1979,1,13,20,Pittsburgh Penguins,7,0,3,6,2,31,18,101,6,Boston Bruins,9,2,6,10,3,24,20,110,True
+1979,1,13,21,St. Louis Blues,2,0,3,5,4,31,26,161,25,Vancouver Canucks,4,2,4,6,3,25,19,101,False
+1979,1,13,13,Toronto Maple Leafs,2,1,2,1,5,35,9,100,32,Colorado Rockies,3,1,1,1,1,13,16,91,True
+1979,1,14,29,Atlanta Flames,4,1,2,2,3,22,17,111,10,New York Rangers,7,1,5,9,3,24,12,103,False
+1979,1,14,6,Boston Bruins,8,2,3,4,5,36,22,122,22,Los Angeles Kings,6,0,7,12,7,42,18,112,False
+1979,1,14,26,Buffalo Sabres,5,1,2,4,3,23,11,68,20,Pittsburgh Penguins,7,1,5,10,3,28,19,98,False
+1979,1,14,23,Philadelphia Flyers,6,1,3,3,2,43,11,97,28,New York Islanders,9,1,4,8,5,34,6,66,False
+1979,1,14,30,Washington Capitals,5,1,8,12,1,23,22,158,25,Vancouver Canucks,5,1,3,5,6,28,19,106,True
+1979,1,15,10,New York Rangers,7,1,6,12,4,26,13,107,24,Minnesota North Stars,5,1,4,8,6,21,18,123,False
+1979,1,16,29,Atlanta Flames,4,2,3,8,5,28,19,117,23,Philadelphia Flyers,5,0,1,2,3,22,10,84,True
+1979,1,16,32,Colorado Rockies,3,1,2,4,7,29,19,112,13,Toronto Maple Leafs,2,1,4,7,2,38,6,99,False
+1979,1,16,28,New York Islanders,9,2,1,2,1,28,2,61,30,Washington Capitals,6,0,5,5,3,26,24,161,True
+1979,1,16,20,Pittsburgh Penguins,7,1,5,10,4,24,19,95,24,Minnesota North Stars,5,1,8,13,3,24,13,136,True
+1979,1,16,21,St. Louis Blues,2,0,3,4,5,38,25,157,6,Boston Bruins,7,2,3,5,4,20,19,90,True
+1979,1,16,25,Vancouver Canucks,4,0,3,6,3,30,18,101,0,Montreal Canadiens,6,2,5,7,2,29,5,50,False
+1979,1,17,11,Chicago Black Hawks,6,1,3,5,4,39,10,107,32,Colorado Rockies,3,1,2,4,4,34,15,110,True
+1979,1,17,16,Detroit Red Wings,1,0,3,3,7,33,21,120,20,Pittsburgh Penguins,8,2,5,5,4,30,15,96,True
+1979,1,17,22,Los Angeles Kings,6,2,6,9,3,32,8,93,0,Montreal Canadiens,6,0,2,4,2,20,5,41,False
+1979,1,17,10,New York Rangers,7,0,1,2,4,28,14,78,28,New York Islanders,9,2,6,11,1,29,3,64,True
+1979,1,18,6,Boston Bruins,6,1,2,4,6,20,20,98,21,St. Louis Blues,3,1,5,10,2,28,22,147,True
+1979,1,18,23,Philadelphia Flyers,5,1,0,0,1,30,12,89,26,Buffalo Sabres,4,1,4,8,4,26,13,68,False
+1979,1,19,29,Atlanta Flames,4,2,5,9,0,36,13,116,11,Chicago Black Hawks,7,0,2,4,1,26,7,94,True
+1979,1,19,32,Colorado Rockies,3,1,1,2,3,27,13,132,24,Minnesota North Stars,4,1,0,1,1,34,15,155,True
+1979,1,19,25,Vancouver Canucks,4,1,2,5,2,37,17,108,13,Toronto Maple Leafs,3,1,3,4,2,34,6,82,False
+1979,1,19,30,Washington Capitals,5,2,2,4,6,26,27,161,16,Detroit Red Wings,2,0,4,7,1,30,15,117,True
+1979,1,20,6,Boston Bruins,6,2,4,8,0,13,14,91,26,Buffalo Sabres,5,0,4,5,4,28,13,70,False
+1979,1,20,16,Detroit Red Wings,2,0,1,0,5,28,19,115,29,Atlanta Flames,5,2,6,11,4,24,14,104,False
+1979,1,20,22,Los Angeles Kings,5,0,3,4,3,26,15,95,13,Toronto Maple Leafs,3,2,2,5,2,21,7,72,False
+1979,1,20,24,Minnesota North Stars,3,0,3,6,5,43,19,141,32,Colorado Rockies,3,2,5,6,2,56,13,140,False
+1979,1,20,0,Montreal Canadiens,6,2,7,10,3,26,6,47,23,Philadelphia Flyers,4,0,4,7,4,29,15,88,False
+1979,1,20,28,New York Islanders,8,1,3,4,2,31,7,74,11,Chicago Black Hawks,6,1,1,1,6,34,12,102,True
+1979,1,20,20,Pittsburgh Penguins,7,2,1,1,0,25,15,99,30,Washington Capitals,6,0,5,8,1,35,22,170,False
+1979,1,20,21,St. Louis Blues,3,0,0,0,3,27,24,148,10,New York Rangers,7,2,5,8,3,25,13,75,True
+1979,1,21,10,New York Rangers,7,0,2,4,3,22,13,72,23,Philadelphia Flyers,4,2,5,6,5,27,16,90,False
+1979,1,22,6,Boston Bruins,6,2,0,2,5,28,16,90,29,Atlanta Flames,6,0,5,6,1,24,13,112,True
+1979,1,22,11,Chicago Black Hawks,5,0,2,3,4,39,10,107,28,New York Islanders,8,2,3,7,2,27,7,70,False
+1979,1,23,21,St. Louis Blues,4,0,3,6,2,31,23,152,0,Montreal Canadiens,6,2,5,8,5,34,8,55,False
+1979,1,24,22,Los Angeles Kings,4,1,2,3,7,44,15,92,20,Pittsburgh Penguins,6,1,2,4,4,33,20,110,True
+1979,1,24,24,Minnesota North Stars,3,1,3,5,4,30,17,127,13,Toronto Maple Leafs,4,1,5,4,2,36,7,87,False
+1979,1,24,25,Vancouver Canucks,4,2,3,4,3,24,18,95,11,Chicago Black Hawks,5,0,1,2,2,31,8,99,False
+1979,1,24,30,Washington Capitals,6,0,5,9,2,39,23,174,10,New York Rangers,6,2,5,8,5,25,15,75,True
+1979,1,25,6,Boston Bruins,6,1,3,5,2,15,12,79,28,New York Islanders,8,1,2,3,5,39,6,62,False
+1979,1,25,26,Buffalo Sabres,5,1,1,6,1,27,10,69,10,New York Rangers,6,1,1,1,5,34,15,84,False
+1979,1,25,32,Colorado Rockies,4,1,3,6,3,35,14,122,20,Pittsburgh Penguins,5,1,1,2,5,36,19,111,True
+1979,1,25,22,Los Angeles Kings,5,2,4,6,1,23,9,71,16,Detroit Red Wings,2,0,3,6,4,20,18,107,False
+1979,1,25,0,Montreal Canadiens,6,1,6,10,3,21,6,52,29,Atlanta Flames,6,1,1,2,3,22,15,110,True
+1979,1,26,29,Atlanta Flames,5,2,0,0,4,26,15,91,13,Toronto Maple Leafs,5,0,1,4,2,34,7,85,True
+1979,1,26,25,Vancouver Canucks,4,2,0,0,5,15,20,86,21,St. Louis Blues,3,0,3,6,4,29,27,151,True
+1979,1,27,32,Colorado Rockies,4,0,5,10,3,38,14,109,25,Vancouver Canucks,4,2,4,8,4,17,16,96,False
+1979,1,27,16,Detroit Red Wings,3,0,6,6,4,25,20,119,26,Buffalo Sabres,4,2,5,6,5,23,14,63,False
+1979,1,27,24,Minnesota North Stars,3,1,2,4,2,25,15,122,23,Philadelphia Flyers,5,1,5,7,5,31,16,99,True
+1979,1,27,0,Montreal Canadiens,7,2,6,10,3,31,3,45,6,Boston Bruins,5,0,2,2,1,17,13,80,True
+1979,1,27,28,New York Islanders,9,1,4,6,1,19,3,53,10,New York Rangers,6,1,5,8,4,39,14,89,False
+1979,1,27,20,Pittsburgh Penguins,5,0,3,6,3,34,18,109,22,Los Angeles Kings,4,2,6,11,6,26,16,86,True
+1979,1,27,30,Washington Capitals,6,1,5,9,1,18,22,153,11,Chicago Black Hawks,6,1,5,11,0,34,6,102,True
+1979,1,28,29,Atlanta Flames,5,2,4,8,2,9,13,95,16,Detroit Red Wings,3,0,3,6,6,32,22,128,True
+1979,1,28,6,Boston Bruins,4,1,1,0,3,27,15,90,22,Los Angeles Kings,3,1,3,6,3,23,16,94,False
+1979,1,28,26,Buffalo Sabres,5,2,6,10,3,24,12,64,24,Minnesota North Stars,4,0,3,5,3,29,14,123,False
+1979,1,28,11,Chicago Black Hawks,5,2,1,1,3,31,9,99,21,St. Louis Blues,3,0,1,1,6,30,27,154,False
+1979,1,28,30,Washington Capitals,6,2,4,6,1,31,22,166,13,Toronto Maple Leafs,5,0,2,4,4,19,9,70,False
+1979,1,29,23,Philadelphia Flyers,4,1,1,2,3,30,14,98,0,Montreal Canadiens,8,1,3,5,0,14,1,36,False
+1979,1,30,16,Detroit Red Wings,3,0,2,5,7,31,23,127,30,Washington Capitals,6,2,2,3,2,27,23,162,True
+1979,1,30,28,New York Islanders,8,2,2,3,2,30,9,67,24,Minnesota North Stars,5,0,3,5,1,26,12,120,False
+1979,1,30,21,St. Louis Blues,3,0,7,10,2,29,23,153,22,Los Angeles Kings,4,2,5,8,3,30,13,94,True
+1979,1,30,25,Vancouver Canucks,5,0,2,3,2,20,13,82,10,New York Rangers,6,2,7,13,2,25,12,75,False
+1979,1,31,26,Buffalo Sabres,5,1,1,3,5,21,12,59,29,Atlanta Flames,6,1,7,8,2,27,13,115,False
+1979,1,31,11,Chicago Black Hawks,4,1,2,2,7,37,13,105,6,Boston Bruins,3,1,3,6,3,16,21,97,False
+1979,1,31,32,Colorado Rockies,4,0,2,2,3,22,13,96,10,New York Rangers,6,2,5,11,3,8,13,97,True
+1979,1,31,20,Pittsburgh Penguins,5,2,5,8,4,34,18,106,0,Montreal Canadiens,8,0,7,15,1,22,4,55,False
+1979,1,31,13,Toronto Maple Leafs,6,2,2,3,3,24,7,84,21,St. Louis Blues,4,0,7,13,1,29,22,153,True
+1979,1,31,30,Washington Capitals,6,1,4,6,6,31,27,166,22,Los Angeles Kings,4,1,1,2,5,35,17,94,True
+1979,2,1,29,Atlanta Flames,6,1,5,9,2,29,13,129,25,Vancouver Canucks,5,1,3,5,5,36,16,98,True
+1979,2,1,6,Boston Bruins,3,2,2,4,2,19,20,100,11,Chicago Black Hawks,3,0,2,4,3,40,8,105,True
+1979,2,1,24,Minnesota North Stars,5,1,5,8,4,26,13,125,16,Detroit Red Wings,4,1,7,12,4,24,20,120,True
+1979,2,1,23,Philadelphia Flyers,4,0,3,6,3,19,13,62,28,New York Islanders,7,2,4,8,7,33,12,61,False
+1979,2,3,29,Atlanta Flames,7,2,4,6,2,41,12,134,11,Chicago Black Hawks,2,0,1,2,6,32,11,97,False
+1979,2,3,22,Los Angeles Kings,4,0,3,4,4,31,18,102,10,New York Rangers,5,2,4,8,3,47,15,111,True
+1979,2,3,24,Minnesota North Stars,6,1,6,11,0,2,9,102,26,Buffalo Sabres,4,1,2,3,5,24,12,62,False
+1979,2,3,28,New York Islanders,7,1,4,6,5,24,6,52,6,Boston Bruins,4,1,5,6,1,17,19,98,False
+1979,2,3,20,Pittsburgh Penguins,5,1,1,0,4,31,18,103,16,Detroit Red Wings,4,1,1,2,6,36,22,132,True
+1979,2,3,21,St. Louis Blues,4,0,1,0,4,32,26,154,32,Colorado Rockies,4,2,5,9,2,25,14,116,True
+1979,2,3,13,Toronto Maple Leafs,7,0,6,8,2,33,5,89,0,Montreal Canadiens,8,2,3,8,1,24,4,57,False
+1979,2,3,30,Washington Capitals,7,2,5,8,3,28,24,163,25,Vancouver Canucks,4,0,1,2,4,37,15,99,False
+1979,2,4,6,Boston Bruins,5,2,4,6,6,24,22,103,25,Vancouver Canucks,4,0,5,9,1,31,12,93,True
+1979,2,4,26,Buffalo Sabres,5,2,2,3,1,45,8,83,21,St. Louis Blues,5,0,6,12,5,30,25,146,True
+1979,2,4,11,Chicago Black Hawks,3,0,4,8,2,37,7,113,28,New York Islanders,6,2,4,5,1,24,5,61,True
+1979,2,4,32,Colorado Rockies,4,0,3,6,4,42,18,129,22,Los Angeles Kings,4,2,4,5,2,34,14,97,False
+1979,2,4,16,Detroit Red Wings,3,1,2,4,4,28,20,124,20,Pittsburgh Penguins,5,1,4,6,3,8,16,102,True
+1979,2,4,24,Minnesota North Stars,5,1,1,2,1,27,11,125,13,Toronto Maple Leafs,7,1,3,4,6,31,9,87,True
+1979,2,4,23,Philadelphia Flyers,3,0,1,1,4,18,14,61,29,Atlanta Flames,7,2,2,3,1,34,13,107,True
+1979,2,4,30,Washington Capitals,6,0,1,2,4,38,25,173,0,Montreal Canadiens,9,2,7,12,3,33,6,63,False
+1979,2,12,11,Chicago Black Hawks,3,2,5,10,4,31,9,107,13,Toronto Maple Leafs,7,0,4,8,6,45,9,101,False
+1979,2,13,28,New York Islanders,5,2,5,7,4,33,9,74,32,Colorado Rockies,4,0,1,1,6,38,17,123,True
+1979,2,13,21,St. Louis Blues,5,0,2,3,2,38,22,154,25,Vancouver Canucks,3,2,1,0,5,23,17,89,False
+1979,2,14,26,Buffalo Sabres,5,0,3,6,1,32,8,70,28,New York Islanders,5,2,6,10,5,37,6,68,True
+1979,2,14,11,Chicago Black Hawks,3,1,2,4,2,48,10,104,29,Atlanta Flames,6,1,4,5,2,11,15,81,False
+1979,2,14,16,Detroit Red Wings,4,1,8,15,3,21,19,117,22,Los Angeles Kings,4,1,4,8,1,31,12,87,False
+1979,2,14,24,Minnesota North Stars,5,2,6,12,4,26,14,124,25,Vancouver Canucks,4,0,3,6,3,34,15,100,True
+1979,2,14,10,New York Rangers,4,0,2,4,3,32,15,96,6,Boston Bruins,6,2,7,13,1,30,17,109,True
+1979,2,14,13,Toronto Maple Leafs,7,0,5,7,2,35,5,91,23,Philadelphia Flyers,3,2,6,13,4,11,14,64,False
+1979,2,15,26,Buffalo Sabres,6,0,2,3,1,26,8,64,10,New York Rangers,5,2,5,9,1,22,13,86,True
+1979,2,15,32,Colorado Rockies,4,1,1,1,6,28,17,113,30,Washington Capitals,5,1,4,6,8,32,29,167,False
+1979,2,15,0,Montreal Canadiens,9,1,8,11,4,23,7,53,22,Los Angeles Kings,5,1,3,6,2,26,13,84,False
+1979,2,15,23,Philadelphia Flyers,4,1,2,3,4,21,12,91,6,Boston Bruins,5,1,1,1,5,27,21,111,True
+1979,2,15,20,Pittsburgh Penguins,4,1,3,6,3,31,24,140,24,Minnesota North Stars,6,1,8,15,2,25,11,123,True
+1979,2,17,32,Colorado Rockies,4,0,3,6,4,11,17,83,29,Atlanta Flames,6,2,4,7,5,19,17,101,False
+1979,2,17,24,Minnesota North Stars,6,0,5,6,1,25,15,136,6,Boston Bruins,5,2,3,6,4,22,21,112,False
+1979,2,17,0,Montreal Canadiens,8,2,2,5,3,30,5,60,30,Washington Capitals,6,0,9,14,3,29,24,164,True
+1979,2,17,23,Philadelphia Flyers,5,2,5,10,3,26,11,96,10,New York Rangers,4,0,3,6,5,22,16,94,False
+1979,2,17,20,Pittsburgh Penguins,4,1,6,10,2,30,26,147,26,Buffalo Sabres,7,1,4,7,3,19,10,68,True
+1979,2,17,21,St. Louis Blues,4,1,3,6,3,32,23,148,11,Chicago Black Hawks,3,1,5,8,5,28,12,85,False
+1979,2,17,13,Toronto Maple Leafs,6,2,2,4,2,30,5,86,22,Los Angeles Kings,6,0,2,2,2,24,13,82,True
+1979,2,17,25,Vancouver Canucks,4,0,1,1,8,42,20,108,28,New York Islanders,5,2,1,2,1,27,3,60,False
+1979,2,18,26,Buffalo Sabres,6,0,3,5,3,30,13,81,0,Montreal Canadiens,8,2,2,4,2,30,2,61,False
+1979,2,18,11,Chicago Black Hawks,4,1,5,8,1,40,8,97,32,Colorado Rockies,4,1,1,1,5,23,18,103,True
+1979,2,18,16,Detroit Red Wings,3,1,2,4,6,34,19,119,20,Pittsburgh Penguins,4,1,6,11,5,38,24,145,True
+1979,2,18,10,New York Rangers,5,1,4,6,4,30,13,104,30,Washington Capitals,5,1,0,0,2,28,23,163,False
+1979,2,18,23,Philadelphia Flyers,5,1,2,2,3,23,9,58,24,Minnesota North Stars,6,1,3,5,3,24,17,135,True
+1979,2,18,21,St. Louis Blues,4,1,1,2,3,24,25,141,29,Atlanta Flames,6,1,5,10,4,31,13,106,False
+1979,2,19,16,Detroit Red Wings,4,1,6,7,3,23,15,113,13,Toronto Maple Leafs,6,1,5,6,2,32,5,88,False
+1979,2,19,22,Los Angeles Kings,5,1,2,4,7,30,18,95,28,New York Islanders,5,1,5,9,2,29,5,65,False
+1979,2,20,29,Atlanta Flames,7,1,6,9,4,29,16,108,30,Washington Capitals,5,1,6,7,4,23,27,167,True
+1979,2,20,32,Colorado Rockies,3,0,3,1,5,31,18,110,6,Boston Bruins,5,2,2,6,5,32,21,122,False
+1979,2,20,25,Vancouver Canucks,4,1,3,6,6,27,17,95,23,Philadelphia Flyers,6,1,3,6,2,20,8,55,False
+1979,2,21,11,Chicago Black Hawks,4,1,5,8,3,40,10,97,26,Buffalo Sabres,5,1,2,4,5,38,15,89,True
+1979,2,21,22,Los Angeles Kings,5,2,3,5,4,26,19,96,6,Boston Bruins,6,0,5,9,3,31,19,119,True
+1979,2,21,24,Minnesota North Stars,6,1,2,3,6,38,17,146,13,Toronto Maple Leafs,6,1,4,9,1,29,5,87,True
+1979,2,21,10,New York Rangers,5,1,5,12,6,30,15,104,21,St. Louis Blues,3,1,4,6,5,25,28,145,True
+1979,2,21,20,Pittsburgh Penguins,4,1,2,3,1,14,22,94,0,Montreal Canadiens,9,1,5,8,0,31,2,66,True
+1979,2,21,30,Washington Capitals,4,1,3,6,6,32,28,178,16,Detroit Red Wings,4,1,1,3,6,34,18,124,False
+1979,2,22,26,Buffalo Sabres,5,0,2,2,3,24,13,75,11,Chicago Black Hawks,5,2,3,5,4,29,9,93,False
+1979,2,22,0,Montreal Canadiens,8,1,1,0,2,35,5,68,20,Pittsburgh Penguins,5,1,3,6,1,36,22,116,True
+1979,2,22,28,New York Islanders,5,2,8,12,3,32,6,52,21,St. Louis Blues,3,0,3,5,6,28,30,170,True
+1979,2,22,25,Vancouver Canucks,4,2,3,6,3,33,14,101,32,Colorado Rockies,2,0,3,4,5,30,18,103,True
+1979,2,23,29,Atlanta Flames,8,0,5,8,3,27,15,111,24,Minnesota North Stars,6,2,5,7,3,35,16,133,False
+1979,2,23,32,Colorado Rockies,1,0,0,0,5,24,16,102,23,Philadelphia Flyers,6,2,3,6,3,25,9,60,False
+1979,2,24,22,Los Angeles Kings,6,0,3,5,1,30,13,111,23,Philadelphia Flyers,6,2,5,8,3,22,9,57,False
+1979,2,24,24,Minnesota North Stars,6,2,2,4,2,36,15,134,29,Atlanta Flames,7,0,2,3,1,24,14,108,False
+1979,2,24,0,Montreal Canadiens,8,2,12,21,3,33,3,58,21,St. Louis Blues,3,0,1,2,7,50,30,175,True
+1979,2,24,28,New York Islanders,5,2,6,10,3,16,4,41,16,Detroit Red Wings,4,0,4,8,3,45,15,135,True
+1979,2,24,20,Pittsburgh Penguins,5,2,0,0,7,24,28,103,11,Chicago Black Hawks,6,0,4,4,2,36,7,98,True
+1979,2,24,13,Toronto Maple Leafs,5,2,3,3,2,31,9,88,10,New York Rangers,6,0,7,10,2,32,12,93,False
+1979,2,24,25,Vancouver Canucks,4,0,3,6,0,25,11,93,6,Boston Bruins,6,2,2,1,3,36,19,124,False
+1979,2,24,30,Washington Capitals,3,0,3,6,4,25,26,171,26,Buffalo Sabres,4,2,2,2,6,32,14,80,False
+1979,2,25,11,Chicago Black Hawks,6,0,1,1,5,47,10,109,20,Pittsburgh Penguins,6,2,5,7,5,13,22,99,False
+1979,2,25,16,Detroit Red Wings,4,2,1,0,3,22,15,112,32,Colorado Rockies,1,0,2,3,3,29,16,112,True
+1979,2,25,10,New York Rangers,6,2,4,8,5,13,12,93,28,New York Islanders,6,0,3,6,1,21,2,53,True
+1979,2,25,30,Washington Capitals,3,0,4,6,5,34,28,183,0,Montreal Canadiens,8,2,6,7,0,25,4,52,False
+1979,2,26,26,Buffalo Sabres,5,2,6,10,4,29,12,80,13,Toronto Maple Leafs,5,0,2,3,5,30,11,106,True
+1979,2,26,22,Los Angeles Kings,5,1,3,6,4,25,14,81,25,Vancouver Canucks,3,1,3,2,4,25,15,93,True
+1979,2,27,6,Boston Bruins,7,2,4,7,3,29,19,114,32,Colorado Rockies,0,0,2,3,5,34,21,123,False
+1979,2,27,28,New York Islanders,6,1,2,4,1,28,4,66,0,Montreal Canadiens,8,1,8,12,4,27,9,58,True
+1979,2,27,21,St. Louis Blues,2,1,4,6,6,31,29,156,10,New York Rangers,6,1,4,3,2,32,9,96,True
+1979,2,28,16,Detroit Red Wings,5,0,9,13,1,20,13,110,21,St. Louis Blues,2,2,3,8,6,33,24,155,False
+1979,2,28,22,Los Angeles Kings,6,0,2,4,0,24,15,87,30,Washington Capitals,3,2,5,6,4,14,25,145,False
+1979,2,28,24,Minnesota North Stars,5,1,3,4,6,36,17,134,10,New York Rangers,5,1,1,2,2,16,11,87,False
+1979,2,28,20,Pittsburgh Penguins,6,1,2,4,2,37,19,123,32,Colorado Rockies,1,1,4,6,2,33,18,122,True
+1979,2,28,13,Toronto Maple Leafs,4,0,1,2,3,30,5,64,29,Atlanta Flames,7,2,6,10,2,24,15,102,False
+1979,2,28,25,Vancouver Canucks,3,1,0,0,2,39,13,107,11,Chicago Black Hawks,6,1,2,4,2,49,7,111,False
+1979,3,1,6,Boston Bruins,6,0,2,3,3,26,20,105,23,Philadelphia Flyers,7,2,4,6,4,16,9,64,False
+1979,3,1,26,Buffalo Sabres,6,1,3,4,1,26,9,77,24,Minnesota North Stars,4,1,3,6,1,24,18,137,False
+1979,3,1,0,Montreal Canadiens,7,2,3,7,7,35,12,66,13,Toronto Maple Leafs,3,0,4,6,6,30,8,64,True
+1979,3,2,29,Atlanta Flames,7,0,6,6,4,36,17,114,28,New York Islanders,6,2,7,11,3,34,6,79,True
+1979,3,2,32,Colorado Rockies,1,0,3,5,4,26,20,115,11,Chicago Black Hawks,6,2,4,7,4,35,9,97,False
+1979,3,2,25,Vancouver Canucks,3,1,4,6,4,30,15,98,30,Washington Capitals,3,1,3,4,3,40,24,171,False
+1979,3,3,6,Boston Bruins,5,2,4,8,5,28,21,100,24,Minnesota North Stars,5,0,5,7,5,31,18,147,True
+1979,3,3,22,Los Angeles Kings,6,1,3,5,3,21,18,84,11,Chicago Black Hawks,6,1,4,7,0,26,5,88,True
+1979,3,3,0,Montreal Canadiens,7,2,2,4,5,31,6,57,16,Detroit Red Wings,4,0,5,9,2,28,18,117,False
+1979,3,3,28,New York Islanders,6,1,2,3,3,41,6,80,29,Atlanta Flames,7,1,2,5,2,17,15,95,True
+1979,3,3,10,New York Rangers,6,1,3,8,4,23,13,105,26,Buffalo Sabres,5,1,5,9,4,32,13,87,False
+1979,3,3,21,St. Louis Blues,3,1,6,12,1,30,23,150,20,Pittsburgh Penguins,7,1,5,6,1,20,17,84,True
+1979,3,3,13,Toronto Maple Leafs,3,0,1,1,0,7,4,68,23,Philadelphia Flyers,8,2,4,5,2,25,6,48,True
+1979,3,4,26,Buffalo Sabres,5,1,2,3,2,23,11,78,23,Philadelphia Flyers,8,1,3,6,2,4,8,51,False
+1979,3,4,32,Colorado Rockies,1,1,1,0,4,25,20,114,20,Pittsburgh Penguins,6,1,4,6,3,17,24,106,False
+1979,3,4,16,Detroit Red Wings,5,1,5,4,3,32,19,121,6,Boston Bruins,5,1,5,9,4,21,16,98,False
+1979,3,4,10,New York Rangers,6,1,3,4,4,34,11,107,13,Toronto Maple Leafs,4,1,4,5,3,30,7,91,False
+1979,3,4,25,Vancouver Canucks,2,0,2,6,2,10,12,64,22,Los Angeles Kings,6,2,8,13,5,35,20,98,False
+1979,3,4,30,Washington Capitals,4,0,6,9,2,27,23,158,24,Minnesota North Stars,4,2,1,1,4,39,18,145,True
+1979,3,5,30,Washington Capitals,5,0,6,9,6,41,25,169,0,Montreal Canadiens,6,2,3,3,1,26,6,55,False
+1979,3,6,28,New York Islanders,7,1,3,8,3,35,5,63,26,Buffalo Sabres,4,1,1,2,5,36,15,93,False
+1979,3,6,23,Philadelphia Flyers,8,2,6,9,0,0,7,78,32,Colorado Rockies,1,0,1,2,8,40,23,130,True
+1979,3,7,24,Minnesota North Stars,3,2,4,7,5,27,19,133,16,Detroit Red Wings,5,0,4,6,6,35,22,124,True
+1979,3,7,10,New York Rangers,5,1,2,3,2,25,10,88,32,Colorado Rockies,1,1,0,0,5,44,20,134,True
+1979,3,7,20,Pittsburgh Penguins,7,1,7,13,2,23,24,135,22,Los Angeles Kings,6,1,3,5,2,18,17,81,False
+1979,3,7,21,St. Louis Blues,3,0,8,14,5,28,26,147,28,New York Islanders,6,2,2,3,2,24,5,61,False
+1979,3,7,13,Toronto Maple Leafs,4,1,4,6,2,35,6,96,25,Vancouver Canucks,2,1,2,3,3,33,13,87,True
+1979,3,8,29,Atlanta Flames,7,0,2,2,4,45,17,120,6,Boston Bruins,5,2,6,10,4,20,16,105,True
+1979,3,8,26,Buffalo Sabres,4,0,3,5,2,34,12,91,22,Los Angeles Kings,6,2,4,7,0,26,15,89,True
+1979,3,8,0,Montreal Canadiens,7,2,2,4,2,17,7,46,25,Vancouver Canucks,1,0,0,0,4,15,12,99,True
+1979,3,8,23,Philadelphia Flyers,8,0,5,10,1,31,7,100,11,Chicago Black Hawks,6,2,5,10,2,34,11,107,False
+1979,3,10,29,Atlanta Flames,8,2,7,11,5,30,18,105,26,Buffalo Sabres,5,0,6,11,6,38,14,93,False
+1979,3,10,24,Minnesota North Stars,4,0,5,7,1,35,15,141,6,Boston Bruins,5,2,5,10,4,28,19,121,False
+1979,3,10,0,Montreal Canadiens,7,0,11,20,1,26,6,55,10,New York Rangers,6,2,5,9,3,15,11,89,False
+1979,3,10,28,New York Islanders,7,1,5,9,3,33,8,59,11,Chicago Black Hawks,7,1,3,7,6,45,10,107,True
+1979,3,10,20,Pittsburgh Penguins,6,0,0,0,8,42,25,112,23,Philadelphia Flyers,7,2,1,2,5,24,11,93,True
+1979,3,10,13,Toronto Maple Leafs,5,2,2,2,0,40,4,101,22,Los Angeles Kings,5,0,4,5,6,44,21,107,True
+1979,3,10,25,Vancouver Canucks,1,2,1,0,2,4,17,85,32,Colorado Rockies,1,0,3,4,1,22,13,82,False
+1979,3,10,30,Washington Capitals,4,0,2,2,4,38,21,155,21,St. Louis Blues,3,2,5,9,4,27,26,144,True
+1979,3,11,6,Boston Bruins,6,1,4,5,0,26,12,110,28,New York Islanders,7,1,7,13,5,22,6,62,False
+1979,3,11,26,Buffalo Sabres,6,1,5,10,4,36,13,81,29,Atlanta Flames,7,1,5,8,3,23,18,105,True
+1979,3,11,16,Detroit Red Wings,4,2,1,3,5,31,21,120,30,Washington Capitals,5,0,7,12,5,23,22,140,False
+1979,3,11,10,New York Rangers,6,2,6,9,3,26,11,104,11,Chicago Black Hawks,6,0,1,2,1,34,11,95,True
+1979,3,11,23,Philadelphia Flyers,7,2,2,4,3,37,9,106,22,Los Angeles Kings,5,0,4,7,2,12,16,72,True
+1979,3,11,21,St. Louis Blues,3,1,5,8,5,25,29,140,24,Minnesota North Stars,4,1,3,4,5,29,18,140,True
+1979,3,11,13,Toronto Maple Leafs,5,1,9,17,4,43,8,104,20,Pittsburgh Penguins,6,1,2,5,2,38,20,137,True
+1979,3,12,0,Montreal Canadiens,6,1,3,3,1,4,6,32,16,Detroit Red Wings,4,1,3,6,3,20,19,109,False
+1979,3,13,32,Colorado Rockies,2,1,2,5,1,21,13,81,21,St. Louis Blues,4,1,9,13,2,31,26,146,False
+1979,3,13,28,New York Islanders,7,1,4,7,1,36,5,74,6,Boston Bruins,5,1,4,7,3,36,20,121,True
+1979,3,13,25,Vancouver Canucks,1,1,1,2,9,42,18,114,20,Pittsburgh Penguins,6,1,0,0,4,36,22,135,False
+1979,3,14,11,Chicago Black Hawks,5,2,1,3,4,33,14,94,23,Philadelphia Flyers,7,0,6,11,3,37,9,106,False
+1979,3,14,22,Los Angeles Kings,5,1,3,5,7,28,20,93,20,Pittsburgh Penguins,6,1,9,13,3,26,21,100,False
+1979,3,14,24,Minnesota North Stars,4,0,2,3,4,34,21,136,0,Montreal Canadiens,6,2,2,5,3,25,8,53,True
+1979,3,14,10,New York Rangers,7,1,5,8,3,30,10,102,29,Atlanta Flames,6,1,5,6,2,18,19,109,False
+1979,3,14,13,Toronto Maple Leafs,5,0,5,8,0,39,4,100,26,Buffalo Sabres,7,2,9,15,4,26,13,71,False
+1979,3,14,30,Washington Capitals,5,1,3,7,3,33,20,150,16,Detroit Red Wings,4,1,3,6,3,41,19,130,False
+1979,3,15,6,Boston Bruins,4,1,2,3,4,16,24,110,10,New York Rangers,6,1,4,5,2,24,12,99,False
+1979,3,15,26,Buffalo Sabres,8,2,4,6,1,26,10,71,25,Vancouver Canucks,1,0,3,4,6,32,15,79,True
+1979,3,15,28,New York Islanders,7,2,8,13,4,34,6,68,13,Toronto Maple Leafs,5,0,1,2,4,23,8,84,True
+1979,3,15,23,Philadelphia Flyers,7,1,4,5,0,15,6,84,29,Atlanta Flames,6,1,6,9,4,23,21,114,True
+1979,3,16,32,Colorado Rockies,2,1,5,7,4,11,17,86,25,Vancouver Canucks,0,1,2,3,3,8,13,92,False
+1979,3,17,6,Boston Bruins,4,2,4,4,7,25,27,116,11,Chicago Black Hawks,4,0,2,1,7,33,14,97,True
+1979,3,17,22,Los Angeles Kings,4,1,3,6,3,19,16,84,0,Montreal Canadiens,5,1,4,5,5,28,9,62,True
+1979,3,17,28,New York Islanders,7,0,6,8,2,30,4,67,10,New York Rangers,6,2,7,11,5,27,14,100,True
+1979,3,17,23,Philadelphia Flyers,7,1,5,8,4,29,10,98,26,Buffalo Sabres,8,1,3,6,5,26,11,65,True
+1979,3,17,21,St. Louis Blues,5,2,5,9,7,23,29,149,16,Detroit Red Wings,5,0,4,4,1,33,17,122,False
+1979,3,17,13,Toronto Maple Leafs,5,0,2,3,5,22,9,83,24,Minnesota North Stars,4,2,4,7,3,33,20,135,True
+1979,3,17,30,Washington Capitals,5,1,1,2,2,27,21,150,20,Pittsburgh Penguins,7,1,3,4,3,31,19,126,False
+1979,3,18,26,Buffalo Sabres,7,2,4,5,2,20,11,80,30,Washington Capitals,5,0,2,4,2,8,20,113,False
+1979,3,18,11,Chicago Black Hawks,3,0,2,5,4,15,11,79,16,Detroit Red Wings,5,2,3,6,1,31,17,120,False
+1979,3,18,32,Colorado Rockies,2,0,1,2,5,26,16,106,0,Montreal Canadiens,4,2,1,0,2,31,6,65,False
+1979,3,18,24,Minnesota North Stars,3,1,3,5,5,37,22,139,28,New York Islanders,8,1,5,9,2,33,4,78,False
+1979,3,18,10,New York Rangers,5,2,2,5,0,5,10,71,20,Pittsburgh Penguins,7,0,5,6,2,31,18,126,False
+1979,3,18,23,Philadelphia Flyers,7,1,5,7,0,22,9,88,21,St. Louis Blues,5,1,1,3,0,15,20,121,True
+1979,3,18,25,Vancouver Canucks,1,1,4,4,4,45,11,113,29,Atlanta Flames,5,1,4,5,7,30,20,100,True
+1979,3,19,6,Boston Bruins,4,2,4,9,2,23,22,114,13,Toronto Maple Leafs,6,0,6,10,4,42,8,103,True
+1979,3,20,16,Detroit Red Wings,6,2,4,5,2,26,18,115,11,Chicago Black Hawks,3,0,2,3,3,34,10,98,True
+1979,3,20,22,Los Angeles Kings,5,1,3,5,1,28,14,93,29,Atlanta Flames,5,1,1,2,5,29,15,99,True
+1979,3,20,30,Washington Capitals,6,2,3,4,3,34,21,139,10,New York Rangers,5,0,1,2,5,18,15,95,False
+1979,3,21,11,Chicago Black Hawks,3,0,3,4,4,40,11,104,10,New York Rangers,5,2,2,4,5,29,12,109,False
+1979,3,21,32,Colorado Rockies,2,0,1,2,2,24,13,104,26,Buffalo Sabres,7,2,3,5,5,41,12,94,False
+1979,3,21,24,Minnesota North Stars,3,1,3,6,4,26,14,108,23,Philadelphia Flyers,7,1,5,7,3,19,12,90,True
+1979,3,21,20,Pittsburgh Penguins,7,1,4,7,1,29,17,124,30,Washington Capitals,6,1,2,4,3,15,20,127,False
+1979,3,21,13,Toronto Maple Leafs,6,2,3,4,4,32,8,93,16,Detroit Red Wings,6,0,5,8,3,29,19,118,False
+1979,3,21,25,Vancouver Canucks,2,2,2,3,1,29,8,87,21,St. Louis Blues,5,0,3,6,4,30,24,136,False
+1979,3,22,6,Boston Bruins,5,1,4,7,3,21,23,112,20,Pittsburgh Penguins,6,1,3,3,2,37,18,124,False
+1979,3,22,22,Los Angeles Kings,5,1,4,6,6,33,16,95,21,St. Louis Blues,6,1,1,1,3,14,21,130,False
+1979,3,22,0,Montreal Canadiens,4,1,3,7,1,24,5,58,28,New York Islanders,8,1,5,11,2,41,5,88,False
+1979,3,23,29,Atlanta Flames,4,0,3,6,4,32,14,124,23,Philadelphia Flyers,7,2,3,5,7,31,16,102,False
+1979,3,23,25,Vancouver Canucks,2,0,1,2,1,21,8,79,26,Buffalo Sabres,7,2,3,2,3,34,9,72,False
+1979,3,24,6,Boston Bruins,5,2,1,2,3,27,20,104,16,Detroit Red Wings,7,0,4,7,2,34,18,123,True
+1979,3,24,32,Colorado Rockies,1,2,3,5,3,30,14,110,24,Minnesota North Stars,4,0,7,11,6,11,13,114,False
+1979,3,24,22,Los Angeles Kings,5,1,3,7,3,30,13,81,26,Buffalo Sabres,8,1,4,8,2,19,9,63,False
+1979,3,24,0,Montreal Canadiens,4,2,3,5,4,34,9,64,30,Washington Capitals,6,0,2,4,2,22,19,141,True
+1979,3,24,28,New York Islanders,9,1,5,8,3,43,6,80,20,Pittsburgh Penguins,7,1,3,5,1,22,20,113,False
+1979,3,24,13,Toronto Maple Leafs,6,1,1,4,4,36,8,97,11,Chicago Black Hawks,2,1,4,9,7,38,14,102,False
+1979,3,25,29,Atlanta Flames,3,1,1,2,2,29,14,118,21,St. Louis Blues,6,1,2,5,1,24,21,152,True
+1979,3,25,11,Chicago Black Hawks,2,2,3,5,3,44,10,108,32,Colorado Rockies,1,0,1,2,3,31,14,106,True
+1979,3,25,16,Detroit Red Wings,6,1,2,4,5,27,21,116,13,Toronto Maple Leafs,5,1,4,5,3,28,7,89,True
+1979,3,25,10,New York Rangers,6,2,7,11,2,32,13,125,0,Montreal Canadiens,4,0,3,4,1,21,6,51,False
+1979,3,25,23,Philadelphia Flyers,7,2,4,5,1,23,10,94,30,Washington Capitals,5,0,1,2,2,29,20,160,True
+1979,3,25,20,Pittsburgh Penguins,7,2,3,3,3,24,22,115,28,New York Islanders,8,0,3,5,3,33,6,64,False
+1979,3,25,25,Vancouver Canucks,2,0,3,5,1,19,11,83,24,Minnesota North Stars,4,2,3,4,3,32,8,138,True
+1979,3,26,21,St. Louis Blues,5,0,2,4,3,18,25,120,26,Buffalo Sabres,8,2,3,6,3,25,9,81,False
+1979,3,27,29,Atlanta Flames,3,0,8,15,2,22,16,85,0,Montreal Canadiens,5,2,1,2,0,25,5,55,False
+1979,3,27,32,Colorado Rockies,1,0,0,0,3,22,14,97,11,Chicago Black Hawks,3,2,5,4,0,27,7,91,False
+1979,3,27,24,Minnesota North Stars,4,0,1,1,2,14,7,120,20,Pittsburgh Penguins,7,2,2,4,2,27,21,118,False
+1979,3,27,10,New York Rangers,6,1,0,0,6,45,12,123,23,Philadelphia Flyers,7,1,7,14,3,24,13,89,False
+1979,3,27,25,Vancouver Canucks,3,1,2,2,1,21,11,85,16,Detroit Red Wings,7,1,1,3,1,29,17,118,True
+1979,3,28,26,Buffalo Sabres,8,1,4,7,2,27,8,83,6,Boston Bruins,5,1,6,8,7,22,19,92,True
+1979,3,28,22,Los Angeles Kings,4,1,2,4,3,27,13,78,16,Detroit Red Wings,7,1,2,4,6,27,21,120,True
+1979,3,28,20,Pittsburgh Penguins,7,1,5,7,1,38,20,129,10,New York Rangers,5,1,4,5,1,30,10,102,True
+1979,3,28,13,Toronto Maple Leafs,4,1,1,2,2,25,6,86,30,Washington Capitals,4,1,4,3,3,41,25,164,True
+1979,3,29,6,Boston Bruins,4,2,2,2,2,15,21,101,24,Minnesota North Stars,4,0,1,3,1,35,10,129,True
+1979,3,29,11,Chicago Black Hawks,3,1,1,2,1,43,8,107,28,New York Islanders,9,1,2,4,3,27,5,63,True
+1979,3,29,0,Montreal Canadiens,5,2,6,7,4,22,9,52,21,St. Louis Blues,4,0,2,3,4,33,26,135,True
+1979,3,29,23,Philadelphia Flyers,8,2,4,6,1,12,10,74,25,Vancouver Canucks,4,0,5,9,2,25,12,89,True
+1979,3,30,29,Atlanta Flames,3,0,4,7,2,23,16,64,22,Los Angeles Kings,4,2,8,14,1,15,13,71,True
+1979,3,31,32,Colorado Rockies,1,1,1,1,1,26,12,101,25,Vancouver Canucks,4,1,0,0,5,42,15,106,False
+1979,3,31,16,Detroit Red Wings,7,0,1,2,5,31,23,125,22,Los Angeles Kings,3,2,3,5,5,26,17,82,False
+1979,3,31,0,Montreal Canadiens,5,1,5,8,2,20,7,50,20,Pittsburgh Penguins,8,1,7,8,1,29,20,120,True
+1979,3,31,28,New York Islanders,8,0,1,3,2,32,8,64,26,Buffalo Sabres,8,2,8,14,2,37,8,83,True
+1979,3,31,21,St. Louis Blues,4,1,3,1,5,44,27,146,23,Philadelphia Flyers,9,1,5,7,3,15,9,84,False
+1979,3,31,13,Toronto Maple Leafs,4,1,6,11,2,29,6,90,24,Minnesota North Stars,3,1,4,6,5,23,16,119,True
+1979,3,31,30,Washington Capitals,4,0,2,4,6,40,28,163,6,Boston Bruins,5,2,7,13,4,25,23,111,False
+1979,4,1,6,Boston Bruins,5,0,4,6,1,22,20,108,0,Montreal Canadiens,6,2,5,7,5,30,8,62,False
+1979,4,1,26,Buffalo Sabres,7,2,0,0,2,27,8,76,13,Toronto Maple Leafs,4,0,6,9,2,31,6,92,False
+1979,4,1,11,Chicago Black Hawks,4,2,6,11,1,32,8,96,25,Vancouver Canucks,5,0,2,4,0,24,10,88,False
+1979,4,1,32,Colorado Rockies,1,0,0,0,3,26,13,102,21,St. Louis Blues,4,2,2,4,0,0,26,127,True
+1979,4,1,16,Detroit Red Wings,6,0,4,6,5,28,23,122,24,Minnesota North Stars,3,2,2,3,7,25,17,127,True
+1979,4,1,23,Philadelphia Flyers,9,1,4,5,2,28,8,97,10,New York Rangers,4,1,1,2,3,19,16,114,True
+1979,4,1,20,Pittsburgh Penguins,7,1,3,3,4,29,24,122,29,Atlanta Flames,3,1,5,9,3,26,17,67,False
+1979,4,1,30,Washington Capitals,3,0,1,2,4,27,26,150,28,New York Islanders,8,2,2,4,0,32,6,64,True
+1979,4,2,10,New York Rangers,3,1,3,4,6,34,16,114,22,Los Angeles Kings,4,1,5,9,3,19,16,83,True
+1979,4,3,24,Minnesota North Stars,3,1,0,2,3,29,13,131,11,Chicago Black Hawks,4,1,2,4,4,36,9,90,True
+1979,4,3,28,New York Islanders,7,1,4,8,3,8,6,38,29,Atlanta Flames,4,1,7,10,2,29,16,70,True
+1979,4,3,21,St. Louis Blues,3,1,5,6,4,25,35,163,20,Pittsburgh Penguins,6,1,2,4,3,25,22,99,False
+1979,4,3,25,Vancouver Canucks,6,2,1,3,2,28,12,92,32,Colorado Rockies,2,0,9,15,5,33,15,109,True
+1979,4,3,30,Washington Capitals,3,2,5,11,4,36,26,159,22,Los Angeles Kings,4,0,4,6,5,27,18,91,True
+1979,4,4,11,Chicago Black Hawks,4,0,3,4,2,26,9,99,24,Minnesota North Stars,3,2,5,7,6,31,13,127,True
+1979,4,4,0,Montreal Canadiens,7,0,3,3,3,21,6,53,16,Detroit Red Wings,6,2,3,5,1,20,19,114,True
+1979,4,4,10,New York Rangers,4,1,5,9,4,28,14,108,29,Atlanta Flames,4,1,2,3,4,4,17,72,False
+1979,4,4,13,Toronto Maple Leafs,4,0,6,9,2,33,7,92,6,Boston Bruins,5,2,2,4,3,28,25,129,False
+1979,4,5,6,Boston Bruins,6,0,3,6,3,25,25,126,26,Buffalo Sabres,6,2,3,5,2,30,12,78,False
+1979,4,5,22,Los Angeles Kings,4,2,2,5,4,27,19,98,32,Colorado Rockies,1,0,1,1,2,24,12,100,False
+1979,4,5,23,Philadelphia Flyers,9,0,7,13,3,18,9,87,28,New York Islanders,7,2,3,5,3,26,5,55,False
+1979,4,6,29,Atlanta Flames,4,2,3,6,3,39,16,107,10,New York Rangers,3,0,3,5,3,20,13,100,True
+1979,4,6,25,Vancouver Canucks,7,1,3,3,1,24,11,88,24,Minnesota North Stars,3,1,1,0,7,27,15,108,False
+1979,4,7,22,Los Angeles Kings,4,1,4,4,4,30,19,101,24,Minnesota North Stars,4,1,2,3,2,24,10,105,True
+1979,4,7,0,Montreal Canadiens,8,2,4,8,3,32,4,53,30,Washington Capitals,4,0,6,11,2,26,24,149,True
+1979,4,7,28,New York Islanders,7,2,3,7,2,25,3,63,23,Philadelphia Flyers,8,0,1,2,2,25,8,94,True
+1979,4,7,20,Pittsburgh Penguins,6,0,2,4,4,12,21,108,16,Detroit Red Wings,5,2,1,2,8,32,22,131,True
+1979,4,7,21,St. Louis Blues,2,1,2,4,5,10,34,162,11,Chicago Black Hawks,5,1,7,11,1,32,8,105,True
+1979,4,7,13,Toronto Maple Leafs,4,1,2,5,3,31,8,77,26,Buffalo Sabres,6,1,9,15,6,29,13,83,True
+1979,4,8,6,Boston Bruins,6,2,3,5,7,36,22,97,13,Toronto Maple Leafs,5,0,7,10,3,18,7,71,True
+1979,4,8,26,Buffalo Sabres,6,2,2,1,6,29,13,83,32,Colorado Rockies,2,0,4,8,4,28,14,104,False
+1979,4,8,11,Chicago Black Hawks,5,1,1,2,3,29,10,102,21,St. Louis Blues,3,1,4,5,3,24,30,177,True
+1979,4,8,16,Detroit Red Wings,4,1,3,4,4,37,18,123,0,Montreal Canadiens,9,1,10,18,1,21,4,39,True
+1979,4,8,10,New York Rangers,3,1,2,4,7,20,12,73,28,New York Islanders,7,1,9,18,1,34,3,70,False
+1979,4,8,23,Philadelphia Flyers,7,2,2,3,6,18,15,81,29,Atlanta Flames,5,0,9,14,3,31,11,108,True
+1979,4,8,30,Washington Capitals,4,1,3,6,7,33,32,164,20,Pittsburgh Penguins,6,1,4,5,3,35,20,131,True

@@ -1,841 +1,841 @@
-Year, Month, Day,Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,Home_Won
-1985, 10, 10,7, Boston Bruins, 5, 2, 3, 6, 3, 38, 28, 188,13, Toronto Maple Leafs, 4, 0, 1, 3, 4, 27, 58, 317,True
-1985, 10, 10,28, Buffalo Sabres, 6, 2, 3, 8, 1, 25, 20, 172,38, Hartford Whalers, 7, 0, 3, 4, 3, 30, 17, 131,False
-1985, 10, 10,17, Detroit Red Wings, 5, 1, 5, 9, 2, 35, 31, 236,24, Minnesota North Stars, 3, 1, 2, 8, 4, 36, 32, 226,False
-1985, 10, 10,35, Edmonton Oilers, 4, 0, 4, 7, 6, 35, 28, 178,36, Winnipeg Jets, 8, 2, 4, 8, 0, 5, 17, 108,True
-1985, 10, 10,25, Los Angeles Kings, 3, 1, 3, 6, 4, 26, 34, 215,26, Vancouver Canucks, 4, 1, 2, 7, 4, 26, 22, 170,False
-1985, 10, 10,11, New York Rangers, 3, 0, 1, 1, 2, 33, 20, 207,31, Washington Capitals, 6, 2, 7, 10, 3, 26, 18, 110,True
-1985, 10, 10,21, Philadelphia Flyers, 9, 2, 4, 5, 1, 39, 24, 180,40, New Jersey Devils, 3, 0, 1, 4, 0, 0, 19, 106,False
-1985, 10, 10,22, Pittsburgh Penguins, 1, 1, 2, 2, 4, 26, 41, 233,1, Montreal Canadiens, 7, 1, 2, 8, 0, 2, 28, 161,False
-1985, 10, 10,37, Quebec Nordiques, 6, 2, 2, 5, 1, 27, 26, 200,12, Chicago Black Hawks, 7, 0, 2, 5, 1, 34, 17, 150,True
-1985, 10, 11,39, Calgary Flames, 8, 1, 5, 7, 5, 30, 22, 131,36, Winnipeg Jets, 7, 1, 3, 3, 4, 30, 21, 133,True
-1985, 10, 12,17, Detroit Red Wings, 5, 0, 6, 9, 5, 22, 35, 246,7, Boston Bruins, 6, 2, 3, 6, 1, 29, 26, 171,False
-1985, 10, 12,38, Hartford Whalers, 7, 1, 5, 8, 4, 32, 18, 133,11, New York Rangers, 4, 1, 4, 5, 2, 29, 20, 200,True
-1985, 10, 12,25, Los Angeles Kings, 2, 1, 5, 8, 3, 28, 36, 223,29, New York Islanders, 3, 1, 3, 8, 3, 26, 13, 95,False
-1985, 10, 12,24, Minnesota North Stars, 3, 0, 6, 8, 5, 35, 35, 234,28, Buffalo Sabres, 5, 2, 4, 8, 5, 27, 24, 174,False
-1985, 10, 12,1, Montreal Canadiens, 7, 0, 5, 8, 4, 27, 31, 186,12, Chicago Black Hawks, 7, 2, 2, 4, 2, 32, 22, 146,True
-1985, 10, 12,40, New Jersey Devils, 4, 1, 6, 8, 5, 32, 24, 144,31, Washington Capitals, 5, 1, 0, 4, 3, 24, 18, 108,True
-1985, 10, 12,22, Pittsburgh Penguins, 1, 0, 3, 6, 3, 5, 42, 240,21, Philadelphia Flyers, 8, 2, 5, 10, 1, 30, 30, 174,False
-1985, 10, 12,13, Toronto Maple Leafs, 3, 2, 1, 0, 3, 36, 57, 326,37, Quebec Nordiques, 6, 0, 6, 11, 2, 21, 27, 194,False
-1985, 10, 12,26, Vancouver Canucks, 5, 0, 7, 9, 5, 37, 23, 181,23, St. Louis Blues, 5, 2, 5, 8, 3, 28, 24, 205,False
-1985, 10, 13,7, Boston Bruins, 7, 1, 9, 11, 1, 21, 27, 174,1, Montreal Canadiens, 8, 1, 7, 7, 3, 27, 30, 186,True
-1985, 10, 13,12, Chicago Black Hawks, 6, 2, 3, 5, 6, 30, 26, 159,13, Toronto Maple Leafs, 3, 0, 0, 1, 7, 35, 58, 318,False
-1985, 10, 13,35, Edmonton Oilers, 5, 2, 4, 5, 0, 4, 25, 181,23, St. Louis Blues, 6, 0, 4, 8, 5, 21, 24, 201,True
-1985, 10, 13,25, Los Angeles Kings, 2, 0, 5, 5, 5, 30, 39, 228,39, Calgary Flames, 8, 2, 7, 11, 3, 34, 16, 117,False
-1985, 10, 13,11, New York Rangers, 4, 2, 2, 4, 2, 8, 26, 200,40, New Jersey Devils, 5, 0, 4, 6, 5, 38, 20, 143,False
-1985, 10, 13,36, Winnipeg Jets, 6, 2, 2, 3, 3, 18, 21, 88,37, Quebec Nordiques, 7, 0, 4, 5, 5, 25, 25, 195,False
-1985, 10, 13,31, Washington Capitals, 5, 0, 3, 2, 0, 9, 15, 76,21, Philadelphia Flyers, 8, 2, 4, 8, 6, 30, 31, 188,False
-1985, 10, 14,28, Buffalo Sabres, 6, 0, 6, 8, 2, 30, 22, 169,17, Detroit Red Wings, 4, 2, 2, 5, 5, 19, 33, 209,True
-1985, 10, 14,26, Vancouver Canucks, 4, 1, 3, 5, 4, 29, 22, 173,29, New York Islanders, 4, 1, 7, 7, 5, 34, 15, 104,True
-1985, 10, 15,22, Pittsburgh Penguins, 1, 1, 3, 5, 5, 33, 42, 267,24, Minnesota North Stars, 3, 1, 2, 3, 6, 37, 36, 238,True
-1985, 10, 15,37, Quebec Nordiques, 7, 1, 5, 7, 0, 22, 22, 208,38, Hartford Whalers, 7, 1, 8, 12, 2, 35, 16, 145,True
-1985, 10, 16,12, Chicago Black Hawks, 6, 1, 1, 1, 5, 25, 25, 154,22, Pittsburgh Penguins, 2, 1, 3, 4, 3, 32, 39, 258,False
-1985, 10, 16,39, Calgary Flames, 8, 0, 9, 17, 2, 26, 15, 109,23, St. Louis Blues, 5, 2, 3, 4, 3, 24, 26, 208,False
-1985, 10, 16,17, Detroit Red Wings, 3, 0, 1, 0, 4, 11, 34, 234,36, Winnipeg Jets, 5, 2, 2, 3, 5, 27, 23, 97,False
-1985, 10, 16,35, Edmonton Oilers, 5, 1, 6, 9, 3, 38, 28, 203,29, New York Islanders, 3, 1, 2, 5, 4, 31, 14, 101,True
-1985, 10, 16,25, Los Angeles Kings, 2, 1, 2, 4, 6, 34, 43, 232,11, New York Rangers, 4, 1, 2, 4, 6, 21, 25, 208,True
-1985, 10, 16,1, Montreal Canadiens, 8, 1, 2, 7, 3, 31, 29, 205,28, Buffalo Sabres, 7, 1, 6, 8, 1, 23, 21, 162,False
-1985, 10, 16,13, Toronto Maple Leafs, 3, 0, 5, 6, 1, 41, 52, 324,31, Washington Capitals, 4, 2, 2, 4, 3, 23, 18, 90,False
-1985, 10, 16,26, Vancouver Canucks, 4, 1, 4, 7, 2, 25, 20, 169,7, Boston Bruins, 7, 1, 7, 11, 2, 32, 28, 177,False
-1985, 10, 17,24, Minnesota North Stars, 3, 1, 2, 4, 3, 25, 30, 217,17, Detroit Red Wings, 3, 1, 3, 2, 1, 21, 28, 212,True
-1985, 10, 17,40, New Jersey Devils, 6, 0, 3, 5, 1, 31, 17, 140,38, Hartford Whalers, 6, 2, 1, 2, 1, 28, 18, 143,False
-1985, 10, 17,21, Philadelphia Flyers, 8, 1, 4, 7, 2, 33, 28, 182,37, Quebec Nordiques, 7, 1, 4, 8, 2, 38, 23, 206,False
-1985, 10, 18,28, Buffalo Sabres, 7, 1, 6, 10, 0, 25, 20, 164,31, Washington Capitals, 4, 1, 6, 12, 4, 8, 20, 89,False
-1985, 10, 18,35, Edmonton Oilers, 6, 1, 6, 12, 3, 26, 29, 201,7, Boston Bruins, 8, 1, 3, 3, 2, 24, 29, 168,True
-1985, 10, 18,26, Vancouver Canucks, 4, 2, 3, 4, 3, 24, 21, 168,25, Los Angeles Kings, 3, 0, 4, 7, 3, 46, 41, 250,True
-1985, 10, 19,39, Calgary Flames, 8, 2, 1, 2, 2, 29, 17, 125,7, Boston Bruins, 7, 0, 1, 5, 3, 23, 30, 174,False
-1985, 10, 19,17, Detroit Red Wings, 2, 0, 1, 1, 0, 0, 37, 235,12, Chicago Black Hawks, 5, 2, 5, 9, 5, 27, 29, 181,False
-1985, 10, 19,38, Hartford Whalers, 6, 0, 4, 8, 4, 33, 20, 134,1, Montreal Canadiens, 7, 2, 0, 2, 7, 29, 31, 213,True
-1985, 10, 19,29, New York Islanders, 3, 1, 4, 4, 4, 31, 16, 102,11, New York Rangers, 3, 1, 3, 3, 3, 23, 25, 204,True
-1985, 10, 19,21, Philadelphia Flyers, 7, 2, 1, 2, 2, 44, 28, 176,24, Minnesota North Stars, 4, 0, 10, 16, 1, 33, 28, 225,True
-1985, 10, 19,37, Quebec Nordiques, 7, 2, 3, 5, 1, 20, 22, 211,22, Pittsburgh Penguins, 2, 0, 5, 7, 2, 24, 41, 268,True
-1985, 10, 19,23, St. Louis Blues, 5, 2, 2, 2, 5, 30, 26, 211,40, New Jersey Devils, 6, 0, 3, 6, 2, 35, 20, 131,True
-1985, 10, 19,13, Toronto Maple Leafs, 2, 0, 5, 8, 4, 28, 57, 321,36, Winnipeg Jets, 5, 2, 4, 8, 2, 25, 23, 119,False
-1985, 10, 19,31, Washington Capitals, 5, 1, 4, 6, 1, 24, 17, 105,28, Buffalo Sabres, 6, 1, 1, 1, 4, 29, 21, 196,False
-1985, 10, 20,12, Chicago Black Hawks, 5, 1, 6, 10, 5, 26, 26, 189,21, Philadelphia Flyers, 8, 1, 7, 13, 3, 16, 29, 148,False
-1985, 10, 20,25, Los Angeles Kings, 3, 1, 4, 6, 9, 34, 43, 237,35, Edmonton Oilers, 6, 1, 3, 5, 4, 36, 28, 213,False
-1985, 10, 20,11, New York Rangers, 3, 1, 4, 7, 4, 26, 27, 219,26, Vancouver Canucks, 5, 1, 4, 8, 4, 32, 22, 176,True
-1985, 10, 20,36, Winnipeg Jets, 5, 1, 5, 6, 3, 24, 24, 119,39, Calgary Flames, 7, 1, 3, 6, 6, 30, 22, 140,True
-1985, 10, 21,1, Montreal Canadiens, 6, 2, 6, 7, 6, 18, 29, 181,37, Quebec Nordiques, 8, 0, 5, 6, 3, 30, 25, 221,False
-1985, 10, 22,25, Los Angeles Kings, 3, 0, 5, 10, 3, 25, 37, 209,7, Boston Bruins, 8, 2, 7, 11, 3, 30, 30, 187,False
-1985, 10, 22,24, Minnesota North Stars, 3, 0, 3, 6, 6, 39, 36, 251,23, St. Louis Blues, 6, 2, 5, 6, 3, 36, 24, 217,True
-1985, 10, 22,29, New York Islanders, 3, 0, 5, 8, 6, 32, 14, 92,26, Vancouver Canucks, 5, 2, 3, 4, 4, 44, 22, 171,False
-1985, 10, 23,28, Buffalo Sabres, 6, 1, 2, 5, 2, 20, 19, 187,1, Montreal Canadiens, 5, 1, 2, 4, 3, 21, 26, 184,False
-1985, 10, 23,12, Chicago Black Hawks, 4, 1, 2, 4, 2, 35, 25, 186,38, Hartford Whalers, 6, 1, 11, 17, 6, 32, 22, 147,True
-1985, 10, 23,39, Calgary Flames, 6, 0, 5, 10, 8, 27, 24, 140,31, Washington Capitals, 5, 2, 2, 4, 5, 22, 18, 98,True
-1985, 10, 23,17, Detroit Red Wings, 2, 2, 2, 3, 3, 8, 30, 222,26, Vancouver Canucks, 5, 0, 2, 4, 4, 27, 20, 150,False
-1985, 10, 23,11, New York Rangers, 4, 1, 4, 8, 3, 23, 26, 216,40, New Jersey Devils, 5, 1, 3, 4, 4, 34, 22, 130,True
-1985, 10, 23,23, St. Louis Blues, 6, 1, 4, 7, 5, 44, 29, 226,24, Minnesota North Stars, 4, 1, 5, 9, 4, 32, 34, 244,False
-1985, 10, 23,13, Toronto Maple Leafs, 1, 1, 3, 4, 4, 48, 57, 341,22, Pittsburgh Penguins, 2, 1, 3, 5, 5, 42, 43, 282,False
-1985, 10, 23,36, Winnipeg Jets, 5, 1, 8, 12, 5, 32, 26, 127,35, Edmonton Oilers, 7, 1, 8, 12, 2, 38, 29, 223,True
-1985, 10, 24,40, New Jersey Devils, 4, 0, 1, 1, 4, 22, 23, 124,12, Chicago Black Hawks, 5, 2, 9, 12, 4, 42, 25, 189,False
-1985, 10, 24,29, New York Islanders, 3, 0, 2, 5, 4, 28, 10, 92,37, Quebec Nordiques, 8, 2, 2, 6, 1, 43, 24, 217,True
-1985, 10, 24,21, Philadelphia Flyers, 8, 2, 5, 9, 2, 14, 28, 163,38, Hartford Whalers, 6, 0, 2, 4, 3, 19, 24, 143,True
-1985, 10, 24,22, Pittsburgh Penguins, 3, 1, 5, 6, 4, 38, 42, 272,13, Toronto Maple Leafs, 1, 1, 4, 8, 6, 38, 58, 322,True
-1985, 10, 25,28, Buffalo Sabres, 5, 0, 4, 7, 5, 26, 23, 177,26, Vancouver Canucks, 6, 2, 5, 7, 0, 29, 16, 152,True
-1985, 10, 25,35, Edmonton Oilers, 7, 1, 3, 5, 2, 11, 31, 174,39, Calgary Flames, 6, 1, 4, 7, 0, 4, 19, 117,True
-1985, 10, 25,11, New York Rangers, 4, 0, 5, 7, 1, 32, 24, 241,25, Los Angeles Kings, 2, 2, 2, 3, 5, 26, 38, 213,True
-1985, 10, 25,36, Winnipeg Jets, 6, 1, 10, 14, 3, 24, 24, 119,31, Washington Capitals, 4, 1, 2, 4, 4, 32, 17, 108,False
-1985, 10, 26,39, Calgary Flames, 5, 1, 2, 4, 2, 29, 26, 140,17, Detroit Red Wings, 1, 1, 0, 0, 5, 26, 32, 240,True
-1985, 10, 26,1, Montreal Canadiens, 5, 1, 5, 8, 5, 13, 32, 174,38, Hartford Whalers, 6, 1, 0, 0, 9, 33, 24, 159,True
-1985, 10, 26,40, New Jersey Devils, 4, 0, 4, 8, 0, 0, 24, 129,25, Los Angeles Kings, 2, 2, 0, 0, 5, 14, 38, 213,True
-1985, 10, 26,22, Pittsburgh Penguins, 4, 0, 6, 10, 4, 32, 42, 264,37, Quebec Nordiques, 8, 2, 5, 6, 2, 26, 29, 197,False
-1985, 10, 26,23, St. Louis Blues, 6, 0, 3, 5, 4, 39, 24, 217,29, New York Islanders, 4, 2, 6, 10, 0, 17, 9, 66,False
-1985, 10, 26,13, Toronto Maple Leafs, 1, 1, 4, 7, 5, 29, 58, 316,24, Minnesota North Stars, 5, 1, 4, 7, 4, 28, 34, 232,False
-1985, 10, 27,28, Buffalo Sabres, 6, 2, 5, 7, 4, 21, 23, 171,24, Minnesota North Stars, 6, 0, 7, 12, 7, 45, 35, 240,True
-1985, 10, 27,12, Chicago Black Hawks, 5, 0, 6, 10, 2, 38, 24, 195,31, Washington Capitals, 5, 2, 6, 13, 3, 19, 18, 89,False
-1985, 10, 27,11, New York Rangers, 5, 1, 5, 9, 0, 27, 23, 236,7, Boston Bruins, 9, 1, 5, 10, 3, 36, 29, 190,True
-1985, 10, 27,21, Philadelphia Flyers, 8, 2, 3, 5, 2, 31, 25, 158,26, Vancouver Canucks, 6, 0, 5, 7, 5, 31, 21, 154,True
-1985, 10, 27,36, Winnipeg Jets, 6, 2, 7, 13, 3, 25, 28, 126,17, Detroit Red Wings, 0, 0, 4, 4, 6, 52, 36, 243,True
-1985, 10, 28,39, Calgary Flames, 5, 1, 8, 10, 4, 34, 29, 144,35, Edmonton Oilers, 7, 1, 6, 8, 7, 24, 32, 192,False
-1985, 10, 29,40, New Jersey Devils, 5, 0, 5, 9, 5, 27, 26, 154,7, Boston Bruins, 8, 2, 1, 2, 2, 33, 28, 174,False
-1985, 10, 29,29, New York Islanders, 5, 2, 5, 9, 5, 21, 12, 106,25, Los Angeles Kings, 1, 0, 2, 3, 5, 26, 39, 220,False
-1985, 10, 29,22, Pittsburgh Penguins, 4, 1, 4, 5, 4, 30, 42, 271,38, Hartford Whalers, 5, 1, 3, 4, 3, 35, 20, 152,False
-1985, 10, 29,37, Quebec Nordiques, 9, 1, 4, 8, 4, 35, 31, 201,1, Montreal Canadiens, 5, 1, 5, 9, 3, 23, 30, 184,True
-1985, 10, 29,31, Washington Capitals, 5, 2, 4, 5, 2, 39, 17, 109,23, St. Louis Blues, 5, 0, 2, 4, 0, 0, 24, 214,True
-1985, 10, 30,39, Calgary Flames, 4, 0, 4, 6, 5, 33, 30, 147,28, Buffalo Sabres, 6, 2, 3, 3, 2, 17, 23, 155,True
-1985, 10, 30,17, Detroit Red Wings, 0, 1, 3, 5, 5, 37, 35, 228,22, Pittsburgh Penguins, 4, 1, 2, 4, 4, 39, 42, 267,True
-1985, 10, 30,35, Edmonton Oilers, 7, 1, 6, 10, 3, 29, 29, 211,36, Winnipeg Jets, 6, 1, 5, 10, 7, 31, 28, 121,True
-1985, 10, 30,38, Hartford Whalers, 5, 0, 4, 5, 5, 29, 20, 138,37, Quebec Nordiques, 9, 2, 7, 8, 6, 23, 31, 195,True
-1985, 10, 30,24, Minnesota North Stars, 5, 1, 2, 2, 3, 45, 31, 236,12, Chicago Black Hawks, 4, 1, 2, 3, 4, 34, 26, 183,False
-1985, 10, 30,1, Montreal Canadiens, 5, 1, 4, 6, 4, 17, 33, 194,21, Philadelphia Flyers, 8, 1, 7, 12, 0, 25, 27, 151,False
-1985, 10, 30,26, Vancouver Canucks, 5, 1, 4, 7, 5, 33, 21, 144,13, Toronto Maple Leafs, 1, 1, 5, 9, 6, 32, 59, 315,True
-1985, 10, 31,7, Boston Bruins, 8, 2, 7, 9, 2, 20, 30, 167,25, Los Angeles Kings, 2, 0, 3, 4, 2, 25, 36, 219,True
-1985, 10, 31,40, New Jersey Devils, 4, 1, 4, 8, 5, 28, 26, 154,17, Detroit Red Wings, 1, 1, 6, 11, 3, 30, 33, 221,False
-1985, 11, 1,35, Edmonton Oilers, 8, 1, 7, 12, 4, 43, 29, 220,28, Buffalo Sabres, 6, 1, 2, 1, 0, 0, 25, 170,False
-1985, 11, 1,31, Washington Capitals, 5, 1, 7, 6, 3, 25, 18, 95,29, New York Islanders, 4, 1, 2, 3, 2, 49, 10, 118,True
-1985, 11, 2,7, Boston Bruins, 8, 0, 7, 12, 4, 26, 32, 177,12, Chicago Black Hawks, 4, 2, 7, 8, 4, 26, 27, 190,True
-1985, 11, 2,39, Calgary Flames, 5, 2, 4, 8, 5, 37, 26, 154,13, Toronto Maple Leafs, 1, 0, 3, 5, 5, 36, 58, 319,True
-1985, 11, 2,38, Hartford Whalers, 6, 1, 6, 9, 3, 21, 19, 150,25, Los Angeles Kings, 2, 1, 4, 4, 4, 28, 40, 228,False
-1985, 11, 2,24, Minnesota North Stars, 5, 1, 5, 7, 6, 29, 34, 220,36, Winnipeg Jets, 5, 1, 3, 5, 3, 20, 29, 145,False
-1985, 11, 2,1, Montreal Canadiens, 4, 2, 4, 6, 5, 28, 34, 205,22, Pittsburgh Penguins, 4, 0, 4, 5, 4, 26, 43, 263,False
-1985, 11, 2,40, New Jersey Devils, 4, 1, 2, 4, 2, 26, 23, 152,11, New York Rangers, 5, 1, 2, 6, 5, 38, 29, 231,True
-1985, 11, 2,29, New York Islanders, 4, 0, 3, 5, 3, 33, 13, 100,31, Washington Capitals, 6, 2, 5, 9, 3, 29, 18, 99,True
-1985, 11, 2,37, Quebec Nordiques, 8, 2, 4, 4, 4, 29, 29, 212,21, Philadelphia Flyers, 8, 0, 5, 7, 4, 31, 33, 167,False
-1985, 11, 2,23, St. Louis Blues, 5, 2, 4, 8, 4, 36, 29, 249,17, Detroit Red Wings, 2, 0, 2, 4, 2, 26, 33, 223,False
-1985, 11, 2,26, Vancouver Canucks, 5, 1, 5, 10, 3, 20, 19, 131,28, Buffalo Sabres, 7, 1, 2, 4, 4, 32, 26, 213,True
-1985, 11, 3,35, Edmonton Oilers, 8, 1, 0, 2, 2, 39, 27, 216,13, Toronto Maple Leafs, 1, 1, 2, 1, 4, 37, 57, 320,True
-1985, 11, 3,21, Philadelphia Flyers, 8, 0, 5, 10, 3, 25, 32, 161,25, Los Angeles Kings, 3, 2, 8, 13, 1, 22, 31, 195,True
-1985, 11, 3,36, Winnipeg Jets, 6, 1, 3, 5, 1, 34, 26, 156,23, St. Louis Blues, 4, 1, 5, 10, 6, 23, 30, 238,False
-1985, 11, 4,22, Pittsburgh Penguins, 5, 1, 4, 5, 5, 35, 43, 273,11, New York Rangers, 5, 1, 5, 9, 2, 4, 29, 211,False
-1985, 11, 5,38, Hartford Whalers, 5, 1, 0, 2, 4, 41, 25, 149,1, Montreal Canadiens, 3, 1, 4, 7, 4, 31, 33, 202,False
-1985, 11, 5,29, New York Islanders, 5, 1, 5, 8, 5, 31, 13, 98,39, Calgary Flames, 5, 1, 5, 8, 2, 35, 25, 144,False
-1985, 11, 5,37, Quebec Nordiques, 7, 2, 3, 6, 5, 34, 33, 212,7, Boston Bruins, 8, 0, 5, 10, 4, 30, 32, 183,True
-1985, 11, 5,26, Vancouver Canucks, 6, 1, 5, 7, 2, 28, 18, 139,35, Edmonton Oilers, 8, 1, 7, 12, 0, 12, 23, 167,False
-1985, 11, 5,31, Washington Capitals, 6, 2, 3, 8, 4, 11, 20, 99,12, Chicago Black Hawks, 4, 0, 4, 8, 0, 4, 26, 168,True
-1985, 11, 6,28, Buffalo Sabres, 6, 1, 2, 4, 0, 37, 28, 207,36, Winnipeg Jets, 6, 1, 3, 6, 7, 44, 29, 151,True
-1985, 11, 6,17, Detroit Red Wings, 3, 1, 5, 10, 5, 43, 36, 240,23, St. Louis Blues, 4, 1, 4, 5, 3, 35, 31, 244,True
-1985, 11, 6,25, Los Angeles Kings, 3, 0, 4, 5, 7, 37, 37, 210,35, Edmonton Oilers, 8, 2, 5, 11, 4, 26, 27, 181,False
-1985, 11, 6,24, Minnesota North Stars, 4, 2, 1, 2, 2, 22, 30, 223,1, Montreal Canadiens, 3, 0, 8, 14, 6, 30, 32, 196,False
-1985, 11, 6,40, New Jersey Devils, 4, 0, 6, 9, 5, 24, 26, 150,39, Calgary Flames, 5, 2, 4, 3, 4, 29, 27, 157,False
-1985, 11, 6,11, New York Rangers, 5, 0, 4, 7, 2, 18, 29, 225,21, Philadelphia Flyers, 9, 2, 7, 14, 4, 24, 36, 172,False
-1985, 11, 6,22, Pittsburgh Penguins, 5, 0, 2, 4, 4, 36, 42, 274,31, Washington Capitals, 7, 2, 8, 14, 5, 29, 20, 118,False
-1985, 11, 6,13, Toronto Maple Leafs, 1, 1, 1, 0, 6, 28, 60, 311,29, New York Islanders, 4, 1, 4, 8, 3, 31, 12, 103,False
-1985, 11, 7,7, Boston Bruins, 7, 1, 5, 9, 4, 32, 35, 197,38, Hartford Whalers, 4, 1, 3, 4, 8, 31, 29, 143,True
-1985, 11, 7,21, Philadelphia Flyers, 9, 1, 5, 7, 4, 22, 34, 185,12, Chicago Black Hawks, 4, 1, 4, 6, 8, 33, 31, 192,True
-1985, 11, 8,28, Buffalo Sabres, 6, 0, 7, 10, 6, 26, 30, 202,23, St. Louis Blues, 3, 2, 2, 4, 5, 25, 32, 237,True
-1985, 11, 8,17, Detroit Red Wings, 4, 1, 4, 7, 2, 32, 33, 229,13, Toronto Maple Leafs, 1, 1, 4, 7, 7, 28, 59, 317,False
-1985, 11, 8,35, Edmonton Oilers, 8, 1, 4, 7, 4, 49, 27, 204,26, Vancouver Canucks, 5, 1, 4, 7, 2, 11, 21, 133,True
-1985, 11, 8,40, New Jersey Devils, 3, 1, 2, 4, 0, 10, 20, 128,22, Pittsburgh Penguins, 4, 1, 2, 2, 6, 39, 42, 263,True
-1985, 11, 8,36, Winnipeg Jets, 6, 2, 2, 6, 4, 29, 29, 141,11, New York Rangers, 5, 0, 1, 3, 5, 32, 26, 230,False
-1985, 11, 9,25, Los Angeles Kings, 2, 0, 4, 7, 4, 32, 31, 204,1, Montreal Canadiens, 4, 2, 3, 6, 4, 25, 27, 181,False
-1985, 11, 9,24, Minnesota North Stars, 4, 1, 2, 3, 3, 34, 31, 235,11, New York Rangers, 6, 1, 7, 15, 5, 34, 24, 227,True
-1985, 11, 9,29, New York Islanders, 5, 1, 5, 8, 4, 36, 13, 105,40, New Jersey Devils, 3, 1, 5, 7, 3, 27, 23, 145,True
-1985, 11, 9,21, Philadelphia Flyers, 9, 1, 6, 10, 2, 37, 32, 183,7, Boston Bruins, 7, 1, 2, 6, 7, 44, 32, 196,True
-1985, 11, 9,22, Pittsburgh Penguins, 3, 1, 3, 6, 4, 25, 40, 254,12, Chicago Black Hawks, 4, 1, 2, 4, 6, 37, 31, 200,True
-1985, 11, 9,37, Quebec Nordiques, 7, 1, 7, 11, 5, 18, 32, 181,38, Hartford Whalers, 4, 1, 2, 2, 8, 35, 23, 131,False
-1985, 11, 9,13, Toronto Maple Leafs, 1, 2, 3, 5, 3, 36, 55, 325,23, St. Louis Blues, 3, 0, 4, 7, 1, 28, 27, 221,False
-1985, 11, 9,36, Winnipeg Jets, 5, 2, 3, 3, 3, 14, 21, 108,26, Vancouver Canucks, 5, 0, 0, 0, 5, 22, 32, 166,False
-1985, 11, 9,31, Washington Capitals, 7, 1, 4, 7, 4, 30, 16, 128,39, Calgary Flames, 6, 1, 4, 5, 2, 28, 19, 159,False
-1985, 11, 10,7, Boston Bruins, 6, 2, 3, 5, 1, 31, 30, 180,24, Minnesota North Stars, 5, 0, 4, 7, 3, 42, 31, 243,True
-1985, 11, 10,28, Buffalo Sabres, 6, 1, 5, 7, 3, 26, 28, 199,39, Calgary Flames, 7, 1, 6, 8, 2, 36, 22, 152,True
-1985, 11, 11,11, New York Rangers, 6, 0, 2, 6, 3, 29, 23, 215,12, Chicago Black Hawks, 4, 2, 1, 2, 3, 34, 28, 197,False
-1985, 11, 11,26, Vancouver Canucks, 5, 1, 8, 11, 2, 42, 29, 186,17, Detroit Red Wings, 4, 1, 3, 5, 3, 38, 34, 235,True
-1985, 11, 12,29, New York Islanders, 6, 1, 3, 5, 4, 33, 11, 111,1, Montreal Canadiens, 5, 1, 6, 8, 3, 25, 24, 183,False
-1985, 11, 12,23, St. Louis Blues, 3, 1, 2, 4, 2, 33, 28, 226,13, Toronto Maple Leafs, 1, 1, 2, 4, 2, 25, 54, 314,True
-1985, 11, 12,31, Washington Capitals, 6, 1, 4, 8, 1, 39, 17, 116,35, Edmonton Oilers, 8, 1, 13, 22, 0, 29, 23, 184,True
-1985, 11, 13,28, Buffalo Sabres, 7, 0, 5, 9, 4, 23, 26, 191,7, Boston Bruins, 7, 2, 1, 4, 5, 28, 30, 169,True
-1985, 11, 13,12, Chicago Black Hawks, 4, 0, 5, 7, 4, 32, 29, 195,37, Quebec Nordiques, 6, 2, 3, 7, 1, 14, 35, 199,True
-1985, 11, 13,39, Calgary Flames, 7, 1, 1, 2, 4, 33, 27, 178,36, Winnipeg Jets, 4, 1, 2, 3, 0, 4, 21, 103,False
-1985, 11, 13,38, Hartford Whalers, 4, 0, 4, 6, 3, 22, 18, 118,24, Minnesota North Stars, 4, 2, 2, 2, 2, 27, 30, 228,True
-1985, 11, 13,25, Los Angeles Kings, 2, 1, 0, 0, 0, 1, 33, 197,17, Detroit Red Wings, 4, 1, 0, 0, 5, 37, 36, 234,False
-1985, 11, 13,11, New York Rangers, 6, 0, 4, 5, 5, 34, 25, 220,1, Montreal Canadiens, 6, 2, 3, 6, 3, 24, 24, 190,True
-1985, 11, 13,26, Vancouver Canucks, 6, 1, 5, 9, 0, 20, 27, 164,22, Pittsburgh Penguins, 4, 1, 3, 3, 1, 19, 37, 248,False
-1985, 11, 14,21, Philadelphia Flyers, 10, 2, 5, 8, 7, 30, 31, 152,35, Edmonton Oilers, 7, 0, 2, 3, 4, 25, 27, 180,True
-1985, 11, 14,23, St. Louis Blues, 3, 1, 4, 5, 3, 33, 28, 229,37, Quebec Nordiques, 5, 1, 4, 8, 4, 26, 40, 218,True
-1985, 11, 14,13, Toronto Maple Leafs, 1, 0, 2, 6, 4, 46, 56, 335,7, Boston Bruins, 6, 2, 4, 6, 1, 20, 30, 174,False
-1985, 11, 15,36, Winnipeg Jets, 4, 2, 3, 5, 3, 37, 24, 136,40, New Jersey Devils, 3, 0, 2, 2, 3, 36, 23, 154,True
-1985, 11, 15,31, Washington Capitals, 7, 2, 5, 7, 2, 30, 18, 107,26, Vancouver Canucks, 5, 0, 3, 5, 6, 26, 33, 170,True
-1985, 11, 16,7, Boston Bruins, 6, 1, 3, 9, 6, 27, 35, 181,31, Washington Capitals, 8, 1, 4, 7, 3, 30, 19, 107,False
-1985, 11, 16,39, Calgary Flames, 6, 2, 3, 7, 3, 37, 28, 172,40, New Jersey Devils, 3, 0, 3, 5, 4, 19, 25, 145,True
-1985, 11, 16,38, Hartford Whalers, 4, 0, 5, 8, 2, 22, 17, 121,21, Philadelphia Flyers, 10, 2, 4, 9, 3, 32, 27, 154,False
-1985, 11, 16,25, Los Angeles Kings, 2, 2, 2, 1, 6, 36, 41, 230,22, Pittsburgh Penguins, 4, 0, 6, 7, 3, 26, 39, 255,True
-1985, 11, 16,24, Minnesota North Stars, 4, 2, 2, 4, 5, 29, 33, 230,17, Detroit Red Wings, 5, 0, 7, 11, 2, 36, 33, 233,False
-1985, 11, 16,1, Montreal Canadiens, 6, 1, 3, 3, 0, 22, 20, 201,11, New York Rangers, 6, 1, 5, 9, 2, 28, 25, 222,False
-1985, 11, 16,29, New York Islanders, 5, 0, 2, 4, 2, 42, 10, 106,35, Edmonton Oilers, 7, 2, 3, 6, 5, 30, 28, 185,False
-1985, 11, 16,37, Quebec Nordiques, 4, 1, 2, 5, 5, 21, 35, 206,28, Buffalo Sabres, 7, 1, 6, 11, 4, 33, 26, 201,True
-1985, 11, 16,23, St. Louis Blues, 4, 2, 5, 10, 3, 45, 28, 241,26, Vancouver Canucks, 4, 0, 3, 6, 13, 44, 32, 169,True
-1985, 11, 16,13, Toronto Maple Leafs, 1, 1, 6, 12, 6, 36, 58, 325,12, Chicago Black Hawks, 5, 1, 6, 9, 4, 45, 26, 201,True
-1985, 11, 17,28, Buffalo Sabres, 7, 2, 1, 2, 1, 18, 25, 198,13, Toronto Maple Leafs, 2, 0, 6, 8, 5, 34, 56, 316,False
-1985, 11, 17,12, Chicago Black Hawks, 4, 1, 4, 8, 6, 40, 28, 196,24, Minnesota North Stars, 3, 1, 2, 2, 5, 36, 32, 230,False
-1985, 11, 17,11, New York Rangers, 6, 2, 2, 2, 2, 31, 25, 225,35, Edmonton Oilers, 7, 0, 4, 8, 4, 36, 27, 191,False
-1985, 11, 17,21, Philadelphia Flyers, 10, 2, 5, 6, 2, 33, 26, 155,29, New York Islanders, 5, 0, 4, 5, 3, 28, 12, 99,True
-1985, 11, 17,36, Winnipeg Jets, 4, 2, 5, 8, 3, 22, 26, 120,39, Calgary Flames, 7, 0, 7, 11, 2, 24, 23, 139,False
-1985, 11, 18,1, Montreal Canadiens, 5, 0, 2, 3, 2, 32, 24, 194,7, Boston Bruins, 6, 2, 2, 3, 5, 18, 36, 192,True
-1985, 11, 19,39, Calgary Flames, 7, 1, 5, 9, 4, 26, 26, 150,24, Minnesota North Stars, 3, 1, 5, 8, 4, 29, 32, 225,False
-1985, 11, 19,17, Detroit Red Wings, 6, 0, 4, 6, 2, 31, 33, 228,26, Vancouver Canucks, 4, 2, 4, 8, 5, 25, 25, 159,False
-1985, 11, 19,38, Hartford Whalers, 4, 1, 2, 3, 2, 25, 20, 129,28, Buffalo Sabres, 6, 1, 3, 5, 3, 30, 27, 191,False
-1985, 11, 19,25, Los Angeles Kings, 3, 1, 4, 7, 3, 29, 38, 223,40, New Jersey Devils, 3, 1, 2, 4, 6, 33, 26, 147,False
-1985, 11, 19,29, New York Islanders, 4, 0, 3, 8, 4, 40, 9, 80,21, Philadelphia Flyers, 10, 2, 5, 10, 4, 33, 28, 155,True
-1985, 11, 19,37, Quebec Nordiques, 4, 0, 4, 6, 6, 33, 31, 209,35, Edmonton Oilers, 7, 2, 3, 5, 2, 35, 25, 190,False
-1985, 11, 19,31, Washington Capitals, 8, 2, 3, 4, 5, 33, 24, 148,22, Pittsburgh Penguins, 3, 0, 3, 6, 4, 30, 40, 255,True
-1985, 11, 20,12, Chicago Black Hawks, 3, 1, 5, 9, 5, 34, 30, 191,26, Vancouver Canucks, 5, 1, 7, 10, 5, 27, 25, 161,True
-1985, 11, 20,1, Montreal Canadiens, 5, 1, 6, 10, 5, 30, 24, 181,35, Edmonton Oilers, 7, 1, 5, 8, 4, 36, 27, 191,False
-1985, 11, 20,11, New York Rangers, 5, 2, 2, 5, 3, 33, 26, 227,13, Toronto Maple Leafs, 3, 0, 5, 7, 3, 23, 54, 305,True
-1985, 11, 20,22, Pittsburgh Penguins, 3, 0, 3, 6, 4, 26, 40, 250,31, Washington Capitals, 8, 2, 4, 7, 0, 0, 20, 113,False
-1985, 11, 20,36, Winnipeg Jets, 4, 1, 3, 7, 5, 29, 28, 127,23, St. Louis Blues, 5, 1, 6, 10, 5, 22, 29, 244,True
-1985, 11, 21,7, Boston Bruins, 5, 1, 4, 5, 2, 20, 35, 195,29, New York Islanders, 4, 1, 8, 10, 5, 31, 11, 78,False
-1985, 11, 21,17, Detroit Red Wings, 6, 2, 5, 8, 6, 23, 37, 220,25, Los Angeles Kings, 3, 0, 3, 4, 7, 34, 43, 241,False
-1985, 11, 21,24, Minnesota North Stars, 3, 2, 3, 5, 3, 36, 26, 210,23, St. Louis Blues, 5, 0, 1, 2, 5, 39, 27, 247,False
-1985, 11, 21,21, Philadelphia Flyers, 9, 2, 7, 11, 3, 17, 29, 152,38, Hartford Whalers, 4, 0, 0, 0, 1, 34, 17, 141,True
-1985, 11, 22,28, Buffalo Sabres, 6, 1, 2, 3, 0, 23, 28, 208,37, Quebec Nordiques, 4, 1, 3, 7, 1, 24, 30, 212,True
-1985, 11, 22,22, Pittsburgh Penguins, 3, 0, 1, 2, 3, 20, 39, 244,36, Winnipeg Jets, 4, 2, 3, 2, 1, 36, 24, 134,True
-1985, 11, 22,26, Vancouver Canucks, 4, 2, 1, 0, 2, 29, 22, 163,40, New Jersey Devils, 4, 0, 6, 8, 1, 13, 23, 143,False
-1985, 11, 23,7, Boston Bruins, 4, 1, 2, 5, 6, 27, 37, 212,21, Philadelphia Flyers, 9, 1, 3, 6, 0, 24, 26, 159,True
-1985, 11, 23,35, Edmonton Oilers, 8, 1, 5, 9, 4, 33, 27, 188,40, New Jersey Devils, 4, 1, 6, 9, 3, 29, 27, 159,True
-1985, 11, 23,38, Hartford Whalers, 4, 1, 0, 0, 3, 32, 19, 139,36, Winnipeg Jets, 4, 1, 2, 2, 7, 24, 31, 144,True
-1985, 11, 23,24, Minnesota North Stars, 3, 1, 2, 4, 3, 13, 27, 197,25, Los Angeles Kings, 4, 1, 5, 9, 4, 30, 40, 237,True
-1985, 11, 23,1, Montreal Canadiens, 5, 0, 4, 8, 2, 24, 21, 169,39, Calgary Flames, 7, 2, 3, 6, 3, 33, 27, 184,True
-1985, 11, 23,29, New York Islanders, 5, 2, 4, 9, 6, 38, 10, 80,11, New York Rangers, 5, 0, 7, 9, 2, 21, 22, 197,False
-1985, 11, 23,23, St. Louis Blues, 6, 0, 4, 3, 2, 29, 24, 221,12, Chicago Black Hawks, 4, 2, 2, 4, 0, 17, 25, 174,False
-1985, 11, 23,13, Toronto Maple Leafs, 3, 1, 3, 4, 7, 47, 58, 329,17, Detroit Red Wings, 6, 1, 4, 8, 5, 35, 36, 232,True
-1985, 11, 23,31, Washington Capitals, 8, 1, 3, 4, 3, 27, 19, 139,37, Quebec Nordiques, 3, 1, 5, 7, 5, 36, 34, 212,True
-1985, 11, 24,12, Chicago Black Hawks, 4, 1, 7, 11, 5, 32, 28, 205,25, Los Angeles Kings, 3, 1, 2, 4, 4, 35, 40, 242,False
-1985, 11, 24,11, New York Rangers, 6, 1, 5, 8, 1, 4, 19, 192,29, New York Islanders, 5, 1, 0, 0, 4, 33, 9, 72,False
-1985, 11, 24,21, Philadelphia Flyers, 8, 2, 4, 8, 7, 36, 28, 172,22, Pittsburgh Penguins, 4, 0, 8, 12, 4, 25, 37, 252,True
-1985, 11, 25,28, Buffalo Sabres, 7, 2, 7, 13, 5, 22, 26, 189,24, Minnesota North Stars, 4, 0, 4, 7, 4, 23, 26, 211,False
-1985, 11, 26,40, New Jersey Devils, 4, 0, 2, 3, 5, 29, 27, 157,36, Winnipeg Jets, 3, 2, 1, 2, 2, 9, 24, 105,True
-1985, 11, 26,37, Quebec Nordiques, 2, 2, 1, 1, 6, 26, 32, 205,39, Calgary Flames, 6, 0, 3, 5, 4, 19, 20, 117,False
-1985, 11, 26,23, St. Louis Blues, 6, 2, 3, 4, 3, 25, 29, 227,13, Toronto Maple Leafs, 4, 0, 10, 14, 1, 16, 50, 276,True
-1985, 11, 26,26, Vancouver Canucks, 3, 0, 5, 7, 6, 38, 26, 172,12, Chicago Black Hawks, 4, 2, 4, 7, 3, 48, 27, 204,False
-1985, 11, 27,17, Detroit Red Wings, 5, 1, 3, 4, 7, 35, 36, 230,28, Buffalo Sabres, 6, 1, 3, 6, 5, 36, 29, 218,True
-1985, 11, 27,35, Edmonton Oilers, 8, 2, 3, 6, 2, 25, 25, 180,26, Vancouver Canucks, 3, 0, 2, 6, 4, 22, 24, 156,False
-1985, 11, 27,25, Los Angeles Kings, 4, 1, 4, 6, 0, 0, 40, 251,38, Hartford Whalers, 4, 1, 8, 16, 1, 18, 15, 115,False
-1985, 11, 27,24, Minnesota North Stars, 5, 2, 4, 7, 3, 30, 25, 218,29, New York Islanders, 5, 0, 4, 5, 5, 30, 8, 71,False
-1985, 11, 27,11, New York Rangers, 5, 0, 3, 6, 0, 17, 22, 210,39, Calgary Flames, 6, 2, 3, 6, 1, 32, 21, 150,False
-1985, 11, 27,21, Philadelphia Flyers, 8, 0, 7, 12, 5, 33, 25, 168,36, Winnipeg Jets, 3, 2, 3, 6, 4, 25, 26, 121,True
-1985, 11, 27,22, Pittsburgh Penguins, 3, 2, 3, 7, 1, 28, 39, 262,13, Toronto Maple Leafs, 4, 0, 1, 2, 2, 5, 54, 296,True
-1985, 11, 27,31, Washington Capitals, 8, 1, 2, 5, 1, 23, 16, 143,1, Montreal Canadiens, 6, 1, 4, 5, 3, 39, 29, 200,True
-1985, 11, 28,7, Boston Bruins, 4, 0, 5, 7, 4, 37, 32, 219,37, Quebec Nordiques, 2, 2, 1, 2, 3, 29, 29, 206,False
-1985, 11, 29,28, Buffalo Sabres, 6, 1, 1, 1, 3, 18, 25, 167,1, Montreal Canadiens, 6, 1, 3, 5, 2, 21, 30, 190,False
-1985, 11, 29,17, Detroit Red Wings, 5, 2, 4, 4, 1, 16, 30, 211,23, St. Louis Blues, 6, 0, 5, 10, 7, 35, 26, 229,True
-1985, 11, 29,24, Minnesota North Stars, 5, 0, 4, 7, 2, 27, 26, 215,21, Philadelphia Flyers, 8, 2, 5, 10, 1, 15, 21, 150,False
-1985, 11, 29,26, Vancouver Canucks, 4, 2, 5, 8, 1, 16, 19, 133,38, Hartford Whalers, 4, 0, 9, 13, 5, 30, 14, 127,False
-1985, 11, 29,36, Winnipeg Jets, 3, 1, 1, 2, 6, 22, 28, 137,29, New York Islanders, 6, 1, 5, 6, 3, 32, 7, 76,False
-1985, 11, 29,31, Washington Capitals, 9, 1, 5, 8, 0, 31, 18, 142,11, New York Rangers, 5, 1, 2, 4, 5, 37, 25, 229,False
-1985, 11, 30,39, Calgary Flames, 6, 2, 5, 7, 2, 32, 22, 144,29, New York Islanders, 6, 0, 4, 6, 4, 35, 5, 68,True
-1985, 11, 30,35, Edmonton Oilers, 7, 1, 5, 8, 1, 16, 28, 200,38, Hartford Whalers, 5, 1, 5, 8, 3, 29, 13, 106,True
-1985, 11, 30,25, Los Angeles Kings, 3, 2, 0, 0, 3, 10, 44, 240,12, Chicago Black Hawks, 5, 0, 5, 7, 3, 25, 27, 181,False
-1985, 11, 30,1, Montreal Canadiens, 6, 2, 5, 6, 4, 29, 28, 185,17, Detroit Red Wings, 5, 0, 5, 9, 2, 11, 32, 217,True
-1985, 11, 30,40, New Jersey Devils, 5, 2, 4, 7, 3, 27, 25, 159,31, Washington Capitals, 8, 0, 2, 4, 3, 22, 23, 137,False
-1985, 11, 30,22, Pittsburgh Penguins, 4, 0, 8, 11, 1, 21, 39, 255,11, New York Rangers, 5, 2, 5, 8, 2, 29, 30, 235,True
-1985, 11, 30,37, Quebec Nordiques, 3, 2, 3, 5, 0, 27, 21, 194,7, Boston Bruins, 4, 0, 0, 0, 4, 30, 36, 202,True
-1985, 11, 30,23, St. Louis Blues, 6, 1, 3, 4, 5, 26, 25, 200,24, Minnesota North Stars, 4, 1, 2, 1, 4, 27, 28, 216,True
-1985, 11, 30,13, Toronto Maple Leafs, 4, 1, 1, 1, 3, 3, 54, 290,28, Buffalo Sabres, 5, 1, 2, 2, 4, 31, 27, 181,True
-1985, 12, 1,7, Boston Bruins, 3, 2, 0, 0, 3, 25, 34, 189,40, New Jersey Devils, 4, 0, 2, 3, 5, 27, 28, 173,True
-1985, 12, 1,35, Edmonton Oilers, 7, 2, 8, 13, 5, 45, 32, 213,39, Calgary Flames, 6, 0, 4, 7, 3, 28, 20, 145,True
-1985, 12, 1,36, Winnipeg Jets, 3, 1, 1, 2, 1, 12, 20, 98,21, Philadelphia Flyers, 8, 1, 4, 6, 1, 26, 22, 125,True
-1985, 12, 2,1, Montreal Canadiens, 6, 0, 10, 14, 2, 25, 23, 179,26, Vancouver Canucks, 3, 2, 4, 5, 4, 13, 19, 124,True
-1985, 12, 2,11, New York Rangers, 5, 1, 5, 5, 5, 22, 33, 228,22, Pittsburgh Penguins, 5, 1, 5, 10, 4, 39, 42, 273,False
-1985, 12, 3,17, Detroit Red Wings, 4, 0, 1, 3, 0, 0, 37, 213,21, Philadelphia Flyers, 7, 2, 1, 2, 2, 33, 23, 132,True
-1985, 12, 3,25, Los Angeles Kings, 3, 0, 4, 3, 6, 30, 44, 256,35, Edmonton Oilers, 7, 2, 5, 10, 5, 29, 30, 209,False
-1985, 12, 3,24, Minnesota North Stars, 4, 1, 3, 5, 4, 28, 28, 235,12, Chicago Black Hawks, 6, 1, 4, 7, 4, 24, 30, 183,True
-1985, 12, 3,29, New York Islanders, 5, 1, 3, 7, 1, 24, 5, 62,36, Winnipeg Jets, 4, 1, 2, 3, 1, 39, 18, 126,False
-1985, 12, 4,39, Calgary Flames, 5, 2, 4, 6, 5, 16, 17, 99,38, Hartford Whalers, 5, 0, 5, 10, 1, 10, 18, 113,True
-1985, 12, 4,11, New York Rangers, 5, 1, 0, 0, 4, 20, 30, 212,36, Winnipeg Jets, 4, 1, 4, 7, 4, 21, 21, 108,True
-1985, 12, 4,22, Pittsburgh Penguins, 6, 0, 5, 12, 0, 40, 38, 274,17, Detroit Red Wings, 5, 2, 4, 7, 5, 11, 38, 249,True
-1985, 12, 4,37, Quebec Nordiques, 3, 1, 2, 4, 0, 33, 23, 210,26, Vancouver Canucks, 2, 1, 0, 0, 7, 27, 22, 138,True
-1985, 12, 4,23, St. Louis Blues, 7, 1, 4, 8, 1, 15, 30, 225,28, Buffalo Sabres, 4, 1, 2, 4, 5, 32, 25, 196,False
-1985, 12, 4,13, Toronto Maple Leafs, 4, 0, 3, 3, 2, 21, 53, 308,40, New Jersey Devils, 4, 2, 2, 5, 3, 31, 27, 169,True
-1985, 12, 5,7, Boston Bruins, 4, 1, 4, 6, 2, 17, 33, 189,1, Montreal Canadiens, 6, 1, 7, 10, 0, 26, 21, 180,True
-1985, 12, 5,35, Edmonton Oilers, 8, 2, 8, 12, 3, 41, 29, 211,25, Los Angeles Kings, 3, 0, 4, 6, 4, 26, 46, 259,False
-1985, 12, 5,21, Philadelphia Flyers, 6, 2, 1, 1, 0, 1, 25, 136,13, Toronto Maple Leafs, 5, 0, 10, 15, 7, 36, 58, 323,False
-1985, 12, 5,31, Washington Capitals, 8, 2, 6, 11, 5, 26, 24, 148,23, St. Louis Blues, 6, 0, 3, 4, 3, 32, 34, 245,True
-1985, 12, 6,28, Buffalo Sabres, 4, 2, 6, 9, 3, 29, 24, 208,22, Pittsburgh Penguins, 6, 0, 5, 10, 4, 36, 40, 261,False
-1985, 12, 6,39, Calgary Flames, 6, 1, 8, 11, 0, 7, 22, 143,12, Chicago Black Hawks, 6, 1, 2, 3, 4, 31, 35, 191,True
-1985, 12, 6,40, New Jersey Devils, 3, 1, 6, 10, 4, 23, 28, 125,26, Vancouver Canucks, 2, 1, 4, 6, 5, 28, 20, 139,True
-1985, 12, 6,37, Quebec Nordiques, 4, 1, 5, 8, 3, 27, 27, 199,29, New York Islanders, 5, 1, 4, 9, 4, 32, 8, 70,True
-1985, 12, 7,35, Edmonton Oilers, 8, 2, 6, 12, 6, 26, 32, 196,24, Minnesota North Stars, 5, 0, 9, 14, 4, 46, 23, 225,True
-1985, 12, 7,38, Hartford Whalers, 5, 1, 5, 9, 8, 29, 29, 152,7, Boston Bruins, 4, 1, 8, 13, 2, 25, 34, 191,True
-1985, 12, 7,29, New York Islanders, 5, 1, 3, 3, 1, 9, 7, 45,37, Quebec Nordiques, 5, 1, 7, 14, 4, 22, 27, 196,False
-1985, 12, 7,21, Philadelphia Flyers, 5, 2, 3, 6, 1, 9, 24, 116,11, New York Rangers, 5, 0, 7, 8, 3, 30, 30, 223,True
-1985, 12, 7,22, Pittsburgh Penguins, 6, 0, 3, 4, 1, 15, 35, 225,40, New Jersey Devils, 4, 2, 4, 5, 1, 25, 25, 127,False
-1985, 12, 7,23, St. Louis Blues, 5, 0, 2, 4, 3, 28, 29, 242,17, Detroit Red Wings, 5, 2, 2, 3, 1, 36, 39, 279,True
-1985, 12, 7,13, Toronto Maple Leafs, 6, 2, 6, 10, 9, 31, 54, 323,1, Montreal Canadiens, 5, 0, 6, 9, 1, 17, 29, 172,False
-1985, 12, 7,36, Winnipeg Jets, 3, 1, 4, 8, 3, 22, 27, 101,25, Los Angeles Kings, 4, 1, 7, 11, 6, 46, 53, 278,False
-1985, 12, 7,31, Washington Capitals, 9, 2, 3, 6, 2, 36, 21, 140,26, Vancouver Canucks, 2, 0, 1, 1, 1, 3, 19, 128,True
-1985, 12, 8,7, Boston Bruins, 4, 1, 3, 4, 6, 27, 39, 190,28, Buffalo Sabres, 3, 1, 1, 1, 2, 29, 24, 187,False
-1985, 12, 8,35, Edmonton Oilers, 8, 2, 8, 14, 1, 13, 26, 169,12, Chicago Black Hawks, 5, 0, 2, 3, 5, 36, 36, 196,True
-1985, 12, 8,11, New York Rangers, 4, 0, 0, 0, 4, 31, 31, 232,21, Philadelphia Flyers, 5, 2, 4, 7, 5, 17, 23, 130,True
-1985, 12, 8,36, Winnipeg Jets, 3, 1, 2, 4, 3, 19, 27, 98,25, Los Angeles Kings, 5, 1, 3, 1, 2, 31, 49, 263,False
-1985, 12, 9,24, Minnesota North Stars, 5, 1, 4, 7, 3, 16, 29, 188,40, New Jersey Devils, 5, 1, 5, 9, 1, 25, 25, 127,False
-1985, 12, 10,39, Calgary Flames, 7, 2, 4, 7, 5, 35, 21, 139,25, Los Angeles Kings, 5, 0, 4, 5, 1, 26, 48, 258,True
-1985, 12, 10,29, New York Islanders, 5, 2, 1, 4, 4, 48, 10, 84,22, Pittsburgh Penguins, 6, 0, 2, 2, 0, 12, 39, 240,True
-1985, 12, 10,21, Philadelphia Flyers, 5, 1, 1, 2, 1, 18, 21, 121,7, Boston Bruins, 3, 1, 3, 4, 7, 24, 36, 193,True
-1985, 12, 10,37, Quebec Nordiques, 6, 1, 4, 6, 3, 24, 25, 219,28, Buffalo Sabres, 4, 1, 3, 6, 3, 28, 24, 176,True
-1985, 12, 10,23, St. Louis Blues, 5, 0, 5, 7, 5, 35, 30, 242,35, Edmonton Oilers, 8, 2, 3, 7, 3, 17, 28, 187,True
-1985, 12, 10,31, Washington Capitals, 9, 2, 2, 3, 2, 18, 17, 129,13, Toronto Maple Leafs, 6, 0, 3, 3, 3, 20, 48, 286,True
-1985, 12, 11,12, Chicago Black Hawks, 4, 0, 3, 5, 9, 32, 35, 182,35, Edmonton Oilers, 7, 2, 3, 6, 3, 31, 32, 201,False
-1985, 12, 11,17, Detroit Red Wings, 4, 1, 4, 8, 5, 36, 40, 253,24, Minnesota North Stars, 4, 1, 4, 6, 5, 17, 31, 199,False
-1985, 12, 11,38, Hartford Whalers, 5, 0, 7, 11, 2, 21, 21, 145,1, Montreal Canadiens, 6, 2, 6, 10, 3, 24, 31, 179,False
-1985, 12, 11,40, New Jersey Devils, 6, 1, 6, 9, 4, 32, 28, 134,11, New York Rangers, 5, 1, 3, 6, 1, 29, 28, 230,False
-1985, 12, 11,22, Pittsburgh Penguins, 6, 0, 4, 7, 5, 30, 44, 258,29, New York Islanders, 5, 2, 7, 11, 6, 27, 10, 62,False
-1985, 12, 11,13, Toronto Maple Leafs, 5, 0, 2, 6, 3, 42, 48, 308,23, St. Louis Blues, 5, 2, 7, 13, 4, 28, 29, 237,True
-1985, 12, 11,26, Vancouver Canucks, 2, 1, 2, 3, 2, 33, 20, 158,36, Winnipeg Jets, 2, 1, 1, 4, 5, 14, 28, 112,False
-1985, 12, 12,7, Boston Bruins, 3, 0, 4, 7, 3, 30, 36, 190,37, Quebec Nordiques, 6, 2, 7, 12, 1, 34, 25, 220,False
-1985, 12, 12,39, Calgary Flames, 7, 2, 7, 8, 5, 28, 19, 144,25, Los Angeles Kings, 5, 0, 5, 9, 8, 33, 52, 271,True
-1985, 12, 12,21, Philadelphia Flyers, 5, 2, 7, 11, 4, 31, 24, 132,1, Montreal Canadiens, 7, 0, 3, 5, 1, 34, 31, 199,True
-1985, 12, 13,28, Buffalo Sabres, 4, 1, 3, 5, 2, 6, 23, 130,38, Hartford Whalers, 4, 1, 1, 2, 3, 15, 22, 139,False
-1985, 12, 13,36, Winnipeg Jets, 3, 1, 6, 10, 3, 32, 26, 130,35, Edmonton Oilers, 7, 1, 12, 24, 5, 27, 31, 185,False
-1985, 12, 14,7, Boston Bruins, 3, 0, 1, 0, 7, 23, 34, 202,11, New York Rangers, 5, 2, 4, 7, 4, 39, 29, 224,True
-1985, 12, 14,17, Detroit Red Wings, 3, 1, 2, 2, 5, 38, 45, 242,21, Philadelphia Flyers, 6, 1, 6, 8, 2, 13, 23, 127,False
-1985, 12, 14,38, Hartford Whalers, 5, 2, 6, 10, 4, 29, 23, 153,22, Pittsburgh Penguins, 6, 0, 4, 8, 5, 30, 43, 264,True
-1985, 12, 14,25, Los Angeles Kings, 4, 1, 0, 0, 5, 40, 44, 291,31, Washington Capitals, 9, 1, 3, 4, 1, 22, 15, 139,False
-1985, 12, 14,24, Minnesota North Stars, 4, 2, 10, 17, 2, 29, 27, 217,13, Toronto Maple Leafs, 5, 0, 6, 12, 4, 31, 49, 297,False
-1985, 12, 14,1, Montreal Canadiens, 6, 1, 3, 5, 0, 8, 31, 173,12, Chicago Black Hawks, 4, 1, 7, 17, 2, 8, 31, 189,True
-1985, 12, 14,29, New York Islanders, 5, 2, 4, 7, 4, 26, 8, 66,23, St. Louis Blues, 5, 0, 4, 7, 3, 36, 32, 252,False
-1985, 12, 14,37, Quebec Nordiques, 7, 0, 1, 2, 1, 23, 25, 209,40, New Jersey Devils, 5, 2, 2, 4, 3, 9, 28, 128,True
-1985, 12, 14,26, Vancouver Canucks, 1, 0, 3, 6, 6, 29, 24, 147,39, Calgary Flames, 7, 2, 5, 6, 2, 26, 14, 141,True
-1985, 12, 15,28, Buffalo Sabres, 3, 1, 4, 8, 5, 30, 29, 176,37, Quebec Nordiques, 8, 1, 9, 17, 3, 30, 27, 216,True
-1985, 12, 15,12, Chicago Black Hawks, 4, 2, 3, 4, 10, 36, 34, 211,17, Detroit Red Wings, 3, 0, 4, 7, 10, 25, 48, 258,True
-1985, 12, 15,35, Edmonton Oilers, 7, 1, 5, 7, 0, 10, 25, 161,26, Vancouver Canucks, 2, 1, 4, 5, 3, 30, 21, 148,True
-1985, 12, 15,40, New Jersey Devils, 4, 0, 4, 7, 4, 26, 34, 158,23, St. Louis Blues, 5, 2, 2, 2, 6, 38, 31, 258,False
-1985, 12, 15,11, New York Rangers, 4, 0, 2, 4, 2, 23, 29, 217,22, Pittsburgh Penguins, 5, 2, 4, 8, 4, 36, 43, 277,False
-1985, 12, 15,36, Winnipeg Jets, 3, 2, 3, 6, 4, 33, 29, 134,13, Toronto Maple Leafs, 6, 0, 6, 12, 6, 31, 51, 297,False
-1985, 12, 16,1, Montreal Canadiens, 7, 2, 6, 8, 3, 30, 30, 193,38, Hartford Whalers, 6, 0, 5, 8, 4, 27, 22, 157,False
-1985, 12, 17,24, Minnesota North Stars, 4, 1, 4, 11, 5, 27, 29, 220,17, Detroit Red Wings, 3, 1, 4, 8, 6, 34, 44, 267,True
-1985, 12, 17,40, New Jersey Devils, 4, 1, 2, 5, 9, 39, 33, 160,21, Philadelphia Flyers, 6, 1, 6, 9, 4, 23, 22, 119,True
-1985, 12, 17,29, New York Islanders, 5, 1, 2, 5, 4, 31, 6, 69,28, Buffalo Sabres, 3, 1, 5, 12, 2, 24, 26, 170,True
-1985, 12, 17,22, Pittsburgh Penguins, 6, 2, 5, 9, 5, 43, 41, 281,39, Calgary Flames, 7, 0, 3, 7, 3, 9, 16, 118,True
-1985, 12, 17,23, St. Louis Blues, 6, 1, 3, 5, 2, 42, 24, 232,36, Winnipeg Jets, 3, 1, 3, 4, 3, 4, 28, 135,True
-1985, 12, 17,26, Vancouver Canucks, 2, 0, 3, 6, 0, 0, 20, 132,31, Washington Capitals, 9, 2, 5, 5, 2, 16, 18, 144,False
-1985, 12, 18,12, Chicago Black Hawks, 4, 1, 7, 9, 4, 27, 28, 202,36, Winnipeg Jets, 3, 1, 6, 12, 3, 34, 33, 166,True
-1985, 12, 18,35, Edmonton Oilers, 8, 0, 5, 10, 3, 12, 28, 182,31, Washington Capitals, 9, 2, 4, 6, 4, 27, 20, 164,False
-1985, 12, 18,38, Hartford Whalers, 7, 0, 4, 6, 8, 36, 26, 161,39, Calgary Flames, 7, 2, 3, 6, 2, 13, 16, 117,True
-1985, 12, 18,25, Los Angeles Kings, 4, 1, 4, 8, 5, 50, 44, 283,13, Toronto Maple Leafs, 6, 1, 3, 6, 3, 45, 48, 311,True
-1985, 12, 18,1, Montreal Canadiens, 6, 0, 4, 7, 6, 28, 31, 192,37, Quebec Nordiques, 8, 2, 2, 4, 6, 37, 31, 217,True
-1985, 12, 18,11, New York Rangers, 4, 0, 2, 2, 1, 6, 23, 182,28, Buffalo Sabres, 3, 2, 3, 2, 2, 10, 27, 132,False
-1985, 12, 19,7, Boston Bruins, 4, 1, 6, 8, 1, 42, 31, 225,38, Hartford Whalers, 7, 1, 4, 6, 4, 29, 21, 155,True
-1985, 12, 19,24, Minnesota North Stars, 4, 1, 7, 10, 3, 38, 27, 231,22, Pittsburgh Penguins, 6, 1, 4, 8, 2, 40, 39, 273,False
-1985, 12, 19,21, Philadelphia Flyers, 5, 0, 4, 6, 3, 9, 27, 137,40, New Jersey Devils, 4, 2, 7, 12, 3, 28, 28, 155,True
-1985, 12, 19,37, Quebec Nordiques, 8, 1, 2, 2, 3, 25, 28, 222,1, Montreal Canadiens, 7, 1, 3, 5, 4, 29, 27, 189,True
-1985, 12, 20,35, Edmonton Oilers, 7, 1, 2, 5, 3, 31, 30, 207,25, Los Angeles Kings, 4, 1, 4, 8, 5, 32, 42, 268,True
-1985, 12, 20,11, New York Rangers, 4, 1, 4, 6, 4, 20, 27, 209,29, New York Islanders, 5, 1, 7, 11, 2, 29, 5, 80,False
-1985, 12, 20,23, St. Louis Blues, 6, 2, 8, 15, 2, 36, 30, 279,39, Calgary Flames, 6, 0, 3, 4, 4, 37, 18, 123,True
-1985, 12, 20,26, Vancouver Canucks, 2, 1, 4, 7, 4, 28, 28, 187,13, Toronto Maple Leafs, 6, 1, 3, 5, 4, 34, 49, 300,True
-1985, 12, 20,36, Winnipeg Jets, 3, 1, 4, 8, 8, 35, 35, 159,31, Washington Capitals, 9, 1, 5, 4, 4, 36, 18, 159,True
-1985, 12, 21,7, Boston Bruins, 4, 2, 2, 1, 2, 26, 33, 202,24, Minnesota North Stars, 3, 0, 4, 4, 6, 28, 29, 227,True
-1985, 12, 21,17, Detroit Red Wings, 3, 0, 3, 2, 5, 32, 43, 258,12, Chicago Black Hawks, 4, 2, 5, 9, 5, 30, 26, 196,False
-1985, 12, 21,38, Hartford Whalers, 6, 2, 1, 2, 2, 47, 19, 173,40, New Jersey Devils, 4, 0, 3, 6, 4, 34, 31, 171,True
-1985, 12, 21,25, Los Angeles Kings, 4, 0, 4, 7, 3, 35, 46, 279,26, Vancouver Canucks, 2, 2, 5, 5, 1, 18, 22, 144,False
-1985, 12, 21,1, Montreal Canadiens, 6, 2, 4, 7, 2, 25, 28, 192,28, Buffalo Sabres, 4, 0, 5, 8, 4, 36, 27, 153,True
-1985, 12, 21,29, New York Islanders, 5, 2, 2, 3, 2, 33, 5, 84,11, New York Rangers, 3, 0, 3, 4, 2, 31, 25, 220,False
-1985, 12, 21,22, Pittsburgh Penguins, 6, 0, 4, 6, 3, 35, 40, 273,21, Philadelphia Flyers, 5, 2, 5, 7, 4, 20, 29, 144,False
-1985, 12, 22,28, Buffalo Sabres, 4, 2, 2, 0, 3, 33, 26, 150,7, Boston Bruins, 5, 0, 5, 7, 1, 24, 33, 204,True
-1985, 12, 22,12, Chicago Black Hawks, 5, 1, 6, 11, 3, 25, 26, 195,39, Calgary Flames, 5, 1, 1, 4, 4, 33, 21, 122,True
-1985, 12, 22,35, Edmonton Oilers, 7, 2, 9, 16, 5, 37, 31, 208,36, Winnipeg Jets, 3, 0, 7, 10, 4, 32, 31, 156,False
-1985, 12, 22,40, New Jersey Devils, 4, 2, 6, 8, 6, 44, 34, 164,24, Minnesota North Stars, 3, 0, 2, 3, 5, 29, 28, 228,False
-1985, 12, 22,21, Philadelphia Flyers, 6, 2, 4, 6, 2, 38, 27, 162,22, Pittsburgh Penguins, 5, 0, 2, 4, 3, 40, 41, 273,True
-1985, 12, 22,37, Quebec Nordiques, 8, 1, 5, 12, 3, 42, 29, 229,31, Washington Capitals, 8, 1, 4, 6, 2, 40, 23, 157,False
-1985, 12, 23,38, Hartford Whalers, 6, 1, 7, 13, 6, 31, 23, 157,29, New York Islanders, 4, 1, 4, 8, 1, 17, 5, 47,False
-1985, 12, 23,11, New York Rangers, 4, 1, 5, 8, 4, 35, 27, 224,17, Detroit Red Wings, 2, 1, 3, 6, 5, 18, 41, 244,True
-1985, 12, 23,26, Vancouver Canucks, 3, 1, 6, 7, 2, 30, 23, 156,36, Winnipeg Jets, 3, 1, 7, 11, 5, 27, 32, 152,True
-1985, 12, 26,28, Buffalo Sabres, 5, 2, 5, 6, 3, 32, 25, 154,11, New York Rangers, 5, 0, 10, 19, 2, 18, 27, 215,True
-1985, 12, 26,17, Detroit Red Wings, 1, 0, 2, 4, 3, 12, 40, 246,13, Toronto Maple Leafs, 6, 2, 2, 5, 3, 10, 49, 305,False
-1985, 12, 26,29, New York Islanders, 5, 1, 6, 12, 3, 46, 7, 76,38, Hartford Whalers, 6, 1, 3, 6, 3, 30, 23, 149,False
-1985, 12, 26,22, Pittsburgh Penguins, 4, 1, 2, 3, 4, 35, 41, 271,7, Boston Bruins, 5, 1, 3, 5, 2, 28, 36, 207,True
-1985, 12, 26,23, St. Louis Blues, 7, 0, 5, 9, 6, 44, 31, 238,12, Chicago Black Hawks, 5, 2, 5, 7, 2, 30, 23, 181,True
-1985, 12, 26,36, Winnipeg Jets, 3, 2, 3, 6, 4, 7, 27, 130,24, Minnesota North Stars, 4, 0, 8, 14, 4, 34, 26, 233,False
-1985, 12, 26,31, Washington Capitals, 8, 2, 7, 11, 6, 31, 26, 158,37, Quebec Nordiques, 7, 0, 5, 10, 7, 31, 29, 217,True
-1985, 12, 27,40, New Jersey Devils, 4, 2, 2, 6, 8, 29, 29, 123,1, Montreal Canadiens, 6, 0, 3, 6, 1, 23, 27, 190,False
-1985, 12, 27,26, Vancouver Canucks, 4, 0, 4, 10, 3, 28, 21, 130,21, Philadelphia Flyers, 7, 2, 4, 4, 2, 27, 24, 149,False
-1985, 12, 28,39, Calgary Flames, 4, 0, 5, 7, 5, 41, 19, 144,21, Philadelphia Flyers, 8, 2, 6, 10, 1, 23, 23, 145,False
-1985, 12, 28,25, Los Angeles Kings, 4, 2, 2, 4, 5, 39, 50, 284,36, Winnipeg Jets, 3, 0, 5, 10, 1, 26, 29, 156,True
-1985, 12, 28,24, Minnesota North Stars, 5, 1, 6, 9, 3, 36, 27, 236,11, New York Rangers, 4, 1, 1, 1, 2, 9, 26, 200,True
-1985, 12, 28,1, Montreal Canadiens, 6, 1, 7, 10, 7, 22, 29, 203,40, New Jersey Devils, 3, 1, 3, 5, 7, 34, 28, 128,True
-1985, 12, 28,22, Pittsburgh Penguins, 4, 0, 4, 7, 3, 38, 40, 256,29, New York Islanders, 5, 2, 3, 5, 0, 4, 4, 33,False
-1985, 12, 28,37, Quebec Nordiques, 6, 1, 3, 5, 4, 32, 30, 218,17, Detroit Red Wings, 1, 1, 4, 6, 5, 31, 41, 249,False
-1985, 12, 28,23, St. Louis Blues, 7, 2, 9, 17, 2, 43, 32, 265,7, Boston Bruins, 4, 0, 4, 4, 4, 27, 35, 206,False
-1985, 12, 28,13, Toronto Maple Leafs, 6, 1, 5, 8, 0, 24, 46, 301,38, Hartford Whalers, 7, 1, 4, 6, 3, 31, 23, 144,False
-1985, 12, 28,31, Washington Capitals, 9, 2, 4, 7, 5, 41, 20, 156,12, Chicago Black Hawks, 4, 0, 6, 11, 1, 14, 27, 162,False
-1985, 12, 29,28, Buffalo Sabres, 5, 0, 6, 9, 5, 13, 28, 174,29, New York Islanders, 6, 2, 4, 5, 2, 33, 6, 62,True
-1985, 12, 29,12, Chicago Black Hawks, 5, 1, 7, 8, 4, 45, 30, 193,7, Boston Bruins, 4, 1, 5, 6, 4, 29, 32, 206,True
-1985, 12, 29,38, Hartford Whalers, 7, 1, 6, 11, 6, 23, 23, 142,17, Detroit Red Wings, 1, 1, 5, 9, 4, 41, 42, 294,True
-1985, 12, 29,11, New York Rangers, 4, 2, 1, 2, 4, 26, 27, 231,31, Washington Capitals, 8, 0, 4, 6, 3, 29, 21, 147,True
-1985, 12, 29,26, Vancouver Canucks, 4, 1, 2, 2, 2, 7, 25, 166,35, Edmonton Oilers, 6, 1, 4, 10, 6, 24, 28, 169,False
-1985, 12, 30,25, Los Angeles Kings, 5, 2, 5, 7, 4, 32, 49, 278,36, Winnipeg Jets, 3, 0, 4, 6, 6, 33, 29, 162,True
-1985, 12, 31,28, Buffalo Sabres, 6, 2, 4, 6, 1, 21, 25, 189,7, Boston Bruins, 4, 0, 3, 6, 1, 27, 35, 209,False
-1985, 12, 31,17, Detroit Red Wings, 1, 1, 2, 3, 5, 33, 43, 286,29, New York Islanders, 6, 1, 3, 3, 4, 20, 8, 59,False
-1985, 12, 31,35, Edmonton Oilers, 7, 0, 6, 8, 0, 6, 25, 178,21, Philadelphia Flyers, 8, 2, 6, 8, 5, 37, 30, 161,True
-1985, 12, 31,24, Minnesota North Stars, 5, 1, 3, 7, 5, 37, 25, 221,39, Calgary Flames, 4, 1, 4, 7, 6, 34, 28, 147,True
-1985, 12, 31,37, Quebec Nordiques, 5, 0, 4, 8, 4, 30, 31, 213,38, Hartford Whalers, 8, 2, 5, 10, 3, 29, 19, 141,True
-1985, 12, 31,23, St. Louis Blues, 7, 1, 1, 2, 5, 33, 31, 254,22, Pittsburgh Penguins, 4, 1, 2, 4, 3, 20, 40, 248,False
-1986, 1, 1,12, Chicago Black Hawks, 6, 0, 4, 5, 8, 21, 27, 200,22, Pittsburgh Penguins, 5, 2, 8, 10, 3, 30, 41, 270,True
-1986, 1, 1,13, Toronto Maple Leafs, 5, 1, 3, 3, 4, 32, 52, 303,1, Montreal Canadiens, 7, 1, 8, 15, 3, 36, 31, 187,True
-1986, 1, 1,31, Washington Capitals, 7, 0, 5, 7, 6, 32, 29, 157,11, New York Rangers, 4, 2, 6, 11, 5, 28, 30, 235,True
-1986, 1, 2,39, Calgary Flames, 3, 0, 4, 5, 6, 43, 26, 152,35, Edmonton Oilers, 7, 2, 4, 6, 3, 33, 28, 220,False
-1986, 1, 2,17, Detroit Red Wings, 1, 1, 4, 6, 5, 25, 43, 291,28, Buffalo Sabres, 5, 1, 6, 10, 6, 37, 30, 205,False
-1986, 1, 2,38, Hartford Whalers, 7, 1, 1, 2, 2, 22, 21, 143,37, Quebec Nordiques, 5, 1, 5, 10, 1, 31, 28, 214,False
-1986, 1, 2,25, Los Angeles Kings, 5, 1, 4, 5, 9, 41, 47, 281,21, Philadelphia Flyers, 8, 1, 3, 6, 3, 21, 29, 158,False
-1986, 1, 2,24, Minnesota North Stars, 6, 1, 6, 12, 1, 29, 26, 217,26, Vancouver Canucks, 4, 1, 3, 5, 5, 28, 28, 187,True
-1986, 1, 2,29, New York Islanders, 6, 2, 5, 10, 4, 30, 8, 67,7, Boston Bruins, 5, 0, 6, 10, 4, 30, 40, 217,True
-1986, 1, 3,40, New Jersey Devils, 2, 1, 3, 5, 7, 27, 29, 123,31, Washington Capitals, 7, 1, 3, 6, 6, 31, 23, 155,False
-1986, 1, 3,36, Winnipeg Jets, 2, 1, 2, 4, 4, 33, 27, 162,1, Montreal Canadiens, 6, 1, 2, 4, 3, 27, 31, 178,False
-1986, 1, 4,7, Boston Bruins, 5, 1, 5, 9, 6, 35, 38, 210,28, Buffalo Sabres, 6, 1, 2, 4, 2, 29, 26, 197,True
-1986, 1, 4,39, Calgary Flames, 2, 1, 3, 6, 4, 23, 16, 121,1, Montreal Canadiens, 6, 1, 7, 12, 3, 26, 31, 179,False
-1986, 1, 4,17, Detroit Red Wings, 1, 2, 2, 4, 2, 27, 40, 293,37, Quebec Nordiques, 5, 0, 3, 3, 2, 34, 29, 217,False
-1986, 1, 4,35, Edmonton Oilers, 7, 1, 4, 7, 3, 48, 28, 238,38, Hartford Whalers, 6, 1, 2, 3, 3, 31, 22, 152,True
-1986, 1, 4,29, New York Islanders, 6, 2, 6, 10, 4, 28, 9, 66,12, Chicago Black Hawks, 7, 0, 7, 12, 3, 49, 26, 212,False
-1986, 1, 4,23, St. Louis Blues, 7, 0, 4, 8, 6, 38, 36, 253,21, Philadelphia Flyers, 8, 2, 7, 13, 4, 34, 26, 165,True
-1986, 1, 4,13, Toronto Maple Leafs, 5, 1, 3, 4, 2, 28, 50, 299,25, Los Angeles Kings, 4, 1, 4, 7, 5, 21, 45, 243,False
-1986, 1, 4,31, Washington Capitals, 7, 2, 3, 5, 0, 30, 13, 139,40, New Jersey Devils, 1, 0, 2, 2, 3, 19, 25, 115,True
-1986, 1, 5,28, Buffalo Sabres, 6, 1, 0, 2, 3, 24, 26, 192,25, Los Angeles Kings, 4, 1, 6, 11, 4, 28, 44, 250,False
-1986, 1, 5,12, Chicago Black Hawks, 8, 0, 4, 7, 4, 47, 21, 196,24, Minnesota North Stars, 7, 2, 3, 6, 2, 26, 27, 214,True
-1986, 1, 5,35, Edmonton Oilers, 8, 2, 5, 7, 3, 51, 28, 220,39, Calgary Flames, 1, 0, 5, 7, 3, 23, 22, 122,True
-1986, 1, 5,11, New York Rangers, 3, 0, 0, 0, 3, 42, 28, 237,37, Quebec Nordiques, 5, 2, 7, 11, 2, 26, 24, 182,False
-1986, 1, 5,13, Toronto Maple Leafs, 5, 2, 4, 7, 6, 26, 54, 302,17, Detroit Red Wings, 1, 0, 2, 3, 7, 29, 38, 240,False
-1986, 1, 5,36, Winnipeg Jets, 2, 1, 3, 6, 5, 28, 28, 151,26, Vancouver Canucks, 4, 1, 2, 4, 3, 35, 24, 169,True
-1986, 1, 6,1, Montreal Canadiens, 7, 2, 6, 11, 1, 15, 30, 158,23, St. Louis Blues, 7, 0, 2, 4, 1, 33, 29, 223,True
-1986, 1, 6,22, Pittsburgh Penguins, 5, 0, 3, 7, 4, 42, 44, 272,40, New Jersey Devils, 1, 2, 3, 6, 7, 19, 31, 129,True
-1986, 1, 7,39, Calgary Flames, 0, 1, 3, 4, 5, 24, 22, 129,38, Hartford Whalers, 5, 1, 3, 6, 5, 31, 26, 143,False
-1986, 1, 7,29, New York Islanders, 6, 1, 2, 2, 5, 29, 8, 67,24, Minnesota North Stars, 6, 1, 2, 4, 0, 6, 28, 210,False
-1986, 1, 7,37, Quebec Nordiques, 5, 1, 5, 9, 4, 39, 21, 187,23, St. Louis Blues, 6, 1, 2, 4, 8, 23, 37, 219,True
-1986, 1, 7,36, Winnipeg Jets, 3, 1, 4, 7, 7, 33, 24, 150,26, Vancouver Canucks, 4, 1, 0, 1, 4, 30, 25, 164,False
-1986, 1, 7,31, Washington Capitals, 7, 1, 9, 15, 2, 26, 16, 136,17, Detroit Red Wings, 2, 1, 6, 12, 5, 34, 36, 245,True
-1986, 1, 8,12, Chicago Black Hawks, 9, 2, 6, 8, 1, 30, 19, 182,40, New Jersey Devils, 1, 0, 3, 6, 4, 43, 28, 153,False
-1986, 1, 8,1, Montreal Canadiens, 7, 1, 9, 16, 5, 25, 30, 179,7, Boston Bruins, 6, 1, 3, 7, 0, 24, 33, 202,True
-1986, 1, 8,22, Pittsburgh Penguins, 6, 0, 4, 8, 6, 32, 43, 254,25, Los Angeles Kings, 5, 2, 3, 5, 0, 9, 42, 255,True
-1986, 1, 8,13, Toronto Maple Leafs, 5, 1, 4, 9, 6, 31, 54, 310,35, Edmonton Oilers, 8, 1, 6, 12, 3, 44, 28, 213,True
-1986, 1, 9,7, Boston Bruins, 5, 1, 4, 6, 6, 28, 38, 206,23, St. Louis Blues, 6, 1, 4, 6, 9, 29, 36, 233,False
-1986, 1, 9,39, Calgary Flames, 0, 1, 1, 1, 4, 6, 32, 124,26, Vancouver Canucks, 4, 1, 2, 3, 6, 31, 23, 173,True
-1986, 1, 9,29, New York Islanders, 5, 2, 2, 3, 3, 29, 12, 89,22, Pittsburgh Penguins, 6, 0, 7, 11, 3, 24, 40, 242,True
-1986, 1, 9,21, Philadelphia Flyers, 7, 2, 1, 1, 4, 33, 25, 163,31, Washington Capitals, 7, 0, 4, 2, 3, 27, 20, 122,True
-1986, 1, 10,28, Buffalo Sabres, 5, 0, 2, 4, 4, 43, 33, 206,13, Toronto Maple Leafs, 5, 2, 12, 14, 9, 31, 57, 310,True
-1986, 1, 10,17, Detroit Red Wings, 2, 0, 3, 4, 0, 2, 42, 258,12, Chicago Black Hawks, 8, 2, 7, 13, 2, 33, 26, 189,False
-1986, 1, 10,24, Minnesota North Stars, 7, 1, 3, 5, 6, 47, 33, 237,25, Los Angeles Kings, 5, 1, 3, 8, 2, 24, 46, 270,False
-1986, 1, 10,11, New York Rangers, 3, 2, 3, 8, 4, 11, 20, 188,1, Montreal Canadiens, 8, 0, 5, 10, 3, 19, 28, 173,True
-1986, 1, 10,37, Quebec Nordiques, 6, 0, 7, 14, 4, 31, 21, 168,35, Edmonton Oilers, 7, 2, 9, 16, 6, 28, 33, 178,True
-1986, 1, 10,26, Vancouver Canucks, 4, 1, 4, 4, 2, 39, 22, 173,38, Hartford Whalers, 5, 1, 9, 15, 4, 31, 15, 147,False
-1986, 1, 11,7, Boston Bruins, 4, 1, 2, 5, 3, 7, 34, 179,36, Winnipeg Jets, 3, 1, 2, 3, 0, 9, 19, 126,True
-1986, 1, 11,24, Minnesota North Stars, 6, 0, 3, 4, 2, 24, 31, 222,31, Washington Capitals, 6, 2, 1, 2, 3, 29, 22, 149,True
-1986, 1, 11,1, Montreal Canadiens, 7, 1, 4, 7, 4, 18, 31, 183,35, Edmonton Oilers, 6, 1, 3, 7, 5, 11, 32, 193,False
-1986, 1, 11,40, New Jersey Devils, 2, 1, 8, 14, 7, 28, 31, 149,21, Philadelphia Flyers, 7, 1, 4, 4, 0, 24, 23, 150,False
-1986, 1, 11,29, New York Islanders, 5, 1, 9, 14, 0, 27, 9, 87,17, Detroit Red Wings, 2, 1, 4, 7, 5, 17, 44, 261,True
-1986, 1, 11,22, Pittsburgh Penguins, 5, 1, 0, 0, 3, 20, 46, 259,28, Buffalo Sabres, 6, 1, 9, 13, 7, 32, 36, 195,False
-1986, 1, 11,23, St. Louis Blues, 6, 1, 6, 8, 2, 26, 28, 228,25, Los Angeles Kings, 6, 1, 3, 5, 3, 28, 47, 274,False
-1986, 1, 11,13, Toronto Maple Leafs, 4, 1, 7, 11, 6, 34, 57, 333,37, Quebec Nordiques, 7, 1, 5, 5, 3, 26, 25, 178,False
-1986, 1, 12,12, Chicago Black Hawks, 8, 1, 9, 15, 8, 37, 30, 210,38, Hartford Whalers, 6, 1, 4, 7, 1, 38, 14, 133,True
-1986, 1, 12,11, New York Rangers, 4, 2, 6, 9, 1, 17, 22, 194,23, St. Louis Blues, 5, 0, 4, 6, 2, 10, 23, 189,False
-1986, 1, 12,21, Philadelphia Flyers, 8, 2, 8, 12, 2, 29, 27, 167,39, Calgary Flames, 1, 0, 5, 9, 4, 36, 32, 204,True
-1986, 1, 13,7, Boston Bruins, 4, 1, 8, 12, 4, 26, 37, 194,35, Edmonton Oilers, 7, 1, 6, 10, 5, 43, 30, 207,False
-1986, 1, 13,13, Toronto Maple Leafs, 3, 1, 1, 1, 5, 42, 56, 341,17, Detroit Red Wings, 2, 1, 2, 2, 8, 40, 41, 282,True
-1986, 1, 14,24, Minnesota North Stars, 7, 1, 5, 7, 4, 32, 32, 243,12, Chicago Black Hawks, 8, 1, 4, 6, 4, 31, 24, 208,False
-1986, 1, 14,21, Philadelphia Flyers, 8, 2, 3, 5, 0, 35, 25, 173,40, New Jersey Devils, 1, 0, 4, 7, 7, 39, 32, 160,True
-1986, 1, 14,37, Quebec Nordiques, 7, 1, 5, 9, 1, 38, 23, 190,36, Winnipeg Jets, 3, 1, 4, 6, 5, 24, 25, 120,False
-1986, 1, 14,26, Vancouver Canucks, 4, 0, 3, 5, 4, 21, 25, 164,11, New York Rangers, 4, 2, 2, 5, 4, 27, 23, 203,False
-1986, 1, 14,31, Washington Capitals, 6, 0, 3, 5, 4, 35, 25, 141,39, Calgary Flames, 1, 2, 0, 0, 1, 10, 31, 172,False
-1986, 1, 15,12, Chicago Black Hawks, 8, 0, 3, 3, 2, 35, 23, 218,28, Buffalo Sabres, 6, 2, 3, 6, 3, 29, 24, 181,True
-1986, 1, 15,17, Detroit Red Wings, 2, 1, 4, 8, 4, 14, 40, 286,40, New Jersey Devils, 1, 1, 2, 6, 1, 3, 28, 159,False
-1986, 1, 15,38, Hartford Whalers, 5, 0, 2, 3, 3, 29, 16, 123,35, Edmonton Oilers, 7, 2, 5, 9, 3, 25, 28, 202,False
-1986, 1, 15,25, Los Angeles Kings, 6, 1, 4, 7, 6, 30, 48, 293,11, New York Rangers, 5, 1, 2, 2, 2, 26, 20, 210,False
-1986, 1, 15,1, Montreal Canadiens, 7, 1, 3, 3, 4, 12, 26, 165,36, Winnipeg Jets, 3, 1, 5, 7, 4, 35, 24, 131,True
-1986, 1, 15,22, Pittsburgh Penguins, 4, 0, 4, 6, 9, 41, 46, 260,29, New York Islanders, 6, 2, 8, 14, 2, 36, 6, 86,True
-1986, 1, 15,23, St. Louis Blues, 5, 1, 3, 7, 2, 36, 25, 222,13, Toronto Maple Leafs, 4, 1, 7, 14, 4, 25, 55, 324,True
-1986, 1, 16,7, Boston Bruins, 4, 1, 3, 3, 4, 22, 38, 190,39, Calgary Flames, 2, 1, 3, 5, 1, 14, 21, 120,True
-1986, 1, 16,24, Minnesota North Stars, 7, 0, 3, 1, 3, 44, 26, 231,23, St. Louis Blues, 5, 2, 10, 20, 2, 14, 24, 217,True
-1986, 1, 17,28, Buffalo Sabres, 6, 0, 2, 3, 4, 27, 28, 176,1, Montreal Canadiens, 7, 2, 4, 4, 0, 19, 21, 167,True
-1986, 1, 17,38, Hartford Whalers, 5, 0, 1, 2, 3, 28, 18, 133,37, Quebec Nordiques, 7, 2, 4, 6, 5, 30, 26, 181,True
-1986, 1, 17,40, New Jersey Devils, 2, 0, 4, 8, 3, 38, 30, 189,31, Washington Capitals, 5, 2, 3, 6, 5, 25, 25, 135,False
-1986, 1, 17,21, Philadelphia Flyers, 8, 1, 3, 6, 2, 29, 25, 168,29, New York Islanders, 5, 1, 3, 4, 3, 30, 10, 87,False
-1986, 1, 17,26, Vancouver Canucks, 3, 2, 1, 1, 5, 31, 24, 174,25, Los Angeles Kings, 6, 0, 3, 6, 3, 10, 40, 251,False
-1986, 1, 17,36, Winnipeg Jets, 2, 0, 0, 0, 3, 10, 24, 119,12, Chicago Black Hawks, 9, 2, 4, 6, 3, 41, 26, 211,True
-1986, 1, 18,17, Detroit Red Wings, 1, 1, 3, 6, 7, 45, 40, 292,39, Calgary Flames, 2, 1, 3, 5, 3, 34, 23, 140,False
-1986, 1, 18,35, Edmonton Oilers, 8, 1, 5, 6, 3, 38, 26, 205,11, New York Rangers, 5, 1, 5, 7, 1, 28, 24, 214,False
-1986, 1, 18,25, Los Angeles Kings, 7, 1, 9, 15, 7, 41, 44, 282,26, Vancouver Canucks, 2, 1, 7, 14, 5, 8, 25, 134,False
-1986, 1, 18,1, Montreal Canadiens, 6, 2, 4, 8, 2, 11, 30, 171,29, New York Islanders, 6, 0, 4, 7, 6, 37, 10, 81,True
-1986, 1, 18,37, Quebec Nordiques, 7, 1, 5, 10, 0, 0, 32, 162,38, Hartford Whalers, 5, 1, 11, 16, 3, 27, 21, 137,False
-1986, 1, 18,23, St. Louis Blues, 4, 1, 3, 6, 1, 31, 25, 230,22, Pittsburgh Penguins, 5, 1, 6, 8, 3, 21, 40, 247,False
-1986, 1, 18,13, Toronto Maple Leafs, 4, 1, 1, 2, 7, 23, 52, 280,24, Minnesota North Stars, 7, 1, 4, 5, 3, 30, 25, 234,False
-1986, 1, 18,31, Washington Capitals, 5, 0, 4, 7, 3, 26, 23, 136,21, Philadelphia Flyers, 7, 2, 3, 5, 4, 41, 27, 163,True
-1986, 1, 19,12, Chicago Black Hawks, 8, 2, 1, 3, 2, 34, 25, 202,17, Detroit Red Wings, 1, 0, 4, 6, 7, 38, 40, 285,True
-1986, 1, 19,40, New Jersey Devils, 2, 0, 3, 4, 4, 24, 31, 175,28, Buffalo Sabres, 6, 2, 5, 9, 4, 35, 28, 203,False
-1986, 1, 19,22, Pittsburgh Penguins, 6, 2, 5, 6, 3, 28, 39, 260,24, Minnesota North Stars, 7, 0, 5, 8, 3, 34, 24, 239,True
-1986, 1, 19,13, Toronto Maple Leafs, 3, 0, 2, 2, 5, 31, 50, 288,39, Calgary Flames, 3, 2, 6, 14, 4, 27, 22, 141,False
-1986, 1, 19,36, Winnipeg Jets, 3, 1, 5, 8, 1, 21, 20, 140,7, Boston Bruins, 5, 1, 3, 6, 2, 27, 33, 198,False
-1986, 1, 20,11, New York Rangers, 5, 0, 5, 9, 4, 29, 27, 218,38, Hartford Whalers, 5, 2, 4, 12, 6, 32, 20, 138,False
-1986, 1, 20,37, Quebec Nordiques, 7, 1, 2, 3, 7, 19, 36, 189,1, Montreal Canadiens, 6, 1, 3, 5, 0, 21, 32, 193,True
-1986, 1, 21,25, Los Angeles Kings, 6, 2, 5, 7, 4, 29, 40, 262,23, St. Louis Blues, 4, 0, 2, 4, 4, 26, 29, 242,True
-1986, 1, 21,29, New York Islanders, 5, 2, 0, 2, 3, 24, 7, 78,21, Philadelphia Flyers, 6, 0, 2, 2, 4, 24, 27, 150,True
-1986, 1, 21,26, Vancouver Canucks, 2, 0, 4, 5, 4, 27, 24, 153,40, New Jersey Devils, 2, 2, 3, 5, 2, 19, 30, 154,True
-1986, 1, 21,31, Washington Capitals, 6, 1, 5, 7, 4, 29, 22, 138,24, Minnesota North Stars, 6, 1, 2, 5, 2, 35, 24, 240,True
-1986, 1, 22,28, Buffalo Sabres, 6, 1, 6, 10, 3, 41, 27, 202,36, Winnipeg Jets, 3, 1, 1, 2, 2, 30, 24, 166,True
-1986, 1, 22,12, Chicago Black Hawks, 8, 0, 5, 10, 5, 44, 26, 211,1, Montreal Canadiens, 6, 2, 2, 4, 5, 31, 35, 210,False
-1986, 1, 22,39, Calgary Flames, 4, 2, 8, 11, 2, 24, 24, 143,40, New Jersey Devils, 2, 0, 3, 5, 0, 2, 29, 148,False
-1986, 1, 22,17, Detroit Red Wings, 1, 0, 4, 6, 4, 23, 36, 272,7, Boston Bruins, 5, 2, 2, 4, 1, 19, 32, 190,True
-1986, 1, 22,35, Edmonton Oilers, 7, 1, 4, 7, 1, 28, 28, 199,22, Pittsburgh Penguins, 6, 1, 3, 5, 2, 34, 38, 265,False
-1986, 1, 22,13, Toronto Maple Leafs, 3, 0, 6, 11, 4, 13, 51, 282,11, New York Rangers, 5, 2, 0, 0, 5, 25, 23, 207,False
-1986, 1, 23,7, Boston Bruins, 5, 2, 5, 8, 5, 22, 37, 187,36, Winnipeg Jets, 3, 0, 3, 5, 4, 23, 28, 170,True
-1986, 1, 23,38, Hartford Whalers, 5, 1, 5, 10, 2, 28, 15, 126,13, Toronto Maple Leafs, 2, 1, 2, 3, 4, 38, 51, 307,True
-1986, 1, 23,25, Los Angeles Kings, 6, 2, 6, 9, 3, 27, 44, 257,23, St. Louis Blues, 4, 0, 3, 4, 5, 43, 29, 240,False
-1986, 1, 23,24, Minnesota North Stars, 5, 1, 5, 10, 3, 35, 30, 240,1, Montreal Canadiens, 6, 1, 3, 6, 3, 38, 31, 197,False
-1986, 1, 23,11, New York Rangers, 6, 0, 4, 8, 3, 26, 20, 221,37, Quebec Nordiques, 7, 2, 3, 6, 2, 31, 32, 195,False
-1986, 1, 23,21, Philadelphia Flyers, 5, 1, 3, 4, 5, 26, 30, 163,17, Detroit Red Wings, 2, 1, 7, 9, 1, 11, 37, 278,True
-1986, 1, 24,28, Buffalo Sabres, 6, 1, 6, 11, 3, 40, 27, 201,12, Chicago Black Hawks, 7, 1, 5, 5, 4, 45, 25, 201,False
-1986, 1, 24,35, Edmonton Oilers, 6, 2, 4, 8, 5, 32, 34, 204,40, New Jersey Devils, 3, 0, 6, 7, 5, 34, 30, 164,True
-1986, 1, 24,26, Vancouver Canucks, 3, 0, 5, 7, 3, 19, 24, 153,22, Pittsburgh Penguins, 7, 2, 7, 13, 2, 33, 40, 266,True
-1986, 1, 24,31, Washington Capitals, 7, 1, 7, 13, 2, 28, 23, 154,29, New York Islanders, 6, 1, 7, 14, 3, 28, 7, 82,False
-1986, 1, 25,7, Boston Bruins, 5, 1, 7, 10, 5, 31, 41, 186,17, Detroit Red Wings, 2, 1, 1, 4, 2, 20, 35, 272,True
-1986, 1, 25,39, Calgary Flames, 4, 0, 6, 10, 5, 35, 26, 182,22, Pittsburgh Penguins, 6, 2, 3, 4, 4, 35, 42, 266,True
-1986, 1, 25,35, Edmonton Oilers, 6, 1, 7, 8, 7, 33, 35, 199,25, Los Angeles Kings, 6, 1, 3, 5, 2, 19, 45, 253,True
-1986, 1, 25,38, Hartford Whalers, 6, 2, 4, 7, 0, 19, 14, 123,36, Winnipeg Jets, 3, 0, 5, 8, 1, 14, 23, 136,True
-1986, 1, 25,24, Minnesota North Stars, 4, 1, 2, 4, 4, 30, 31, 238,31, Washington Capitals, 6, 1, 5, 8, 0, 5, 20, 103,False
-1986, 1, 25,1, Montreal Canadiens, 6, 1, 5, 7, 3, 34, 30, 189,13, Toronto Maple Leafs, 2, 1, 1, 2, 4, 31, 51, 300,True
-1986, 1, 25,29, New York Islanders, 6, 1, 7, 13, 3, 34, 9, 89,12, Chicago Black Hawks, 7, 1, 5, 6, 3, 38, 24, 194,False
-1986, 1, 25,37, Quebec Nordiques, 7, 1, 4, 9, 0, 32, 30, 196,28, Buffalo Sabres, 6, 1, 3, 4, 3, 23, 28, 186,True
-1986, 1, 25,23, St. Louis Blues, 4, 1, 4, 7, 5, 27, 28, 232,21, Philadelphia Flyers, 6, 1, 5, 8, 2, 23, 31, 150,False
-1986, 1, 27,7, Boston Bruins, 6, 1, 6, 9, 3, 21, 39, 176,38, Hartford Whalers, 7, 1, 7, 12, 1, 25, 12, 134,True
-1986, 1, 27,12, Chicago Black Hawks, 7, 0, 3, 3, 3, 38, 24, 193,35, Edmonton Oilers, 6, 2, 5, 9, 6, 27, 30, 194,False
-1986, 1, 27,39, Calgary Flames, 5, 2, 7, 8, 2, 31, 22, 185,25, Los Angeles Kings, 5, 0, 2, 5, 5, 25, 48, 259,True
-1986, 1, 27,24, Minnesota North Stars, 4, 1, 4, 5, 6, 34, 33, 236,40, New Jersey Devils, 3, 1, 6, 9, 1, 12, 32, 158,True
-1986, 1, 27,1, Montreal Canadiens, 6, 1, 3, 6, 2, 30, 29, 185,28, Buffalo Sabres, 5, 1, 3, 4, 4, 43, 30, 197,True
-1986, 1, 27,37, Quebec Nordiques, 7, 2, 4, 5, 3, 28, 33, 192,11, New York Rangers, 5, 0, 0, 1, 2, 39, 24, 236,False
-1986, 1, 28,17, Detroit Red Wings, 1, 1, 3, 4, 0, 8, 37, 262,31, Washington Capitals, 6, 1, 6, 11, 3, 26, 23, 126,True
-1986, 1, 28,29, New York Islanders, 5, 2, 2, 6, 5, 35, 9, 89,13, Toronto Maple Leafs, 2, 0, 2, 4, 3, 36, 50, 305,True
-1986, 1, 28,22, Pittsburgh Penguins, 6, 0, 2, 4, 4, 33, 42, 269,21, Philadelphia Flyers, 6, 2, 1, 2, 0, 48, 29, 175,False
-1986, 1, 29,12, Chicago Black Hawks, 7, 2, 3, 6, 3, 37, 23, 164,11, New York Rangers, 6, 0, 6, 11, 6, 32, 28, 229,True
-1986, 1, 29,38, Hartford Whalers, 7, 0, 3, 7, 2, 23, 17, 141,7, Boston Bruins, 6, 2, 6, 8, 3, 23, 39, 178,False
-1986, 1, 29,25, Los Angeles Kings, 4, 1, 3, 4, 2, 3, 45, 248,24, Minnesota North Stars, 4, 1, 6, 11, 2, 34, 29, 236,True
-1986, 1, 29,1, Montreal Canadiens, 6, 0, 4, 7, 2, 30, 28, 178,37, Quebec Nordiques, 6, 2, 6, 10, 4, 27, 36, 196,True
-1986, 1, 29,40, New Jersey Devils, 3, 1, 2, 4, 7, 28, 37, 176,22, Pittsburgh Penguins, 5, 1, 2, 4, 4, 38, 40, 270,False
-1986, 1, 29,23, St. Louis Blues, 4, 1, 0, 0, 1, 34, 29, 246,35, Edmonton Oilers, 6, 1, 4, 5, 2, 28, 27, 201,False
-1986, 1, 29,13, Toronto Maple Leafs, 1, 0, 3, 4, 5, 24, 56, 303,31, Washington Capitals, 5, 2, 0, 0, 7, 37, 28, 137,True
-1986, 1, 29,26, Vancouver Canucks, 4, 1, 4, 4, 3, 28, 24, 162,39, Calgary Flames, 6, 1, 5, 10, 3, 26, 27, 186,False
-1986, 1, 29,36, Winnipeg Jets, 3, 0, 2, 3, 6, 36, 28, 141,28, Buffalo Sabres, 5, 2, 1, 2, 5, 32, 26, 194,True
-1986, 1, 30,29, New York Islanders, 6, 2, 9, 15, 2, 29, 6, 83,21, Philadelphia Flyers, 7, 0, 2, 4, 2, 37, 31, 164,True
-1986, 1, 31,28, Buffalo Sabres, 5, 2, 2, 7, 5, 35, 26, 197,11, New York Rangers, 6, 0, 4, 7, 4, 34, 29, 227,True
-1986, 1, 31,17, Detroit Red Wings, 2, 1, 7, 13, 0, 26, 37, 280,23, St. Louis Blues, 4, 1, 5, 8, 3, 27, 34, 255,False
-1986, 1, 31,35, Edmonton Oilers, 7, 2, 5, 9, 3, 34, 30, 205,39, Calgary Flames, 7, 0, 4, 6, 4, 30, 28, 190,True
-1986, 1, 31,26, Vancouver Canucks, 4, 1, 4, 9, 4, 34, 26, 168,24, Minnesota North Stars, 4, 1, 3, 3, 4, 44, 28, 236,True
-1986, 2, 1,39, Calgary Flames, 6, 0, 5, 7, 3, 25, 31, 193,35, Edmonton Oilers, 8, 2, 7, 14, 5, 32, 31, 203,False
-1986, 2, 1,38, Hartford Whalers, 6, 2, 4, 8, 6, 32, 24, 150,11, New York Rangers, 5, 0, 3, 6, 4, 30, 30, 227,False
-1986, 2, 1,1, Montreal Canadiens, 7, 1, 5, 9, 1, 23, 30, 167,7, Boston Bruins, 7, 1, 4, 9, 4, 23, 40, 178,True
-1986, 2, 1,29, New York Islanders, 7, 1, 8, 15, 3, 34, 8, 84,22, Pittsburgh Penguins, 5, 1, 4, 6, 2, 34, 37, 260,True
-1986, 2, 1,37, Quebec Nordiques, 5, 1, 3, 6, 6, 32, 36, 192,21, Philadelphia Flyers, 6, 1, 4, 4, 7, 37, 37, 163,False
-1986, 2, 1,23, St. Louis Blues, 4, 2, 6, 9, 4, 22, 29, 236,17, Detroit Red Wings, 2, 0, 4, 6, 6, 27, 43, 281,True
-1986, 2, 1,13, Toronto Maple Leafs, 2, 2, 5, 7, 2, 32, 53, 311,12, Chicago Black Hawks, 7, 0, 5, 5, 4, 29, 25, 182,False
-1986, 2, 1,36, Winnipeg Jets, 3, 0, 5, 10, 3, 22, 25, 131,25, Los Angeles Kings, 5, 2, 4, 4, 4, 34, 46, 265,False
-1986, 2, 1,31, Washington Capitals, 4, 2, 2, 4, 5, 31, 24, 122,40, New Jersey Devils, 2, 0, 1, 2, 6, 30, 34, 171,True
-1986, 2, 2,7, Boston Bruins, 7, 1, 1, 2, 6, 16, 38, 169,22, Pittsburgh Penguins, 5, 1, 3, 5, 1, 28, 39, 252,True
-1986, 2, 2,28, Buffalo Sabres, 5, 1, 5, 7, 3, 32, 27, 189,37, Quebec Nordiques, 4, 1, 2, 4, 2, 34, 32, 194,True
-1986, 2, 2,12, Chicago Black Hawks, 7, 1, 7, 11, 4, 38, 25, 189,13, Toronto Maple Leafs, 2, 1, 4, 7, 5, 20, 52, 271,False
-1986, 2, 2,38, Hartford Whalers, 5, 2, 1, 0, 0, 18, 15, 122,31, Washington Capitals, 5, 0, 5, 10, 4, 18, 23, 109,False
-1986, 2, 2,40, New Jersey Devils, 2, 1, 4, 4, 8, 39, 33, 179,29, New York Islanders, 7, 1, 4, 8, 4, 30, 8, 94,False
-1986, 2, 2,36, Winnipeg Jets, 3, 0, 6, 10, 7, 26, 30, 138,25, Los Angeles Kings, 5, 2, 9, 12, 3, 20, 44, 270,True
-1986, 2, 5,12, Chicago Black Hawks, 6, 2, 3, 6, 4, 36, 28, 199,29, New York Islanders, 7, 0, 3, 5, 2, 27, 6, 91,True
-1986, 2, 5,37, Quebec Nordiques, 3, 1, 3, 6, 5, 20, 35, 180,1, Montreal Canadiens, 8, 1, 2, 3, 3, 24, 29, 170,True
-1986, 2, 5,23, St. Louis Blues, 5, 1, 3, 8, 3, 21, 33, 253,11, New York Rangers, 6, 1, 3, 6, 1, 26, 24, 209,True
-1986, 2, 6,7, Boston Bruins, 7, 2, 3, 6, 2, 26, 34, 179,28, Buffalo Sabres, 5, 0, 5, 5, 3, 30, 23, 204,False
-1986, 2, 6,39, Calgary Flames, 6, 2, 5, 7, 7, 33, 30, 193,25, Los Angeles Kings, 4, 0, 3, 5, 6, 29, 52, 275,True
-1986, 2, 6,17, Detroit Red Wings, 2, 0, 3, 7, 4, 32, 39, 290,38, Hartford Whalers, 5, 2, 4, 7, 5, 36, 20, 140,True
-1986, 2, 6,24, Minnesota North Stars, 3, 1, 5, 6, 6, 26, 30, 206,13, Toronto Maple Leafs, 2, 1, 4, 6, 3, 40, 50, 291,True
-1986, 2, 6,40, New Jersey Devils, 2, 0, 3, 4, 3, 30, 28, 170,35, Edmonton Oilers, 8, 2, 4, 7, 4, 32, 30, 217,False
-1986, 2, 6,21, Philadelphia Flyers, 6, 1, 2, 4, 2, 31, 32, 157,23, St. Louis Blues, 5, 1, 4, 7, 5, 43, 32, 260,True
-1986, 2, 7,26, Vancouver Canucks, 5, 1, 10, 17, 4, 24, 24, 150,36, Winnipeg Jets, 4, 1, 6, 9, 3, 45, 26, 157,True
-1986, 2, 7,31, Washington Capitals, 6, 2, 5, 9, 6, 18, 19, 99,1, Montreal Canadiens, 7, 0, 2, 4, 1, 27, 29, 192,True
-1986, 2, 8,7, Boston Bruins, 7, 1, 6, 10, 1, 4, 34, 163,11, New York Rangers, 5, 1, 3, 4, 4, 24, 27, 207,False
-1986, 2, 8,17, Detroit Red Wings, 3, 0, 4, 6, 3, 26, 38, 284,1, Montreal Canadiens, 7, 2, 2, 3, 3, 29, 31, 187,False
-1986, 2, 8,38, Hartford Whalers, 5, 1, 3, 6, 4, 26, 18, 114,28, Buffalo Sabres, 6, 1, 8, 13, 6, 44, 31, 222,False
-1986, 2, 8,25, Los Angeles Kings, 4, 1, 2, 2, 7, 37, 53, 283,29, New York Islanders, 7, 1, 2, 4, 3, 44, 7, 96,False
-1986, 2, 8,21, Philadelphia Flyers, 6, 2, 4, 6, 3, 33, 29, 162,24, Minnesota North Stars, 4, 0, 8, 13, 4, 10, 31, 206,False
-1986, 2, 8,22, Pittsburgh Penguins, 5, 2, 2, 4, 4, 26, 41, 258,40, New Jersey Devils, 1, 0, 4, 6, 5, 38, 30, 170,True
-1986, 2, 8,37, Quebec Nordiques, 4, 1, 3, 6, 4, 23, 32, 185,12, Chicago Black Hawks, 6, 1, 3, 4, 4, 34, 26, 196,True
-1986, 2, 8,13, Toronto Maple Leafs, 2, 1, 7, 10, 4, 21, 55, 295,23, St. Louis Blues, 4, 1, 3, 7, 3, 38, 31, 243,True
-1986, 2, 8,31, Washington Capitals, 7, 2, 3, 5, 2, 21, 17, 118,35, Edmonton Oilers, 8, 0, 6, 9, 4, 46, 30, 220,True
-1986, 2, 9,7, Boston Bruins, 6, 0, 2, 4, 3, 20, 38, 193,37, Quebec Nordiques, 5, 2, 8, 13, 2, 25, 33, 184,False
-1986, 2, 9,28, Buffalo Sabres, 6, 2, 4, 6, 3, 32, 27, 214,35, Edmonton Oilers, 7, 0, 4, 6, 4, 35, 31, 214,True
-1986, 2, 9,12, Chicago Black Hawks, 6, 0, 5, 9, 2, 33, 30, 199,21, Philadelphia Flyers, 5, 2, 3, 6, 3, 29, 31, 172,False
-1986, 2, 9,38, Hartford Whalers, 4, 2, 2, 3, 2, 9, 18, 113,40, New Jersey Devils, 1, 0, 0, 0, 5, 30, 29, 161,False
-1986, 2, 9,25, Los Angeles Kings, 3, 0, 3, 5, 6, 34, 50, 285,39, Calgary Flames, 6, 2, 7, 12, 2, 23, 33, 206,False
-1986, 2, 9,26, Vancouver Canucks, 5, 2, 5, 7, 2, 23, 22, 149,36, Winnipeg Jets, 3, 0, 2, 2, 4, 23, 29, 130,False
-1986, 2, 10,1, Montreal Canadiens, 7, 2, 5, 7, 3, 22, 31, 187,24, Minnesota North Stars, 4, 0, 3, 6, 3, 39, 30, 235,False
-1986, 2, 11,12, Chicago Black Hawks, 5, 1, 2, 4, 8, 37, 31, 225,7, Boston Bruins, 5, 1, 3, 5, 4, 26, 39, 196,True
-1986, 2, 11,17, Detroit Red Wings, 3, 0, 3, 4, 4, 32, 39, 303,35, Edmonton Oilers, 7, 2, 2, 4, 5, 40, 30, 210,False
-1986, 2, 11,29, New York Islanders, 7, 0, 4, 7, 3, 32, 7, 83,26, Vancouver Canucks, 5, 2, 3, 7, 3, 30, 23, 156,True
-1986, 2, 11,23, St. Louis Blues, 4, 0, 2, 2, 4, 27, 31, 244,38, Hartford Whalers, 3, 2, 3, 5, 4, 25, 21, 129,False
-1986, 2, 11,13, Toronto Maple Leafs, 3, 0, 3, 6, 2, 24, 53, 298,24, Minnesota North Stars, 4, 2, 4, 6, 7, 26, 30, 229,False
-1986, 2, 12,28, Buffalo Sabres, 6, 1, 4, 7, 2, 36, 26, 216,21, Philadelphia Flyers, 6, 1, 2, 1, 2, 26, 30, 169,False
-1986, 2, 12,39, Calgary Flames, 7, 1, 7, 10, 3, 39, 34, 222,36, Winnipeg Jets, 4, 1, 3, 6, 3, 23, 29, 147,True
-1986, 2, 12,25, Los Angeles Kings, 3, 0, 3, 5, 4, 39, 51, 298,37, Quebec Nordiques, 6, 2, 4, 4, 3, 33, 34, 192,False
-1986, 2, 12,11, New York Rangers, 5, 2, 3, 5, 2, 37, 28, 236,26, Vancouver Canucks, 5, 0, 0, 0, 1, 6, 21, 152,True
-1986, 2, 12,22, Pittsburgh Penguins, 5, 0, 4, 6, 3, 34, 37, 259,31, Washington Capitals, 7, 2, 5, 8, 4, 35, 20, 135,True
-1986, 2, 13,12, Chicago Black Hawks, 6, 1, 5, 10, 2, 46, 27, 219,13, Toronto Maple Leafs, 3, 1, 2, 4, 3, 33, 54, 307,True
-1986, 2, 13,40, New Jersey Devils, 2, 0, 6, 11, 3, 36, 27, 167,1, Montreal Canadiens, 7, 2, 3, 4, 3, 28, 32, 204,True
-1986, 2, 13,21, Philadelphia Flyers, 7, 0, 3, 7, 0, 28, 32, 174,29, New York Islanders, 8, 2, 1, 2, 0, 25, 4, 76,True
-1986, 2, 13,23, St. Louis Blues, 4, 1, 4, 7, 3, 39, 31, 265,24, Minnesota North Stars, 5, 1, 4, 7, 3, 33, 23, 234,True
-1986, 2, 14,39, Calgary Flames, 7, 1, 4, 8, 4, 36, 33, 213,28, Buffalo Sabres, 5, 1, 0, 1, 2, 21, 30, 209,False
-1986, 2, 14,17, Detroit Red Wings, 3, 1, 2, 2, 3, 32, 40, 300,11, New York Rangers, 5, 1, 3, 10, 2, 32, 28, 231,False
-1986, 2, 14,35, Edmonton Oilers, 8, 1, 3, 6, 3, 31, 27, 200,37, Quebec Nordiques, 6, 1, 5, 8, 2, 30, 33, 189,True
-1986, 2, 14,36, Winnipeg Jets, 3, 0, 2, 4, 4, 35, 30, 159,38, Hartford Whalers, 3, 2, 4, 5, 5, 25, 21, 150,True
-1986, 2, 15,25, Los Angeles Kings, 2, 1, 2, 3, 1, 20, 51, 284,31, Washington Capitals, 6, 1, 1, 2, 4, 23, 24, 138,False
-1986, 2, 15,24, Minnesota North Stars, 5, 1, 3, 7, 2, 46, 28, 245,38, Hartford Whalers, 2, 1, 4, 9, 5, 40, 21, 165,True
-1986, 2, 15,1, Montreal Canadiens, 6, 0, 3, 4, 4, 39, 33, 186,21, Philadelphia Flyers, 8, 2, 7, 11, 3, 24, 35, 170,True
-1986, 2, 15,29, New York Islanders, 7, 2, 3, 5, 3, 31, 12, 89,40, New Jersey Devils, 3, 0, 4, 9, 3, 37, 27, 168,True
-1986, 2, 15,22, Pittsburgh Penguins, 5, 1, 8, 13, 0, 27, 35, 244,26, Vancouver Canucks, 5, 1, 2, 4, 1, 26, 25, 196,True
-1986, 2, 15,23, St. Louis Blues, 5, 1, 5, 10, 3, 31, 31, 257,7, Boston Bruins, 5, 1, 3, 6, 5, 38, 44, 211,True
-1986, 2, 15,13, Toronto Maple Leafs, 3, 1, 4, 5, 5, 35, 56, 309,12, Chicago Black Hawks, 6, 1, 5, 8, 4, 43, 29, 216,True
-1986, 2, 16,12, Chicago Black Hawks, 5, 1, 3, 6, 4, 31, 29, 203,23, St. Louis Blues, 5, 1, 5, 8, 4, 35, 29, 259,True
-1986, 2, 16,39, Calgary Flames, 6, 1, 3, 4, 2, 30, 32, 199,37, Quebec Nordiques, 5, 1, 1, 4, 2, 8, 34, 179,False
-1986, 2, 16,35, Edmonton Oilers, 8, 0, 8, 14, 2, 30, 26, 201,28, Buffalo Sabres, 6, 2, 3, 5, 3, 48, 27, 203,True
-1986, 2, 16,24, Minnesota North Stars, 6, 0, 4, 6, 1, 33, 27, 232,7, Boston Bruins, 4, 2, 1, 2, 7, 17, 44, 198,False
-1986, 2, 16,40, New Jersey Devils, 2, 0, 5, 7, 4, 23, 30, 160,22, Pittsburgh Penguins, 5, 2, 9, 14, 1, 19, 39, 248,False
-1986, 2, 16,11, New York Rangers, 6, 2, 7, 10, 5, 34, 30, 228,17, Detroit Red Wings, 3, 0, 5, 8, 7, 41, 39, 267,True
-1986, 2, 16,13, Toronto Maple Leafs, 4, 0, 4, 7, 3, 35, 54, 309,26, Vancouver Canucks, 5, 2, 4, 6, 7, 16, 24, 138,False
-1986, 2, 17,1, Montreal Canadiens, 6, 2, 5, 9, 4, 18, 30, 177,25, Los Angeles Kings, 2, 0, 1, 3, 4, 28, 50, 303,False
-1986, 2, 17,21, Philadelphia Flyers, 7, 1, 3, 6, 4, 28, 36, 174,36, Winnipeg Jets, 4, 1, 5, 7, 4, 36, 27, 127,True
-1986, 2, 18,39, Calgary Flames, 6, 0, 3, 6, 4, 19, 33, 176,7, Boston Bruins, 4, 2, 5, 8, 3, 28, 40, 209,True
-1986, 2, 18,38, Hartford Whalers, 1, 2, 1, 1, 4, 28, 20, 144,26, Vancouver Canucks, 5, 0, 4, 7, 4, 39, 21, 161,True
-1986, 2, 18,29, New York Islanders, 7, 2, 6, 9, 5, 29, 12, 96,31, Washington Capitals, 6, 0, 4, 7, 1, 24, 21, 139,False
-1986, 2, 18,37, Quebec Nordiques, 5, 2, 6, 10, 3, 38, 35, 209,25, Los Angeles Kings, 3, 0, 3, 6, 7, 47, 52, 312,False
-1986, 2, 18,23, St. Louis Blues, 5, 2, 2, 4, 1, 33, 25, 245,17, Detroit Red Wings, 2, 0, 1, 1, 4, 40, 35, 256,True
-1986, 2, 19,28, Buffalo Sabres, 6, 1, 5, 9, 4, 32, 30, 183,38, Hartford Whalers, 2, 1, 5, 8, 4, 38, 20, 132,False
-1986, 2, 19,12, Chicago Black Hawks, 6, 2, 4, 7, 2, 25, 20, 166,24, Minnesota North Stars, 6, 0, 3, 2, 1, 18, 28, 212,False
-1986, 2, 19,35, Edmonton Oilers, 8, 1, 7, 13, 2, 32, 29, 214,13, Toronto Maple Leafs, 4, 1, 4, 6, 4, 26, 55, 300,True
-1986, 2, 19,1, Montreal Canadiens, 5, 0, 2, 1, 2, 14, 25, 144,31, Washington Capitals, 7, 2, 5, 6, 8, 38, 24, 144,False
-1986, 2, 19,22, Pittsburgh Penguins, 5, 1, 5, 10, 4, 31, 43, 257,36, Winnipeg Jets, 4, 1, 4, 7, 3, 10, 23, 95,True
-1986, 2, 20,39, Calgary Flames, 6, 2, 7, 13, 4, 29, 33, 186,13, Toronto Maple Leafs, 4, 0, 5, 8, 9, 48, 60, 322,False
-1986, 2, 20,40, New Jersey Devils, 2, 1, 4, 9, 6, 29, 31, 169,37, Quebec Nordiques, 5, 1, 4, 8, 5, 29, 37, 200,True
-1986, 2, 20,11, New York Rangers, 6, 0, 4, 4, 5, 26, 26, 211,23, St. Louis Blues, 6, 2, 5, 7, 0, 26, 24, 235,True
-1986, 2, 20,21, Philadelphia Flyers, 7, 2, 8, 14, 2, 16, 24, 147,25, Los Angeles Kings, 4, 0, 5, 6, 2, 37, 49, 301,True
-1986, 2, 21,28, Buffalo Sabres, 6, 1, 4, 6, 5, 33, 31, 184,29, New York Islanders, 7, 1, 3, 7, 5, 30, 14, 102,True
-1986, 2, 21,17, Detroit Red Wings, 2, 1, 0, 0, 1, 7, 30, 210,22, Pittsburgh Penguins, 6, 1, 5, 10, 5, 28, 41, 258,False
-1986, 2, 21,24, Minnesota North Stars, 6, 0, 6, 13, 5, 35, 32, 232,37, Quebec Nordiques, 5, 2, 3, 6, 4, 11, 36, 195,True
-1986, 2, 21,26, Vancouver Canucks, 4, 0, 4, 7, 5, 30, 22, 152,39, Calgary Flames, 5, 2, 5, 8, 2, 10, 36, 190,False
-1986, 2, 21,36, Winnipeg Jets, 4, 1, 2, 4, 5, 23, 25, 119,12, Chicago Black Hawks, 5, 1, 5, 9, 0, 10, 24, 185,False
-1986, 2, 22,35, Edmonton Oilers, 8, 2, 9, 16, 5, 43, 32, 211,7, Boston Bruins, 3, 0, 6, 10, 4, 23, 40, 214,False
-1986, 2, 22,1, Montreal Canadiens, 4, 1, 4, 4, 4, 29, 31, 186,38, Hartford Whalers, 3, 1, 6, 7, 4, 35, 20, 129,True
-1986, 2, 22,40, New Jersey Devils, 3, 2, 4, 8, 3, 33, 28, 173,25, Los Angeles Kings, 3, 0, 3, 5, 4, 41, 51, 305,False
-1986, 2, 22,29, New York Islanders, 6, 2, 2, 1, 5, 31, 12, 101,17, Detroit Red Wings, 2, 0, 3, 6, 2, 5, 34, 227,True
-1986, 2, 22,21, Philadelphia Flyers, 7, 1, 5, 8, 2, 16, 25, 161,31, Washington Capitals, 7, 1, 4, 7, 4, 43, 21, 155,True
-1986, 2, 22,22, Pittsburgh Penguins, 7, 2, 7, 11, 2, 32, 39, 257,23, St. Louis Blues, 5, 0, 2, 4, 3, 37, 28, 237,False
-1986, 2, 23,28, Buffalo Sabres, 7, 1, 5, 8, 1, 21, 29, 192,31, Washington Capitals, 7, 1, 1, 2, 4, 29, 20, 135,True
-1986, 2, 23,12, Chicago Black Hawks, 5, 1, 5, 8, 6, 44, 26, 205,39, Calgary Flames, 5, 1, 4, 8, 0, 24, 35, 210,True
-1986, 2, 23,38, Hartford Whalers, 3, 2, 3, 4, 5, 26, 21, 120,23, St. Louis Blues, 5, 0, 5, 6, 4, 26, 28, 229,False
-1986, 2, 23,24, Minnesota North Stars, 7, 2, 5, 10, 2, 22, 27, 212,13, Toronto Maple Leafs, 4, 0, 7, 10, 8, 44, 57, 306,True
-1986, 2, 23,26, Vancouver Canucks, 3, 0, 0, 0, 4, 21, 21, 143,7, Boston Bruins, 3, 2, 6, 9, 5, 29, 40, 200,False
-1986, 2, 23,36, Winnipeg Jets, 4, 1, 2, 4, 4, 37, 24, 133,37, Quebec Nordiques, 5, 1, 2, 3, 4, 24, 37, 211,True
-1986, 2, 24,35, Edmonton Oilers, 7, 2, 4, 8, 5, 29, 33, 213,1, Montreal Canadiens, 4, 0, 6, 12, 3, 18, 30, 167,True
-1986, 2, 24,11, New York Rangers, 7, 0, 3, 5, 1, 29, 23, 211,24, Minnesota North Stars, 8, 2, 4, 8, 4, 13, 28, 225,True
-1986, 2, 24,22, Pittsburgh Penguins, 7, 1, 3, 5, 4, 27, 41, 252,25, Los Angeles Kings, 3, 1, 5, 8, 2, 34, 49, 298,True
-1986, 2, 25,37, Quebec Nordiques, 5, 2, 2, 3, 4, 32, 37, 219,7, Boston Bruins, 4, 0, 6, 11, 1, 28, 36, 199,False
-1986, 2, 25,23, St. Louis Blues, 5, 2, 8, 11, 3, 29, 29, 244,39, Calgary Flames, 5, 0, 2, 4, 7, 33, 33, 204,False
-1986, 2, 25,13, Toronto Maple Leafs, 4, 0, 3, 4, 1, 26, 47, 265,11, New York Rangers, 7, 2, 4, 9, 2, 26, 23, 221,True
-1986, 2, 25,31, Washington Capitals, 7, 1, 1, 2, 3, 23, 19, 140,17, Detroit Red Wings, 1, 1, 2, 4, 5, 27, 37, 249,True
-1986, 2, 26,38, Hartford Whalers, 3, 1, 2, 4, 4, 16, 22, 125,24, Minnesota North Stars, 7, 1, 1, 2, 3, 35, 34, 237,False
-1986, 2, 26,40, New Jersey Devils, 3, 0, 2, 4, 5, 33, 30, 173,29, New York Islanders, 6, 2, 5, 10, 5, 36, 13, 109,True
-1986, 2, 26,22, Pittsburgh Penguins, 7, 1, 6, 13, 1, 23, 39, 232,28, Buffalo Sabres, 7, 1, 4, 7, 1, 35, 24, 197,True
-1986, 2, 26,26, Vancouver Canucks, 3, 1, 1, 0, 6, 28, 20, 119,1, Montreal Canadiens, 3, 1, 2, 4, 6, 29, 31, 176,False
-1986, 2, 26,36, Winnipeg Jets, 4, 1, 4, 7, 2, 25, 22, 121,35, Edmonton Oilers, 7, 1, 3, 6, 2, 20, 30, 204,False
-1986, 2, 27,7, Boston Bruins, 4, 1, 7, 12, 7, 28, 39, 197,31, Washington Capitals, 7, 1, 3, 8, 3, 19, 19, 136,False
-1986, 2, 27,39, Calgary Flames, 6, 0, 4, 3, 1, 25, 29, 205,21, Philadelphia Flyers, 8, 2, 3, 4, 1, 27, 21, 164,True
-1986, 2, 27,25, Los Angeles Kings, 3, 1, 5, 9, 6, 43, 48, 313,12, Chicago Black Hawks, 6, 1, 6, 8, 2, 30, 22, 198,False
-1986, 2, 27,11, New York Rangers, 7, 0, 5, 4, 7, 24, 24, 181,22, Pittsburgh Penguins, 8, 2, 5, 10, 4, 11, 40, 244,True
-1986, 2, 28,28, Buffalo Sabres, 6, 1, 2, 2, 6, 28, 29, 184,37, Quebec Nordiques, 4, 1, 4, 7, 5, 27, 40, 224,False
-1986, 2, 28,17, Detroit Red Wings, 1, 1, 3, 6, 4, 39, 37, 251,13, Toronto Maple Leafs, 4, 1, 7, 11, 3, 35, 49, 274,False
-1986, 2, 28,26, Vancouver Canucks, 2, 0, 2, 4, 3, 27, 17, 118,21, Philadelphia Flyers, 7, 2, 4, 7, 3, 15, 23, 136,True
-1986, 2, 28,36, Winnipeg Jets, 4, 1, 2, 4, 2, 8, 23, 86,29, New York Islanders, 5, 1, 2, 5, 7, 39, 14, 90,False
-1986, 3, 1,7, Boston Bruins, 4, 2, 0, 1, 4, 30, 32, 219,40, New Jersey Devils, 4, 0, 7, 10, 4, 29, 27, 166,True
-1986, 3, 1,39, Calgary Flames, 6, 2, 7, 9, 6, 35, 31, 233,26, Vancouver Canucks, 2, 0, 3, 5, 0, 0, 15, 116,True
-1986, 3, 1,25, Los Angeles Kings, 3, 1, 3, 6, 4, 36, 47, 291,1, Montreal Canadiens, 4, 1, 4, 6, 2, 20, 24, 177,False
-1986, 3, 1,24, Minnesota North Stars, 7, 1, 5, 7, 2, 45, 32, 230,29, New York Islanders, 5, 1, 6, 9, 2, 30, 8, 75,True
-1986, 3, 1,22, Pittsburgh Penguins, 8, 0, 3, 4, 2, 13, 42, 233,38, Hartford Whalers, 3, 2, 2, 4, 1, 12, 15, 104,True
-1986, 3, 1,37, Quebec Nordiques, 4, 1, 6, 10, 6, 34, 37, 234,28, Buffalo Sabres, 5, 1, 2, 4, 5, 32, 29, 191,False
-1986, 3, 1,23, St. Louis Blues, 5, 1, 1, 2, 2, 28, 25, 195,12, Chicago Black Hawks, 6, 1, 6, 10, 0, 8, 20, 133,True
-1986, 3, 1,13, Toronto Maple Leafs, 5, 2, 7, 9, 3, 42, 49, 281,17, Detroit Red Wings, 1, 0, 3, 5, 7, 25, 40, 237,False
-1986, 3, 1,31, Washington Capitals, 7, 1, 2, 3, 4, 33, 16, 149,11, New York Rangers, 8, 1, 9, 12, 0, 5, 24, 190,True
-1986, 3, 2,12, Chicago Black Hawks, 6, 1, 3, 6, 3, 20, 25, 157,23, St. Louis Blues, 6, 1, 6, 12, 4, 31, 30, 219,True
-1986, 3, 2,35, Edmonton Oilers, 7, 1, 8, 16, 2, 46, 30, 230,21, Philadelphia Flyers, 6, 1, 1, 2, 3, 38, 23, 159,True
-1986, 3, 2,38, Hartford Whalers, 3, 0, 1, 2, 4, 12, 20, 106,7, Boston Bruins, 5, 2, 8, 13, 3, 27, 31, 216,True
-1986, 3, 2,25, Los Angeles Kings, 3, 0, 4, 7, 3, 15, 44, 259,39, Calgary Flames, 6, 2, 3, 7, 4, 49, 31, 202,False
-1986, 3, 2,40, New Jersey Devils, 4, 1, 3, 6, 4, 16, 29, 138,36, Winnipeg Jets, 3, 1, 3, 6, 6, 16, 26, 111,True
-1986, 3, 2,11, New York Rangers, 7, 0, 0, 1, 3, 28, 28, 217,31, Washington Capitals, 7, 2, 4, 6, 0, 20, 13, 142,False
-1986, 3, 3,17, Detroit Red Wings, 1, 0, 6, 8, 5, 18, 38, 253,24, Minnesota North Stars, 7, 2, 5, 8, 4, 25, 36, 225,False
-1986, 3, 3,13, Toronto Maple Leafs, 4, 1, 4, 4, 0, 10, 49, 263,36, Winnipeg Jets, 3, 1, 4, 8, 5, 32, 25, 127,True
-1986, 3, 4,39, Calgary Flames, 6, 1, 3, 4, 1, 28, 28, 181,22, Pittsburgh Penguins, 8, 1, 5, 8, 1, 36, 41, 256,True
-1986, 3, 4,29, New York Islanders, 5, 0, 5, 7, 3, 30, 13, 99,1, Montreal Canadiens, 5, 2, 6, 9, 3, 25, 28, 203,True
-1986, 3, 4,21, Philadelphia Flyers, 6, 1, 1, 4, 2, 29, 22, 150,28, Buffalo Sabres, 5, 1, 7, 11, 4, 29, 32, 182,False
-1986, 3, 4,37, Quebec Nordiques, 3, 1, 4, 8, 2, 37, 39, 238,23, St. Louis Blues, 6, 1, 4, 6, 3, 25, 29, 249,False
-1986, 3, 4,26, Vancouver Canucks, 2, 0, 2, 1, 1, 25, 22, 186,35, Edmonton Oilers, 7, 2, 2, 2, 6, 45, 29, 217,False
-1986, 3, 4,31, Washington Capitals, 7, 2, 5, 4, 1, 35, 15, 157,40, New Jersey Devils, 5, 0, 6, 11, 4, 29, 29, 151,True
-1986, 3, 5,12, Chicago Black Hawks, 7, 2, 6, 12, 5, 32, 26, 170,17, Detroit Red Wings, 1, 0, 5, 9, 4, 28, 40, 261,False
-1986, 3, 5,35, Edmonton Oilers, 8, 2, 6, 12, 1, 33, 25, 202,25, Los Angeles Kings, 3, 0, 1, 2, 5, 30, 46, 274,True
-1986, 3, 5,38, Hartford Whalers, 4, 1, 4, 6, 1, 25, 17, 127,28, Buffalo Sabres, 5, 1, 6, 8, 4, 33, 32, 186,True
-1986, 3, 5,24, Minnesota North Stars, 7, 2, 8, 14, 5, 29, 37, 229,13, Toronto Maple Leafs, 5, 0, 6, 8, 1, 32, 50, 285,True
-1986, 3, 5,36, Winnipeg Jets, 2, 0, 1, 1, 5, 17, 26, 126,11, New York Rangers, 7, 2, 2, 1, 3, 32, 28, 221,True
-1986, 3, 6,7, Boston Bruins, 5, 1, 2, 2, 4, 33, 33, 212,37, Quebec Nordiques, 2, 1, 3, 6, 0, 5, 31, 195,False
-1986, 3, 6,39, Calgary Flames, 7, 2, 8, 11, 3, 41, 31, 192,11, New York Rangers, 6, 0, 1, 2, 4, 32, 29, 225,False
-1986, 3, 6,1, Montreal Canadiens, 4, 2, 3, 4, 4, 29, 35, 192,23, St. Louis Blues, 6, 0, 6, 11, 6, 48, 27, 251,False
-1986, 3, 6,40, New Jersey Devils, 5, 1, 2, 2, 4, 30, 29, 152,17, Detroit Red Wings, 2, 1, 8, 12, 7, 26, 39, 280,True
-1986, 3, 6,21, Philadelphia Flyers, 5, 1, 4, 8, 2, 19, 23, 123,13, Toronto Maple Leafs, 5, 1, 3, 5, 6, 23, 54, 298,True
-1986, 3, 6,26, Vancouver Canucks, 2, 1, 2, 3, 6, 30, 25, 185,25, Los Angeles Kings, 3, 1, 3, 5, 3, 10, 46, 274,False
-1986, 3, 7,28, Buffalo Sabres, 5, 0, 2, 2, 5, 33, 33, 215,38, Hartford Whalers, 4, 2, 5, 7, 1, 25, 17, 127,False
-1986, 3, 7,35, Edmonton Oilers, 9, 1, 6, 11, 2, 30, 27, 202,22, Pittsburgh Penguins, 7, 1, 3, 4, 6, 22, 46, 256,True
-1986, 3, 8,38, Hartford Whalers, 5, 2, 5, 11, 2, 26, 18, 128,37, Quebec Nordiques, 3, 0, 5, 6, 4, 33, 35, 223,False
-1986, 3, 8,24, Minnesota North Stars, 8, 1, 4, 10, 0, 0, 33, 255,36, Winnipeg Jets, 3, 1, 4, 8, 1, 24, 22, 133,False
-1986, 3, 8,1, Montreal Canadiens, 4, 2, 4, 7, 0, 6, 29, 145,7, Boston Bruins, 5, 0, 4, 7, 2, 34, 34, 210,True
-1986, 3, 8,40, New Jersey Devils, 5, 0, 7, 11, 4, 11, 27, 150,21, Philadelphia Flyers, 5, 2, 7, 13, 3, 7, 25, 135,True
-1986, 3, 8,29, New York Islanders, 5, 1, 6, 9, 3, 40, 13, 109,31, Washington Capitals, 8, 1, 4, 7, 2, 25, 14, 118,False
-1986, 3, 8,23, St. Louis Blues, 6, 2, 7, 8, 3, 33, 30, 249,26, Vancouver Canucks, 2, 0, 5, 8, 5, 46, 24, 201,True
-1986, 3, 8,13, Toronto Maple Leafs, 4, 1, 3, 8, 5, 45, 54, 327,12, Chicago Black Hawks, 6, 1, 3, 6, 4, 33, 31, 185,True
-1986, 3, 9,28, Buffalo Sabres, 4, 2, 3, 2, 6, 20, 34, 205,40, New Jersey Devils, 5, 0, 7, 12, 2, 28, 26, 171,True
-1986, 3, 9,12, Chicago Black Hawks, 5, 1, 3, 4, 8, 29, 31, 188,23, St. Louis Blues, 7, 1, 7, 14, 4, 32, 30, 257,True
-1986, 3, 9,17, Detroit Red Wings, 2, 0, 2, 4, 2, 13, 36, 241,39, Calgary Flames, 7, 2, 2, 3, 6, 46, 30, 187,False
-1986, 3, 9,25, Los Angeles Kings, 4, 0, 5, 8, 5, 30, 52, 285,35, Edmonton Oilers, 9, 2, 5, 8, 3, 33, 28, 202,False
-1986, 3, 9,11, New York Rangers, 6, 1, 5, 7, 2, 26, 23, 186,21, Philadelphia Flyers, 4, 1, 3, 5, 2, 14, 25, 114,False
-1986, 3, 9,36, Winnipeg Jets, 3, 0, 4, 5, 2, 35, 23, 144,22, Pittsburgh Penguins, 6, 2, 3, 5, 6, 36, 44, 276,True
-1986, 3, 9,31, Washington Capitals, 8, 2, 6, 10, 2, 18, 14, 111,29, New York Islanders, 4, 0, 2, 2, 1, 9, 13, 64,True
-1986, 3, 10,1, Montreal Canadiens, 5, 1, 8, 11, 3, 23, 32, 163,38, Hartford Whalers, 5, 1, 4, 6, 6, 39, 22, 149,False
-1986, 3, 11,24, Minnesota North Stars, 7, 0, 2, 4, 3, 35, 38, 293,35, Edmonton Oilers, 9, 2, 7, 12, 3, 30, 28, 205,True
-1986, 3, 11,40, New Jersey Devils, 5, 1, 3, 5, 4, 26, 28, 169,11, New York Rangers, 5, 1, 1, 2, 4, 10, 25, 182,False
-1986, 3, 11,29, New York Islanders, 4, 0, 1, 1, 3, 37, 15, 92,39, Calgary Flames, 7, 2, 2, 3, 5, 34, 27, 164,True
-1986, 3, 11,37, Quebec Nordiques, 3, 2, 6, 8, 3, 24, 36, 214,26, Vancouver Canucks, 2, 0, 3, 4, 3, 43, 24, 169,False
-1986, 3, 11,23, St. Louis Blues, 6, 0, 2, 3, 3, 41, 24, 233,28, Buffalo Sabres, 5, 2, 4, 8, 3, 34, 31, 219,True
-1986, 3, 11,31, Washington Capitals, 8, 1, 3, 6, 2, 35, 13, 118,22, Pittsburgh Penguins, 5, 1, 3, 5, 4, 42, 42, 266,True
-1986, 3, 12,12, Chicago Black Hawks, 6, 2, 4, 6, 4, 36, 25, 201,28, Buffalo Sabres, 5, 0, 2, 3, 3, 34, 31, 219,False
-1986, 3, 12,25, Los Angeles Kings, 3, 1, 2, 6, 5, 28, 54, 290,17, Detroit Red Wings, 2, 1, 3, 7, 3, 29, 40, 255,False
-1986, 3, 12,1, Montreal Canadiens, 4, 2, 1, 4, 5, 30, 34, 170,26, Vancouver Canucks, 2, 0, 1, 2, 7, 25, 22, 158,True
-1986, 3, 12,11, New York Rangers, 5, 1, 4, 4, 0, 15, 24, 206,39, Calgary Flames, 7, 1, 5, 7, 3, 7, 28, 140,False
-1986, 3, 12,22, Pittsburgh Penguins, 4, 1, 3, 6, 4, 26, 42, 257,7, Boston Bruins, 5, 1, 3, 3, 2, 4, 34, 176,False
-1986, 3, 12,36, Winnipeg Jets, 4, 1, 5, 4, 3, 24, 24, 133,35, Edmonton Oilers, 8, 1, 0, 0, 3, 36, 29, 219,False
-1986, 3, 13,7, Boston Bruins, 5, 0, 5, 9, 2, 23, 34, 195,1, Montreal Canadiens, 5, 2, 4, 4, 2, 33, 31, 173,True
-1986, 3, 13,38, Hartford Whalers, 5, 1, 5, 8, 2, 25, 17, 116,29, New York Islanders, 4, 1, 8, 14, 4, 36, 16, 91,False
-1986, 3, 13,40, New Jersey Devils, 5, 1, 3, 5, 6, 30, 30, 173,13, Toronto Maple Leafs, 5, 1, 5, 10, 6, 52, 52, 308,False
-1986, 3, 13,21, Philadelphia Flyers, 5, 1, 4, 5, 1, 31, 23, 138,31, Washington Capitals, 8, 1, 4, 6, 1, 25, 14, 124,True
-1986, 3, 13,23, St. Louis Blues, 7, 1, 3, 6, 4, 33, 27, 230,24, Minnesota North Stars, 8, 1, 4, 8, 0, 27, 35, 276,False
-1986, 3, 14,35, Edmonton Oilers, 8, 2, 8, 15, 4, 44, 31, 237,17, Detroit Red Wings, 3, 0, 3, 3, 0, 28, 37, 254,True
-1986, 3, 14,37, Quebec Nordiques, 3, 1, 2, 3, 1, 31, 39, 228,39, Calgary Flames, 7, 1, 3, 6, 5, 20, 23, 148,True
-1986, 3, 15,7, Boston Bruins, 6, 2, 3, 6, 2, 23, 34, 199,26, Vancouver Canucks, 2, 0, 2, 3, 1, 32, 21, 177,False
-1986, 3, 15,38, Hartford Whalers, 4, 0, 2, 1, 5, 17, 18, 114,12, Chicago Black Hawks, 5, 2, 6, 12, 2, 42, 26, 197,True
-1986, 3, 15,25, Los Angeles Kings, 2, 1, 0, 0, 3, 26, 52, 288,28, Buffalo Sabres, 5, 1, 7, 13, 6, 31, 32, 167,True
-1986, 3, 15,1, Montreal Canadiens, 5, 2, 2, 4, 3, 19, 31, 152,39, Calgary Flames, 7, 0, 1, 5, 2, 28, 23, 171,False
-1986, 3, 15,29, New York Islanders, 5, 1, 3, 6, 5, 20, 14, 90,40, New Jersey Devils, 4, 1, 4, 7, 5, 32, 31, 174,True
-1986, 3, 15,22, Pittsburgh Penguins, 3, 1, 2, 4, 4, 33, 43, 264,11, New York Rangers, 4, 1, 2, 4, 3, 34, 25, 229,False
-1986, 3, 15,37, Quebec Nordiques, 4, 1, 6, 10, 2, 31, 40, 228,24, Minnesota North Stars, 8, 1, 3, 7, 5, 32, 35, 287,True
-1986, 3, 15,23, St. Louis Blues, 6, 0, 2, 4, 2, 22, 23, 201,31, Washington Capitals, 8, 2, 0, 0, 1, 29, 13, 130,False
-1986, 3, 15,13, Toronto Maple Leafs, 6, 1, 7, 13, 2, 20, 47, 253,21, Philadelphia Flyers, 5, 1, 2, 4, 3, 32, 28, 157,False
-1986, 3, 16,12, Chicago Black Hawks, 5, 2, 4, 8, 6, 19, 28, 150,26, Vancouver Canucks, 3, 0, 1, 2, 3, 26, 21, 188,True
-1986, 3, 16,11, New York Rangers, 4, 1, 2, 3, 3, 33, 24, 221,29, New York Islanders, 6, 1, 3, 5, 2, 35, 10, 102,True
-1986, 3, 16,21, Philadelphia Flyers, 5, 1, 6, 10, 0, 8, 30, 126,40, New Jersey Devils, 4, 1, 1, 0, 7, 31, 31, 144,True
-1986, 3, 16,36, Winnipeg Jets, 4, 2, 5, 9, 8, 31, 29, 140,17, Detroit Red Wings, 3, 0, 3, 3, 7, 22, 40, 250,True
-1986, 3, 17,24, Minnesota North Stars, 7, 1, 2, 4, 2, 41, 33, 292,23, St. Louis Blues, 5, 1, 4, 8, 3, 26, 24, 212,True
-1986, 3, 17,1, Montreal Canadiens, 4, 1, 3, 6, 4, 28, 35, 169,37, Quebec Nordiques, 5, 1, 3, 6, 2, 28, 32, 209,False
-1986, 3, 17,22, Pittsburgh Penguins, 3, 1, 2, 4, 5, 33, 41, 261,31, Washington Capitals, 9, 1, 5, 9, 3, 22, 16, 125,False
-1986, 3, 17,13, Toronto Maple Leafs, 5, 0, 5, 9, 6, 40, 51, 273,25, Los Angeles Kings, 3, 2, 6, 6, 3, 18, 52, 280,True
-1986, 3, 18,17, Detroit Red Wings, 3, 1, 0, 0, 6, 33, 39, 261,38, Hartford Whalers, 5, 1, 11, 19, 0, 1, 17, 121,False
-1986, 3, 18,35, Edmonton Oilers, 9, 2, 11, 23, 5, 54, 30, 224,36, Winnipeg Jets, 5, 0, 6, 8, 6, 31, 21, 124,True
-1986, 3, 18,29, New York Islanders, 5, 0, 1, 2, 1, 32, 5, 62,11, New York Rangers, 5, 2, 5, 1, 1, 32, 22, 220,True
-1986, 3, 18,31, Washington Capitals, 9, 2, 5, 4, 4, 24, 16, 129,25, Los Angeles Kings, 2, 0, 5, 13, 2, 4, 49, 260,False
-1986, 3, 19,39, Calgary Flames, 7, 0, 4, 6, 6, 41, 26, 168,24, Minnesota North Stars, 7, 2, 6, 9, 5, 38, 31, 279,False
-1986, 3, 19,40, New Jersey Devils, 3, 0, 1, 3, 3, 10, 25, 122,22, Pittsburgh Penguins, 2, 2, 3, 4, 2, 30, 41, 254,False
-1986, 3, 19,37, Quebec Nordiques, 6, 2, 8, 13, 6, 27, 36, 208,13, Toronto Maple Leafs, 6, 0, 7, 12, 2, 9, 49, 262,True
-1986, 3, 19,23, St. Louis Blues, 5, 1, 5, 6, 5, 34, 31, 228,38, Hartford Whalers, 6, 1, 7, 10, 4, 27, 21, 147,False
-1986, 3, 19,26, Vancouver Canucks, 3, 1, 4, 7, 1, 43, 21, 178,28, Buffalo Sabres, 4, 1, 3, 5, 4, 40, 30, 208,False
-1986, 3, 19,36, Winnipeg Jets, 4, 0, 2, 3, 0, 15, 21, 121,1, Montreal Canadiens, 4, 2, 6, 9, 1, 6, 38, 164,True
-1986, 3, 20,7, Boston Bruins, 5, 2, 1, 2, 1, 25, 37, 200,25, Los Angeles Kings, 3, 0, 5, 9, 2, 25, 49, 281,True
-1986, 3, 20,17, Detroit Red Wings, 3, 0, 4, 8, 5, 36, 38, 264,23, St. Louis Blues, 4, 2, 2, 3, 4, 28, 28, 229,False
-1986, 3, 20,21, Philadelphia Flyers, 5, 2, 4, 7, 1, 21, 32, 143,22, Pittsburgh Penguins, 2, 0, 7, 11, 5, 26, 42, 242,True
-1986, 3, 20,13, Toronto Maple Leafs, 5, 0, 2, 4, 4, 41, 51, 294,29, New York Islanders, 6, 2, 6, 10, 2, 26, 10, 89,False
-1986, 3, 21,28, Buffalo Sabres, 5, 2, 4, 7, 3, 29, 29, 197,40, New Jersey Devils, 3, 0, 3, 5, 1, 21, 29, 137,False
-1986, 3, 21,39, Calgary Flames, 6, 2, 6, 8, 1, 10, 25, 135,26, Vancouver Canucks, 3, 0, 3, 6, 5, 35, 24, 156,False
-1986, 3, 21,35, Edmonton Oilers, 9, 1, 7, 10, 3, 31, 27, 204,24, Minnesota North Stars, 8, 1, 6, 10, 5, 35, 36, 281,True
-1986, 3, 21,31, Washington Capitals, 8, 1, 2, 4, 3, 26, 19, 128,36, Winnipeg Jets, 5, 1, 6, 5, 4, 23, 30, 157,True
-1986, 3, 22,7, Boston Bruins, 5, 0, 6, 11, 3, 20, 39, 195,29, New York Islanders, 6, 2, 7, 14, 2, 21, 9, 97,False
-1986, 3, 22,17, Detroit Red Wings, 3, 1, 2, 4, 5, 20, 36, 252,12, Chicago Black Hawks, 5, 1, 5, 7, 4, 48, 28, 190,True
-1986, 3, 22,38, Hartford Whalers, 7, 1, 5, 9, 2, 34, 16, 153,25, Los Angeles Kings, 3, 1, 4, 6, 6, 42, 53, 298,True
-1986, 3, 22,21, Philadelphia Flyers, 6, 1, 5, 8, 5, 12, 32, 146,11, New York Rangers, 4, 1, 2, 3, 5, 23, 24, 217,True
-1986, 3, 22,37, Quebec Nordiques, 7, 2, 5, 7, 2, 31, 37, 227,22, Pittsburgh Penguins, 2, 0, 1, 0, 3, 18, 42, 244,False
-1986, 3, 22,23, St. Louis Blues, 5, 1, 3, 5, 6, 34, 27, 228,1, Montreal Canadiens, 3, 1, 4, 7, 6, 23, 37, 174,True
-1986, 3, 22,13, Toronto Maple Leafs, 4, 2, 1, 1, 4, 23, 54, 284,40, New Jersey Devils, 3, 0, 6, 11, 3, 28, 28, 163,False
-1986, 3, 22,26, Vancouver Canucks, 3, 1, 5, 6, 4, 21, 24, 155,24, Minnesota North Stars, 7, 1, 4, 7, 3, 37, 36, 303,True
-1986, 3, 23,28, Buffalo Sabres, 5, 0, 3, 4, 6, 28, 38, 193,25, Los Angeles Kings, 3, 2, 3, 4, 5, 29, 52, 285,True
-1986, 3, 23,38, Hartford Whalers, 8, 1, 6, 8, 3, 28, 17, 147,7, Boston Bruins, 4, 1, 3, 3, 3, 25, 39, 200,False
-1986, 3, 23,11, New York Rangers, 4, 0, 2, 4, 1, 14, 23, 239,12, Chicago Black Hawks, 4, 2, 3, 8, 5, 18, 32, 172,False
-1986, 3, 23,36, Winnipeg Jets, 5, 0, 3, 5, 6, 28, 31, 164,39, Calgary Flames, 5, 2, 6, 10, 5, 34, 33, 177,False
-1986, 3, 23,31, Washington Capitals, 8, 0, 5, 9, 5, 28, 21, 132,21, Philadelphia Flyers, 7, 2, 4, 7, 2, 31, 29, 165,True
-1986, 3, 24,24, Minnesota North Stars, 6, 1, 2, 4, 5, 55, 39, 303,37, Quebec Nordiques, 6, 1, 4, 10, 7, 37, 34, 199,False
-1986, 3, 24,36, Winnipeg Jets, 5, 1, 4, 7, 4, 5, 27, 132,26, Vancouver Canucks, 4, 1, 6, 9, 5, 34, 26, 167,True
-1986, 3, 25,17, Detroit Red Wings, 3, 0, 8, 9, 4, 38, 39, 252,35, Edmonton Oilers, 9, 2, 5, 8, 2, 34, 28, 214,False
-1986, 3, 25,40, New Jersey Devils, 4, 0, 6, 12, 3, 39, 28, 161,11, New York Rangers, 4, 2, 3, 5, 0, 3, 26, 198,False
-1986, 3, 25,29, New York Islanders, 7, 1, 2, 6, 1, 34, 9, 110,23, St. Louis Blues, 5, 1, 3, 5, 2, 33, 29, 236,False
-1986, 3, 25,31, Washington Capitals, 8, 2, 7, 9, 1, 11, 18, 102,7, Boston Bruins, 5, 0, 5, 10, 5, 25, 40, 184,True
-1986, 3, 26,12, Chicago Black Hawks, 4, 0, 5, 8, 8, 30, 30, 187,17, Detroit Red Wings, 3, 2, 2, 2, 3, 30, 42, 247,True
-1986, 3, 26,38, Hartford Whalers, 7, 1, 5, 9, 5, 29, 17, 148,1, Montreal Canadiens, 2, 1, 2, 3, 7, 23, 30, 174,True
-1986, 3, 26,25, Los Angeles Kings, 3, 0, 1, 2, 5, 35, 52, 291,39, Calgary Flames, 5, 2, 6, 10, 5, 25, 33, 182,True
-1986, 3, 26,22, Pittsburgh Penguins, 2, 1, 7, 11, 5, 28, 43, 259,35, Edmonton Oilers, 9, 1, 7, 10, 4, 41, 28, 223,False
-1986, 3, 26,13, Toronto Maple Leafs, 4, 0, 3, 3, 7, 31, 56, 297,24, Minnesota North Stars, 5, 2, 0, 0, 6, 31, 33, 274,False
-1986, 3, 26,26, Vancouver Canucks, 4, 1, 4, 8, 1, 18, 27, 152,37, Quebec Nordiques, 7, 1, 1, 2, 0, 27, 27, 189,True
-1986, 3, 27,7, Boston Bruins, 4, 1, 3, 5, 6, 36, 41, 195,1, Montreal Canadiens, 2, 1, 0, 0, 3, 27, 26, 178,False
-1986, 3, 27,40, New Jersey Devils, 3, 0, 4, 6, 2, 5, 30, 151,23, St. Louis Blues, 5, 2, 2, 4, 2, 35, 22, 237,True
-1986, 3, 27,21, Philadelphia Flyers, 7, 1, 5, 8, 2, 18, 31, 127,28, Buffalo Sabres, 5, 1, 6, 10, 1, 25, 28, 186,False
-1986, 3, 28,39, Calgary Flames, 4, 2, 4, 10, 0, 3, 28, 157,36, Winnipeg Jets, 6, 0, 8, 16, 3, 21, 27, 161,True
-1986, 3, 28,11, New York Rangers, 5, 1, 5, 8, 4, 32, 30, 227,35, Edmonton Oilers, 9, 1, 7, 14, 2, 43, 27, 209,True
-1986, 3, 28,26, Vancouver Canucks, 5, 1, 7, 12, 7, 28, 32, 166,25, Los Angeles Kings, 4, 1, 7, 9, 3, 27, 50, 283,True
-1986, 3, 28,31, Washington Capitals, 8, 2, 6, 10, 4, 12, 18, 111,29, New York Islanders, 6, 0, 1, 0, 2, 34, 7, 108,False
-1986, 3, 29,7, Boston Bruins, 4, 1, 3, 7, 0, 0, 38, 198,28, Buffalo Sabres, 5, 1, 1, 2, 0, 30, 27, 191,True
-1986, 3, 29,17, Detroit Red Wings, 2, 0, 3, 6, 7, 33, 39, 256,24, Minnesota North Stars, 5, 2, 6, 10, 1, 34, 27, 287,False
-1986, 3, 29,38, Hartford Whalers, 7, 1, 3, 6, 0, 30, 12, 149,31, Washington Capitals, 7, 1, 3, 4, 3, 20, 18, 125,False
-1986, 3, 29,25, Los Angeles Kings, 3, 1, 1, 2, 2, 33, 49, 289,37, Quebec Nordiques, 7, 1, 6, 8, 0, 7, 30, 166,False
-1986, 3, 29,1, Montreal Canadiens, 3, 1, 3, 7, 3, 29, 25, 176,22, Pittsburgh Penguins, 2, 1, 3, 3, 4, 33, 46, 263,True
-1986, 3, 29,40, New Jersey Devils, 3, 1, 1, 2, 0, 24, 27, 171,12, Chicago Black Hawks, 5, 1, 5, 7, 3, 33, 25, 183,True
-1986, 3, 29,29, New York Islanders, 7, 0, 3, 6, 2, 24, 7, 57,35, Edmonton Oilers, 8, 2, 4, 3, 3, 27, 29, 198,False
-1986, 3, 29,21, Philadelphia Flyers, 7, 2, 0, 0, 0, 3, 26, 130,11, New York Rangers, 5, 0, 4, 8, 5, 20, 26, 232,True
-1986, 3, 29,13, Toronto Maple Leafs, 3, 1, 1, 2, 6, 35, 55, 301,23, St. Louis Blues, 4, 1, 0, 0, 0, 33, 30, 243,True
-1986, 3, 30,28, Buffalo Sabres, 5, 1, 1, 2, 2, 28, 29, 189,7, Boston Bruins, 5, 1, 2, 1, 1, 26, 39, 224,False
-1986, 3, 30,12, Chicago Black Hawks, 4, 0, 3, 1, 3, 26, 25, 175,13, Toronto Maple Leafs, 4, 2, 4, 6, 1, 28, 50, 294,False
-1986, 3, 30,26, Vancouver Canucks, 6, 1, 2, 2, 1, 30, 29, 184,39, Calgary Flames, 5, 1, 6, 12, 7, 36, 31, 187,True
-1986, 3, 31,25, Los Angeles Kings, 3, 1, 3, 6, 4, 28, 51, 284,36, Winnipeg Jets, 5, 1, 3, 5, 4, 34, 30, 169,False
-1986, 3, 31,11, New York Rangers, 5, 2, 2, 3, 2, 36, 29, 248,40, New Jersey Devils, 4, 0, 3, 6, 2, 39, 29, 186,True
-1986, 4, 1,39, Calgary Flames, 4, 0, 2, 2, 4, 32, 28, 183,26, Vancouver Canucks, 6, 2, 4, 7, 2, 14, 24, 148,True
-1986, 4, 1,38, Hartford Whalers, 6, 2, 6, 7, 6, 24, 22, 151,28, Buffalo Sabres, 5, 0, 3, 6, 6, 30, 33, 198,True
-1986, 4, 1,24, Minnesota North Stars, 6, 1, 5, 10, 4, 22, 32, 256,12, Chicago Black Hawks, 4, 1, 4, 4, 3, 25, 27, 185,False
-1986, 4, 1,21, Philadelphia Flyers, 7, 1, 8, 16, 2, 25, 28, 152,29, New York Islanders, 7, 1, 4, 7, 1, 5, 9, 79,True
-1986, 4, 1,37, Quebec Nordiques, 7, 1, 5, 8, 3, 40, 33, 199,17, Detroit Red Wings, 2, 1, 4, 7, 5, 34, 39, 267,True
-1986, 4, 1,23, St. Louis Blues, 4, 0, 1, 2, 1, 31, 31, 252,13, Toronto Maple Leafs, 5, 2, 5, 7, 4, 53, 53, 319,False
-1986, 4, 1,31, Washington Capitals, 7, 2, 6, 11, 4, 26, 21, 130,22, Pittsburgh Penguins, 2, 0, 3, 6, 4, 18, 46, 248,True
-1986, 4, 2,12, Chicago Black Hawks, 5, 1, 2, 4, 1, 33, 25, 193,24, Minnesota North Stars, 5, 1, 1, 1, 1, 38, 31, 264,False
-1986, 4, 2,35, Edmonton Oilers, 8, 2, 4, 7, 4, 32, 30, 205,26, Vancouver Canucks, 6, 0, 5, 7, 1, 6, 28, 154,True
-1986, 4, 2,25, Los Angeles Kings, 3, 0, 2, 3, 4, 29, 51, 285,36, Winnipeg Jets, 5, 2, 5, 9, 2, 27, 28, 162,False
-1986, 4, 2,1, Montreal Canadiens, 3, 2, 4, 5, 3, 30, 26, 184,17, Detroit Red Wings, 2, 0, 0, 0, 5, 43, 38, 262,True
-1986, 4, 2,40, New Jersey Devils, 4, 1, 0, 0, 5, 29, 36, 190,37, Quebec Nordiques, 7, 1, 4, 6, 7, 19, 30, 186,True
-1986, 4, 2,11, New York Rangers, 5, 0, 9, 16, 0, 25, 26, 232,21, Philadelphia Flyers, 8, 2, 4, 6, 2, 17, 27, 145,False
-1986, 4, 2,22, Pittsburgh Penguins, 2, 1, 3, 3, 8, 32, 47, 255,29, New York Islanders, 6, 1, 2, 5, 4, 45, 11, 107,False
-1986, 4, 3,7, Boston Bruins, 6, 2, 5, 9, 3, 38, 40, 237,13, Toronto Maple Leafs, 5, 0, 2, 0, 2, 32, 51, 298,True
-1986, 4, 3,31, Washington Capitals, 7, 2, 5, 8, 3, 27, 20, 131,38, Hartford Whalers, 7, 0, 5, 9, 3, 25, 19, 152,True
-1986, 4, 4,28, Buffalo Sabres, 4, 1, 3, 3, 4, 27, 32, 200,1, Montreal Canadiens, 4, 1, 6, 9, 6, 34, 26, 183,True
-1986, 4, 4,39, Calgary Flames, 5, 0, 5, 12, 3, 33, 29, 180,35, Edmonton Oilers, 8, 2, 8, 10, 4, 34, 30, 208,True
-1986, 4, 5,38, Hartford Whalers, 6, 2, 2, 3, 4, 25, 20, 152,13, Toronto Maple Leafs, 4, 0, 2, 4, 4, 27, 53, 293,True
-1986, 4, 5,25, Los Angeles Kings, 2, 1, 4, 7, 5, 29, 51, 286,26, Vancouver Canucks, 5, 1, 4, 7, 5, 26, 35, 184,False
-1986, 4, 5,24, Minnesota North Stars, 5, 2, 7, 11, 2, 23, 35, 267,17, Detroit Red Wings, 1, 0, 3, 2, 4, 29, 39, 253,True
-1986, 4, 5,1, Montreal Canadiens, 3, 1, 2, 3, 1, 9, 21, 144,28, Buffalo Sabres, 5, 1, 4, 6, 2, 24, 25, 168,True
-1986, 4, 5,29, New York Islanders, 6, 1, 7, 9, 2, 42, 9, 104,40, New Jersey Devils, 5, 1, 6, 12, 0, 0, 35, 174,True
-1986, 4, 5,22, Pittsburgh Penguins, 2, 0, 1, 2, 5, 25, 46, 245,21, Philadelphia Flyers, 8, 2, 3, 6, 2, 43, 25, 156,False
-1986, 4, 5,37, Quebec Nordiques, 7, 1, 5, 9, 0, 27, 29, 197,7, Boston Bruins, 6, 1, 4, 8, 3, 25, 38, 230,False
-1986, 4, 5,23, St. Louis Blues, 3, 0, 2, 5, 2, 38, 30, 255,12, Chicago Black Hawks, 4, 2, 5, 8, 5, 36, 31, 187,True
-1986, 4, 5,31, Washington Capitals, 8, 2, 4, 6, 2, 27, 18, 142,11, New York Rangers, 5, 0, 2, 2, 3, 29, 30, 237,False
-1986, 4, 6,7, Boston Bruins, 6, 1, 2, 4, 2, 31, 39, 241,38, Hartford Whalers, 7, 1, 7, 11, 4, 34, 17, 148,False
-1986, 4, 6,12, Chicago Black Hawks, 4, 1, 5, 9, 7, 32, 32, 178,23, St. Louis Blues, 4, 1, 7, 9, 4, 41, 33, 250,True
-1986, 4, 6,17, Detroit Red Wings, 1, 1, 3, 6, 6, 34, 41, 245,13, Toronto Maple Leafs, 4, 1, 1, 1, 1, 7, 50, 258,True
-1986, 4, 6,40, New Jersey Devils, 5, 0, 1, 2, 4, 32, 37, 186,29, New York Islanders, 6, 2, 7, 11, 3, 32, 8, 90,True
-1986, 4, 6,11, New York Rangers, 5, 2, 3, 5, 8, 36, 30, 242,22, Pittsburgh Penguins, 2, 0, 3, 6, 7, 22, 45, 254,False
-1986, 4, 6,21, Philadelphia Flyers, 8, 1, 4, 6, 3, 26, 28, 139,31, Washington Capitals, 7, 1, 4, 6, 4, 27, 20, 142,True
-1986, 4, 6,26, Vancouver Canucks, 6, 0, 5, 9, 8, 36, 30, 185,35, Edmonton Oilers, 8, 2, 3, 6, 4, 35, 35, 210,False
-1986, 4, 6,36, Winnipeg Jets, 5, 0, 4, 7, 4, 38, 27, 154,39, Calgary Flames, 5, 2, 8, 18, 3, 29, 26, 189,False
+Year,Month,Day,Home_ID,Home_name,Home_wins_last10,Home_wins_VERSUS_last2,Home_goals_lastGame,Home_assists_lastGame,Home_GA_startingGoalie,Home_SA_startingGoalie,Home_GA_allGoalies,Home_SA_allGoalies,Away_ID,Away_name,Away_wins_last10,Away_wins_VERSUS_last2,Away_goals_lastGame,Away_assists_lastGame,Away_GA_startingGoalie,Away_SA_startingGoalie,Away_GA_allGoalies,Away_SA_allGoalies,Home_Won
+1985,10,10,6,Boston Bruins,5,2,3,6,3,38,28,188,13,Toronto Maple Leafs,4,0,1,3,4,27,58,317,True
+1985,10,10,26,Buffalo Sabres,6,2,3,8,1,25,20,172,37,Hartford Whalers,7,0,3,4,3,30,17,131,False
+1985,10,10,16,Detroit Red Wings,5,1,5,9,2,35,31,236,24,Minnesota North Stars,3,1,2,8,4,36,32,226,False
+1985,10,10,35,Edmonton Oilers,4,0,4,7,6,35,28,178,36,Winnipeg Jets,8,2,4,8,0,5,17,108,True
+1985,10,10,22,Los Angeles Kings,3,1,3,6,4,26,34,215,25,Vancouver Canucks,4,1,2,7,4,26,22,170,False
+1985,10,10,10,New York Rangers,3,0,1,1,2,33,20,207,30,Washington Capitals,6,2,7,10,3,26,18,110,True
+1985,10,10,23,Philadelphia Flyers,9,2,4,5,1,39,24,180,39,New Jersey Devils,3,0,1,4,0,0,19,106,False
+1985,10,10,20,Pittsburgh Penguins,1,1,2,2,4,26,41,233,0,Montreal Canadiens,7,1,2,8,0,2,28,161,False
+1985,10,10,34,Quebec Nordiques,6,2,2,5,1,27,26,200,11,Chicago Black Hawks,7,0,2,5,1,34,17,150,True
+1985,10,11,38,Calgary Flames,8,1,5,7,5,30,22,131,36,Winnipeg Jets,7,1,3,3,4,30,21,133,True
+1985,10,12,16,Detroit Red Wings,5,0,6,9,5,22,35,246,6,Boston Bruins,6,2,3,6,1,29,26,171,False
+1985,10,12,37,Hartford Whalers,7,1,5,8,4,32,18,133,10,New York Rangers,4,1,4,5,2,29,20,200,True
+1985,10,12,22,Los Angeles Kings,2,1,5,8,3,28,36,223,28,New York Islanders,3,1,3,8,3,26,13,95,False
+1985,10,12,24,Minnesota North Stars,3,0,6,8,5,35,35,234,26,Buffalo Sabres,5,2,4,8,5,27,24,174,False
+1985,10,12,0,Montreal Canadiens,7,0,5,8,4,27,31,186,11,Chicago Black Hawks,7,2,2,4,2,32,22,146,True
+1985,10,12,39,New Jersey Devils,4,1,6,8,5,32,24,144,30,Washington Capitals,5,1,0,4,3,24,18,108,True
+1985,10,12,20,Pittsburgh Penguins,1,0,3,6,3,5,42,240,23,Philadelphia Flyers,8,2,5,10,1,30,30,174,False
+1985,10,12,13,Toronto Maple Leafs,3,2,1,0,3,36,57,326,34,Quebec Nordiques,6,0,6,11,2,21,27,194,False
+1985,10,12,25,Vancouver Canucks,5,0,7,9,5,37,23,181,21,St. Louis Blues,5,2,5,8,3,28,24,205,False
+1985,10,13,6,Boston Bruins,7,1,9,11,1,21,27,174,0,Montreal Canadiens,8,1,7,7,3,27,30,186,True
+1985,10,13,11,Chicago Black Hawks,6,2,3,5,6,30,26,159,13,Toronto Maple Leafs,3,0,0,1,7,35,58,318,False
+1985,10,13,35,Edmonton Oilers,5,2,4,5,0,4,25,181,21,St. Louis Blues,6,0,4,8,5,21,24,201,True
+1985,10,13,22,Los Angeles Kings,2,0,5,5,5,30,39,228,38,Calgary Flames,8,2,7,11,3,34,16,117,False
+1985,10,13,10,New York Rangers,4,2,2,4,2,8,26,200,39,New Jersey Devils,5,0,4,6,5,38,20,143,False
+1985,10,13,36,Winnipeg Jets,6,2,2,3,3,18,21,88,34,Quebec Nordiques,7,0,4,5,5,25,25,195,False
+1985,10,13,30,Washington Capitals,5,0,3,2,0,9,15,76,23,Philadelphia Flyers,8,2,4,8,6,30,31,188,False
+1985,10,14,26,Buffalo Sabres,6,0,6,8,2,30,22,169,16,Detroit Red Wings,4,2,2,5,5,19,33,209,True
+1985,10,14,25,Vancouver Canucks,4,1,3,5,4,29,22,173,28,New York Islanders,4,1,7,7,5,34,15,104,True
+1985,10,15,20,Pittsburgh Penguins,1,1,3,5,5,33,42,267,24,Minnesota North Stars,3,1,2,3,6,37,36,238,True
+1985,10,15,34,Quebec Nordiques,7,1,5,7,0,22,22,208,37,Hartford Whalers,7,1,8,12,2,35,16,145,True
+1985,10,16,11,Chicago Black Hawks,6,1,1,1,5,25,25,154,20,Pittsburgh Penguins,2,1,3,4,3,32,39,258,False
+1985,10,16,38,Calgary Flames,8,0,9,17,2,26,15,109,21,St. Louis Blues,5,2,3,4,3,24,26,208,False
+1985,10,16,16,Detroit Red Wings,3,0,1,0,4,11,34,234,36,Winnipeg Jets,5,2,2,3,5,27,23,97,False
+1985,10,16,35,Edmonton Oilers,5,1,6,9,3,38,28,203,28,New York Islanders,3,1,2,5,4,31,14,101,True
+1985,10,16,22,Los Angeles Kings,2,1,2,4,6,34,43,232,10,New York Rangers,4,1,2,4,6,21,25,208,True
+1985,10,16,0,Montreal Canadiens,8,1,2,7,3,31,29,205,26,Buffalo Sabres,7,1,6,8,1,23,21,162,False
+1985,10,16,13,Toronto Maple Leafs,3,0,5,6,1,41,52,324,30,Washington Capitals,4,2,2,4,3,23,18,90,False
+1985,10,16,25,Vancouver Canucks,4,1,4,7,2,25,20,169,6,Boston Bruins,7,1,7,11,2,32,28,177,False
+1985,10,17,24,Minnesota North Stars,3,1,2,4,3,25,30,217,16,Detroit Red Wings,3,1,3,2,1,21,28,212,True
+1985,10,17,39,New Jersey Devils,6,0,3,5,1,31,17,140,37,Hartford Whalers,6,2,1,2,1,28,18,143,False
+1985,10,17,23,Philadelphia Flyers,8,1,4,7,2,33,28,182,34,Quebec Nordiques,7,1,4,8,2,38,23,206,False
+1985,10,18,26,Buffalo Sabres,7,1,6,10,0,25,20,164,30,Washington Capitals,4,1,6,12,4,8,20,89,False
+1985,10,18,35,Edmonton Oilers,6,1,6,12,3,26,29,201,6,Boston Bruins,8,1,3,3,2,24,29,168,True
+1985,10,18,25,Vancouver Canucks,4,2,3,4,3,24,21,168,22,Los Angeles Kings,3,0,4,7,3,46,41,250,True
+1985,10,19,38,Calgary Flames,8,2,1,2,2,29,17,125,6,Boston Bruins,7,0,1,5,3,23,30,174,False
+1985,10,19,16,Detroit Red Wings,2,0,1,1,0,0,37,235,11,Chicago Black Hawks,5,2,5,9,5,27,29,181,False
+1985,10,19,37,Hartford Whalers,6,0,4,8,4,33,20,134,0,Montreal Canadiens,7,2,0,2,7,29,31,213,True
+1985,10,19,28,New York Islanders,3,1,4,4,4,31,16,102,10,New York Rangers,3,1,3,3,3,23,25,204,True
+1985,10,19,23,Philadelphia Flyers,7,2,1,2,2,44,28,176,24,Minnesota North Stars,4,0,10,16,1,33,28,225,True
+1985,10,19,34,Quebec Nordiques,7,2,3,5,1,20,22,211,20,Pittsburgh Penguins,2,0,5,7,2,24,41,268,True
+1985,10,19,21,St. Louis Blues,5,2,2,2,5,30,26,211,39,New Jersey Devils,6,0,3,6,2,35,20,131,True
+1985,10,19,13,Toronto Maple Leafs,2,0,5,8,4,28,57,321,36,Winnipeg Jets,5,2,4,8,2,25,23,119,False
+1985,10,19,30,Washington Capitals,5,1,4,6,1,24,17,105,26,Buffalo Sabres,6,1,1,1,4,29,21,196,False
+1985,10,20,11,Chicago Black Hawks,5,1,6,10,5,26,26,189,23,Philadelphia Flyers,8,1,7,13,3,16,29,148,False
+1985,10,20,22,Los Angeles Kings,3,1,4,6,9,34,43,237,35,Edmonton Oilers,6,1,3,5,4,36,28,213,False
+1985,10,20,10,New York Rangers,3,1,4,7,4,26,27,219,25,Vancouver Canucks,5,1,4,8,4,32,22,176,True
+1985,10,20,36,Winnipeg Jets,5,1,5,6,3,24,24,119,38,Calgary Flames,7,1,3,6,6,30,22,140,True
+1985,10,21,0,Montreal Canadiens,6,2,6,7,6,18,29,181,34,Quebec Nordiques,8,0,5,6,3,30,25,221,False
+1985,10,22,22,Los Angeles Kings,3,0,5,10,3,25,37,209,6,Boston Bruins,8,2,7,11,3,30,30,187,False
+1985,10,22,24,Minnesota North Stars,3,0,3,6,6,39,36,251,21,St. Louis Blues,6,2,5,6,3,36,24,217,True
+1985,10,22,28,New York Islanders,3,0,5,8,6,32,14,92,25,Vancouver Canucks,5,2,3,4,4,44,22,171,False
+1985,10,23,26,Buffalo Sabres,6,1,2,5,2,20,19,187,0,Montreal Canadiens,5,1,2,4,3,21,26,184,False
+1985,10,23,11,Chicago Black Hawks,4,1,2,4,2,35,25,186,37,Hartford Whalers,6,1,11,17,6,32,22,147,True
+1985,10,23,38,Calgary Flames,6,0,5,10,8,27,24,140,30,Washington Capitals,5,2,2,4,5,22,18,98,True
+1985,10,23,16,Detroit Red Wings,2,2,2,3,3,8,30,222,25,Vancouver Canucks,5,0,2,4,4,27,20,150,False
+1985,10,23,10,New York Rangers,4,1,4,8,3,23,26,216,39,New Jersey Devils,5,1,3,4,4,34,22,130,True
+1985,10,23,21,St. Louis Blues,6,1,4,7,5,44,29,226,24,Minnesota North Stars,4,1,5,9,4,32,34,244,False
+1985,10,23,13,Toronto Maple Leafs,1,1,3,4,4,48,57,341,20,Pittsburgh Penguins,2,1,3,5,5,42,43,282,False
+1985,10,23,36,Winnipeg Jets,5,1,8,12,5,32,26,127,35,Edmonton Oilers,7,1,8,12,2,38,29,223,True
+1985,10,24,39,New Jersey Devils,4,0,1,1,4,22,23,124,11,Chicago Black Hawks,5,2,9,12,4,42,25,189,False
+1985,10,24,28,New York Islanders,3,0,2,5,4,28,10,92,34,Quebec Nordiques,8,2,2,6,1,43,24,217,True
+1985,10,24,23,Philadelphia Flyers,8,2,5,9,2,14,28,163,37,Hartford Whalers,6,0,2,4,3,19,24,143,True
+1985,10,24,20,Pittsburgh Penguins,3,1,5,6,4,38,42,272,13,Toronto Maple Leafs,1,1,4,8,6,38,58,322,True
+1985,10,25,26,Buffalo Sabres,5,0,4,7,5,26,23,177,25,Vancouver Canucks,6,2,5,7,0,29,16,152,True
+1985,10,25,35,Edmonton Oilers,7,1,3,5,2,11,31,174,38,Calgary Flames,6,1,4,7,0,4,19,117,True
+1985,10,25,10,New York Rangers,4,0,5,7,1,32,24,241,22,Los Angeles Kings,2,2,2,3,5,26,38,213,True
+1985,10,25,36,Winnipeg Jets,6,1,10,14,3,24,24,119,30,Washington Capitals,4,1,2,4,4,32,17,108,False
+1985,10,26,38,Calgary Flames,5,1,2,4,2,29,26,140,16,Detroit Red Wings,1,1,0,0,5,26,32,240,True
+1985,10,26,0,Montreal Canadiens,5,1,5,8,5,13,32,174,37,Hartford Whalers,6,1,0,0,9,33,24,159,True
+1985,10,26,39,New Jersey Devils,4,0,4,8,0,0,24,129,22,Los Angeles Kings,2,2,0,0,5,14,38,213,True
+1985,10,26,20,Pittsburgh Penguins,4,0,6,10,4,32,42,264,34,Quebec Nordiques,8,2,5,6,2,26,29,197,False
+1985,10,26,21,St. Louis Blues,6,0,3,5,4,39,24,217,28,New York Islanders,4,2,6,10,0,17,9,66,False
+1985,10,26,13,Toronto Maple Leafs,1,1,4,7,5,29,58,316,24,Minnesota North Stars,5,1,4,7,4,28,34,232,False
+1985,10,27,26,Buffalo Sabres,6,2,5,7,4,21,23,171,24,Minnesota North Stars,6,0,7,12,7,45,35,240,True
+1985,10,27,11,Chicago Black Hawks,5,0,6,10,2,38,24,195,30,Washington Capitals,5,2,6,13,3,19,18,89,False
+1985,10,27,10,New York Rangers,5,1,5,9,0,27,23,236,6,Boston Bruins,9,1,5,10,3,36,29,190,True
+1985,10,27,23,Philadelphia Flyers,8,2,3,5,2,31,25,158,25,Vancouver Canucks,6,0,5,7,5,31,21,154,True
+1985,10,27,36,Winnipeg Jets,6,2,7,13,3,25,28,126,16,Detroit Red Wings,0,0,4,4,6,52,36,243,True
+1985,10,28,38,Calgary Flames,5,1,8,10,4,34,29,144,35,Edmonton Oilers,7,1,6,8,7,24,32,192,False
+1985,10,29,39,New Jersey Devils,5,0,5,9,5,27,26,154,6,Boston Bruins,8,2,1,2,2,33,28,174,False
+1985,10,29,28,New York Islanders,5,2,5,9,5,21,12,106,22,Los Angeles Kings,1,0,2,3,5,26,39,220,False
+1985,10,29,20,Pittsburgh Penguins,4,1,4,5,4,30,42,271,37,Hartford Whalers,5,1,3,4,3,35,20,152,False
+1985,10,29,34,Quebec Nordiques,9,1,4,8,4,35,31,201,0,Montreal Canadiens,5,1,5,9,3,23,30,184,True
+1985,10,29,30,Washington Capitals,5,2,4,5,2,39,17,109,21,St. Louis Blues,5,0,2,4,0,0,24,214,True
+1985,10,30,38,Calgary Flames,4,0,4,6,5,33,30,147,26,Buffalo Sabres,6,2,3,3,2,17,23,155,True
+1985,10,30,16,Detroit Red Wings,0,1,3,5,5,37,35,228,20,Pittsburgh Penguins,4,1,2,4,4,39,42,267,True
+1985,10,30,35,Edmonton Oilers,7,1,6,10,3,29,29,211,36,Winnipeg Jets,6,1,5,10,7,31,28,121,True
+1985,10,30,37,Hartford Whalers,5,0,4,5,5,29,20,138,34,Quebec Nordiques,9,2,7,8,6,23,31,195,True
+1985,10,30,24,Minnesota North Stars,5,1,2,2,3,45,31,236,11,Chicago Black Hawks,4,1,2,3,4,34,26,183,False
+1985,10,30,0,Montreal Canadiens,5,1,4,6,4,17,33,194,23,Philadelphia Flyers,8,1,7,12,0,25,27,151,False
+1985,10,30,25,Vancouver Canucks,5,1,4,7,5,33,21,144,13,Toronto Maple Leafs,1,1,5,9,6,32,59,315,True
+1985,10,31,6,Boston Bruins,8,2,7,9,2,20,30,167,22,Los Angeles Kings,2,0,3,4,2,25,36,219,True
+1985,10,31,39,New Jersey Devils,4,1,4,8,5,28,26,154,16,Detroit Red Wings,1,1,6,11,3,30,33,221,False
+1985,11,1,35,Edmonton Oilers,8,1,7,12,4,43,29,220,26,Buffalo Sabres,6,1,2,1,0,0,25,170,False
+1985,11,1,30,Washington Capitals,5,1,7,6,3,25,18,95,28,New York Islanders,4,1,2,3,2,49,10,118,True
+1985,11,2,6,Boston Bruins,8,0,7,12,4,26,32,177,11,Chicago Black Hawks,4,2,7,8,4,26,27,190,True
+1985,11,2,38,Calgary Flames,5,2,4,8,5,37,26,154,13,Toronto Maple Leafs,1,0,3,5,5,36,58,319,True
+1985,11,2,37,Hartford Whalers,6,1,6,9,3,21,19,150,22,Los Angeles Kings,2,1,4,4,4,28,40,228,False
+1985,11,2,24,Minnesota North Stars,5,1,5,7,6,29,34,220,36,Winnipeg Jets,5,1,3,5,3,20,29,145,False
+1985,11,2,0,Montreal Canadiens,4,2,4,6,5,28,34,205,20,Pittsburgh Penguins,4,0,4,5,4,26,43,263,False
+1985,11,2,39,New Jersey Devils,4,1,2,4,2,26,23,152,10,New York Rangers,5,1,2,6,5,38,29,231,True
+1985,11,2,28,New York Islanders,4,0,3,5,3,33,13,100,30,Washington Capitals,6,2,5,9,3,29,18,99,True
+1985,11,2,34,Quebec Nordiques,8,2,4,4,4,29,29,212,23,Philadelphia Flyers,8,0,5,7,4,31,33,167,False
+1985,11,2,21,St. Louis Blues,5,2,4,8,4,36,29,249,16,Detroit Red Wings,2,0,2,4,2,26,33,223,False
+1985,11,2,25,Vancouver Canucks,5,1,5,10,3,20,19,131,26,Buffalo Sabres,7,1,2,4,4,32,26,213,True
+1985,11,3,35,Edmonton Oilers,8,1,0,2,2,39,27,216,13,Toronto Maple Leafs,1,1,2,1,4,37,57,320,True
+1985,11,3,23,Philadelphia Flyers,8,0,5,10,3,25,32,161,22,Los Angeles Kings,3,2,8,13,1,22,31,195,True
+1985,11,3,36,Winnipeg Jets,6,1,3,5,1,34,26,156,21,St. Louis Blues,4,1,5,10,6,23,30,238,False
+1985,11,4,20,Pittsburgh Penguins,5,1,4,5,5,35,43,273,10,New York Rangers,5,1,5,9,2,4,29,211,False
+1985,11,5,37,Hartford Whalers,5,1,0,2,4,41,25,149,0,Montreal Canadiens,3,1,4,7,4,31,33,202,False
+1985,11,5,28,New York Islanders,5,1,5,8,5,31,13,98,38,Calgary Flames,5,1,5,8,2,35,25,144,False
+1985,11,5,34,Quebec Nordiques,7,2,3,6,5,34,33,212,6,Boston Bruins,8,0,5,10,4,30,32,183,True
+1985,11,5,25,Vancouver Canucks,6,1,5,7,2,28,18,139,35,Edmonton Oilers,8,1,7,12,0,12,23,167,False
+1985,11,5,30,Washington Capitals,6,2,3,8,4,11,20,99,11,Chicago Black Hawks,4,0,4,8,0,4,26,168,True
+1985,11,6,26,Buffalo Sabres,6,1,2,4,0,37,28,207,36,Winnipeg Jets,6,1,3,6,7,44,29,151,True
+1985,11,6,16,Detroit Red Wings,3,1,5,10,5,43,36,240,21,St. Louis Blues,4,1,4,5,3,35,31,244,True
+1985,11,6,22,Los Angeles Kings,3,0,4,5,7,37,37,210,35,Edmonton Oilers,8,2,5,11,4,26,27,181,False
+1985,11,6,24,Minnesota North Stars,4,2,1,2,2,22,30,223,0,Montreal Canadiens,3,0,8,14,6,30,32,196,False
+1985,11,6,39,New Jersey Devils,4,0,6,9,5,24,26,150,38,Calgary Flames,5,2,4,3,4,29,27,157,False
+1985,11,6,10,New York Rangers,5,0,4,7,2,18,29,225,23,Philadelphia Flyers,9,2,7,14,4,24,36,172,False
+1985,11,6,20,Pittsburgh Penguins,5,0,2,4,4,36,42,274,30,Washington Capitals,7,2,8,14,5,29,20,118,False
+1985,11,6,13,Toronto Maple Leafs,1,1,1,0,6,28,60,311,28,New York Islanders,4,1,4,8,3,31,12,103,False
+1985,11,7,6,Boston Bruins,7,1,5,9,4,32,35,197,37,Hartford Whalers,4,1,3,4,8,31,29,143,True
+1985,11,7,23,Philadelphia Flyers,9,1,5,7,4,22,34,185,11,Chicago Black Hawks,4,1,4,6,8,33,31,192,True
+1985,11,8,26,Buffalo Sabres,6,0,7,10,6,26,30,202,21,St. Louis Blues,3,2,2,4,5,25,32,237,True
+1985,11,8,16,Detroit Red Wings,4,1,4,7,2,32,33,229,13,Toronto Maple Leafs,1,1,4,7,7,28,59,317,False
+1985,11,8,35,Edmonton Oilers,8,1,4,7,4,49,27,204,25,Vancouver Canucks,5,1,4,7,2,11,21,133,True
+1985,11,8,39,New Jersey Devils,3,1,2,4,0,10,20,128,20,Pittsburgh Penguins,4,1,2,2,6,39,42,263,True
+1985,11,8,36,Winnipeg Jets,6,2,2,6,4,29,29,141,10,New York Rangers,5,0,1,3,5,32,26,230,False
+1985,11,9,22,Los Angeles Kings,2,0,4,7,4,32,31,204,0,Montreal Canadiens,4,2,3,6,4,25,27,181,False
+1985,11,9,24,Minnesota North Stars,4,1,2,3,3,34,31,235,10,New York Rangers,6,1,7,15,5,34,24,227,True
+1985,11,9,28,New York Islanders,5,1,5,8,4,36,13,105,39,New Jersey Devils,3,1,5,7,3,27,23,145,True
+1985,11,9,23,Philadelphia Flyers,9,1,6,10,2,37,32,183,6,Boston Bruins,7,1,2,6,7,44,32,196,True
+1985,11,9,20,Pittsburgh Penguins,3,1,3,6,4,25,40,254,11,Chicago Black Hawks,4,1,2,4,6,37,31,200,True
+1985,11,9,34,Quebec Nordiques,7,1,7,11,5,18,32,181,37,Hartford Whalers,4,1,2,2,8,35,23,131,False
+1985,11,9,13,Toronto Maple Leafs,1,2,3,5,3,36,55,325,21,St. Louis Blues,3,0,4,7,1,28,27,221,False
+1985,11,9,36,Winnipeg Jets,5,2,3,3,3,14,21,108,25,Vancouver Canucks,5,0,0,0,5,22,32,166,False
+1985,11,9,30,Washington Capitals,7,1,4,7,4,30,16,128,38,Calgary Flames,6,1,4,5,2,28,19,159,False
+1985,11,10,6,Boston Bruins,6,2,3,5,1,31,30,180,24,Minnesota North Stars,5,0,4,7,3,42,31,243,True
+1985,11,10,26,Buffalo Sabres,6,1,5,7,3,26,28,199,38,Calgary Flames,7,1,6,8,2,36,22,152,True
+1985,11,11,10,New York Rangers,6,0,2,6,3,29,23,215,11,Chicago Black Hawks,4,2,1,2,3,34,28,197,False
+1985,11,11,25,Vancouver Canucks,5,1,8,11,2,42,29,186,16,Detroit Red Wings,4,1,3,5,3,38,34,235,True
+1985,11,12,28,New York Islanders,6,1,3,5,4,33,11,111,0,Montreal Canadiens,5,1,6,8,3,25,24,183,False
+1985,11,12,21,St. Louis Blues,3,1,2,4,2,33,28,226,13,Toronto Maple Leafs,1,1,2,4,2,25,54,314,True
+1985,11,12,30,Washington Capitals,6,1,4,8,1,39,17,116,35,Edmonton Oilers,8,1,13,22,0,29,23,184,True
+1985,11,13,26,Buffalo Sabres,7,0,5,9,4,23,26,191,6,Boston Bruins,7,2,1,4,5,28,30,169,True
+1985,11,13,11,Chicago Black Hawks,4,0,5,7,4,32,29,195,34,Quebec Nordiques,6,2,3,7,1,14,35,199,True
+1985,11,13,38,Calgary Flames,7,1,1,2,4,33,27,178,36,Winnipeg Jets,4,1,2,3,0,4,21,103,False
+1985,11,13,37,Hartford Whalers,4,0,4,6,3,22,18,118,24,Minnesota North Stars,4,2,2,2,2,27,30,228,True
+1985,11,13,22,Los Angeles Kings,2,1,0,0,0,1,33,197,16,Detroit Red Wings,4,1,0,0,5,37,36,234,False
+1985,11,13,10,New York Rangers,6,0,4,5,5,34,25,220,0,Montreal Canadiens,6,2,3,6,3,24,24,190,True
+1985,11,13,25,Vancouver Canucks,6,1,5,9,0,20,27,164,20,Pittsburgh Penguins,4,1,3,3,1,19,37,248,False
+1985,11,14,23,Philadelphia Flyers,10,2,5,8,7,30,31,152,35,Edmonton Oilers,7,0,2,3,4,25,27,180,True
+1985,11,14,21,St. Louis Blues,3,1,4,5,3,33,28,229,34,Quebec Nordiques,5,1,4,8,4,26,40,218,True
+1985,11,14,13,Toronto Maple Leafs,1,0,2,6,4,46,56,335,6,Boston Bruins,6,2,4,6,1,20,30,174,False
+1985,11,15,36,Winnipeg Jets,4,2,3,5,3,37,24,136,39,New Jersey Devils,3,0,2,2,3,36,23,154,True
+1985,11,15,30,Washington Capitals,7,2,5,7,2,30,18,107,25,Vancouver Canucks,5,0,3,5,6,26,33,170,True
+1985,11,16,6,Boston Bruins,6,1,3,9,6,27,35,181,30,Washington Capitals,8,1,4,7,3,30,19,107,False
+1985,11,16,38,Calgary Flames,6,2,3,7,3,37,28,172,39,New Jersey Devils,3,0,3,5,4,19,25,145,True
+1985,11,16,37,Hartford Whalers,4,0,5,8,2,22,17,121,23,Philadelphia Flyers,10,2,4,9,3,32,27,154,False
+1985,11,16,22,Los Angeles Kings,2,2,2,1,6,36,41,230,20,Pittsburgh Penguins,4,0,6,7,3,26,39,255,True
+1985,11,16,24,Minnesota North Stars,4,2,2,4,5,29,33,230,16,Detroit Red Wings,5,0,7,11,2,36,33,233,False
+1985,11,16,0,Montreal Canadiens,6,1,3,3,0,22,20,201,10,New York Rangers,6,1,5,9,2,28,25,222,False
+1985,11,16,28,New York Islanders,5,0,2,4,2,42,10,106,35,Edmonton Oilers,7,2,3,6,5,30,28,185,False
+1985,11,16,34,Quebec Nordiques,4,1,2,5,5,21,35,206,26,Buffalo Sabres,7,1,6,11,4,33,26,201,True
+1985,11,16,21,St. Louis Blues,4,2,5,10,3,45,28,241,25,Vancouver Canucks,4,0,3,6,13,44,32,169,True
+1985,11,16,13,Toronto Maple Leafs,1,1,6,12,6,36,58,325,11,Chicago Black Hawks,5,1,6,9,4,45,26,201,True
+1985,11,17,26,Buffalo Sabres,7,2,1,2,1,18,25,198,13,Toronto Maple Leafs,2,0,6,8,5,34,56,316,False
+1985,11,17,11,Chicago Black Hawks,4,1,4,8,6,40,28,196,24,Minnesota North Stars,3,1,2,2,5,36,32,230,False
+1985,11,17,10,New York Rangers,6,2,2,2,2,31,25,225,35,Edmonton Oilers,7,0,4,8,4,36,27,191,False
+1985,11,17,23,Philadelphia Flyers,10,2,5,6,2,33,26,155,28,New York Islanders,5,0,4,5,3,28,12,99,True
+1985,11,17,36,Winnipeg Jets,4,2,5,8,3,22,26,120,38,Calgary Flames,7,0,7,11,2,24,23,139,False
+1985,11,18,0,Montreal Canadiens,5,0,2,3,2,32,24,194,6,Boston Bruins,6,2,2,3,5,18,36,192,True
+1985,11,19,38,Calgary Flames,7,1,5,9,4,26,26,150,24,Minnesota North Stars,3,1,5,8,4,29,32,225,False
+1985,11,19,16,Detroit Red Wings,6,0,4,6,2,31,33,228,25,Vancouver Canucks,4,2,4,8,5,25,25,159,False
+1985,11,19,37,Hartford Whalers,4,1,2,3,2,25,20,129,26,Buffalo Sabres,6,1,3,5,3,30,27,191,False
+1985,11,19,22,Los Angeles Kings,3,1,4,7,3,29,38,223,39,New Jersey Devils,3,1,2,4,6,33,26,147,False
+1985,11,19,28,New York Islanders,4,0,3,8,4,40,9,80,23,Philadelphia Flyers,10,2,5,10,4,33,28,155,True
+1985,11,19,34,Quebec Nordiques,4,0,4,6,6,33,31,209,35,Edmonton Oilers,7,2,3,5,2,35,25,190,False
+1985,11,19,30,Washington Capitals,8,2,3,4,5,33,24,148,20,Pittsburgh Penguins,3,0,3,6,4,30,40,255,True
+1985,11,20,11,Chicago Black Hawks,3,1,5,9,5,34,30,191,25,Vancouver Canucks,5,1,7,10,5,27,25,161,True
+1985,11,20,0,Montreal Canadiens,5,1,6,10,5,30,24,181,35,Edmonton Oilers,7,1,5,8,4,36,27,191,False
+1985,11,20,10,New York Rangers,5,2,2,5,3,33,26,227,13,Toronto Maple Leafs,3,0,5,7,3,23,54,305,True
+1985,11,20,20,Pittsburgh Penguins,3,0,3,6,4,26,40,250,30,Washington Capitals,8,2,4,7,0,0,20,113,False
+1985,11,20,36,Winnipeg Jets,4,1,3,7,5,29,28,127,21,St. Louis Blues,5,1,6,10,5,22,29,244,True
+1985,11,21,6,Boston Bruins,5,1,4,5,2,20,35,195,28,New York Islanders,4,1,8,10,5,31,11,78,False
+1985,11,21,16,Detroit Red Wings,6,2,5,8,6,23,37,220,22,Los Angeles Kings,3,0,3,4,7,34,43,241,False
+1985,11,21,24,Minnesota North Stars,3,2,3,5,3,36,26,210,21,St. Louis Blues,5,0,1,2,5,39,27,247,False
+1985,11,21,23,Philadelphia Flyers,9,2,7,11,3,17,29,152,37,Hartford Whalers,4,0,0,0,1,34,17,141,True
+1985,11,22,26,Buffalo Sabres,6,1,2,3,0,23,28,208,34,Quebec Nordiques,4,1,3,7,1,24,30,212,True
+1985,11,22,20,Pittsburgh Penguins,3,0,1,2,3,20,39,244,36,Winnipeg Jets,4,2,3,2,1,36,24,134,True
+1985,11,22,25,Vancouver Canucks,4,2,1,0,2,29,22,163,39,New Jersey Devils,4,0,6,8,1,13,23,143,False
+1985,11,23,6,Boston Bruins,4,1,2,5,6,27,37,212,23,Philadelphia Flyers,9,1,3,6,0,24,26,159,True
+1985,11,23,35,Edmonton Oilers,8,1,5,9,4,33,27,188,39,New Jersey Devils,4,1,6,9,3,29,27,159,True
+1985,11,23,37,Hartford Whalers,4,1,0,0,3,32,19,139,36,Winnipeg Jets,4,1,2,2,7,24,31,144,True
+1985,11,23,24,Minnesota North Stars,3,1,2,4,3,13,27,197,22,Los Angeles Kings,4,1,5,9,4,30,40,237,True
+1985,11,23,0,Montreal Canadiens,5,0,4,8,2,24,21,169,38,Calgary Flames,7,2,3,6,3,33,27,184,True
+1985,11,23,28,New York Islanders,5,2,4,9,6,38,10,80,10,New York Rangers,5,0,7,9,2,21,22,197,False
+1985,11,23,21,St. Louis Blues,6,0,4,3,2,29,24,221,11,Chicago Black Hawks,4,2,2,4,0,17,25,174,False
+1985,11,23,13,Toronto Maple Leafs,3,1,3,4,7,47,58,329,16,Detroit Red Wings,6,1,4,8,5,35,36,232,True
+1985,11,23,30,Washington Capitals,8,1,3,4,3,27,19,139,34,Quebec Nordiques,3,1,5,7,5,36,34,212,True
+1985,11,24,11,Chicago Black Hawks,4,1,7,11,5,32,28,205,22,Los Angeles Kings,3,1,2,4,4,35,40,242,False
+1985,11,24,10,New York Rangers,6,1,5,8,1,4,19,192,28,New York Islanders,5,1,0,0,4,33,9,72,False
+1985,11,24,23,Philadelphia Flyers,8,2,4,8,7,36,28,172,20,Pittsburgh Penguins,4,0,8,12,4,25,37,252,True
+1985,11,25,26,Buffalo Sabres,7,2,7,13,5,22,26,189,24,Minnesota North Stars,4,0,4,7,4,23,26,211,False
+1985,11,26,39,New Jersey Devils,4,0,2,3,5,29,27,157,36,Winnipeg Jets,3,2,1,2,2,9,24,105,True
+1985,11,26,34,Quebec Nordiques,2,2,1,1,6,26,32,205,38,Calgary Flames,6,0,3,5,4,19,20,117,False
+1985,11,26,21,St. Louis Blues,6,2,3,4,3,25,29,227,13,Toronto Maple Leafs,4,0,10,14,1,16,50,276,True
+1985,11,26,25,Vancouver Canucks,3,0,5,7,6,38,26,172,11,Chicago Black Hawks,4,2,4,7,3,48,27,204,False
+1985,11,27,16,Detroit Red Wings,5,1,3,4,7,35,36,230,26,Buffalo Sabres,6,1,3,6,5,36,29,218,True
+1985,11,27,35,Edmonton Oilers,8,2,3,6,2,25,25,180,25,Vancouver Canucks,3,0,2,6,4,22,24,156,False
+1985,11,27,22,Los Angeles Kings,4,1,4,6,0,0,40,251,37,Hartford Whalers,4,1,8,16,1,18,15,115,False
+1985,11,27,24,Minnesota North Stars,5,2,4,7,3,30,25,218,28,New York Islanders,5,0,4,5,5,30,8,71,False
+1985,11,27,10,New York Rangers,5,0,3,6,0,17,22,210,38,Calgary Flames,6,2,3,6,1,32,21,150,False
+1985,11,27,23,Philadelphia Flyers,8,0,7,12,5,33,25,168,36,Winnipeg Jets,3,2,3,6,4,25,26,121,True
+1985,11,27,20,Pittsburgh Penguins,3,2,3,7,1,28,39,262,13,Toronto Maple Leafs,4,0,1,2,2,5,54,296,True
+1985,11,27,30,Washington Capitals,8,1,2,5,1,23,16,143,0,Montreal Canadiens,6,1,4,5,3,39,29,200,True
+1985,11,28,6,Boston Bruins,4,0,5,7,4,37,32,219,34,Quebec Nordiques,2,2,1,2,3,29,29,206,False
+1985,11,29,26,Buffalo Sabres,6,1,1,1,3,18,25,167,0,Montreal Canadiens,6,1,3,5,2,21,30,190,False
+1985,11,29,16,Detroit Red Wings,5,2,4,4,1,16,30,211,21,St. Louis Blues,6,0,5,10,7,35,26,229,True
+1985,11,29,24,Minnesota North Stars,5,0,4,7,2,27,26,215,23,Philadelphia Flyers,8,2,5,10,1,15,21,150,False
+1985,11,29,25,Vancouver Canucks,4,2,5,8,1,16,19,133,37,Hartford Whalers,4,0,9,13,5,30,14,127,False
+1985,11,29,36,Winnipeg Jets,3,1,1,2,6,22,28,137,28,New York Islanders,6,1,5,6,3,32,7,76,False
+1985,11,29,30,Washington Capitals,9,1,5,8,0,31,18,142,10,New York Rangers,5,1,2,4,5,37,25,229,False
+1985,11,30,38,Calgary Flames,6,2,5,7,2,32,22,144,28,New York Islanders,6,0,4,6,4,35,5,68,True
+1985,11,30,35,Edmonton Oilers,7,1,5,8,1,16,28,200,37,Hartford Whalers,5,1,5,8,3,29,13,106,True
+1985,11,30,22,Los Angeles Kings,3,2,0,0,3,10,44,240,11,Chicago Black Hawks,5,0,5,7,3,25,27,181,False
+1985,11,30,0,Montreal Canadiens,6,2,5,6,4,29,28,185,16,Detroit Red Wings,5,0,5,9,2,11,32,217,True
+1985,11,30,39,New Jersey Devils,5,2,4,7,3,27,25,159,30,Washington Capitals,8,0,2,4,3,22,23,137,False
+1985,11,30,20,Pittsburgh Penguins,4,0,8,11,1,21,39,255,10,New York Rangers,5,2,5,8,2,29,30,235,True
+1985,11,30,34,Quebec Nordiques,3,2,3,5,0,27,21,194,6,Boston Bruins,4,0,0,0,4,30,36,202,True
+1985,11,30,21,St. Louis Blues,6,1,3,4,5,26,25,200,24,Minnesota North Stars,4,1,2,1,4,27,28,216,True
+1985,11,30,13,Toronto Maple Leafs,4,1,1,1,3,3,54,290,26,Buffalo Sabres,5,1,2,2,4,31,27,181,True
+1985,12,1,6,Boston Bruins,3,2,0,0,3,25,34,189,39,New Jersey Devils,4,0,2,3,5,27,28,173,True
+1985,12,1,35,Edmonton Oilers,7,2,8,13,5,45,32,213,38,Calgary Flames,6,0,4,7,3,28,20,145,True
+1985,12,1,36,Winnipeg Jets,3,1,1,2,1,12,20,98,23,Philadelphia Flyers,8,1,4,6,1,26,22,125,True
+1985,12,2,0,Montreal Canadiens,6,0,10,14,2,25,23,179,25,Vancouver Canucks,3,2,4,5,4,13,19,124,True
+1985,12,2,10,New York Rangers,5,1,5,5,5,22,33,228,20,Pittsburgh Penguins,5,1,5,10,4,39,42,273,False
+1985,12,3,16,Detroit Red Wings,4,0,1,3,0,0,37,213,23,Philadelphia Flyers,7,2,1,2,2,33,23,132,True
+1985,12,3,22,Los Angeles Kings,3,0,4,3,6,30,44,256,35,Edmonton Oilers,7,2,5,10,5,29,30,209,False
+1985,12,3,24,Minnesota North Stars,4,1,3,5,4,28,28,235,11,Chicago Black Hawks,6,1,4,7,4,24,30,183,True
+1985,12,3,28,New York Islanders,5,1,3,7,1,24,5,62,36,Winnipeg Jets,4,1,2,3,1,39,18,126,False
+1985,12,4,38,Calgary Flames,5,2,4,6,5,16,17,99,37,Hartford Whalers,5,0,5,10,1,10,18,113,True
+1985,12,4,10,New York Rangers,5,1,0,0,4,20,30,212,36,Winnipeg Jets,4,1,4,7,4,21,21,108,True
+1985,12,4,20,Pittsburgh Penguins,6,0,5,12,0,40,38,274,16,Detroit Red Wings,5,2,4,7,5,11,38,249,True
+1985,12,4,34,Quebec Nordiques,3,1,2,4,0,33,23,210,25,Vancouver Canucks,2,1,0,0,7,27,22,138,True
+1985,12,4,21,St. Louis Blues,7,1,4,8,1,15,30,225,26,Buffalo Sabres,4,1,2,4,5,32,25,196,False
+1985,12,4,13,Toronto Maple Leafs,4,0,3,3,2,21,53,308,39,New Jersey Devils,4,2,2,5,3,31,27,169,True
+1985,12,5,6,Boston Bruins,4,1,4,6,2,17,33,189,0,Montreal Canadiens,6,1,7,10,0,26,21,180,True
+1985,12,5,35,Edmonton Oilers,8,2,8,12,3,41,29,211,22,Los Angeles Kings,3,0,4,6,4,26,46,259,False
+1985,12,5,23,Philadelphia Flyers,6,2,1,1,0,1,25,136,13,Toronto Maple Leafs,5,0,10,15,7,36,58,323,False
+1985,12,5,30,Washington Capitals,8,2,6,11,5,26,24,148,21,St. Louis Blues,6,0,3,4,3,32,34,245,True
+1985,12,6,26,Buffalo Sabres,4,2,6,9,3,29,24,208,20,Pittsburgh Penguins,6,0,5,10,4,36,40,261,False
+1985,12,6,38,Calgary Flames,6,1,8,11,0,7,22,143,11,Chicago Black Hawks,6,1,2,3,4,31,35,191,True
+1985,12,6,39,New Jersey Devils,3,1,6,10,4,23,28,125,25,Vancouver Canucks,2,1,4,6,5,28,20,139,True
+1985,12,6,34,Quebec Nordiques,4,1,5,8,3,27,27,199,28,New York Islanders,5,1,4,9,4,32,8,70,True
+1985,12,7,35,Edmonton Oilers,8,2,6,12,6,26,32,196,24,Minnesota North Stars,5,0,9,14,4,46,23,225,True
+1985,12,7,37,Hartford Whalers,5,1,5,9,8,29,29,152,6,Boston Bruins,4,1,8,13,2,25,34,191,True
+1985,12,7,28,New York Islanders,5,1,3,3,1,9,7,45,34,Quebec Nordiques,5,1,7,14,4,22,27,196,False
+1985,12,7,23,Philadelphia Flyers,5,2,3,6,1,9,24,116,10,New York Rangers,5,0,7,8,3,30,30,223,True
+1985,12,7,20,Pittsburgh Penguins,6,0,3,4,1,15,35,225,39,New Jersey Devils,4,2,4,5,1,25,25,127,False
+1985,12,7,21,St. Louis Blues,5,0,2,4,3,28,29,242,16,Detroit Red Wings,5,2,2,3,1,36,39,279,True
+1985,12,7,13,Toronto Maple Leafs,6,2,6,10,9,31,54,323,0,Montreal Canadiens,5,0,6,9,1,17,29,172,False
+1985,12,7,36,Winnipeg Jets,3,1,4,8,3,22,27,101,22,Los Angeles Kings,4,1,7,11,6,46,53,278,False
+1985,12,7,30,Washington Capitals,9,2,3,6,2,36,21,140,25,Vancouver Canucks,2,0,1,1,1,3,19,128,True
+1985,12,8,6,Boston Bruins,4,1,3,4,6,27,39,190,26,Buffalo Sabres,3,1,1,1,2,29,24,187,False
+1985,12,8,35,Edmonton Oilers,8,2,8,14,1,13,26,169,11,Chicago Black Hawks,5,0,2,3,5,36,36,196,True
+1985,12,8,10,New York Rangers,4,0,0,0,4,31,31,232,23,Philadelphia Flyers,5,2,4,7,5,17,23,130,True
+1985,12,8,36,Winnipeg Jets,3,1,2,4,3,19,27,98,22,Los Angeles Kings,5,1,3,1,2,31,49,263,False
+1985,12,9,24,Minnesota North Stars,5,1,4,7,3,16,29,188,39,New Jersey Devils,5,1,5,9,1,25,25,127,False
+1985,12,10,38,Calgary Flames,7,2,4,7,5,35,21,139,22,Los Angeles Kings,5,0,4,5,1,26,48,258,True
+1985,12,10,28,New York Islanders,5,2,1,4,4,48,10,84,20,Pittsburgh Penguins,6,0,2,2,0,12,39,240,True
+1985,12,10,23,Philadelphia Flyers,5,1,1,2,1,18,21,121,6,Boston Bruins,3,1,3,4,7,24,36,193,True
+1985,12,10,34,Quebec Nordiques,6,1,4,6,3,24,25,219,26,Buffalo Sabres,4,1,3,6,3,28,24,176,True
+1985,12,10,21,St. Louis Blues,5,0,5,7,5,35,30,242,35,Edmonton Oilers,8,2,3,7,3,17,28,187,True
+1985,12,10,30,Washington Capitals,9,2,2,3,2,18,17,129,13,Toronto Maple Leafs,6,0,3,3,3,20,48,286,True
+1985,12,11,11,Chicago Black Hawks,4,0,3,5,9,32,35,182,35,Edmonton Oilers,7,2,3,6,3,31,32,201,False
+1985,12,11,16,Detroit Red Wings,4,1,4,8,5,36,40,253,24,Minnesota North Stars,4,1,4,6,5,17,31,199,False
+1985,12,11,37,Hartford Whalers,5,0,7,11,2,21,21,145,0,Montreal Canadiens,6,2,6,10,3,24,31,179,False
+1985,12,11,39,New Jersey Devils,6,1,6,9,4,32,28,134,10,New York Rangers,5,1,3,6,1,29,28,230,False
+1985,12,11,20,Pittsburgh Penguins,6,0,4,7,5,30,44,258,28,New York Islanders,5,2,7,11,6,27,10,62,False
+1985,12,11,13,Toronto Maple Leafs,5,0,2,6,3,42,48,308,21,St. Louis Blues,5,2,7,13,4,28,29,237,True
+1985,12,11,25,Vancouver Canucks,2,1,2,3,2,33,20,158,36,Winnipeg Jets,2,1,1,4,5,14,28,112,False
+1985,12,12,6,Boston Bruins,3,0,4,7,3,30,36,190,34,Quebec Nordiques,6,2,7,12,1,34,25,220,False
+1985,12,12,38,Calgary Flames,7,2,7,8,5,28,19,144,22,Los Angeles Kings,5,0,5,9,8,33,52,271,True
+1985,12,12,23,Philadelphia Flyers,5,2,7,11,4,31,24,132,0,Montreal Canadiens,7,0,3,5,1,34,31,199,True
+1985,12,13,26,Buffalo Sabres,4,1,3,5,2,6,23,130,37,Hartford Whalers,4,1,1,2,3,15,22,139,False
+1985,12,13,36,Winnipeg Jets,3,1,6,10,3,32,26,130,35,Edmonton Oilers,7,1,12,24,5,27,31,185,False
+1985,12,14,6,Boston Bruins,3,0,1,0,7,23,34,202,10,New York Rangers,5,2,4,7,4,39,29,224,True
+1985,12,14,16,Detroit Red Wings,3,1,2,2,5,38,45,242,23,Philadelphia Flyers,6,1,6,8,2,13,23,127,False
+1985,12,14,37,Hartford Whalers,5,2,6,10,4,29,23,153,20,Pittsburgh Penguins,6,0,4,8,5,30,43,264,True
+1985,12,14,22,Los Angeles Kings,4,1,0,0,5,40,44,291,30,Washington Capitals,9,1,3,4,1,22,15,139,False
+1985,12,14,24,Minnesota North Stars,4,2,10,17,2,29,27,217,13,Toronto Maple Leafs,5,0,6,12,4,31,49,297,False
+1985,12,14,0,Montreal Canadiens,6,1,3,5,0,8,31,173,11,Chicago Black Hawks,4,1,7,17,2,8,31,189,True
+1985,12,14,28,New York Islanders,5,2,4,7,4,26,8,66,21,St. Louis Blues,5,0,4,7,3,36,32,252,False
+1985,12,14,34,Quebec Nordiques,7,0,1,2,1,23,25,209,39,New Jersey Devils,5,2,2,4,3,9,28,128,True
+1985,12,14,25,Vancouver Canucks,1,0,3,6,6,29,24,147,38,Calgary Flames,7,2,5,6,2,26,14,141,True
+1985,12,15,26,Buffalo Sabres,3,1,4,8,5,30,29,176,34,Quebec Nordiques,8,1,9,17,3,30,27,216,True
+1985,12,15,11,Chicago Black Hawks,4,2,3,4,10,36,34,211,16,Detroit Red Wings,3,0,4,7,10,25,48,258,True
+1985,12,15,35,Edmonton Oilers,7,1,5,7,0,10,25,161,25,Vancouver Canucks,2,1,4,5,3,30,21,148,True
+1985,12,15,39,New Jersey Devils,4,0,4,7,4,26,34,158,21,St. Louis Blues,5,2,2,2,6,38,31,258,False
+1985,12,15,10,New York Rangers,4,0,2,4,2,23,29,217,20,Pittsburgh Penguins,5,2,4,8,4,36,43,277,False
+1985,12,15,36,Winnipeg Jets,3,2,3,6,4,33,29,134,13,Toronto Maple Leafs,6,0,6,12,6,31,51,297,False
+1985,12,16,0,Montreal Canadiens,7,2,6,8,3,30,30,193,37,Hartford Whalers,6,0,5,8,4,27,22,157,False
+1985,12,17,24,Minnesota North Stars,4,1,4,11,5,27,29,220,16,Detroit Red Wings,3,1,4,8,6,34,44,267,True
+1985,12,17,39,New Jersey Devils,4,1,2,5,9,39,33,160,23,Philadelphia Flyers,6,1,6,9,4,23,22,119,True
+1985,12,17,28,New York Islanders,5,1,2,5,4,31,6,69,26,Buffalo Sabres,3,1,5,12,2,24,26,170,True
+1985,12,17,20,Pittsburgh Penguins,6,2,5,9,5,43,41,281,38,Calgary Flames,7,0,3,7,3,9,16,118,True
+1985,12,17,21,St. Louis Blues,6,1,3,5,2,42,24,232,36,Winnipeg Jets,3,1,3,4,3,4,28,135,True
+1985,12,17,25,Vancouver Canucks,2,0,3,6,0,0,20,132,30,Washington Capitals,9,2,5,5,2,16,18,144,False
+1985,12,18,11,Chicago Black Hawks,4,1,7,9,4,27,28,202,36,Winnipeg Jets,3,1,6,12,3,34,33,166,True
+1985,12,18,35,Edmonton Oilers,8,0,5,10,3,12,28,182,30,Washington Capitals,9,2,4,6,4,27,20,164,False
+1985,12,18,37,Hartford Whalers,7,0,4,6,8,36,26,161,38,Calgary Flames,7,2,3,6,2,13,16,117,True
+1985,12,18,22,Los Angeles Kings,4,1,4,8,5,50,44,283,13,Toronto Maple Leafs,6,1,3,6,3,45,48,311,True
+1985,12,18,0,Montreal Canadiens,6,0,4,7,6,28,31,192,34,Quebec Nordiques,8,2,2,4,6,37,31,217,True
+1985,12,18,10,New York Rangers,4,0,2,2,1,6,23,182,26,Buffalo Sabres,3,2,3,2,2,10,27,132,False
+1985,12,19,6,Boston Bruins,4,1,6,8,1,42,31,225,37,Hartford Whalers,7,1,4,6,4,29,21,155,True
+1985,12,19,24,Minnesota North Stars,4,1,7,10,3,38,27,231,20,Pittsburgh Penguins,6,1,4,8,2,40,39,273,False
+1985,12,19,23,Philadelphia Flyers,5,0,4,6,3,9,27,137,39,New Jersey Devils,4,2,7,12,3,28,28,155,True
+1985,12,19,34,Quebec Nordiques,8,1,2,2,3,25,28,222,0,Montreal Canadiens,7,1,3,5,4,29,27,189,True
+1985,12,20,35,Edmonton Oilers,7,1,2,5,3,31,30,207,22,Los Angeles Kings,4,1,4,8,5,32,42,268,True
+1985,12,20,10,New York Rangers,4,1,4,6,4,20,27,209,28,New York Islanders,5,1,7,11,2,29,5,80,False
+1985,12,20,21,St. Louis Blues,6,2,8,15,2,36,30,279,38,Calgary Flames,6,0,3,4,4,37,18,123,True
+1985,12,20,25,Vancouver Canucks,2,1,4,7,4,28,28,187,13,Toronto Maple Leafs,6,1,3,5,4,34,49,300,True
+1985,12,20,36,Winnipeg Jets,3,1,4,8,8,35,35,159,30,Washington Capitals,9,1,5,4,4,36,18,159,True
+1985,12,21,6,Boston Bruins,4,2,2,1,2,26,33,202,24,Minnesota North Stars,3,0,4,4,6,28,29,227,True
+1985,12,21,16,Detroit Red Wings,3,0,3,2,5,32,43,258,11,Chicago Black Hawks,4,2,5,9,5,30,26,196,False
+1985,12,21,37,Hartford Whalers,6,2,1,2,2,47,19,173,39,New Jersey Devils,4,0,3,6,4,34,31,171,True
+1985,12,21,22,Los Angeles Kings,4,0,4,7,3,35,46,279,25,Vancouver Canucks,2,2,5,5,1,18,22,144,False
+1985,12,21,0,Montreal Canadiens,6,2,4,7,2,25,28,192,26,Buffalo Sabres,4,0,5,8,4,36,27,153,True
+1985,12,21,28,New York Islanders,5,2,2,3,2,33,5,84,10,New York Rangers,3,0,3,4,2,31,25,220,False
+1985,12,21,20,Pittsburgh Penguins,6,0,4,6,3,35,40,273,23,Philadelphia Flyers,5,2,5,7,4,20,29,144,False
+1985,12,22,26,Buffalo Sabres,4,2,2,0,3,33,26,150,6,Boston Bruins,5,0,5,7,1,24,33,204,True
+1985,12,22,11,Chicago Black Hawks,5,1,6,11,3,25,26,195,38,Calgary Flames,5,1,1,4,4,33,21,122,True
+1985,12,22,35,Edmonton Oilers,7,2,9,16,5,37,31,208,36,Winnipeg Jets,3,0,7,10,4,32,31,156,False
+1985,12,22,39,New Jersey Devils,4,2,6,8,6,44,34,164,24,Minnesota North Stars,3,0,2,3,5,29,28,228,False
+1985,12,22,23,Philadelphia Flyers,6,2,4,6,2,38,27,162,20,Pittsburgh Penguins,5,0,2,4,3,40,41,273,True
+1985,12,22,34,Quebec Nordiques,8,1,5,12,3,42,29,229,30,Washington Capitals,8,1,4,6,2,40,23,157,False
+1985,12,23,37,Hartford Whalers,6,1,7,13,6,31,23,157,28,New York Islanders,4,1,4,8,1,17,5,47,False
+1985,12,23,10,New York Rangers,4,1,5,8,4,35,27,224,16,Detroit Red Wings,2,1,3,6,5,18,41,244,True
+1985,12,23,25,Vancouver Canucks,3,1,6,7,2,30,23,156,36,Winnipeg Jets,3,1,7,11,5,27,32,152,True
+1985,12,26,26,Buffalo Sabres,5,2,5,6,3,32,25,154,10,New York Rangers,5,0,10,19,2,18,27,215,True
+1985,12,26,16,Detroit Red Wings,1,0,2,4,3,12,40,246,13,Toronto Maple Leafs,6,2,2,5,3,10,49,305,False
+1985,12,26,28,New York Islanders,5,1,6,12,3,46,7,76,37,Hartford Whalers,6,1,3,6,3,30,23,149,False
+1985,12,26,20,Pittsburgh Penguins,4,1,2,3,4,35,41,271,6,Boston Bruins,5,1,3,5,2,28,36,207,True
+1985,12,26,21,St. Louis Blues,7,0,5,9,6,44,31,238,11,Chicago Black Hawks,5,2,5,7,2,30,23,181,True
+1985,12,26,36,Winnipeg Jets,3,2,3,6,4,7,27,130,24,Minnesota North Stars,4,0,8,14,4,34,26,233,False
+1985,12,26,30,Washington Capitals,8,2,7,11,6,31,26,158,34,Quebec Nordiques,7,0,5,10,7,31,29,217,True
+1985,12,27,39,New Jersey Devils,4,2,2,6,8,29,29,123,0,Montreal Canadiens,6,0,3,6,1,23,27,190,False
+1985,12,27,25,Vancouver Canucks,4,0,4,10,3,28,21,130,23,Philadelphia Flyers,7,2,4,4,2,27,24,149,False
+1985,12,28,38,Calgary Flames,4,0,5,7,5,41,19,144,23,Philadelphia Flyers,8,2,6,10,1,23,23,145,False
+1985,12,28,22,Los Angeles Kings,4,2,2,4,5,39,50,284,36,Winnipeg Jets,3,0,5,10,1,26,29,156,True
+1985,12,28,24,Minnesota North Stars,5,1,6,9,3,36,27,236,10,New York Rangers,4,1,1,1,2,9,26,200,True
+1985,12,28,0,Montreal Canadiens,6,1,7,10,7,22,29,203,39,New Jersey Devils,3,1,3,5,7,34,28,128,True
+1985,12,28,20,Pittsburgh Penguins,4,0,4,7,3,38,40,256,28,New York Islanders,5,2,3,5,0,4,4,33,False
+1985,12,28,34,Quebec Nordiques,6,1,3,5,4,32,30,218,16,Detroit Red Wings,1,1,4,6,5,31,41,249,False
+1985,12,28,21,St. Louis Blues,7,2,9,17,2,43,32,265,6,Boston Bruins,4,0,4,4,4,27,35,206,False
+1985,12,28,13,Toronto Maple Leafs,6,1,5,8,0,24,46,301,37,Hartford Whalers,7,1,4,6,3,31,23,144,False
+1985,12,28,30,Washington Capitals,9,2,4,7,5,41,20,156,11,Chicago Black Hawks,4,0,6,11,1,14,27,162,False
+1985,12,29,26,Buffalo Sabres,5,0,6,9,5,13,28,174,28,New York Islanders,6,2,4,5,2,33,6,62,True
+1985,12,29,11,Chicago Black Hawks,5,1,7,8,4,45,30,193,6,Boston Bruins,4,1,5,6,4,29,32,206,True
+1985,12,29,37,Hartford Whalers,7,1,6,11,6,23,23,142,16,Detroit Red Wings,1,1,5,9,4,41,42,294,True
+1985,12,29,10,New York Rangers,4,2,1,2,4,26,27,231,30,Washington Capitals,8,0,4,6,3,29,21,147,True
+1985,12,29,25,Vancouver Canucks,4,1,2,2,2,7,25,166,35,Edmonton Oilers,6,1,4,10,6,24,28,169,False
+1985,12,30,22,Los Angeles Kings,5,2,5,7,4,32,49,278,36,Winnipeg Jets,3,0,4,6,6,33,29,162,True
+1985,12,31,26,Buffalo Sabres,6,2,4,6,1,21,25,189,6,Boston Bruins,4,0,3,6,1,27,35,209,False
+1985,12,31,16,Detroit Red Wings,1,1,2,3,5,33,43,286,28,New York Islanders,6,1,3,3,4,20,8,59,False
+1985,12,31,35,Edmonton Oilers,7,0,6,8,0,6,25,178,23,Philadelphia Flyers,8,2,6,8,5,37,30,161,True
+1985,12,31,24,Minnesota North Stars,5,1,3,7,5,37,25,221,38,Calgary Flames,4,1,4,7,6,34,28,147,True
+1985,12,31,34,Quebec Nordiques,5,0,4,8,4,30,31,213,37,Hartford Whalers,8,2,5,10,3,29,19,141,True
+1985,12,31,21,St. Louis Blues,7,1,1,2,5,33,31,254,20,Pittsburgh Penguins,4,1,2,4,3,20,40,248,False
+1986,1,1,11,Chicago Black Hawks,6,0,4,5,8,21,27,200,20,Pittsburgh Penguins,5,2,8,10,3,30,41,270,True
+1986,1,1,13,Toronto Maple Leafs,5,1,3,3,4,32,52,303,0,Montreal Canadiens,7,1,8,15,3,36,31,187,True
+1986,1,1,30,Washington Capitals,7,0,5,7,6,32,29,157,10,New York Rangers,4,2,6,11,5,28,30,235,True
+1986,1,2,38,Calgary Flames,3,0,4,5,6,43,26,152,35,Edmonton Oilers,7,2,4,6,3,33,28,220,False
+1986,1,2,16,Detroit Red Wings,1,1,4,6,5,25,43,291,26,Buffalo Sabres,5,1,6,10,6,37,30,205,False
+1986,1,2,37,Hartford Whalers,7,1,1,2,2,22,21,143,34,Quebec Nordiques,5,1,5,10,1,31,28,214,False
+1986,1,2,22,Los Angeles Kings,5,1,4,5,9,41,47,281,23,Philadelphia Flyers,8,1,3,6,3,21,29,158,False
+1986,1,2,24,Minnesota North Stars,6,1,6,12,1,29,26,217,25,Vancouver Canucks,4,1,3,5,5,28,28,187,True
+1986,1,2,28,New York Islanders,6,2,5,10,4,30,8,67,6,Boston Bruins,5,0,6,10,4,30,40,217,True
+1986,1,3,39,New Jersey Devils,2,1,3,5,7,27,29,123,30,Washington Capitals,7,1,3,6,6,31,23,155,False
+1986,1,3,36,Winnipeg Jets,2,1,2,4,4,33,27,162,0,Montreal Canadiens,6,1,2,4,3,27,31,178,False
+1986,1,4,6,Boston Bruins,5,1,5,9,6,35,38,210,26,Buffalo Sabres,6,1,2,4,2,29,26,197,True
+1986,1,4,38,Calgary Flames,2,1,3,6,4,23,16,121,0,Montreal Canadiens,6,1,7,12,3,26,31,179,False
+1986,1,4,16,Detroit Red Wings,1,2,2,4,2,27,40,293,34,Quebec Nordiques,5,0,3,3,2,34,29,217,False
+1986,1,4,35,Edmonton Oilers,7,1,4,7,3,48,28,238,37,Hartford Whalers,6,1,2,3,3,31,22,152,True
+1986,1,4,28,New York Islanders,6,2,6,10,4,28,9,66,11,Chicago Black Hawks,7,0,7,12,3,49,26,212,False
+1986,1,4,21,St. Louis Blues,7,0,4,8,6,38,36,253,23,Philadelphia Flyers,8,2,7,13,4,34,26,165,True
+1986,1,4,13,Toronto Maple Leafs,5,1,3,4,2,28,50,299,22,Los Angeles Kings,4,1,4,7,5,21,45,243,False
+1986,1,4,30,Washington Capitals,7,2,3,5,0,30,13,139,39,New Jersey Devils,1,0,2,2,3,19,25,115,True
+1986,1,5,26,Buffalo Sabres,6,1,0,2,3,24,26,192,22,Los Angeles Kings,4,1,6,11,4,28,44,250,False
+1986,1,5,11,Chicago Black Hawks,8,0,4,7,4,47,21,196,24,Minnesota North Stars,7,2,3,6,2,26,27,214,True
+1986,1,5,35,Edmonton Oilers,8,2,5,7,3,51,28,220,38,Calgary Flames,1,0,5,7,3,23,22,122,True
+1986,1,5,10,New York Rangers,3,0,0,0,3,42,28,237,34,Quebec Nordiques,5,2,7,11,2,26,24,182,False
+1986,1,5,13,Toronto Maple Leafs,5,2,4,7,6,26,54,302,16,Detroit Red Wings,1,0,2,3,7,29,38,240,False
+1986,1,5,36,Winnipeg Jets,2,1,3,6,5,28,28,151,25,Vancouver Canucks,4,1,2,4,3,35,24,169,True
+1986,1,6,0,Montreal Canadiens,7,2,6,11,1,15,30,158,21,St. Louis Blues,7,0,2,4,1,33,29,223,True
+1986,1,6,20,Pittsburgh Penguins,5,0,3,7,4,42,44,272,39,New Jersey Devils,1,2,3,6,7,19,31,129,True
+1986,1,7,38,Calgary Flames,0,1,3,4,5,24,22,129,37,Hartford Whalers,5,1,3,6,5,31,26,143,False
+1986,1,7,28,New York Islanders,6,1,2,2,5,29,8,67,24,Minnesota North Stars,6,1,2,4,0,6,28,210,False
+1986,1,7,34,Quebec Nordiques,5,1,5,9,4,39,21,187,21,St. Louis Blues,6,1,2,4,8,23,37,219,True
+1986,1,7,36,Winnipeg Jets,3,1,4,7,7,33,24,150,25,Vancouver Canucks,4,1,0,1,4,30,25,164,False
+1986,1,7,30,Washington Capitals,7,1,9,15,2,26,16,136,16,Detroit Red Wings,2,1,6,12,5,34,36,245,True
+1986,1,8,11,Chicago Black Hawks,9,2,6,8,1,30,19,182,39,New Jersey Devils,1,0,3,6,4,43,28,153,False
+1986,1,8,0,Montreal Canadiens,7,1,9,16,5,25,30,179,6,Boston Bruins,6,1,3,7,0,24,33,202,True
+1986,1,8,20,Pittsburgh Penguins,6,0,4,8,6,32,43,254,22,Los Angeles Kings,5,2,3,5,0,9,42,255,True
+1986,1,8,13,Toronto Maple Leafs,5,1,4,9,6,31,54,310,35,Edmonton Oilers,8,1,6,12,3,44,28,213,True
+1986,1,9,6,Boston Bruins,5,1,4,6,6,28,38,206,21,St. Louis Blues,6,1,4,6,9,29,36,233,False
+1986,1,9,38,Calgary Flames,0,1,1,1,4,6,32,124,25,Vancouver Canucks,4,1,2,3,6,31,23,173,True
+1986,1,9,28,New York Islanders,5,2,2,3,3,29,12,89,20,Pittsburgh Penguins,6,0,7,11,3,24,40,242,True
+1986,1,9,23,Philadelphia Flyers,7,2,1,1,4,33,25,163,30,Washington Capitals,7,0,4,2,3,27,20,122,True
+1986,1,10,26,Buffalo Sabres,5,0,2,4,4,43,33,206,13,Toronto Maple Leafs,5,2,12,14,9,31,57,310,True
+1986,1,10,16,Detroit Red Wings,2,0,3,4,0,2,42,258,11,Chicago Black Hawks,8,2,7,13,2,33,26,189,False
+1986,1,10,24,Minnesota North Stars,7,1,3,5,6,47,33,237,22,Los Angeles Kings,5,1,3,8,2,24,46,270,False
+1986,1,10,10,New York Rangers,3,2,3,8,4,11,20,188,0,Montreal Canadiens,8,0,5,10,3,19,28,173,True
+1986,1,10,34,Quebec Nordiques,6,0,7,14,4,31,21,168,35,Edmonton Oilers,7,2,9,16,6,28,33,178,True
+1986,1,10,25,Vancouver Canucks,4,1,4,4,2,39,22,173,37,Hartford Whalers,5,1,9,15,4,31,15,147,False
+1986,1,11,6,Boston Bruins,4,1,2,5,3,7,34,179,36,Winnipeg Jets,3,1,2,3,0,9,19,126,True
+1986,1,11,24,Minnesota North Stars,6,0,3,4,2,24,31,222,30,Washington Capitals,6,2,1,2,3,29,22,149,True
+1986,1,11,0,Montreal Canadiens,7,1,4,7,4,18,31,183,35,Edmonton Oilers,6,1,3,7,5,11,32,193,False
+1986,1,11,39,New Jersey Devils,2,1,8,14,7,28,31,149,23,Philadelphia Flyers,7,1,4,4,0,24,23,150,False
+1986,1,11,28,New York Islanders,5,1,9,14,0,27,9,87,16,Detroit Red Wings,2,1,4,7,5,17,44,261,True
+1986,1,11,20,Pittsburgh Penguins,5,1,0,0,3,20,46,259,26,Buffalo Sabres,6,1,9,13,7,32,36,195,False
+1986,1,11,21,St. Louis Blues,6,1,6,8,2,26,28,228,22,Los Angeles Kings,6,1,3,5,3,28,47,274,False
+1986,1,11,13,Toronto Maple Leafs,4,1,7,11,6,34,57,333,34,Quebec Nordiques,7,1,5,5,3,26,25,178,False
+1986,1,12,11,Chicago Black Hawks,8,1,9,15,8,37,30,210,37,Hartford Whalers,6,1,4,7,1,38,14,133,True
+1986,1,12,10,New York Rangers,4,2,6,9,1,17,22,194,21,St. Louis Blues,5,0,4,6,2,10,23,189,False
+1986,1,12,23,Philadelphia Flyers,8,2,8,12,2,29,27,167,38,Calgary Flames,1,0,5,9,4,36,32,204,True
+1986,1,13,6,Boston Bruins,4,1,8,12,4,26,37,194,35,Edmonton Oilers,7,1,6,10,5,43,30,207,False
+1986,1,13,13,Toronto Maple Leafs,3,1,1,1,5,42,56,341,16,Detroit Red Wings,2,1,2,2,8,40,41,282,True
+1986,1,14,24,Minnesota North Stars,7,1,5,7,4,32,32,243,11,Chicago Black Hawks,8,1,4,6,4,31,24,208,False
+1986,1,14,23,Philadelphia Flyers,8,2,3,5,0,35,25,173,39,New Jersey Devils,1,0,4,7,7,39,32,160,True
+1986,1,14,34,Quebec Nordiques,7,1,5,9,1,38,23,190,36,Winnipeg Jets,3,1,4,6,5,24,25,120,False
+1986,1,14,25,Vancouver Canucks,4,0,3,5,4,21,25,164,10,New York Rangers,4,2,2,5,4,27,23,203,False
+1986,1,14,30,Washington Capitals,6,0,3,5,4,35,25,141,38,Calgary Flames,1,2,0,0,1,10,31,172,False
+1986,1,15,11,Chicago Black Hawks,8,0,3,3,2,35,23,218,26,Buffalo Sabres,6,2,3,6,3,29,24,181,True
+1986,1,15,16,Detroit Red Wings,2,1,4,8,4,14,40,286,39,New Jersey Devils,1,1,2,6,1,3,28,159,False
+1986,1,15,37,Hartford Whalers,5,0,2,3,3,29,16,123,35,Edmonton Oilers,7,2,5,9,3,25,28,202,False
+1986,1,15,22,Los Angeles Kings,6,1,4,7,6,30,48,293,10,New York Rangers,5,1,2,2,2,26,20,210,False
+1986,1,15,0,Montreal Canadiens,7,1,3,3,4,12,26,165,36,Winnipeg Jets,3,1,5,7,4,35,24,131,True
+1986,1,15,20,Pittsburgh Penguins,4,0,4,6,9,41,46,260,28,New York Islanders,6,2,8,14,2,36,6,86,True
+1986,1,15,21,St. Louis Blues,5,1,3,7,2,36,25,222,13,Toronto Maple Leafs,4,1,7,14,4,25,55,324,True
+1986,1,16,6,Boston Bruins,4,1,3,3,4,22,38,190,38,Calgary Flames,2,1,3,5,1,14,21,120,True
+1986,1,16,24,Minnesota North Stars,7,0,3,1,3,44,26,231,21,St. Louis Blues,5,2,10,20,2,14,24,217,True
+1986,1,17,26,Buffalo Sabres,6,0,2,3,4,27,28,176,0,Montreal Canadiens,7,2,4,4,0,19,21,167,True
+1986,1,17,37,Hartford Whalers,5,0,1,2,3,28,18,133,34,Quebec Nordiques,7,2,4,6,5,30,26,181,True
+1986,1,17,39,New Jersey Devils,2,0,4,8,3,38,30,189,30,Washington Capitals,5,2,3,6,5,25,25,135,False
+1986,1,17,23,Philadelphia Flyers,8,1,3,6,2,29,25,168,28,New York Islanders,5,1,3,4,3,30,10,87,False
+1986,1,17,25,Vancouver Canucks,3,2,1,1,5,31,24,174,22,Los Angeles Kings,6,0,3,6,3,10,40,251,False
+1986,1,17,36,Winnipeg Jets,2,0,0,0,3,10,24,119,11,Chicago Black Hawks,9,2,4,6,3,41,26,211,True
+1986,1,18,16,Detroit Red Wings,1,1,3,6,7,45,40,292,38,Calgary Flames,2,1,3,5,3,34,23,140,False
+1986,1,18,35,Edmonton Oilers,8,1,5,6,3,38,26,205,10,New York Rangers,5,1,5,7,1,28,24,214,False
+1986,1,18,22,Los Angeles Kings,7,1,9,15,7,41,44,282,25,Vancouver Canucks,2,1,7,14,5,8,25,134,False
+1986,1,18,0,Montreal Canadiens,6,2,4,8,2,11,30,171,28,New York Islanders,6,0,4,7,6,37,10,81,True
+1986,1,18,34,Quebec Nordiques,7,1,5,10,0,0,32,162,37,Hartford Whalers,5,1,11,16,3,27,21,137,False
+1986,1,18,21,St. Louis Blues,4,1,3,6,1,31,25,230,20,Pittsburgh Penguins,5,1,6,8,3,21,40,247,False
+1986,1,18,13,Toronto Maple Leafs,4,1,1,2,7,23,52,280,24,Minnesota North Stars,7,1,4,5,3,30,25,234,False
+1986,1,18,30,Washington Capitals,5,0,4,7,3,26,23,136,23,Philadelphia Flyers,7,2,3,5,4,41,27,163,True
+1986,1,19,11,Chicago Black Hawks,8,2,1,3,2,34,25,202,16,Detroit Red Wings,1,0,4,6,7,38,40,285,True
+1986,1,19,39,New Jersey Devils,2,0,3,4,4,24,31,175,26,Buffalo Sabres,6,2,5,9,4,35,28,203,False
+1986,1,19,20,Pittsburgh Penguins,6,2,5,6,3,28,39,260,24,Minnesota North Stars,7,0,5,8,3,34,24,239,True
+1986,1,19,13,Toronto Maple Leafs,3,0,2,2,5,31,50,288,38,Calgary Flames,3,2,6,14,4,27,22,141,False
+1986,1,19,36,Winnipeg Jets,3,1,5,8,1,21,20,140,6,Boston Bruins,5,1,3,6,2,27,33,198,False
+1986,1,20,10,New York Rangers,5,0,5,9,4,29,27,218,37,Hartford Whalers,5,2,4,12,6,32,20,138,False
+1986,1,20,34,Quebec Nordiques,7,1,2,3,7,19,36,189,0,Montreal Canadiens,6,1,3,5,0,21,32,193,True
+1986,1,21,22,Los Angeles Kings,6,2,5,7,4,29,40,262,21,St. Louis Blues,4,0,2,4,4,26,29,242,True
+1986,1,21,28,New York Islanders,5,2,0,2,3,24,7,78,23,Philadelphia Flyers,6,0,2,2,4,24,27,150,True
+1986,1,21,25,Vancouver Canucks,2,0,4,5,4,27,24,153,39,New Jersey Devils,2,2,3,5,2,19,30,154,True
+1986,1,21,30,Washington Capitals,6,1,5,7,4,29,22,138,24,Minnesota North Stars,6,1,2,5,2,35,24,240,True
+1986,1,22,26,Buffalo Sabres,6,1,6,10,3,41,27,202,36,Winnipeg Jets,3,1,1,2,2,30,24,166,True
+1986,1,22,11,Chicago Black Hawks,8,0,5,10,5,44,26,211,0,Montreal Canadiens,6,2,2,4,5,31,35,210,False
+1986,1,22,38,Calgary Flames,4,2,8,11,2,24,24,143,39,New Jersey Devils,2,0,3,5,0,2,29,148,False
+1986,1,22,16,Detroit Red Wings,1,0,4,6,4,23,36,272,6,Boston Bruins,5,2,2,4,1,19,32,190,True
+1986,1,22,35,Edmonton Oilers,7,1,4,7,1,28,28,199,20,Pittsburgh Penguins,6,1,3,5,2,34,38,265,False
+1986,1,22,13,Toronto Maple Leafs,3,0,6,11,4,13,51,282,10,New York Rangers,5,2,0,0,5,25,23,207,False
+1986,1,23,6,Boston Bruins,5,2,5,8,5,22,37,187,36,Winnipeg Jets,3,0,3,5,4,23,28,170,True
+1986,1,23,37,Hartford Whalers,5,1,5,10,2,28,15,126,13,Toronto Maple Leafs,2,1,2,3,4,38,51,307,True
+1986,1,23,22,Los Angeles Kings,6,2,6,9,3,27,44,257,21,St. Louis Blues,4,0,3,4,5,43,29,240,False
+1986,1,23,24,Minnesota North Stars,5,1,5,10,3,35,30,240,0,Montreal Canadiens,6,1,3,6,3,38,31,197,False
+1986,1,23,10,New York Rangers,6,0,4,8,3,26,20,221,34,Quebec Nordiques,7,2,3,6,2,31,32,195,False
+1986,1,23,23,Philadelphia Flyers,5,1,3,4,5,26,30,163,16,Detroit Red Wings,2,1,7,9,1,11,37,278,True
+1986,1,24,26,Buffalo Sabres,6,1,6,11,3,40,27,201,11,Chicago Black Hawks,7,1,5,5,4,45,25,201,False
+1986,1,24,35,Edmonton Oilers,6,2,4,8,5,32,34,204,39,New Jersey Devils,3,0,6,7,5,34,30,164,True
+1986,1,24,25,Vancouver Canucks,3,0,5,7,3,19,24,153,20,Pittsburgh Penguins,7,2,7,13,2,33,40,266,True
+1986,1,24,30,Washington Capitals,7,1,7,13,2,28,23,154,28,New York Islanders,6,1,7,14,3,28,7,82,False
+1986,1,25,6,Boston Bruins,5,1,7,10,5,31,41,186,16,Detroit Red Wings,2,1,1,4,2,20,35,272,True
+1986,1,25,38,Calgary Flames,4,0,6,10,5,35,26,182,20,Pittsburgh Penguins,6,2,3,4,4,35,42,266,True
+1986,1,25,35,Edmonton Oilers,6,1,7,8,7,33,35,199,22,Los Angeles Kings,6,1,3,5,2,19,45,253,True
+1986,1,25,37,Hartford Whalers,6,2,4,7,0,19,14,123,36,Winnipeg Jets,3,0,5,8,1,14,23,136,True
+1986,1,25,24,Minnesota North Stars,4,1,2,4,4,30,31,238,30,Washington Capitals,6,1,5,8,0,5,20,103,False
+1986,1,25,0,Montreal Canadiens,6,1,5,7,3,34,30,189,13,Toronto Maple Leafs,2,1,1,2,4,31,51,300,True
+1986,1,25,28,New York Islanders,6,1,7,13,3,34,9,89,11,Chicago Black Hawks,7,1,5,6,3,38,24,194,False
+1986,1,25,34,Quebec Nordiques,7,1,4,9,0,32,30,196,26,Buffalo Sabres,6,1,3,4,3,23,28,186,True
+1986,1,25,21,St. Louis Blues,4,1,4,7,5,27,28,232,23,Philadelphia Flyers,6,1,5,8,2,23,31,150,False
+1986,1,27,6,Boston Bruins,6,1,6,9,3,21,39,176,37,Hartford Whalers,7,1,7,12,1,25,12,134,True
+1986,1,27,11,Chicago Black Hawks,7,0,3,3,3,38,24,193,35,Edmonton Oilers,6,2,5,9,6,27,30,194,False
+1986,1,27,38,Calgary Flames,5,2,7,8,2,31,22,185,22,Los Angeles Kings,5,0,2,5,5,25,48,259,True
+1986,1,27,24,Minnesota North Stars,4,1,4,5,6,34,33,236,39,New Jersey Devils,3,1,6,9,1,12,32,158,True
+1986,1,27,0,Montreal Canadiens,6,1,3,6,2,30,29,185,26,Buffalo Sabres,5,1,3,4,4,43,30,197,True
+1986,1,27,34,Quebec Nordiques,7,2,4,5,3,28,33,192,10,New York Rangers,5,0,0,1,2,39,24,236,False
+1986,1,28,16,Detroit Red Wings,1,1,3,4,0,8,37,262,30,Washington Capitals,6,1,6,11,3,26,23,126,True
+1986,1,28,28,New York Islanders,5,2,2,6,5,35,9,89,13,Toronto Maple Leafs,2,0,2,4,3,36,50,305,True
+1986,1,28,20,Pittsburgh Penguins,6,0,2,4,4,33,42,269,23,Philadelphia Flyers,6,2,1,2,0,48,29,175,False
+1986,1,29,11,Chicago Black Hawks,7,2,3,6,3,37,23,164,10,New York Rangers,6,0,6,11,6,32,28,229,True
+1986,1,29,37,Hartford Whalers,7,0,3,7,2,23,17,141,6,Boston Bruins,6,2,6,8,3,23,39,178,False
+1986,1,29,22,Los Angeles Kings,4,1,3,4,2,3,45,248,24,Minnesota North Stars,4,1,6,11,2,34,29,236,True
+1986,1,29,0,Montreal Canadiens,6,0,4,7,2,30,28,178,34,Quebec Nordiques,6,2,6,10,4,27,36,196,True
+1986,1,29,39,New Jersey Devils,3,1,2,4,7,28,37,176,20,Pittsburgh Penguins,5,1,2,4,4,38,40,270,False
+1986,1,29,21,St. Louis Blues,4,1,0,0,1,34,29,246,35,Edmonton Oilers,6,1,4,5,2,28,27,201,False
+1986,1,29,13,Toronto Maple Leafs,1,0,3,4,5,24,56,303,30,Washington Capitals,5,2,0,0,7,37,28,137,True
+1986,1,29,25,Vancouver Canucks,4,1,4,4,3,28,24,162,38,Calgary Flames,6,1,5,10,3,26,27,186,False
+1986,1,29,36,Winnipeg Jets,3,0,2,3,6,36,28,141,26,Buffalo Sabres,5,2,1,2,5,32,26,194,True
+1986,1,30,28,New York Islanders,6,2,9,15,2,29,6,83,23,Philadelphia Flyers,7,0,2,4,2,37,31,164,True
+1986,1,31,26,Buffalo Sabres,5,2,2,7,5,35,26,197,10,New York Rangers,6,0,4,7,4,34,29,227,True
+1986,1,31,16,Detroit Red Wings,2,1,7,13,0,26,37,280,21,St. Louis Blues,4,1,5,8,3,27,34,255,False
+1986,1,31,35,Edmonton Oilers,7,2,5,9,3,34,30,205,38,Calgary Flames,7,0,4,6,4,30,28,190,True
+1986,1,31,25,Vancouver Canucks,4,1,4,9,4,34,26,168,24,Minnesota North Stars,4,1,3,3,4,44,28,236,True
+1986,2,1,38,Calgary Flames,6,0,5,7,3,25,31,193,35,Edmonton Oilers,8,2,7,14,5,32,31,203,False
+1986,2,1,37,Hartford Whalers,6,2,4,8,6,32,24,150,10,New York Rangers,5,0,3,6,4,30,30,227,False
+1986,2,1,0,Montreal Canadiens,7,1,5,9,1,23,30,167,6,Boston Bruins,7,1,4,9,4,23,40,178,True
+1986,2,1,28,New York Islanders,7,1,8,15,3,34,8,84,20,Pittsburgh Penguins,5,1,4,6,2,34,37,260,True
+1986,2,1,34,Quebec Nordiques,5,1,3,6,6,32,36,192,23,Philadelphia Flyers,6,1,4,4,7,37,37,163,False
+1986,2,1,21,St. Louis Blues,4,2,6,9,4,22,29,236,16,Detroit Red Wings,2,0,4,6,6,27,43,281,True
+1986,2,1,13,Toronto Maple Leafs,2,2,5,7,2,32,53,311,11,Chicago Black Hawks,7,0,5,5,4,29,25,182,False
+1986,2,1,36,Winnipeg Jets,3,0,5,10,3,22,25,131,22,Los Angeles Kings,5,2,4,4,4,34,46,265,False
+1986,2,1,30,Washington Capitals,4,2,2,4,5,31,24,122,39,New Jersey Devils,2,0,1,2,6,30,34,171,True
+1986,2,2,6,Boston Bruins,7,1,1,2,6,16,38,169,20,Pittsburgh Penguins,5,1,3,5,1,28,39,252,True
+1986,2,2,26,Buffalo Sabres,5,1,5,7,3,32,27,189,34,Quebec Nordiques,4,1,2,4,2,34,32,194,True
+1986,2,2,11,Chicago Black Hawks,7,1,7,11,4,38,25,189,13,Toronto Maple Leafs,2,1,4,7,5,20,52,271,False
+1986,2,2,37,Hartford Whalers,5,2,1,0,0,18,15,122,30,Washington Capitals,5,0,5,10,4,18,23,109,False
+1986,2,2,39,New Jersey Devils,2,1,4,4,8,39,33,179,28,New York Islanders,7,1,4,8,4,30,8,94,False
+1986,2,2,36,Winnipeg Jets,3,0,6,10,7,26,30,138,22,Los Angeles Kings,5,2,9,12,3,20,44,270,True
+1986,2,5,11,Chicago Black Hawks,6,2,3,6,4,36,28,199,28,New York Islanders,7,0,3,5,2,27,6,91,True
+1986,2,5,34,Quebec Nordiques,3,1,3,6,5,20,35,180,0,Montreal Canadiens,8,1,2,3,3,24,29,170,True
+1986,2,5,21,St. Louis Blues,5,1,3,8,3,21,33,253,10,New York Rangers,6,1,3,6,1,26,24,209,True
+1986,2,6,6,Boston Bruins,7,2,3,6,2,26,34,179,26,Buffalo Sabres,5,0,5,5,3,30,23,204,False
+1986,2,6,38,Calgary Flames,6,2,5,7,7,33,30,193,22,Los Angeles Kings,4,0,3,5,6,29,52,275,True
+1986,2,6,16,Detroit Red Wings,2,0,3,7,4,32,39,290,37,Hartford Whalers,5,2,4,7,5,36,20,140,True
+1986,2,6,24,Minnesota North Stars,3,1,5,6,6,26,30,206,13,Toronto Maple Leafs,2,1,4,6,3,40,50,291,True
+1986,2,6,39,New Jersey Devils,2,0,3,4,3,30,28,170,35,Edmonton Oilers,8,2,4,7,4,32,30,217,False
+1986,2,6,23,Philadelphia Flyers,6,1,2,4,2,31,32,157,21,St. Louis Blues,5,1,4,7,5,43,32,260,True
+1986,2,7,25,Vancouver Canucks,5,1,10,17,4,24,24,150,36,Winnipeg Jets,4,1,6,9,3,45,26,157,True
+1986,2,7,30,Washington Capitals,6,2,5,9,6,18,19,99,0,Montreal Canadiens,7,0,2,4,1,27,29,192,True
+1986,2,8,6,Boston Bruins,7,1,6,10,1,4,34,163,10,New York Rangers,5,1,3,4,4,24,27,207,False
+1986,2,8,16,Detroit Red Wings,3,0,4,6,3,26,38,284,0,Montreal Canadiens,7,2,2,3,3,29,31,187,False
+1986,2,8,37,Hartford Whalers,5,1,3,6,4,26,18,114,26,Buffalo Sabres,6,1,8,13,6,44,31,222,False
+1986,2,8,22,Los Angeles Kings,4,1,2,2,7,37,53,283,28,New York Islanders,7,1,2,4,3,44,7,96,False
+1986,2,8,23,Philadelphia Flyers,6,2,4,6,3,33,29,162,24,Minnesota North Stars,4,0,8,13,4,10,31,206,False
+1986,2,8,20,Pittsburgh Penguins,5,2,2,4,4,26,41,258,39,New Jersey Devils,1,0,4,6,5,38,30,170,True
+1986,2,8,34,Quebec Nordiques,4,1,3,6,4,23,32,185,11,Chicago Black Hawks,6,1,3,4,4,34,26,196,True
+1986,2,8,13,Toronto Maple Leafs,2,1,7,10,4,21,55,295,21,St. Louis Blues,4,1,3,7,3,38,31,243,True
+1986,2,8,30,Washington Capitals,7,2,3,5,2,21,17,118,35,Edmonton Oilers,8,0,6,9,4,46,30,220,True
+1986,2,9,6,Boston Bruins,6,0,2,4,3,20,38,193,34,Quebec Nordiques,5,2,8,13,2,25,33,184,False
+1986,2,9,26,Buffalo Sabres,6,2,4,6,3,32,27,214,35,Edmonton Oilers,7,0,4,6,4,35,31,214,True
+1986,2,9,11,Chicago Black Hawks,6,0,5,9,2,33,30,199,23,Philadelphia Flyers,5,2,3,6,3,29,31,172,False
+1986,2,9,37,Hartford Whalers,4,2,2,3,2,9,18,113,39,New Jersey Devils,1,0,0,0,5,30,29,161,False
+1986,2,9,22,Los Angeles Kings,3,0,3,5,6,34,50,285,38,Calgary Flames,6,2,7,12,2,23,33,206,False
+1986,2,9,25,Vancouver Canucks,5,2,5,7,2,23,22,149,36,Winnipeg Jets,3,0,2,2,4,23,29,130,False
+1986,2,10,0,Montreal Canadiens,7,2,5,7,3,22,31,187,24,Minnesota North Stars,4,0,3,6,3,39,30,235,False
+1986,2,11,11,Chicago Black Hawks,5,1,2,4,8,37,31,225,6,Boston Bruins,5,1,3,5,4,26,39,196,True
+1986,2,11,16,Detroit Red Wings,3,0,3,4,4,32,39,303,35,Edmonton Oilers,7,2,2,4,5,40,30,210,False
+1986,2,11,28,New York Islanders,7,0,4,7,3,32,7,83,25,Vancouver Canucks,5,2,3,7,3,30,23,156,True
+1986,2,11,21,St. Louis Blues,4,0,2,2,4,27,31,244,37,Hartford Whalers,3,2,3,5,4,25,21,129,False
+1986,2,11,13,Toronto Maple Leafs,3,0,3,6,2,24,53,298,24,Minnesota North Stars,4,2,4,6,7,26,30,229,False
+1986,2,12,26,Buffalo Sabres,6,1,4,7,2,36,26,216,23,Philadelphia Flyers,6,1,2,1,2,26,30,169,False
+1986,2,12,38,Calgary Flames,7,1,7,10,3,39,34,222,36,Winnipeg Jets,4,1,3,6,3,23,29,147,True
+1986,2,12,22,Los Angeles Kings,3,0,3,5,4,39,51,298,34,Quebec Nordiques,6,2,4,4,3,33,34,192,False
+1986,2,12,10,New York Rangers,5,2,3,5,2,37,28,236,25,Vancouver Canucks,5,0,0,0,1,6,21,152,True
+1986,2,12,20,Pittsburgh Penguins,5,0,4,6,3,34,37,259,30,Washington Capitals,7,2,5,8,4,35,20,135,True
+1986,2,13,11,Chicago Black Hawks,6,1,5,10,2,46,27,219,13,Toronto Maple Leafs,3,1,2,4,3,33,54,307,True
+1986,2,13,39,New Jersey Devils,2,0,6,11,3,36,27,167,0,Montreal Canadiens,7,2,3,4,3,28,32,204,True
+1986,2,13,23,Philadelphia Flyers,7,0,3,7,0,28,32,174,28,New York Islanders,8,2,1,2,0,25,4,76,True
+1986,2,13,21,St. Louis Blues,4,1,4,7,3,39,31,265,24,Minnesota North Stars,5,1,4,7,3,33,23,234,True
+1986,2,14,38,Calgary Flames,7,1,4,8,4,36,33,213,26,Buffalo Sabres,5,1,0,1,2,21,30,209,False
+1986,2,14,16,Detroit Red Wings,3,1,2,2,3,32,40,300,10,New York Rangers,5,1,3,10,2,32,28,231,False
+1986,2,14,35,Edmonton Oilers,8,1,3,6,3,31,27,200,34,Quebec Nordiques,6,1,5,8,2,30,33,189,True
+1986,2,14,36,Winnipeg Jets,3,0,2,4,4,35,30,159,37,Hartford Whalers,3,2,4,5,5,25,21,150,True
+1986,2,15,22,Los Angeles Kings,2,1,2,3,1,20,51,284,30,Washington Capitals,6,1,1,2,4,23,24,138,False
+1986,2,15,24,Minnesota North Stars,5,1,3,7,2,46,28,245,37,Hartford Whalers,2,1,4,9,5,40,21,165,True
+1986,2,15,0,Montreal Canadiens,6,0,3,4,4,39,33,186,23,Philadelphia Flyers,8,2,7,11,3,24,35,170,True
+1986,2,15,28,New York Islanders,7,2,3,5,3,31,12,89,39,New Jersey Devils,3,0,4,9,3,37,27,168,True
+1986,2,15,20,Pittsburgh Penguins,5,1,8,13,0,27,35,244,25,Vancouver Canucks,5,1,2,4,1,26,25,196,True
+1986,2,15,21,St. Louis Blues,5,1,5,10,3,31,31,257,6,Boston Bruins,5,1,3,6,5,38,44,211,True
+1986,2,15,13,Toronto Maple Leafs,3,1,4,5,5,35,56,309,11,Chicago Black Hawks,6,1,5,8,4,43,29,216,True
+1986,2,16,11,Chicago Black Hawks,5,1,3,6,4,31,29,203,21,St. Louis Blues,5,1,5,8,4,35,29,259,True
+1986,2,16,38,Calgary Flames,6,1,3,4,2,30,32,199,34,Quebec Nordiques,5,1,1,4,2,8,34,179,False
+1986,2,16,35,Edmonton Oilers,8,0,8,14,2,30,26,201,26,Buffalo Sabres,6,2,3,5,3,48,27,203,True
+1986,2,16,24,Minnesota North Stars,6,0,4,6,1,33,27,232,6,Boston Bruins,4,2,1,2,7,17,44,198,False
+1986,2,16,39,New Jersey Devils,2,0,5,7,4,23,30,160,20,Pittsburgh Penguins,5,2,9,14,1,19,39,248,False
+1986,2,16,10,New York Rangers,6,2,7,10,5,34,30,228,16,Detroit Red Wings,3,0,5,8,7,41,39,267,True
+1986,2,16,13,Toronto Maple Leafs,4,0,4,7,3,35,54,309,25,Vancouver Canucks,5,2,4,6,7,16,24,138,False
+1986,2,17,0,Montreal Canadiens,6,2,5,9,4,18,30,177,22,Los Angeles Kings,2,0,1,3,4,28,50,303,False
+1986,2,17,23,Philadelphia Flyers,7,1,3,6,4,28,36,174,36,Winnipeg Jets,4,1,5,7,4,36,27,127,True
+1986,2,18,38,Calgary Flames,6,0,3,6,4,19,33,176,6,Boston Bruins,4,2,5,8,3,28,40,209,True
+1986,2,18,37,Hartford Whalers,1,2,1,1,4,28,20,144,25,Vancouver Canucks,5,0,4,7,4,39,21,161,True
+1986,2,18,28,New York Islanders,7,2,6,9,5,29,12,96,30,Washington Capitals,6,0,4,7,1,24,21,139,False
+1986,2,18,34,Quebec Nordiques,5,2,6,10,3,38,35,209,22,Los Angeles Kings,3,0,3,6,7,47,52,312,False
+1986,2,18,21,St. Louis Blues,5,2,2,4,1,33,25,245,16,Detroit Red Wings,2,0,1,1,4,40,35,256,True
+1986,2,19,26,Buffalo Sabres,6,1,5,9,4,32,30,183,37,Hartford Whalers,2,1,5,8,4,38,20,132,False
+1986,2,19,11,Chicago Black Hawks,6,2,4,7,2,25,20,166,24,Minnesota North Stars,6,0,3,2,1,18,28,212,False
+1986,2,19,35,Edmonton Oilers,8,1,7,13,2,32,29,214,13,Toronto Maple Leafs,4,1,4,6,4,26,55,300,True
+1986,2,19,0,Montreal Canadiens,5,0,2,1,2,14,25,144,30,Washington Capitals,7,2,5,6,8,38,24,144,False
+1986,2,19,20,Pittsburgh Penguins,5,1,5,10,4,31,43,257,36,Winnipeg Jets,4,1,4,7,3,10,23,95,True
+1986,2,20,38,Calgary Flames,6,2,7,13,4,29,33,186,13,Toronto Maple Leafs,4,0,5,8,9,48,60,322,False
+1986,2,20,39,New Jersey Devils,2,1,4,9,6,29,31,169,34,Quebec Nordiques,5,1,4,8,5,29,37,200,True
+1986,2,20,10,New York Rangers,6,0,4,4,5,26,26,211,21,St. Louis Blues,6,2,5,7,0,26,24,235,True
+1986,2,20,23,Philadelphia Flyers,7,2,8,14,2,16,24,147,22,Los Angeles Kings,4,0,5,6,2,37,49,301,True
+1986,2,21,26,Buffalo Sabres,6,1,4,6,5,33,31,184,28,New York Islanders,7,1,3,7,5,30,14,102,True
+1986,2,21,16,Detroit Red Wings,2,1,0,0,1,7,30,210,20,Pittsburgh Penguins,6,1,5,10,5,28,41,258,False
+1986,2,21,24,Minnesota North Stars,6,0,6,13,5,35,32,232,34,Quebec Nordiques,5,2,3,6,4,11,36,195,True
+1986,2,21,25,Vancouver Canucks,4,0,4,7,5,30,22,152,38,Calgary Flames,5,2,5,8,2,10,36,190,False
+1986,2,21,36,Winnipeg Jets,4,1,2,4,5,23,25,119,11,Chicago Black Hawks,5,1,5,9,0,10,24,185,False
+1986,2,22,35,Edmonton Oilers,8,2,9,16,5,43,32,211,6,Boston Bruins,3,0,6,10,4,23,40,214,False
+1986,2,22,0,Montreal Canadiens,4,1,4,4,4,29,31,186,37,Hartford Whalers,3,1,6,7,4,35,20,129,True
+1986,2,22,39,New Jersey Devils,3,2,4,8,3,33,28,173,22,Los Angeles Kings,3,0,3,5,4,41,51,305,False
+1986,2,22,28,New York Islanders,6,2,2,1,5,31,12,101,16,Detroit Red Wings,2,0,3,6,2,5,34,227,True
+1986,2,22,23,Philadelphia Flyers,7,1,5,8,2,16,25,161,30,Washington Capitals,7,1,4,7,4,43,21,155,True
+1986,2,22,20,Pittsburgh Penguins,7,2,7,11,2,32,39,257,21,St. Louis Blues,5,0,2,4,3,37,28,237,False
+1986,2,23,26,Buffalo Sabres,7,1,5,8,1,21,29,192,30,Washington Capitals,7,1,1,2,4,29,20,135,True
+1986,2,23,11,Chicago Black Hawks,5,1,5,8,6,44,26,205,38,Calgary Flames,5,1,4,8,0,24,35,210,True
+1986,2,23,37,Hartford Whalers,3,2,3,4,5,26,21,120,21,St. Louis Blues,5,0,5,6,4,26,28,229,False
+1986,2,23,24,Minnesota North Stars,7,2,5,10,2,22,27,212,13,Toronto Maple Leafs,4,0,7,10,8,44,57,306,True
+1986,2,23,25,Vancouver Canucks,3,0,0,0,4,21,21,143,6,Boston Bruins,3,2,6,9,5,29,40,200,False
+1986,2,23,36,Winnipeg Jets,4,1,2,4,4,37,24,133,34,Quebec Nordiques,5,1,2,3,4,24,37,211,True
+1986,2,24,35,Edmonton Oilers,7,2,4,8,5,29,33,213,0,Montreal Canadiens,4,0,6,12,3,18,30,167,True
+1986,2,24,10,New York Rangers,7,0,3,5,1,29,23,211,24,Minnesota North Stars,8,2,4,8,4,13,28,225,True
+1986,2,24,20,Pittsburgh Penguins,7,1,3,5,4,27,41,252,22,Los Angeles Kings,3,1,5,8,2,34,49,298,True
+1986,2,25,34,Quebec Nordiques,5,2,2,3,4,32,37,219,6,Boston Bruins,4,0,6,11,1,28,36,199,False
+1986,2,25,21,St. Louis Blues,5,2,8,11,3,29,29,244,38,Calgary Flames,5,0,2,4,7,33,33,204,False
+1986,2,25,13,Toronto Maple Leafs,4,0,3,4,1,26,47,265,10,New York Rangers,7,2,4,9,2,26,23,221,True
+1986,2,25,30,Washington Capitals,7,1,1,2,3,23,19,140,16,Detroit Red Wings,1,1,2,4,5,27,37,249,True
+1986,2,26,37,Hartford Whalers,3,1,2,4,4,16,22,125,24,Minnesota North Stars,7,1,1,2,3,35,34,237,False
+1986,2,26,39,New Jersey Devils,3,0,2,4,5,33,30,173,28,New York Islanders,6,2,5,10,5,36,13,109,True
+1986,2,26,20,Pittsburgh Penguins,7,1,6,13,1,23,39,232,26,Buffalo Sabres,7,1,4,7,1,35,24,197,True
+1986,2,26,25,Vancouver Canucks,3,1,1,0,6,28,20,119,0,Montreal Canadiens,3,1,2,4,6,29,31,176,False
+1986,2,26,36,Winnipeg Jets,4,1,4,7,2,25,22,121,35,Edmonton Oilers,7,1,3,6,2,20,30,204,False
+1986,2,27,6,Boston Bruins,4,1,7,12,7,28,39,197,30,Washington Capitals,7,1,3,8,3,19,19,136,False
+1986,2,27,38,Calgary Flames,6,0,4,3,1,25,29,205,23,Philadelphia Flyers,8,2,3,4,1,27,21,164,True
+1986,2,27,22,Los Angeles Kings,3,1,5,9,6,43,48,313,11,Chicago Black Hawks,6,1,6,8,2,30,22,198,False
+1986,2,27,10,New York Rangers,7,0,5,4,7,24,24,181,20,Pittsburgh Penguins,8,2,5,10,4,11,40,244,True
+1986,2,28,26,Buffalo Sabres,6,1,2,2,6,28,29,184,34,Quebec Nordiques,4,1,4,7,5,27,40,224,False
+1986,2,28,16,Detroit Red Wings,1,1,3,6,4,39,37,251,13,Toronto Maple Leafs,4,1,7,11,3,35,49,274,False
+1986,2,28,25,Vancouver Canucks,2,0,2,4,3,27,17,118,23,Philadelphia Flyers,7,2,4,7,3,15,23,136,True
+1986,2,28,36,Winnipeg Jets,4,1,2,4,2,8,23,86,28,New York Islanders,5,1,2,5,7,39,14,90,False
+1986,3,1,6,Boston Bruins,4,2,0,1,4,30,32,219,39,New Jersey Devils,4,0,7,10,4,29,27,166,True
+1986,3,1,38,Calgary Flames,6,2,7,9,6,35,31,233,25,Vancouver Canucks,2,0,3,5,0,0,15,116,True
+1986,3,1,22,Los Angeles Kings,3,1,3,6,4,36,47,291,0,Montreal Canadiens,4,1,4,6,2,20,24,177,False
+1986,3,1,24,Minnesota North Stars,7,1,5,7,2,45,32,230,28,New York Islanders,5,1,6,9,2,30,8,75,True
+1986,3,1,20,Pittsburgh Penguins,8,0,3,4,2,13,42,233,37,Hartford Whalers,3,2,2,4,1,12,15,104,True
+1986,3,1,34,Quebec Nordiques,4,1,6,10,6,34,37,234,26,Buffalo Sabres,5,1,2,4,5,32,29,191,False
+1986,3,1,21,St. Louis Blues,5,1,1,2,2,28,25,195,11,Chicago Black Hawks,6,1,6,10,0,8,20,133,True
+1986,3,1,13,Toronto Maple Leafs,5,2,7,9,3,42,49,281,16,Detroit Red Wings,1,0,3,5,7,25,40,237,False
+1986,3,1,30,Washington Capitals,7,1,2,3,4,33,16,149,10,New York Rangers,8,1,9,12,0,5,24,190,True
+1986,3,2,11,Chicago Black Hawks,6,1,3,6,3,20,25,157,21,St. Louis Blues,6,1,6,12,4,31,30,219,True
+1986,3,2,35,Edmonton Oilers,7,1,8,16,2,46,30,230,23,Philadelphia Flyers,6,1,1,2,3,38,23,159,True
+1986,3,2,37,Hartford Whalers,3,0,1,2,4,12,20,106,6,Boston Bruins,5,2,8,13,3,27,31,216,True
+1986,3,2,22,Los Angeles Kings,3,0,4,7,3,15,44,259,38,Calgary Flames,6,2,3,7,4,49,31,202,False
+1986,3,2,39,New Jersey Devils,4,1,3,6,4,16,29,138,36,Winnipeg Jets,3,1,3,6,6,16,26,111,True
+1986,3,2,10,New York Rangers,7,0,0,1,3,28,28,217,30,Washington Capitals,7,2,4,6,0,20,13,142,False
+1986,3,3,16,Detroit Red Wings,1,0,6,8,5,18,38,253,24,Minnesota North Stars,7,2,5,8,4,25,36,225,False
+1986,3,3,13,Toronto Maple Leafs,4,1,4,4,0,10,49,263,36,Winnipeg Jets,3,1,4,8,5,32,25,127,True
+1986,3,4,38,Calgary Flames,6,1,3,4,1,28,28,181,20,Pittsburgh Penguins,8,1,5,8,1,36,41,256,True
+1986,3,4,28,New York Islanders,5,0,5,7,3,30,13,99,0,Montreal Canadiens,5,2,6,9,3,25,28,203,True
+1986,3,4,23,Philadelphia Flyers,6,1,1,4,2,29,22,150,26,Buffalo Sabres,5,1,7,11,4,29,32,182,False
+1986,3,4,34,Quebec Nordiques,3,1,4,8,2,37,39,238,21,St. Louis Blues,6,1,4,6,3,25,29,249,False
+1986,3,4,25,Vancouver Canucks,2,0,2,1,1,25,22,186,35,Edmonton Oilers,7,2,2,2,6,45,29,217,False
+1986,3,4,30,Washington Capitals,7,2,5,4,1,35,15,157,39,New Jersey Devils,5,0,6,11,4,29,29,151,True
+1986,3,5,11,Chicago Black Hawks,7,2,6,12,5,32,26,170,16,Detroit Red Wings,1,0,5,9,4,28,40,261,False
+1986,3,5,35,Edmonton Oilers,8,2,6,12,1,33,25,202,22,Los Angeles Kings,3,0,1,2,5,30,46,274,True
+1986,3,5,37,Hartford Whalers,4,1,4,6,1,25,17,127,26,Buffalo Sabres,5,1,6,8,4,33,32,186,True
+1986,3,5,24,Minnesota North Stars,7,2,8,14,5,29,37,229,13,Toronto Maple Leafs,5,0,6,8,1,32,50,285,True
+1986,3,5,36,Winnipeg Jets,2,0,1,1,5,17,26,126,10,New York Rangers,7,2,2,1,3,32,28,221,True
+1986,3,6,6,Boston Bruins,5,1,2,2,4,33,33,212,34,Quebec Nordiques,2,1,3,6,0,5,31,195,False
+1986,3,6,38,Calgary Flames,7,2,8,11,3,41,31,192,10,New York Rangers,6,0,1,2,4,32,29,225,False
+1986,3,6,0,Montreal Canadiens,4,2,3,4,4,29,35,192,21,St. Louis Blues,6,0,6,11,6,48,27,251,False
+1986,3,6,39,New Jersey Devils,5,1,2,2,4,30,29,152,16,Detroit Red Wings,2,1,8,12,7,26,39,280,True
+1986,3,6,23,Philadelphia Flyers,5,1,4,8,2,19,23,123,13,Toronto Maple Leafs,5,1,3,5,6,23,54,298,True
+1986,3,6,25,Vancouver Canucks,2,1,2,3,6,30,25,185,22,Los Angeles Kings,3,1,3,5,3,10,46,274,False
+1986,3,7,26,Buffalo Sabres,5,0,2,2,5,33,33,215,37,Hartford Whalers,4,2,5,7,1,25,17,127,False
+1986,3,7,35,Edmonton Oilers,9,1,6,11,2,30,27,202,20,Pittsburgh Penguins,7,1,3,4,6,22,46,256,True
+1986,3,8,37,Hartford Whalers,5,2,5,11,2,26,18,128,34,Quebec Nordiques,3,0,5,6,4,33,35,223,False
+1986,3,8,24,Minnesota North Stars,8,1,4,10,0,0,33,255,36,Winnipeg Jets,3,1,4,8,1,24,22,133,False
+1986,3,8,0,Montreal Canadiens,4,2,4,7,0,6,29,145,6,Boston Bruins,5,0,4,7,2,34,34,210,True
+1986,3,8,39,New Jersey Devils,5,0,7,11,4,11,27,150,23,Philadelphia Flyers,5,2,7,13,3,7,25,135,True
+1986,3,8,28,New York Islanders,5,1,6,9,3,40,13,109,30,Washington Capitals,8,1,4,7,2,25,14,118,False
+1986,3,8,21,St. Louis Blues,6,2,7,8,3,33,30,249,25,Vancouver Canucks,2,0,5,8,5,46,24,201,True
+1986,3,8,13,Toronto Maple Leafs,4,1,3,8,5,45,54,327,11,Chicago Black Hawks,6,1,3,6,4,33,31,185,True
+1986,3,9,26,Buffalo Sabres,4,2,3,2,6,20,34,205,39,New Jersey Devils,5,0,7,12,2,28,26,171,True
+1986,3,9,11,Chicago Black Hawks,5,1,3,4,8,29,31,188,21,St. Louis Blues,7,1,7,14,4,32,30,257,True
+1986,3,9,16,Detroit Red Wings,2,0,2,4,2,13,36,241,38,Calgary Flames,7,2,2,3,6,46,30,187,False
+1986,3,9,22,Los Angeles Kings,4,0,5,8,5,30,52,285,35,Edmonton Oilers,9,2,5,8,3,33,28,202,False
+1986,3,9,10,New York Rangers,6,1,5,7,2,26,23,186,23,Philadelphia Flyers,4,1,3,5,2,14,25,114,False
+1986,3,9,36,Winnipeg Jets,3,0,4,5,2,35,23,144,20,Pittsburgh Penguins,6,2,3,5,6,36,44,276,True
+1986,3,9,30,Washington Capitals,8,2,6,10,2,18,14,111,28,New York Islanders,4,0,2,2,1,9,13,64,True
+1986,3,10,0,Montreal Canadiens,5,1,8,11,3,23,32,163,37,Hartford Whalers,5,1,4,6,6,39,22,149,False
+1986,3,11,24,Minnesota North Stars,7,0,2,4,3,35,38,293,35,Edmonton Oilers,9,2,7,12,3,30,28,205,True
+1986,3,11,39,New Jersey Devils,5,1,3,5,4,26,28,169,10,New York Rangers,5,1,1,2,4,10,25,182,False
+1986,3,11,28,New York Islanders,4,0,1,1,3,37,15,92,38,Calgary Flames,7,2,2,3,5,34,27,164,True
+1986,3,11,34,Quebec Nordiques,3,2,6,8,3,24,36,214,25,Vancouver Canucks,2,0,3,4,3,43,24,169,False
+1986,3,11,21,St. Louis Blues,6,0,2,3,3,41,24,233,26,Buffalo Sabres,5,2,4,8,3,34,31,219,True
+1986,3,11,30,Washington Capitals,8,1,3,6,2,35,13,118,20,Pittsburgh Penguins,5,1,3,5,4,42,42,266,True
+1986,3,12,11,Chicago Black Hawks,6,2,4,6,4,36,25,201,26,Buffalo Sabres,5,0,2,3,3,34,31,219,False
+1986,3,12,22,Los Angeles Kings,3,1,2,6,5,28,54,290,16,Detroit Red Wings,2,1,3,7,3,29,40,255,False
+1986,3,12,0,Montreal Canadiens,4,2,1,4,5,30,34,170,25,Vancouver Canucks,2,0,1,2,7,25,22,158,True
+1986,3,12,10,New York Rangers,5,1,4,4,0,15,24,206,38,Calgary Flames,7,1,5,7,3,7,28,140,False
+1986,3,12,20,Pittsburgh Penguins,4,1,3,6,4,26,42,257,6,Boston Bruins,5,1,3,3,2,4,34,176,False
+1986,3,12,36,Winnipeg Jets,4,1,5,4,3,24,24,133,35,Edmonton Oilers,8,1,0,0,3,36,29,219,False
+1986,3,13,6,Boston Bruins,5,0,5,9,2,23,34,195,0,Montreal Canadiens,5,2,4,4,2,33,31,173,True
+1986,3,13,37,Hartford Whalers,5,1,5,8,2,25,17,116,28,New York Islanders,4,1,8,14,4,36,16,91,False
+1986,3,13,39,New Jersey Devils,5,1,3,5,6,30,30,173,13,Toronto Maple Leafs,5,1,5,10,6,52,52,308,False
+1986,3,13,23,Philadelphia Flyers,5,1,4,5,1,31,23,138,30,Washington Capitals,8,1,4,6,1,25,14,124,True
+1986,3,13,21,St. Louis Blues,7,1,3,6,4,33,27,230,24,Minnesota North Stars,8,1,4,8,0,27,35,276,False
+1986,3,14,35,Edmonton Oilers,8,2,8,15,4,44,31,237,16,Detroit Red Wings,3,0,3,3,0,28,37,254,True
+1986,3,14,34,Quebec Nordiques,3,1,2,3,1,31,39,228,38,Calgary Flames,7,1,3,6,5,20,23,148,True
+1986,3,15,6,Boston Bruins,6,2,3,6,2,23,34,199,25,Vancouver Canucks,2,0,2,3,1,32,21,177,False
+1986,3,15,37,Hartford Whalers,4,0,2,1,5,17,18,114,11,Chicago Black Hawks,5,2,6,12,2,42,26,197,True
+1986,3,15,22,Los Angeles Kings,2,1,0,0,3,26,52,288,26,Buffalo Sabres,5,1,7,13,6,31,32,167,True
+1986,3,15,0,Montreal Canadiens,5,2,2,4,3,19,31,152,38,Calgary Flames,7,0,1,5,2,28,23,171,False
+1986,3,15,28,New York Islanders,5,1,3,6,5,20,14,90,39,New Jersey Devils,4,1,4,7,5,32,31,174,True
+1986,3,15,20,Pittsburgh Penguins,3,1,2,4,4,33,43,264,10,New York Rangers,4,1,2,4,3,34,25,229,False
+1986,3,15,34,Quebec Nordiques,4,1,6,10,2,31,40,228,24,Minnesota North Stars,8,1,3,7,5,32,35,287,True
+1986,3,15,21,St. Louis Blues,6,0,2,4,2,22,23,201,30,Washington Capitals,8,2,0,0,1,29,13,130,False
+1986,3,15,13,Toronto Maple Leafs,6,1,7,13,2,20,47,253,23,Philadelphia Flyers,5,1,2,4,3,32,28,157,False
+1986,3,16,11,Chicago Black Hawks,5,2,4,8,6,19,28,150,25,Vancouver Canucks,3,0,1,2,3,26,21,188,True
+1986,3,16,10,New York Rangers,4,1,2,3,3,33,24,221,28,New York Islanders,6,1,3,5,2,35,10,102,True
+1986,3,16,23,Philadelphia Flyers,5,1,6,10,0,8,30,126,39,New Jersey Devils,4,1,1,0,7,31,31,144,True
+1986,3,16,36,Winnipeg Jets,4,2,5,9,8,31,29,140,16,Detroit Red Wings,3,0,3,3,7,22,40,250,True
+1986,3,17,24,Minnesota North Stars,7,1,2,4,2,41,33,292,21,St. Louis Blues,5,1,4,8,3,26,24,212,True
+1986,3,17,0,Montreal Canadiens,4,1,3,6,4,28,35,169,34,Quebec Nordiques,5,1,3,6,2,28,32,209,False
+1986,3,17,20,Pittsburgh Penguins,3,1,2,4,5,33,41,261,30,Washington Capitals,9,1,5,9,3,22,16,125,False
+1986,3,17,13,Toronto Maple Leafs,5,0,5,9,6,40,51,273,22,Los Angeles Kings,3,2,6,6,3,18,52,280,True
+1986,3,18,16,Detroit Red Wings,3,1,0,0,6,33,39,261,37,Hartford Whalers,5,1,11,19,0,1,17,121,False
+1986,3,18,35,Edmonton Oilers,9,2,11,23,5,54,30,224,36,Winnipeg Jets,5,0,6,8,6,31,21,124,True
+1986,3,18,28,New York Islanders,5,0,1,2,1,32,5,62,10,New York Rangers,5,2,5,1,1,32,22,220,True
+1986,3,18,30,Washington Capitals,9,2,5,4,4,24,16,129,22,Los Angeles Kings,2,0,5,13,2,4,49,260,False
+1986,3,19,38,Calgary Flames,7,0,4,6,6,41,26,168,24,Minnesota North Stars,7,2,6,9,5,38,31,279,False
+1986,3,19,39,New Jersey Devils,3,0,1,3,3,10,25,122,20,Pittsburgh Penguins,2,2,3,4,2,30,41,254,False
+1986,3,19,34,Quebec Nordiques,6,2,8,13,6,27,36,208,13,Toronto Maple Leafs,6,0,7,12,2,9,49,262,True
+1986,3,19,21,St. Louis Blues,5,1,5,6,5,34,31,228,37,Hartford Whalers,6,1,7,10,4,27,21,147,False
+1986,3,19,25,Vancouver Canucks,3,1,4,7,1,43,21,178,26,Buffalo Sabres,4,1,3,5,4,40,30,208,False
+1986,3,19,36,Winnipeg Jets,4,0,2,3,0,15,21,121,0,Montreal Canadiens,4,2,6,9,1,6,38,164,True
+1986,3,20,6,Boston Bruins,5,2,1,2,1,25,37,200,22,Los Angeles Kings,3,0,5,9,2,25,49,281,True
+1986,3,20,16,Detroit Red Wings,3,0,4,8,5,36,38,264,21,St. Louis Blues,4,2,2,3,4,28,28,229,False
+1986,3,20,23,Philadelphia Flyers,5,2,4,7,1,21,32,143,20,Pittsburgh Penguins,2,0,7,11,5,26,42,242,True
+1986,3,20,13,Toronto Maple Leafs,5,0,2,4,4,41,51,294,28,New York Islanders,6,2,6,10,2,26,10,89,False
+1986,3,21,26,Buffalo Sabres,5,2,4,7,3,29,29,197,39,New Jersey Devils,3,0,3,5,1,21,29,137,False
+1986,3,21,38,Calgary Flames,6,2,6,8,1,10,25,135,25,Vancouver Canucks,3,0,3,6,5,35,24,156,False
+1986,3,21,35,Edmonton Oilers,9,1,7,10,3,31,27,204,24,Minnesota North Stars,8,1,6,10,5,35,36,281,True
+1986,3,21,30,Washington Capitals,8,1,2,4,3,26,19,128,36,Winnipeg Jets,5,1,6,5,4,23,30,157,True
+1986,3,22,6,Boston Bruins,5,0,6,11,3,20,39,195,28,New York Islanders,6,2,7,14,2,21,9,97,False
+1986,3,22,16,Detroit Red Wings,3,1,2,4,5,20,36,252,11,Chicago Black Hawks,5,1,5,7,4,48,28,190,True
+1986,3,22,37,Hartford Whalers,7,1,5,9,2,34,16,153,22,Los Angeles Kings,3,1,4,6,6,42,53,298,True
+1986,3,22,23,Philadelphia Flyers,6,1,5,8,5,12,32,146,10,New York Rangers,4,1,2,3,5,23,24,217,True
+1986,3,22,34,Quebec Nordiques,7,2,5,7,2,31,37,227,20,Pittsburgh Penguins,2,0,1,0,3,18,42,244,False
+1986,3,22,21,St. Louis Blues,5,1,3,5,6,34,27,228,0,Montreal Canadiens,3,1,4,7,6,23,37,174,True
+1986,3,22,13,Toronto Maple Leafs,4,2,1,1,4,23,54,284,39,New Jersey Devils,3,0,6,11,3,28,28,163,False
+1986,3,22,25,Vancouver Canucks,3,1,5,6,4,21,24,155,24,Minnesota North Stars,7,1,4,7,3,37,36,303,True
+1986,3,23,26,Buffalo Sabres,5,0,3,4,6,28,38,193,22,Los Angeles Kings,3,2,3,4,5,29,52,285,True
+1986,3,23,37,Hartford Whalers,8,1,6,8,3,28,17,147,6,Boston Bruins,4,1,3,3,3,25,39,200,False
+1986,3,23,10,New York Rangers,4,0,2,4,1,14,23,239,11,Chicago Black Hawks,4,2,3,8,5,18,32,172,False
+1986,3,23,36,Winnipeg Jets,5,0,3,5,6,28,31,164,38,Calgary Flames,5,2,6,10,5,34,33,177,False
+1986,3,23,30,Washington Capitals,8,0,5,9,5,28,21,132,23,Philadelphia Flyers,7,2,4,7,2,31,29,165,True
+1986,3,24,24,Minnesota North Stars,6,1,2,4,5,55,39,303,34,Quebec Nordiques,6,1,4,10,7,37,34,199,False
+1986,3,24,36,Winnipeg Jets,5,1,4,7,4,5,27,132,25,Vancouver Canucks,4,1,6,9,5,34,26,167,True
+1986,3,25,16,Detroit Red Wings,3,0,8,9,4,38,39,252,35,Edmonton Oilers,9,2,5,8,2,34,28,214,False
+1986,3,25,39,New Jersey Devils,4,0,6,12,3,39,28,161,10,New York Rangers,4,2,3,5,0,3,26,198,False
+1986,3,25,28,New York Islanders,7,1,2,6,1,34,9,110,21,St. Louis Blues,5,1,3,5,2,33,29,236,False
+1986,3,25,30,Washington Capitals,8,2,7,9,1,11,18,102,6,Boston Bruins,5,0,5,10,5,25,40,184,True
+1986,3,26,11,Chicago Black Hawks,4,0,5,8,8,30,30,187,16,Detroit Red Wings,3,2,2,2,3,30,42,247,True
+1986,3,26,37,Hartford Whalers,7,1,5,9,5,29,17,148,0,Montreal Canadiens,2,1,2,3,7,23,30,174,True
+1986,3,26,22,Los Angeles Kings,3,0,1,2,5,35,52,291,38,Calgary Flames,5,2,6,10,5,25,33,182,True
+1986,3,26,20,Pittsburgh Penguins,2,1,7,11,5,28,43,259,35,Edmonton Oilers,9,1,7,10,4,41,28,223,False
+1986,3,26,13,Toronto Maple Leafs,4,0,3,3,7,31,56,297,24,Minnesota North Stars,5,2,0,0,6,31,33,274,False
+1986,3,26,25,Vancouver Canucks,4,1,4,8,1,18,27,152,34,Quebec Nordiques,7,1,1,2,0,27,27,189,True
+1986,3,27,6,Boston Bruins,4,1,3,5,6,36,41,195,0,Montreal Canadiens,2,1,0,0,3,27,26,178,False
+1986,3,27,39,New Jersey Devils,3,0,4,6,2,5,30,151,21,St. Louis Blues,5,2,2,4,2,35,22,237,True
+1986,3,27,23,Philadelphia Flyers,7,1,5,8,2,18,31,127,26,Buffalo Sabres,5,1,6,10,1,25,28,186,False
+1986,3,28,38,Calgary Flames,4,2,4,10,0,3,28,157,36,Winnipeg Jets,6,0,8,16,3,21,27,161,True
+1986,3,28,10,New York Rangers,5,1,5,8,4,32,30,227,35,Edmonton Oilers,9,1,7,14,2,43,27,209,True
+1986,3,28,25,Vancouver Canucks,5,1,7,12,7,28,32,166,22,Los Angeles Kings,4,1,7,9,3,27,50,283,True
+1986,3,28,30,Washington Capitals,8,2,6,10,4,12,18,111,28,New York Islanders,6,0,1,0,2,34,7,108,False
+1986,3,29,6,Boston Bruins,4,1,3,7,0,0,38,198,26,Buffalo Sabres,5,1,1,2,0,30,27,191,True
+1986,3,29,16,Detroit Red Wings,2,0,3,6,7,33,39,256,24,Minnesota North Stars,5,2,6,10,1,34,27,287,False
+1986,3,29,37,Hartford Whalers,7,1,3,6,0,30,12,149,30,Washington Capitals,7,1,3,4,3,20,18,125,False
+1986,3,29,22,Los Angeles Kings,3,1,1,2,2,33,49,289,34,Quebec Nordiques,7,1,6,8,0,7,30,166,False
+1986,3,29,0,Montreal Canadiens,3,1,3,7,3,29,25,176,20,Pittsburgh Penguins,2,1,3,3,4,33,46,263,True
+1986,3,29,39,New Jersey Devils,3,1,1,2,0,24,27,171,11,Chicago Black Hawks,5,1,5,7,3,33,25,183,True
+1986,3,29,28,New York Islanders,7,0,3,6,2,24,7,57,35,Edmonton Oilers,8,2,4,3,3,27,29,198,False
+1986,3,29,23,Philadelphia Flyers,7,2,0,0,0,3,26,130,10,New York Rangers,5,0,4,8,5,20,26,232,True
+1986,3,29,13,Toronto Maple Leafs,3,1,1,2,6,35,55,301,21,St. Louis Blues,4,1,0,0,0,33,30,243,True
+1986,3,30,26,Buffalo Sabres,5,1,1,2,2,28,29,189,6,Boston Bruins,5,1,2,1,1,26,39,224,False
+1986,3,30,11,Chicago Black Hawks,4,0,3,1,3,26,25,175,13,Toronto Maple Leafs,4,2,4,6,1,28,50,294,False
+1986,3,30,25,Vancouver Canucks,6,1,2,2,1,30,29,184,38,Calgary Flames,5,1,6,12,7,36,31,187,True
+1986,3,31,22,Los Angeles Kings,3,1,3,6,4,28,51,284,36,Winnipeg Jets,5,1,3,5,4,34,30,169,False
+1986,3,31,10,New York Rangers,5,2,2,3,2,36,29,248,39,New Jersey Devils,4,0,3,6,2,39,29,186,True
+1986,4,1,38,Calgary Flames,4,0,2,2,4,32,28,183,25,Vancouver Canucks,6,2,4,7,2,14,24,148,True
+1986,4,1,37,Hartford Whalers,6,2,6,7,6,24,22,151,26,Buffalo Sabres,5,0,3,6,6,30,33,198,True
+1986,4,1,24,Minnesota North Stars,6,1,5,10,4,22,32,256,11,Chicago Black Hawks,4,1,4,4,3,25,27,185,False
+1986,4,1,23,Philadelphia Flyers,7,1,8,16,2,25,28,152,28,New York Islanders,7,1,4,7,1,5,9,79,True
+1986,4,1,34,Quebec Nordiques,7,1,5,8,3,40,33,199,16,Detroit Red Wings,2,1,4,7,5,34,39,267,True
+1986,4,1,21,St. Louis Blues,4,0,1,2,1,31,31,252,13,Toronto Maple Leafs,5,2,5,7,4,53,53,319,False
+1986,4,1,30,Washington Capitals,7,2,6,11,4,26,21,130,20,Pittsburgh Penguins,2,0,3,6,4,18,46,248,True
+1986,4,2,11,Chicago Black Hawks,5,1,2,4,1,33,25,193,24,Minnesota North Stars,5,1,1,1,1,38,31,264,False
+1986,4,2,35,Edmonton Oilers,8,2,4,7,4,32,30,205,25,Vancouver Canucks,6,0,5,7,1,6,28,154,True
+1986,4,2,22,Los Angeles Kings,3,0,2,3,4,29,51,285,36,Winnipeg Jets,5,2,5,9,2,27,28,162,False
+1986,4,2,0,Montreal Canadiens,3,2,4,5,3,30,26,184,16,Detroit Red Wings,2,0,0,0,5,43,38,262,True
+1986,4,2,39,New Jersey Devils,4,1,0,0,5,29,36,190,34,Quebec Nordiques,7,1,4,6,7,19,30,186,True
+1986,4,2,10,New York Rangers,5,0,9,16,0,25,26,232,23,Philadelphia Flyers,8,2,4,6,2,17,27,145,False
+1986,4,2,20,Pittsburgh Penguins,2,1,3,3,8,32,47,255,28,New York Islanders,6,1,2,5,4,45,11,107,False
+1986,4,3,6,Boston Bruins,6,2,5,9,3,38,40,237,13,Toronto Maple Leafs,5,0,2,0,2,32,51,298,True
+1986,4,3,30,Washington Capitals,7,2,5,8,3,27,20,131,37,Hartford Whalers,7,0,5,9,3,25,19,152,True
+1986,4,4,26,Buffalo Sabres,4,1,3,3,4,27,32,200,0,Montreal Canadiens,4,1,6,9,6,34,26,183,True
+1986,4,4,38,Calgary Flames,5,0,5,12,3,33,29,180,35,Edmonton Oilers,8,2,8,10,4,34,30,208,True
+1986,4,5,37,Hartford Whalers,6,2,2,3,4,25,20,152,13,Toronto Maple Leafs,4,0,2,4,4,27,53,293,True
+1986,4,5,22,Los Angeles Kings,2,1,4,7,5,29,51,286,25,Vancouver Canucks,5,1,4,7,5,26,35,184,False
+1986,4,5,24,Minnesota North Stars,5,2,7,11,2,23,35,267,16,Detroit Red Wings,1,0,3,2,4,29,39,253,True
+1986,4,5,0,Montreal Canadiens,3,1,2,3,1,9,21,144,26,Buffalo Sabres,5,1,4,6,2,24,25,168,True
+1986,4,5,28,New York Islanders,6,1,7,9,2,42,9,104,39,New Jersey Devils,5,1,6,12,0,0,35,174,True
+1986,4,5,20,Pittsburgh Penguins,2,0,1,2,5,25,46,245,23,Philadelphia Flyers,8,2,3,6,2,43,25,156,False
+1986,4,5,34,Quebec Nordiques,7,1,5,9,0,27,29,197,6,Boston Bruins,6,1,4,8,3,25,38,230,False
+1986,4,5,21,St. Louis Blues,3,0,2,5,2,38,30,255,11,Chicago Black Hawks,4,2,5,8,5,36,31,187,True
+1986,4,5,30,Washington Capitals,8,2,4,6,2,27,18,142,10,New York Rangers,5,0,2,2,3,29,30,237,False
+1986,4,6,6,Boston Bruins,6,1,2,4,2,31,39,241,37,Hartford Whalers,7,1,7,11,4,34,17,148,False
+1986,4,6,11,Chicago Black Hawks,4,1,5,9,7,32,32,178,21,St. Louis Blues,4,1,7,9,4,41,33,250,True
+1986,4,6,16,Detroit Red Wings,1,1,3,6,6,34,41,245,13,Toronto Maple Leafs,4,1,1,1,1,7,50,258,True
+1986,4,6,39,New Jersey Devils,5,0,1,2,4,32,37,186,28,New York Islanders,6,2,7,11,3,32,8,90,True
+1986,4,6,10,New York Rangers,5,2,3,5,8,36,30,242,20,Pittsburgh Penguins,2,0,3,6,7,22,45,254,False
+1986,4,6,23,Philadelphia Flyers,8,1,4,6,3,26,28,139,30,Washington Capitals,7,1,4,6,4,27,20,142,True
+1986,4,6,25,Vancouver Canucks,6,0,5,9,8,36,30,185,35,Edmonton Oilers,8,2,3,6,4,35,35,210,False
+1986,4,6,36,Winnipeg Jets,5,0,4,7,4,38,27,154,38,Calgary Flames,5,2,8,18,3,29,26,189,False
