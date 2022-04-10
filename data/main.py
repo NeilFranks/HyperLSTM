@@ -331,7 +331,8 @@ if __name__ == "__main__":
     if not os.path.isdir(DIR):
         os.mkdir(DIR)
 
-    for start_year in range(1918, 2022, 4):
+    # for start_year in range(1918, 2022, 4):
+    for start_year in range(1934, 2022, 4):
         # keep track of game outcomes
         # key: team, value: list of binary win conditions (win: +1; tie/loss: 0)
         outcome_dict = {}

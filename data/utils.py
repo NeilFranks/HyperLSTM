@@ -25,16 +25,28 @@ def get_data_from_row(row, data_stat: str):
 
 
 def get_player_id_from_row(row):
-    return row.find(
+    player = row.find(
         "td", {"data-stat": "player"}
-    ).next.attrs['href'].split("/")[-1].split(".")[0]
+    )
+    try:
+        return player.next.attrs['href'].split("/")[-1].split(".")[0]
+    except:
+        if player.text == "Empty Net":
+            return None
+        else:
+            print("interesting.... %s" % player.text)
+            return player.text
 
 
 def get_player_ids_from_table(table):
     rows = table.tbody.find_all("tr")
     player_ids = []
     for row in rows:
-        player_ids.append(get_player_id_from_row(row))
+        player_id = get_player_id_from_row(row)
+        # "Empty Net" is sometimes listed as a goalie, which returns an id of 'None'
+        if player_id:
+            player_ids.append(player_id)
+
     return player_ids
 
 # team stuff
