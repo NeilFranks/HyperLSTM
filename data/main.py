@@ -36,8 +36,8 @@ def get_data_for_year(year, CSV_NAME=None):
     if CSV_NAME:
         with open(CSV_NAME, 'w') as file:
             file.write("Year, Month, Day,")
-            file.write("Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last10, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,")
-            file.write("Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last10, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,")
+            file.write("Home_ID, Home_name, Home_wins_last10, Home_wins_VERSUS_last2, Home_goals_lastGame, Home_assists_lastGame, Home_GA_startingGoalie, Home_SA_startingGoalie, Home_GA_allGoalies, Home_SA_allGoalies,")
+            file.write("Away_ID, Away_name, Away_wins_last10, Away_wins_VERSUS_last2, Away_goals_lastGame, Away_assists_lastGame, Away_GA_startingGoalie, Away_SA_startingGoalie, Away_GA_allGoalies, Away_SA_allGoalies,")
             file.write("Home_Won")
             file.write("\n")
 
@@ -53,7 +53,7 @@ def get_data_for_year(year, CSV_NAME=None):
             Home team ID
             Home team name
             Home team # of wins over the last 10 games
-            Home team # of wins over the away team in their last 10 games against each other
+            Home team # of wins over the away team in their last 2 games against each other
             Home team # of goals for each player in the lineup during their most recent game
             Home team # of assists for each player in the lineup during their most recent game
             Home team # of goals allowed by the starting goalie during their most recent game
@@ -64,7 +64,7 @@ def get_data_for_year(year, CSV_NAME=None):
             Away team ID
             Away team name
             Away team # of wins over the last 10 games
-            Away team # of wins over the home team in their last 10 games against each other (not always inferrible, since they could've tied!)
+            Away team # of wins over the home team in their last 2 games against each other (not always inferrible, since they could've tied!)
             Away team # of goals for each player in the lineup during their most recent game
             Away team # of assists for each player in the lineup during their most recent game
             Away team # of goals allowed by the starting goalie during their most recent game
@@ -116,12 +116,12 @@ def get_data_for_year(year, CSV_NAME=None):
                 outcome_dict[away_team_id][-10:]
             ) if away_team_id in outcome_dict else 0
 
-            # get number of wins versus each other over last 10 meetings
+            # get number of wins versus each other over last 2 meetings
             home_wins_VERSUS_last_10 = sum(
-                outcome_by_team_dict[home_team_id][away_team_id][-10:]
+                outcome_by_team_dict[home_team_id][away_team_id][-2:]
             ) if home_team_id in outcome_by_team_dict and away_team_id in outcome_by_team_dict[home_team_id] else 0
             away_wins_VERSUS_last_10 = sum(
-                outcome_by_team_dict[away_team_id][home_team_id][-10:]
+                outcome_by_team_dict[away_team_id][home_team_id][-2:]
             ) if away_team_id in outcome_by_team_dict and home_team_id in outcome_by_team_dict[away_team_id] else 0
 
             goalies_tables = boxscore_soup.find_all(
@@ -241,11 +241,11 @@ def get_data_for_year(year, CSV_NAME=None):
             )
 
 
-def write_to_CSV(CSV_NAME, year, month, day, home_id, home_name, home_wins_last10, home_wins_versus_last10, home_goals_lastGame, home_assists_lastGame, home_GA_startingGoalie, home_SA_startingGoalie, home_GA_allGoalies, home_SA_allGoalies, away_id, away_name, away_wins_last10, away_wins_versus_last10, away_goals_lastGame, away_assists_lastGame, away_GA_startingGoalie, away_SA_startingGoalie, away_GA_allGoalies, away_SA_allGoalies, outcome):
+def write_to_CSV(CSV_NAME, year, month, day, home_id, home_name, home_wins_last10, home_wins_VERSUS_last2, home_goals_lastGame, home_assists_lastGame, home_GA_startingGoalie, home_SA_startingGoalie, home_GA_allGoalies, home_SA_allGoalies, away_id, away_name, away_wins_last10, away_wins_VERSUS_last2, away_goals_lastGame, away_assists_lastGame, away_GA_startingGoalie, away_SA_startingGoalie, away_GA_allGoalies, away_SA_allGoalies, outcome):
     with open(CSV_NAME, 'a') as file:
         file.write(f"{year}, {month}, {day},")
-        file.write(f"{home_id}, {home_name}, {home_wins_last10}, {home_wins_versus_last10}, {home_goals_lastGame}, {home_assists_lastGame}, {home_GA_startingGoalie}, {home_SA_startingGoalie}, {home_GA_allGoalies}, {home_SA_allGoalies},")
-        file.write(f"{away_id}, {away_name}, {away_wins_last10}, {away_wins_versus_last10}, {away_goals_lastGame}, {away_assists_lastGame}, {away_GA_startingGoalie}, {away_SA_startingGoalie}, {away_GA_allGoalies}, {away_SA_allGoalies},")
+        file.write(f"{home_id}, {home_name}, {home_wins_last10}, {home_wins_VERSUS_last2}, {home_goals_lastGame}, {home_assists_lastGame}, {home_GA_startingGoalie}, {home_SA_startingGoalie}, {home_GA_allGoalies}, {home_SA_allGoalies},")
+        file.write(f"{away_id}, {away_name}, {away_wins_last10}, {away_wins_VERSUS_last2}, {away_goals_lastGame}, {away_assists_lastGame}, {away_GA_startingGoalie}, {away_SA_startingGoalie}, {away_GA_allGoalies}, {away_SA_allGoalies},")
         file.write(f"{outcome}")
         file.write("\n")
 
@@ -280,8 +280,16 @@ def record(outcome_dict, outcome_by_team_dict, players_dict, goalies_dict, goali
             player_id = get_player_id_from_row(row)
 
             # get points
-            goals = int(get_data_from_row(row, "goals"))
-            assists = int(get_data_from_row(row, "assists"))
+            try:
+                goals = int(get_data_from_row(row, "goals"))
+            except:
+                # Sometimes goals is just empty: e.g. https://www.hockey-reference.com/boxscores/198711110HAR.html
+                goals = 0
+            try:
+                assists = int(get_data_from_row(row, "assists"))
+            except:
+                # Sometimes assists is just empty; e.g. https://www.hockey-reference.com/boxscores/198710240NYI.html Chevrier
+                assists = 0
 
             # update player history
             players_dict = list_in_dict(players_dict, player_id)
@@ -331,8 +339,7 @@ if __name__ == "__main__":
     if not os.path.isdir(DIR):
         os.mkdir(DIR)
 
-    # for start_year in range(1918, 2022, 4):
-    for start_year in range(1934, 2022, 4):
+    for start_year in range(1918, 2022, 4):
         # keep track of game outcomes
         # key: team, value: list of binary win conditions (win: +1; tie/loss: 0)
         outcome_dict = {}
