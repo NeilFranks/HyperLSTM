@@ -5,7 +5,7 @@ description = ""
 authors = ["Neil Franks <neilmichaelfranks@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.11"
+python = ">=3.9,<3.10"
 absl-py = "^1.0.0"
 ml-collections = "^0.1.1"
 flax = {version = "^0.4.1", extras = ["jax"]}
