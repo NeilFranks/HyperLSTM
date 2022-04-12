@@ -4,23 +4,18 @@ import torch.nn.functional as F
 import pytorch_lightning as pl
 from .sam import SAM
 
-class LitAutoEncoder(pl.LightningModule):
+class MNISTModel(pl.LightningModule):
     def __init__(self):
         super().__init__()
-        self.encoder = nn.Sequential(nn.Linear(28 * 28, 128), nn.ReLU(), nn.Linear(128, 3))
-        self.decoder = nn.Sequential(nn.Linear(3, 128), nn.ReLU(), nn.Linear(128, 28 * 28))
+        self.l1 = torch.nn.Linear(28 * 28, 10)
+        self.automatic_optimization = False
 
     def forward(self, x):
-        # in lightning, forward defines the prediction/inference actions
-        embedding = self.encoder(x)
-        return embedding
+        return torch.relu(self.l1(x.view(x.size(0), -1)))
 
     def compute_loss(self, batch):
         x, y = batch
-        x = x.view(x.size(0), -1)
-        z = self.encoder(x)
-        x_hat = self.decoder(z)
-        loss = F.mse_loss(x_hat, x)
+        loss = F.cross_entropy(self(x), y)
         return loss
 
     def training_step(self, batch, batch_idx):
