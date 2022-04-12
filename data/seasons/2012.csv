@@ -1,0 +1,1231 @@
+Year,Month,Day,Home_ID,Home_name,Home_wins_last10,Home_wins_VERSUS_last2,Home_goals_lastGame,Home_assists_lastGame,Home_GA_startingGoalie,Home_SA_startingGoalie,Home_GA_allGoalies,Home_SA_allGoalies,Away_ID,Away_name,Away_wins_last10,Away_wins_VERSUS_last2,Away_goals_lastGame,Away_assists_lastGame,Away_GA_startingGoalie,Away_SA_startingGoalie,Away_GA_allGoalies,Away_SA_allGoalies,Home_Won
+2011,10,6,6,Boston Bruins,6,2,2,4,1,32,13,130,23,Philadelphia Flyers,3,0,7,7,3,37,24,229,False
+2011,10,6,13,Toronto Maple Leafs,6,1,2,1,4,34,34,253,0,Montreal Canadiens,5,1,3,3,1,28,12,118,True
+2011,10,6,25,Vancouver Canucks,7,1,1,5,0,29,8,163,20,Pittsburgh Penguins,8,1,3,5,3,38,20,196,False
+2011,10,7,26,Buffalo Sabres,8,1,7,10,1,21,7,106,53,Anaheim Ducks,7,1,3,4,3,9,14,151,True
+2011,10,7,48,Carolina Hurricanes,7,0,1,3,4,33,18,133,42,Tampa Bay Lightning,7,2,6,9,2,25,24,297,False
+2011,10,7,51,Columbus Blue Jackets,1,0,2,8,5,30,13,159,49,Nashville Predators,7,2,0,2,2,25,13,151,False
+2011,10,7,43,Dallas Stars,4,2,2,7,4,22,25,219,40,Chicago Blackhawks,5,0,3,8,4,31,20,154,True
+2011,10,7,16,Detroit Red Wings,4,2,5,5,3,36,21,175,2,Ottawa Senators,5,0,1,3,2,29,23,257,True
+2011,10,7,22,Los Angeles Kings,6,1,3,6,3,20,14,157,10,New York Rangers,6,1,5,11,2,26,20,153,True
+2011,10,8,53,Anaheim Ducks,6,1,1,1,4,25,15,167,10,New York Rangers,5,1,2,5,3,30,21,157,True
+2011,10,8,6,Boston Bruins,5,2,1,2,2,29,14,127,42,Tampa Bay Lightning,8,0,5,10,1,28,24,333,True
+2011,10,8,38,Calgary Flames,5,0,3,3,1,23,11,130,20,Pittsburgh Penguins,8,2,3,5,3,36,23,208,False
+2011,10,8,40,Chicago Blackhawks,4,0,1,1,2,33,18,156,43,Dallas Stars,5,2,2,3,2,19,22,235,True
+2011,10,8,46,Colorado Avalanche,2,1,5,8,2,33,21,206,16,Detroit Red Wings,5,1,5,7,4,39,21,171,False
+2011,10,8,22,Los Angeles Kings,6,1,3,5,2,19,13,163,26,Buffalo Sabres,8,1,4,8,1,30,7,115,False
+2011,10,8,52,Minnesota Wild,4,0,5,7,5,23,13,121,51,Columbus Blue Jackets,1,2,3,4,3,31,14,174,True
+2011,10,8,39,New Jersey Devils,4,2,1,3,5,29,16,135,23,Philadelphia Flyers,4,0,2,4,1,23,22,215,False
+2011,10,8,28,New York Islanders,3,2,4,10,3,38,33,262,45,Florida Panthers,1,0,0,3,3,29,18,176,False
+2011,10,8,41,San Jose Sharks,7,1,2,4,0,8,13,151,47,Phoenix Coyotes,5,1,1,1,2,44,18,292,True
+2011,10,8,21,St. Louis Blues,6,2,2,2,0,24,9,151,49,Nashville Predators,7,0,3,5,2,34,13,160,False
+2011,10,8,13,Toronto Maple Leafs,6,1,2,4,0,32,32,262,2,Ottawa Senators,5,1,3,6,5,39,26,267,True
+2011,10,8,30,Washington Capitals,7,1,0,2,1,23,13,204,48,Carolina Hurricanes,6,1,1,2,1,26,20,160,True
+2011,10,9,35,Edmonton Oilers,2,0,2,4,2,26,19,206,20,Pittsburgh Penguins,8,2,4,8,2,39,19,182,True
+2011,10,9,36,Winnipeg Jets,0,0,1,6,6,32,6,32,0,Montreal Canadiens,4,0,0,0,2,18,15,78,False
+2011,10,10,6,Boston Bruins,6,1,4,8,3,32,12,103,46,Colorado Avalanche,2,1,0,0,2,38,17,194,False
+2011,10,10,51,Columbus Blue Jackets,1,0,2,3,4,23,15,169,25,Vancouver Canucks,7,2,3,4,2,36,11,155,False
+2011,10,10,43,Dallas Stars,5,1,2,4,1,38,27,233,47,Phoenix Coyotes,4,1,3,6,6,52,21,279,True
+2011,10,10,39,New Jersey Devils,4,2,0,0,2,26,14,135,48,Carolina Hurricanes,5,0,3,6,5,34,23,170,True
+2011,10,10,28,New York Islanders,2,1,0,0,2,29,32,253,52,Minnesota Wild,5,1,4,6,2,31,7,127,True
+2011,10,10,21,St. Louis Blues,6,0,2,4,3,15,12,142,38,Calgary Flames,4,2,3,5,3,39,14,143,True
+2011,10,10,30,Washington Capitals,7,2,4,7,0,28,12,228,42,Tampa Bay Lightning,8,0,1,2,1,33,26,328,True
+2011,10,11,2,Ottawa Senators,4,2,5,8,4,24,24,231,52,Minnesota Wild,5,0,1,2,2,14,7,110,True
+2011,10,11,20,Pittsburgh Penguins,7,2,1,2,3,20,18,178,45,Florida Panthers,2,0,2,4,0,27,18,162,True
+2011,10,12,48,Carolina Hurricanes,5,0,2,5,3,25,21,161,6,Boston Bruins,5,2,0,0,1,26,10,107,True
+2011,10,12,51,Columbus Blue Jackets,1,1,2,3,3,25,14,171,46,Colorado Avalanche,3,1,1,2,0,30,18,191,False
+2011,10,12,23,Philadelphia Flyers,4,0,3,5,0,20,24,222,25,Vancouver Canucks,7,2,3,5,3,28,11,144,True
+2011,10,13,40,Chicago Blackhawks,5,0,5,9,1,23,19,167,36,Winnipeg Jets,0,0,1,2,5,22,5,22,True
+2011,10,13,43,Dallas Stars,6,2,1,2,1,41,22,209,21,St. Louis Blues,6,0,5,8,2,17,11,144,True
+2011,10,13,16,Detroit Red Wings,6,1,3,4,3,32,17,161,25,Vancouver Canucks,6,1,4,8,2,25,13,143,True
+2011,10,13,52,Minnesota Wild,5,2,3,5,3,44,12,142,35,Edmonton Oilers,3,0,1,2,4,25,22,224,True
+2011,10,13,0,Montreal Canadiens,5,1,4,7,1,31,14,100,38,Calgary Flames,4,1,2,4,4,36,16,139,False
+2011,10,13,39,New Jersey Devils,5,0,4,8,3,29,14,135,22,Los Angeles Kings,5,2,2,4,2,26,15,170,True
+2011,10,13,49,Nashville Predators,7,1,4,8,2,33,13,159,47,Phoenix Coyotes,4,1,1,2,1,47,19,264,False
+2011,10,13,28,New York Islanders,2,2,2,4,1,21,35,255,42,Tampa Bay Lightning,7,0,5,9,5,43,30,338,True
+2011,10,13,2,Ottawa Senators,4,0,3,6,3,27,25,241,46,Colorado Avalanche,4,2,2,5,0,11,20,205,False
+2011,10,13,20,Pittsburgh Penguins,7,0,5,7,1,35,13,166,30,Washington Capitals,7,2,5,6,5,28,23,233,False
+2011,10,14,53,Anaheim Ducks,7,1,1,2,1,15,18,186,41,San Jose Sharks,7,1,6,9,3,29,19,182,True
+2011,10,14,26,Buffalo Sabres,8,1,4,7,2,33,8,118,48,Carolina Hurricanes,5,1,3,6,2,28,20,164,False
+2011,10,15,40,Chicago Blackhawks,5,1,3,7,2,21,18,184,6,Boston Bruins,4,1,2,3,3,34,12,115,False
+2011,10,15,43,Dallas Stars,7,1,3,5,2,38,23,206,51,Columbus Blue Jackets,0,1,2,2,2,32,9,152,True
+2011,10,15,35,Edmonton Oilers,3,2,1,2,1,34,15,183,25,Vancouver Canucks,5,0,0,0,5,27,14,133,False
+2011,10,15,45,Florida Panthers,2,1,2,4,4,29,23,189,42,Tampa Bay Lightning,6,1,1,2,0,16,26,287,True
+2011,10,15,52,Minnesota Wild,5,0,1,1,4,32,8,121,16,Detroit Red Wings,6,2,2,4,0,25,14,154,False
+2011,10,15,0,Montreal Canadiens,5,0,1,1,4,21,17,90,46,Colorado Avalanche,5,2,7,12,2,33,23,223,False
+2011,10,15,49,Nashville Predators,6,1,2,3,4,30,15,156,39,New Jersey Devils,6,1,1,2,0,16,10,107,False
+2011,10,15,28,New York Islanders,3,1,5,6,2,29,37,273,10,New York Rangers,4,1,1,1,1,28,18,134,True
+2011,10,15,23,Philadelphia Flyers,5,1,5,8,4,40,30,249,22,Los Angeles Kings,4,1,1,2,1,37,15,159,False
+2011,10,15,47,Phoenix Coyotes,4,0,5,9,1,25,19,242,36,Winnipeg Jets,0,0,4,3,4,19,8,51,True
+2011,10,15,20,Pittsburgh Penguins,7,2,2,2,2,34,17,172,26,Buffalo Sabres,7,0,3,5,3,15,10,119,False
+2011,10,15,41,San Jose Sharks,6,2,0,0,1,23,17,178,21,St. Louis Blues,5,0,2,4,4,37,16,203,False
+2011,10,15,13,Toronto Maple Leafs,6,0,5,11,5,32,38,267,38,Calgary Flames,5,2,4,7,1,36,13,139,True
+2011,10,15,30,Washington Capitals,8,1,3,5,2,41,23,241,2,Ottawa Senators,4,1,1,2,2,11,27,252,True
+2011,10,16,53,Anaheim Ducks,7,1,1,2,0,31,16,188,21,St. Louis Blues,6,1,4,4,3,24,14,202,True
+2011,10,17,35,Edmonton Oilers,3,1,3,6,1,35,20,197,49,Nashville Predators,5,1,2,4,2,41,13,182,True
+2011,10,17,41,San Jose Sharks,6,0,2,4,1,36,19,174,53,Anaheim Ducks,7,2,4,8,1,44,18,187,False
+2011,10,17,42,Tampa Bay Lightning,5,1,2,3,5,18,29,302,45,Florida Panthers,3,1,2,4,2,30,20,183,False
+2011,10,17,13,Toronto Maple Leafs,6,1,3,5,2,32,35,267,46,Colorado Avalanche,5,1,5,7,1,16,26,241,False
+2011,10,17,36,Winnipeg Jets,0,0,1,4,4,32,8,66,20,Pittsburgh Penguins,7,0,2,2,3,28,18,166,True
+2011,10,18,6,Boston Bruins,5,1,2,4,1,36,11,125,48,Carolina Hurricanes,5,1,4,5,3,42,21,178,False
+2011,10,18,51,Columbus Blue Jackets,0,0,2,4,4,33,13,175,43,Dallas Stars,8,2,4,7,2,15,23,192,False
+2011,10,18,38,Calgary Flames,5,2,2,3,3,25,15,128,35,Edmonton Oilers,4,0,2,5,4,26,22,189,True
+2011,10,18,22,Los Angeles Kings,4,0,3,6,2,34,16,156,21,St. Louis Blues,5,2,2,4,4,23,15,201,True
+2011,10,18,52,Minnesota Wild,4,2,2,3,1,22,9,139,20,Pittsburgh Penguins,6,0,1,1,3,19,17,172,False
+2011,10,18,0,Montreal Canadiens,5,0,5,10,5,30,19,108,26,Buffalo Sabres,8,2,3,6,4,34,9,135,False
+2011,10,18,2,Ottawa Senators,4,2,1,2,2,26,26,237,23,Philadelphia Flyers,4,0,2,4,3,10,29,235,False
+2011,10,18,47,Phoenix Coyotes,4,0,4,6,2,25,21,235,40,Chicago Blackhawks,5,2,3,3,2,37,20,163,False
+2011,10,18,25,Vancouver Canucks,5,1,5,8,3,30,15,146,10,New York Rangers,4,1,2,2,3,33,22,138,False
+2011,10,18,30,Washington Capitals,8,1,2,5,1,34,23,250,45,Florida Panthers,4,1,6,12,2,14,18,173,True
+2011,10,19,13,Toronto Maple Leafs,6,0,2,3,3,24,37,272,36,Winnipeg Jets,1,0,2,3,1,29,5,63,True
+2011,10,20,6,Boston Bruins,4,0,1,2,2,29,16,96,13,Toronto Maple Leafs,6,2,4,6,6,25,37,277,True
+2011,10,20,38,Calgary Flames,5,1,2,4,5,35,13,128,10,New York Rangers,4,1,4,8,0,40,19,145,False
+2011,10,20,46,Colorado Avalanche,6,1,3,5,5,43,22,205,40,Chicago Blackhawks,5,1,5,8,2,16,20,142,False
+2011,10,20,35,Edmonton Oilers,4,0,2,2,1,12,20,191,52,Minnesota Wild,4,2,2,3,4,25,12,142,False
+2011,10,20,45,Florida Panthers,4,0,0,1,4,39,17,176,26,Buffalo Sabres,8,2,3,5,1,41,6,142,False
+2011,10,20,2,Ottawa Senators,3,0,2,3,3,20,24,202,36,Winnipeg Jets,1,0,3,6,3,23,7,57,True
+2011,10,20,23,Philadelphia Flyers,5,1,6,13,3,26,28,248,30,Washington Capitals,9,1,3,6,0,20,18,221,False
+2011,10,20,47,Phoenix Coyotes,4,0,2,3,1,19,26,247,22,Los Angeles Kings,5,2,5,10,0,27,17,159,False
+2011,10,20,20,Pittsburgh Penguins,6,1,4,4,2,34,16,179,0,Montreal Canadiens,4,1,2,2,2,22,18,84,True
+2011,10,20,42,Tampa Bay Lightning,4,0,4,7,2,38,32,320,28,New York Islanders,4,2,4,8,1,35,39,290,True
+2011,10,20,25,Vancouver Canucks,4,1,0,0,4,19,16,135,49,Nashville Predators,5,1,1,1,2,24,14,164,True
+2011,10,21,53,Anaheim Ducks,7,1,3,5,2,30,22,201,43,Dallas Stars,8,1,3,6,2,40,26,204,False
+2011,10,21,16,Detroit Red Wings,7,1,3,6,2,14,16,143,51,Columbus Blue Jackets,0,1,2,1,3,18,11,139,True
+2011,10,21,39,New Jersey Devils,6,1,2,4,2,31,12,122,41,San Jose Sharks,5,1,2,4,3,22,21,160,False
+2011,10,21,21,St. Louis Blues,5,1,0,0,1,6,14,166,48,Carolina Hurricanes,5,1,4,8,1,34,19,170,True
+2011,10,22,6,Boston Bruins,5,1,6,12,2,28,16,95,41,San Jose Sharks,5,1,3,6,3,19,21,157,False
+2011,10,22,38,Calgary Flames,5,2,2,4,1,25,11,122,49,Nashville Predators,4,0,1,2,4,16,14,142,False
+2011,10,22,40,Chicago Blackhawks,6,2,3,5,1,32,18,194,46,Colorado Avalanche,6,0,1,2,2,29,17,229,False
+2011,10,22,35,Edmonton Oilers,3,0,1,1,1,31,19,189,10,New York Rangers,5,2,3,5,2,35,21,140,True
+2011,10,22,45,Florida Panthers,4,1,0,0,3,38,16,213,28,New York Islanders,4,1,1,1,2,31,39,253,True
+2011,10,22,22,Los Angeles Kings,5,2,2,4,0,28,17,160,43,Dallas Stars,8,0,3,5,4,30,25,200,True
+2011,10,22,0,Montreal Canadiens,4,1,1,2,3,32,19,94,13,Toronto Maple Leafs,5,1,2,4,3,29,34,289,False
+2011,10,22,2,Ottawa Senators,4,1,4,7,1,36,23,241,51,Columbus Blue Jackets,0,1,2,5,4,32,12,153,True
+2011,10,22,23,Philadelphia Flyers,5,1,2,3,5,28,27,218,21,St. Louis Blues,5,1,3,5,2,29,15,189,False
+2011,10,22,20,Pittsburgh Penguins,6,2,3,6,1,28,14,152,39,New Jersey Devils,5,0,3,4,3,41,13,132,True
+2011,10,22,42,Tampa Bay Lightning,4,0,4,5,1,17,31,299,26,Buffalo Sabres,9,2,3,5,0,22,5,123,True
+2011,10,22,25,Vancouver Canucks,5,2,5,7,2,37,10,136,52,Minnesota Wild,5,0,2,2,1,31,7,119,True
+2011,10,22,36,Winnipeg Jets,1,0,1,2,3,29,7,63,48,Carolina Hurricanes,5,0,2,3,4,36,21,179,True
+2011,10,22,30,Washington Capitals,9,1,5,7,2,42,21,224,16,Detroit Red Wings,8,1,5,7,0,29,16,163,True
+2011,10,23,53,Anaheim Ducks,7,0,2,3,3,19,22,187,47,Phoenix Coyotes,3,2,0,0,2,22,29,242,False
+2011,10,24,0,Montreal Canadiens,3,2,4,7,3,28,24,117,45,Florida Panthers,5,0,4,7,0,18,14,148,False
+2011,10,24,23,Philadelphia Flyers,5,1,2,4,2,23,27,203,13,Toronto Maple Leafs,5,1,5,8,3,18,29,245,True
+2011,10,24,36,Winnipeg Jets,2,0,4,9,1,19,3,24,10,New York Rangers,5,0,0,0,0,3,18,97,False
+2011,10,25,26,Buffalo Sabres,8,1,0,0,2,25,7,126,42,Tampa Bay Lightning,5,1,3,5,0,21,30,287,False
+2011,10,25,48,Carolina Hurricanes,4,2,3,5,3,43,22,167,2,Ottawa Senators,4,0,4,8,3,21,25,233,False
+2011,10,25,51,Columbus Blue Jackets,0,0,3,6,4,27,14,170,16,Detroit Red Wings,7,2,1,4,7,25,23,159,True
+2011,10,25,40,Chicago Blackhawks,6,0,4,5,4,24,20,174,53,Anaheim Ducks,7,2,3,7,5,19,22,160,True
+2011,10,25,35,Edmonton Oilers,3,1,2,4,0,19,20,199,25,Vancouver Canucks,6,1,3,5,1,26,10,122,True
+2011,10,25,22,Los Angeles Kings,6,1,1,2,4,26,17,160,39,New Jersey Devils,5,1,1,2,4,29,14,120,False
+2011,10,25,49,Nashville Predators,5,0,1,4,0,33,6,115,41,San Jose Sharks,5,2,4,6,2,39,22,166,False
+2011,10,25,28,New York Islanders,3,1,2,4,3,32,41,279,20,Pittsburgh Penguins,6,1,4,9,1,24,19,172,False
+2011,10,25,47,Phoenix Coyotes,4,1,5,9,4,33,31,253,43,Dallas Stars,7,1,0,0,1,36,24,205,False
+2011,10,26,38,Calgary Flames,4,2,0,1,2,14,12,111,46,Colorado Avalanche,7,0,4,8,2,29,15,212,True
+2011,10,26,0,Montreal Canadiens,2,0,1,2,5,27,23,120,23,Philadelphia Flyers,6,2,4,7,4,25,28,231,True
+2011,10,26,25,Vancouver Canucks,5,1,2,5,0,8,10,95,21,St. Louis Blues,5,1,4,5,2,36,16,181,False
+2011,10,27,6,Boston Bruins,4,1,2,5,3,29,17,96,0,Montreal Canadiens,3,1,5,9,1,22,19,115,False
+2011,10,27,26,Buffalo Sabres,7,2,3,6,2,31,9,124,51,Columbus Blue Jackets,1,0,4,8,1,31,11,174,True
+2011,10,27,43,Dallas Stars,7,0,2,4,2,35,23,207,22,Los Angeles Kings,5,2,0,0,0,28,16,157,False
+2011,10,27,35,Edmonton Oilers,4,0,3,5,2,37,22,217,30,Washington Capitals,9,2,5,12,1,33,20,215,True
+2011,10,27,52,Minnesota Wild,5,2,2,4,3,32,9,120,53,Anaheim Ducks,6,0,3,3,2,35,21,184,False
+2011,10,27,49,Nashville Predators,4,2,2,2,2,35,8,117,42,Tampa Bay Lightning,5,0,4,6,3,39,31,308,True
+2011,10,27,10,New York Rangers,5,2,2,4,2,24,19,122,13,Toronto Maple Leafs,5,0,2,4,4,30,31,262,False
+2011,10,27,2,Ottawa Senators,4,2,2,4,2,34,22,242,45,Florida Panthers,6,0,2,3,1,41,15,170,True
+2011,10,27,23,Philadelphia Flyers,6,0,1,3,2,26,29,234,36,Winnipeg Jets,2,0,2,2,2,5,4,22,False
+2011,10,27,47,Phoenix Coyotes,4,1,2,4,2,36,29,241,39,New Jersey Devils,6,1,3,6,0,31,10,122,True
+2011,10,27,20,Pittsburgh Penguins,6,2,3,3,0,33,20,159,28,New York Islanders,3,0,0,0,2,28,33,252,True
+2011,10,28,48,Carolina Hurricanes,3,1,2,3,2,28,21,152,40,Chicago Blackhawks,6,1,2,3,2,31,18,178,True
+2011,10,28,38,Calgary Flames,4,1,4,7,2,36,12,133,21,St. Louis Blues,6,1,3,6,0,32,13,165,True
+2011,10,28,46,Colorado Avalanche,7,2,2,4,4,38,17,189,35,Edmonton Oilers,5,0,2,4,2,28,16,170,False
+2011,10,28,16,Detroit Red Wings,6,0,1,2,2,34,19,165,41,San Jose Sharks,5,2,3,5,1,20,20,147,False
+2011,10,29,26,Buffalo Sabres,7,2,4,8,4,23,9,136,45,Florida Panthers,6,0,3,6,2,10,19,158,False
+2011,10,29,40,Chicago Blackhawks,5,1,0,0,3,30,20,192,51,Columbus Blue Jackets,1,1,2,4,0,0,16,147,True
+2011,10,29,43,Dallas Stars,7,1,3,6,4,28,26,198,39,New Jersey Devils,5,1,3,2,5,42,15,133,True
+2011,10,29,52,Minnesota Wild,4,0,2,4,3,41,9,120,16,Detroit Red Wings,6,2,2,4,3,29,20,160,True
+2011,10,29,0,Montreal Canadiens,3,1,2,4,1,30,19,123,6,Boston Bruins,3,1,1,0,4,23,16,102,True
+2011,10,29,49,Nashville Predators,4,2,4,8,3,32,8,102,53,Anaheim Ducks,6,0,3,6,2,25,19,155,True
+2011,10,29,28,New York Islanders,3,0,2,4,0,0,27,218,41,San Jose Sharks,6,2,4,7,3,19,21,159,False
+2011,10,29,10,New York Rangers,4,1,2,2,4,36,21,134,2,Ottawa Senators,5,1,4,7,3,25,24,217,False
+2011,10,29,23,Philadelphia Flyers,5,1,6,12,4,10,30,204,48,Carolina Hurricanes,4,1,3,4,5,24,19,154,True
+2011,10,29,47,Phoenix Coyotes,4,0,5,10,3,34,27,254,22,Los Angeles Kings,6,2,3,9,3,33,19,162,True
+2011,10,29,42,Tampa Bay Lightning,4,0,3,7,0,10,26,266,36,Winnipeg Jets,3,0,9,17,7,43,8,48,True
+2011,10,29,13,Toronto Maple Leafs,6,1,4,6,2,30,29,262,20,Pittsburgh Penguins,6,1,2,4,2,26,22,145,True
+2011,10,29,25,Vancouver Canucks,4,2,0,0,3,14,13,118,30,Washington Capitals,8,0,1,2,2,19,22,201,True
+2011,10,30,51,Columbus Blue Jackets,1,0,2,4,4,26,20,184,53,Anaheim Ducks,5,2,0,0,0,16,17,174,True
+2011,10,30,46,Colorado Avalanche,6,0,1,2,3,19,17,189,22,Los Angeles Kings,6,2,2,4,3,33,19,162,True
+2011,10,30,35,Edmonton Oilers,6,0,1,6,1,35,15,201,21,St. Louis Blues,5,2,1,2,4,18,15,150,True
+2011,10,30,2,Ottawa Senators,6,0,4,8,4,33,25,220,13,Toronto Maple Leafs,7,2,4,8,3,37,30,269,True
+2011,10,31,40,Chicago Blackhawks,6,2,5,7,3,33,20,186,49,Nashville Predators,5,0,3,6,0,20,8,95,True
+2011,10,31,45,Florida Panthers,6,0,3,6,2,26,21,175,36,Winnipeg Jets,3,0,0,0,1,27,2,32,False
+2011,10,31,10,New York Rangers,4,1,4,7,1,28,21,138,41,San Jose Sharks,7,1,3,6,2,32,20,187,True
+2011,11,1,6,Boston Bruins,3,2,2,3,0,0,13,70,2,Ottawa Senators,7,0,2,5,4,28,23,212,True
+2011,11,1,48,Carolina Hurricanes,4,0,1,2,0,30,19,164,42,Tampa Bay Lightning,4,2,1,2,0,28,29,289,True
+2011,11,1,38,Calgary Flames,4,0,3,6,1,29,11,126,25,Vancouver Canucks,5,2,7,14,4,32,14,136,False
+2011,11,1,16,Detroit Red Wings,6,1,0,0,1,20,18,151,52,Minnesota Wild,4,1,1,1,0,36,7,120,False
+2011,11,1,30,Washington Capitals,7,1,4,5,3,17,24,212,53,Anaheim Ducks,5,1,1,2,3,29,20,179,True
+2011,11,2,26,Buffalo Sabres,6,2,2,4,3,36,8,149,23,Philadelphia Flyers,5,0,5,7,1,25,28,227,False
+2011,11,2,46,Colorado Avalanche,7,1,3,5,2,32,18,220,47,Phoenix Coyotes,5,1,3,6,2,39,27,265,False
+2011,11,2,39,New Jersey Devils,5,2,1,1,1,11,12,113,13,Toronto Maple Leafs,6,0,2,4,3,30,30,262,False
+2011,11,3,51,Columbus Blue Jackets,2,1,3,6,1,20,17,178,13,Toronto Maple Leafs,6,1,5,9,0,0,30,254,False
+2011,11,3,16,Detroit Red Wings,5,2,1,2,2,27,19,158,38,Calgary Flames,4,0,1,2,5,18,12,89,False
+2011,11,3,45,Florida Panthers,5,1,4,6,4,38,24,191,40,Chicago Blackhawks,7,1,5,10,4,28,24,180,False
+2011,11,3,22,Los Angeles Kings,5,2,2,3,3,16,19,145,35,Edmonton Oilers,6,0,4,7,2,30,20,199,False
+2011,11,3,52,Minnesota Wild,4,0,2,4,1,37,8,121,25,Vancouver Canucks,5,2,5,10,3,31,11,133,True
+2011,11,3,28,New York Islanders,3,0,2,4,3,30,35,267,36,Winnipeg Jets,4,0,3,5,3,42,4,47,False
+2011,11,3,10,New York Rangers,4,0,5,9,4,40,22,136,53,Anaheim Ducks,4,2,4,8,5,40,23,196,True
+2011,11,3,23,Philadelphia Flyers,5,1,5,6,5,15,29,233,39,New Jersey Devils,4,1,3,5,2,22,16,125,False
+2011,11,3,47,Phoenix Coyotes,6,2,4,7,5,35,26,266,49,Nashville Predators,4,0,5,9,5,35,13,110,False
+2011,11,3,41,San Jose Sharks,6,2,2,4,5,31,23,186,20,Pittsburgh Penguins,6,0,3,6,2,19,24,148,True
+2011,11,4,26,Buffalo Sabres,5,1,2,4,0,15,6,96,38,Calgary Flames,5,1,4,6,0,3,8,100,True
+2011,11,4,48,Carolina Hurricanes,5,1,4,4,2,30,21,164,30,Washington Capitals,8,1,5,10,4,26,26,205,False
+2011,11,4,43,Dallas Stars,7,2,3,4,1,32,21,208,46,Colorado Avalanche,6,0,1,2,3,27,19,215,True
+2011,11,4,2,Ottawa Senators,6,1,4,6,5,41,24,225,0,Montreal Canadiens,4,1,4,6,2,28,20,133,False
+2011,11,4,21,St. Louis Blues,5,1,2,4,2,17,15,162,25,Vancouver Canucks,5,1,1,3,1,29,10,142,True
+2011,11,4,42,Tampa Bay Lightning,4,2,2,4,4,31,32,293,40,Chicago Blackhawks,7,0,2,3,2,29,17,159,True
+2011,11,5,16,Detroit Red Wings,4,1,1,2,3,21,20,152,53,Anaheim Ducks,3,1,1,2,1,25,22,184,True
+2011,11,5,22,Los Angeles Kings,5,1,0,0,3,27,16,151,20,Pittsburgh Penguins,5,1,3,6,3,37,25,166,False
+2011,11,5,52,Minnesota Wild,5,1,5,9,1,25,8,109,21,St. Louis Blues,5,1,3,6,4,30,15,175,True
+2011,11,5,39,New Jersey Devils,5,0,3,2,5,23,17,126,36,Winnipeg Jets,5,0,3,3,0,34,1,39,True
+2011,11,5,28,New York Islanders,3,0,0,0,2,25,34,263,30,Washington Capitals,8,2,4,8,4,15,27,206,True
+2011,11,5,10,New York Rangers,5,1,1,2,1,28,19,124,0,Montreal Canadiens,4,1,2,3,1,34,17,135,True
+2011,11,5,2,Ottawa Senators,6,0,1,2,2,26,24,226,26,Buffalo Sabres,5,2,2,3,1,30,7,111,False
+2011,11,5,23,Philadelphia Flyers,4,1,4,5,2,31,30,260,51,Columbus Blue Jackets,2,1,1,2,4,11,16,139,True
+2011,11,5,47,Phoenix Coyotes,6,1,0,0,1,40,23,265,35,Edmonton Oilers,7,1,3,5,1,41,18,189,True
+2011,11,5,41,San Jose Sharks,6,2,3,5,2,6,19,154,49,Nashville Predators,4,0,3,4,0,35,5,94,False
+2011,11,5,13,Toronto Maple Leafs,6,1,4,7,1,39,31,293,6,Boston Bruins,4,1,5,10,3,26,16,96,False
+2011,11,6,48,Carolina Hurricanes,5,0,1,2,5,32,24,166,43,Dallas Stars,8,2,7,14,6,40,27,202,False
+2011,11,6,40,Chicago Blackhawks,6,0,4,6,2,43,22,191,25,Vancouver Canucks,5,2,1,2,3,28,12,141,False
+2011,11,6,46,Colorado Avalanche,5,0,6,9,7,29,20,222,38,Calgary Flames,5,2,1,3,1,29,10,141,False
+2011,11,6,45,Florida Panthers,5,2,2,3,3,31,19,197,42,Tampa Bay Lightning,5,0,5,9,5,17,30,264,False
+2011,11,6,10,New York Rangers,6,1,5,10,2,26,21,124,36,Winnipeg Jets,5,0,2,4,3,28,4,33,True
+2011,11,7,6,Boston Bruins,4,1,7,11,3,26,13,95,28,New York Islanders,4,1,5,7,2,32,29,260,True
+2011,11,7,41,San Jose Sharks,6,1,3,6,4,35,18,142,22,Los Angeles Kings,5,1,2,4,2,33,15,157,True
+2011,11,8,26,Buffalo Sabres,6,0,2,4,3,11,8,108,36,Winnipeg Jets,4,0,0,1,2,26,3,31,True
+2011,11,8,38,Calgary Flames,5,0,2,4,1,33,10,145,52,Minnesota Wild,6,2,2,2,3,16,8,121,False
+2011,11,8,16,Detroit Red Wings,4,1,5,9,0,22,17,153,46,Colorado Avalanche,4,1,1,2,2,23,15,222,True
+2011,11,8,22,Los Angeles Kings,4,1,2,3,3,23,17,162,49,Nashville Predators,5,1,4,7,1,24,8,97,True
+2011,11,8,0,Montreal Canadiens,4,0,2,6,4,28,20,129,35,Edmonton Oilers,7,2,3,2,0,19,14,169,False
+2011,11,8,39,New Jersey Devils,5,2,3,5,2,23,14,126,48,Carolina Hurricanes,4,0,2,3,4,14,19,127,True
+2011,11,8,21,St. Louis Blues,5,0,1,2,2,26,13,171,40,Chicago Blackhawks,6,2,2,3,6,38,25,192,True
+2011,11,8,13,Toronto Maple Leafs,6,1,0,0,2,6,32,231,45,Florida Panthers,4,1,3,5,3,37,19,203,False
+2011,11,8,30,Washington Capitals,7,0,4,7,1,25,21,220,43,Dallas Stars,8,2,5,9,2,32,23,194,False
+2011,11,9,53,Anaheim Ducks,2,0,0,0,5,45,21,171,49,Nashville Predators,5,2,3,3,3,38,11,103,False
+2011,11,9,2,Ottawa Senators,6,2,2,3,2,33,24,233,10,New York Rangers,7,0,3,5,3,28,19,121,False
+2011,11,9,42,Tampa Bay Lightning,6,1,2,6,0,29,24,256,23,Philadelphia Flyers,5,1,9,13,2,35,24,240,True
+2011,11,10,6,Boston Bruins,5,2,6,11,2,26,12,95,35,Edmonton Oilers,7,0,3,3,3,29,16,165,True
+2011,11,10,51,Columbus Blue Jackets,2,0,3,3,7,28,19,149,40,Chicago Blackhawks,5,2,0,0,3,23,22,177,False
+2011,11,10,46,Colorado Avalanche,3,0,2,4,1,13,13,182,28,New York Islanders,3,2,2,4,2,24,29,220,True
+2011,11,10,22,Los Angeles Kings,4,0,4,9,4,38,17,169,25,Vancouver Canucks,5,2,6,12,2,40,11,153,False
+2011,11,10,47,Phoenix Coyotes,6,0,3,8,2,26,24,261,0,Montreal Canadiens,4,2,1,2,2,13,16,117,False
+2011,11,10,41,San Jose Sharks,7,2,4,8,2,31,16,138,52,Minnesota Wild,6,0,3,6,0,41,3,148,True
+2011,11,10,21,St. Louis Blues,5,1,3,6,0,29,11,174,13,Toronto Maple Leafs,5,1,1,2,2,7,32,259,False
+2011,11,10,36,Winnipeg Jets,4,1,5,9,6,45,7,50,45,Florida Panthers,4,0,5,8,1,39,18,191,False
+2011,11,11,53,Anaheim Ducks,1,1,2,4,4,32,22,167,25,Vancouver Canucks,6,1,3,6,2,30,11,143,True
+2011,11,11,26,Buffalo Sabres,6,2,6,10,2,27,10,128,2,Ottawa Senators,6,0,2,4,3,19,25,219,True
+2011,11,11,40,Chicago Blackhawks,5,1,6,11,5,32,21,175,38,Calgary Flames,5,1,1,0,2,25,11,137,True
+2011,11,11,16,Detroit Red Wings,4,2,5,6,2,26,19,157,35,Edmonton Oilers,7,0,4,6,1,29,19,164,True
+2011,11,11,39,New Jersey Devils,5,0,4,5,2,27,14,130,30,Washington Capitals,6,2,4,6,4,34,26,219,False
+2011,11,11,10,New York Rangers,7,1,3,4,2,31,17,129,48,Carolina Hurricanes,3,1,2,3,3,36,18,149,True
+2011,11,11,20,Pittsburgh Penguins,6,1,2,5,2,26,22,150,43,Dallas Stars,8,1,5,8,2,32,23,209,True
+2011,11,12,6,Boston Bruins,6,0,6,9,0,25,12,104,26,Buffalo Sabres,6,2,5,9,5,31,9,138,True
+2011,11,12,48,Carolina Hurricanes,2,1,1,3,5,40,20,153,20,Pittsburgh Penguins,7,1,3,4,4,29,21,144,True
+2011,11,12,51,Columbus Blue Jackets,2,0,3,5,6,36,18,157,36,Winnipeg Jets,4,0,2,4,4,15,5,24,True
+2011,11,12,46,Colorado Avalanche,3,0,4,8,3,16,15,177,38,Calgary Flames,4,2,1,1,3,30,12,142,False
+2011,11,12,16,Detroit Red Wings,4,1,3,5,0,24,17,155,43,Dallas Stars,7,1,1,2,1,24,24,209,True
+2011,11,12,22,Los Angeles Kings,3,1,2,4,3,32,16,163,52,Minnesota Wild,6,1,1,2,1,31,7,131,True
+2011,11,12,49,Nashville Predators,6,2,4,5,2,33,10,98,0,Montreal Canadiens,5,0,3,2,2,31,17,136,False
+2011,11,12,41,San Jose Sharks,8,2,3,5,1,30,15,129,47,Phoenix Coyotes,5,0,2,4,3,36,24,276,False
+2011,11,12,21,St. Louis Blues,5,0,2,4,2,30,13,167,42,Tampa Bay Lightning,7,2,2,4,3,12,23,247,True
+2011,11,12,13,Toronto Maple Leafs,6,1,2,4,2,40,36,308,2,Ottawa Senators,5,1,1,2,2,6,17,193,False
+2011,11,12,30,Washington Capitals,6,2,3,4,5,36,25,219,39,New Jersey Devils,4,0,1,2,3,23,15,123,False
+2011,11,13,53,Anaheim Ducks,2,1,4,6,3,41,17,169,52,Minnesota Wild,6,1,2,4,1,15,8,100,False
+2011,11,13,40,Chicago Blackhawks,6,2,4,8,3,30,19,169,35,Edmonton Oilers,7,0,0,0,3,30,21,177,True
+2011,11,13,45,Florida Panthers,5,0,5,9,2,27,15,192,23,Philadelphia Flyers,4,2,1,2,2,24,20,222,False
+2011,11,13,25,Vancouver Canucks,5,1,3,6,4,19,12,105,28,New York Islanders,2,1,3,5,3,12,27,231,True
+2011,11,14,48,Carolina Hurricanes,3,1,5,9,3,40,18,153,23,Philadelphia Flyers,5,1,3,4,3,39,20,231,False
+2011,11,14,0,Montreal Canadiens,6,0,2,4,2,34,16,131,26,Buffalo Sabres,5,2,2,3,3,13,9,105,False
+2011,11,14,36,Winnipeg Jets,3,0,1,1,2,27,3,36,42,Tampa Bay Lightning,7,1,0,0,1,15,23,265,True
+2011,11,15,6,Boston Bruins,6,1,6,9,2,23,14,102,39,New Jersey Devils,5,1,2,3,2,17,14,117,True
+2011,11,15,51,Columbus Blue Jackets,3,1,2,4,1,36,11,162,52,Minnesota Wild,6,1,3,6,2,34,10,127,False
+2011,11,15,38,Calgary Flames,5,2,4,6,3,39,12,151,2,Ottawa Senators,5,0,5,5,2,33,17,220,False
+2011,11,15,43,Dallas Stars,6,1,2,4,3,32,25,220,45,Florida Panthers,5,1,2,3,4,33,15,206,False
+2011,11,15,49,Nashville Predators,6,0,1,2,2,25,10,96,30,Washington Capitals,5,2,2,3,1,33,23,210,True
+2011,11,15,28,New York Islanders,1,2,1,2,3,35,30,261,10,New York Rangers,7,0,5,7,1,35,16,133,False
+2011,11,15,20,Pittsburgh Penguins,7,2,3,6,1,20,20,146,46,Colorado Avalanche,3,0,3,6,4,20,17,222,True
+2011,11,15,21,St. Louis Blues,6,1,3,5,0,19,11,156,16,Detroit Red Wings,4,1,4,9,2,27,19,158,True
+2011,11,15,13,Toronto Maple Leafs,5,0,2,2,3,22,33,282,47,Phoenix Coyotes,6,2,3,6,0,31,21,280,False
+2011,11,16,26,Buffalo Sabres,6,2,2,4,2,27,8,119,39,New Jersey Devils,5,0,3,7,3,20,12,129,False
+2011,11,16,22,Los Angeles Kings,3,0,6,10,2,26,15,157,53,Anaheim Ducks,2,2,2,2,3,15,17,158,True
+2011,11,16,0,Montreal Canadiens,6,1,2,4,2,32,16,129,48,Carolina Hurricanes,3,1,3,3,4,17,19,128,True
+2011,11,16,25,Vancouver Canucks,5,2,4,7,0,2,8,101,40,Chicago Blackhawks,6,0,6,10,3,23,21,166,False
+2011,11,17,53,Anaheim Ducks,2,1,1,2,0,11,15,180,22,Los Angeles Kings,4,1,1,2,1,24,14,155,False
+2011,11,17,6,Boston Bruins,7,1,4,6,3,30,15,109,51,Columbus Blue Jackets,3,1,2,3,0,3,13,149,True
+2011,11,17,35,Edmonton Oilers,6,1,3,4,5,34,24,181,2,Ottawa Senators,5,1,3,5,1,39,17,229,False
+2011,11,17,52,Minnesota Wild,7,2,4,6,2,45,10,138,46,Colorado Avalanche,2,0,3,6,3,33,21,223,True
+2011,11,17,49,Nashville Predators,6,0,3,4,1,40,13,135,13,Toronto Maple Leafs,5,2,2,4,2,35,30,280,True
+2011,11,17,28,New York Islanders,1,2,2,5,3,29,30,255,0,Montreal Canadiens,7,0,4,7,1,26,14,122,True
+2011,11,17,23,Philadelphia Flyers,6,0,5,9,2,33,20,210,47,Phoenix Coyotes,7,2,2,3,2,37,23,286,True
+2011,11,17,41,San Jose Sharks,7,2,0,0,1,22,14,110,16,Detroit Red Wings,4,0,1,1,2,37,19,168,True
+2011,11,17,21,St. Louis Blues,6,1,2,3,2,22,10,135,45,Florida Panthers,5,1,6,10,3,35,13,180,True
+2011,11,17,42,Tampa Bay Lightning,6,1,2,3,4,22,30,300,20,Pittsburgh Penguins,7,1,6,11,3,27,20,129,True
+2011,11,17,36,Winnipeg Jets,4,0,5,8,2,32,3,41,30,Washington Capitals,4,0,1,2,2,19,26,215,True
+2011,11,18,48,Carolina Hurricanes,3,1,0,0,1,11,19,147,26,Buffalo Sabres,6,1,3,6,5,19,11,113,False
+2011,11,18,38,Calgary Flames,5,0,1,1,3,32,12,144,40,Chicago Blackhawks,7,2,5,10,1,29,18,165,True
+2011,11,18,46,Colorado Avalanche,2,0,0,0,1,18,22,210,43,Dallas Stars,5,2,0,1,6,30,30,229,True
+2011,11,19,26,Buffalo Sabres,6,2,1,2,0,34,6,128,47,Phoenix Coyotes,6,0,1,2,2,42,22,289,False
+2011,11,19,43,Dallas Stars,5,0,0,0,5,40,26,246,41,San Jose Sharks,7,2,5,10,2,42,15,139,False
+2011,11,19,35,Edmonton Oilers,5,0,2,3,3,7,15,147,40,Chicago Blackhawks,6,2,2,4,1,25,21,151,True
+2011,11,19,45,Florida Panthers,4,0,1,0,3,30,11,145,20,Pittsburgh Penguins,6,2,1,2,5,26,20,119,True
+2011,11,19,22,Los Angeles Kings,4,1,5,7,3,38,16,169,16,Detroit Red Wings,4,1,2,4,4,21,19,128,False
+2011,11,19,52,Minnesota Wild,8,2,1,2,4,21,7,126,21,St. Louis Blues,6,0,4,2,1,21,9,134,True
+2011,11,19,0,Montreal Canadiens,6,0,3,6,0,25,17,139,10,New York Rangers,8,2,4,6,0,23,17,131,True
+2011,11,19,49,Nashville Predators,7,2,4,7,1,39,13,134,51,Columbus Blue Jackets,3,0,1,2,1,27,14,173,False
+2011,11,19,28,New York Islanders,2,0,4,5,3,27,28,247,6,Boston Bruins,7,2,1,0,3,30,13,110,False
+2011,11,19,42,Tampa Bay Lightning,6,1,5,4,1,34,27,315,39,New Jersey Devils,5,1,5,6,3,32,12,141,False
+2011,11,19,13,Toronto Maple Leafs,4,0,1,3,3,21,29,270,30,Washington Capitals,3,2,1,2,0,0,23,213,True
+2011,11,19,36,Winnipeg Jets,4,1,4,4,1,32,2,41,23,Philadelphia Flyers,6,0,2,4,3,20,29,227,True
+2011,11,20,53,Anaheim Ducks,1,1,3,6,1,37,21,195,16,Detroit Red Wings,5,1,4,7,1,24,16,131,False
+2011,11,20,48,Carolina Hurricanes,2,0,0,0,4,36,19,156,13,Toronto Maple Leafs,4,2,7,11,3,21,27,290,True
+2011,11,20,46,Colorado Avalanche,3,0,3,6,0,24,19,225,41,San Jose Sharks,7,2,4,7,3,23,14,128,False
+2011,11,20,25,Vancouver Canucks,5,2,1,2,5,27,15,151,2,Ottawa Senators,5,0,5,7,3,15,24,216,True
+2011,11,21,51,Columbus Blue Jackets,3,1,4,6,3,30,16,176,38,Calgary Flames,5,1,5,8,2,44,11,144,True
+2011,11,21,43,Dallas Stars,4,1,1,1,2,44,24,256,35,Edmonton Oilers,5,1,9,17,2,36,17,166,True
+2011,11,21,45,Florida Panthers,5,1,3,6,2,41,14,174,39,New Jersey Devils,6,1,4,5,2,23,11,132,True
+2011,11,21,0,Montreal Canadiens,6,2,4,8,0,17,16,143,6,Boston Bruins,8,0,6,8,0,23,9,115,False
+2011,11,21,23,Philadelphia Flyers,6,2,4,6,1,31,31,246,48,Carolina Hurricanes,3,0,3,6,2,25,17,145,False
+2011,11,21,20,Pittsburgh Penguins,5,2,2,5,3,17,18,124,28,New York Islanders,2,0,0,0,3,17,34,240,True
+2011,11,21,30,Washington Capitals,3,1,1,2,4,18,27,195,47,Phoenix Coyotes,7,1,4,8,2,30,24,304,True
+2011,11,22,49,Nashville Predators,6,1,3,6,4,29,16,124,35,Edmonton Oilers,4,1,1,3,2,9,18,164,False
+2011,11,22,21,St. Louis Blues,5,1,2,4,2,32,10,145,22,Los Angeles Kings,4,1,1,0,3,30,19,170,False
+2011,11,22,42,Tampa Bay Lightning,5,2,2,4,4,24,30,305,13,Toronto Maple Leafs,4,0,2,4,1,41,30,303,False
+2011,11,23,26,Buffalo Sabres,6,1,1,5,3,28,9,122,6,Boston Bruins,9,1,1,2,0,33,9,125,False
+2011,11,23,48,Carolina Hurricanes,3,1,4,8,2,32,17,152,0,Montreal Canadiens,5,1,0,0,1,18,18,140,False
+2011,11,23,46,Colorado Avalanche,2,1,1,2,6,33,23,202,25,Vancouver Canucks,6,1,2,4,1,29,11,152,False
+2011,11,23,43,Dallas Stars,5,0,4,6,1,18,23,230,22,Los Angeles Kings,5,2,3,4,4,38,18,165,True
+2011,11,23,16,Detroit Red Wings,6,1,5,6,2,34,17,141,38,Calgary Flames,4,1,1,2,2,32,12,129,True
+2011,11,23,45,Florida Panthers,5,1,4,6,3,25,14,163,10,New York Rangers,7,1,0,0,2,33,20,151,True
+2011,11,23,52,Minnesota Wild,8,0,2,2,2,27,4,111,49,Nashville Predators,5,2,2,4,3,13,14,97,True
+2011,11,23,39,New Jersey Devils,6,2,3,6,4,36,13,145,51,Columbus Blue Jackets,4,0,4,7,1,28,14,162,True
+2011,11,23,28,New York Islanders,2,0,0,0,3,13,38,256,23,Philadelphia Flyers,6,2,2,2,4,31,34,246,False
+2011,11,23,47,Phoenix Coyotes,6,2,3,2,2,45,25,283,53,Anaheim Ducks,1,0,2,4,3,29,28,158,True
+2011,11,23,20,Pittsburgh Penguins,5,1,5,10,0,29,15,124,21,St. Louis Blues,5,1,2,3,1,22,11,141,False
+2011,11,23,41,San Jose Sharks,7,1,4,8,1,31,12,142,40,Chicago Blackhawks,5,1,2,4,2,7,24,161,True
+2011,11,23,30,Washington Capitals,4,0,4,3,3,23,20,190,36,Winnipeg Jets,5,1,6,8,4,31,5,40,True
+2011,11,25,53,Anaheim Ducks,1,1,2,4,4,29,29,158,40,Chicago Blackhawks,4,1,0,0,1,21,22,178,False
+2011,11,25,6,Boston Bruins,10,0,3,6,1,31,12,126,16,Detroit Red Wings,7,2,5,10,3,22,18,129,False
+2011,11,25,48,Carolina Hurricanes,3,0,3,6,3,34,18,154,36,Winnipeg Jets,4,1,3,7,1,5,5,46,False
+2011,11,25,51,Columbus Blue Jackets,4,0,1,2,1,24,14,158,26,Buffalo Sabres,6,2,3,5,3,39,9,133,True
+2011,11,25,43,Dallas Stars,5,1,3,6,2,24,24,212,13,Toronto Maple Leafs,4,1,7,12,1,28,30,290,False
+2011,11,25,45,Florida Panthers,6,1,2,5,1,20,12,160,42,Tampa Bay Lightning,5,1,1,2,1,5,29,240,False
+2011,11,25,52,Minnesota Wild,8,2,3,5,2,25,5,120,35,Edmonton Oilers,4,0,6,12,3,34,20,191,False
+2011,11,25,28,New York Islanders,2,0,3,5,4,51,39,276,39,New Jersey Devils,7,2,1,2,4,37,10,145,False
+2011,11,25,23,Philadelphia Flyers,6,1,4,7,0,23,28,208,0,Montreal Canadiens,5,1,3,5,3,33,20,155,True
+2011,11,25,47,Phoenix Coyotes,6,1,4,6,2,21,22,231,25,Vancouver Canucks,6,1,3,3,0,24,11,162,False
+2011,11,25,20,Pittsburgh Penguins,4,1,2,3,3,43,18,157,2,Ottawa Senators,4,1,1,2,2,24,24,239,True
+2011,11,25,21,St. Louis Blues,6,1,3,4,2,33,12,168,38,Calgary Flames,4,1,3,5,5,30,15,127,True
+2011,11,25,30,Washington Capitals,4,0,4,9,3,11,21,203,10,New York Rangers,7,2,1,2,2,38,20,161,False
+2011,11,26,6,Boston Bruins,9,0,2,1,3,34,13,131,36,Winnipeg Jets,4,0,3,4,4,37,5,62,True
+2011,11,26,26,Buffalo Sabres,5,0,1,1,4,18,11,126,30,Washington Capitals,3,2,3,6,3,25,24,225,True
+2011,11,26,46,Colorado Avalanche,2,1,0,0,2,28,19,189,35,Edmonton Oilers,4,1,5,10,2,32,19,189,True
+2011,11,26,16,Detroit Red Wings,8,1,2,4,2,43,17,150,49,Nashville Predators,5,1,2,4,3,30,11,104,True
+2011,11,26,22,Los Angeles Kings,5,0,2,2,3,38,17,165,40,Chicago Blackhawks,5,2,6,11,5,28,25,183,False
+2011,11,26,0,Montreal Canadiens,5,1,2,2,3,36,20,163,20,Pittsburgh Penguins,5,1,6,12,3,27,18,141,False
+2011,11,26,39,New Jersey Devils,7,2,1,2,1,36,6,131,28,New York Islanders,2,0,0,0,1,23,36,248,False
+2011,11,26,10,New York Rangers,8,2,6,11,3,21,21,144,23,Philadelphia Flyers,6,0,3,5,1,24,29,209,True
+2011,11,26,47,Phoenix Coyotes,5,0,1,0,5,37,26,255,43,Dallas Stars,4,2,3,6,3,23,28,232,True
+2011,11,26,41,San Jose Sharks,7,1,1,2,0,34,11,145,25,Vancouver Canucks,6,1,5,5,0,22,10,158,False
+2011,11,26,42,Tampa Bay Lightning,5,2,2,3,1,24,27,264,45,Florida Panthers,6,0,1,1,2,33,17,158,True
+2011,11,27,53,Anaheim Ducks,1,0,5,10,5,33,27,136,13,Toronto Maple Leafs,4,2,3,6,3,29,31,289,False
+2011,11,27,51,Columbus Blue Jackets,4,0,5,9,1,29,14,183,21,St. Louis Blues,6,2,2,3,0,24,10,159,False
+2011,11,27,52,Minnesota Wild,7,2,2,2,0,27,7,123,38,Calgary Flames,3,0,0,0,2,24,12,121,False
+2011,11,27,2,Ottawa Senators,3,1,3,5,4,8,25,219,48,Carolina Hurricanes,3,1,1,2,2,29,17,149,True
+2011,11,28,46,Colorado Avalanche,3,1,5,8,2,33,18,221,43,Dallas Stars,3,1,0,0,3,36,19,199,False
+2011,11,28,35,Edmonton Oilers,4,2,2,4,2,32,21,186,49,Nashville Predators,4,0,1,2,3,19,12,111,False
+2011,11,28,22,Los Angeles Kings,5,0,1,0,2,27,16,154,41,San Jose Sharks,7,2,2,4,3,27,14,138,True
+2011,11,28,52,Minnesota Wild,6,1,2,3,3,8,8,103,42,Tampa Bay Lightning,6,1,5,6,1,25,27,265,True
+2011,11,29,26,Buffalo Sabres,5,1,5,10,1,27,8,135,28,New York Islanders,2,1,3,3,2,26,37,251,False
+2011,11,29,48,Carolina Hurricanes,3,2,3,5,4,25,19,145,45,Florida Panthers,6,0,1,1,2,31,19,188,False
+2011,11,29,38,Calgary Flames,4,1,5,6,2,21,12,118,49,Nashville Predators,4,1,2,3,4,37,10,110,True
+2011,11,29,40,Chicago Blackhawks,6,2,2,4,1,27,23,180,47,Phoenix Coyotes,6,0,3,6,0,26,20,249,False
+2011,11,29,10,New York Rangers,8,2,2,4,0,29,18,152,20,Pittsburgh Penguins,6,0,3,8,3,27,19,140,True
+2011,11,29,25,Vancouver Canucks,7,2,3,6,2,45,11,181,51,Columbus Blue Jackets,4,0,1,2,2,29,16,181,True
+2011,11,29,36,Winnipeg Jets,4,0,2,4,3,35,4,60,2,Ottawa Senators,4,1,4,8,3,37,17,224,False
+2011,11,29,30,Washington Capitals,3,2,1,0,5,28,25,230,21,St. Louis Blues,7,0,2,4,3,28,11,159,False
+2011,11,30,53,Anaheim Ducks,1,1,2,4,4,27,19,106,0,Montreal Canadiens,5,1,2,3,4,33,19,160,True
+2011,11,30,46,Colorado Avalanche,3,2,1,2,2,34,15,217,39,New Jersey Devils,6,0,2,4,3,26,8,121,True
+2011,11,30,16,Detroit Red Wings,8,2,4,7,1,19,16,126,42,Tampa Bay Lightning,5,0,1,0,6,21,29,262,True
+2011,11,30,35,Edmonton Oilers,3,1,1,2,2,31,20,197,52,Minnesota Wild,6,1,3,4,1,33,5,124,False
+2011,11,30,13,Toronto Maple Leafs,5,0,5,9,2,28,28,288,6,Boston Bruins,9,2,4,5,2,42,12,139,False
+2011,12,1,48,Carolina Hurricanes,3,0,1,2,2,20,17,140,10,New York Rangers,8,2,4,8,4,31,21,150,False
+2011,12,1,38,Calgary Flames,4,1,1,2,0,26,10,123,51,Columbus Blue Jackets,4,1,1,2,3,33,17,185,False
+2011,12,1,43,Dallas Stars,3,2,3,6,1,36,18,198,2,Ottawa Senators,5,0,6,12,4,43,18,230,True
+2011,12,1,22,Los Angeles Kings,6,2,2,2,0,33,14,160,45,Florida Panthers,6,0,3,3,1,27,15,181,True
+2011,12,1,41,San Jose Sharks,6,1,0,0,2,33,13,144,0,Montreal Canadiens,4,1,1,2,4,42,18,153,True
+2011,12,1,25,Vancouver Canucks,8,2,4,7,1,48,12,189,49,Nashville Predators,4,0,0,1,1,29,7,102,False
+2011,12,1,36,Winnipeg Jets,4,0,4,6,5,33,6,58,47,Phoenix Coyotes,6,1,4,7,1,25,21,248,True
+2011,12,1,30,Washington Capitals,3,2,1,2,2,30,22,216,20,Pittsburgh Penguins,5,0,3,6,4,30,20,143,False
+2011,12,2,53,Anaheim Ducks,2,2,4,6,1,20,16,99,23,Philadelphia Flyers,6,0,0,0,3,9,22,193,False
+2011,12,2,26,Buffalo Sabres,4,0,2,2,2,30,9,138,16,Detroit Red Wings,8,2,4,8,2,23,17,130,False
+2011,12,2,40,Chicago Blackhawks,6,1,1,2,4,21,20,147,28,New York Islanders,3,1,2,5,1,31,33,270,True
+2011,12,2,46,Colorado Avalanche,4,1,6,9,1,19,15,189,21,St. Louis Blues,7,1,2,4,1,19,9,150,True
+2011,12,2,35,Edmonton Oilers,3,1,2,4,4,28,20,195,51,Columbus Blue Jackets,5,1,5,6,3,35,17,187,True
+2011,12,2,52,Minnesota Wild,7,1,2,4,2,30,7,120,39,New Jersey Devils,5,1,1,2,6,25,11,120,True
+2011,12,3,6,Boston Bruins,9,2,6,10,2,31,13,134,13,Toronto Maple Leafs,5,0,3,6,1,10,32,298,True
+2011,12,3,48,Carolina Hurricanes,2,2,3,5,1,20,20,147,20,Pittsburgh Penguins,5,0,2,4,3,31,17,130,False
+2011,12,3,43,Dallas Stars,4,2,3,6,2,35,19,203,28,New York Islanders,3,0,4,8,4,33,36,275,False
+2011,12,3,35,Edmonton Oilers,4,0,6,12,2,29,19,206,38,Calgary Flames,4,2,3,4,3,33,13,130,False
+2011,12,3,22,Los Angeles Kings,6,0,2,3,2,25,15,169,0,Montreal Canadiens,3,2,3,5,3,41,18,168,False
+2011,12,3,49,Nashville Predators,4,1,6,12,0,19,10,92,26,Buffalo Sabres,3,1,1,2,3,22,10,143,False
+2011,12,3,47,Phoenix Coyotes,6,1,0,0,1,31,20,249,23,Philadelphia Flyers,6,1,4,8,3,22,24,226,False
+2011,12,3,41,San Jose Sharks,7,0,3,6,1,37,16,163,45,Florida Panthers,5,2,1,2,0,25,16,185,False
+2011,12,3,21,St. Louis Blues,7,1,3,4,1,24,10,166,40,Chicago Blackhawks,6,1,4,8,0,3,22,169,False
+2011,12,3,42,Tampa Bay Lightning,4,2,2,4,2,23,30,268,10,New York Rangers,8,0,5,10,3,27,20,150,False
+2011,12,3,36,Winnipeg Jets,5,0,1,2,0,33,1,58,39,New Jersey Devils,5,1,2,3,1,12,12,89,True
+2011,12,3,30,Washington Capitals,2,1,1,2,6,33,22,240,2,Ottawa Senators,5,1,2,3,3,32,22,252,True
+2011,12,4,53,Anaheim Ducks,2,1,3,5,4,47,20,177,52,Minnesota Wild,8,1,4,5,0,22,5,94,False
+2011,12,4,46,Colorado Avalanche,4,0,2,4,2,37,22,213,16,Detroit Red Wings,8,2,4,5,1,7,16,135,True
+2011,12,4,25,Vancouver Canucks,7,2,4,10,3,15,17,109,38,Calgary Flames,5,0,5,7,3,29,13,126,True
+2011,12,5,40,Chicago Blackhawks,6,1,5,8,4,41,24,191,47,Phoenix Coyotes,5,1,2,4,4,17,18,233,False
+2011,12,5,45,Florida Panthers,6,1,5,6,3,26,19,189,30,Washington Capitals,3,1,3,5,2,34,18,233,True
+2011,12,5,10,New York Rangers,8,1,4,6,2,26,19,149,13,Toronto Maple Leafs,4,1,0,2,5,39,42,317,False
+2011,12,5,2,Ottawa Senators,5,1,2,3,3,35,20,241,42,Tampa Bay Lightning,3,1,2,4,4,35,30,298,True
+2011,12,5,20,Pittsburgh Penguins,6,2,3,6,1,17,19,170,6,Boston Bruins,9,0,4,8,3,37,12,125,False
+2011,12,6,53,Anaheim Ducks,1,0,3,4,4,35,18,151,22,Los Angeles Kings,6,2,1,3,1,42,11,153,True
+2011,12,6,38,Calgary Flames,4,1,1,2,0,4,12,104,48,Carolina Hurricanes,2,1,2,4,5,27,22,167,True
+2011,12,6,0,Montreal Canadiens,4,1,3,5,1,27,16,154,51,Columbus Blue Jackets,4,1,3,4,5,33,20,197,False
+2011,12,6,49,Nashville Predators,4,1,2,4,5,18,13,87,47,Phoenix Coyotes,5,1,3,3,0,13,17,251,False
+2011,12,6,28,New York Islanders,4,1,5,9,0,13,32,236,42,Tampa Bay Lightning,3,1,2,3,3,35,30,294,True
+2011,12,6,41,San Jose Sharks,6,2,3,4,3,32,20,161,52,Minnesota Wild,8,0,5,8,3,27,8,99,False
+2011,12,6,21,St. Louis Blues,6,2,2,3,4,35,15,204,16,Detroit Red Wings,7,0,2,4,1,28,18,162,True
+2011,12,6,13,Toronto Maple Leafs,5,1,5,6,4,30,39,310,39,New Jersey Devils,4,1,2,3,3,4,15,102,False
+2011,12,6,25,Vancouver Canucks,7,2,4,8,1,22,14,122,46,Colorado Avalanche,5,0,3,5,2,29,19,197,True
+2011,12,6,36,Winnipeg Jets,6,0,4,5,2,25,3,50,6,Boston Bruins,9,1,2,6,1,22,10,134,True
+2011,12,7,26,Buffalo Sabres,4,1,3,5,2,34,9,155,23,Philadelphia Flyers,7,1,4,6,2,38,23,250,False
+2011,12,7,35,Edmonton Oilers,4,1,3,4,3,39,24,215,48,Carolina Hurricanes,2,1,6,7,6,32,23,174,False
+2011,12,7,2,Ottawa Senators,6,0,4,8,2,33,17,233,30,Washington Capitals,3,2,4,8,2,35,25,221,False
+2011,12,8,6,Boston Bruins,8,2,2,2,1,46,11,147,45,Florida Panthers,6,0,5,10,2,26,22,202,False
+2011,12,8,51,Columbus Blue Jackets,5,1,2,4,2,20,19,183,49,Nashville Predators,3,1,2,4,3,35,11,104,False
+2011,12,8,38,Calgary Flames,5,2,7,11,6,34,18,134,46,Colorado Avalanche,5,0,0,0,0,2,20,198,True
+2011,12,8,16,Detroit Red Wings,7,1,2,4,3,26,20,160,47,Phoenix Coyotes,6,1,3,6,3,35,22,267,True
+2011,12,8,22,Los Angeles Kings,5,2,3,3,3,27,14,146,52,Minnesota Wild,8,0,2,4,0,34,4,128,False
+2011,12,8,0,Montreal Canadiens,3,2,2,3,2,28,17,155,25,Vancouver Canucks,8,0,6,12,0,13,11,119,False
+2011,12,8,39,New Jersey Devils,5,0,3,5,2,31,14,129,2,Ottawa Senators,5,2,3,4,2,32,19,243,True
+2011,12,8,28,New York Islanders,5,0,5,10,1,24,33,247,40,Chicago Blackhawks,5,2,3,6,0,11,20,141,False
+2011,12,8,10,New York Rangers,7,1,2,4,3,29,22,151,42,Tampa Bay Lightning,3,1,0,2,5,34,33,269,False
+2011,12,8,23,Philadelphia Flyers,7,1,5,5,4,24,27,258,20,Pittsburgh Penguins,5,1,1,1,3,27,20,175,True
+2011,12,8,41,San Jose Sharks,5,2,1,2,2,21,19,150,43,Dallas Stars,4,0,4,8,5,27,27,174,True
+2011,12,8,21,St. Louis Blues,6,0,3,5,2,35,13,198,53,Anaheim Ducks,2,2,3,4,2,39,18,184,True
+2011,12,9,26,Buffalo Sabres,3,1,3,7,5,34,12,155,45,Florida Panthers,7,1,2,4,4,32,20,216,True
+2011,12,9,35,Edmonton Oilers,4,1,3,5,4,31,23,205,46,Colorado Avalanche,5,1,2,2,6,21,23,229,True
+2011,12,9,36,Winnipeg Jets,7,2,2,1,1,21,2,65,48,Carolina Hurricanes,3,0,4,5,3,25,20,167,True
+2011,12,9,30,Washington Capitals,4,1,5,9,3,34,22,248,13,Toronto Maple Leafs,5,1,2,4,3,26,36,310,True
+2011,12,10,26,Buffalo Sabres,4,2,3,4,3,35,8,144,10,New York Rangers,6,0,2,4,3,31,21,153,False
+2011,12,10,51,Columbus Blue Jackets,5,0,3,6,4,22,18,181,6,Boston Bruins,7,2,0,0,1,29,13,129,False
+2011,12,10,38,Calgary Flames,5,2,3,7,2,18,14,118,35,Edmonton Oilers,4,0,4,7,5,33,20,203,True
+2011,12,10,16,Detroit Red Wings,8,0,5,9,2,32,19,166,36,Winnipeg Jets,7,0,4,7,1,40,3,69,True
+2011,12,10,22,Los Angeles Kings,4,1,2,4,2,27,15,143,43,Dallas Stars,4,1,2,4,0,11,27,179,False
+2011,12,10,39,New Jersey Devils,5,1,5,6,2,9,11,96,0,Montreal Canadiens,3,1,2,6,3,31,20,145,False
+2011,12,10,49,Nashville Predators,3,2,4,7,3,24,10,75,53,Anaheim Ducks,2,0,1,3,1,9,19,168,True
+2011,12,10,28,New York Islanders,4,0,2,4,3,28,33,253,20,Pittsburgh Penguins,5,2,2,4,3,29,20,177,False
+2011,12,10,2,Ottawa Senators,4,0,4,7,4,43,23,264,25,Vancouver Canucks,8,2,4,5,3,23,15,134,False
+2011,12,10,23,Philadelphia Flyers,7,1,3,5,2,27,23,263,42,Tampa Bay Lightning,3,1,2,2,2,30,32,284,True
+2011,12,10,47,Phoenix Coyotes,5,1,2,4,4,11,27,230,52,Minnesota Wild,8,1,4,9,2,9,6,138,False
+2011,12,10,21,St. Louis Blues,6,1,2,5,2,29,12,168,41,San Jose Sharks,6,1,5,8,2,20,19,149,True
+2011,12,11,40,Chicago Blackhawks,5,1,3,5,2,33,18,159,41,San Jose Sharks,5,1,0,0,1,19,18,148,True
+2011,12,11,10,New York Rangers,6,1,4,5,2,31,19,155,45,Florida Panthers,6,1,1,2,0,40,17,183,True
+2011,12,12,42,Tampa Bay Lightning,3,0,2,4,4,31,34,294,39,New Jersey Devils,4,2,1,2,2,20,9,102,False
+2011,12,13,6,Boston Bruins,7,0,4,10,0,11,13,101,22,Los Angeles Kings,3,2,1,1,4,24,15,144,True
+2011,12,13,26,Buffalo Sabres,3,2,1,1,1,23,9,142,2,Ottawa Senators,3,0,1,2,4,28,21,248,False
+2011,12,13,51,Columbus Blue Jackets,4,0,3,5,3,23,19,168,25,Vancouver Canucks,9,2,4,7,1,25,13,136,True
+2011,12,13,46,Colorado Avalanche,4,0,2,2,4,35,23,206,41,San Jose Sharks,4,2,2,4,3,34,20,163,True
+2011,12,13,45,Florida Panthers,5,1,0,2,6,22,19,157,39,New Jersey Devils,5,1,5,9,2,24,11,118,False
+2011,12,13,0,Montreal Canadiens,3,0,2,4,1,29,18,143,28,New York Islanders,4,2,3,6,6,31,35,237,True
+2011,12,13,49,Nashville Predators,4,1,3,6,2,17,11,87,38,Calgary Flames,6,1,3,5,0,21,12,121,True
+2011,12,13,10,New York Rangers,7,2,6,9,1,21,18,145,43,Dallas Stars,5,0,2,4,1,27,28,204,False
+2011,12,13,20,Pittsburgh Penguins,6,2,6,11,3,27,20,155,16,Detroit Red Wings,8,0,7,13,1,30,18,164,False
+2011,12,13,13,Toronto Maple Leafs,5,1,2,2,4,25,35,300,48,Carolina Hurricanes,2,1,2,4,4,30,21,177,True
+2011,12,13,36,Winnipeg Jets,6,0,1,3,7,26,7,33,52,Minnesota Wild,8,0,4,6,1,36,7,159,True
+2011,12,13,30,Washington Capitals,5,2,4,8,2,28,22,231,23,Philadelphia Flyers,7,0,5,7,2,16,21,227,False
+2011,12,14,53,Anaheim Ducks,2,0,2,4,3,23,20,196,47,Phoenix Coyotes,5,2,1,2,4,20,24,252,True
+2011,12,14,52,Minnesota Wild,7,0,1,2,2,27,8,150,40,Chicago Blackhawks,6,2,3,6,2,37,20,177,False
+2011,12,14,2,Ottawa Senators,4,0,2,5,2,29,20,242,6,Boston Bruins,7,2,3,4,3,25,13,131,False
+2011,12,15,48,Carolina Hurricanes,1,1,1,2,2,38,19,185,25,Vancouver Canucks,8,1,1,3,0,20,8,113,True
+2011,12,15,51,Columbus Blue Jackets,4,0,1,3,0,1,12,148,22,Los Angeles Kings,3,2,0,0,3,22,14,142,False
+2011,12,15,0,Montreal Canadiens,4,1,5,10,3,32,20,146,23,Philadelphia Flyers,8,1,5,10,0,3,21,236,False
+2011,12,15,49,Nashville Predators,5,0,2,3,1,36,10,106,16,Detroit Red Wings,8,2,4,5,1,26,18,160,True
+2011,12,15,28,New York Islanders,4,1,3,5,3,23,33,234,43,Dallas Stars,6,1,1,2,0,34,27,219,False
+2011,12,15,47,Phoenix Coyotes,4,2,1,2,4,28,24,260,35,Edmonton Oilers,4,0,0,0,2,33,16,164,True
+2011,12,15,41,San Jose Sharks,3,1,3,6,3,33,20,162,46,Colorado Avalanche,5,1,3,5,3,30,21,213,True
+2011,12,15,21,St. Louis Blues,7,1,2,2,0,24,10,163,10,New York Rangers,7,1,0,0,1,28,18,152,True
+2011,12,15,42,Tampa Bay Lightning,3,1,4,8,2,10,29,254,38,Calgary Flames,6,1,1,1,2,45,14,145,True
+2011,12,15,36,Winnipeg Jets,6,1,2,2,1,35,1,42,30,Washington Capitals,4,1,1,2,1,12,22,210,False
+2011,12,16,26,Buffalo Sabres,3,0,2,3,3,44,11,163,13,Toronto Maple Leafs,5,2,2,4,1,19,32,294,True
+2011,12,16,40,Chicago Blackhawks,7,2,3,5,3,30,22,164,53,Anaheim Ducks,3,0,4,8,1,20,19,186,True
+2011,12,16,45,Florida Panthers,4,1,2,1,2,34,20,162,38,Calgary Flames,6,1,4,7,0,0,17,134,True
+2011,12,16,39,New Jersey Devils,5,1,2,3,4,36,11,120,43,Dallas Stars,6,1,3,7,2,27,27,204,True
+2011,12,16,2,Ottawa Senators,4,0,2,3,4,31,22,239,20,Pittsburgh Penguins,5,2,1,2,2,32,22,169,True
+2011,12,17,51,Columbus Blue Jackets,4,1,1,2,1,31,16,205,42,Tampa Bay Lightning,3,1,5,10,4,27,31,271,False
+2011,12,17,46,Colorado Avalanche,5,1,4,7,3,35,24,211,30,Washington Capitals,4,1,1,2,0,26,24,203,True
+2011,12,17,16,Detroit Red Wings,7,1,3,6,4,21,21,155,22,Los Angeles Kings,3,1,2,4,1,25,12,145,True
+2011,12,17,52,Minnesota Wild,7,0,2,5,3,31,9,146,28,New York Islanders,4,2,2,4,4,28,33,240,False
+2011,12,17,0,Montreal Canadiens,3,2,3,6,4,25,21,144,39,New Jersey Devils,5,0,6,11,2,26,10,120,False
+2011,12,17,49,Nashville Predators,6,1,4,8,3,40,12,110,21,St. Louis Blues,8,1,3,6,2,23,11,165,True
+2011,12,17,23,Philadelphia Flyers,9,1,4,8,1,32,22,259,6,Boston Bruins,7,1,6,7,2,49,12,160,False
+2011,12,17,47,Phoenix Coyotes,5,1,4,8,2,20,23,238,10,New York Rangers,6,1,1,3,1,33,20,164,False
+2011,12,17,20,Pittsburgh Penguins,5,1,4,8,1,5,21,138,26,Buffalo Sabres,4,1,5,8,4,33,12,152,True
+2011,12,17,41,San Jose Sharks,3,1,5,8,4,27,21,156,35,Edmonton Oilers,3,1,2,4,1,29,18,191,True
+2011,12,17,13,Toronto Maple Leafs,5,0,4,5,2,32,34,295,25,Vancouver Canucks,7,2,3,6,1,30,14,174,False
+2011,12,17,36,Winnipeg Jets,6,0,0,0,0,3,1,35,53,Anaheim Ducks,3,0,1,2,3,28,22,164,True
+2011,12,18,40,Chicago Blackhawks,8,1,4,6,1,25,20,165,38,Calgary Flames,5,1,2,4,5,34,19,175,True
+2011,12,18,45,Florida Panthers,5,1,3,4,2,26,20,154,48,Carolina Hurricanes,2,1,4,8,3,36,20,183,True
+2011,12,18,21,St. Louis Blues,7,2,2,2,1,20,13,195,51,Columbus Blue Jackets,3,0,2,4,3,28,16,203,True
+2011,12,19,6,Boston Bruins,8,1,5,11,0,31,10,142,0,Montreal Canadiens,3,1,3,5,5,35,24,163,True
+2011,12,19,46,Colorado Avalanche,5,1,2,4,1,26,22,202,23,Philadelphia Flyers,8,1,0,0,5,20,26,222,True
+2011,12,19,43,Dallas Stars,5,2,3,6,6,31,32,223,53,Anaheim Ducks,3,0,3,5,4,24,23,180,True
+2011,12,19,35,Edmonton Oilers,2,0,2,1,3,37,20,199,16,Detroit Red Wings,7,2,8,15,2,29,19,163,False
+2011,12,19,13,Toronto Maple Leafs,4,1,3,5,5,29,38,306,22,Los Angeles Kings,3,1,2,4,3,7,17,119,False
+2011,12,19,25,Vancouver Canucks,7,1,5,8,3,29,16,173,52,Minnesota Wild,7,1,1,2,1,36,7,151,True
+2011,12,20,38,Calgary Flames,4,1,2,4,4,25,18,166,52,Minnesota Wild,6,1,0,0,1,8,10,148,True
+2011,12,20,45,Florida Panthers,6,1,3,6,2,26,20,154,47,Phoenix Coyotes,4,1,2,3,3,30,21,255,False
+2011,12,20,39,New Jersey Devils,6,1,3,8,3,26,11,120,10,New York Rangers,6,1,3,4,3,35,21,154,False
+2011,12,20,2,Ottawa Senators,4,1,6,11,5,29,23,243,26,Buffalo Sabres,4,1,3,4,5,15,12,112,True
+2011,12,20,20,Pittsburgh Penguins,5,0,8,15,3,19,23,152,40,Chicago Blackhawks,8,2,4,8,2,24,21,155,True
+2011,12,20,36,Winnipeg Jets,6,1,6,9,1,28,4,68,28,New York Islanders,5,0,1,2,1,21,31,223,False
+2011,12,20,30,Washington Capitals,4,1,1,2,2,28,26,201,49,Nashville Predators,7,1,1,2,3,14,15,146,True
+2011,12,21,48,Carolina Hurricanes,2,1,2,2,3,25,20,172,47,Phoenix Coyotes,4,1,2,4,0,8,19,230,False
+2011,12,21,40,Chicago Blackhawks,7,1,2,4,3,16,22,159,0,Montreal Canadiens,3,1,2,4,3,26,22,159,True
+2011,12,21,46,Colorado Avalanche,6,1,2,4,2,33,20,200,21,St. Louis Blues,7,1,6,9,1,26,16,207,True
+2011,12,21,43,Dallas Stars,6,0,5,9,3,28,27,210,23,Philadelphia Flyers,7,2,2,6,1,17,24,233,False
+2011,12,21,41,San Jose Sharks,4,1,2,6,2,25,19,171,42,Tampa Bay Lightning,3,1,4,5,2,28,30,275,True
+2011,12,21,25,Vancouver Canucks,7,1,5,8,0,33,15,193,16,Detroit Red Wings,7,1,3,5,2,23,19,157,True
+2011,12,22,38,Calgary Flames,5,1,2,4,1,30,15,171,16,Detroit Red Wings,6,1,2,4,3,34,21,159,True
+2011,12,22,35,Edmonton Oilers,2,1,2,4,3,28,22,193,52,Minnesota Wild,5,1,1,3,4,33,11,166,True
+2011,12,22,22,Los Angeles Kings,4,1,2,4,2,33,18,161,53,Anaheim Ducks,3,1,3,6,5,33,25,199,True
+2011,12,22,49,Nashville Predators,6,1,1,1,1,40,16,155,51,Columbus Blue Jackets,3,1,4,7,2,41,19,188,True
+2011,12,22,10,New York Rangers,6,1,4,6,2,23,19,150,28,New York Islanders,5,1,2,4,0,19,33,261,True
+2011,12,22,2,Ottawa Senators,4,2,4,7,1,23,22,237,45,Florida Panthers,5,0,1,2,0,11,16,144,True
+2011,12,22,13,Toronto Maple Leafs,3,1,2,3,2,42,39,340,26,Buffalo Sabres,3,1,1,2,3,38,10,135,True
+2011,12,22,36,Winnipeg Jets,6,0,2,3,2,33,5,73,0,Montreal Canadiens,3,1,1,3,3,31,23,160,True
+2011,12,23,6,Boston Bruins,8,1,4,3,0,41,12,146,45,Florida Panthers,5,1,3,6,2,22,22,171,True
+2011,12,23,48,Carolina Hurricanes,2,0,3,5,4,19,21,166,2,Ottawa Senators,5,2,4,7,3,35,24,249,True
+2011,12,23,46,Colorado Avalanche,6,1,3,6,2,39,25,209,42,Tampa Bay Lightning,3,1,2,2,3,8,32,278,True
+2011,12,23,43,Dallas Stars,6,1,1,2,4,30,28,212,49,Nashville Predators,7,1,6,12,5,31,20,146,True
+2011,12,23,39,New Jersey Devils,6,1,3,2,3,20,15,124,30,Washington Capitals,5,1,4,7,1,21,27,186,True
+2011,12,23,28,New York Islanders,4,1,2,4,3,24,36,269,13,Toronto Maple Leafs,3,1,3,5,2,42,38,326,False
+2011,12,23,10,New York Rangers,6,2,4,6,1,31,19,153,23,Philadelphia Flyers,8,0,4,8,2,27,24,250,True
+2011,12,23,47,Phoenix Coyotes,5,2,4,7,3,37,24,256,21,St. Louis Blues,6,0,2,3,3,22,18,196,False
+2011,12,23,41,San Jose Sharks,5,1,7,10,2,24,23,177,22,Los Angeles Kings,4,1,2,3,2,22,18,131,True
+2011,12,23,25,Vancouver Canucks,7,2,4,7,2,40,21,178,38,Calgary Flames,5,0,3,5,2,41,16,172,False
+2011,12,23,36,Winnipeg Jets,7,1,4,8,0,27,3,67,20,Pittsburgh Penguins,5,0,3,6,2,38,22,165,False
+2011,12,26,26,Buffalo Sabres,3,1,2,2,3,31,10,128,30,Washington Capitals,5,1,3,5,3,28,29,193,True
+2011,12,26,48,Carolina Hurricanes,3,0,2,3,1,23,18,170,39,New Jersey Devils,7,2,3,6,3,36,15,129,True
+2011,12,26,40,Chicago Blackhawks,8,2,5,7,1,21,17,171,51,Columbus Blue Jackets,3,0,5,9,5,33,22,206,True
+2011,12,26,22,Los Angeles Kings,3,1,1,2,1,35,17,144,47,Phoenix Coyotes,5,1,2,4,3,18,24,237,True
+2011,12,26,52,Minnesota Wild,4,2,2,2,4,31,13,156,46,Colorado Avalanche,6,0,2,4,5,34,23,204,False
+2011,12,26,49,Nashville Predators,6,1,3,5,3,7,16,120,16,Detroit Red Wings,5,1,2,2,4,25,21,152,False
+2011,12,26,10,New York Rangers,6,2,4,7,2,30,20,152,28,New York Islanders,4,0,3,6,4,26,37,271,True
+2011,12,26,41,San Jose Sharks,5,0,1,2,1,29,20,186,53,Anaheim Ducks,2,2,2,4,2,34,20,165,False
+2011,12,26,21,St. Louis Blues,6,0,3,6,4,32,17,200,43,Dallas Stars,6,2,6,10,3,37,27,219,True
+2011,12,26,25,Vancouver Canucks,7,1,1,2,2,30,18,166,35,Edmonton Oilers,3,1,4,3,1,31,19,217,True
+2011,12,27,51,Columbus Blue Jackets,2,2,1,2,4,22,21,195,38,Calgary Flames,6,0,3,5,2,31,12,138,False
+2011,12,27,46,Colorado Avalanche,6,0,4,6,1,30,16,179,36,Winnipeg Jets,6,0,1,2,4,39,7,79,False
+2011,12,27,16,Detroit Red Wings,6,0,4,6,1,32,18,159,21,St. Louis Blues,7,2,5,9,2,26,16,191,True
+2011,12,27,45,Florida Panthers,4,2,0,0,4,14,20,157,13,Toronto Maple Leafs,4,0,5,8,3,33,38,300,True
+2011,12,27,2,Ottawa Senators,5,1,2,2,2,38,20,239,0,Montreal Canadiens,3,1,0,0,4,34,23,154,False
+2011,12,27,20,Pittsburgh Penguins,6,1,4,6,1,19,21,146,48,Carolina Hurricanes,4,1,3,5,5,29,19,172,True
+2011,12,27,42,Tampa Bay Lightning,3,1,1,2,2,29,31,299,23,Philadelphia Flyers,7,1,2,4,4,24,26,247,True
+2011,12,28,40,Chicago Blackhawks,8,2,4,7,1,38,23,177,22,Los Angeles Kings,4,0,4,7,3,29,20,149,False
+2011,12,28,39,New Jersey Devils,7,1,2,4,3,25,15,126,26,Buffalo Sabres,4,1,4,6,2,22,9,119,True
+2011,12,28,49,Nashville Predators,6,1,1,1,4,22,17,135,52,Minnesota Wild,3,1,2,4,2,30,12,175,True
+2011,12,28,47,Phoenix Coyotes,4,1,3,3,4,29,24,231,6,Boston Bruins,8,1,8,15,0,30,10,120,False
+2011,12,28,41,San Jose Sharks,5,0,2,3,3,23,22,180,25,Vancouver Canucks,7,2,5,8,3,21,17,157,False
+2011,12,28,30,Washington Capitals,5,0,2,2,1,17,22,173,10,New York Rangers,7,2,3,6,2,26,16,135,True
+2011,12,29,53,Anaheim Ducks,3,1,3,4,2,38,24,157,25,Vancouver Canucks,7,1,3,6,4,41,16,171,False
+2011,12,29,48,Carolina Hurricanes,4,1,3,3,2,25,18,195,13,Toronto Maple Leafs,4,1,3,6,3,8,35,257,True
+2011,12,29,46,Colorado Avalanche,6,1,1,2,2,22,21,168,47,Phoenix Coyotes,3,1,1,3,2,29,22,231,True
+2011,12,29,43,Dallas Stars,5,2,3,5,0,3,21,179,51,Columbus Blue Jackets,2,0,1,2,1,26,17,202,False
+2011,12,29,52,Minnesota Wild,2,1,1,2,4,32,11,170,35,Edmonton Oilers,3,1,3,6,5,26,22,215,True
+2011,12,29,28,New York Islanders,3,2,0,0,2,30,37,272,38,Calgary Flames,6,0,1,2,1,28,11,135,True
+2011,12,29,20,Pittsburgh Penguins,6,0,4,7,2,18,21,148,23,Philadelphia Flyers,6,2,1,2,1,31,29,236,False
+2011,12,29,42,Tampa Bay Lightning,4,0,5,8,1,32,26,286,0,Montreal Canadiens,3,2,6,11,2,35,19,140,True
+2011,12,29,36,Winnipeg Jets,6,0,3,7,3,36,4,73,22,Los Angeles Kings,5,0,2,4,5,20,16,164,True
+2011,12,30,40,Chicago Blackhawks,7,1,0,0,2,38,23,177,16,Detroit Red Wings,7,1,3,6,2,31,19,158,True
+2011,12,30,45,Florida Panthers,4,1,5,8,4,21,21,159,10,New York Rangers,7,1,1,1,0,28,18,132,False
+2011,12,30,2,Ottawa Senators,4,1,2,4,2,21,20,193,38,Calgary Flames,5,1,1,2,1,30,12,140,True
+2011,12,30,21,St. Louis Blues,7,0,2,5,3,23,14,192,49,Nashville Predators,7,2,1,2,1,35,7,127,False
+2011,12,30,30,Washington Capitals,5,0,4,6,1,32,20,172,26,Buffalo Sabres,3,2,1,2,3,23,10,120,True
+2011,12,31,53,Anaheim Ducks,3,2,2,6,4,16,22,119,46,Colorado Avalanche,7,0,3,6,4,26,15,162,False
+2011,12,31,26,Buffalo Sabres,3,0,1,2,3,11,10,118,2,Ottawa Senators,5,2,4,4,0,17,17,197,False
+2011,12,31,51,Columbus Blue Jackets,2,0,4,6,1,37,19,215,30,Washington Capitals,6,2,3,5,1,26,20,166,False
+2011,12,31,43,Dallas Stars,5,0,1,2,3,28,25,198,6,Boston Bruins,8,2,2,5,2,35,12,106,True
+2011,12,31,16,Detroit Red Wings,6,1,2,4,3,28,20,155,21,St. Louis Blues,6,1,1,2,3,32,12,203,True
+2011,12,31,45,Florida Panthers,3,1,1,1,1,11,17,157,0,Montreal Canadiens,3,1,3,6,4,22,20,132,True
+2011,12,31,22,Los Angeles Kings,5,0,0,0,0,38,12,171,25,Vancouver Canucks,7,2,5,9,2,35,15,168,True
+2011,12,31,52,Minnesota Wild,2,1,3,7,3,30,8,146,47,Phoenix Coyotes,3,1,2,4,0,6,24,231,False
+2011,12,31,39,New Jersey Devils,7,0,3,7,1,23,10,121,20,Pittsburgh Penguins,5,2,2,3,3,22,24,154,True
+2011,12,31,28,New York Islanders,3,1,3,6,1,30,36,272,35,Edmonton Oilers,2,1,3,6,0,8,19,176,True
+2011,12,31,42,Tampa Bay Lightning,5,1,4,8,3,34,28,288,48,Carolina Hurricanes,5,1,4,7,3,24,19,194,True
+2011,12,31,36,Winnipeg Jets,6,0,1,2,1,33,1,68,13,Toronto Maple Leafs,3,1,3,4,4,34,31,274,True
+2012,1,1,49,Nashville Predators,7,1,1,1,1,36,7,128,38,Calgary Flames,4,1,3,4,2,33,17,183,True
+2012,1,2,40,Chicago Blackhawks,8,1,3,4,2,28,23,167,35,Edmonton Oilers,2,1,2,2,4,29,22,189,False
+2012,1,2,22,Los Angeles Kings,6,1,4,5,1,28,13,161,46,Colorado Avalanche,8,1,4,7,2,27,15,165,False
+2012,1,2,2,Ottawa Senators,6,1,2,4,2,28,21,231,39,New Jersey Devils,7,1,3,4,1,30,10,128,True
+2012,1,2,23,Philadelphia Flyers,6,0,4,8,2,26,30,231,10,New York Rangers,7,2,4,5,1,28,20,126,False
+2012,1,2,25,Vancouver Canucks,6,2,1,3,4,33,17,166,41,San Jose Sharks,5,0,2,1,3,30,21,186,False
+2012,1,3,26,Buffalo Sabres,2,2,2,4,3,21,9,153,35,Edmonton Oilers,3,0,4,8,4,19,21,202,True
+2012,1,3,48,Carolina Hurricanes,4,2,2,4,5,32,21,202,28,New York Islanders,4,0,4,8,1,29,36,271,False
+2012,1,3,43,Dallas Stars,6,1,4,7,2,20,24,190,16,Detroit Red Wings,6,1,3,5,0,31,17,158,False
+2012,1,3,21,St. Louis Blues,5,1,0,0,1,34,12,202,47,Phoenix Coyotes,4,1,4,4,1,20,26,255,True
+2012,1,3,13,Toronto Maple Leafs,3,1,2,4,2,18,30,275,42,Tampa Bay Lightning,6,1,5,7,2,26,29,290,True
+2012,1,3,30,Washington Capitals,6,1,3,7,2,37,20,181,38,Calgary Flames,4,1,3,6,4,26,19,176,True
+2012,1,4,53,Anaheim Ducks,2,2,2,4,4,26,22,147,41,San Jose Sharks,5,0,2,4,2,29,22,196,False
+2012,1,4,0,Montreal Canadiens,3,1,2,3,2,34,18,145,36,Winnipeg Jets,6,1,4,6,2,24,2,59,True
+2012,1,4,39,New Jersey Devils,7,1,2,2,3,32,12,130,6,Boston Bruins,7,1,2,3,4,27,14,98,False
+2012,1,4,25,Vancouver Canucks,6,1,2,3,2,35,15,168,52,Minnesota Wild,1,1,2,2,1,25,8,145,True
+2012,1,5,6,Boston Bruins,8,2,6,9,1,22,11,102,38,Calgary Flames,4,0,1,2,4,49,18,171,True
+2012,1,5,22,Los Angeles Kings,6,1,1,2,1,21,13,154,47,Phoenix Coyotes,4,1,1,2,3,30,28,265,True
+2012,1,5,49,Nashville Predators,7,1,5,10,3,20,10,88,43,Dallas Stars,5,1,4,9,5,31,27,209,False
+2012,1,5,10,New York Rangers,7,2,3,6,4,23,21,134,45,Florida Panthers,4,0,3,4,1,18,14,143,True
+2012,1,5,2,Ottawa Senators,7,1,3,6,2,29,21,232,42,Tampa Bay Lightning,5,1,3,4,3,21,28,269,True
+2012,1,5,23,Philadelphia Flyers,5,2,2,3,5,16,29,236,40,Chicago Blackhawks,7,0,3,4,3,28,23,180,True
+2012,1,5,41,San Jose Sharks,6,1,3,6,5,35,21,194,51,Columbus Blue Jackets,2,1,2,5,6,38,23,191,True
+2012,1,5,21,St. Louis Blues,5,1,4,8,1,35,13,179,35,Edmonton Oilers,2,1,3,6,3,42,22,199,True
+2012,1,5,13,Toronto Maple Leafs,4,1,7,14,3,24,33,304,36,Winnipeg Jets,6,1,3,6,1,7,7,35,True
+2012,1,6,53,Anaheim Ducks,2,1,1,1,3,36,22,193,28,New York Islanders,5,1,3,6,3,40,35,268,True
+2012,1,6,48,Carolina Hurricanes,4,1,3,5,3,36,19,206,26,Buffalo Sabres,3,1,4,7,3,26,9,158,True
+2012,1,6,40,Chicago Blackhawks,6,1,4,7,4,30,25,198,46,Colorado Avalanche,8,1,1,1,1,32,13,178,False
+2012,1,6,39,New Jersey Devils,6,1,1,1,3,33,17,148,45,Florida Panthers,4,1,2,4,5,34,15,173,True
+2012,1,6,20,Pittsburgh Penguins,5,0,2,2,2,20,24,139,10,New York Rangers,8,2,3,5,2,36,19,132,False
+2012,1,7,6,Boston Bruins,9,1,9,17,1,31,10,105,25,Vancouver Canucks,7,1,3,5,2,32,9,162,False
+2012,1,7,26,Buffalo Sabres,3,1,2,2,2,46,9,166,36,Winnipeg Jets,5,0,0,0,6,24,10,53,False
+2012,1,7,38,Calgary Flames,4,2,0,0,3,21,20,143,52,Minnesota Wild,1,0,0,0,3,29,9,154,True
+2012,1,7,43,Dallas Stars,5,1,4,6,3,25,23,203,35,Edmonton Oilers,2,1,3,4,4,33,23,194,True
+2012,1,7,22,Los Angeles Kings,6,2,1,2,0,22,12,155,51,Columbus Blue Jackets,2,0,1,1,2,39,19,192,False
+2012,1,7,0,Montreal Canadiens,3,1,7,10,3,27,21,135,42,Tampa Bay Lightning,5,1,1,5,4,21,28,271,True
+2012,1,7,49,Nashville Predators,6,2,1,2,4,30,14,116,48,Carolina Hurricanes,5,0,4,5,4,52,18,203,True
+2012,1,7,23,Philadelphia Flyers,5,1,5,10,4,34,30,272,2,Ottawa Senators,7,1,4,7,1,36,22,257,True
+2012,1,7,47,Phoenix Coyotes,3,1,0,0,1,28,23,284,28,New York Islanders,5,1,2,4,4,20,36,248,True
+2012,1,7,20,Pittsburgh Penguins,5,1,1,2,3,21,24,147,39,New Jersey Devils,6,1,5,9,6,27,16,139,False
+2012,1,7,41,San Jose Sharks,7,2,2,4,1,27,19,168,30,Washington Capitals,6,0,4,4,1,19,18,158,True
+2012,1,7,21,St. Louis Blues,5,0,4,7,3,31,18,194,46,Colorado Avalanche,9,2,4,7,2,20,14,176,True
+2012,1,7,13,Toronto Maple Leafs,4,1,4,8,0,24,32,323,16,Detroit Red Wings,6,1,5,10,4,29,21,156,True
+2012,1,8,53,Anaheim Ducks,3,1,4,8,2,21,21,200,51,Columbus Blue Jackets,2,1,1,1,4,26,16,191,True
+2012,1,8,40,Chicago Blackhawks,5,1,0,0,4,22,25,193,16,Detroit Red Wings,6,1,3,6,3,27,21,145,False
+2012,1,8,2,Ottawa Senators,7,0,2,4,3,39,21,244,23,Philadelphia Flyers,5,2,3,5,2,37,28,275,True
+2012,1,9,45,Florida Panthers,4,0,2,4,3,41,19,186,25,Vancouver Canucks,7,2,4,6,0,28,10,140,True
+2012,1,9,22,Los Angeles Kings,6,2,0,0,1,27,13,151,30,Washington Capitals,6,0,2,4,4,38,21,177,True
+2012,1,10,53,Anaheim Ducks,3,0,7,12,7,45,33,242,43,Dallas Stars,5,2,2,8,1,25,21,208,True
+2012,1,10,6,Boston Bruins,8,1,2,4,0,25,13,110,36,Winnipeg Jets,6,1,2,3,1,32,5,61,True
+2012,1,10,48,Carolina Hurricanes,4,1,2,4,2,33,19,187,23,Philadelphia Flyers,4,1,4,5,3,33,31,275,False
+2012,1,10,38,Calgary Flames,5,1,3,6,1,28,18,150,39,New Jersey Devils,6,1,3,5,1,42,9,139,True
+2012,1,10,40,Chicago Blackhawks,4,2,1,4,3,27,24,198,51,Columbus Blue Jackets,2,0,4,5,2,10,18,160,True
+2012,1,10,46,Colorado Avalanche,8,0,0,0,0,27,14,177,49,Nashville Predators,6,2,5,10,2,29,12,115,False
+2012,1,10,52,Minnesota Wild,1,1,1,1,2,34,9,161,41,San Jose Sharks,8,1,5,10,2,30,20,171,True
+2012,1,10,0,Montreal Canadiens,3,0,3,5,1,24,19,132,21,St. Louis Blues,6,2,4,8,3,32,14,182,False
+2012,1,10,28,New York Islanders,5,2,1,2,5,25,37,253,16,Detroit Red Wings,6,0,2,6,2,31,20,149,True
+2012,1,10,10,New York Rangers,9,2,3,4,1,38,18,134,47,Phoenix Coyotes,4,0,5,9,1,32,26,288,True
+2012,1,10,20,Pittsburgh Penguins,4,1,1,1,5,19,26,156,2,Ottawa Senators,7,1,5,8,4,37,22,242,False
+2012,1,10,42,Tampa Bay Lightning,5,2,1,2,3,23,27,282,25,Vancouver Canucks,6,0,1,1,3,39,14,148,False
+2012,1,10,13,Toronto Maple Leafs,5,1,4,2,3,40,33,324,26,Buffalo Sabres,2,1,1,2,3,34,9,161,True
+2012,1,11,35,Edmonton Oilers,2,1,1,2,3,33,17,189,39,New Jersey Devils,5,1,3,6,4,9,12,87,False
+2012,1,11,30,Washington Capitals,5,1,2,3,4,27,21,156,20,Pittsburgh Penguins,4,1,1,1,2,15,23,133,True
+2012,1,12,6,Boston Bruins,8,2,5,7,4,36,16,117,0,Montreal Canadiens,3,0,0,1,3,25,18,120,True
+2012,1,12,38,Calgary Flames,5,0,6,12,3,38,20,160,53,Anaheim Ducks,4,2,5,6,1,8,28,225,True
+2012,1,12,40,Chicago Blackhawks,4,2,5,8,5,46,24,198,52,Minnesota Wild,2,0,4,9,4,38,11,165,True
+2012,1,12,16,Detroit Red Wings,5,1,2,2,4,18,23,148,47,Phoenix Coyotes,3,1,1,2,1,32,26,288,True
+2012,1,12,22,Los Angeles Kings,6,0,5,11,1,18,14,146,43,Dallas Stars,5,2,2,4,4,25,25,218,False
+2012,1,12,49,Nashville Predators,6,2,4,7,1,33,11,119,46,Colorado Avalanche,7,0,1,1,4,39,15,169,True
+2012,1,12,28,New York Islanders,5,0,5,9,1,24,34,257,23,Philadelphia Flyers,5,2,2,2,1,36,26,255,False
+2012,1,12,10,New York Rangers,9,1,1,2,1,19,18,115,2,Ottawa Senators,7,1,6,10,1,30,16,212,False
+2012,1,12,21,St. Louis Blues,6,2,3,5,0,15,14,168,25,Vancouver Canucks,6,0,4,6,2,22,15,140,False
+2012,1,12,42,Tampa Bay Lightning,4,1,4,8,3,28,29,297,48,Carolina Hurricanes,4,1,1,2,2,37,19,191,False
+2012,1,12,36,Winnipeg Jets,5,0,3,2,5,42,9,71,41,San Jose Sharks,7,0,4,8,4,31,20,169,False
+2012,1,13,26,Buffalo Sabres,2,0,0,0,2,28,8,155,13,Toronto Maple Leafs,6,2,2,4,0,32,29,312,True
+2012,1,13,51,Columbus Blue Jackets,2,1,1,4,4,24,20,154,47,Phoenix Coyotes,2,1,2,2,3,35,27,298,True
+2012,1,13,35,Edmonton Oilers,2,0,1,3,2,25,14,157,53,Anaheim Ducks,4,2,0,0,1,19,24,209,False
+2012,1,13,45,Florida Panthers,4,1,2,4,1,26,9,160,20,Pittsburgh Penguins,4,1,0,0,1,21,22,119,False
+2012,1,13,30,Washington Capitals,6,2,1,2,0,30,17,159,42,Tampa Bay Lightning,3,0,2,2,2,24,27,273,True
+2012,1,14,48,Carolina Hurricanes,5,2,5,9,2,36,19,190,6,Boston Bruins,8,0,2,4,1,34,13,115,True
+2012,1,14,51,Columbus Blue Jackets,3,0,4,8,3,35,19,165,41,San Jose Sharks,7,2,2,4,1,24,16,162,False
+2012,1,14,38,Calgary Flames,5,0,1,2,0,23,17,145,22,Los Angeles Kings,5,2,4,8,4,38,18,163,False
+2012,1,14,43,Dallas Stars,5,1,4,7,4,41,25,234,46,Colorado Avalanche,6,1,2,2,3,35,16,175,False
+2012,1,14,16,Detroit Red Wings,6,1,2,3,2,27,21,157,40,Chicago Blackhawks,5,1,5,10,2,34,18,157,True
+2012,1,14,0,Montreal Canadiens,3,2,1,2,2,30,17,125,2,Ottawa Senators,7,0,3,4,0,34,18,222,False
+2012,1,14,49,Nashville Predators,7,1,3,5,2,29,12,115,23,Philadelphia Flyers,6,1,3,6,5,37,27,254,True
+2012,1,14,28,New York Islanders,4,2,2,4,3,22,35,246,26,Buffalo Sabres,3,0,3,4,2,41,8,153,True
+2012,1,14,21,St. Louis Blues,6,0,2,3,0,19,17,174,52,Minnesota Wild,2,2,2,3,4,21,9,112,True
+2012,1,14,13,Toronto Maple Leafs,6,2,2,3,3,25,33,307,10,New York Rangers,8,0,0,0,2,21,20,120,False
+2012,1,14,36,Winnipeg Jets,5,1,0,1,2,37,6,66,39,New Jersey Devils,6,1,2,2,2,5,12,116,False
+2012,1,15,40,Chicago Blackhawks,4,1,2,3,3,43,19,166,41,San Jose Sharks,7,1,2,4,0,24,15,167,True
+2012,1,15,35,Edmonton Oilers,2,1,0,0,2,14,14,118,22,Los Angeles Kings,6,1,4,8,1,30,15,155,True
+2012,1,15,0,Montreal Canadiens,3,1,2,1,4,27,19,132,10,New York Rangers,8,1,3,5,3,24,18,119,True
+2012,1,15,42,Tampa Bay Lightning,3,2,3,5,3,8,28,268,20,Pittsburgh Penguins,4,0,4,6,1,26,22,124,False
+2012,1,15,25,Vancouver Canucks,7,1,3,7,2,33,14,157,53,Anaheim Ducks,5,1,5,10,0,33,19,197,False
+2012,1,15,30,Washington Capitals,6,2,4,8,3,31,20,160,48,Carolina Hurricanes,5,0,5,2,2,35,19,189,True
+2012,1,16,16,Detroit Red Wings,7,2,3,6,2,27,21,157,26,Buffalo Sabres,3,0,2,2,2,26,9,151,True
+2012,1,16,45,Florida Panthers,3,1,1,2,4,41,15,190,6,Boston Bruins,7,1,2,2,3,32,15,101,False
+2012,1,16,28,New York Islanders,5,1,4,8,3,29,32,248,49,Nashville Predators,7,1,4,7,2,38,12,124,False
+2012,1,16,2,Ottawa Senators,8,2,2,4,2,35,20,223,36,Winnipeg Jets,4,0,1,1,4,25,6,54,False
+2012,1,16,47,Phoenix Coyotes,2,1,2,6,2,42,26,282,46,Colorado Avalanche,6,1,2,3,4,26,13,165,True
+2012,1,16,21,St. Louis Blues,6,1,2,4,2,31,15,186,43,Dallas Stars,5,1,1,2,2,23,22,213,True
+2012,1,17,51,Columbus Blue Jackets,3,0,1,2,2,33,20,198,35,Edmonton Oilers,2,2,1,4,1,21,15,160,True
+2012,1,17,43,Dallas Stars,4,0,0,0,1,26,21,222,16,Detroit Red Wings,7,2,5,8,5,30,19,157,False
+2012,1,17,39,New Jersey Devils,6,1,2,3,1,23,9,128,36,Winnipeg Jets,5,1,2,3,0,25,2,54,True
+2012,1,17,10,New York Rangers,7,1,1,2,4,29,19,124,49,Nashville Predators,8,1,3,3,2,21,11,113,True
+2012,1,17,23,Philadelphia Flyers,5,1,2,4,3,24,23,240,52,Minnesota Wild,2,1,2,5,2,49,7,140,True
+2012,1,17,20,Pittsburgh Penguins,4,2,6,5,3,20,23,150,48,Carolina Hurricanes,4,0,1,2,2,24,19,178,True
+2012,1,17,41,San Jose Sharks,6,2,3,5,4,40,19,183,38,Calgary Flames,4,0,1,2,3,23,20,145,True
+2012,1,17,42,Tampa Bay Lightning,3,0,3,6,5,43,29,300,6,Boston Bruins,7,2,2,3,3,20,14,109,True
+2012,1,17,13,Toronto Maple Leafs,5,0,0,1,3,35,31,306,2,Ottawa Senators,8,2,0,0,2,35,20,223,False
+2012,1,17,25,Vancouver Canucks,6,1,2,4,4,34,16,148,22,Los Angeles Kings,5,1,1,2,2,33,16,158,False
+2012,1,17,30,Washington Capitals,7,1,2,3,1,44,20,180,28,New York Islanders,5,1,1,2,2,25,32,251,False
+2012,1,18,53,Anaheim Ducks,6,1,4,5,2,23,19,189,47,Phoenix Coyotes,3,1,6,11,1,39,23,281,True
+2012,1,18,40,Chicago Blackhawks,4,2,4,8,3,24,20,151,26,Buffalo Sabres,2,0,0,0,0,12,9,112,True
+2012,1,18,46,Colorado Avalanche,5,1,1,2,1,22,15,176,45,Florida Panthers,3,1,2,4,1,10,15,172,True
+2012,1,18,0,Montreal Canadiens,4,0,4,8,2,25,14,125,30,Washington Capitals,7,2,0,0,1,8,25,198,False
+2012,1,19,51,Columbus Blue Jackets,4,0,4,5,4,16,18,174,49,Nashville Predators,8,2,0,0,1,37,11,120,False
+2012,1,19,22,Los Angeles Kings,5,2,2,4,2,33,16,158,38,Calgary Flames,3,0,1,2,1,31,18,153,False
+2012,1,19,39,New Jersey Devils,7,0,5,7,1,21,9,126,6,Boston Bruins,6,2,4,4,4,30,15,119,False
+2012,1,19,10,New York Rangers,7,2,3,2,0,27,15,122,20,Pittsburgh Penguins,4,0,2,2,1,26,19,142,False
+2012,1,19,23,Philadelphia Flyers,6,2,5,9,2,35,21,242,28,New York Islanders,6,0,3,5,0,17,30,243,False
+2012,1,19,47,Phoenix Coyotes,3,0,2,4,6,21,28,263,16,Detroit Red Wings,7,2,2,3,0,27,16,154,False
+2012,1,19,41,San Jose Sharks,7,2,1,3,1,28,15,187,2,Ottawa Senators,8,0,3,6,2,39,20,227,False
+2012,1,19,21,St. Louis Blues,6,1,1,2,0,22,14,164,35,Edmonton Oilers,2,1,2,4,3,14,15,149,True
+2012,1,19,13,Toronto Maple Leafs,4,1,2,3,3,30,33,299,52,Minnesota Wild,2,1,1,2,3,36,13,159,True
+2012,1,19,36,Winnipeg Jets,4,1,1,2,1,5,5,24,26,Buffalo Sabres,2,1,2,3,5,14,15,135,True
+2012,1,20,48,Carolina Hurricanes,4,0,1,2,1,41,18,195,30,Washington Capitals,7,2,3,6,3,28,24,221,True
+2012,1,20,40,Chicago Blackhawks,5,2,6,11,2,23,20,171,45,Florida Panthers,3,0,4,5,4,44,17,209,True
+2012,1,20,43,Dallas Stars,4,1,2,4,1,32,23,224,42,Tampa Bay Lightning,3,1,4,9,3,29,28,282,False
+2012,1,20,20,Pittsburgh Penguins,4,2,4,7,1,31,17,146,0,Montreal Canadiens,4,0,0,1,1,29,15,109,True
+2012,1,21,53,Anaheim Ducks,6,1,6,11,2,27,20,196,2,Ottawa Senators,8,1,4,8,1,37,18,221,True
+2012,1,21,6,Boston Bruins,6,0,4,6,2,40,12,120,10,New York Rangers,7,2,1,2,3,35,18,130,False
+2012,1,21,16,Detroit Red Wings,8,1,2,4,2,33,18,160,51,Columbus Blue Jackets,4,1,0,1,2,23,14,181,True
+2012,1,21,35,Edmonton Oilers,2,0,1,0,1,38,11,172,38,Calgary Flames,4,2,1,2,1,32,18,154,False
+2012,1,21,22,Los Angeles Kings,5,0,1,2,1,25,15,150,46,Colorado Avalanche,6,2,4,6,3,29,22,194,False
+2012,1,21,52,Minnesota Wild,2,1,1,2,5,34,13,134,43,Dallas Stars,4,1,1,1,2,22,24,214,True
+2012,1,21,39,New Jersey Devils,6,1,1,2,3,24,11,129,23,Philadelphia Flyers,6,1,1,2,1,26,21,229,False
+2012,1,21,49,Nashville Predators,8,0,3,5,0,38,10,121,40,Chicago Blackhawks,5,2,3,5,2,27,22,145,True
+2012,1,21,28,New York Islanders,6,1,4,6,1,41,31,267,48,Carolina Hurricanes,4,1,3,5,0,23,17,177,True
+2012,1,21,47,Phoenix Coyotes,3,0,2,3,2,35,24,282,42,Tampa Bay Lightning,3,2,2,4,3,19,26,281,False
+2012,1,21,21,St. Louis Blues,7,1,1,2,0,15,14,157,26,Buffalo Sabres,2,1,1,1,4,33,14,154,True
+2012,1,21,13,Toronto Maple Leafs,5,2,4,6,1,21,29,287,0,Montreal Canadiens,3,0,4,6,3,16,20,124,False
+2012,1,21,25,Vancouver Canucks,5,1,2,4,2,41,14,163,41,San Jose Sharks,7,1,1,2,4,21,18,172,True
+2012,1,21,36,Winnipeg Jets,4,1,3,10,1,26,5,45,45,Florida Panthers,3,1,1,2,2,35,17,179,False
+2012,1,22,53,Anaheim Ducks,7,1,2,4,1,32,17,190,46,Colorado Avalanche,6,1,3,6,1,26,20,191,True
+2012,1,22,23,Philadelphia Flyers,6,1,4,5,1,31,21,221,6,Boston Bruins,6,1,1,3,1,31,13,113,False
+2012,1,22,20,Pittsburgh Penguins,5,1,4,6,4,29,20,144,30,Washington Capitals,6,1,0,0,0,31,23,204,True
+2012,1,23,48,Carolina Hurricanes,4,0,1,2,2,40,19,194,36,Winnipeg Jets,3,2,3,5,4,15,7,42,True
+2012,1,23,16,Detroit Red Wings,8,2,2,3,2,19,18,146,21,St. Louis Blues,8,0,4,7,2,21,14,164,True
+2012,1,23,35,Edmonton Oilers,2,1,2,4,1,6,12,149,41,San Jose Sharks,6,1,3,5,1,26,18,181,True
+2012,1,23,22,Los Angeles Kings,4,1,1,2,3,31,17,156,2,Ottawa Senators,7,1,1,2,2,29,19,200,True
+2012,1,23,49,Nashville Predators,8,2,5,10,2,22,10,106,51,Columbus Blue Jackets,3,0,2,3,2,24,14,189,True
+2012,1,23,13,Toronto Maple Leafs,5,1,1,1,3,23,34,290,28,New York Islanders,6,1,2,4,1,33,31,276,True
+2012,1,24,38,Calgary Flames,5,0,6,10,2,23,19,145,41,San Jose Sharks,5,2,1,2,4,30,20,175,False
+2012,1,24,40,Chicago Blackhawks,5,1,2,3,4,17,20,126,49,Nashville Predators,8,1,4,7,1,26,9,110,False
+2012,1,24,46,Colorado Avalanche,5,1,1,4,3,18,24,180,52,Minnesota Wild,3,1,5,10,4,33,10,125,False
+2012,1,24,43,Dallas Stars,3,1,4,4,4,19,24,165,53,Anaheim Ducks,8,1,3,3,2,45,24,217,True
+2012,1,24,45,Florida Panthers,3,0,3,3,3,44,20,185,23,Philadelphia Flyers,6,2,5,8,3,26,25,227,False
+2012,1,24,39,New Jersey Devils,5,2,1,2,3,19,11,126,26,Buffalo Sabres,2,0,2,4,3,26,13,147,False
+2012,1,24,28,New York Islanders,5,0,0,0,2,19,33,278,13,Toronto Maple Leafs,6,2,3,6,0,25,30,301,False
+2012,1,24,10,New York Rangers,7,2,3,5,2,34,14,122,36,Winnipeg Jets,3,0,1,2,3,23,5,43,True
+2012,1,24,47,Phoenix Coyotes,2,1,4,5,4,21,29,269,2,Ottawa Senators,6,1,1,2,4,26,18,190,True
+2012,1,24,21,St. Louis Blues,8,2,1,1,3,21,15,171,20,Pittsburgh Penguins,6,0,4,5,3,20,19,135,False
+2012,1,24,42,Tampa Bay Lightning,3,2,4,7,1,28,26,297,51,Columbus Blue Jackets,3,0,1,1,2,31,16,194,True
+2012,1,24,25,Vancouver Canucks,5,1,4,7,3,26,17,148,35,Edmonton Oilers,2,1,1,3,1,45,13,184,True
+2012,1,24,30,Washington Capitals,5,1,2,4,3,33,27,200,6,Boston Bruins,6,1,5,10,3,33,14,113,True
+2012,1,25,0,Montreal Canadiens,4,0,3,4,1,33,16,141,16,Detroit Red Wings,8,2,3,4,1,22,17,149,True
+2012,1,31,6,Boston Bruins,5,2,3,5,5,38,15,102,2,Ottawa Senators,6,0,2,4,3,26,16,208,True
+2012,1,31,48,Carolina Hurricanes,5,0,2,3,1,30,18,184,28,New York Islanders,5,2,3,2,3,32,35,280,False
+2012,1,31,38,Calgary Flames,5,1,0,0,1,27,18,149,16,Detroit Red Wings,8,1,2,6,4,12,21,125,False
+2012,1,31,35,Edmonton Oilers,2,1,2,4,2,35,14,174,46,Colorado Avalanche,4,1,3,4,6,33,23,218,True
+2012,1,31,52,Minnesota Wild,3,1,3,5,2,25,8,118,49,Nashville Predators,9,1,3,4,1,25,9,109,False
+2012,1,31,0,Montreal Canadiens,5,0,7,11,2,28,17,136,26,Buffalo Sabres,2,2,1,2,1,28,11,149,False
+2012,1,31,39,New Jersey Devils,5,0,1,2,1,14,9,121,10,New York Rangers,7,2,3,6,0,20,12,110,True
+2012,1,31,23,Philadelphia Flyers,6,0,2,5,5,37,27,235,36,Winnipeg Jets,3,2,0,0,3,31,5,51,False
+2012,1,31,47,Phoenix Coyotes,3,0,3,6,2,34,23,269,53,Anaheim Ducks,8,2,1,0,1,16,19,175,False
+2012,1,31,20,Pittsburgh Penguins,7,0,2,4,2,34,20,131,13,Toronto Maple Leafs,6,2,4,7,3,32,33,308,True
+2012,1,31,41,San Jose Sharks,5,2,1,2,0,25,16,170,51,Columbus Blue Jackets,3,0,2,3,4,29,19,190,True
+2012,1,31,42,Tampa Bay Lightning,4,0,4,4,2,24,28,277,30,Washington Capitals,5,2,5,7,3,32,24,189,True
+2012,1,31,25,Vancouver Canucks,6,1,2,4,4,31,12,133,40,Chicago Blackhawks,5,1,2,2,2,25,18,139,True
+2012,2,1,53,Anaheim Ducks,8,1,4,7,1,26,19,185,43,Dallas Stars,4,1,1,2,0,27,19,170,False
+2012,2,1,26,Buffalo Sabres,3,1,3,5,1,28,11,149,10,New York Rangers,6,1,3,6,0,22,15,119,False
+2012,2,1,45,Florida Panthers,3,1,2,3,2,37,20,180,30,Washington Capitals,5,1,3,1,4,27,25,188,True
+2012,2,1,22,Los Angeles Kings,5,1,4,6,1,28,11,132,51,Columbus Blue Jackets,2,1,0,0,4,31,22,209,True
+2012,2,1,13,Toronto Maple Leafs,5,1,4,8,3,21,34,302,20,Pittsburgh Penguins,8,1,4,6,3,8,23,141,True
+2012,2,2,6,Boston Bruins,6,0,5,8,4,22,13,97,48,Carolina Hurricanes,4,2,2,3,3,24,20,178,False
+2012,2,2,46,Colorado Avalanche,3,1,2,4,3,34,20,208,52,Minnesota Wild,3,1,4,6,2,26,11,123,False
+2012,2,2,35,Edmonton Oilers,3,2,3,6,2,33,15,177,40,Chicago Blackhawks,5,0,2,4,3,33,19,147,True
+2012,2,2,39,New Jersey Devils,6,1,3,5,3,26,11,124,0,Montreal Canadiens,4,1,1,1,2,39,17,147,True
+2012,2,2,23,Philadelphia Flyers,5,1,1,2,1,24,25,229,49,Nashville Predators,9,1,4,7,2,28,12,109,True
+2012,2,2,41,San Jose Sharks,5,2,6,9,1,18,16,175,43,Dallas Stars,4,0,6,10,1,7,21,178,True
+2012,2,2,42,Tampa Bay Lightning,5,1,4,8,3,29,29,282,36,Winnipeg Jets,3,1,1,2,1,28,3,48,False
+2012,2,2,25,Vancouver Canucks,7,1,3,5,2,32,9,143,16,Detroit Red Wings,8,1,3,4,1,29,18,142,False
+2012,2,3,53,Anaheim Ducks,7,1,2,2,6,26,24,182,51,Columbus Blue Jackets,2,1,2,4,3,33,20,206,False
+2012,2,3,38,Calgary Flames,5,1,1,2,3,25,20,147,40,Chicago Blackhawks,5,1,4,7,3,13,23,149,True
+2012,2,3,45,Florida Panthers,3,2,4,7,2,28,20,171,36,Winnipeg Jets,4,0,2,4,2,16,3,51,True
+2012,2,3,2,Ottawa Senators,5,0,3,5,4,30,19,238,28,New York Islanders,6,2,5,10,3,35,37,280,False
+2012,2,3,21,St. Louis Blues,7,0,2,2,3,28,15,189,22,Los Angeles Kings,5,2,3,3,2,22,12,126,True
+2012,2,4,6,Boston Bruins,5,1,0,0,3,33,12,106,20,Pittsburgh Penguins,8,1,0,0,4,39,20,152,False
+2012,2,4,48,Carolina Hurricanes,5,0,3,5,0,47,17,201,22,Los Angeles Kings,5,2,0,0,2,22,11,137,True
+2012,2,4,46,Colorado Avalanche,3,0,0,0,1,21,16,197,25,Vancouver Canucks,6,2,3,5,3,43,9,156,False
+2012,2,4,43,Dallas Stars,3,0,2,2,2,35,25,208,52,Minnesota Wild,4,2,1,2,0,37,9,134,True
+2012,2,4,35,Edmonton Oilers,4,0,8,14,4,47,16,186,16,Detroit Red Wings,9,2,3,5,3,13,20,138,True
+2012,2,4,0,Montreal Canadiens,3,0,3,6,4,38,16,123,30,Washington Capitals,5,2,3,4,4,31,22,214,False
+2012,2,4,49,Nashville Predators,8,2,2,3,4,25,13,122,21,St. Louis Blues,7,0,1,3,0,22,12,179,True
+2012,2,4,28,New York Islanders,6,2,2,3,4,21,29,253,26,Buffalo Sabres,3,0,0,0,0,29,10,150,False
+2012,2,4,2,Ottawa Senators,4,2,1,2,2,32,17,240,13,Toronto Maple Leafs,5,0,1,2,0,25,23,278,False
+2012,2,4,23,Philadelphia Flyers,6,1,4,6,2,25,25,251,39,New Jersey Devils,6,1,5,10,1,23,10,121,False
+2012,2,4,47,Phoenix Coyotes,3,1,1,2,3,18,18,232,41,San Jose Sharks,6,1,5,9,0,30,15,167,True
+2012,2,4,42,Tampa Bay Lightning,5,2,1,2,2,24,28,294,45,Florida Panthers,4,0,2,4,1,21,16,173,True
+2012,2,5,0,Montreal Canadiens,3,1,0,1,4,21,17,122,36,Winnipeg Jets,4,1,1,1,1,31,3,65,True
+2012,2,5,39,New Jersey Devils,6,2,6,11,3,30,17,150,20,Pittsburgh Penguins,9,0,2,4,1,29,18,134,True
+2012,2,5,10,New York Rangers,6,2,0,0,0,34,15,131,23,Philadelphia Flyers,5,0,4,8,0,8,28,230,True
+2012,2,5,30,Washington Capitals,5,1,3,3,0,30,18,201,6,Boston Bruins,4,1,1,2,2,28,11,101,False
+2012,2,6,53,Anaheim Ducks,6,1,2,4,3,21,25,214,38,Calgary Flames,6,1,3,6,1,27,18,149,True
+2012,2,6,47,Phoenix Coyotes,3,0,5,10,3,35,22,278,16,Detroit Red Wings,8,2,4,7,1,23,14,118,True
+2012,2,6,13,Toronto Maple Leafs,5,1,5,10,0,49,28,312,35,Edmonton Oilers,5,1,4,7,4,39,17,174,True
+2012,2,7,51,Columbus Blue Jackets,3,0,3,4,2,35,20,204,52,Minnesota Wild,4,2,1,1,1,26,10,123,True
+2012,2,7,46,Colorado Avalanche,3,2,2,3,2,29,19,198,40,Chicago Blackhawks,4,0,1,2,3,32,27,161,True
+2012,2,7,43,Dallas Stars,4,1,1,2,1,34,22,220,47,Phoenix Coyotes,4,1,3,4,1,31,20,274,False
+2012,2,7,0,Montreal Canadiens,4,0,3,6,0,23,13,124,20,Pittsburgh Penguins,8,2,2,3,3,12,20,105,True
+2012,2,7,49,Nashville Predators,8,1,3,6,1,43,10,140,25,Vancouver Canucks,6,1,2,3,2,46,7,153,False
+2012,2,7,10,New York Rangers,6,1,5,10,2,23,17,120,39,New Jersey Devils,7,1,5,8,2,30,16,150,False
+2012,2,7,2,Ottawa Senators,3,1,0,0,5,40,21,244,21,St. Louis Blues,6,1,1,0,2,39,14,193,False
+2012,2,7,23,Philadelphia Flyers,4,1,2,4,4,37,33,255,28,New York Islanders,6,1,3,4,1,24,29,268,False
+2012,2,7,42,Tampa Bay Lightning,6,0,6,8,3,36,27,284,22,Los Angeles Kings,4,2,1,2,1,33,11,137,False
+2012,2,7,36,Winnipeg Jets,4,1,0,0,3,23,5,57,13,Toronto Maple Leafs,6,1,6,8,4,35,31,295,True
+2012,2,7,30,Washington Capitals,4,0,1,2,3,29,21,200,45,Florida Panthers,4,2,3,5,5,32,20,148,True
+2012,2,8,53,Anaheim Ducks,7,1,2,4,2,26,21,198,48,Carolina Hurricanes,6,1,2,2,1,25,18,179,True
+2012,2,8,26,Buffalo Sabres,4,0,3,5,3,38,13,159,6,Boston Bruins,5,2,4,7,3,31,11,115,True
+2012,2,8,16,Detroit Red Wings,7,1,1,2,2,22,15,117,35,Edmonton Oilers,5,1,3,4,4,16,18,149,True
+2012,2,8,41,San Jose Sharks,5,2,3,6,4,23,18,181,38,Calgary Flames,5,0,2,4,2,33,19,155,False
+2012,2,9,51,Columbus Blue Jackets,3,1,3,6,1,29,19,198,43,Dallas Stars,3,1,1,1,4,24,26,214,False
+2012,2,9,45,Florida Panthers,3,0,0,0,4,24,16,153,22,Los Angeles Kings,5,2,3,5,1,25,11,129,True
+2012,2,9,52,Minnesota Wild,3,0,1,2,3,37,12,134,25,Vancouver Canucks,7,2,3,6,2,39,10,152,False
+2012,2,9,39,New Jersey Devils,7,0,1,2,4,41,10,141,21,St. Louis Blues,6,2,3,5,2,36,13,183,False
+2012,2,9,28,New York Islanders,6,1,0,1,0,45,28,268,0,Montreal Canadiens,5,1,2,3,2,34,17,117,False
+2012,2,9,10,New York Rangers,6,1,0,0,3,29,17,125,42,Tampa Bay Lightning,6,1,1,2,3,20,27,268,True
+2012,2,9,2,Ottawa Senators,2,1,1,2,1,14,17,190,49,Nashville Predators,7,1,3,5,3,31,12,128,True
+2012,2,9,23,Philadelphia Flyers,4,2,0,0,6,23,29,224,13,Toronto Maple Leafs,6,0,1,2,3,30,25,275,True
+2012,2,9,47,Phoenix Coyotes,5,2,4,8,1,29,19,272,38,Calgary Flames,5,0,4,6,6,21,20,159,True
+2012,2,9,30,Washington Capitals,4,2,4,7,0,42,18,213,36,Winnipeg Jets,4,0,2,4,1,18,3,52,False
+2012,2,10,26,Buffalo Sabres,4,1,6,9,0,36,10,157,43,Dallas Stars,4,1,4,6,2,28,26,226,True
+2012,2,10,46,Colorado Avalanche,4,0,5,6,2,31,14,140,48,Carolina Hurricanes,5,2,2,2,3,34,20,188,True
+2012,2,10,16,Detroit Red Wings,7,2,4,7,2,17,15,112,53,Anaheim Ducks,7,0,3,5,2,33,22,216,True
+2012,2,10,41,San Jose Sharks,4,0,3,5,4,36,21,180,40,Chicago Blackhawks,3,2,2,4,5,28,28,184,True
+2012,2,11,6,Boston Bruins,4,1,0,0,3,19,15,90,49,Nashville Predators,6,1,3,4,4,29,13,126,True
+2012,2,11,26,Buffalo Sabres,5,0,2,4,2,26,12,147,42,Tampa Bay Lightning,6,2,3,6,4,31,28,274,False
+2012,2,11,38,Calgary Flames,4,1,1,2,3,37,16,173,25,Vancouver Canucks,7,1,5,8,3,40,10,137,True
+2012,2,11,52,Minnesota Wild,3,1,2,2,4,19,13,116,51,Columbus Blue Jackets,3,1,2,4,6,43,19,210,False
+2012,2,11,39,New Jersey Devils,6,2,3,6,0,30,9,126,45,Florida Panthers,4,0,3,6,1,23,15,137,False
+2012,2,11,28,New York Islanders,6,1,2,3,3,31,30,255,22,Los Angeles Kings,4,1,1,2,2,11,10,104,True
+2012,2,11,2,Ottawa Senators,3,2,4,7,2,4,19,203,35,Edmonton Oilers,4,0,2,3,4,30,16,170,False
+2012,2,11,23,Philadelphia Flyers,4,0,4,6,3,27,26,228,10,New York Rangers,6,2,4,8,1,22,19,126,False
+2012,2,11,47,Phoenix Coyotes,6,2,2,4,1,24,19,267,40,Chicago Blackhawks,3,0,3,6,4,28,26,192,True
+2012,2,11,20,Pittsburgh Penguins,7,1,2,3,2,30,17,130,36,Winnipeg Jets,5,1,3,2,2,34,4,68,True
+2012,2,11,21,St. Louis Blues,7,1,3,6,0,15,13,145,46,Colorado Avalanche,4,1,4,5,3,23,17,187,True
+2012,2,11,13,Toronto Maple Leafs,6,1,3,6,4,39,26,313,0,Montreal Canadiens,5,1,4,6,2,33,19,129,False
+2012,2,12,51,Columbus Blue Jackets,3,1,3,4,1,35,14,202,53,Anaheim Ducks,6,1,1,1,1,24,20,206,False
+2012,2,12,43,Dallas Stars,4,2,2,4,2,32,25,244,22,Los Angeles Kings,4,0,1,2,2,25,10,118,False
+2012,2,12,16,Detroit Red Wings,7,0,1,2,1,30,14,125,23,Philadelphia Flyers,4,2,2,5,5,26,27,226,True
+2012,2,12,28,New York Islanders,6,0,2,4,1,35,30,258,45,Florida Panthers,5,2,3,6,3,22,17,178,False
+2012,2,12,10,New York Rangers,7,1,5,10,2,33,20,137,30,Washington Capitals,4,1,2,4,3,37,18,224,True
+2012,2,12,20,Pittsburgh Penguins,7,1,8,14,1,12,20,125,42,Tampa Bay Lightning,7,1,2,3,1,27,24,284,True
+2012,2,12,21,St. Louis Blues,7,2,3,6,3,12,15,149,41,San Jose Sharks,5,0,5,9,3,33,21,161,True
+2012,2,13,0,Montreal Canadiens,6,2,5,7,0,32,14,141,48,Carolina Hurricanes,4,0,3,6,4,33,21,187,False
+2012,2,13,25,Vancouver Canucks,6,1,2,3,2,18,9,115,47,Phoenix Coyotes,6,1,3,6,0,11,15,248,True
+2012,2,13,30,Washington Capitals,3,0,2,4,0,18,19,226,41,San Jose Sharks,4,2,0,0,2,21,20,155,False
+2012,2,14,6,Boston Bruins,5,0,3,5,3,22,15,93,10,New York Rangers,7,2,3,6,2,26,20,130,False
+2012,2,14,26,Buffalo Sabres,5,1,1,2,2,28,12,149,39,New Jersey Devils,5,1,1,2,2,19,11,120,False
+2012,2,14,51,Columbus Blue Jackets,3,0,3,7,5,35,21,216,21,St. Louis Blues,7,2,3,4,0,25,12,162,True
+2012,2,14,38,Calgary Flames,5,1,2,4,2,31,15,167,13,Toronto Maple Leafs,5,1,0,0,1,3,27,262,True
+2012,2,14,16,Detroit Red Wings,7,2,4,8,3,29,16,124,43,Dallas Stars,4,0,2,4,3,15,26,227,True
+2012,2,14,52,Minnesota Wild,3,2,1,2,5,30,9,120,53,Anaheim Ducks,6,0,5,8,3,27,22,209,False
+2012,2,14,49,Nashville Predators,6,2,2,4,3,41,12,138,40,Chicago Blackhawks,2,0,0,0,3,27,24,185,True
+2012,2,14,42,Tampa Bay Lightning,6,0,2,4,4,41,27,298,2,Ottawa Senators,2,2,3,4,4,40,22,234,False
+2012,2,14,36,Winnipeg Jets,4,1,5,9,8,39,10,73,28,New York Islanders,5,1,1,2,4,15,28,197,False
+2012,2,15,35,Edmonton Oilers,5,0,4,8,3,42,17,181,13,Toronto Maple Leafs,5,2,1,2,4,15,29,285,False
+2012,2,15,45,Florida Panthers,6,0,4,6,1,28,11,171,2,Ottawa Senators,2,2,4,7,0,28,18,222,False
+2012,2,15,0,Montreal Canadiens,6,0,4,6,4,34,20,151,6,Boston Bruins,4,2,0,0,3,20,15,91,False
+2012,2,15,20,Pittsburgh Penguins,7,1,4,8,5,25,23,135,53,Anaheim Ducks,6,1,2,1,1,18,20,192,False
+2012,2,15,25,Vancouver Canucks,7,2,1,2,1,24,9,132,46,Colorado Avalanche,4,0,2,3,3,42,16,209,True
+2012,2,16,43,Dallas Stars,4,0,1,2,3,37,26,249,38,Calgary Flames,6,2,5,8,1,42,14,178,True
+2012,2,16,22,Los Angeles Kings,4,2,4,6,2,28,11,132,47,Phoenix Coyotes,6,0,1,0,0,38,16,259,False
+2012,2,16,52,Minnesota Wild,3,0,1,1,2,18,7,103,36,Winnipeg Jets,4,1,1,2,2,30,4,58,False
+2012,2,16,10,New York Rangers,8,1,3,4,3,17,18,146,40,Chicago Blackhawks,1,1,2,3,5,27,25,161,False
+2012,2,16,23,Philadelphia Flyers,3,2,3,4,0,18,27,222,26,Buffalo Sabres,5,0,1,0,6,35,13,151,True
+2012,2,16,21,St. Louis Blues,6,1,1,1,2,19,15,165,28,New York Islanders,5,1,3,5,0,4,26,225,True
+2012,2,16,42,Tampa Bay Lightning,5,0,0,0,3,20,26,273,41,San Jose Sharks,5,2,5,10,2,27,18,199,True
+2012,2,17,26,Buffalo Sabres,5,2,2,4,4,17,11,121,0,Montreal Canadiens,5,0,3,3,3,34,19,151,False
+2012,2,17,48,Carolina Hurricanes,5,1,5,6,5,36,20,187,41,San Jose Sharks,5,1,5,10,3,42,22,197,True
+2012,2,17,16,Detroit Red Wings,7,1,3,5,1,21,14,116,49,Nashville Predators,6,1,3,5,2,32,12,124,True
+2012,2,17,35,Edmonton Oilers,5,2,3,4,5,30,20,195,46,Colorado Avalanche,3,0,1,2,1,21,11,161,False
+2012,2,17,45,Florida Panthers,6,1,2,3,2,15,17,163,30,Washington Capitals,3,1,3,5,2,27,23,214,False
+2012,2,17,39,New Jersey Devils,6,2,4,7,1,30,13,119,53,Anaheim Ducks,6,0,2,4,1,26,20,178,True
+2012,2,17,36,Winnipeg Jets,5,1,3,6,2,24,5,53,6,Boston Bruins,5,1,3,4,3,10,15,100,True
+2012,2,18,51,Columbus Blue Jackets,4,0,2,4,1,32,16,198,40,Chicago Blackhawks,1,2,4,5,2,24,26,156,False
+2012,2,18,22,Los Angeles Kings,4,1,0,0,1,21,10,125,38,Calgary Flames,5,1,2,3,3,32,16,168,False
+2012,2,18,28,New York Islanders,5,2,1,2,2,23,33,277,48,Carolina Hurricanes,6,0,3,5,3,33,17,188,True
+2012,2,18,23,Philadelphia Flyers,4,2,6,14,2,29,29,233,20,Pittsburgh Penguins,6,0,1,1,2,29,20,139,False
+2012,2,18,47,Phoenix Coyotes,7,2,1,2,0,28,24,266,43,Dallas Stars,5,0,3,5,2,27,25,229,True
+2012,2,18,21,St. Louis Blues,6,1,5,10,1,27,14,173,52,Minnesota Wild,3,1,2,5,2,25,8,138,True
+2012,2,18,42,Tampa Bay Lightning,5,1,6,12,3,26,29,306,30,Washington Capitals,4,1,2,3,1,23,22,236,True
+2012,2,18,25,Vancouver Canucks,8,2,3,6,1,30,9,138,13,Toronto Maple Leafs,5,0,4,6,3,32,29,257,True
+2012,2,19,26,Buffalo Sabres,5,1,3,6,3,19,10,123,20,Pittsburgh Penguins,6,1,6,7,2,23,20,139,True
+2012,2,19,40,Chicago Blackhawks,2,1,6,11,1,34,25,166,21,St. Louis Blues,7,1,4,8,0,13,13,159,True
+2012,2,19,43,Dallas Stars,4,2,1,2,2,33,26,238,49,Nashville Predators,5,0,1,1,2,31,12,123,False
+2012,2,19,16,Detroit Red Wings,7,0,2,4,1,21,14,116,41,San Jose Sharks,5,2,2,2,6,25,22,180,True
+2012,2,19,35,Edmonton Oilers,5,0,1,2,4,26,16,186,25,Vancouver Canucks,8,2,6,9,2,24,10,134,False
+2012,2,19,45,Florida Panthers,5,0,1,2,2,41,17,185,53,Anaheim Ducks,6,2,2,4,2,27,22,163,False
+2012,2,19,52,Minnesota Wild,2,1,0,1,3,27,9,132,6,Boston Bruins,4,1,2,3,3,29,16,115,True
+2012,2,19,0,Montreal Canadiens,5,0,3,5,3,30,19,147,39,New Jersey Devils,7,2,2,4,2,38,14,127,False
+2012,2,19,10,New York Rangers,7,1,2,4,0,42,19,151,51,Columbus Blue Jackets,4,1,1,0,4,20,17,187,True
+2012,2,19,36,Winnipeg Jets,6,1,4,8,2,33,5,62,46,Colorado Avalanche,3,0,3,6,1,27,11,177,True
+2012,2,20,48,Carolina Hurricanes,5,1,3,3,1,10,16,149,30,Washington Capitals,3,1,1,2,2,23,27,208,True
+2012,2,20,28,New York Islanders,6,2,4,8,3,36,35,302,2,Ottawa Senators,3,0,6,11,2,44,20,245,False
+2012,2,21,26,Buffalo Sabres,5,1,6,12,2,26,9,130,28,New York Islanders,5,1,0,0,2,5,33,272,True
+2012,2,21,51,Columbus Blue Jackets,4,0,3,3,3,35,16,202,41,San Jose Sharks,4,2,2,3,3,28,19,183,True
+2012,2,21,38,Calgary Flames,5,2,1,1,0,28,13,164,35,Edmonton Oilers,4,0,2,4,3,14,14,168,False
+2012,2,21,40,Chicago Blackhawks,3,0,3,4,1,30,20,139,16,Detroit Red Wings,8,2,3,5,3,25,15,128,True
+2012,2,21,0,Montreal Canadiens,5,1,1,2,3,25,19,142,43,Dallas Stars,3,1,2,2,3,21,27,226,False
+2012,2,21,49,Nashville Predators,5,1,3,6,2,24,12,116,25,Vancouver Canucks,8,1,5,8,2,26,10,138,True
+2012,2,21,47,Phoenix Coyotes,8,1,2,3,1,31,24,270,22,Los Angeles Kings,4,1,0,0,1,18,10,122,True
+2012,2,21,20,Pittsburgh Penguins,5,1,2,3,3,12,20,109,10,New York Rangers,7,1,3,6,2,23,21,132,True
+2012,2,21,42,Tampa Bay Lightning,5,0,3,2,1,24,30,302,53,Anaheim Ducks,6,2,3,4,0,31,20,167,True
+2012,2,21,13,Toronto Maple Leafs,4,1,2,4,2,18,28,239,39,New Jersey Devils,8,1,3,6,1,22,13,111,False
+2012,2,21,36,Winnipeg Jets,6,2,5,10,1,32,4,61,23,Philadelphia Flyers,3,0,3,4,3,13,29,209,False
+2012,2,22,46,Colorado Avalanche,3,2,1,1,5,25,13,159,22,Los Angeles Kings,3,0,4,8,4,29,13,133,True
+2012,2,22,2,Ottawa Senators,4,0,6,10,0,28,18,229,30,Washington Capitals,3,2,0,0,2,7,23,205,True
+2012,2,22,21,St. Louis Blues,7,1,1,1,2,26,15,172,6,Boston Bruins,4,1,0,0,2,29,15,115,False
+2012,2,23,48,Carolina Hurricanes,6,1,5,6,0,17,15,156,53,Anaheim Ducks,6,1,2,3,3,16,24,165,False
+2012,2,23,38,Calgary Flames,5,0,1,1,5,34,14,146,47,Phoenix Coyotes,8,2,4,8,4,29,28,281,False
+2012,2,23,40,Chicago Blackhawks,4,1,2,4,1,32,20,141,43,Dallas Stars,4,1,3,4,5,37,26,229,False
+2012,2,23,16,Detroit Red Wings,7,1,1,1,2,29,14,132,25,Vancouver Canucks,7,1,1,2,3,28,11,140,False
+2012,2,23,35,Edmonton Oilers,5,1,6,11,1,22,13,182,23,Philadelphia Flyers,4,1,6,9,4,26,30,222,True
+2012,2,23,45,Florida Panthers,5,2,0,1,1,26,18,149,52,Minnesota Wild,2,0,2,4,0,48,6,153,False
+2012,2,23,49,Nashville Predators,5,2,3,6,1,33,11,125,21,St. Louis Blues,6,0,2,4,2,33,17,165,False
+2012,2,23,13,Toronto Maple Leafs,4,1,3,6,4,18,30,253,41,San Jose Sharks,3,1,3,6,3,11,19,165,False
+2012,2,23,36,Winnipeg Jets,5,2,4,7,5,55,8,84,42,Tampa Bay Lightning,5,0,3,6,2,30,30,303,True
+2012,2,24,26,Buffalo Sabres,5,1,2,4,1,31,8,135,6,Boston Bruins,4,1,4,6,4,25,15,118,True
+2012,2,24,51,Columbus Blue Jackets,5,0,3,10,3,41,19,202,46,Colorado Avalanche,4,2,4,6,1,33,14,169,False
+2012,2,24,43,Dallas Stars,4,1,3,5,0,31,22,219,52,Minnesota Wild,3,1,2,3,2,43,9,150,True
+2012,2,24,39,New Jersey Devils,8,0,4,8,3,32,15,121,25,Vancouver Canucks,8,2,3,5,2,28,11,148,False
+2012,2,24,28,New York Islanders,4,0,1,1,1,38,28,270,10,New York Rangers,7,2,0,0,4,22,21,140,True
+2012,2,24,30,Washington Capitals,3,2,2,3,0,14,22,187,0,Montreal Canadiens,5,0,0,0,3,36,19,147,True
+2012,2,25,48,Carolina Hurricanes,5,0,2,4,2,37,17,176,45,Florida Panthers,4,2,2,4,2,28,19,151,False
+2012,2,25,38,Calgary Flames,5,1,3,4,3,29,12,141,23,Philadelphia Flyers,3,1,0,0,2,30,27,231,False
+2012,2,25,16,Detroit Red Wings,6,1,3,4,3,43,15,146,46,Colorado Avalanche,5,1,5,7,1,9,13,164,False
+2012,2,25,35,Edmonton Oilers,5,0,2,2,0,35,9,149,47,Phoenix Coyotes,9,2,3,4,3,24,27,271,False
+2012,2,25,22,Los Angeles Kings,2,1,4,1,3,11,13,120,40,Chicago Blackhawks,4,1,1,2,3,25,20,153,True
+2012,2,25,49,Nashville Predators,4,1,3,5,2,24,12,116,41,San Jose Sharks,3,1,2,4,1,30,19,182,True
+2012,2,25,10,New York Rangers,6,2,3,6,2,31,20,145,26,Buffalo Sabres,6,0,1,2,1,36,8,140,True
+2012,2,25,2,Ottawa Senators,5,0,5,9,3,27,19,230,6,Boston Bruins,4,2,1,0,2,32,12,120,False
+2012,2,25,20,Pittsburgh Penguins,5,2,2,4,0,27,20,118,42,Tampa Bay Lightning,5,0,3,6,0,16,25,255,True
+2012,2,25,13,Toronto Maple Leafs,3,1,1,2,2,25,30,282,30,Washington Capitals,3,1,4,6,1,31,23,204,False
+2012,2,25,36,Winnipeg Jets,6,0,4,7,3,25,6,54,21,St. Louis Blues,7,0,2,3,2,27,17,159,False
+2012,2,26,53,Anaheim Ducks,7,0,2,4,2,32,22,199,40,Chicago Blackhawks,4,2,0,0,0,20,20,116,True
+2012,2,26,43,Dallas Stars,5,0,4,8,1,29,22,225,25,Vancouver Canucks,8,2,2,4,3,36,10,151,True
+2012,2,26,45,Florida Panthers,4,2,2,4,4,16,19,151,0,Montreal Canadiens,5,0,1,2,3,23,20,158,True
+2012,2,26,52,Minnesota Wild,2,2,1,2,3,14,10,123,41,San Jose Sharks,3,0,2,4,2,13,20,148,True
+2012,2,26,39,New Jersey Devils,7,2,1,3,2,16,12,109,42,Tampa Bay Lightning,4,0,1,2,4,18,33,273,False
+2012,2,26,2,Ottawa Senators,5,1,3,6,2,25,23,258,28,New York Islanders,5,1,3,6,3,36,37,291,True
+2012,2,26,20,Pittsburgh Penguins,6,1,8,13,0,0,20,130,51,Columbus Blue Jackets,5,1,0,0,3,34,20,190,True
+2012,2,27,38,Calgary Flames,4,1,4,2,4,45,13,157,21,St. Louis Blues,7,1,2,4,2,41,16,164,False
+2012,2,27,46,Colorado Avalanche,6,1,4,6,0,28,16,195,53,Anaheim Ducks,7,1,3,5,1,19,24,204,True
+2012,2,27,49,Nashville Predators,5,0,5,11,2,34,11,117,22,Los Angeles Kings,3,2,4,6,0,19,10,128,True
+2012,2,27,10,New York Rangers,6,0,3,5,2,20,21,144,39,New Jersey Devils,6,2,3,4,4,16,14,109,True
+2012,2,27,36,Winnipeg Jets,6,0,2,5,3,25,5,45,35,Edmonton Oilers,4,0,1,2,3,20,19,156,False
+2012,2,28,6,Boston Bruins,5,2,4,7,3,30,14,128,2,Ottawa Senators,6,0,6,8,2,30,23,263,False
+2012,2,28,48,Carolina Hurricanes,5,0,2,3,3,21,17,183,49,Nashville Predators,5,2,2,4,3,27,10,114,True
+2012,2,28,51,Columbus Blue Jackets,4,1,2,2,4,40,21,196,16,Detroit Red Wings,6,1,3,8,2,33,16,130,False
+2012,2,28,52,Minnesota Wild,3,1,3,3,3,28,10,137,22,Los Angeles Kings,3,1,1,2,1,16,12,137,False
+2012,2,28,47,Phoenix Coyotes,9,0,3,5,1,22,26,279,25,Vancouver Canucks,7,2,2,4,1,31,12,134,True
+2012,2,28,41,San Jose Sharks,3,2,3,5,3,7,23,148,23,Philadelphia Flyers,4,0,4,8,4,21,29,241,True
+2012,2,28,42,Tampa Bay Lightning,5,1,3,8,3,22,32,295,0,Montreal Canadiens,4,1,2,3,3,23,20,147,True
+2012,2,28,13,Toronto Maple Leafs,2,0,1,2,4,36,30,294,45,Florida Panthers,5,2,4,6,2,28,17,155,False
+2012,2,28,30,Washington Capitals,4,0,4,6,2,30,26,206,28,New York Islanders,4,2,2,4,4,23,38,275,True
+2012,2,29,53,Anaheim Ducks,6,0,1,2,4,23,24,210,26,Buffalo Sabres,5,2,2,4,3,28,10,132,False
+2012,2,29,40,Chicago Blackhawks,4,2,1,2,4,10,20,153,13,Toronto Maple Leafs,1,0,4,6,4,32,31,281,True
+2012,2,29,43,Dallas Stars,5,1,3,6,2,26,23,240,20,Pittsburgh Penguins,6,1,4,8,1,35,20,156,False
+2012,2,29,35,Edmonton Oilers,4,0,6,8,3,32,17,170,21,St. Louis Blues,7,2,3,6,1,21,15,144,False
+2012,3,1,6,Boston Bruins,4,2,0,0,1,38,12,136,39,New Jersey Devils,5,0,0,0,1,14,12,113,True
+2012,3,1,48,Carolina Hurricanes,5,0,4,6,3,29,17,191,10,New York Rangers,7,2,1,3,3,27,19,137,False
+2012,3,1,46,Colorado Avalanche,7,2,4,9,1,28,18,198,51,Columbus Blue Jackets,3,0,2,2,5,25,20,183,False
+2012,3,1,0,Montreal Canadiens,3,1,1,0,2,22,20,149,52,Minnesota Wild,3,1,0,0,4,15,12,127,True
+2012,3,1,23,Philadelphia Flyers,4,0,0,0,1,23,23,225,28,New York Islanders,4,2,2,4,3,34,37,288,True
+2012,3,1,47,Phoenix Coyotes,9,2,1,2,1,40,25,300,38,Calgary Flames,4,0,1,3,3,24,12,136,False
+2012,3,1,41,San Jose Sharks,3,0,1,2,0,26,21,173,26,Buffalo Sabres,5,2,2,4,0,43,7,147,False
+2012,3,1,25,Vancouver Canucks,6,1,1,2,3,28,12,138,21,St. Louis Blues,7,1,5,8,4,19,16,147,True
+2012,3,1,36,Winnipeg Jets,5,0,3,5,5,25,7,45,45,Florida Panthers,6,2,5,7,3,31,18,158,True
+2012,3,2,53,Anaheim Ducks,6,1,0,0,2,24,22,198,38,Calgary Flames,4,1,4,6,2,35,11,143,True
+2012,3,2,16,Detroit Red Wings,7,0,5,10,4,27,16,127,52,Minnesota Wild,3,2,4,8,3,22,9,99,True
+2012,3,2,35,Edmonton Oilers,4,0,2,3,2,17,19,169,43,Dallas Stars,5,2,3,6,3,29,26,233,False
+2012,3,2,2,Ottawa Senators,7,1,1,2,0,32,16,255,40,Chicago Blackhawks,5,1,5,8,1,24,18,129,False
+2012,3,2,42,Tampa Bay Lightning,6,1,2,4,1,24,32,287,10,New York Rangers,7,1,3,7,0,13,18,133,True
+2012,3,2,30,Washington Capitals,4,0,3,4,2,24,28,193,39,New Jersey Devils,4,2,3,5,3,26,16,112,False
+2012,3,3,6,Boston Bruins,5,2,4,7,1,27,14,129,28,New York Islanders,3,0,3,6,5,29,39,283,False
+2012,3,3,48,Carolina Hurricanes,4,1,2,4,3,25,17,187,42,Tampa Bay Lightning,6,1,4,8,3,19,34,282,False
+2012,3,3,46,Colorado Avalanche,6,0,0,0,3,31,17,195,20,Pittsburgh Penguins,7,2,3,5,3,33,24,158,False
+2012,3,3,45,Florida Panthers,5,1,0,0,3,8,20,139,49,Nashville Predators,5,1,3,3,1,31,11,120,False
+2012,3,3,22,Los Angeles Kings,3,1,4,8,2,28,11,147,53,Anaheim Ducks,6,1,3,6,2,29,23,201,True
+2012,3,3,0,Montreal Canadiens,3,2,4,7,4,30,22,157,13,Toronto Maple Leafs,1,0,4,6,4,34,33,282,False
+2012,3,3,47,Phoenix Coyotes,8,1,2,5,3,30,27,290,51,Columbus Blue Jackets,4,1,2,4,0,33,17,195,False
+2012,3,3,41,San Jose Sharks,3,0,0,0,1,19,19,171,21,St. Louis Blues,6,2,0,0,2,24,13,151,False
+2012,3,3,25,Vancouver Canucks,7,1,2,4,0,29,9,139,26,Buffalo Sabres,5,1,1,1,0,39,7,143,False
+2012,3,4,38,Calgary Flames,4,1,2,4,2,31,12,146,43,Dallas Stars,6,1,3,4,1,20,25,219,False
+2012,3,4,16,Detroit Red Wings,7,1,6,10,0,19,12,119,40,Chicago Blackhawks,6,1,2,4,1,26,20,144,False
+2012,3,4,45,Florida Panthers,4,0,1,2,4,24,20,154,2,Ottawa Senators,7,2,1,2,2,39,18,262,True
+2012,3,4,52,Minnesota Wild,3,2,0,0,0,6,10,103,46,Colorado Avalanche,5,0,1,2,2,28,16,192,False
+2012,3,4,28,New York Islanders,4,1,3,6,5,36,35,271,39,New Jersey Devils,5,1,5,8,4,25,13,124,True
+2012,3,4,10,New York Rangers,6,2,3,5,4,31,22,151,6,Boston Bruins,4,0,2,4,2,13,13,96,True
+2012,3,4,30,Washington Capitals,4,1,0,0,5,20,27,192,23,Philadelphia Flyers,5,1,6,8,3,24,25,226,False
+2012,3,5,53,Anaheim Ducks,5,2,2,4,3,19,21,199,35,Edmonton Oilers,4,0,1,2,2,14,21,170,True
+2012,3,5,20,Pittsburgh Penguins,8,2,4,9,1,36,22,161,47,Phoenix Coyotes,7,0,2,3,4,25,25,295,True
+2012,3,5,36,Winnipeg Jets,5,2,7,12,0,33,2,53,26,Buffalo Sabres,6,0,5,9,3,35,10,139,True
+2012,3,6,51,Columbus Blue Jackets,4,2,5,6,2,32,19,194,47,Phoenix Coyotes,6,0,1,2,2,28,23,298,True
+2012,3,6,38,Calgary Flames,3,2,2,3,2,40,12,155,0,Montreal Canadiens,2,0,1,2,3,42,20,164,True
+2012,3,6,46,Colorado Avalanche,6,1,2,4,0,30,14,194,52,Minnesota Wild,3,1,0,0,2,36,12,133,True
+2012,3,6,39,New Jersey Devils,5,1,0,0,1,25,10,124,10,New York Rangers,6,1,5,8,3,33,21,153,True
+2012,3,6,49,Nashville Predators,6,1,3,5,1,40,11,129,22,Los Angeles Kings,4,1,4,7,2,31,11,153,False
+2012,3,6,23,Philadelphia Flyers,5,1,1,2,0,34,22,236,16,Detroit Red Wings,6,1,1,2,1,13,12,88,True
+2012,3,6,41,San Jose Sharks,2,1,1,2,3,32,21,184,35,Edmonton Oilers,3,1,2,3,3,19,23,186,False
+2012,3,6,21,St. Louis Blues,7,0,3,6,1,19,12,146,40,Chicago Blackhawks,7,2,2,3,1,24,21,152,True
+2012,3,6,42,Tampa Bay Lightning,7,0,4,4,3,28,33,268,2,Ottawa Senators,6,2,2,2,1,20,25,278,False
+2012,3,6,13,Toronto Maple Leafs,2,0,3,5,1,22,31,263,6,Boston Bruins,4,2,3,3,4,17,15,100,False
+2012,3,6,25,Vancouver Canucks,6,1,3,5,3,7,12,102,43,Dallas Stars,7,1,2,3,1,27,24,219,False
+2012,3,6,30,Washington Capitals,4,0,0,0,1,23,24,187,48,Carolina Hurricanes,4,2,3,4,4,23,18,185,False
+2012,3,7,26,Buffalo Sabres,6,1,1,2,3,31,10,135,48,Carolina Hurricanes,5,1,4,7,3,49,17,211,True
+2012,3,7,20,Pittsburgh Penguins,8,1,2,3,2,24,19,137,13,Toronto Maple Leafs,2,1,4,8,5,33,35,274,True
+2012,3,8,6,Boston Bruins,4,0,5,9,4,29,15,112,26,Buffalo Sabres,7,2,3,6,3,18,9,128,True
+2012,3,8,51,Columbus Blue Jackets,5,1,2,6,2,40,16,177,22,Los Angeles Kings,5,1,5,9,0,26,13,148,True
+2012,3,8,43,Dallas Stars,7,0,5,8,2,38,25,223,41,San Jose Sharks,2,2,2,2,2,26,20,178,True
+2012,3,8,35,Edmonton Oilers,4,2,2,4,4,30,16,168,0,Montreal Canadiens,2,0,4,8,4,32,22,157,False
+2012,3,8,39,New Jersey Devils,5,0,4,8,1,26,10,125,28,New York Islanders,4,2,1,1,2,34,29,265,True
+2012,3,8,49,Nashville Predators,6,2,4,7,5,24,11,84,46,Colorado Avalanche,7,0,7,13,1,22,14,181,True
+2012,3,8,2,Ottawa Senators,7,1,7,7,3,28,27,286,10,New York Rangers,5,1,1,3,2,23,21,148,True
+2012,3,8,23,Philadelphia Flyers,6,2,2,2,2,39,29,246,45,Florida Panthers,4,0,4,7,2,25,18,155,True
+2012,3,8,47,Phoenix Coyotes,6,1,2,4,1,25,23,274,52,Minnesota Wild,3,1,1,0,3,18,14,117,False
+2012,3,8,21,St. Louis Blues,7,1,5,7,1,20,12,153,53,Anaheim Ducks,5,1,4,4,2,36,24,217,True
+2012,3,8,25,Vancouver Canucks,5,0,2,4,1,17,9,110,36,Winnipeg Jets,6,0,3,5,1,24,3,44,True
+2012,3,8,30,Washington Capitals,4,0,3,5,4,11,32,218,42,Tampa Bay Lightning,7,2,3,6,3,11,27,239,True
+2012,3,9,38,Calgary Flames,3,0,5,8,4,28,14,143,36,Winnipeg Jets,6,0,2,2,3,45,5,65,True
+2012,3,9,40,Chicago Blackhawks,6,1,1,1,5,31,26,168,10,New York Rangers,5,1,1,2,3,28,22,146,True
+2012,3,9,16,Detroit Red Wings,5,2,2,4,3,23,14,98,22,Los Angeles Kings,4,0,1,1,4,26,17,157,True
+2012,3,9,20,Pittsburgh Penguins,8,1,3,6,1,37,19,137,45,Florida Panthers,4,1,0,0,5,35,19,180,True
+2012,3,10,6,Boston Bruins,5,1,3,5,1,20,12,103,30,Washington Capitals,4,1,3,4,2,26,26,232,False
+2012,3,10,46,Colorado Avalanche,6,1,2,4,3,30,15,198,35,Edmonton Oilers,4,1,3,4,4,30,16,168,True
+2012,3,10,43,Dallas Stars,8,2,3,5,3,48,26,233,53,Anaheim Ducks,5,0,1,2,3,27,23,202,True
+2012,3,10,49,Nashville Predators,6,0,3,6,2,17,8,77,16,Detroit Red Wings,5,2,4,8,3,24,14,99,True
+2012,3,10,28,New York Islanders,4,1,1,2,0,24,33,246,39,New Jersey Devils,5,1,5,10,0,23,10,129,False
+2012,3,10,2,Ottawa Senators,7,2,4,6,1,26,23,278,26,Buffalo Sabres,7,0,1,0,2,24,9,138,False
+2012,3,10,47,Phoenix Coyotes,5,2,2,3,2,7,24,273,41,San Jose Sharks,2,0,3,5,3,35,24,173,True
+2012,3,10,21,St. Louis Blues,7,1,3,6,1,23,14,173,51,Columbus Blue Jackets,5,1,3,6,0,13,10,142,True
+2012,3,10,42,Tampa Bay Lightning,6,1,2,4,3,32,25,295,48,Carolina Hurricanes,4,1,2,3,3,42,17,204,False
+2012,3,10,13,Toronto Maple Leafs,2,0,2,4,3,33,33,271,23,Philadelphia Flyers,7,2,5,7,0,28,25,229,False
+2012,3,10,25,Vancouver Canucks,5,1,3,4,4,28,14,141,0,Montreal Canadiens,3,1,5,7,5,34,21,157,False
+2012,3,11,51,Columbus Blue Jackets,5,1,1,2,4,29,14,158,21,St. Louis Blues,8,1,4,8,1,25,14,172,False
+2012,3,11,40,Chicago Blackhawks,6,0,4,7,3,25,22,158,22,Los Angeles Kings,4,2,3,4,4,15,17,146,False
+2012,3,11,45,Florida Panthers,4,2,1,1,1,34,16,186,48,Carolina Hurricanes,4,0,4,7,2,38,16,200,True
+2012,3,11,52,Minnesota Wild,4,0,2,3,2,17,4,118,38,Calgary Flames,4,2,5,10,3,45,13,160,False
+2012,3,11,39,New Jersey Devils,5,1,2,4,1,30,11,130,23,Philadelphia Flyers,7,1,0,0,3,17,24,234,True
+2012,3,11,10,New York Rangers,4,1,3,5,3,21,22,139,28,New York Islanders,3,1,1,2,5,20,35,257,True
+2012,3,11,20,Pittsburgh Penguins,9,1,2,2,1,29,19,129,6,Boston Bruins,5,1,3,3,4,30,15,113,True
+2012,3,11,30,Washington Capitals,5,2,4,7,4,36,25,239,13,Toronto Maple Leafs,1,0,0,0,0,27,30,265,True
+2012,3,12,26,Buffalo Sabres,7,1,3,5,3,36,10,150,0,Montreal Canadiens,3,1,4,8,3,27,17,165,True
+2012,3,12,46,Colorado Avalanche,7,1,2,4,2,30,13,206,53,Anaheim Ducks,4,1,0,0,1,22,20,202,True
+2012,3,12,35,Edmonton Oilers,4,2,2,3,2,30,14,170,41,San Jose Sharks,2,0,0,0,3,29,23,183,False
+2012,3,12,47,Phoenix Coyotes,5,1,3,6,0,42,22,309,49,Nashville Predators,7,1,3,5,2,37,8,97,False
+2012,3,13,38,Calgary Flames,4,1,4,7,3,27,13,142,41,San Jose Sharks,3,1,3,5,2,22,22,176,True
+2012,3,13,40,Chicago Blackhawks,5,1,2,4,2,29,21,160,21,St. Louis Blues,9,1,2,3,1,34,14,181,True
+2012,3,13,45,Florida Panthers,5,2,2,4,0,34,15,186,13,Toronto Maple Leafs,1,0,0,0,5,23,32,261,True
+2012,3,13,22,Los Angeles Kings,5,0,2,4,2,37,15,168,16,Detroit Red Wings,4,2,2,4,1,5,14,95,True
+2012,3,13,52,Minnesota Wild,3,0,3,4,4,25,8,120,43,Dallas Stars,9,2,2,5,0,21,25,239,False
+2012,3,13,28,New York Islanders,3,1,3,5,4,36,34,273,30,Washington Capitals,6,1,2,2,0,23,23,230,False
+2012,3,13,10,New York Rangers,5,2,4,7,3,21,22,137,48,Carolina Hurricanes,4,0,0,0,1,32,15,194,True
+2012,3,13,23,Philadelphia Flyers,7,0,2,3,0,29,25,233,39,New Jersey Devils,5,2,4,8,1,19,11,119,True
+2012,3,13,42,Tampa Bay Lightning,5,1,2,4,3,25,29,281,6,Boston Bruins,4,1,2,4,2,22,16,115,True
+2012,3,14,53,Anaheim Ducks,4,0,2,4,3,33,23,178,16,Detroit Red Wings,3,2,2,4,3,20,17,116,True
+2012,3,14,26,Buffalo Sabres,7,0,2,7,2,28,9,142,46,Colorado Avalanche,7,2,3,6,2,40,15,210,False
+2012,3,14,35,Edmonton Oilers,3,1,2,2,3,33,15,173,51,Columbus Blue Jackets,5,1,1,2,2,26,12,155,True
+2012,3,14,0,Montreal Canadiens,3,1,3,3,1,33,19,186,2,Ottawa Senators,6,1,3,2,3,41,25,273,True
+2012,3,14,25,Vancouver Canucks,4,1,1,2,4,35,12,145,47,Phoenix Coyotes,4,1,4,7,4,35,26,290,False
+2012,3,14,36,Winnipeg Jets,5,0,3,6,5,27,7,47,43,Dallas Stars,9,0,1,2,2,31,27,241,True
+2012,3,15,48,Carolina Hurricanes,3,1,2,4,4,28,18,190,21,St. Louis Blues,8,1,3,4,1,22,15,178,True
+2012,3,15,38,Calgary Flames,5,1,3,4,2,31,12,146,47,Phoenix Coyotes,4,1,5,10,4,43,26,298,True
+2012,3,15,45,Florida Panthers,6,0,5,8,2,28,17,180,6,Boston Bruins,4,2,1,2,2,5,17,100,True
+2012,3,15,39,New Jersey Devils,5,0,0,0,2,28,12,128,46,Colorado Avalanche,7,2,4,7,4,27,18,200,True
+2012,3,15,28,New York Islanders,3,1,4,9,4,28,34,277,23,Philadelphia Flyers,7,1,3,4,0,17,25,221,False
+2012,3,15,10,New York Rangers,6,0,4,7,2,29,21,145,20,Pittsburgh Penguins,9,2,5,8,2,36,20,136,False
+2012,3,15,41,San Jose Sharks,2,0,3,4,3,22,22,162,49,Nashville Predators,7,2,5,7,4,35,10,95,True
+2012,3,15,42,Tampa Bay Lightning,5,0,6,10,1,34,27,274,13,Toronto Maple Leafs,1,2,2,4,4,26,28,274,False
+2012,3,16,53,Anaheim Ducks,4,0,4,6,0,23,18,188,22,Los Angeles Kings,6,2,5,8,2,24,15,155,False
+2012,3,16,43,Dallas Stars,8,1,2,4,0,25,30,214,40,Chicago Blackhawks,5,1,3,6,0,18,19,146,False
+2012,3,16,35,Edmonton Oilers,3,1,2,4,0,22,7,150,38,Calgary Flames,6,1,4,4,3,38,11,143,True
+2012,3,16,2,Ottawa Senators,5,1,2,4,2,26,25,266,0,Montreal Canadiens,4,1,2,4,2,37,20,190,True
+2012,3,16,36,Winnipeg Jets,5,1,5,8,2,30,4,50,30,Washington Capitals,7,1,4,8,3,33,29,219,True
+2012,3,17,6,Boston Bruins,3,2,1,3,6,29,21,124,23,Philadelphia Flyers,8,0,3,6,2,31,30,238,True
+2012,3,17,45,Florida Panthers,6,1,6,9,2,26,17,173,26,Buffalo Sabres,6,1,4,6,4,42,11,156,True
+2012,3,17,22,Los Angeles Kings,7,1,4,7,3,36,15,151,49,Nashville Predators,6,1,2,2,1,35,7,95,True
+2012,3,17,52,Minnesota Wild,2,0,0,0,1,25,5,118,48,Carolina Hurricanes,4,2,1,3,3,40,14,202,False
+2012,3,17,0,Montreal Canadiens,4,2,1,1,3,36,20,186,28,New York Islanders,2,0,2,3,4,27,31,262,False
+2012,3,17,39,New Jersey Devils,6,2,0,0,0,28,10,128,20,Pittsburgh Penguins,10,0,5,8,2,31,20,131,False
+2012,3,17,10,New York Rangers,5,0,2,5,3,19,24,148,46,Colorado Avalanche,6,2,0,0,4,24,13,208,False
+2012,3,17,2,Ottawa Senators,5,1,2,4,1,14,24,254,13,Toronto Maple Leafs,2,1,3,5,1,35,25,283,False
+2012,3,17,41,San Jose Sharks,3,1,1,2,1,33,20,159,16,Detroit Red Wings,3,1,0,0,4,26,18,120,True
+2012,3,17,42,Tampa Bay Lightning,5,1,1,1,0,18,24,238,21,St. Louis Blues,7,1,0,0,3,46,17,178,False
+2012,3,17,25,Vancouver Canucks,4,1,4,8,2,32,13,143,51,Columbus Blue Jackets,4,1,0,0,1,17,12,155,True
+2012,3,18,53,Anaheim Ducks,3,0,2,4,3,42,21,209,49,Nashville Predators,6,2,2,4,0,4,10,87,False
+2012,3,18,38,Calgary Flames,6,1,1,0,1,28,11,130,51,Columbus Blue Jackets,4,1,3,5,2,26,15,176,False
+2012,3,18,40,Chicago Blackhawks,6,0,4,7,1,22,21,145,30,Washington Capitals,6,2,2,1,4,30,26,232,True
+2012,3,18,35,Edmonton Oilers,4,0,4,5,1,19,11,150,47,Phoenix Coyotes,3,2,1,3,4,19,26,293,False
+2012,3,18,23,Philadelphia Flyers,7,1,2,4,2,33,30,226,20,Pittsburgh Penguins,10,1,5,9,2,14,20,114,True
+2012,3,18,36,Winnipeg Jets,5,1,3,7,2,22,4,42,48,Carolina Hurricanes,5,1,5,6,0,40,14,188,False
+2012,3,19,6,Boston Bruins,4,2,2,4,2,29,17,124,13,Toronto Maple Leafs,3,0,3,4,1,30,25,278,True
+2012,3,19,16,Detroit Red Wings,3,1,2,2,3,35,17,129,30,Washington Capitals,5,1,2,2,5,35,26,230,False
+2012,3,19,52,Minnesota Wild,2,0,3,6,0,24,8,126,25,Vancouver Canucks,4,2,4,6,3,36,12,123,True
+2012,3,19,10,New York Rangers,4,1,1,2,2,19,23,148,39,New Jersey Devils,6,1,2,4,5,44,15,144,True
+2012,3,19,41,San Jose Sharks,4,1,3,5,2,28,21,154,53,Anaheim Ducks,3,1,1,2,2,28,20,200,False
+2012,3,19,42,Tampa Bay Lightning,5,2,1,1,3,10,25,260,26,Buffalo Sabres,6,0,2,3,2,17,9,131,False
+2012,3,20,51,Columbus Blue Jackets,5,0,1,2,1,29,10,143,40,Chicago Blackhawks,7,2,5,9,2,18,24,139,False
+2012,3,20,46,Colorado Avalanche,6,0,3,6,1,42,10,226,38,Calgary Flames,6,2,1,2,1,18,11,120,True
+2012,3,20,43,Dallas Stars,7,0,1,2,4,31,32,239,47,Phoenix Coyotes,3,2,2,1,2,38,24,319,True
+2012,3,20,22,Los Angeles Kings,7,1,4,7,2,20,14,136,41,San Jose Sharks,3,1,3,6,4,26,20,140,True
+2012,3,20,49,Nashville Predators,6,1,3,6,4,27,11,114,35,Edmonton Oilers,3,1,2,3,2,42,13,177,False
+2012,3,20,2,Ottawa Senators,5,1,1,2,3,18,26,258,39,New Jersey Devils,6,1,2,3,1,24,14,127,False
+2012,3,20,23,Philadelphia Flyers,8,2,3,6,2,40,30,233,45,Florida Panthers,6,0,2,5,3,23,17,173,False
+2012,3,20,20,Pittsburgh Penguins,9,2,2,4,2,24,21,127,36,Winnipeg Jets,5,0,2,6,4,35,6,55,True
+2012,3,20,13,Toronto Maple Leafs,3,2,0,0,4,9,28,262,28,New York Islanders,3,0,2,3,3,22,32,270,False
+2012,3,21,53,Anaheim Ducks,4,0,5,9,2,26,21,175,21,St. Louis Blues,7,2,3,6,1,23,14,166,True
+2012,3,21,26,Buffalo Sabres,6,1,8,11,3,27,10,141,0,Montreal Canadiens,4,1,2,2,2,33,20,164,True
+2012,3,21,48,Carolina Hurricanes,5,0,5,5,3,33,17,181,45,Florida Panthers,6,2,2,4,2,26,15,186,True
+2012,3,21,40,Chicago Blackhawks,8,1,5,10,1,25,23,161,25,Vancouver Canucks,3,1,0,0,5,33,10,120,True
+2012,3,21,10,New York Rangers,4,0,4,7,2,22,23,151,16,Detroit Red Wings,3,2,3,6,3,9,18,115,True
+2012,3,22,43,Dallas Stars,7,2,3,6,3,30,32,233,25,Vancouver Canucks,3,0,1,1,1,33,7,124,False
+2012,3,22,22,Los Angeles Kings,8,1,5,8,2,22,14,138,21,St. Louis Blues,6,1,3,3,2,30,16,190,True
+2012,3,22,52,Minnesota Wild,2,0,3,3,0,33,9,148,38,Calgary Flames,5,2,1,2,2,33,12,135,True
+2012,3,22,23,Philadelphia Flyers,7,2,1,1,2,13,30,206,30,Washington Capitals,5,0,5,8,3,33,25,231,True
+2012,3,22,47,Phoenix Coyotes,3,1,3,3,3,33,24,305,46,Colorado Avalanche,7,1,2,4,1,32,9,236,True
+2012,3,22,20,Pittsburgh Penguins,9,1,8,15,3,27,22,158,49,Nashville Predators,5,1,3,6,3,7,12,70,True
+2012,3,22,41,San Jose Sharks,3,2,2,4,4,41,19,147,6,Boston Bruins,4,0,8,14,0,13,15,108,True
+2012,3,22,42,Tampa Bay Lightning,4,0,2,3,3,23,26,270,35,Edmonton Oilers,4,2,6,9,2,32,14,179,True
+2012,3,23,51,Columbus Blue Jackets,5,2,1,2,5,27,14,141,48,Carolina Hurricanes,6,0,3,4,1,31,15,179,True
+2012,3,23,45,Florida Panthers,6,0,1,2,3,39,16,199,35,Edmonton Oilers,4,2,2,4,3,44,13,181,False
+2012,3,23,0,Montreal Canadiens,4,1,0,0,3,31,21,162,2,Ottawa Senators,4,1,0,0,2,35,22,281,True
+2012,3,23,39,New Jersey Devils,6,2,1,2,4,27,11,150,13,Toronto Maple Leafs,3,0,2,3,4,33,28,286,False
+2012,3,23,10,New York Rangers,5,2,2,3,1,27,22,156,26,Buffalo Sabres,6,0,3,6,0,34,7,148,False
+2012,3,23,30,Washington Capitals,5,0,1,3,4,28,23,201,36,Winnipeg Jets,4,2,4,8,5,24,8,39,False
+2012,3,24,26,Buffalo Sabres,6,1,4,6,1,27,8,141,52,Minnesota Wild,3,1,2,4,2,29,9,126,True
+2012,3,24,46,Colorado Avalanche,7,0,2,3,3,25,10,199,25,Vancouver Canucks,4,2,2,4,2,37,7,117,False
+2012,3,24,43,Dallas Stars,7,2,1,2,2,28,30,239,38,Calgary Flames,5,0,2,3,2,30,12,132,True
+2012,3,24,16,Detroit Red Wings,2,1,1,2,2,34,17,140,48,Carolina Hurricanes,6,1,1,2,5,26,19,174,True
+2012,3,24,22,Los Angeles Kings,8,1,0,0,0,35,12,151,6,Boston Bruins,4,1,1,2,2,27,17,122,False
+2012,3,24,49,Nashville Predators,5,0,1,2,5,23,14,86,36,Winnipeg Jets,5,0,4,6,3,23,6,38,True
+2012,3,24,2,Ottawa Senators,3,2,1,2,2,9,24,244,20,Pittsburgh Penguins,9,0,5,10,4,30,22,151,True
+2012,3,24,23,Philadelphia Flyers,7,2,1,1,1,31,29,224,0,Montreal Canadiens,4,0,5,9,2,38,19,169,True
+2012,3,24,41,San Jose Sharks,4,0,2,3,1,17,16,123,47,Phoenix Coyotes,4,2,3,5,2,41,23,306,True
+2012,3,24,42,Tampa Bay Lightning,4,1,3,5,2,36,26,274,28,New York Islanders,4,1,5,9,2,30,30,275,True
+2012,3,24,13,Toronto Maple Leafs,3,1,3,7,4,15,27,299,10,New York Rangers,4,1,1,2,4,26,25,155,False
+2012,3,25,53,Anaheim Ducks,4,2,4,8,3,38,21,198,6,Boston Bruins,5,0,4,6,4,12,17,137,False
+2012,3,25,51,Columbus Blue Jackets,5,1,5,9,1,40,10,154,35,Edmonton Oilers,5,1,1,2,1,27,12,165,False
+2012,3,25,40,Chicago Blackhawks,8,0,2,4,1,24,20,150,49,Nashville Predators,5,2,3,5,1,25,10,88,False
+2012,3,25,45,Florida Panthers,6,2,1,2,1,21,13,166,28,New York Islanders,4,0,3,6,2,14,33,272,False
+2012,3,25,47,Phoenix Coyotes,4,0,3,4,2,24,26,293,21,St. Louis Blues,6,2,1,1,0,37,18,173,False
+2012,3,25,20,Pittsburgh Penguins,8,1,4,6,1,30,26,149,39,New Jersey Devils,6,1,3,7,3,17,10,140,True
+2012,3,25,30,Washington Capitals,5,1,3,6,1,28,24,238,52,Minnesota Wild,3,1,1,2,4,33,10,149,True
+2012,3,26,38,Calgary Flames,5,0,1,2,3,19,13,121,43,Dallas Stars,7,2,4,6,1,36,28,253,True
+2012,3,26,16,Detroit Red Wings,2,2,5,9,4,24,19,130,51,Columbus Blue Jackets,4,0,3,3,5,26,12,143,True
+2012,3,26,23,Philadelphia Flyers,7,1,4,7,1,24,28,220,42,Tampa Bay Lightning,4,1,4,8,3,37,27,275,False
+2012,3,26,41,San Jose Sharks,5,1,3,5,3,27,18,154,46,Colorado Avalanche,6,1,2,4,3,32,11,197,True
+2012,3,26,25,Vancouver Canucks,4,0,3,6,2,40,9,125,22,Los Angeles Kings,7,2,2,3,3,25,17,146,True
+2012,3,26,36,Winnipeg Jets,5,1,1,2,2,27,5,42,2,Ottawa Senators,4,1,8,14,1,20,22,238,False
+2012,3,27,6,Boston Bruins,5,0,3,4,2,42,15,152,42,Tampa Bay Lightning,4,2,5,6,3,38,27,276,True
+2012,3,27,52,Minnesota Wild,3,1,0,0,2,36,9,139,10,New York Rangers,5,1,3,3,3,25,24,154,False
+2012,3,27,0,Montreal Canadiens,4,0,1,2,1,38,21,164,45,Florida Panthers,5,2,2,3,1,36,17,210,False
+2012,3,27,39,New Jersey Devils,5,1,2,2,4,27,12,143,40,Chicago Blackhawks,7,1,1,2,4,15,20,149,True
+2012,3,27,20,Pittsburgh Penguins,8,2,5,9,2,34,25,155,28,New York Islanders,4,0,2,4,2,35,34,293,False
+2012,3,27,21,St. Louis Blues,6,1,4,8,0,20,16,158,49,Nashville Predators,6,1,6,11,1,25,10,88,True
+2012,3,27,13,Toronto Maple Leafs,3,1,3,6,3,33,27,310,48,Carolina Hurricanes,5,1,4,8,5,50,19,198,False
+2012,3,27,30,Washington Capitals,6,1,3,5,0,28,24,241,26,Buffalo Sabres,7,1,3,5,1,25,8,139,False
+2012,3,28,53,Anaheim Ducks,4,1,2,2,3,25,23,178,41,San Jose Sharks,6,1,5,8,1,32,16,156,True
+2012,3,28,51,Columbus Blue Jackets,3,0,2,4,1,11,14,145,16,Detroit Red Wings,3,2,7,14,2,26,17,132,True
+2012,3,28,38,Calgary Flames,5,2,5,8,4,39,14,141,22,Los Angeles Kings,6,0,0,0,1,25,15,146,False
+2012,3,28,35,Edmonton Oilers,5,0,5,10,3,32,15,170,43,Dallas Stars,6,2,4,7,5,35,32,252,False
+2012,3,28,25,Vancouver Canucks,5,2,1,2,1,26,7,123,46,Colorado Avalanche,5,0,1,2,4,35,15,232,True
+2012,3,28,36,Winnipeg Jets,4,0,4,7,5,34,8,49,10,New York Rangers,6,2,3,6,2,26,23,155,False
+2012,3,29,6,Boston Bruins,5,1,5,9,2,18,15,128,30,Washington Capitals,5,1,1,2,3,28,22,189,False
+2012,3,29,40,Chicago Blackhawks,6,1,1,2,1,22,18,151,21,St. Louis Blues,6,1,3,6,4,22,18,167,True
+2012,3,29,52,Minnesota Wild,3,1,2,4,1,6,10,135,45,Florida Panthers,6,1,1,2,2,37,15,182,True
+2012,3,29,39,New Jersey Devils,5,1,1,2,1,38,9,154,42,Tampa Bay Lightning,4,1,2,3,4,37,28,275,True
+2012,3,29,28,New York Islanders,4,1,4,7,1,22,33,283,20,Pittsburgh Penguins,7,1,3,6,5,18,22,123,True
+2012,3,29,47,Phoenix Coyotes,4,1,0,2,3,32,30,291,41,San Jose Sharks,6,1,1,1,2,27,17,151,True
+2012,3,29,13,Toronto Maple Leafs,3,0,0,0,0,10,27,299,23,Philadelphia Flyers,6,2,3,5,4,31,31,210,False
+2012,3,30,26,Buffalo Sabres,7,1,5,7,1,45,8,159,20,Pittsburgh Penguins,6,1,3,6,3,12,21,128,False
+2012,3,30,48,Carolina Hurricanes,6,2,3,6,0,30,14,178,36,Winnipeg Jets,3,0,3,3,3,11,7,43,False
+2012,3,30,51,Columbus Blue Jackets,3,2,4,6,2,31,15,165,45,Florida Panthers,6,0,3,4,3,25,16,170,True
+2012,3,30,38,Calgary Flames,4,1,0,0,2,29,12,131,46,Colorado Avalanche,5,1,0,0,1,22,13,210,False
+2012,3,30,16,Detroit Red Wings,3,1,2,4,4,21,19,137,49,Nashville Predators,5,1,0,0,3,24,12,109,False
+2012,3,30,35,Edmonton Oilers,5,2,2,2,2,21,17,160,22,Los Angeles Kings,7,0,3,4,0,19,14,140,False
+2012,3,30,10,New York Rangers,7,0,4,7,2,24,23,153,0,Montreal Canadiens,4,2,2,3,2,36,21,180,True
+2012,3,30,25,Vancouver Canucks,6,1,1,1,0,43,6,140,43,Dallas Stars,6,1,3,6,1,32,25,255,True
+2012,3,31,48,Carolina Hurricanes,5,1,3,3,3,26,18,183,39,New Jersey Devils,5,1,6,10,4,20,12,136,False
+2012,3,31,52,Minnesota Wild,4,1,3,5,2,27,12,147,22,Los Angeles Kings,8,1,4,8,2,21,15,135,True
+2012,3,31,49,Nashville Predators,5,2,4,6,1,32,10,117,40,Chicago Blackhawks,7,0,3,5,3,20,22,166,False
+2012,3,31,28,New York Islanders,5,1,5,7,3,29,35,290,6,Boston Bruins,5,1,2,3,2,27,15,133,False
+2012,3,31,23,Philadelphia Flyers,6,1,7,14,1,17,30,201,2,Ottawa Senators,5,1,6,10,4,48,25,270,False
+2012,3,31,47,Phoenix Coyotes,5,0,2,4,0,38,30,295,53,Anaheim Ducks,4,2,3,4,3,30,21,182,True
+2012,3,31,41,San Jose Sharks,5,1,0,0,2,33,19,162,43,Dallas Stars,5,1,2,3,4,30,25,230,True
+2012,3,31,21,St. Louis Blues,5,2,3,4,3,40,17,207,51,Columbus Blue Jackets,4,0,4,8,1,31,14,165,False
+2012,3,31,42,Tampa Bay Lightning,4,0,3,6,0,4,27,288,36,Winnipeg Jets,4,2,4,7,4,28,7,65,True
+2012,3,31,13,Toronto Maple Leafs,3,1,1,2,3,41,34,319,26,Buffalo Sabres,7,1,3,3,4,33,11,147,True
+2012,3,31,25,Vancouver Canucks,6,0,5,9,0,38,8,127,38,Calgary Flames,3,2,1,2,1,8,13,125,True
+2012,3,31,30,Washington Capitals,5,2,2,6,2,21,20,200,0,Montreal Canadiens,3,0,1,2,4,33,24,165,True
+2012,4,1,53,Anaheim Ducks,4,2,0,0,1,29,22,181,35,Edmonton Oilers,5,0,1,1,3,25,20,170,False
+2012,4,1,40,Chicago Blackhawks,7,2,5,9,2,9,22,163,52,Minnesota Wild,4,0,3,6,3,32,13,149,False
+2012,4,1,16,Detroit Red Wings,2,1,1,2,3,26,18,142,45,Florida Panthers,5,1,1,2,2,29,15,164,True
+2012,4,1,28,New York Islanders,5,0,3,6,6,27,38,288,2,Ottawa Senators,5,2,1,2,3,39,26,282,False
+2012,4,1,10,New York Rangers,7,2,4,7,1,20,22,149,6,Boston Bruins,6,0,7,10,2,23,16,128,False
+2012,4,1,20,Pittsburgh Penguins,6,1,5,9,4,23,21,144,23,Philadelphia Flyers,6,1,3,6,3,29,34,234,False
+2012,4,2,22,Los Angeles Kings,7,1,3,6,1,14,16,137,35,Edmonton Oilers,6,1,2,3,1,33,18,178,True
+2012,4,2,42,Tampa Bay Lightning,5,1,3,3,6,34,29,312,30,Washington Capitals,5,1,2,4,2,41,20,220,True
+2012,4,3,6,Boston Bruins,7,0,2,3,3,22,15,139,20,Pittsburgh Penguins,5,2,4,8,3,28,22,146,False
+2012,4,3,26,Buffalo Sabres,6,1,3,7,4,29,11,143,13,Toronto Maple Leafs,4,1,4,6,3,32,33,313,True
+2012,4,3,43,Dallas Stars,4,1,0,0,3,34,26,239,41,San Jose Sharks,6,1,3,6,0,22,17,151,False
+2012,4,3,45,Florida Panthers,4,1,1,2,3,28,12,158,36,Winnipeg Jets,4,1,1,4,3,39,6,76,False
+2012,4,3,39,New Jersey Devils,5,2,4,9,0,34,7,141,28,New York Islanders,5,0,1,2,5,32,33,292,True
+2012,4,3,49,Nashville Predators,4,2,4,8,2,12,14,122,52,Minnesota Wild,5,0,4,8,3,29,16,154,True
+2012,4,3,2,Ottawa Senators,5,1,6,10,1,30,24,273,48,Carolina Hurricanes,5,1,0,0,4,35,20,188,False
+2012,4,3,23,Philadelphia Flyers,6,0,6,12,4,14,35,252,10,New York Rangers,6,2,1,0,2,21,23,150,False
+2012,4,3,47,Phoenix Coyotes,5,0,4,8,0,44,27,303,51,Columbus Blue Jackets,5,2,5,7,2,36,15,170,True
+2012,4,3,25,Vancouver Canucks,7,1,3,6,2,33,10,122,53,Anaheim Ducks,4,1,1,2,2,15,26,198,True
+2012,4,4,0,Montreal Canadiens,2,1,2,3,2,33,22,165,42,Tampa Bay Lightning,5,1,4,8,2,28,25,321,True
+2012,4,4,21,St. Louis Blues,4,0,2,4,0,24,18,199,16,Detroit Red Wings,3,2,1,2,1,28,16,144,False
+2012,4,5,48,Carolina Hurricanes,6,1,2,3,1,39,17,192,0,Montreal Canadiens,3,1,4,9,2,16,22,148,True
+2012,4,5,38,Calgary Flames,2,1,2,2,3,23,15,151,25,Vancouver Canucks,8,1,4,8,0,9,10,83,True
+2012,4,5,46,Colorado Avalanche,5,1,4,6,1,39,12,212,51,Columbus Blue Jackets,5,1,0,0,6,28,15,156,False
+2012,4,5,16,Detroit Red Wings,4,2,2,4,2,29,17,145,39,New Jersey Devils,6,0,4,5,0,22,8,127,False
+2012,4,5,35,Edmonton Oilers,5,1,0,1,2,37,15,181,53,Anaheim Ducks,4,1,4,7,4,29,28,222,False
+2012,4,5,22,Los Angeles Kings,7,1,2,3,0,19,15,142,41,San Jose Sharks,6,1,5,9,2,31,19,160,False
+2012,4,5,52,Minnesota Wild,5,1,1,2,4,35,14,149,40,Chicago Blackhawks,7,1,4,7,4,33,31,203,True
+2012,4,5,49,Nashville Predators,5,1,1,1,5,37,13,136,43,Dallas Stars,3,1,2,4,4,25,27,240,True
+2012,4,5,28,New York Islanders,5,2,1,2,2,19,30,279,36,Winnipeg Jets,4,0,5,7,3,33,7,75,True
+2012,4,5,2,Ottawa Senators,5,1,2,3,3,20,27,278,6,Boston Bruins,7,1,3,6,1,32,18,176,False
+2012,4,5,23,Philadelphia Flyers,5,2,3,6,5,24,36,262,26,Buffalo Sabres,6,0,4,9,5,25,12,139,True
+2012,4,5,20,Pittsburgh Penguins,5,2,4,10,5,25,22,147,10,New York Rangers,7,0,5,10,5,32,24,169,True
+2012,4,5,13,Toronto Maple Leafs,4,2,5,8,6,45,36,326,42,Tampa Bay Lightning,5,0,2,2,2,33,28,318,True
+2012,4,5,30,Washington Capitals,4,2,2,2,3,26,26,196,45,Florida Panthers,3,0,4,7,5,30,15,161,True
+2012,4,6,21,St. Louis Blues,3,2,2,0,2,28,22,205,47,Phoenix Coyotes,6,0,2,4,0,54,25,321,False
+2012,4,7,6,Boston Bruins,7,1,3,2,1,34,18,189,26,Buffalo Sabres,6,1,1,2,3,28,9,149,True
+2012,4,7,51,Columbus Blue Jackets,6,1,5,8,2,37,11,165,28,New York Islanders,6,1,5,6,4,25,32,282,True
+2012,4,7,38,Calgary Flames,2,0,3,4,3,34,14,162,53,Anaheim Ducks,4,2,3,3,4,39,22,221,True
+2012,4,7,46,Colorado Avalanche,4,0,2,4,0,33,16,197,49,Nashville Predators,6,2,1,3,1,26,10,122,False
+2012,4,7,43,Dallas Stars,3,0,0,0,1,4,26,224,21,St. Louis Blues,3,2,1,2,4,32,24,209,False
+2012,4,7,16,Detroit Red Wings,4,0,1,2,2,21,17,137,40,Chicago Blackhawks,6,2,1,1,1,23,28,193,False
+2012,4,7,45,Florida Panthers,2,1,2,4,0,1,13,123,48,Carolina Hurricanes,6,1,1,2,5,31,17,184,True
+2012,4,7,52,Minnesota Wild,6,1,1,2,1,24,10,143,47,Phoenix Coyotes,6,1,4,7,1,32,29,311,False
+2012,4,7,0,Montreal Canadiens,2,1,1,2,1,29,19,164,13,Toronto Maple Leafs,4,1,3,3,2,37,38,317,True
+2012,4,7,39,New Jersey Devils,6,1,2,3,1,24,9,132,2,Ottawa Senators,5,1,1,2,2,31,29,289,True
+2012,4,7,10,New York Rangers,7,1,2,4,3,40,23,168,30,Washington Capitals,5,1,4,7,2,14,21,172,False
+2012,4,7,20,Pittsburgh Penguins,6,0,5,8,2,37,19,159,23,Philadelphia Flyers,6,2,2,3,4,47,29,257,True
+2012,4,7,41,San Jose Sharks,6,1,4,9,5,36,20,159,22,Los Angeles Kings,6,1,5,10,5,31,20,154,True
+2012,4,7,25,Vancouver Canucks,7,2,2,3,4,15,13,102,35,Edmonton Oilers,4,0,2,4,3,17,15,156,True
+2012,4,7,36,Winnipeg Jets,3,1,4,7,4,38,9,70,42,Tampa Bay Lightning,5,1,2,3,3,31,30,286,False
