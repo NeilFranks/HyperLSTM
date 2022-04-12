@@ -2,6 +2,7 @@ import torch
 from torch import nn
 import torch.nn.functional as F
 import pytorch_lightning as pl
+from .sam import SAM
 
 class LitAutoEncoder(pl.LightningModule):
     def __init__(self):
@@ -25,5 +26,6 @@ class LitAutoEncoder(pl.LightningModule):
         return loss
 
     def configure_optimizers(self):
-        optimizer = torch.optim.Adam(self.parameters(), lr=1e-3)
+        optimizer = SAM(self.parameters(), torch.optim.Adam, rho=0.05,
+                        adaptive=False, lr=3e-4)
         return optimizer
