@@ -4,28 +4,27 @@ import torch.nn.functional as F
 import pytorch_lightning as pl
 from .sam import SAM
 
+
 class LSTMWrapper(pl.LightningModule):
-    def __init__(self, input_size, output_size, hidden_size, batch_size=1):
-        self.input_size  = input_size
-        self.output_size = output_size
-        self.hidden_size = hidden_size
-        self.batch_size  = batch_size
+    def __init__(self, input_size, output_size, hidden_size):
         super().__init__()
-        self.lstm = nn.LSTM(self.input_size, self.hidden_size, proj_size=output_size)
+
+        self.lstm = nn.LSTM(
+            input_size, hidden_size, proj_size=output_size
+        )
+
         self.automatic_optimization = False
 
-    def forward(self, x):
+    def forward(self, x, h, c):
         # in lightning, forward defines the prediction/inference actions
-        h0 = torch.randn(1, self.batch_size, self.output_size)
-        c0 = torch.randn(1, self.batch_size, self.hidden_size)
-        return self.lstm(x, (h0, c0))
+        return self.lstm(x, (h, c))
 
     def compute_loss(self, batch):
         x, y = batch
-        yh, _ = self(x.float())
+        yh, _ = self(x.float(), h, c)
         return F.cross_entropy(yh, y)
 
-    def training_step(self, batch, batch_idx):
+    def training_step(self, batch):
         # From SAM example: https://github.com/davda54/sam
         optimizer = self.optimizers()
         loss0 = self.compute_loss(batch)
@@ -39,6 +38,11 @@ class LSTMWrapper(pl.LightningModule):
         return loss0
 
     def configure_optimizers(self):
-        optimizer = SAM(self.parameters(), torch.optim.Adam, rho=0.05,
-                        adaptive=False, lr=3e-4)
+        optimizer = SAM(
+            self.parameters(),
+            torch.optim.Adam,
+            rho=0.05,
+            adaptive=False,
+            lr=3e-4
+        )
         return optimizer
