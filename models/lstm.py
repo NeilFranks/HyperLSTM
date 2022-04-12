@@ -5,25 +5,38 @@ import pytorch_lightning as pl
 from .sam import SAM
 
 class LSTMWrapper(pl.LightningModule):
-    def __init__(self):
+    def __init__(self, input_size, output_size, hidden_size, batch_size=1):
+        self.input_size  = input_size
+        self.output_size = output_size
+        self.hidden_size = hidden_size
+        self.batch_size  = batch_size
         super().__init__()
-        self.lstm = nn.LSTM()
+        self.lstm = nn.LSTM(self.input_size, self.hidden_size, proj_size=output_size)
+        self.automatic_optimization = False
 
     def forward(self, x):
         # in lightning, forward defines the prediction/inference actions
-        h0 = torch.randn(2, 3, 20) # From docs
-        c0 = torch.randn(2, 3, 20)
-        return self.lstm(x, h0, c0)
+        h0 = torch.randn(1, self.batch_size, self.output_size)
+        c0 = torch.randn(1, self.batch_size, self.hidden_size)
+        return self.lstm(x, (h0, c0))
+
+    def compute_loss(self, batch):
+        x, y = batch
+        yh, _ = self(x.float())
+        return F.cross_entropy(yh, y)
 
     def training_step(self, batch, batch_idx):
-        # training_step defines the train loop. It is independent of forward
-        x, y = batch # x is an input, y is label
-        # x = x.view(x.size(0), -1)
-        # z = self.encoder(x)
-        # x_hat = self.decoder(z)
-        loss = F.mse_loss(self(x), y) # Assuming MSE is appropriate to the dataset
-        self.log('train_loss', loss)
-        return loss
+        # From SAM example: https://github.com/davda54/sam
+        optimizer = self.optimizers()
+        loss0 = self.compute_loss(batch)
+        self.manual_backward(loss0)
+        optimizer.first_step(zero_grad=True)
+        self.log("train_loss", loss0)
+
+        loss1 = self.compute_loss(batch)
+        self.manual_backward(loss1)
+        optimizer.second_step(zero_grad=True)
+        return loss0
 
     def configure_optimizers(self):
         optimizer = SAM(self.parameters(), torch.optim.Adam, rho=0.05,

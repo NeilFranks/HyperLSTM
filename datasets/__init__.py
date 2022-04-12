@@ -1,1 +1,1 @@
-from .mnist import *
+from .parity import *

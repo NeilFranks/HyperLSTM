@@ -32,7 +32,7 @@ class ParityDataset(Dataset):
         return sequence, parity
 
     def encode(self, sequence, parity):
-        return np.expand_dims(sequence, 0), np.expand_dims(np.array([parity]), 0)
+        return np.expand_dims(sequence, 0), np.expand_dims(np.array([float(parity)]), 0)
 
 if __name__ == '__main__':
     n = 1024
