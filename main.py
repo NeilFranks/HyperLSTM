@@ -1,64 +1,43 @@
-# Copyright 2022 The Flax Authors.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
+import sys, os
 
-"""Main file for running the SST2 example.
-This file is intentionally kept short. The majority for logic is in libraries
-that can be easily tested and imported in Colab.
-"""
+import torch
+from torch import nn
+from torch.utils.data import DataLoader, random_split
+from torchvision import transforms
+import pytorch_lightning as pl
 
-from absl import app
-from absl import flags
-from absl import logging
-# from clu import platform
-import jax
-from ml_collections import config_flags
-import tensorflow as tf
+from models   import *
+from custom_datasets import *
+from datasets import load_dataset
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
-from models.hyperlstm import train
+AVAIL_GPUS = min(1, torch.cuda.device_count())
 
+def main(*args):
+    pl.seed_everything(42, workers=True)
+    dm = GLUEDataModule(model_name_or_path="albert-base-v2", task_name="cola")
+    dm.setup("fit")
+    model = GLUETransformer(
+        model_name_or_path="albert-base-v2",
+        num_labels=dm.num_labels,
+        eval_splits=dm.eval_splits,
+        task_name=dm.task_name,
+    )
 
-FLAGS = flags.FLAGS
+    trainer = pl.Trainer(max_epochs=1, gpus=AVAIL_GPUS)
+    trainer.fit(model, datamodule=dm)
 
-flags.DEFINE_string('workdir', None, 'Directory to store model data.')
-config_flags.DEFINE_config_file(
-    'config',
-    None,
-    'File path to the training hyperparameter configuration.',
-    lock_config=True)
-flags.mark_flags_as_required(['config', 'workdir'])
+    # test = dataset = load_dataset('glue', 'mrpc', split='train')
+    # print(test)
+    # 1/0
+    # dataset = MNIST(os.getcwd(), download=True, transform=transforms.ToTensor())
+    # train, val = random_split(dataset, [55000, 5000])
 
+    # # model = LitAutoEncoder()
+    # model = MNISTModel()
 
-def main(argv):
-  if len(argv) > 1:
-    raise app.UsageError('Too many command-line arguments.')
-
-  # Hide any GPUs from TensorFlow. Otherwise TF might reserve memory and make
-  # it unavailable to JAX.
-  tf.config.experimental.set_visible_devices([], 'GPU')
-
-  logging.info('JAX process: %d / %d', jax.process_index(), jax.process_count())
-  logging.info('JAX local devices: %r', jax.local_devices())
-
-  # Add a note so that we can tell which task is which JAX host.
-  # (Depending on the platform task 0 is not guaranteed to be host 0)
-  # platform.work_unit().set_task_status(f'process_index: {jax.process_index()}, '
-  #                                      f'process_count: {jax.process_count()}')
-  # platform.work_unit().create_artifact(platform.ArtifactType.DIRECTORY,
-  #                                      FLAGS.workdir, 'workdir')
-
-  train.train_and_evaluate(FLAGS.config, FLAGS.workdir)
-
+    # trainer = pl.Trainer(deterministic=True)
+    # trainer.fit(model, DataLoader(train), DataLoader(val))
 
 if __name__ == '__main__':
-  app.run(main)
+    main(sys.argv[1:])
