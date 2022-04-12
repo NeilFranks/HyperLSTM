@@ -1,0 +1,721 @@
+Year,Month,Day,Home_ID,Home_name,Home_wins_last10,Home_wins_VERSUS_last2,Home_goals_lastGame,Home_assists_lastGame,Home_GA_startingGoalie,Home_SA_startingGoalie,Home_GA_allGoalies,Home_SA_allGoalies,Away_ID,Away_name,Away_wins_last10,Away_wins_VERSUS_last2,Away_goals_lastGame,Away_assists_lastGame,Away_GA_startingGoalie,Away_SA_startingGoalie,Away_GA_allGoalies,Away_SA_allGoalies,Home_Won
+2013,1,19,6,Boston Bruins,7,1,3,4,1,12,10,112,10,New York Rangers,6,1,4,2,4,17,8,48,True
+2013,1,19,43,Dallas Stars,3,1,3,5,2,31,6,78,47,Phoenix Coyotes,7,1,2,5,1,24,7,83,True
+2013,1,19,45,Florida Panthers,2,1,1,2,4,23,8,86,48,Carolina Hurricanes,5,1,1,4,1,31,6,107,True
+2013,1,19,22,Los Angeles Kings,5,2,2,3,3,23,6,46,40,Chicago Blackhawks,6,0,2,5,2,32,6,62,False
+2013,1,19,52,Minnesota Wild,5,0,1,2,4,28,8,74,46,Colorado Avalanche,3,2,1,1,4,27,10,56,True
+2013,1,19,0,Montreal Canadiens,3,1,5,2,4,29,5,60,13,Toronto Maple Leafs,3,1,1,3,3,26,16,114,False
+2013,1,19,49,Nashville Predators,6,2,6,8,0,10,1,45,51,Columbus Blue Jackets,6,0,7,12,4,23,9,85,False
+2013,1,19,28,New York Islanders,5,0,5,4,2,32,17,162,39,New Jersey Devils,7,2,3,5,2,33,3,53,False
+2013,1,19,23,Philadelphia Flyers,5,1,2,6,1,26,3,60,20,Pittsburgh Penguins,6,1,5,5,1,15,2,28,False
+2013,1,19,21,St. Louis Blues,4,0,3,4,2,35,6,67,16,Detroit Red Wings,4,2,3,3,2,33,10,88,True
+2013,1,19,42,Tampa Bay Lightning,6,1,4,5,1,35,13,109,30,Washington Capitals,6,1,4,4,1,36,1,56,True
+2013,1,19,25,Vancouver Canucks,8,1,2,5,3,28,3,45,53,Anaheim Ducks,4,1,2,2,5,23,11,72,False
+2013,1,19,36,Winnipeg Jets,3,1,4,6,4,25,9,57,2,Ottawa Senators,4,1,1,2,3,34,14,126,False
+2013,1,20,26,Buffalo Sabres,6,0,3,3,2,35,6,91,23,Philadelphia Flyers,5,2,1,2,2,26,4,60,True
+2013,1,20,38,Calgary Flames,3,2,2,6,2,34,7,84,41,San Jose Sharks,7,0,3,5,2,25,2,31,False
+2013,1,20,52,Minnesota Wild,5,0,4,8,1,23,6,73,43,Dallas Stars,3,2,4,7,0,0,7,87,True
+2013,1,20,10,New York Rangers,5,0,1,3,3,34,7,65,20,Pittsburgh Penguins,6,2,3,4,0,7,2,47,False
+2013,1,20,47,Phoenix Coyotes,6,2,3,4,4,26,10,85,40,Chicago Blackhawks,6,0,5,8,4,30,6,51,False
+2013,1,20,25,Vancouver Canucks,8,2,3,6,2,12,7,26,35,Edmonton Oilers,4,0,0,0,3,42,9,86,False
+2013,1,21,6,Boston Bruins,8,1,3,4,1,21,10,121,36,Winnipeg Jets,3,1,1,2,4,37,9,69,True
+2013,1,21,51,Columbus Blue Jackets,7,1,2,4,2,34,7,96,16,Detroit Red Wings,4,1,0,0,5,28,14,91,False
+2013,1,21,38,Calgary Flames,3,1,1,3,4,29,9,79,53,Anaheim Ducks,5,1,7,11,3,29,9,78,False
+2013,1,21,49,Nashville Predators,6,0,2,4,2,28,5,58,21,St. Louis Blues,4,2,6,11,0,14,4,46,False
+2013,1,21,28,New York Islanders,4,1,1,2,2,28,17,158,42,Tampa Bay Lightning,6,1,6,10,3,30,15,104,True
+2013,1,21,2,Ottawa Senators,5,1,4,7,1,28,12,120,45,Florida Panthers,3,1,5,9,1,42,5,105,True
+2013,1,21,13,Toronto Maple Leafs,4,1,2,4,1,22,12,106,26,Buffalo Sabres,6,1,5,9,2,29,6,85,False
+2013,1,22,48,Carolina Hurricanes,4,1,1,2,4,12,10,101,42,Tampa Bay Lightning,5,1,3,6,0,3,16,118,False
+2013,1,22,40,Chicago Blackhawks,6,2,6,10,2,21,6,50,21,St. Louis Blues,5,0,3,7,0,13,3,24,True
+2013,1,22,46,Colorado Avalanche,3,2,2,4,4,35,10,64,22,Los Angeles Kings,4,0,2,3,5,22,8,45,True
+2013,1,22,16,Detroit Red Wings,5,2,3,5,3,33,12,96,43,Dallas Stars,3,0,0,0,3,40,8,119,False
+2013,1,22,35,Edmonton Oilers,4,1,2,3,2,29,8,73,41,San Jose Sharks,8,1,4,8,1,32,1,38,False
+2013,1,22,52,Minnesota Wild,6,0,1,2,2,27,5,74,49,Nashville Predators,6,2,3,7,5,28,12,111,False
+2013,1,22,0,Montreal Canadiens,3,0,1,2,2,26,3,57,45,Florida Panthers,3,2,0,0,1,35,8,100,True
+2013,1,22,39,New Jersey Devils,8,1,2,4,1,19,2,39,23,Philadelphia Flyers,4,1,2,4,4,40,7,82,True
+2013,1,22,30,Washington Capitals,5,0,3,6,6,34,9,81,36,Winnipeg Jets,2,2,1,2,1,27,2,61,False
+2013,1,23,10,New York Rangers,5,0,3,5,4,18,5,38,6,Boston Bruins,8,2,1,1,1,27,10,127,True
+2013,1,23,47,Phoenix Coyotes,6,1,3,6,6,31,12,90,51,Columbus Blue Jackets,6,1,3,7,3,38,8,104,True
+2013,1,23,20,Pittsburgh Penguins,7,1,6,9,1,27,5,74,13,Toronto Maple Leafs,4,1,1,2,3,46,13,104,False
+2013,1,23,25,Vancouver Canucks,7,1,2,2,5,14,7,46,38,Calgary Flames,3,1,4,7,5,24,10,74,True
+2013,1,24,48,Carolina Hurricanes,3,1,1,2,4,26,10,115,26,Buffalo Sabres,6,1,2,4,3,40,5,91,True
+2013,1,24,46,Colorado Avalanche,3,0,3,6,1,29,7,58,51,Columbus Blue Jackets,6,2,1,2,3,42,10,108,True
+2013,1,24,43,Dallas Stars,3,1,2,4,1,40,6,119,40,Chicago Blackhawks,6,1,3,6,2,34,6,63,False
+2013,1,24,35,Edmonton Oilers,4,0,3,6,6,17,10,63,22,Los Angeles Kings,3,2,1,2,3,31,6,54,True
+2013,1,24,45,Florida Panthers,3,1,1,2,4,37,11,98,2,Ottawa Senators,6,1,4,6,0,31,11,123,False
+2013,1,24,23,Philadelphia Flyers,3,0,0,0,3,26,7,54,10,New York Rangers,5,2,4,5,3,29,4,49,True
+2013,1,24,41,San Jose Sharks,8,1,6,12,3,29,3,35,47,Phoenix Coyotes,6,1,5,10,1,22,3,56,True
+2013,1,24,21,St. Louis Blues,5,2,2,4,3,11,6,38,49,Nashville Predators,6,0,3,3,3,39,8,113,True
+2013,1,24,13,Toronto Maple Leafs,4,1,5,8,2,20,12,88,28,New York Islanders,5,1,4,7,3,26,18,156,False
+2013,1,24,30,Washington Capitals,5,2,2,4,0,13,7,86,0,Montreal Canadiens,4,0,4,8,1,28,2,59,False
+2013,1,25,53,Anaheim Ducks,5,1,5,10,4,25,10,74,25,Vancouver Canucks,7,1,2,2,2,36,4,68,False
+2013,1,25,6,Boston Bruins,7,1,3,5,4,33,13,133,28,New York Islanders,5,1,7,9,4,21,19,173,True
+2013,1,25,26,Buffalo Sabres,5,1,3,6,1,35,7,88,48,Carolina Hurricanes,4,1,6,7,1,13,9,122,False
+2013,1,25,16,Detroit Red Wings,4,1,1,2,2,32,11,95,52,Minnesota Wild,6,1,1,2,0,24,6,73,True
+2013,1,25,39,New Jersey Devils,8,2,3,4,0,24,1,44,30,Washington Capitals,5,0,1,2,4,22,11,95,True
+2013,1,25,42,Tampa Bay Lightning,5,0,4,6,4,44,17,151,2,Ottawa Senators,7,2,3,4,3,27,12,118,True
+2013,1,25,36,Winnipeg Jets,3,0,4,8,2,34,3,68,20,Pittsburgh Penguins,6,2,2,3,3,34,9,71,True
+2013,1,26,53,Anaheim Ducks,4,0,1,0,0,0,11,111,49,Nashville Predators,5,2,0,0,3,24,8,90,True
+2013,1,26,51,Columbus Blue Jackets,6,0,0,0,5,42,11,94,40,Chicago Blackhawks,7,2,3,6,2,23,6,52,False
+2013,1,26,38,Calgary Flames,3,0,2,3,2,36,7,86,35,Edmonton Oilers,4,2,2,4,1,31,5,77,True
+2013,1,26,43,Dallas Stars,3,0,2,3,1,32,8,120,21,St. Louis Blues,5,2,3,4,0,13,3,40,False
+2013,1,26,45,Florida Panthers,2,1,1,2,2,36,9,97,23,Philadelphia Flyers,4,1,2,5,1,19,5,47,False
+2013,1,26,10,New York Rangers,4,2,1,1,2,33,3,53,13,Toronto Maple Leafs,4,0,4,6,1,8,14,71,True
+2013,1,26,47,Phoenix Coyotes,6,2,4,6,4,34,6,68,22,Los Angeles Kings,3,0,1,1,2,39,5,62,False
+2013,1,26,41,San Jose Sharks,8,2,5,10,0,6,3,41,46,Colorado Avalanche,3,0,4,7,0,33,6,62,True
+2013,1,27,40,Chicago Blackhawks,8,2,3,5,2,26,6,55,16,Detroit Red Wings,4,0,5,10,3,26,12,89,True
+2013,1,27,0,Montreal Canadiens,4,0,4,6,1,31,2,62,39,New Jersey Devils,9,2,3,6,2,28,3,48,True
+2013,1,27,2,Ottawa Senators,6,2,4,6,1,26,14,121,20,Pittsburgh Penguins,6,0,2,3,5,24,9,68,False
+2013,1,27,41,San Jose Sharks,8,1,4,8,3,35,3,59,25,Vancouver Canucks,7,1,5,7,0,30,2,62,True
+2013,1,27,21,St. Louis Blues,5,2,4,6,3,27,6,50,52,Minnesota Wild,6,0,3,6,3,26,11,76,True
+2013,1,27,42,Tampa Bay Lightning,6,2,6,10,4,36,17,143,23,Philadelphia Flyers,4,0,7,11,0,0,5,59,True
+2013,1,27,36,Winnipeg Jets,4,0,4,6,7,37,10,106,28,New York Islanders,4,2,2,2,4,43,19,179,True
+2013,1,27,30,Washington Capitals,4,1,2,2,3,35,10,105,26,Buffalo Sabres,4,1,0,2,2,41,8,94,True
+2013,1,28,48,Carolina Hurricanes,5,2,3,4,3,33,9,150,6,Boston Bruins,7,0,4,8,1,45,11,126,False
+2013,1,28,51,Columbus Blue Jackets,5,1,2,4,4,28,9,76,43,Dallas Stars,2,1,3,5,0,3,8,79,True
+2013,1,28,35,Edmonton Oilers,3,0,3,6,4,35,8,81,46,Colorado Avalanche,3,2,0,0,4,26,4,43,True
+2013,1,28,22,Los Angeles Kings,4,1,4,6,2,33,5,56,25,Vancouver Canucks,6,1,1,1,2,32,6,59,True
+2013,1,28,47,Phoenix Coyotes,6,1,2,3,0,0,6,65,49,Nashville Predators,5,1,2,2,2,22,4,77,True
+2013,1,29,6,Boston Bruins,8,2,5,8,2,26,13,113,39,New Jersey Devils,9,0,3,6,1,20,5,52,True
+2013,1,29,26,Buffalo Sabres,3,2,3,4,3,30,9,83,13,Toronto Maple Leafs,4,0,2,5,4,41,17,104,False
+2013,1,29,16,Detroit Red Wings,4,1,1,2,2,27,11,90,43,Dallas Stars,2,1,1,2,2,27,10,103,True
+2013,1,29,52,Minnesota Wild,5,0,4,8,5,34,13,84,51,Columbus Blue Jackets,5,2,2,4,3,24,6,73,True
+2013,1,29,0,Montreal Canadiens,5,2,4,6,3,25,4,56,36,Winnipeg Jets,5,0,5,8,2,35,7,94,True
+2013,1,29,10,New York Rangers,4,1,5,10,2,17,3,37,23,Philadelphia Flyers,4,1,1,2,1,31,7,82,True
+2013,1,29,2,Ottawa Senators,5,1,1,3,1,34,14,129,30,Washington Capitals,5,1,3,6,2,24,9,94,True
+2013,1,29,20,Pittsburgh Penguins,7,0,1,1,1,32,5,76,28,New York Islanders,3,2,4,6,5,35,17,159,False
+2013,1,29,41,San Jose Sharks,9,0,4,5,1,24,1,48,53,Anaheim Ducks,5,2,2,4,5,34,13,132,True
+2013,1,29,42,Tampa Bay Lightning,7,2,5,10,1,25,14,132,45,Florida Panthers,2,0,1,2,3,9,10,54,True
+2013,1,30,52,Minnesota Wild,5,2,3,6,5,27,10,69,40,Chicago Blackhawks,8,0,2,4,1,30,5,59,True
+2013,1,30,2,Ottawa Senators,5,1,2,5,2,33,15,128,0,Montreal Canadiens,6,1,4,8,1,31,4,52,True
+2013,1,30,47,Phoenix Coyotes,6,2,4,7,0,21,6,86,35,Edmonton Oilers,4,0,4,7,1,38,5,84,False
+2013,1,30,25,Vancouver Canucks,5,2,2,4,2,28,6,55,46,Colorado Avalanche,3,0,1,2,3,26,3,43,True
+2013,1,31,6,Boston Bruins,8,2,1,2,1,26,12,113,26,Buffalo Sabres,3,0,3,6,4,24,10,77,False
+2013,1,31,51,Columbus Blue Jackets,4,1,2,4,1,25,6,75,21,St. Louis Blues,6,1,4,10,4,16,7,39,False
+2013,1,31,38,Calgary Flames,4,0,4,8,3,20,8,70,46,Colorado Avalanche,3,2,0,0,0,17,3,40,False
+2013,1,31,45,Florida Panthers,2,0,3,1,5,33,12,78,36,Winnipeg Jets,4,2,3,5,4,26,9,85,True
+2013,1,31,22,Los Angeles Kings,4,2,2,3,2,23,5,46,49,Nashville Predators,4,0,0,0,4,25,7,83,False
+2013,1,31,39,New Jersey Devils,8,2,1,3,4,32,5,60,28,New York Islanders,4,0,4,6,1,38,13,162,False
+2013,1,31,10,New York Rangers,4,0,2,4,1,27,2,47,20,Pittsburgh Penguins,6,2,1,2,0,7,5,37,False
+2013,1,31,41,San Jose Sharks,10,2,2,5,2,30,2,54,35,Edmonton Oilers,5,0,2,4,1,28,5,74,True
+2013,1,31,13,Toronto Maple Leafs,5,0,4,7,3,32,16,95,30,Washington Capitals,4,2,2,4,3,27,7,94,True
+2013,2,1,53,Anaheim Ducks,4,1,2,4,2,21,10,116,52,Minnesota Wild,5,1,2,3,0,28,5,55,True
+2013,2,1,48,Carolina Hurricanes,4,2,3,4,1,41,10,154,2,Ottawa Senators,5,0,6,10,1,32,14,127,True
+2013,2,1,43,Dallas Stars,2,2,1,2,4,25,9,68,47,Phoenix Coyotes,5,0,1,2,0,4,8,86,True
+2013,2,1,16,Detroit Red Wings,5,1,4,7,1,26,10,89,21,St. Louis Blues,7,1,5,7,3,23,4,48,True
+2013,2,1,42,Tampa Bay Lightning,7,2,5,8,2,28,15,135,36,Winnipeg Jets,4,0,3,5,5,33,10,92,True
+2013,2,1,25,Vancouver Canucks,5,1,3,2,0,24,4,51,40,Chicago Blackhawks,7,1,2,3,2,25,6,54,True
+2013,2,1,30,Washington Capitals,3,0,2,4,4,39,7,107,23,Philadelphia Flyers,3,2,1,2,2,28,10,65,True
+2013,2,2,53,Anaheim Ducks,5,0,3,6,2,18,8,114,22,Los Angeles Kings,3,2,1,2,1,14,4,37,True
+2013,2,2,51,Columbus Blue Jackets,4,1,1,2,0,13,5,48,16,Detroit Red Wings,5,1,5,9,3,26,12,89,True
+2013,2,2,38,Calgary Flames,3,1,3,5,5,21,10,71,40,Chicago Blackhawks,7,1,1,2,4,29,5,51,False
+2013,2,2,46,Colorado Avalanche,4,1,6,8,3,23,6,51,35,Edmonton Oilers,4,1,2,4,2,38,6,84,True
+2013,2,2,0,Montreal Canadiens,6,0,1,2,3,21,8,48,26,Buffalo Sabres,4,2,7,12,4,42,10,95,True
+2013,2,2,23,Philadelphia Flyers,3,1,2,4,3,26,11,63,48,Carolina Hurricanes,5,1,1,1,0,33,9,146,True
+2013,2,2,47,Phoenix Coyotes,4,0,3,5,3,24,11,106,43,Dallas Stars,3,2,3,3,0,2,8,77,True
+2013,2,2,20,Pittsburgh Penguins,7,2,3,6,4,17,5,58,39,New Jersey Devils,7,0,4,7,5,35,6,63,True
+2013,2,2,41,San Jose Sharks,10,1,3,0,2,28,2,52,49,Nashville Predators,5,1,1,2,1,24,5,83,False
+2013,2,2,42,Tampa Bay Lightning,7,1,8,14,1,36,16,136,10,New York Rangers,4,1,0,0,1,20,4,49,False
+2013,2,2,13,Toronto Maple Leafs,5,0,3,5,2,22,15,85,6,Boston Bruins,7,2,4,5,6,31,17,118,False
+2013,2,3,26,Buffalo Sabres,3,1,1,1,4,21,7,48,45,Florida Panthers,3,1,6,8,3,25,10,70,False
+2013,2,3,0,Montreal Canadiens,7,1,6,11,1,31,6,58,2,Ottawa Senators,5,1,0,0,1,35,14,130,True
+2013,2,3,28,New York Islanders,5,1,5,10,4,32,15,142,39,New Jersey Devils,6,1,1,3,1,28,6,58,False
+2013,2,3,30,Washington Capitals,4,1,3,3,2,31,5,99,20,Pittsburgh Penguins,7,1,5,8,0,28,2,57,False
+2013,2,4,53,Anaheim Ducks,6,1,7,10,1,27,14,109,41,San Jose Sharks,9,1,1,1,0,24,1,48,True
+2013,2,4,46,Colorado Avalanche,4,1,3,4,1,26,4,54,43,Dallas Stars,3,1,0,1,3,34,10,109,False
+2013,2,4,35,Edmonton Oilers,4,1,1,2,2,39,6,85,25,Vancouver Canucks,5,1,1,2,1,28,5,55,False
+2013,2,4,47,Phoenix Coyotes,4,1,2,3,0,17,8,99,52,Minnesota Wild,5,1,1,1,3,31,8,58,True
+2013,2,4,13,Toronto Maple Leafs,5,0,0,0,1,34,14,97,48,Carolina Hurricanes,5,2,3,5,1,12,10,100,False
+2013,2,5,51,Columbus Blue Jackets,4,1,3,5,2,34,7,69,22,Los Angeles Kings,3,1,4,7,2,3,6,24,False
+2013,2,5,16,Detroit Red Wings,4,1,2,3,4,28,13,91,38,Calgary Flames,3,1,2,4,2,19,7,69,False
+2013,2,5,39,New Jersey Devils,6,1,3,5,5,30,5,52,10,New York Rangers,4,1,3,5,3,29,5,61,True
+2013,2,5,28,New York Islanders,5,2,0,0,2,26,13,136,20,Pittsburgh Penguins,7,0,6,12,1,16,5,53,False
+2013,2,5,2,Ottawa Senators,5,1,1,2,2,32,15,127,26,Buffalo Sabres,3,1,3,5,2,11,7,60,True
+2013,2,5,23,Philadelphia Flyers,3,0,5,9,3,42,11,79,42,Tampa Bay Lightning,7,2,2,5,3,29,18,130,True
+2013,2,5,41,San Jose Sharks,8,1,1,2,1,24,3,56,40,Chicago Blackhawks,8,1,2,4,1,22,3,69,False
+2013,2,5,21,St. Louis Blues,7,2,3,7,2,19,4,30,49,Nashville Predators,5,0,1,1,1,27,4,81,False
+2013,2,5,36,Winnipeg Jets,3,1,3,6,5,14,9,59,45,Florida Panthers,4,1,4,6,4,17,10,65,True
+2013,2,5,30,Washington Capitals,3,1,3,5,3,40,12,90,13,Toronto Maple Leafs,4,1,1,2,5,25,17,102,False
+2013,2,6,46,Colorado Avalanche,4,2,2,4,3,26,6,54,53,Anaheim Ducks,7,0,2,2,1,26,14,108,False
+2013,2,6,35,Edmonton Oilers,4,0,2,3,3,40,7,86,43,Dallas Stars,4,2,3,4,2,31,9,106,False
+2013,2,6,0,Montreal Canadiens,7,0,2,4,1,33,6,60,6,Boston Bruins,8,2,1,2,0,21,11,108,False
+2013,2,7,26,Buffalo Sabres,3,1,3,5,4,33,9,73,0,Montreal Canadiens,7,1,1,2,5,27,7,50,True
+2013,2,7,51,Columbus Blue Jackets,3,1,2,4,3,11,9,66,38,Calgary Flames,4,1,4,4,0,6,3,51,False
+2013,2,7,52,Minnesota Wild,4,1,1,0,2,34,7,61,25,Vancouver Canucks,6,1,3,6,4,27,6,52,False
+2013,2,7,39,New Jersey Devils,6,1,3,6,1,25,1,47,42,Tampa Bay Lightning,7,1,1,4,2,24,17,125,True
+2013,2,7,49,Nashville Predators,5,1,6,12,1,32,6,89,22,Los Angeles Kings,3,1,4,8,2,20,6,41,True
+2013,2,7,10,New York Rangers,4,1,2,1,3,22,5,54,28,New York Islanders,4,1,2,4,3,25,14,135,True
+2013,2,7,2,Ottawa Senators,6,0,4,6,3,23,16,118,48,Carolina Hurricanes,5,2,4,8,1,42,10,130,False
+2013,2,7,23,Philadelphia Flyers,4,1,2,4,1,22,10,78,45,Florida Panthers,4,1,2,4,3,20,9,69,False
+2013,2,7,47,Phoenix Coyotes,4,1,2,4,1,22,9,104,40,Chicago Blackhawks,8,1,5,7,2,47,5,80,False
+2013,2,7,20,Pittsburgh Penguins,7,2,4,5,2,34,6,71,30,Washington Capitals,2,0,2,4,3,21,12,71,True
+2013,2,7,21,St. Louis Blues,7,1,1,2,4,11,8,30,16,Detroit Red Wings,4,1,1,2,0,0,13,86,False
+2013,2,7,36,Winnipeg Jets,4,1,3,5,2,19,6,64,13,Toronto Maple Leafs,5,1,3,4,4,39,14,103,False
+2013,2,8,43,Dallas Stars,4,2,3,6,2,29,9,104,53,Anaheim Ducks,7,0,3,5,4,34,13,113,True
+2013,2,9,16,Detroit Red Wings,5,1,5,8,4,23,14,113,35,Edmonton Oilers,4,1,2,4,4,32,7,74,True
+2013,2,9,52,Minnesota Wild,4,0,1,2,4,16,7,45,49,Nashville Predators,5,2,3,6,1,30,5,89,True
+2013,2,9,0,Montreal Canadiens,6,1,4,8,2,23,6,63,13,Toronto Maple Leafs,5,1,3,3,2,25,12,89,False
+2013,2,9,39,New Jersey Devils,6,0,4,6,2,19,2,41,20,Pittsburgh Penguins,7,2,5,9,2,25,6,62,True
+2013,2,9,28,New York Islanders,4,0,1,1,3,24,14,134,26,Buffalo Sabres,3,2,4,6,4,32,9,72,False
+2013,2,9,2,Ottawa Senators,5,2,2,4,5,30,16,121,36,Winnipeg Jets,4,0,2,4,3,11,8,65,False
+2013,2,9,23,Philadelphia Flyers,4,2,2,4,2,24,11,80,48,Carolina Hurricanes,5,0,3,7,2,47,11,135,True
+2013,2,9,41,San Jose Sharks,7,1,3,6,4,30,6,62,47,Phoenix Coyotes,4,1,2,3,6,22,10,84,False
+2013,2,9,21,St. Louis Blues,6,1,1,2,5,29,9,48,53,Anaheim Ducks,7,1,1,2,1,12,12,76,False
+2013,2,9,25,Vancouver Canucks,6,1,4,6,1,23,3,48,38,Calgary Flames,5,1,3,8,3,29,6,74,True
+2013,2,9,30,Washington Capitals,2,2,2,4,3,17,8,52,45,Florida Panthers,4,0,2,4,2,32,8,81,True
+2013,2,10,26,Buffalo Sabres,3,1,3,5,2,43,7,83,6,Boston Bruins,8,1,2,4,3,32,12,108,False
+2013,2,10,51,Columbus Blue Jackets,2,0,4,5,4,30,10,85,35,Edmonton Oilers,3,2,1,2,3,28,5,72,False
+2013,2,10,16,Detroit Red Wings,6,1,2,4,1,24,11,114,22,Los Angeles Kings,3,1,0,0,3,14,7,35,True
+2013,2,10,49,Nashville Predators,5,1,1,1,0,32,6,91,40,Chicago Blackhawks,8,1,6,10,3,33,5,57,False
+2013,2,10,10,New York Rangers,5,1,4,5,1,28,3,60,42,Tampa Bay Lightning,6,1,2,3,3,30,19,128,True
+2013,2,10,20,Pittsburgh Penguins,6,1,1,2,3,24,7,65,39,New Jersey Devils,6,1,3,6,0,22,1,47,False
+2013,2,11,51,Columbus Blue Jackets,2,1,1,2,4,31,8,68,41,San Jose Sharks,6,1,0,0,2,32,2,53,True
+2013,2,11,38,Calgary Flames,4,1,1,2,5,31,8,76,52,Minnesota Wild,4,1,2,4,1,26,4,55,False
+2013,2,11,46,Colorado Avalanche,4,0,0,0,3,20,6,48,47,Phoenix Coyotes,5,2,0,0,0,33,4,95,False
+2013,2,11,28,New York Islanders,4,2,2,4,4,27,11,147,48,Carolina Hurricanes,5,0,3,6,4,32,13,120,False
+2013,2,11,21,St. Louis Blues,5,1,5,10,5,23,9,42,22,Los Angeles Kings,3,1,2,4,4,21,7,52,False
+2013,2,11,13,Toronto Maple Leafs,6,0,6,9,0,37,10,101,23,Philadelphia Flyers,5,2,4,7,3,33,10,72,True
+2013,2,12,6,Boston Bruins,8,1,3,5,1,21,10,102,10,New York Rangers,6,1,5,6,1,20,3,52,False
+2013,2,12,40,Chicago Blackhawks,8,1,3,4,0,17,2,41,53,Anaheim Ducks,7,1,5,10,5,31,16,95,False
+2013,2,12,35,Edmonton Oilers,4,0,3,4,1,40,3,84,43,Dallas Stars,5,2,3,6,1,21,8,96,False
+2013,2,12,45,Florida Panthers,3,0,0,0,0,4,8,53,30,Washington Capitals,3,2,5,8,0,27,5,61,False
+2013,2,12,39,New Jersey Devils,6,1,3,4,1,25,2,49,48,Carolina Hurricanes,6,1,6,10,4,28,11,101,False
+2013,2,12,49,Nashville Predators,5,1,0,0,3,27,7,72,41,San Jose Sharks,5,1,2,4,0,21,6,57,True
+2013,2,12,2,Ottawa Senators,4,1,0,0,3,26,12,128,26,Buffalo Sabres,3,1,1,2,2,38,7,78,True
+2013,2,12,42,Tampa Bay Lightning,5,1,1,2,2,13,17,103,0,Montreal Canadiens,6,1,0,0,6,28,10,68,False
+2013,2,12,25,Vancouver Canucks,7,1,5,10,2,25,3,59,52,Minnesota Wild,4,1,1,2,0,0,4,53,True
+2013,2,12,36,Winnipeg Jets,5,1,1,2,0,33,5,87,23,Philadelphia Flyers,5,1,2,5,4,14,12,63,False
+2013,2,13,38,Calgary Flames,3,1,1,5,1,24,4,69,43,Dallas Stars,5,1,4,6,2,34,8,111,True
+2013,2,13,16,Detroit Red Wings,6,2,3,4,2,47,12,137,21,St. Louis Blues,4,0,1,2,2,8,8,42,False
+2013,2,13,20,Pittsburgh Penguins,6,1,1,3,3,28,7,64,2,Ottawa Senators,4,1,2,2,0,42,9,144,True
+2013,2,14,48,Carolina Hurricanes,7,2,4,6,4,12,9,101,13,Toronto Maple Leafs,6,0,4,9,1,33,10,84,True
+2013,2,14,45,Florida Panthers,3,1,5,8,5,21,14,78,0,Montreal Canadiens,6,1,3,5,3,24,7,64,False
+2013,2,14,52,Minnesota Wild,4,1,1,2,1,24,6,83,46,Colorado Avalanche,4,1,2,3,3,28,6,58,False
+2013,2,14,49,Nashville Predators,5,1,1,2,0,25,5,91,47,Phoenix Coyotes,5,1,3,4,2,43,6,105,True
+2013,2,14,10,New York Rangers,7,2,3,2,2,32,5,72,28,New York Islanders,3,0,4,9,3,15,14,129,False
+2013,2,14,42,Tampa Bay Lightning,5,2,3,6,3,19,18,124,30,Washington Capitals,4,0,6,10,5,32,10,66,False
+2013,2,15,26,Buffalo Sabres,3,1,0,0,2,31,7,71,6,Boston Bruins,7,1,3,6,1,26,12,110,True
+2013,2,15,38,Calgary Flames,4,0,8,13,4,34,7,79,21,St. Louis Blues,5,2,4,6,3,18,9,52,False
+2013,2,15,40,Chicago Blackhawks,7,1,2,3,2,24,4,55,41,San Jose Sharks,4,1,0,0,1,25,7,61,True
+2013,2,15,16,Detroit Red Wings,6,1,2,5,4,25,13,112,53,Anaheim Ducks,7,1,2,4,2,30,10,105,False
+2013,2,15,22,Los Angeles Kings,4,1,4,7,1,22,4,53,51,Columbus Blue Jackets,3,1,5,11,2,13,6,64,True
+2013,2,15,39,New Jersey Devils,5,1,2,2,3,24,4,48,23,Philadelphia Flyers,5,1,3,5,2,26,10,84,True
+2013,2,15,25,Vancouver Canucks,8,2,2,5,1,34,2,60,43,Dallas Stars,5,0,4,7,1,36,12,99,False
+2013,2,15,36,Winnipeg Jets,5,1,2,3,1,11,5,59,20,Pittsburgh Penguins,7,1,4,8,2,29,6,65,False
+2013,2,16,35,Edmonton Oilers,3,1,1,1,4,29,6,73,46,Colorado Avalanche,4,1,3,6,3,30,6,59,True
+2013,2,16,45,Florida Panthers,3,0,0,0,1,32,10,89,42,Tampa Bay Lightning,4,2,3,4,3,34,19,144,False
+2013,2,16,0,Montreal Canadiens,6,0,1,1,4,40,4,66,23,Philadelphia Flyers,4,2,3,5,1,10,12,76,True
+2013,2,16,49,Nashville Predators,6,1,3,6,0,19,7,81,53,Anaheim Ducks,8,1,5,6,2,28,10,103,False
+2013,2,16,28,New York Islanders,3,1,3,3,3,39,14,153,39,New Jersey Devils,6,1,5,8,1,24,4,52,True
+2013,2,16,47,Phoenix Coyotes,5,2,0,0,3,29,7,91,51,Columbus Blue Jackets,3,0,1,3,2,27,6,73,True
+2013,2,16,13,Toronto Maple Leafs,6,2,1,2,3,33,12,84,2,Ottawa Senators,4,0,2,3,4,30,13,132,True
+2013,2,17,26,Buffalo Sabres,4,1,4,8,2,32,7,72,20,Pittsburgh Penguins,7,1,3,6,1,26,5,62,False
+2013,2,17,40,Chicago Blackhawks,7,1,4,6,1,28,3,59,22,Los Angeles Kings,5,1,2,1,3,31,4,44,True
+2013,2,17,43,Dallas Stars,6,0,4,8,3,21,8,69,38,Calgary Flames,4,2,2,3,3,21,8,70,False
+2013,2,17,52,Minnesota Wild,4,0,3,5,2,30,8,91,16,Detroit Red Wings,5,2,3,4,1,27,13,132,True
+2013,2,17,10,New York Rangers,6,1,3,6,3,40,6,71,30,Washington Capitals,5,1,4,8,3,30,8,64,True
+2013,2,17,25,Vancouver Canucks,7,2,3,5,1,26,5,55,21,St. Louis Blues,5,0,5,8,2,32,8,66,False
+2013,2,17,36,Winnipeg Jets,4,1,1,2,2,27,6,75,6,Boston Bruins,6,1,2,4,3,29,15,110,False
+2013,2,18,53,Anaheim Ducks,8,1,2,4,2,16,10,109,51,Columbus Blue Jackets,3,1,4,5,2,22,8,80,True
+2013,2,18,46,Colorado Avalanche,3,0,4,8,5,55,8,84,49,Nashville Predators,6,2,2,4,2,32,9,84,True
+2013,2,18,45,Florida Panthers,3,2,5,9,6,36,15,93,13,Toronto Maple Leafs,7,0,2,4,0,34,9,85,False
+2013,2,18,0,Montreal Canadiens,6,0,3,7,1,19,1,45,48,Carolina Hurricanes,7,2,3,3,2,28,8,130,True
+2013,2,18,39,New Jersey Devils,6,2,1,3,3,28,8,61,2,Ottawa Senators,4,0,0,0,1,37,11,130,False
+2013,2,18,28,New York Islanders,4,0,5,10,1,31,12,145,23,Philadelphia Flyers,4,2,1,2,4,18,15,101,False
+2013,2,18,47,Phoenix Coyotes,6,0,4,10,3,20,7,82,38,Calgary Flames,5,2,4,8,0,0,8,79,True
+2013,2,19,26,Buffalo Sabres,4,0,3,6,4,35,9,75,36,Winnipeg Jets,3,2,2,3,3,26,11,60,False
+2013,2,19,40,Chicago Blackhawks,7,1,2,5,2,27,4,58,25,Vancouver Canucks,6,1,4,4,4,29,7,52,True
+2013,2,19,35,Edmonton Oilers,4,1,6,11,1,17,4,43,22,Los Angeles Kings,5,1,2,4,3,37,4,50,False
+2013,2,19,49,Nashville Predators,6,2,5,8,0,10,11,58,16,Detroit Red Wings,5,0,2,5,4,36,15,129,True
+2013,2,19,10,New York Rangers,7,1,2,3,1,28,4,59,0,Montreal Canadiens,6,1,3,6,0,26,0,45,False
+2013,2,19,2,Ottawa Senators,4,2,1,2,2,28,11,124,28,New York Islanders,4,0,0,0,5,30,18,139,True
+2013,2,19,21,St. Louis Blues,5,2,3,6,3,31,9,65,41,San Jose Sharks,3,0,1,2,4,37,10,73,False
+2013,2,19,42,Tampa Bay Lightning,4,0,6,11,5,30,21,140,13,Toronto Maple Leafs,7,2,3,5,0,37,10,98,True
+2013,2,20,38,Calgary Flames,4,1,0,0,3,30,12,116,22,Los Angeles Kings,5,1,3,7,1,13,2,37,False
+2013,2,20,46,Colorado Avalanche,4,0,6,10,5,38,8,67,21,St. Louis Blues,4,2,1,2,2,11,8,59,True
+2013,2,20,20,Pittsburgh Penguins,8,2,4,8,3,23,7,69,23,Philadelphia Flyers,5,0,7,14,0,19,11,102,False
+2013,2,21,48,Carolina Hurricanes,6,1,0,0,3,26,9,128,36,Winnipeg Jets,3,1,2,3,1,30,9,64,False
+2013,2,21,43,Dallas Stars,6,1,3,5,4,29,9,74,25,Vancouver Canucks,6,1,3,5,3,43,6,66,False
+2013,2,21,16,Detroit Red Wings,4,1,3,3,2,7,14,113,51,Columbus Blue Jackets,2,1,2,4,3,29,9,87,False
+2013,2,21,35,Edmonton Oilers,3,1,1,2,3,12,5,63,52,Minnesota Wild,5,1,3,3,3,32,8,92,False
+2013,2,21,0,Montreal Canadiens,7,1,3,4,1,25,1,44,28,New York Islanders,3,1,1,2,7,25,16,135,False
+2013,2,21,2,Ottawa Senators,4,2,3,5,1,38,10,134,10,New York Rangers,6,0,1,2,2,17,5,48,True
+2013,2,21,23,Philadelphia Flyers,6,1,6,11,5,32,15,116,45,Florida Panthers,3,1,0,0,6,29,12,90,False
+2013,2,21,42,Tampa Bay Lightning,4,1,4,7,2,25,18,135,6,Boston Bruins,7,1,3,6,2,24,14,105,False
+2013,2,21,13,Toronto Maple Leafs,6,1,2,4,4,13,7,50,26,Buffalo Sabres,3,1,1,1,2,28,7,68,True
+2013,2,21,30,Washington Capitals,4,0,1,2,2,40,10,83,39,New Jersey Devils,6,2,1,1,1,30,6,63,False
+2013,2,22,40,Chicago Blackhawks,7,2,4,6,3,32,5,63,41,San Jose Sharks,3,0,2,3,1,26,7,62,True
+2013,2,22,49,Nashville Predators,6,1,4,6,3,29,13,73,25,Vancouver Canucks,7,1,4,8,3,23,6,48,False
+2013,2,22,20,Pittsburgh Penguins,7,2,5,9,3,33,10,78,45,Florida Panthers,4,0,5,7,3,27,8,95,True
+2013,2,23,26,Buffalo Sabres,3,2,1,1,3,36,8,76,28,New York Islanders,3,0,4,8,3,33,12,143,False
+2013,2,23,48,Carolina Hurricanes,6,1,3,4,1,23,8,108,42,Tampa Bay Lightning,3,1,2,4,4,39,20,136,False
+2013,2,23,38,Calgary Flames,4,0,3,2,3,33,12,119,52,Minnesota Wild,5,2,3,3,1,28,6,88,True
+2013,2,23,43,Dallas Stars,6,0,3,4,4,22,9,67,41,San Jose Sharks,2,2,1,3,2,34,8,70,True
+2013,2,23,16,Detroit Red Wings,3,0,2,3,3,24,13,128,49,Nashville Predators,5,2,0,0,1,24,11,68,True
+2013,2,23,35,Edmonton Oilers,2,1,1,2,2,37,5,79,47,Phoenix Coyotes,6,1,4,8,0,30,4,92,True
+2013,2,23,22,Los Angeles Kings,5,0,3,6,1,24,2,51,46,Colorado Avalanche,5,2,1,1,0,33,3,62,True
+2013,2,23,0,Montreal Canadiens,6,1,4,5,4,25,4,44,10,New York Rangers,5,1,2,4,3,31,5,68,True
+2013,2,23,2,Ottawa Senators,5,0,2,3,2,13,10,99,13,Toronto Maple Leafs,7,2,3,6,1,32,4,69,True
+2013,2,23,23,Philadelphia Flyers,5,2,2,4,4,15,12,82,36,Winnipeg Jets,4,0,4,4,3,30,11,64,True
+2013,2,23,21,St. Louis Blues,3,1,0,0,1,20,7,68,51,Columbus Blue Jackets,3,1,3,5,2,30,8,88,True
+2013,2,23,30,Washington Capitals,4,0,2,3,3,37,11,80,39,New Jersey Devils,7,2,3,5,5,33,7,52,True
+2013,2,24,53,Anaheim Ducks,9,1,3,5,2,27,14,136,46,Colorado Avalanche,5,1,1,2,3,29,7,55,True
+2013,2,24,38,Calgary Flames,5,1,3,3,1,31,10,117,47,Phoenix Coyotes,6,1,2,4,2,43,6,105,True
+2013,2,24,40,Chicago Blackhawks,8,2,2,6,2,31,3,58,51,Columbus Blue Jackets,3,0,1,1,4,34,8,81,True
+2013,2,24,16,Detroit Red Wings,4,1,4,7,0,33,13,133,25,Vancouver Canucks,7,1,1,2,0,23,3,48,True
+2013,2,24,45,Florida Panthers,3,1,1,1,3,40,8,108,6,Boston Bruins,7,1,4,6,2,26,14,107,False
+2013,2,24,39,New Jersey Devils,6,2,1,2,5,26,7,45,36,Winnipeg Jets,4,0,3,6,4,38,12,72,False
+2013,2,24,28,New York Islanders,4,1,4,7,2,37,9,145,48,Carolina Hurricanes,5,1,2,4,4,23,12,124,False
+2013,2,24,20,Pittsburgh Penguins,7,2,3,4,1,23,8,68,42,Tampa Bay Lightning,3,0,5,8,4,26,18,131,True
+2013,2,25,40,Chicago Blackhawks,9,0,1,2,1,27,1,55,35,Edmonton Oilers,3,2,1,4,2,36,5,78,True
+2013,2,25,22,Los Angeles Kings,6,1,4,7,1,24,2,51,53,Anaheim Ducks,9,1,4,8,2,34,15,132,True
+2013,2,25,49,Nashville Predators,4,2,0,0,4,27,13,55,43,Dallas Stars,6,0,3,6,1,32,6,77,True
+2013,2,25,2,Ottawa Senators,6,1,3,6,2,28,10,114,0,Montreal Canadiens,6,1,3,4,0,17,0,36,True
+2013,2,25,23,Philadelphia Flyers,5,1,5,9,3,37,11,97,13,Toronto Maple Leafs,7,1,2,4,3,35,6,72,False
+2013,2,26,51,Columbus Blue Jackets,2,1,0,0,2,23,5,74,43,Dallas Stars,6,1,4,5,4,26,10,76,False
+2013,2,26,45,Florida Panthers,2,0,1,2,3,33,8,99,20,Pittsburgh Penguins,7,2,5,8,6,32,10,75,True
+2013,2,26,52,Minnesota Wild,4,1,1,2,2,26,7,86,38,Calgary Flames,5,1,5,10,4,27,13,113,True
+2013,2,26,28,New York Islanders,4,0,2,3,0,35,10,135,6,Boston Bruins,7,2,4,6,1,35,13,116,False
+2013,2,26,10,New York Rangers,5,2,0,0,2,37,5,55,36,Winnipeg Jets,5,0,4,6,2,26,10,60,False
+2013,2,26,41,San Jose Sharks,1,2,1,1,3,28,9,64,46,Colorado Avalanche,4,0,3,6,4,26,8,65,True
+2013,2,26,42,Tampa Bay Lightning,3,1,3,6,1,11,16,92,26,Buffalo Sabres,3,1,0,1,4,32,9,72,False
+2013,2,26,25,Vancouver Canucks,6,0,3,3,3,25,11,53,47,Phoenix Coyotes,6,2,4,6,5,31,9,93,False
+2013,2,26,30,Washington Capitals,5,0,5,7,1,22,7,55,48,Carolina Hurricanes,6,2,4,6,2,25,10,126,True
+2013,2,27,53,Anaheim Ducks,8,2,2,3,4,24,17,122,49,Nashville Predators,4,0,5,10,4,24,13,52,True
+2013,2,27,22,Los Angeles Kings,7,1,5,10,1,27,3,53,16,Detroit Red Wings,5,1,8,13,3,21,14,124,True
+2013,2,27,23,Philadelphia Flyers,5,1,2,4,3,21,14,97,30,Washington Capitals,5,1,3,6,0,33,6,66,True
+2013,2,27,13,Toronto Maple Leafs,7,2,4,7,2,25,5,62,0,Montreal Canadiens,6,0,1,5,1,24,1,43,False
+2013,2,28,6,Boston Bruins,7,1,4,8,1,37,13,118,2,Ottawa Senators,6,1,1,2,4,28,9,131,True
+2013,2,28,48,Carolina Hurricanes,5,0,0,2,3,40,11,141,20,Pittsburgh Penguins,6,2,4,6,1,13,6,48,True
+2013,2,28,46,Colorado Avalanche,3,2,2,4,2,41,6,80,38,Calgary Flames,4,0,1,2,2,30,11,116,True
+2013,2,28,43,Dallas Stars,6,2,5,10,0,7,10,70,35,Edmonton Oilers,3,0,2,3,3,28,6,76,False
+2013,2,28,45,Florida Panthers,3,2,6,11,0,15,7,66,26,Buffalo Sabres,4,0,2,4,1,31,6,71,False
+2013,2,28,28,New York Islanders,4,2,1,2,3,33,13,133,13,Toronto Maple Leafs,6,0,2,3,1,13,8,77,False
+2013,2,28,10,New York Rangers,4,2,3,7,4,32,7,50,42,Tampa Bay Lightning,3,0,1,2,2,21,17,102,True
+2013,2,28,47,Phoenix Coyotes,6,2,4,5,2,31,6,93,52,Minnesota Wild,5,0,2,4,1,21,6,81,False
+2013,2,28,41,San Jose Sharks,2,1,2,4,2,27,8,63,16,Detroit Red Wings,4,1,1,1,2,18,16,138,False
+2013,2,28,21,St. Louis Blues,4,0,2,3,1,20,7,68,40,Chicago Blackhawks,9,2,3,5,0,28,2,47,False
+2013,2,28,36,Winnipeg Jets,5,1,4,8,3,33,5,56,39,New Jersey Devils,5,1,2,4,4,27,6,46,True
+2013,3,1,53,Anaheim Ducks,8,2,5,10,3,23,14,119,52,Minnesota Wild,6,0,4,8,2,31,8,88,True
+2013,3,1,40,Chicago Blackhawks,9,2,3,5,0,15,0,21,51,Columbus Blue Jackets,2,0,4,7,1,27,8,90,True
+2013,3,1,21,St. Louis Blues,4,2,0,0,3,23,9,71,35,Edmonton Oilers,4,0,5,9,1,34,4,82,True
+2013,3,2,6,Boston Bruins,8,2,2,3,4,26,13,112,42,Tampa Bay Lightning,3,0,1,2,4,42,19,123,True
+2013,3,2,26,Buffalo Sabres,4,1,3,4,3,43,8,83,39,New Jersey Devils,4,1,1,2,2,20,4,39,True
+2013,3,2,48,Carolina Hurricanes,5,0,4,9,1,27,9,128,45,Florida Panthers,2,2,3,5,0,15,6,57,True
+2013,3,2,0,Montreal Canadiens,7,1,5,7,2,23,2,42,20,Pittsburgh Penguins,5,1,1,2,4,22,9,64,False
+2013,3,2,23,Philadelphia Flyers,5,0,4,7,1,24,12,100,2,Ottawa Senators,6,2,1,2,1,45,7,149,True
+2013,3,2,47,Phoenix Coyotes,5,1,3,6,4,19,8,74,53,Anaheim Ducks,8,1,3,6,1,21,13,129,True
+2013,3,2,41,San Jose Sharks,2,0,1,2,1,34,7,70,49,Nashville Predators,4,2,1,2,5,21,8,38,True
+2013,3,2,25,Vancouver Canucks,5,1,2,3,3,21,11,49,22,Los Angeles Kings,7,1,2,4,2,26,3,59,True
+2013,3,2,36,Winnipeg Jets,6,2,3,6,1,23,3,46,30,Washington Capitals,5,0,1,3,4,18,12,82,False
+2013,3,3,6,Boston Bruins,8,2,3,5,1,31,11,108,0,Montreal Canadiens,7,0,6,11,0,19,7,55,False
+2013,3,3,51,Columbus Blue Jackets,2,1,3,5,5,39,11,98,46,Colorado Avalanche,4,1,5,9,4,23,8,62,True
+2013,3,3,38,Calgary Flames,4,0,4,8,4,37,14,122,25,Vancouver Canucks,5,2,5,8,8,28,10,58,True
+2013,3,3,43,Dallas Stars,5,0,1,2,5,38,15,101,21,St. Louis Blues,5,2,4,8,4,23,8,65,True
+2013,3,3,16,Detroit Red Wings,4,0,1,2,2,29,15,146,40,Chicago Blackhawks,9,2,4,5,0,6,3,28,False
+2013,3,3,45,Florida Panthers,2,1,2,4,6,33,9,66,48,Carolina Hurricanes,6,1,6,9,2,24,10,125,False
+2013,3,3,52,Minnesota Wild,6,2,2,2,3,28,9,86,35,Edmonton Oilers,4,0,1,4,4,30,7,78,True
+2013,3,3,28,New York Islanders,4,0,4,6,5,28,15,128,2,Ottawa Senators,6,2,1,1,2,46,8,145,True
+2013,3,3,10,New York Rangers,5,1,4,7,1,25,4,43,26,Buffalo Sabres,4,1,3,5,3,31,8,71,True
+2013,3,4,22,Los Angeles Kings,7,0,2,3,1,33,5,56,49,Nashville Predators,4,2,1,1,2,39,5,56,True
+2013,3,4,47,Phoenix Coyotes,6,2,4,7,4,35,8,90,53,Anaheim Ducks,8,0,4,7,2,33,13,127,True
+2013,3,4,20,Pittsburgh Penguins,6,2,7,12,4,29,11,81,42,Tampa Bay Lightning,3,0,2,3,3,27,18,108,True
+2013,3,4,13,Toronto Maple Leafs,6,1,5,9,4,27,10,99,39,New Jersey Devils,3,1,3,4,3,23,5,42,True
+2013,3,5,48,Carolina Hurricanes,6,2,3,4,2,44,5,98,26,Buffalo Sabres,4,0,2,2,2,28,7,68,True
+2013,3,5,51,Columbus Blue Jackets,3,0,2,4,4,35,7,78,35,Edmonton Oilers,4,2,3,3,4,43,7,91,True
+2013,3,5,40,Chicago Blackhawks,9,0,1,2,1,33,4,55,52,Minnesota Wild,6,2,4,8,2,21,8,79,True
+2013,3,5,16,Detroit Red Wings,3,0,1,2,1,33,14,150,46,Colorado Avalanche,4,2,1,2,4,39,6,73,True
+2013,3,5,45,Florida Panthers,2,1,2,3,3,31,6,57,36,Winnipeg Jets,5,1,0,0,3,21,5,40,True
+2013,3,5,22,Los Angeles Kings,8,2,5,8,1,19,5,42,21,St. Louis Blues,5,0,1,2,2,17,8,69,True
+2013,3,5,39,New Jersey Devils,2,2,2,2,4,23,6,42,42,Tampa Bay Lightning,3,0,3,6,2,18,15,102,False
+2013,3,5,28,New York Islanders,5,2,2,3,2,31,12,131,0,Montreal Canadiens,7,0,4,6,7,36,10,70,True
+2013,3,5,10,New York Rangers,5,1,2,4,2,30,5,48,23,Philadelphia Flyers,6,1,2,4,1,34,7,92,True
+2013,3,5,25,Vancouver Canucks,4,1,2,3,2,30,5,54,41,San Jose Sharks,3,1,2,4,1,19,7,55,False
+2013,3,5,30,Washington Capitals,6,2,2,5,0,35,8,99,6,Boston Bruins,7,0,3,6,4,26,14,103,True
+2013,3,6,53,Anaheim Ducks,7,0,4,7,4,40,15,134,47,Phoenix Coyotes,6,2,4,7,0,4,8,86,True
+2013,3,6,38,Calgary Flames,5,1,4,7,1,20,12,116,41,San Jose Sharks,4,1,2,3,6,36,8,74,True
+2013,3,6,40,Chicago Blackhawks,10,0,4,10,3,22,6,45,46,Colorado Avalanche,4,2,1,2,2,34,4,67,True
+2013,3,6,13,Toronto Maple Leafs,6,1,4,6,2,30,8,102,2,Ottawa Senators,5,1,2,4,2,41,8,134,True
+2013,3,7,6,Boston Bruins,6,2,3,4,2,22,14,103,13,Toronto Maple Leafs,7,0,5,8,5,40,10,115,True
+2013,3,7,48,Carolina Hurricanes,6,1,4,8,3,40,6,94,0,Montreal Canadiens,6,1,3,6,5,23,8,57,False
+2013,3,7,51,Columbus Blue Jackets,3,1,3,6,0,21,5,53,25,Vancouver Canucks,3,1,2,4,2,30,5,54,True
+2013,3,7,16,Detroit Red Wings,4,2,2,3,1,37,14,154,35,Edmonton Oilers,3,0,3,6,3,38,6,86,True
+2013,3,7,22,Los Angeles Kings,8,1,6,11,1,6,4,14,43,Dallas Stars,5,1,4,6,1,26,11,89,False
+2013,3,7,39,New Jersey Devils,2,1,2,4,3,11,6,43,26,Buffalo Sabres,4,1,3,4,4,24,9,68,True
+2013,3,7,28,New York Islanders,5,1,6,11,3,32,13,132,10,New York Rangers,5,1,4,6,2,25,5,43,False
+2013,3,7,23,Philadelphia Flyers,5,1,2,4,4,20,11,92,20,Pittsburgh Penguins,7,1,4,5,3,28,10,80,False
+2013,3,7,47,Phoenix Coyotes,5,1,0,0,4,31,9,105,21,St. Louis Blues,5,1,4,7,2,25,8,54,False
+2013,3,7,42,Tampa Bay Lightning,4,2,5,9,2,27,15,111,36,Winnipeg Jets,5,0,1,2,2,12,6,45,False
+2013,3,7,30,Washington Capitals,7,2,5,8,3,33,5,72,45,Florida Panthers,3,0,4,6,1,31,4,57,True
+2013,3,8,53,Anaheim Ducks,7,1,2,2,4,37,11,112,38,Calgary Flames,5,1,4,7,1,33,12,129,True
+2013,3,8,46,Colorado Avalanche,3,1,2,3,3,32,5,65,40,Chicago Blackhawks,10,1,4,6,3,23,5,45,True
+2013,3,8,45,Florida Panthers,3,1,1,1,2,2,7,28,36,Winnipeg Jets,6,1,2,2,4,26,5,62,False
+2013,3,8,49,Nashville Predators,3,1,1,2,5,13,7,44,35,Edmonton Oilers,3,1,0,0,2,27,5,75,True
+2013,3,8,10,New York Rangers,5,0,2,4,1,29,4,47,2,Ottawa Senators,5,2,4,7,2,35,11,121,False
+2013,3,9,6,Boston Bruins,7,2,4,7,4,26,14,108,23,Philadelphia Flyers,5,0,4,7,4,16,11,83,True
+2013,3,9,48,Carolina Hurricanes,5,1,2,1,2,21,7,77,39,New Jersey Devils,2,1,2,3,2,25,5,57,True
+2013,3,9,51,Columbus Blue Jackets,4,2,2,4,1,35,6,67,16,Detroit Red Wings,5,0,3,6,1,26,13,139,True
+2013,3,9,22,Los Angeles Kings,7,2,2,4,4,21,7,29,38,Calgary Flames,5,0,1,0,4,24,15,120,True
+2013,3,9,49,Nashville Predators,3,1,5,11,0,24,2,55,52,Minnesota Wild,5,1,3,7,4,17,8,61,False
+2013,3,9,28,New York Islanders,4,0,1,2,2,37,11,154,30,Washington Capitals,7,2,7,14,0,14,3,69,True
+2013,3,9,47,Phoenix Coyotes,5,1,3,4,6,30,11,104,43,Dallas Stars,5,1,4,9,2,33,12,96,True
+2013,3,9,41,San Jose Sharks,4,1,1,1,2,38,5,63,21,St. Louis Blues,5,1,6,11,3,26,9,55,False
+2013,3,9,42,Tampa Bay Lightning,3,0,1,2,0,0,15,112,0,Montreal Canadiens,6,2,4,8,2,43,5,77,False
+2013,3,9,13,Toronto Maple Leafs,6,1,3,5,4,43,10,97,20,Pittsburgh Penguins,7,1,5,9,4,18,5,45,False
+2013,3,10,53,Anaheim Ducks,7,2,4,7,0,18,8,117,21,St. Louis Blues,5,0,4,8,5,21,9,54,True
+2013,3,10,40,Chicago Blackhawks,9,1,2,4,1,12,6,31,35,Edmonton Oilers,2,1,1,0,2,13,9,68,False
+2013,3,10,46,Colorado Avalanche,4,0,6,12,2,33,4,66,41,San Jose Sharks,4,2,3,6,3,28,7,60,True
+2013,3,10,16,Detroit Red Wings,5,0,0,0,0,22,10,103,51,Columbus Blue Jackets,5,2,3,4,0,30,5,62,False
+2013,3,10,45,Florida Panthers,3,0,2,4,3,28,8,54,0,Montreal Canadiens,6,2,4,6,3,34,6,57,False
+2013,3,10,52,Minnesota Wild,6,0,1,2,1,25,5,69,25,Vancouver Canucks,3,2,1,2,2,27,5,51,True
+2013,3,10,39,New Jersey Devils,2,0,3,3,5,18,8,53,36,Winnipeg Jets,7,2,3,4,2,40,3,76,True
+2013,3,10,23,Philadelphia Flyers,5,1,0,0,3,28,11,83,26,Buffalo Sabres,3,1,2,4,0,4,3,49,True
+2013,3,10,20,Pittsburgh Penguins,7,1,4,7,0,14,5,53,28,New York Islanders,5,1,5,9,2,24,11,141,True
+2013,3,10,30,Washington Capitals,6,1,1,4,1,30,9,110,10,New York Rangers,5,1,2,3,3,18,6,57,False
+2013,3,11,22,Los Angeles Kings,8,2,6,10,2,19,5,27,38,Calgary Flames,4,0,2,4,0,2,12,84,True
+2013,3,11,2,Ottawa Senators,6,0,3,5,2,35,11,121,6,Boston Bruins,8,2,3,6,0,23,10,105,False
+2013,3,12,26,Buffalo Sabres,3,1,2,3,2,29,6,73,10,New York Rangers,5,1,4,8,3,39,4,68,True
+2013,3,12,51,Columbus Blue Jackets,6,1,2,4,2,23,7,55,25,Vancouver Canucks,3,1,2,3,3,24,7,56,False
+2013,3,12,46,Colorado Avalanche,4,1,3,6,2,38,4,71,35,Edmonton Oilers,3,1,6,12,2,13,8,71,False
+2013,3,12,43,Dallas Stars,5,0,1,2,2,21,12,84,49,Nashville Predators,3,2,1,2,1,29,3,60,False
+2013,3,12,45,Florida Panthers,2,0,2,1,5,38,10,64,42,Tampa Bay Lightning,2,2,3,7,2,28,19,141,False
+2013,3,12,52,Minnesota Wild,7,0,4,8,2,27,6,71,53,Anaheim Ducks,7,2,4,7,2,31,10,130,False
+2013,3,12,47,Phoenix Coyotes,5,1,2,4,1,21,6,95,22,Los Angeles Kings,8,1,3,3,1,24,4,32,True
+2013,3,12,20,Pittsburgh Penguins,7,2,6,11,4,26,6,63,6,Boston Bruins,8,0,2,3,2,27,12,114,True
+2013,3,12,21,St. Louis Blues,4,1,2,4,3,25,7,54,41,San Jose Sharks,4,1,2,3,3,42,7,74,True
+2013,3,12,36,Winnipeg Jets,6,1,2,3,2,27,3,63,13,Toronto Maple Leafs,5,1,4,8,4,41,10,95,True
+2013,3,12,30,Washington Capitals,5,1,2,2,3,19,10,99,48,Carolina Hurricanes,6,1,6,11,4,28,8,90,False
+2013,3,13,38,Calgary Flames,4,1,1,1,6,22,14,103,16,Detroit Red Wings,5,1,2,4,3,24,14,121,True
+2013,3,13,0,Montreal Canadiens,6,1,5,10,3,23,5,39,2,Ottawa Senators,5,1,2,3,2,35,11,121,True
+2013,3,13,39,New Jersey Devils,3,2,2,4,2,25,5,60,23,Philadelphia Flyers,5,0,3,5,2,20,9,90,True
+2013,3,14,6,Boston Bruins,7,1,2,4,2,32,13,121,45,Florida Panthers,2,1,1,2,5,24,8,39,True
+2013,3,14,48,Carolina Hurricanes,7,1,4,7,3,34,4,88,30,Washington Capitals,5,1,0,0,1,11,10,115,False
+2013,3,14,51,Columbus Blue Jackets,5,0,1,2,1,38,6,70,40,Chicago Blackhawks,8,2,5,8,3,16,6,25,False
+2013,3,14,43,Dallas Stars,4,2,1,0,4,21,14,84,53,Anaheim Ducks,7,0,2,4,1,31,9,121,False
+2013,3,14,52,Minnesota Wild,6,1,1,2,2,21,6,65,46,Colorado Avalanche,3,1,0,0,4,32,6,65,True
+2013,3,14,41,San Jose Sharks,3,2,2,4,3,20,7,52,22,Los Angeles Kings,7,0,2,4,5,29,8,37,True
+2013,3,14,21,St. Louis Blues,5,1,4,6,2,41,6,70,47,Phoenix Coyotes,5,1,5,8,2,33,7,107,True
+2013,3,14,42,Tampa Bay Lightning,3,1,2,6,2,39,19,152,28,New York Islanders,5,1,1,2,5,17,12,118,False
+2013,3,14,13,Toronto Maple Leafs,5,1,3,2,1,6,10,62,20,Pittsburgh Penguins,8,1,3,4,2,16,4,53,False
+2013,3,14,25,Vancouver Canucks,4,1,1,1,1,27,5,59,49,Nashville Predators,4,1,4,5,0,32,1,63,True
+2013,3,14,36,Winnipeg Jets,6,1,5,9,2,26,5,68,10,New York Rangers,5,1,1,1,3,22,4,51,True
+2013,3,15,38,Calgary Flames,5,0,5,7,2,38,10,119,49,Nashville Predators,3,2,4,3,4,12,7,49,True
+2013,3,15,35,Edmonton Oilers,4,0,4,8,0,35,6,93,16,Detroit Red Wings,5,2,2,3,2,21,16,119,False
+2013,3,15,23,Philadelphia Flyers,4,0,2,3,5,32,12,104,39,New Jersey Devils,3,2,5,8,2,25,5,60,True
+2013,3,16,6,Boston Bruins,7,0,4,7,3,34,12,119,30,Washington Capitals,6,2,3,6,2,38,11,142,True
+2013,3,16,26,Buffalo Sabres,4,0,3,6,3,28,5,77,2,Ottawa Senators,4,2,3,6,5,28,12,131,False
+2013,3,16,51,Columbus Blue Jackets,5,0,1,2,1,40,6,72,47,Phoenix Coyotes,5,2,0,0,3,30,8,104,True
+2013,3,16,46,Colorado Avalanche,3,1,3,6,2,33,6,72,52,Minnesota Wild,6,1,5,8,3,32,7,76,False
+2013,3,16,43,Dallas Stars,4,0,1,2,1,30,11,93,40,Chicago Blackhawks,8,2,1,2,1,30,4,39,False
+2013,3,16,45,Florida Panthers,2,1,1,0,3,31,6,46,28,New York Islanders,5,1,2,3,0,18,7,119,False
+2013,3,16,22,Los Angeles Kings,6,0,3,6,1,14,4,26,41,San Jose Sharks,4,2,4,7,3,37,7,69,True
+2013,3,16,39,New Jersey Devils,3,1,1,2,1,22,4,57,0,Montreal Canadiens,7,1,3,6,3,32,5,48,False
+2013,3,16,20,Pittsburgh Penguins,8,2,3,4,1,29,3,66,10,New York Rangers,5,0,1,2,2,32,3,61,True
+2013,3,16,21,St. Louis Blues,6,0,3,5,0,28,4,57,53,Anaheim Ducks,7,2,1,2,1,34,9,124,True
+2013,3,16,42,Tampa Bay Lightning,2,2,0,0,1,13,18,141,48,Carolina Hurricanes,7,0,2,4,0,26,4,79,True
+2013,3,16,13,Toronto Maple Leafs,4,1,1,2,2,27,11,83,36,Winnipeg Jets,7,1,3,6,1,29,5,81,False
+2013,3,16,25,Vancouver Canucks,4,1,7,11,4,33,8,65,16,Detroit Red Wings,5,1,3,3,2,32,16,130,False
+2013,3,17,35,Edmonton Oilers,3,1,2,4,3,28,9,86,49,Nashville Predators,3,1,3,5,2,2,6,49,True
+2013,3,17,2,Ottawa Senators,4,1,4,7,3,45,10,139,36,Winnipeg Jets,7,1,4,8,4,32,8,84,True
+2013,3,17,20,Pittsburgh Penguins,8,2,3,6,1,24,2,60,6,Boston Bruins,7,0,4,8,1,30,10,118,True
+2013,3,17,30,Washington Capitals,5,1,1,0,3,35,13,150,26,Buffalo Sabres,4,1,3,6,4,34,6,83,True
+2013,3,18,53,Anaheim Ducks,7,1,1,4,0,29,10,111,41,San Jose Sharks,4,1,2,4,4,18,8,49,True
+2013,3,18,46,Colorado Avalanche,3,1,4,7,2,14,6,28,40,Chicago Blackhawks,8,1,8,16,3,9,4,28,False
+2013,3,18,43,Dallas Stars,4,0,1,2,4,17,14,77,38,Calgary Flames,5,2,6,11,2,21,11,101,True
+2013,3,18,22,Los Angeles Kings,6,1,5,10,3,12,5,34,47,Phoenix Coyotes,5,1,0,0,0,23,5,97,True
+2013,3,18,10,New York Rangers,5,2,0,0,3,27,4,56,48,Carolina Hurricanes,6,0,1,1,3,25,8,79,True
+2013,3,18,42,Tampa Bay Lightning,3,1,4,8,1,28,18,150,23,Philadelphia Flyers,5,1,1,2,1,28,7,99,True
+2013,3,18,25,Vancouver Canucks,3,1,2,4,5,26,9,58,52,Minnesota Wild,7,1,6,10,4,32,8,76,False
+2013,3,19,48,Carolina Hurricanes,6,2,1,2,1,36,6,90,45,Florida Panthers,1,0,3,6,3,13,7,40,False
+2013,3,19,51,Columbus Blue Jackets,6,1,0,0,0,39,5,71,49,Nashville Predators,3,1,2,3,3,21,8,70,True
+2013,3,19,22,Los Angeles Kings,6,1,4,8,2,22,2,49,47,Phoenix Coyotes,4,1,1,0,4,22,8,80,True
+2013,3,19,0,Montreal Canadiens,7,1,2,1,1,33,3,49,26,Buffalo Sabres,4,1,3,6,1,33,7,74,False
+2013,3,19,39,New Jersey Devils,3,1,1,1,2,22,5,57,10,New York Rangers,6,1,1,2,1,30,2,59,False
+2013,3,19,28,New York Islanders,5,1,4,8,3,30,10,131,2,Ottawa Senators,4,1,4,8,3,36,8,120,False
+2013,3,19,20,Pittsburgh Penguins,9,2,2,4,0,23,2,68,30,Washington Capitals,5,0,5,10,3,30,13,145,True
+2013,3,19,25,Vancouver Canucks,3,1,1,2,4,32,7,57,21,St. Louis Blues,6,1,2,3,1,28,5,57,True
+2013,3,19,36,Winnipeg Jets,6,0,1,2,4,42,8,94,6,Boston Bruins,6,2,1,2,2,18,11,106,True
+2013,3,20,53,Anaheim Ducks,7,2,5,9,2,21,13,135,40,Chicago Blackhawks,8,0,5,9,1,19,3,38,True
+2013,3,20,46,Colorado Avalanche,3,1,2,3,5,32,9,46,43,Dallas Stars,4,1,4,8,3,19,13,79,True
+2013,3,20,16,Detroit Red Wings,5,1,5,10,2,35,18,136,52,Minnesota Wild,7,1,3,6,1,36,5,80,False
+2013,3,20,35,Edmonton Oilers,4,0,3,5,2,31,8,89,41,San Jose Sharks,3,2,3,5,4,27,8,58,False
+2013,3,20,13,Toronto Maple Leafs,4,1,4,5,0,7,9,61,42,Tampa Bay Lightning,4,1,4,8,1,22,19,152,True
+2013,3,21,26,Buffalo Sabres,4,0,3,4,5,25,8,75,13,Toronto Maple Leafs,4,2,3,7,2,28,11,82,True
+2013,3,21,48,Carolina Hurricanes,5,2,1,2,3,43,8,97,39,New Jersey Devils,3,0,2,3,2,19,6,57,False
+2013,3,21,22,Los Angeles Kings,7,1,3,6,0,27,2,69,43,Dallas Stars,4,1,3,6,4,34,14,94,False
+2013,3,21,49,Nashville Predators,2,1,3,7,4,31,8,58,38,Calgary Flames,4,1,3,6,3,20,13,104,True
+2013,3,21,28,New York Islanders,5,2,3,6,1,11,11,123,0,Montreal Canadiens,7,0,2,4,3,21,5,37,False
+2013,3,21,10,New York Rangers,6,2,3,4,2,31,3,60,45,Florida Panthers,2,0,4,5,1,34,5,61,False
+2013,3,21,2,Ottawa Senators,4,0,5,9,1,26,8,113,6,Boston Bruins,5,2,1,0,1,33,11,112,False
+2013,3,21,47,Phoenix Coyotes,4,2,2,4,3,29,7,87,25,Vancouver Canucks,4,0,3,6,2,34,5,59,False
+2013,3,21,36,Winnipeg Jets,6,1,3,6,1,28,5,80,30,Washington Capitals,5,1,1,2,2,36,12,151,False
+2013,3,22,53,Anaheim Ducks,7,2,4,6,3,35,14,117,16,Detroit Red Wings,5,0,2,1,4,19,20,120,False
+2013,3,22,51,Columbus Blue Jackets,7,1,4,8,3,35,8,67,38,Calgary Flames,4,1,3,5,5,23,15,107,True
+2013,3,22,28,New York Islanders,5,0,2,3,4,22,15,141,20,Pittsburgh Penguins,10,2,3,4,1,32,3,74,False
+2013,3,22,36,Winnipeg Jets,6,0,0,0,4,25,8,77,30,Washington Capitals,5,2,4,6,0,20,11,138,False
+2013,3,23,43,Dallas Stars,4,1,2,3,0,40,10,100,46,Colorado Avalanche,3,1,3,6,3,32,7,46,True
+2013,3,23,35,Edmonton Oilers,3,0,3,4,3,34,9,92,21,St. Louis Blues,6,2,2,4,3,21,7,48,False
+2013,3,23,22,Los Angeles Kings,6,1,0,0,2,21,4,63,25,Vancouver Canucks,4,1,2,2,1,34,4,59,False
+2013,3,23,52,Minnesota Wild,7,2,4,8,2,38,6,82,41,San Jose Sharks,4,0,3,5,3,27,7,58,True
+2013,3,23,0,Montreal Canadiens,7,0,5,8,2,27,4,43,26,Buffalo Sabres,4,2,4,7,4,34,7,84,False
+2013,3,23,39,New Jersey Devils,4,1,4,6,1,18,5,56,45,Florida Panthers,3,1,3,4,4,25,5,72,True
+2013,3,23,49,Nashville Predators,3,0,5,9,3,22,7,49,51,Columbus Blue Jackets,8,2,5,8,1,25,6,57,True
+2013,3,23,2,Ottawa Senators,4,1,0,2,2,29,9,116,42,Tampa Bay Lightning,4,1,2,3,3,18,20,126,True
+2013,3,23,13,Toronto Maple Leafs,4,0,4,8,4,36,13,90,6,Boston Bruins,6,2,2,3,1,28,11,107,True
+2013,3,24,53,Anaheim Ducks,7,1,1,2,2,12,14,81,16,Detroit Red Wings,5,1,5,10,1,34,17,135,False
+2013,3,24,38,Calgary Flames,4,0,1,2,5,28,15,112,21,St. Louis Blues,6,2,3,5,0,19,4,46,True
+2013,3,24,46,Colorado Avalanche,3,0,3,3,1,16,5,31,25,Vancouver Canucks,5,2,1,2,0,20,3,45,False
+2013,3,24,28,New York Islanders,5,2,2,4,3,24,16,129,45,Florida Panthers,3,0,1,1,1,45,3,72,True
+2013,3,24,10,New York Rangers,5,2,1,2,2,23,3,52,30,Washington Capitals,5,0,6,11,1,31,12,149,False
+2013,3,24,20,Pittsburgh Penguins,10,1,4,7,1,29,4,77,23,Philadelphia Flyers,4,1,2,1,3,26,13,69,True
+2013,3,24,36,Winnipeg Jets,6,1,1,2,3,9,9,47,42,Tampa Bay Lightning,4,1,3,6,1,20,17,110,True
+2013,3,25,53,Anaheim Ducks,7,2,1,2,3,11,14,90,41,San Jose Sharks,3,0,0,0,2,24,6,55,False
+2013,3,25,6,Boston Bruins,6,1,2,3,0,2,11,68,13,Toronto Maple Leafs,4,1,4,5,2,33,11,87,True
+2013,3,25,40,Chicago Blackhawks,7,2,2,2,3,25,5,44,22,Los Angeles Kings,5,0,0,0,1,13,3,55,False
+2013,3,25,43,Dallas Stars,5,1,4,8,2,35,12,95,52,Minnesota Wild,8,1,2,4,0,33,4,77,False
+2013,3,25,49,Nashville Predators,4,1,5,10,2,23,6,50,35,Edmonton Oilers,3,1,0,0,3,34,9,83,True
+2013,3,25,2,Ottawa Senators,5,1,5,9,3,29,10,119,39,New Jersey Devils,5,1,2,2,1,18,5,56,True
+2013,3,25,47,Phoenix Coyotes,3,1,1,2,1,15,6,83,16,Detroit Red Wings,6,1,2,5,5,22,17,135,False
+2013,3,26,48,Carolina Hurricanes,4,0,1,2,0,0,5,50,36,Winnipeg Jets,6,2,3,5,2,25,8,63,False
+2013,3,26,40,Chicago Blackhawks,6,1,4,8,2,19,7,55,38,Calgary Flames,4,1,3,5,2,38,12,122,True
+2013,3,26,23,Philadelphia Flyers,4,0,1,2,2,35,12,78,10,New York Rangers,4,2,2,3,2,24,3,53,False
+2013,3,26,20,Pittsburgh Penguins,10,1,2,5,1,28,4,76,0,Montreal Canadiens,7,1,1,1,2,18,4,34,True
+2013,3,26,21,St. Louis Blues,6,2,2,2,3,19,7,44,35,Edmonton Oilers,3,0,2,4,3,25,9,75,False
+2013,3,26,42,Tampa Bay Lightning,4,0,2,3,3,11,19,114,26,Buffalo Sabres,4,2,2,4,1,39,4,89,True
+2013,3,26,13,Toronto Maple Leafs,3,1,2,4,4,26,8,91,45,Florida Panthers,2,1,0,0,1,35,3,62,True
+2013,3,26,25,Vancouver Canucks,6,1,3,6,2,28,5,53,51,Columbus Blue Jackets,7,1,2,2,4,11,6,47,True
+2013,3,26,30,Washington Capitals,5,1,2,4,2,32,11,127,28,New York Islanders,5,1,3,5,0,26,13,131,False
+2013,3,27,6,Boston Bruins,6,1,2,5,2,25,13,91,0,Montreal Canadiens,6,1,0,0,1,25,3,41,False
+2013,3,27,38,Calgary Flames,3,0,0,0,4,24,12,119,46,Colorado Avalanche,3,2,2,4,4,15,7,45,True
+2013,3,27,52,Minnesota Wild,8,1,7,13,4,26,8,70,47,Phoenix Coyotes,2,1,2,4,3,35,8,103,True
+2013,3,27,41,San Jose Sharks,3,1,5,5,3,27,7,58,53,Anaheim Ducks,6,1,3,4,2,21,15,117,True
+2013,3,28,35,Edmonton Oilers,4,1,3,5,0,43,6,93,51,Columbus Blue Jackets,6,1,0,1,0,34,2,70,True
+2013,3,28,45,Florida Panthers,2,1,2,4,3,31,5,58,26,Buffalo Sabres,4,1,1,1,2,25,5,75,True
+2013,3,28,49,Nashville Predators,5,1,3,6,2,26,6,53,47,Phoenix Coyotes,2,1,3,6,4,37,9,105,False
+2013,3,28,2,Ottawa Senators,6,2,2,3,2,34,9,124,10,New York Rangers,4,0,5,9,2,34,3,63,True
+2013,3,28,23,Philadelphia Flyers,3,2,2,4,5,31,16,87,28,New York Islanders,5,0,3,4,2,22,15,127,False
+2013,3,28,20,Pittsburgh Penguins,10,1,1,3,0,12,1,50,36,Winnipeg Jets,6,1,4,6,3,15,7,67,True
+2013,3,28,41,San Jose Sharks,4,1,4,8,0,22,4,53,16,Detroit Red Wings,6,1,3,6,1,34,13,149,True
+2013,3,28,21,St. Louis Blues,6,0,0,0,0,12,4,27,22,Los Angeles Kings,6,2,5,7,4,25,6,67,False
+2013,3,28,13,Toronto Maple Leafs,3,0,3,6,2,29,6,107,48,Carolina Hurricanes,3,2,1,2,4,35,9,85,True
+2013,3,28,25,Vancouver Canucks,7,2,0,0,0,17,3,42,46,Colorado Avalanche,3,0,3,6,4,27,7,57,True
+2013,3,29,38,Calgary Flames,4,1,4,7,2,35,11,125,51,Columbus Blue Jackets,5,1,4,5,0,12,7,60,False
+2013,3,29,40,Chicago Blackhawks,6,0,2,3,0,16,5,52,53,Anaheim Ducks,5,2,0,1,4,29,17,125,False
+2013,3,29,43,Dallas Stars,4,0,4,7,6,41,16,101,52,Minnesota Wild,9,2,4,6,3,23,7,71,True
+2013,3,29,42,Tampa Bay Lightning,4,1,2,4,1,14,17,117,39,New Jersey Devils,5,1,2,3,2,14,6,52,True
+2013,3,30,26,Buffalo Sabres,4,0,4,7,2,34,7,90,30,Washington Capitals,5,2,2,3,3,31,12,134,False
+2013,3,30,46,Colorado Avalanche,2,1,1,2,2,18,5,48,49,Nashville Predators,4,1,5,7,4,20,8,37,True
+2013,3,30,35,Edmonton Oilers,5,1,6,8,0,9,7,54,25,Vancouver Canucks,8,1,4,5,1,33,4,58,True
+2013,3,30,45,Florida Panthers,3,1,4,7,4,40,6,67,39,New Jersey Devils,4,1,4,4,4,25,8,63,True
+2013,3,30,52,Minnesota Wild,8,1,2,5,3,27,9,81,22,Los Angeles Kings,6,1,4,8,2,22,4,64,True
+2013,3,30,0,Montreal Canadiens,7,2,5,10,4,26,5,41,10,New York Rangers,4,0,0,0,1,29,3,57,True
+2013,3,30,2,Ottawa Senators,7,1,3,6,0,24,7,114,13,Toronto Maple Leafs,4,1,6,10,3,22,7,100,False
+2013,3,30,23,Philadelphia Flyers,2,0,3,5,3,36,14,92,6,Boston Bruins,5,2,5,9,5,28,16,94,True
+2013,3,30,20,Pittsburgh Penguins,10,2,4,6,0,20,1,58,28,New York Islanders,6,0,3,6,3,36,17,169,True
+2013,3,30,41,San Jose Sharks,5,1,2,3,0,27,4,58,47,Phoenix Coyotes,3,1,7,11,4,38,9,106,True
+2013,3,30,36,Winnipeg Jets,6,2,0,0,1,39,8,95,48,Carolina Hurricanes,2,0,3,4,4,34,9,84,False
+2013,3,31,26,Buffalo Sabres,4,1,1,5,4,40,8,94,6,Boston Bruins,4,1,1,2,3,11,13,87,False
+2013,3,31,51,Columbus Blue Jackets,5,0,6,8,5,24,11,81,53,Anaheim Ducks,5,2,2,4,1,26,14,122,True
+2013,3,31,43,Dallas Stars,4,2,5,9,3,33,9,76,22,Los Angeles Kings,5,0,3,4,2,42,5,70,False
+2013,3,31,16,Detroit Red Wings,5,0,0,0,2,24,11,113,40,Chicago Blackhawks,5,2,1,3,5,36,7,60,False
+2013,3,31,23,Philadelphia Flyers,3,1,3,4,1,34,8,96,30,Washington Capitals,6,1,3,5,3,23,12,141,True
+2013,4,1,40,Chicago Blackhawks,5,2,7,7,1,34,3,58,49,Nashville Predators,4,0,0,0,1,24,5,41,True
+2013,4,1,43,Dallas Stars,4,1,2,3,3,40,9,83,53,Anaheim Ducks,4,1,1,2,4,38,15,114,False
+2013,4,1,16,Detroit Red Wings,5,1,1,1,4,14,14,85,46,Colorado Avalanche,2,1,1,2,0,34,3,64,True
+2013,4,1,35,Edmonton Oilers,6,1,4,8,0,23,7,68,38,Calgary Flames,4,1,4,7,5,20,11,84,True
+2013,4,1,52,Minnesota Wild,8,0,4,6,3,31,9,85,21,St. Louis Blues,5,2,2,5,3,39,7,54,False
+2013,4,1,0,Montreal Canadiens,7,2,3,5,0,34,1,49,48,Carolina Hurricanes,3,0,3,3,1,35,6,85,True
+2013,4,1,39,New Jersey Devils,4,1,2,4,3,30,7,68,28,New York Islanders,5,1,0,0,2,27,16,160,False
+2013,4,1,10,New York Rangers,3,0,0,0,2,28,5,54,36,Winnipeg Jets,5,2,1,2,3,28,10,84,True
+2013,4,1,41,San Jose Sharks,6,2,2,4,2,29,6,60,25,Vancouver Canucks,7,0,0,0,2,2,4,24,True
+2013,4,2,6,Boston Bruins,5,2,2,4,0,26,10,102,2,Ottawa Senators,6,0,0,0,3,32,11,113,True
+2013,4,2,48,Carolina Hurricanes,2,1,1,2,4,22,8,78,30,Washington Capitals,6,1,4,5,5,34,14,152,False
+2013,4,2,49,Nashville Predators,3,0,2,4,2,40,6,57,46,Colorado Avalanche,2,2,2,2,0,7,3,20,True
+2013,4,2,28,New York Islanders,6,1,3,5,5,29,15,158,36,Winnipeg Jets,4,1,2,3,4,35,11,91,True
+2013,4,2,47,Phoenix Coyotes,2,0,2,4,2,34,7,102,22,Los Angeles Kings,6,2,3,4,3,28,5,43,True
+2013,4,2,20,Pittsburgh Penguins,10,2,2,4,0,35,1,73,26,Buffalo Sabres,4,0,0,0,2,31,6,85,False
+2013,4,2,42,Tampa Bay Lightning,5,2,3,6,4,25,20,128,45,Florida Panthers,4,0,3,6,2,26,4,53,False
+2013,4,3,53,Anaheim Ducks,4,2,4,6,0,26,10,87,43,Dallas Stars,4,0,0,0,3,29,9,72,True
+2013,4,3,38,Calgary Flames,4,1,1,2,1,14,10,80,35,Edmonton Oilers,6,1,4,7,1,34,8,79,False
+2013,4,3,10,New York Rangers,4,0,5,8,2,28,5,54,20,Pittsburgh Penguins,9,2,1,2,0,16,5,42,True
+2013,4,3,23,Philadelphia Flyers,4,1,4,9,4,29,11,91,0,Montreal Canadiens,7,1,4,5,1,19,2,34,True
+2013,4,3,41,San Jose Sharks,7,0,3,5,2,25,6,56,52,Minnesota Wild,8,2,1,2,4,24,10,78,True
+2013,4,4,6,Boston Bruins,5,2,4,5,2,21,12,123,39,New Jersey Devils,3,0,1,2,3,21,7,59,True
+2013,4,4,48,Carolina Hurricanes,1,0,3,8,3,7,6,47,42,Tampa Bay Lightning,5,2,3,6,4,23,22,151,False
+2013,4,4,40,Chicago Blackhawks,6,2,2,3,2,27,4,51,21,St. Louis Blues,5,0,4,5,1,20,4,32,False
+2013,4,4,22,Los Angeles Kings,6,0,1,0,2,15,5,46,52,Minnesota Wild,7,2,1,4,4,33,10,87,True
+2013,4,4,0,Montreal Canadiens,6,2,3,6,1,15,5,48,36,Winnipeg Jets,3,0,2,3,4,38,11,94,True
+2013,4,4,49,Nashville Predators,4,1,3,7,1,26,5,43,51,Columbus Blue Jackets,5,1,1,4,1,30,7,87,False
+2013,4,4,47,Phoenix Coyotes,2,1,2,5,2,21,6,108,16,Detroit Red Wings,6,1,2,6,2,24,20,130,True
+2013,4,4,13,Toronto Maple Leafs,5,2,4,7,0,31,5,91,23,Philadelphia Flyers,5,0,5,9,3,17,10,88,False
+2013,4,4,25,Vancouver Canucks,6,1,2,4,3,35,5,57,35,Edmonton Oilers,6,1,8,14,4,21,9,66,True
+2013,4,4,30,Washington Capitals,6,0,5,8,3,34,16,130,28,New York Islanders,6,2,4,10,1,25,12,154,True
+2013,4,5,53,Anaheim Ducks,5,2,4,8,2,25,14,109,43,Dallas Stars,4,0,2,3,4,26,10,69,False
+2013,4,5,26,Buffalo Sabres,4,0,4,4,1,20,5,74,2,Ottawa Senators,6,2,1,5,3,50,7,153,True
+2013,4,5,46,Colorado Avalanche,2,0,1,2,2,37,5,50,16,Detroit Red Wings,6,2,2,3,3,37,21,143,False
+2013,4,5,20,Pittsburgh Penguins,8,1,1,2,6,39,11,65,10,New York Rangers,5,1,6,11,1,27,4,53,True
+2013,4,5,41,San Jose Sharks,7,1,4,5,2,33,6,64,38,Calgary Flames,3,1,2,3,3,6,17,105,True
+2013,4,5,21,St. Louis Blues,6,2,3,5,3,7,6,48,51,Columbus Blue Jackets,6,0,3,5,1,39,7,96,True
+2013,4,6,48,Carolina Hurricanes,1,0,0,0,5,30,8,70,10,New York Rangers,5,2,1,1,1,27,4,53,False
+2013,4,6,45,Florida Panthers,5,0,1,4,2,41,4,68,30,Washington Capitals,7,2,1,2,1,36,14,132,False
+2013,4,6,22,Los Angeles Kings,6,1,3,4,3,31,3,54,35,Edmonton Oilers,6,1,0,0,2,21,9,73,True
+2013,4,6,0,Montreal Canadiens,6,2,4,8,4,33,5,67,6,Boston Bruins,5,0,1,2,0,40,10,142,True
+2013,4,6,39,New Jersey Devils,2,0,0,0,1,26,5,64,13,Toronto Maple Leafs,5,2,3,5,4,30,9,90,False
+2013,4,6,49,Nashville Predators,4,0,1,2,3,38,7,55,40,Chicago Blackhawks,6,2,3,4,2,24,5,46,False
+2013,4,6,28,New York Islanders,5,2,2,2,1,22,12,151,42,Tampa Bay Lightning,5,0,6,9,0,45,18,173,True
+2013,4,6,47,Phoenix Coyotes,3,2,4,7,1,17,6,123,46,Colorado Avalanche,2,0,2,4,3,13,6,44,True
+2013,4,6,25,Vancouver Canucks,7,1,4,8,0,23,2,45,38,Calgary Flames,2,1,1,1,2,41,16,140,True
+2013,4,6,36,Winnipeg Jets,3,0,1,3,4,24,11,80,23,Philadelphia Flyers,5,2,5,7,3,28,11,78,True
+2013,4,7,53,Anaheim Ducks,4,1,2,2,3,25,13,109,22,Los Angeles Kings,6,1,4,5,0,23,1,47,True
+2013,4,7,26,Buffalo Sabres,5,1,4,8,2,37,6,91,39,New Jersey Devils,2,1,1,1,2,18,6,56,True
+2013,4,7,51,Columbus Blue Jackets,6,1,1,2,2,18,4,51,52,Minnesota Wild,6,1,0,1,2,2,8,53,False
+2013,4,7,40,Chicago Blackhawks,6,2,1,3,0,20,3,42,49,Nashville Predators,4,0,0,0,1,30,5,47,True
+2013,4,7,16,Detroit Red Wings,6,1,3,4,2,35,20,141,21,St. Louis Blues,6,1,3,5,3,36,4,68,False
+2013,4,7,45,Florida Panthers,5,0,3,5,0,0,4,33,2,Ottawa Senators,6,2,3,4,0,21,11,115,True
+2013,4,7,41,San Jose Sharks,8,1,2,5,1,24,5,55,43,Dallas Stars,5,1,2,6,1,28,7,71,False
+2013,4,7,30,Washington Capitals,7,1,4,8,4,38,16,126,42,Tampa Bay Lightning,5,1,2,4,3,27,21,155,True
+2013,4,8,53,Anaheim Ducks,4,1,3,4,2,18,13,122,35,Edmonton Oilers,5,1,1,2,3,38,10,90,True
+2013,4,8,6,Boston Bruins,5,1,1,1,2,29,12,131,48,Carolina Hurricanes,1,1,1,2,0,8,4,66,True
+2013,4,8,46,Colorado Avalanche,2,1,0,0,3,31,7,59,38,Calgary Flames,2,1,2,4,8,39,18,120,False
+2013,4,8,13,Toronto Maple Leafs,6,0,2,5,1,28,6,88,10,New York Rangers,5,2,4,6,1,49,4,75,True
+2013,4,8,25,Vancouver Canucks,8,1,5,9,2,38,4,60,47,Phoenix Coyotes,4,1,4,7,0,24,5,130,True
+2013,4,9,48,Carolina Hurricanes,1,1,1,3,2,4,7,64,20,Pittsburgh Penguins,8,1,1,2,1,35,6,61,False
+2013,4,9,51,Columbus Blue Jackets,5,2,0,0,3,24,5,57,41,San Jose Sharks,8,0,4,6,4,34,8,65,True
+2013,4,9,43,Dallas Stars,5,1,4,7,4,36,10,79,22,Los Angeles Kings,5,1,3,6,1,24,4,46,True
+2013,4,9,52,Minnesota Wild,6,1,3,5,0,24,6,75,40,Chicago Blackhawks,6,1,5,8,3,22,6,44,False
+2013,4,9,0,Montreal Canadiens,6,1,2,5,1,27,2,61,30,Washington Capitals,8,1,3,6,2,30,14,118,False
+2013,4,9,49,Nashville Predators,4,1,3,4,4,39,8,56,21,St. Louis Blues,6,1,1,2,0,28,1,60,False
+2013,4,9,28,New York Islanders,6,1,4,5,2,21,13,150,23,Philadelphia Flyers,5,1,1,2,0,9,10,87,True
+2013,4,9,42,Tampa Bay Lightning,4,1,2,4,3,37,21,165,2,Ottawa Senators,5,1,1,2,2,17,13,121,True
+2013,4,9,36,Winnipeg Jets,3,2,4,8,1,31,8,87,26,Buffalo Sabres,6,0,2,3,2,39,6,93,True
+2013,4,10,53,Anaheim Ducks,5,2,1,8,1,28,13,134,46,Colorado Avalanche,1,0,1,2,3,34,7,62,False
+2013,4,10,38,Calgary Flames,3,1,3,5,4,21,11,121,25,Vancouver Canucks,8,1,2,2,2,22,2,41,False
+2013,4,10,35,Edmonton Oilers,5,2,1,2,2,38,9,90,47,Phoenix Coyotes,4,0,0,0,1,41,6,147,False
+2013,4,10,39,New Jersey Devils,2,0,2,2,2,26,6,64,6,Boston Bruins,6,2,6,12,2,47,12,144,False
+2013,4,10,10,New York Rangers,4,1,3,3,4,28,7,54,13,Toronto Maple Leafs,7,1,4,8,3,34,8,94,True
+2013,4,11,6,Boston Bruins,6,2,5,8,2,42,14,125,28,New York Islanders,7,0,4,8,1,27,12,156,False
+2013,4,11,26,Buffalo Sabres,5,2,1,2,3,29,7,83,0,Montreal Canadiens,6,0,2,4,1,34,4,61,False
+2013,4,11,16,Detroit Red Wings,5,1,1,1,1,25,12,132,41,San Jose Sharks,7,1,0,0,4,26,5,36,False
+2013,4,11,22,Los Angeles Kings,5,1,1,2,5,31,8,53,46,Colorado Avalanche,2,1,4,6,0,0,5,50,True
+2013,4,11,52,Minnesota Wild,5,0,0,0,1,31,7,82,21,St. Louis Blues,6,2,1,2,0,15,1,47,False
+2013,4,11,23,Philadelphia Flyers,4,1,1,2,4,16,13,109,2,Ottawa Senators,4,1,2,4,4,30,13,124,False
+2013,4,11,42,Tampa Bay Lightning,4,0,3,6,2,33,20,161,20,Pittsburgh Penguins,8,2,4,7,4,13,8,54,False
+2013,4,11,36,Winnipeg Jets,4,1,4,5,1,30,8,86,45,Florida Panthers,6,1,3,4,4,31,5,74,True
+2013,4,11,30,Washington Capitals,8,2,3,6,3,30,13,123,48,Carolina Hurricanes,1,0,3,4,4,32,9,92,True
+2013,4,12,51,Columbus Blue Jackets,5,0,4,8,0,30,5,85,21,St. Louis Blues,7,2,2,4,1,27,1,55,True
+2013,4,12,38,Calgary Flames,3,1,1,2,1,40,11,129,47,Phoenix Coyotes,5,1,3,3,1,30,6,136,True
+2013,4,12,40,Chicago Blackhawks,6,2,1,1,3,22,3,42,16,Detroit Red Wings,5,0,2,3,2,30,14,128,True
+2013,4,12,39,New Jersey Devils,2,0,4,5,5,18,9,56,2,Ottawa Senators,4,2,3,5,3,24,14,127,False
+2013,4,12,49,Nashville Predators,3,2,0,0,3,9,5,43,43,Dallas Stars,6,0,5,9,0,22,7,73,False
+2013,4,13,26,Buffalo Sabres,4,1,1,2,1,10,6,58,23,Philadelphia Flyers,4,1,1,1,3,31,12,128,True
+2013,4,13,48,Carolina Hurricanes,1,0,2,2,2,30,7,90,6,Boston Bruins,6,2,1,2,2,36,14,119,True
+2013,4,13,46,Colorado Avalanche,2,0,2,2,0,12,6,65,25,Vancouver Canucks,8,2,4,7,0,19,1,60,True
+2013,4,13,43,Dallas Stars,6,2,5,8,2,28,9,79,41,San Jose Sharks,8,0,2,3,2,29,3,39,True
+2013,4,13,35,Edmonton Oilers,5,2,1,2,4,28,10,84,38,Calgary Flames,3,0,3,5,2,31,12,120,False
+2013,4,13,45,Florida Panthers,5,1,2,3,6,23,7,37,20,Pittsburgh Penguins,8,1,5,10,3,28,7,60,False
+2013,4,13,22,Los Angeles Kings,6,1,2,3,2,28,5,50,53,Anaheim Ducks,5,1,3,2,0,12,13,96,True
+2013,4,13,52,Minnesota Wild,4,2,0,0,2,20,8,71,51,Columbus Blue Jackets,5,0,4,8,1,32,4,77,False
+2013,4,13,28,New York Islanders,8,1,2,4,1,31,12,160,10,New York Rangers,5,1,2,4,2,25,5,51,False
+2013,4,13,13,Toronto Maple Leafs,6,1,2,1,2,28,7,88,0,Montreal Canadiens,6,1,5,9,3,27,4,42,True
+2013,4,13,30,Washington Capitals,8,2,3,3,1,44,11,137,42,Tampa Bay Lightning,4,0,2,6,6,41,24,169,True
+2013,4,14,26,Buffalo Sabres,4,1,1,2,0,29,5,77,42,Tampa Bay Lightning,4,1,5,10,3,18,22,141,True
+2013,4,14,49,Nashville Predators,2,1,2,3,1,26,7,52,16,Detroit Red Wings,4,1,2,5,2,28,13,124,False
+2013,4,14,21,St. Louis Blues,6,1,1,2,0,23,4,47,40,Chicago Blackhawks,7,1,2,4,2,29,2,49,False
+2013,4,15,38,Calgary Flames,4,1,4,7,1,29,11,118,52,Minnesota Wild,3,1,2,4,2,22,8,73,False
+2013,4,15,40,Chicago Blackhawks,8,2,2,2,0,20,0,50,43,Dallas Stars,6,0,2,4,1,32,8,83,True
+2013,4,15,46,Colorado Avalanche,3,1,4,5,3,27,9,80,51,Columbus Blue Jackets,6,1,2,4,2,41,5,86,False
+2013,4,15,0,Montreal Canadiens,6,1,1,2,3,4,5,28,23,Philadelphia Flyers,4,1,0,0,2,33,12,118,False
+2013,4,15,49,Nashville Predators,1,0,0,0,2,31,8,57,25,Vancouver Canucks,7,2,3,6,1,41,5,67,False
+2013,4,15,47,Phoenix Coyotes,5,1,2,4,1,40,8,131,41,San Jose Sharks,7,1,1,2,2,19,3,29,False
+2013,4,15,13,Toronto Maple Leafs,7,2,5,8,1,37,6,97,39,New Jersey Devils,1,0,0,0,2,11,6,49,True
+2013,4,16,35,Edmonton Oilers,5,0,1,1,3,32,10,94,52,Minnesota Wild,3,2,4,6,3,23,9,74,False
+2013,4,16,28,New York Islanders,7,2,0,0,1,20,12,149,45,Florida Panthers,4,0,1,2,2,21,3,35,True
+2013,4,16,2,Ottawa Senators,5,0,2,3,0,33,8,115,48,Carolina Hurricanes,2,2,4,8,2,30,7,90,True
+2013,4,16,23,Philadelphia Flyers,5,0,7,12,1,21,13,113,10,New York Rangers,6,2,1,2,0,29,3,55,True
+2013,4,16,41,San Jose Sharks,7,1,3,6,0,35,1,45,22,Los Angeles Kings,6,1,2,4,1,20,4,42,True
+2013,4,16,21,St. Louis Blues,6,1,0,0,2,26,6,50,25,Vancouver Canucks,7,1,5,9,4,26,6,64,True
+2013,4,16,36,Winnipeg Jets,5,2,7,11,2,27,11,92,42,Tampa Bay Lightning,4,0,1,2,3,20,22,145,True
+2013,4,16,30,Washington Capitals,8,0,6,10,5,40,15,133,13,Toronto Maple Leafs,7,2,2,4,2,42,5,92,True
+2013,4,17,53,Anaheim Ducks,5,1,1,0,2,18,15,102,51,Columbus Blue Jackets,7,1,4,6,3,32,7,96,False
+2013,4,17,6,Boston Bruins,5,1,2,3,4,28,15,120,26,Buffalo Sabres,5,1,3,5,4,32,6,81,False
+2013,4,17,38,Calgary Flames,3,2,3,5,4,29,14,116,16,Detroit Red Wings,4,0,3,6,0,22,14,116,True
+2013,4,17,20,Pittsburgh Penguins,8,2,3,5,1,26,5,58,0,Montreal Canadiens,6,0,3,6,1,4,7,33,True
+2013,4,18,43,Dallas Stars,6,1,2,3,1,8,11,78,25,Vancouver Canucks,6,1,1,2,1,36,3,74,True
+2013,4,18,22,Los Angeles Kings,5,2,2,5,2,35,5,57,51,Columbus Blue Jackets,8,0,3,5,2,28,6,92,True
+2013,4,18,0,Montreal Canadiens,5,2,4,7,3,20,6,29,42,Tampa Bay Lightning,3,0,3,3,3,36,22,161,True
+2013,4,18,10,New York Rangers,5,1,2,3,3,21,6,47,45,Florida Panthers,4,1,2,4,0,13,5,33,True
+2013,4,18,2,Ottawa Senators,5,2,3,5,2,34,10,131,30,Washington Capitals,9,0,5,10,1,30,11,123,True
+2013,4,18,23,Philadelphia Flyers,6,1,4,7,3,28,13,123,39,New Jersey Devils,0,1,0,0,1,12,5,50,False
+2013,4,18,41,San Jose Sharks,7,1,3,2,2,43,3,53,52,Minnesota Wild,4,1,5,7,3,19,9,70,True
+2013,4,18,21,St. Louis Blues,7,2,1,2,1,22,5,46,47,Phoenix Coyotes,5,0,0,0,2,36,11,132,True
+2013,4,18,13,Toronto Maple Leafs,7,1,1,2,0,32,8,87,28,New York Islanders,7,1,4,7,2,28,13,157,False
+2013,4,18,36,Winnipeg Jets,5,1,3,6,3,27,12,92,48,Carolina Hurricanes,2,1,2,3,3,34,8,94,True
+2013,4,19,26,Buffalo Sabres,6,1,2,4,2,43,4,92,10,New York Rangers,6,1,6,10,1,35,4,61,False
+2013,4,19,38,Calgary Flames,4,0,1,4,2,38,12,125,53,Anaheim Ducks,5,2,2,4,4,16,16,112,True
+2013,4,19,40,Chicago Blackhawks,8,2,5,8,0,30,2,48,49,Nashville Predators,1,0,2,3,5,24,11,50,True
+2013,4,19,46,Colorado Avalanche,3,0,3,6,4,28,10,83,35,Edmonton Oilers,4,2,3,7,5,30,12,92,False
+2013,4,19,21,St. Louis Blues,8,1,1,2,1,34,5,58,43,Dallas Stars,6,1,6,8,1,38,11,108,True
+2013,4,20,6,Boston Bruins,5,0,2,4,3,37,13,124,20,Pittsburgh Penguins,8,2,6,11,3,19,8,67,False
+2013,4,20,48,Carolina Hurricanes,1,0,3,6,4,31,9,91,23,Philadelphia Flyers,5,2,0,0,2,40,12,125,False
+2013,4,20,40,Chicago Blackhawks,9,2,5,7,4,27,6,45,47,Phoenix Coyotes,5,0,1,2,3,25,10,126,False
+2013,4,20,0,Montreal Canadiens,5,1,3,7,2,34,5,43,30,Washington Capitals,8,1,1,2,2,37,11,151,False
+2013,4,20,39,New Jersey Devils,1,1,3,4,0,23,4,61,45,Florida Panthers,4,1,1,2,5,18,11,50,True
+2013,4,20,2,Ottawa Senators,5,0,3,4,1,19,9,116,13,Toronto Maple Leafs,6,2,3,5,5,38,13,93,False
+2013,4,20,25,Vancouver Canucks,5,0,1,2,5,30,7,68,16,Detroit Red Wings,3,2,2,4,3,17,17,111,True
+2013,4,20,36,Winnipeg Jets,5,1,4,8,3,27,12,92,28,New York Islanders,7,1,5,10,3,21,14,150,False
+2013,4,21,6,Boston Bruins,5,2,2,3,3,24,13,111,45,Florida Panthers,4,0,2,4,6,33,12,65,True
+2013,4,21,46,Colorado Avalanche,2,1,1,2,4,30,10,79,21,St. Louis Blues,8,1,2,3,1,22,5,46,True
+2013,4,21,35,Edmonton Oilers,4,0,3,8,1,34,8,96,53,Anaheim Ducks,4,2,1,2,2,30,14,126,False
+2013,4,21,22,Los Angeles Kings,6,1,2,4,1,21,4,43,43,Dallas Stars,6,1,2,1,2,20,12,90,True
+2013,4,21,52,Minnesota Wild,3,2,1,2,5,27,11,68,38,Calgary Flames,5,0,1,5,4,27,11,120,False
+2013,4,21,10,New York Rangers,7,1,8,10,4,28,7,54,39,New Jersey Devils,2,1,6,11,2,13,6,51,True
+2013,4,21,41,San Jose Sharks,7,0,6,8,1,28,2,38,51,Columbus Blue Jackets,7,2,1,2,2,23,7,76,False
+2013,4,21,42,Tampa Bay Lightning,2,2,2,3,1,8,22,160,48,Carolina Hurricanes,1,0,3,3,4,32,10,98,False
+2013,4,22,26,Buffalo Sabres,6,0,4,5,4,15,9,45,36,Winnipeg Jets,5,2,3,7,4,33,13,98,False
+2013,4,22,16,Detroit Red Wings,3,1,1,1,1,14,12,116,47,Phoenix Coyotes,5,1,2,1,2,38,9,139,True
+2013,4,22,35,Edmonton Oilers,3,0,1,2,4,38,10,92,53,Anaheim Ducks,5,2,3,4,3,28,11,129,False
+2013,4,22,2,Ottawa Senators,4,0,1,1,4,22,12,119,20,Pittsburgh Penguins,8,2,3,5,2,40,7,88,False
+2013,4,22,25,Vancouver Canucks,6,1,1,2,1,34,3,72,40,Chicago Blackhawks,8,1,2,4,2,31,4,49,True
+2013,4,23,48,Carolina Hurricanes,2,2,3,5,2,37,8,103,28,New York Islanders,8,0,4,8,4,28,15,157,True
+2013,4,23,45,Florida Panthers,3,1,0,0,2,38,8,70,10,New York Rangers,7,1,4,7,1,27,4,53,True
+2013,4,23,52,Minnesota Wild,3,1,1,2,3,23,9,64,22,Los Angeles Kings,6,1,4,8,3,22,6,49,True
+2013,4,23,39,New Jersey Devils,2,0,1,2,4,22,8,60,0,Montreal Canadiens,4,2,1,2,5,25,8,34,True
+2013,4,23,49,Nashville Predators,1,1,4,7,5,30,13,76,38,Calgary Flames,6,1,4,6,1,33,8,128,True
+2013,4,23,23,Philadelphia Flyers,5,1,5,6,3,29,14,126,6,Boston Bruins,5,1,3,5,2,32,10,115,True
+2013,4,23,20,Pittsburgh Penguins,8,1,4,6,4,35,6,83,26,Buffalo Sabres,6,1,1,2,4,14,7,69,False
+2013,4,23,41,San Jose Sharks,6,0,3,5,4,22,5,32,43,Dallas Stars,6,2,3,6,4,31,14,101,True
+2013,4,23,21,St. Louis Blues,7,0,3,5,4,19,5,36,46,Colorado Avalanche,3,2,5,7,4,24,9,81,True
+2013,4,23,30,Washington Capitals,9,2,5,9,1,36,9,145,36,Winnipeg Jets,6,0,2,4,1,25,10,90,True
+2013,4,24,16,Detroit Red Wings,4,1,4,7,0,34,11,136,22,Los Angeles Kings,6,1,1,1,3,27,5,52,True
+2013,4,24,35,Edmonton Oilers,2,1,0,0,3,30,9,82,40,Chicago Blackhawks,7,1,0,0,2,18,5,50,False
+2013,4,24,47,Phoenix Coyotes,5,0,0,1,3,22,10,123,41,San Jose Sharks,6,2,3,6,0,4,3,36,True
+2013,4,24,42,Tampa Bay Lightning,2,1,2,4,3,35,24,180,13,Toronto Maple Leafs,6,1,4,5,1,50,9,105,True
+2013,4,25,6,Boston Bruins,4,2,2,2,2,13,13,84,42,Tampa Bay Lightning,2,0,5,8,3,28,23,173,True
+2013,4,25,48,Carolina Hurricanes,3,0,2,7,3,39,9,105,10,New York Rangers,6,2,2,4,2,15,5,41,False
+2013,4,25,43,Dallas Stars,6,1,2,4,3,37,13,107,51,Columbus Blue Jackets,7,1,4,6,3,35,7,100,False
+2013,4,25,16,Detroit Red Wings,4,2,3,6,1,24,12,126,49,Nashville Predators,2,0,3,7,5,18,10,60,True
+2013,4,25,45,Florida Panthers,3,0,3,4,2,38,8,70,13,Toronto Maple Leafs,5,2,2,2,4,25,12,80,False
+2013,4,25,39,New Jersey Devils,3,2,3,6,3,22,6,59,20,Pittsburgh Penguins,7,0,3,4,3,32,5,80,True
+2013,4,25,23,Philadelphia Flyers,5,0,5,4,2,30,11,135,28,New York Islanders,7,2,3,6,2,25,14,161,True
+2013,4,25,21,St. Louis Blues,7,1,3,6,1,18,2,35,38,Calgary Flames,6,1,5,8,1,35,11,127,True
+2013,4,25,25,Vancouver Canucks,7,1,3,5,2,38,3,63,53,Anaheim Ducks,5,1,1,6,1,28,10,126,False
+2013,4,25,36,Winnipeg Jets,6,0,3,3,4,40,13,125,0,Montreal Canadiens,4,2,2,4,3,24,6,33,False
+2013,4,25,30,Washington Capitals,9,0,5,9,2,29,11,136,2,Ottawa Senators,4,2,0,2,3,24,10,114,False
+2013,4,26,26,Buffalo Sabres,6,1,4,7,2,42,5,97,28,New York Islanders,6,1,1,1,3,32,14,166,True
+2013,4,26,40,Chicago Blackhawks,8,2,4,8,0,14,1,22,38,Calgary Flames,6,0,0,0,4,20,14,112,True
+2013,4,26,52,Minnesota Wild,4,2,2,4,1,23,7,64,35,Edmonton Oilers,1,0,1,2,3,28,9,81,False
+2013,4,26,47,Phoenix Coyotes,5,2,2,4,1,34,8,135,46,Colorado Avalanche,3,0,1,2,3,32,8,91,False
+2013,4,27,53,Anaheim Ducks,5,1,3,5,0,24,10,127,47,Phoenix Coyotes,4,1,4,8,4,41,11,129,False
+2013,4,27,51,Columbus Blue Jackets,7,1,3,5,1,32,5,97,49,Nashville Predators,1,1,2,5,5,38,10,80,True
+2013,4,27,46,Colorado Avalanche,4,0,4,7,0,6,6,62,52,Minnesota Wild,4,2,1,1,3,5,12,52,False
+2013,4,27,43,Dallas Stars,5,1,1,2,4,27,13,105,16,Detroit Red Wings,5,1,5,9,2,22,15,127,False
+2013,4,27,35,Edmonton Oilers,2,1,6,9,3,29,7,92,25,Vancouver Canucks,6,1,0,3,2,29,3,54,True
+2013,4,27,22,Los Angeles Kings,5,1,1,2,3,36,5,61,41,San Jose Sharks,5,1,1,0,2,26,5,64,True
+2013,4,27,10,New York Rangers,7,2,4,8,3,21,6,47,39,New Jersey Devils,4,0,3,6,2,18,5,55,True
+2013,4,27,2,Ottawa Senators,5,1,2,4,1,20,8,110,23,Philadelphia Flyers,5,1,2,3,2,41,10,115,False
+2013,4,27,20,Pittsburgh Penguins,7,1,2,5,3,32,5,80,48,Carolina Hurricanes,3,1,3,4,5,38,10,104,True
+2013,4,27,21,St. Louis Blues,7,1,4,7,1,19,2,36,40,Chicago Blackhawks,8,1,1,0,0,0,2,34,True
+2013,4,27,42,Tampa Bay Lightning,2,1,0,0,2,24,22,169,45,Florida Panthers,2,1,0,0,4,17,10,49,False
+2013,4,27,13,Toronto Maple Leafs,6,1,4,6,0,34,8,89,0,Montreal Canadiens,4,1,4,7,3,9,5,34,False
+2013,4,27,30,Washington Capitals,8,1,1,2,3,27,11,148,6,Boston Bruins,4,1,2,4,0,30,11,101,True
+2013,4,28,6,Boston Bruins,4,2,2,3,3,37,14,108,2,Ottawa Senators,5,0,2,2,1,25,9,115,False

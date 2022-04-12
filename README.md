@@ -6,18 +6,31 @@ A [`flax`](https://github.com/google/flax) implementation of hyperlstms, based o
 
 Most dependencies are installed with [poetry](https://python-poetry.org/). However, it makes more sense to install flax and jax using their instructions.
 See the [jax](https://github.com/google/jax#installation) page for specific install instructions, for instance:  
-`poetry run pip install --upgrade pip`
+```
+pip install poetry
+poetry run pip install --upgrade pip
+poetry install
+```
 
 ##### CPU  
-`poetry run pip install --upgrade "jax[cpu]"`
+```poetry run pip install --upgrade "jax[cpu]"```
 
 ##### GPU  
-`poetry run pip install --upgrade "jax[cuda]" -f https://storage.googleapis.com/jax-releases/jax_releases.html`  
+```
+poetry run pip install --upgrade "jax[cuda]" \
+    -f https://storage.googleapis.com/jax-releases/jax_releases.html
+```
 Or, to install for a specific cuda version:  
-`poetry run pip install --upgrade "jax[cuda11_cudnn82]" -f https://storage.googleapis.com/jax-releases/jax_releases.html`
+```
+poetry run pip install --upgrade "jax[cuda11_cudnn82]" \
+    -f https://storage.googleapis.com/jax-releases/jax_releases.html
+```
 
 ##### TPU  
-`poetry run pip install "jax[tpu]>=0.2.16" -f https://storage.googleapis.com/jax-releases/libtpu_releases.html"`
+```
+poetry run pip install "jax[tpu]>=0.2.16" \
+    -f https://storage.googleapis.com/jax-releases/libtpu_releases.html"
+```
 
 ##### Tensorflow Text
 Because of poor depedency specification, `tensorflow_text` must be installed via pip:
@@ -30,7 +43,7 @@ Once jax is installed, install flax:
 * TensorFlow dataset `glue/sst2` will be downloaded and prepared automatically, if necessary.
 
 ```bash
-./run --workdir=/tmp/sst2 --config=configs/default.py`
+./run --workdir=/tmp/sst2 --config=models/hyperlstm/configs/default.py`
 ```
 
 #### Overriding Hyperparameter configurations
@@ -43,6 +56,6 @@ follows:
 
 ```shell
 ./run \
-    --workdir=/tmp/sst2 --config=configs/default.py \
+    --workdir=/tmp/sst2 --config=models/hyperlstm/configs/default.py \
     --config.learning_rate=0.05 --config.num_epochs=5
 ```

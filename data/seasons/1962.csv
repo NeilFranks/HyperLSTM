@@ -1,0 +1,211 @@
+Year,Month,Day,Home_ID,Home_name,Home_wins_last10,Home_wins_VERSUS_last2,Home_goals_lastGame,Home_assists_lastGame,Home_GA_startingGoalie,Home_SA_startingGoalie,Home_GA_allGoalies,Home_SA_allGoalies,Away_ID,Away_name,Away_wins_last10,Away_wins_VERSUS_last2,Away_goals_lastGame,Away_assists_lastGame,Away_GA_startingGoalie,Away_SA_startingGoalie,Away_GA_allGoalies,Away_SA_allGoalies,Home_Won
+1961,10,11,6,Boston Bruins,3,1,2,8,0,0,23,228,10,New York Rangers,3,1,1,3,1,5,18,191,False
+1961,10,12,16,Detroit Red Wings,5,0,1,0,1,37,19,169,13,Toronto Maple Leafs,7,2,2,5,0,38,6,122,False
+1961,10,12,10,New York Rangers,3,1,6,8,2,35,19,221,6,Boston Bruins,3,1,2,3,6,35,29,263,True
+1961,10,14,16,Detroit Red Wings,4,2,2,4,3,33,21,165,11,Chicago Black Hawks,6,0,2,6,4,41,4,41,False
+1961,10,14,0,Montreal Canadiens,8,2,1,0,0,20,21,122,10,New York Rangers,4,0,6,9,3,30,20,216,True
+1961,10,14,13,Toronto Maple Leafs,7,2,4,5,2,27,8,111,6,Boston Bruins,2,0,3,4,6,31,29,259,True
+1961,10,15,6,Boston Bruins,2,0,2,3,3,28,26,256,0,Montreal Canadiens,8,2,3,6,1,18,22,120,False
+1961,10,15,11,Chicago Black Hawks,6,1,3,6,3,30,3,30,16,Detroit Red Wings,4,1,3,6,3,25,21,157,False
+1961,10,15,10,New York Rangers,4,0,1,2,3,28,20,214,13,Toronto Maple Leafs,7,2,3,6,2,25,8,109,True
+1961,10,17,11,Chicago Black Hawks,6,1,2,2,2,28,2,28,6,Boston Bruins,2,1,5,8,5,36,28,264,True
+1961,10,18,10,New York Rangers,4,0,2,4,1,44,18,230,0,Montreal Canadiens,9,2,5,7,5,36,26,138,False
+1961,10,19,11,Chicago Black Hawks,6,2,5,10,3,23,3,23,10,New York Rangers,4,0,2,4,5,28,22,214,False
+1961,10,19,16,Detroit Red Wings,5,2,2,4,2,32,20,164,6,Boston Bruins,2,0,3,4,5,28,28,256,True
+1961,10,21,16,Detroit Red Wings,6,1,7,13,3,32,21,164,10,New York Rangers,5,1,4,6,2,35,19,221,False
+1961,10,21,0,Montreal Canadiens,9,2,5,8,2,17,23,119,6,Boston Bruins,2,0,3,6,2,23,32,283,True
+1961,10,21,13,Toronto Maple Leafs,6,0,1,2,2,28,12,132,11,Chicago Black Hawks,5,2,2,2,4,26,4,26,False
+1961,10,22,6,Boston Bruins,2,0,2,3,6,43,36,303,13,Toronto Maple Leafs,5,2,0,2,1,23,11,127,False
+1961,10,22,11,Chicago Black Hawks,5,1,1,1,1,31,1,31,0,Montreal Canadiens,9,1,6,7,2,23,23,125,False
+1961,10,22,10,New York Rangers,5,1,4,6,2,36,21,222,16,Detroit Red Wings,5,1,4,8,4,27,22,159,False
+1961,10,25,10,New York Rangers,5,1,4,8,5,37,24,223,11,Chicago Black Hawks,4,1,2,2,3,37,3,37,False
+1961,10,26,6,Boston Bruins,1,0,1,2,7,32,39,297,16,Detroit Red Wings,5,2,4,7,1,15,22,157,True
+1961,10,26,0,Montreal Canadiens,9,1,3,6,2,35,23,137,11,Chicago Black Hawks,5,1,1,1,1,30,1,30,True
+1961,10,28,0,Montreal Canadiens,9,2,7,10,1,27,22,129,16,Detroit Red Wings,5,0,1,0,4,25,25,183,True
+1961,10,28,13,Toronto Maple Leafs,6,1,8,13,1,40,14,138,10,New York Rangers,5,1,1,1,1,26,20,212,True
+1961,10,29,6,Boston Bruins,2,1,4,8,0,41,32,306,11,Chicago Black Hawks,5,1,1,2,7,28,7,28,False
+1961,10,29,16,Detroit Red Wings,4,0,5,8,7,32,28,190,0,Montreal Canadiens,9,2,7,13,5,34,26,136,False
+1961,10,29,10,New York Rangers,5,1,1,1,2,17,24,216,13,Toronto Maple Leafs,7,1,5,9,1,24,14,122,True
+1961,10,31,11,Chicago Black Hawks,5,1,2,4,2,26,2,26,10,New York Rangers,5,1,3,5,2,28,24,227,False
+1961,11,1,13,Toronto Maple Leafs,6,1,2,2,4,38,17,136,0,Montreal Canadiens,9,1,6,10,3,33,24,135,True
+1961,11,2,16,Detroit Red Wings,3,1,3,6,6,38,27,196,10,New York Rangers,5,1,5,8,2,30,24,229,True
+1961,11,2,0,Montreal Canadiens,9,2,2,2,3,33,24,135,6,Boston Bruins,1,0,2,4,2,29,34,294,False
+1961,11,4,0,Montreal Canadiens,8,2,2,3,5,36,26,138,10,New York Rangers,5,0,0,0,1,28,23,227,False
+1961,11,4,13,Toronto Maple Leafs,7,0,3,5,2,26,15,124,11,Chicago Black Hawks,5,2,2,3,4,27,4,27,True
+1961,11,5,6,Boston Bruins,2,0,5,10,2,42,34,307,11,Chicago Black Hawks,4,2,1,2,2,30,2,30,False
+1961,11,5,16,Detroit Red Wings,4,0,1,2,0,21,21,179,13,Toronto Maple Leafs,7,2,2,4,1,25,14,123,False
+1961,11,7,11,Chicago Black Hawks,5,1,4,8,3,32,3,32,13,Toronto Maple Leafs,7,1,3,2,2,36,15,134,True
+1961,11,8,10,New York Rangers,5,2,3,6,3,23,25,222,6,Boston Bruins,2,0,3,6,4,29,36,294,False
+1961,11,9,16,Detroit Red Wings,4,1,2,1,3,23,24,181,6,Boston Bruins,3,1,4,7,4,37,36,302,True
+1961,11,9,0,Montreal Canadiens,7,1,4,5,3,40,24,142,13,Toronto Maple Leafs,6,1,0,0,6,37,19,135,True
+1961,11,11,0,Montreal Canadiens,7,2,5,10,2,32,23,134,11,Chicago Black Hawks,5,0,5,10,0,22,0,22,True
+1961,11,11,13,Toronto Maple Leafs,5,2,2,4,5,45,18,143,16,Detroit Red Wings,5,0,2,4,1,23,22,181,True
+1961,11,12,6,Boston Bruins,3,0,1,2,2,31,34,296,13,Toronto Maple Leafs,6,2,5,8,1,32,14,130,True
+1961,11,12,16,Detroit Red Wings,4,0,1,0,5,41,26,199,0,Montreal Canadiens,7,2,1,4,1,19,22,121,True
+1961,11,12,10,New York Rangers,5,1,4,7,4,25,26,224,11,Chicago Black Hawks,5,1,1,2,2,26,2,26,True
+1961,11,15,11,Chicago Black Hawks,4,1,1,2,4,26,4,26,16,Detroit Red Wings,4,1,3,3,0,22,21,180,True
+1961,11,15,13,Toronto Maple Leafs,6,1,3,6,4,30,17,128,0,Montreal Canadiens,6,1,1,0,3,27,24,129,True
+1961,11,16,6,Boston Bruins,4,1,4,7,3,34,35,299,0,Montreal Canadiens,5,1,2,4,3,26,24,128,True
+1961,11,18,10,New York Rangers,5,1,4,8,1,30,23,229,0,Montreal Canadiens,4,1,2,4,3,25,24,127,False
+1961,11,18,13,Toronto Maple Leafs,6,2,5,7,2,29,15,127,16,Detroit Red Wings,4,0,0,0,2,21,23,179,True
+1961,11,19,6,Boston Bruins,5,1,3,4,2,26,34,291,16,Detroit Red Wings,3,1,1,2,6,31,27,189,False
+1961,11,19,11,Chicago Black Hawks,5,0,2,2,0,28,0,28,0,Montreal Canadiens,4,2,4,7,4,22,25,124,False
+1961,11,19,10,New York Rangers,4,1,4,5,4,41,26,240,13,Toronto Maple Leafs,6,1,6,9,1,25,14,123,True
+1961,11,22,10,New York Rangers,5,0,5,9,3,30,25,229,16,Detroit Red Wings,4,2,6,10,2,27,23,185,True
+1961,11,23,6,Boston Bruins,5,1,2,4,6,41,38,306,10,New York Rangers,6,1,4,7,0,29,22,228,False
+1961,11,23,11,Chicago Black Hawks,4,1,4,7,3,22,3,22,13,Toronto Maple Leafs,6,1,3,4,4,35,17,133,False
+1961,11,23,0,Montreal Canadiens,4,1,3,6,3,30,24,132,16,Detroit Red Wings,4,1,0,0,4,32,25,190,True
+1961,11,25,0,Montreal Canadiens,5,0,5,8,3,31,24,133,6,Boston Bruins,5,2,2,5,4,26,36,291,True
+1961,11,25,13,Toronto Maple Leafs,6,0,5,4,2,25,15,123,10,New York Rangers,7,2,4,6,3,33,25,232,True
+1961,11,26,6,Boston Bruins,4,1,1,1,5,45,37,310,13,Toronto Maple Leafs,6,1,6,10,0,23,13,121,False
+1961,11,26,11,Chicago Black Hawks,4,1,2,2,5,38,5,38,16,Detroit Red Wings,4,1,3,6,4,29,25,187,True
+1961,11,26,10,New York Rangers,6,1,0,0,6,43,28,242,0,Montreal Canadiens,6,1,5,10,0,20,21,122,False
+1961,11,29,11,Chicago Black Hawks,4,2,4,6,1,35,1,35,6,Boston Bruins,4,0,1,2,3,30,35,295,True
+1961,11,29,13,Toronto Maple Leafs,6,1,4,3,1,30,14,128,0,Montreal Canadiens,7,1,2,1,2,26,23,128,False
+1961,11,30,16,Detroit Red Wings,3,2,1,1,4,41,25,184,6,Boston Bruins,3,0,4,5,7,36,39,301,True
+1961,11,30,0,Montreal Canadiens,7,1,2,3,2,37,23,139,13,Toronto Maple Leafs,6,1,2,4,2,29,15,127,False
+1961,12,2,6,Boston Bruins,3,1,1,2,3,36,35,301,10,New York Rangers,5,1,2,4,2,27,24,226,True
+1961,12,2,0,Montreal Canadiens,6,1,1,2,1,33,22,135,16,Detroit Red Wings,4,1,3,5,1,15,22,158,True
+1961,12,2,13,Toronto Maple Leafs,7,1,1,1,0,0,14,130,11,Chicago Black Hawks,5,1,7,11,4,24,4,24,True
+1961,12,3,11,Chicago Black Hawks,5,0,4,7,5,27,5,27,0,Montreal Canadiens,7,2,3,5,2,31,23,133,False
+1961,12,3,16,Detroit Red Wings,3,0,2,4,3,19,24,162,13,Toronto Maple Leafs,7,2,6,9,4,39,18,169,True
+1961,12,3,10,New York Rangers,5,1,1,2,3,37,25,236,6,Boston Bruins,3,1,3,3,1,26,33,291,True
+1961,12,6,10,New York Rangers,5,2,3,4,1,26,23,225,11,Chicago Black Hawks,4,0,0,0,1,29,1,29,False
+1961,12,7,6,Boston Bruins,3,0,1,2,3,33,35,298,11,Chicago Black Hawks,4,2,8,11,3,30,3,30,False
+1961,12,7,16,Detroit Red Wings,4,1,3,6,1,20,22,163,10,New York Rangers,5,1,3,4,8,28,30,227,False
+1961,12,7,0,Montreal Canadiens,8,1,2,2,0,33,21,135,13,Toronto Maple Leafs,7,1,1,1,4,39,20,200,True
+1961,12,9,16,Detroit Red Wings,3,0,3,6,4,26,24,164,11,Chicago Black Hawks,5,2,5,6,2,31,2,31,True
+1961,12,9,0,Montreal Canadiens,9,2,4,6,1,24,22,126,10,New York Rangers,5,0,3,5,3,37,25,236,False
+1961,12,9,13,Toronto Maple Leafs,6,1,1,1,4,30,20,191,6,Boston Bruins,2,1,2,3,5,29,37,285,True
+1961,12,10,6,Boston Bruins,1,1,2,3,9,41,39,301,0,Montreal Canadiens,8,1,2,4,2,33,23,135,False
+1961,12,10,11,Chicago Black Hawks,5,1,0,0,3,37,3,37,16,Detroit Red Wings,4,1,3,6,0,20,20,158,False
+1961,12,10,10,New York Rangers,6,1,2,3,2,26,24,225,13,Toronto Maple Leafs,6,1,9,13,2,34,18,195,False
+1961,12,13,11,Chicago Black Hawks,4,2,2,4,3,41,3,41,6,Boston Bruins,1,0,3,5,9,37,34,287,False
+1961,12,14,16,Detroit Red Wings,5,2,3,5,2,36,22,174,6,Boston Bruins,2,0,2,2,2,33,27,283,True
+1961,12,16,0,Montreal Canadiens,8,2,4,5,3,26,24,128,6,Boston Bruins,2,0,0,0,4,35,30,286,True
+1961,12,16,13,Toronto Maple Leafs,7,2,3,6,1,32,14,186,10,New York Rangers,5,0,2,4,3,39,25,238,True
+1961,12,17,6,Boston Bruins,2,0,4,6,8,52,34,303,13,Toronto Maple Leafs,7,2,4,7,2,33,15,187,False
+1961,12,17,11,Chicago Black Hawks,4,1,2,4,2,38,2,38,10,New York Rangers,4,1,2,4,4,40,26,239,True
+1961,12,17,16,Detroit Red Wings,5,0,5,8,0,21,20,159,0,Montreal Canadiens,8,2,8,14,4,36,25,138,True
+1961,12,20,10,New York Rangers,3,2,2,2,3,30,25,229,16,Detroit Red Wings,6,0,3,5,1,28,21,166,True
+1961,12,21,6,Boston Bruins,2,0,1,2,2,23,28,274,16,Detroit Red Wings,6,2,1,2,3,21,26,176,True
+1961,12,21,0,Montreal Canadiens,7,2,1,2,3,32,24,134,11,Chicago Black Hawks,5,0,3,5,1,34,1,34,False
+1961,12,23,0,Montreal Canadiens,6,1,2,5,4,33,25,135,16,Detroit Red Wings,6,1,2,3,6,38,27,183,True
+1961,12,23,10,New York Rangers,4,0,6,8,1,16,23,215,11,Chicago Black Hawks,5,2,4,7,3,27,3,27,True
+1961,12,23,13,Toronto Maple Leafs,7,2,4,5,1,35,14,189,6,Boston Bruins,3,0,4,6,2,30,28,281,False
+1961,12,25,6,Boston Bruins,3,0,7,10,4,42,30,293,0,Montreal Canadiens,6,2,7,9,1,36,22,138,False
+1961,12,25,11,Chicago Black Hawks,4,0,3,4,7,32,7,32,13,Toronto Maple Leafs,6,2,4,8,7,28,20,182,False
+1961,12,25,16,Detroit Red Wings,5,0,1,2,4,28,27,180,10,New York Rangers,5,2,7,13,3,28,25,227,False
+1961,12,27,10,New York Rangers,6,1,6,8,4,35,26,234,0,Montreal Canadiens,7,1,5,6,2,37,23,139,False
+1961,12,27,13,Toronto Maple Leafs,7,2,3,5,3,39,16,193,11,Chicago Black Hawks,4,0,3,6,3,29,3,29,False
+1961,12,28,16,Detroit Red Wings,5,2,4,5,6,35,29,179,11,Chicago Black Hawks,5,0,0,0,0,30,0,30,False
+1961,12,30,0,Montreal Canadiens,7,1,3,5,0,24,21,126,11,Chicago Black Hawks,5,1,2,4,2,32,2,32,False
+1961,12,30,13,Toronto Maple Leafs,6,1,0,0,0,30,13,184,16,Detroit Red Wings,4,1,2,4,2,26,25,170,True
+1961,12,31,16,Detroit Red Wings,4,1,4,8,6,29,29,173,13,Toronto Maple Leafs,6,1,6,10,4,31,17,185,True
+1961,12,31,10,New York Rangers,5,1,0,0,3,30,25,229,6,Boston Bruins,3,1,2,2,5,33,31,284,False
+1962,1,1,6,Boston Bruins,4,1,7,12,4,45,30,296,10,New York Rangers,5,1,4,7,7,45,29,244,False
+1962,1,1,11,Chicago Black Hawks,5,2,4,8,4,29,4,29,0,Montreal Canadiens,6,0,4,6,4,33,25,135,True
+1962,1,3,11,Chicago Black Hawks,6,1,2,3,0,32,0,32,10,New York Rangers,5,1,4,5,2,30,24,229,True
+1962,1,3,13,Toronto Maple Leafs,6,1,2,4,4,33,17,187,0,Montreal Canadiens,5,1,0,0,2,23,23,125,True
+1962,1,4,16,Detroit Red Wings,4,1,4,5,2,29,25,173,11,Chicago Black Hawks,7,1,2,4,1,26,1,26,False
+1962,1,6,16,Detroit Red Wings,3,1,1,1,1,18,24,162,6,Boston Bruins,4,1,2,4,4,34,30,285,True
+1962,1,6,0,Montreal Canadiens,5,1,1,2,3,33,24,135,10,New York Rangers,4,1,1,2,2,36,24,235,True
+1962,1,6,13,Toronto Maple Leafs,7,1,3,5,1,29,14,183,11,Chicago Black Hawks,8,1,1,2,1,31,1,31,True
+1962,1,7,11,Chicago Black Hawks,7,1,3,4,6,33,6,33,6,Boston Bruins,4,1,2,4,6,39,32,290,False
+1962,1,7,16,Detroit Red Wings,3,1,6,11,2,28,25,172,0,Montreal Canadiens,5,1,5,9,1,25,22,127,False
+1962,1,7,10,New York Rangers,4,0,1,2,5,36,27,235,13,Toronto Maple Leafs,7,2,6,10,3,28,16,182,False
+1962,1,10,13,Toronto Maple Leafs,7,1,4,7,3,28,16,182,6,Boston Bruins,4,1,2,2,0,39,26,290,True
+1962,1,11,6,Boston Bruins,4,2,5,9,7,43,33,294,11,Chicago Black Hawks,6,0,0,0,1,33,1,33,False
+1962,1,11,0,Montreal Canadiens,5,1,2,3,2,41,23,143,13,Toronto Maple Leafs,7,1,6,11,5,29,18,183,True
+1962,1,13,11,Chicago Black Hawks,7,1,6,11,0,24,0,24,10,New York Rangers,4,1,3,6,4,39,26,238,True
+1962,1,13,0,Montreal Canadiens,6,2,4,7,2,41,23,143,6,Boston Bruins,4,0,0,0,6,28,32,279,True
+1962,1,13,13,Toronto Maple Leafs,6,1,2,2,4,29,17,183,16,Detroit Red Wings,2,1,2,2,2,32,25,176,True
+1962,1,14,6,Boston Bruins,4,0,3,5,5,33,31,284,0,Montreal Canadiens,7,2,5,8,3,49,24,151,False
+1962,1,14,11,Chicago Black Hawks,8,1,4,8,2,26,2,26,13,Toronto Maple Leafs,7,1,4,6,3,28,16,182,False
+1962,1,14,16,Detroit Red Wings,2,0,3,3,4,32,27,176,10,New York Rangers,4,2,2,4,3,21,25,220,True
+1962,1,17,11,Chicago Black Hawks,7,2,2,4,2,23,2,23,0,Montreal Canadiens,7,0,4,5,1,30,22,132,False
+1962,1,17,13,Toronto Maple Leafs,7,2,2,2,2,34,15,188,10,New York Rangers,3,0,1,2,2,30,24,229,True
+1962,1,18,6,Boston Bruins,3,1,1,4,3,32,30,280,16,Detroit Red Wings,3,1,2,3,1,29,24,173,True
+1962,1,20,0,Montreal Canadiens,7,2,7,11,3,35,24,137,16,Detroit Red Wings,3,0,3,6,5,38,28,182,False
+1962,1,20,13,Toronto Maple Leafs,8,1,4,7,2,24,15,178,6,Boston Bruins,3,1,5,9,3,32,30,280,False
+1962,1,21,6,Boston Bruins,4,1,5,8,4,48,31,296,13,Toronto Maple Leafs,7,1,4,7,5,32,18,186,False
+1962,1,21,11,Chicago Black Hawks,6,2,3,5,7,33,7,33,10,New York Rangers,2,0,2,4,4,28,28,228,True
+1962,1,21,16,Detroit Red Wings,4,1,2,4,2,37,25,181,0,Montreal Canadiens,6,1,2,2,2,29,23,131,False
+1962,1,24,11,Chicago Black Hawks,6,0,3,3,1,25,1,25,13,Toronto Maple Leafs,8,2,5,2,1,31,14,185,True
+1962,1,24,10,New York Rangers,1,1,1,2,3,36,27,236,16,Detroit Red Wings,4,1,3,4,5,32,28,176,False
+1962,1,27,6,Boston Bruins,3,1,1,1,5,33,32,281,11,Chicago Black Hawks,6,1,2,2,1,20,1,20,True
+1962,1,27,0,Montreal Canadiens,7,2,5,7,3,38,24,140,10,New York Rangers,1,0,0,0,3,32,25,243,True
+1962,1,27,13,Toronto Maple Leafs,7,1,1,1,2,31,15,185,16,Detroit Red Wings,5,1,3,4,0,28,23,172,True
+1962,1,28,6,Boston Bruins,4,0,5,7,3,44,30,292,0,Montreal Canadiens,8,2,5,8,1,28,22,130,False
+1962,1,28,16,Detroit Red Wings,4,0,2,4,4,33,27,177,13,Toronto Maple Leafs,7,2,4,6,2,27,15,181,False
+1962,1,28,10,New York Rangers,1,0,1,2,5,36,29,242,11,Chicago Black Hawks,5,2,3,5,5,30,5,30,False
+1962,1,31,11,Chicago Black Hawks,5,2,3,6,0,29,0,29,16,Detroit Red Wings,4,0,2,5,2,27,25,171,True
+1962,1,31,10,New York Rangers,0,1,0,0,3,40,27,246,6,Boston Bruins,4,1,1,2,5,39,32,287,True
+1962,2,1,6,Boston Bruins,3,0,0,0,5,23,32,271,10,New York Rangers,1,2,5,10,0,40,24,230,False
+1962,2,1,16,Detroit Red Wings,3,0,1,1,4,31,27,175,11,Chicago Black Hawks,6,2,4,8,1,25,1,25,False
+1962,2,1,0,Montreal Canadiens,9,1,5,10,1,32,22,134,13,Toronto Maple Leafs,7,1,2,2,2,27,15,181,True
+1962,2,3,11,Chicago Black Hawks,7,1,7,14,4,55,4,55,6,Boston Bruins,3,1,3,6,4,28,31,276,True
+1962,2,3,0,Montreal Canadiens,9,1,5,9,2,25,23,127,16,Detroit Red Wings,3,1,4,7,7,27,30,171,True
+1962,2,3,13,Toronto Maple Leafs,6,2,2,2,5,38,18,192,10,New York Rangers,2,0,5,9,0,0,28,260,True
+1962,2,4,11,Chicago Black Hawks,7,1,6,11,3,30,3,30,13,Toronto Maple Leafs,7,1,4,8,1,24,14,178,True
+1962,2,4,16,Detroit Red Wings,3,1,1,2,6,27,31,185,6,Boston Bruins,3,1,3,6,6,51,33,299,True
+1962,2,4,10,New York Rangers,2,0,1,2,5,30,29,245,0,Montreal Canadiens,9,2,8,15,1,38,22,140,True
+1962,2,7,10,New York Rangers,3,0,2,4,1,41,25,256,16,Detroit Red Wings,3,2,6,11,0,21,25,179,False
+1962,2,7,13,Toronto Maple Leafs,6,1,1,2,2,33,15,187,6,Boston Bruins,3,1,0,0,6,41,33,289,False
+1962,2,8,6,Boston Bruins,4,1,2,4,2,42,29,290,11,Chicago Black Hawks,7,1,1,2,1,31,1,31,False
+1962,2,10,6,Boston Bruins,3,1,2,4,6,23,33,271,16,Detroit Red Wings,4,1,2,4,2,35,27,193,False
+1962,2,10,10,New York Rangers,3,0,2,4,2,26,22,237,11,Chicago Black Hawks,8,2,6,11,2,32,2,32,True
+1962,2,10,13,Toronto Maple Leafs,5,0,2,4,2,30,15,184,0,Montreal Canadiens,8,2,1,1,2,28,23,130,False
+1962,2,11,6,Boston Bruins,2,0,2,3,2,37,29,285,10,New York Rangers,4,2,2,4,1,18,21,229,False
+1962,2,11,11,Chicago Black Hawks,8,1,1,2,2,23,2,23,0,Montreal Canadiens,8,1,4,5,2,30,23,132,False
+1962,2,11,16,Detroit Red Wings,4,0,2,1,2,27,27,185,13,Toronto Maple Leafs,4,2,2,2,4,32,17,186,True
+1962,2,14,11,Chicago Black Hawks,7,1,3,5,4,35,4,35,10,New York Rangers,5,1,5,10,3,32,26,244,True
+1962,2,15,16,Detroit Red Wings,5,2,5,7,0,31,25,189,10,New York Rangers,5,0,3,7,1,11,27,248,True
+1962,2,15,0,Montreal Canadiens,8,2,4,5,3,34,24,136,6,Boston Bruins,2,0,3,5,5,38,32,286,True
+1962,2,17,0,Montreal Canadiens,8,2,9,15,1,33,22,135,11,Chicago Black Hawks,7,0,4,8,3,38,3,38,True
+1962,2,17,13,Toronto Maple Leafs,4,2,0,0,5,39,18,193,10,New York Rangers,5,0,3,5,4,38,34,288,True
+1962,2,18,11,Chicago Black Hawks,7,2,2,4,6,37,6,37,6,Boston Bruins,1,0,1,2,9,51,36,299,True
+1962,2,18,16,Detroit Red Wings,5,0,4,8,3,31,28,189,0,Montreal Canadiens,9,2,6,10,2,32,23,134,True
+1962,2,18,10,New York Rangers,5,0,3,5,5,36,32,261,13,Toronto Maple Leafs,4,2,4,8,3,31,16,185,True
+1962,2,21,11,Chicago Black Hawks,7,2,6,11,0,30,0,30,16,Detroit Red Wings,6,0,4,7,2,32,27,190,True
+1962,2,21,10,New York Rangers,5,2,6,11,4,36,29,262,6,Boston Bruins,1,0,0,0,6,26,33,274,True
+1962,2,21,13,Toronto Maple Leafs,4,0,2,4,6,34,19,188,0,Montreal Canadiens,8,2,2,4,4,36,25,138,False
+1962,2,24,16,Detroit Red Wings,6,0,4,6,8,41,30,199,11,Chicago Black Hawks,7,2,6,9,4,36,4,36,False
+1962,2,24,0,Montreal Canadiens,8,1,4,6,2,29,23,131,10,New York Rangers,5,1,4,7,2,35,24,266,True
+1962,2,24,13,Toronto Maple Leafs,3,1,3,4,4,23,17,177,6,Boston Bruins,1,1,2,3,3,31,30,279,True
+1962,2,25,11,Chicago Black Hawks,7,2,6,11,1,35,1,35,6,Boston Bruins,1,0,2,4,7,37,34,285,True
+1962,2,25,16,Detroit Red Wings,6,1,1,1,5,41,28,180,13,Toronto Maple Leafs,3,1,7,14,2,32,15,186,False
+1962,2,25,10,New York Rangers,5,1,2,3,2,37,31,282,0,Montreal Canadiens,8,1,4,7,2,38,23,140,False
+1962,2,28,10,New York Rangers,4,2,3,4,3,51,32,296,6,Boston Bruins,1,0,0,0,8,44,35,292,False
+1962,2,28,13,Toronto Maple Leafs,4,0,9,16,2,41,15,195,11,Chicago Black Hawks,7,2,8,16,0,27,0,27,True
+1962,3,1,6,Boston Bruins,2,0,2,3,2,27,29,275,11,Chicago Black Hawks,6,2,2,3,4,32,4,32,False
+1962,3,3,0,Montreal Canadiens,8,1,2,3,3,30,24,132,16,Detroit Red Wings,6,1,2,4,8,34,31,173,False
+1962,3,3,13,Toronto Maple Leafs,4,1,4,7,2,29,15,183,10,New York Rangers,4,1,2,4,2,30,28,264,True
+1962,3,4,6,Boston Bruins,1,1,4,7,5,33,32,281,13,Toronto Maple Leafs,5,1,3,5,1,26,14,180,False
+1962,3,4,11,Chicago Black Hawks,6,0,5,9,4,26,4,26,0,Montreal Canadiens,7,2,1,4,2,38,23,140,True
+1962,3,4,10,New York Rangers,3,0,1,0,2,27,28,263,16,Detroit Red Wings,7,2,2,2,2,29,25,168,False
+1962,3,6,16,Detroit Red Wings,7,2,4,4,2,18,25,157,10,New York Rangers,2,0,2,3,4,40,30,276,False
+1962,3,8,6,Boston Bruins,1,0,1,2,5,35,32,283,16,Detroit Red Wings,6,2,4,8,5,29,28,168,False
+1962,3,8,0,Montreal Canadiens,7,2,3,4,5,41,26,143,13,Toronto Maple Leafs,6,0,5,6,1,32,14,186,False
+1962,3,10,0,Montreal Canadiens,6,2,1,2,1,22,22,124,6,Boston Bruins,1,0,0,0,3,33,30,281,True
+1962,3,10,13,Toronto Maple Leafs,7,1,1,2,2,26,14,177,16,Detroit Red Wings,6,1,3,5,0,30,23,169,True
+1962,3,11,6,Boston Bruins,1,0,2,2,5,45,30,295,16,Detroit Red Wings,5,2,0,0,2,26,25,165,False
+1962,3,11,11,Chicago Black Hawks,7,1,5,9,2,35,2,35,13,Toronto Maple Leafs,8,1,2,2,0,28,12,179,False
+1962,3,11,10,New York Rangers,3,0,5,9,4,28,27,262,0,Montreal Canadiens,6,2,5,8,2,34,23,136,False
+1962,3,14,10,New York Rangers,3,1,1,3,2,54,25,288,16,Detroit Red Wings,5,1,2,4,2,23,25,162,True
+1962,3,14,13,Toronto Maple Leafs,8,1,3,6,2,33,14,184,0,Montreal Canadiens,6,1,2,1,1,23,22,125,True
+1962,3,15,16,Detroit Red Wings,4,2,2,4,3,39,26,178,6,Boston Bruins,1,0,2,4,2,33,29,291,False
+1962,3,15,0,Montreal Canadiens,5,1,2,4,5,37,26,139,11,Chicago Black Hawks,7,1,1,3,3,25,3,25,True
+1962,3,17,0,Montreal Canadiens,6,2,6,10,5,35,26,137,10,New York Rangers,4,0,3,4,2,28,23,260,True
+1962,3,17,13,Toronto Maple Leafs,9,2,5,7,2,36,14,187,11,Chicago Black Hawks,6,0,6,9,6,50,6,50,False
+1962,3,18,6,Boston Bruins,2,0,4,9,0,31,28,284,0,Montreal Canadiens,6,2,2,3,0,24,21,126,True
+1962,3,18,16,Detroit Red Wings,4,0,0,0,4,26,27,165,11,Chicago Black Hawks,7,2,3,5,1,26,1,26,True
+1962,3,18,10,New York Rangers,3,1,0,0,2,40,25,280,13,Toronto Maple Leafs,9,1,1,1,3,31,15,182,False
+1962,3,20,11,Chicago Black Hawks,6,1,1,2,4,37,4,37,16,Detroit Red Wings,5,1,4,6,1,24,24,163,True
+1962,3,22,6,Boston Bruins,3,1,6,10,2,39,29,290,10,New York Rangers,2,1,2,4,2,32,25,272,False
+1962,3,22,0,Montreal Canadiens,5,0,2,4,6,26,27,128,13,Toronto Maple Leafs,9,2,2,4,2,29,14,180,True
+1962,3,24,0,Montreal Canadiens,5,1,4,8,1,29,22,131,11,Chicago Black Hawks,6,1,3,4,0,28,0,28,True
+1962,3,24,13,Toronto Maple Leafs,8,2,1,2,1,23,16,191,16,Detroit Red Wings,5,0,0,0,3,32,26,171,False
+1962,3,25,6,Boston Bruins,3,0,3,4,4,27,33,289,13,Toronto Maple Leafs,7,2,2,2,2,34,17,202,True
+1962,3,25,16,Detroit Red Wings,5,2,2,4,2,32,25,171,0,Montreal Canadiens,6,0,5,9,3,27,24,129,False
+1962,3,25,10,New York Rangers,3,1,4,7,3,33,28,266,11,Chicago Black Hawks,5,1,3,6,5,36,5,36,True

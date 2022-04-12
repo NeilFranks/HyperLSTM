@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hyperlstm"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["Neil Franks <neilmichaelfranks@gmail.com>", 
            "Lucas Saldyt <lucassaldyt@gmail.com>"]
@@ -11,9 +11,14 @@ torch = "^1.11.0"
 pytorch-lightning = "^1.6.0"
 torchvision = "^0.12.0"
 torchtext = "^0.12.0"
+requests = "^2.27.1"
+beautifulsoup4 = "^4.11.1"
+lxml = "^4.8.0"
+pandas = "^1.4.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "==6.2.5"
+autopep8 = "^1.6.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

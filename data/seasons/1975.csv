@@ -1,0 +1,721 @@
+Year,Month,Day,Home_ID,Home_name,Home_wins_last10,Home_wins_VERSUS_last2,Home_goals_lastGame,Home_assists_lastGame,Home_GA_startingGoalie,Home_SA_startingGoalie,Home_GA_allGoalies,Home_SA_allGoalies,Away_ID,Away_name,Away_wins_last10,Away_wins_VERSUS_last2,Away_goals_lastGame,Away_assists_lastGame,Away_GA_startingGoalie,Away_SA_startingGoalie,Away_GA_allGoalies,Away_SA_allGoalies,Home_Won
+1974,10,9,27,California Golden Seals,0,0,1,2,3,45,18,152,21,St. Louis Blues,3,2,2,2,8,43,15,90,False
+1974,10,9,16,Detroit Red Wings,4,0,3,3,7,35,31,142,11,Chicago Black Hawks,8,2,8,14,4,31,7,55,True
+1974,10,9,24,Minnesota North Stars,4,2,1,2,4,29,16,104,20,Pittsburgh Penguins,4,0,2,2,2,34,13,118,False
+1974,10,9,0,Montreal Canadiens,6,1,3,6,0,0,12,71,28,New York Islanders,6,1,4,6,2,26,6,98,False
+1974,10,9,10,New York Rangers,4,0,6,11,4,34,14,91,30,Washington Capitals,0,0,1,0,0,0,0,0,True
+1974,10,9,13,Toronto Maple Leafs,7,0,4,7,3,32,9,101,31,Kansas City Scouts,0,0,1,1,6,35,6,35,True
+1974,10,9,25,Vancouver Canucks,6,1,2,2,6,29,18,71,29,Atlanta Flames,5,1,5,7,0,7,3,27,False
+1974,10,10,26,Buffalo Sabres,5,0,4,8,2,24,12,106,6,Boston Bruins,6,2,6,13,4,35,14,100,True
+1974,10,10,23,Philadelphia Flyers,8,2,5,9,2,22,8,59,22,Los Angeles Kings,6,0,7,15,5,37,6,63,False
+1974,10,11,27,California Golden Seals,0,0,4,7,0,0,19,132,29,Atlanta Flames,5,2,3,4,3,20,6,53,True
+1974,10,12,24,Minnesota North Stars,3,0,2,4,4,35,16,110,30,Washington Capitals,0,0,3,3,0,0,6,43,True
+1974,10,12,0,Montreal Canadiens,5,1,6,10,5,25,17,107,22,Los Angeles Kings,7,1,8,9,3,37,4,63,False
+1974,10,12,28,New York Islanders,6,0,5,9,2,32,9,97,31,Kansas City Scouts,0,0,2,4,2,29,8,75,True
+1974,10,12,23,Philadelphia Flyers,7,2,3,6,4,27,10,64,26,Buffalo Sabres,5,0,8,13,1,25,15,100,True
+1974,10,12,20,Pittsburgh Penguins,5,2,4,5,2,43,13,127,16,Detroit Red Wings,5,0,2,6,1,25,25,132,True
+1974,10,12,13,Toronto Maple Leafs,7,2,6,11,5,31,8,97,10,New York Rangers,5,0,6,12,3,12,17,69,True
+1974,10,12,25,Vancouver Canucks,5,1,3,6,0,0,15,63,21,St. Louis Blues,4,1,4,7,4,26,11,73,False
+1974,10,13,6,Boston Bruins,5,2,5,6,6,42,19,105,13,Toronto Maple Leafs,7,0,7,13,2,28,6,97,False
+1974,10,13,26,Buffalo Sabres,4,1,2,2,5,18,20,111,22,Los Angeles Kings,7,1,4,7,1,26,5,57,False
+1974,10,13,11,Chicago Black Hawks,8,1,1,2,2,14,5,38,29,Atlanta Flames,5,1,0,0,3,28,6,61,False
+1974,10,13,16,Detroit Red Wings,4,2,4,3,3,22,26,121,27,California Golden Seals,1,0,3,5,4,25,19,156,True
+1974,10,13,23,Philadelphia Flyers,8,0,6,11,5,37,12,91,31,Kansas City Scouts,0,0,2,3,6,46,12,75,True
+1974,10,15,28,New York Islanders,6,1,5,10,5,25,9,101,0,Montreal Canadiens,5,1,4,7,3,16,13,91,True
+1974,10,15,21,St. Louis Blues,5,1,5,8,3,33,7,63,25,Vancouver Canucks,5,1,3,6,3,21,20,91,False
+1974,10,15,30,Washington Capitals,0,0,0,1,6,43,12,74,22,Los Angeles Kings,7,0,4,5,1,34,5,65,False
+1974,10,16,11,Chicago Black Hawks,7,2,3,3,4,22,7,46,6,Boston Bruins,4,0,2,5,2,24,15,87,True
+1974,10,16,16,Detroit Red Wings,4,1,7,13,3,22,26,121,29,Atlanta Flames,5,1,4,7,3,33,6,62,True
+1974,10,16,24,Minnesota North Stars,3,1,6,7,0,30,12,105,25,Vancouver Canucks,6,1,6,11,4,24,21,94,False
+1974,10,16,10,New York Rangers,4,2,3,4,7,35,21,92,27,California Golden Seals,1,0,3,4,7,34,22,165,False
+1974,10,16,13,Toronto Maple Leafs,7,1,2,5,3,31,6,101,22,Los Angeles Kings,7,1,1,1,1,20,5,51,False
+1974,10,17,26,Buffalo Sabres,3,2,2,2,4,23,19,116,27,California Golden Seals,2,0,5,8,0,24,20,160,True
+1974,10,17,23,Philadelphia Flyers,8,1,3,6,1,17,9,74,6,Boston Bruins,4,1,0,0,4,32,17,95,False
+1974,10,17,21,St. Louis Blues,5,0,4,7,1,38,11,94,0,Montreal Canadiens,4,2,3,4,4,15,15,103,True
+1974,10,17,30,Washington Capitals,0,0,1,2,1,34,7,65,11,Chicago Black Hawks,7,0,4,6,3,24,3,53,True
+1974,10,18,29,Atlanta Flames,5,0,2,3,3,29,6,58,31,Kansas City Scouts,0,0,2,1,3,40,9,69,True
+1974,10,19,16,Detroit Red Wings,5,0,4,5,2,33,25,132,30,Washington Capitals,1,0,4,5,0,0,9,67,True
+1974,10,19,22,Los Angeles Kings,8,0,1,2,4,31,5,69,31,Kansas City Scouts,0,0,2,4,6,29,10,59,True
+1974,10,19,24,Minnesota North Stars,3,0,1,2,1,43,13,118,26,Buffalo Sabres,4,2,6,9,1,11,16,104,False
+1974,10,19,0,Montreal Canadiens,4,1,2,6,3,38,15,116,27,California Golden Seals,2,1,1,2,5,29,26,178,True
+1974,10,19,28,New York Islanders,7,0,6,8,3,39,7,115,10,New York Rangers,4,2,5,7,8,28,16,78,False
+1974,10,19,20,Pittsburgh Penguins,6,1,7,9,2,25,16,109,23,Philadelphia Flyers,7,1,1,0,2,20,12,90,False
+1974,10,19,21,St. Louis Blues,6,1,3,5,2,34,13,96,11,Chicago Black Hawks,6,1,3,5,0,29,4,54,False
+1974,10,19,13,Toronto Maple Leafs,7,0,1,2,2,32,6,84,25,Vancouver Canucks,6,2,1,2,1,20,18,90,False
+1974,10,20,29,Atlanta Flames,6,1,4,8,3,29,5,57,20,Pittsburgh Penguins,5,1,3,5,0,0,19,129,True
+1974,10,20,6,Boston Bruins,4,1,4,8,9,40,14,96,27,California Golden Seals,2,1,1,0,6,42,26,188,True
+1974,10,20,26,Buffalo Sabres,5,0,2,4,1,27,16,120,13,Toronto Maple Leafs,7,2,4,7,1,21,9,89,False
+1974,10,20,11,Chicago Black Hawks,6,2,3,4,1,26,5,51,24,Minnesota North Stars,2,0,1,2,6,40,14,114,True
+1974,10,20,10,New York Rangers,4,1,3,8,2,23,10,73,25,Vancouver Canucks,7,1,5,10,4,35,21,105,False
+1974,10,20,23,Philadelphia Flyers,7,2,6,7,4,33,13,96,0,Montreal Canadiens,4,0,4,7,1,23,13,101,False
+1974,10,20,30,Washington Capitals,1,0,4,7,3,36,14,99,28,New York Islanders,6,0,2,4,4,36,8,112,False
+1974,10,22,22,Los Angeles Kings,8,1,3,6,0,19,1,57,23,Philadelphia Flyers,6,1,2,3,2,25,11,88,False
+1974,10,22,28,New York Islanders,6,1,5,6,0,26,4,102,29,Atlanta Flames,6,1,5,10,2,28,3,62,True
+1974,10,22,25,Vancouver Canucks,7,2,1,2,0,33,17,103,24,Minnesota North Stars,1,0,0,0,2,39,14,113,False
+1974,10,22,30,Washington Capitals,1,0,0,0,5,28,16,91,16,Detroit Red Wings,5,1,6,9,4,25,27,124,False
+1974,10,23,29,Atlanta Flames,6,1,1,2,1,34,3,57,16,Detroit Red Wings,6,1,3,4,4,15,23,124,True
+1974,10,23,11,Chicago Black Hawks,6,0,6,11,0,23,4,48,30,Washington Capitals,1,1,0,0,5,32,14,98,True
+1974,10,23,27,California Golden Seals,2,0,0,0,5,39,25,185,31,Kansas City Scouts,0,0,0,0,4,30,7,60,False
+1974,10,23,10,New York Rangers,4,1,1,1,5,20,9,65,21,St. Louis Blues,6,1,1,2,3,31,14,93,True
+1974,10,23,20,Pittsburgh Penguins,5,0,1,1,5,45,20,165,6,Boston Bruins,4,2,5,9,0,16,5,72,False
+1974,10,23,13,Toronto Maple Leafs,7,1,5,4,5,37,15,99,0,Montreal Canadiens,4,1,3,3,2,27,14,97,False
+1974,10,24,6,Boston Bruins,5,2,5,7,1,33,10,96,21,St. Louis Blues,5,0,1,0,6,26,16,96,False
+1974,10,24,22,Los Angeles Kings,8,1,2,5,1,38,4,71,26,Buffalo Sabres,5,1,5,8,5,29,20,122,True
+1974,10,25,29,Atlanta Flames,7,1,10,17,2,23,3,49,24,Minnesota North Stars,2,1,3,4,2,35,14,109,False
+1974,10,25,27,California Golden Seals,2,0,4,7,5,39,24,173,23,Philadelphia Flyers,6,2,4,6,6,37,11,89,True
+1974,10,25,25,Vancouver Canucks,6,0,2,4,5,28,20,97,31,Kansas City Scouts,1,0,4,8,3,30,7,52,True
+1974,10,26,22,Los Angeles Kings,8,2,7,12,2,55,5,88,27,California Golden Seals,3,0,4,6,4,27,20,162,True
+1974,10,26,0,Montreal Canadiens,4,1,3,5,2,33,14,103,16,Detroit Red Wings,6,1,1,1,0,25,29,142,True
+1974,10,26,28,New York Islanders,7,2,2,4,1,24,5,100,24,Minnesota North Stars,3,0,2,3,6,39,14,99,True
+1974,10,26,20,Pittsburgh Penguins,5,0,5,10,5,42,24,165,10,New York Rangers,5,2,5,5,1,15,6,87,False
+1974,10,26,21,St. Louis Blues,5,0,4,6,4,47,14,117,26,Buffalo Sabres,4,2,2,4,5,21,16,88,False
+1974,10,26,13,Toronto Maple Leafs,6,0,2,4,5,28,13,90,11,Chicago Black Hawks,7,2,3,5,2,12,6,37,False
+1974,10,26,25,Vancouver Canucks,6,0,5,7,3,27,18,93,23,Philadelphia Flyers,5,2,1,2,2,26,9,82,False
+1974,10,27,6,Boston Bruins,4,0,4,5,5,40,13,87,31,Kansas City Scouts,1,0,3,5,4,44,8,66,True
+1974,10,27,26,Buffalo Sabres,5,0,2,4,0,21,11,88,0,Montreal Canadiens,5,2,4,7,2,26,14,96,True
+1974,10,27,11,Chicago Black Hawks,7,2,9,14,3,37,7,62,21,St. Louis Blues,4,0,0,0,2,38,12,108,True
+1974,10,27,10,New York Rangers,6,2,5,6,1,28,13,101,29,Atlanta Flames,6,0,2,4,1,26,3,51,True
+1974,10,27,30,Washington Capitals,1,0,2,3,3,35,12,108,13,Toronto Maple Leafs,5,0,3,5,4,11,14,63,False
+1974,10,28,22,Los Angeles Kings,9,1,5,7,1,18,4,51,20,Pittsburgh Penguins,4,1,4,7,5,30,19,117,True
+1974,10,28,28,New York Islanders,8,1,5,6,0,28,4,104,27,California Golden Seals,3,1,1,2,1,28,21,170,True
+1974,10,29,25,Vancouver Canucks,5,1,2,4,3,25,18,91,16,Detroit Red Wings,6,1,2,4,4,28,33,145,True
+1974,10,30,29,Atlanta Flames,5,1,1,1,2,25,6,67,27,California Golden Seals,3,1,1,2,9,39,25,154,True
+1974,10,30,24,Minnesota North Stars,3,0,0,0,2,25,12,96,6,Boston Bruins,5,2,8,14,2,26,10,73,False
+1974,10,30,0,Montreal Canadiens,4,1,2,2,3,29,15,99,11,Chicago Black Hawks,7,1,10,12,3,26,7,51,False
+1974,10,30,10,New York Rangers,6,2,3,8,1,19,13,92,28,New York Islanders,8,0,10,18,1,24,3,68,False
+1974,10,31,22,Los Angeles Kings,9,2,2,5,0,23,3,56,21,St. Louis Blues,4,0,3,6,5,34,20,112,False
+1974,10,31,23,Philadelphia Flyers,6,0,3,5,2,17,9,73,10,New York Rangers,6,2,2,2,1,17,13,90,True
+1974,10,31,30,Washington Capitals,1,0,3,5,3,42,13,118,0,Montreal Canadiens,4,0,4,5,4,29,16,99,False
+1974,11,1,29,Atlanta Flames,5,0,4,5,4,42,5,64,13,Toronto Maple Leafs,5,2,4,3,5,18,9,63,True
+1974,11,1,27,California Golden Seals,2,0,1,2,1,8,20,148,16,Detroit Red Wings,5,2,0,0,7,38,36,155,False
+1974,11,1,25,Vancouver Canucks,6,0,7,10,0,17,15,83,20,Pittsburgh Penguins,4,2,0,1,2,26,16,103,True
+1974,11,2,31,Kansas City Scouts,1,0,2,4,4,22,12,57,11,Chicago Black Hawks,7,0,4,7,4,26,8,51,False
+1974,11,2,22,Los Angeles Kings,8,1,1,2,1,26,4,59,16,Detroit Red Wings,6,1,4,5,4,18,33,135,True
+1974,11,2,0,Montreal Canadiens,5,1,3,5,0,19,12,96,23,Philadelphia Flyers,6,1,5,8,1,23,8,79,False
+1974,11,2,28,New York Islanders,9,0,1,2,1,30,3,74,6,Boston Bruins,6,2,3,4,3,37,11,84,True
+1974,11,2,21,St. Louis Blues,5,2,1,2,1,26,16,104,29,Atlanta Flames,6,0,5,7,1,22,3,46,True
+1974,11,2,13,Toronto Maple Leafs,5,2,2,4,3,19,8,71,26,Buffalo Sabres,6,0,3,6,2,27,13,94,False
+1974,11,3,6,Boston Bruins,5,2,2,3,3,22,11,69,24,Minnesota North Stars,3,0,3,7,3,32,13,103,True
+1974,11,3,11,Chicago Black Hawks,8,1,4,5,3,35,7,60,20,Pittsburgh Penguins,3,1,4,6,2,24,21,128,False
+1974,11,3,10,New York Rangers,5,1,1,2,0,12,13,68,26,Buffalo Sabres,6,1,6,7,7,34,14,95,False
+1974,11,3,23,Philadelphia Flyers,7,2,3,5,0,34,7,90,28,New York Islanders,9,0,3,6,2,29,4,73,True
+1974,11,3,30,Washington Capitals,1,0,0,0,4,45,13,105,31,Kansas City Scouts,1,0,3,5,8,35,12,64,False
+1974,11,4,0,Montreal Canadiens,5,1,0,0,3,24,15,101,24,Minnesota North Stars,3,1,1,2,10,42,20,113,True
+1974,11,5,6,Boston Bruins,6,1,9,14,1,32,9,79,26,Buffalo Sabres,6,1,4,7,3,28,10,93,False
+1974,11,5,31,Kansas City Scouts,2,0,5,7,4,29,8,54,20,Pittsburgh Penguins,3,0,3,4,4,13,22,128,False
+1974,11,5,28,New York Islanders,8,0,1,2,3,30,5,74,23,Philadelphia Flyers,7,2,3,4,1,29,8,85,False
+1974,11,5,21,St. Louis Blues,5,1,9,14,0,24,15,102,22,Los Angeles Kings,8,1,5,9,3,33,4,55,False
+1974,11,5,25,Vancouver Canucks,7,2,7,8,4,30,19,96,10,New York Rangers,4,0,3,6,5,21,13,76,True
+1974,11,6,29,Atlanta Flames,5,0,0,0,2,24,11,55,28,New York Islanders,7,2,4,8,4,36,6,80,True
+1974,11,6,26,Buffalo Sabres,7,1,3,5,2,37,9,102,11,Chicago Black Hawks,8,1,3,5,3,32,7,57,True
+1974,11,6,27,California Golden Seals,2,1,4,8,4,33,23,173,10,New York Rangers,4,1,1,2,2,29,10,84,False
+1974,11,6,16,Detroit Red Wings,5,1,1,1,5,32,34,149,0,Montreal Canadiens,6,1,6,9,1,19,13,101,False
+1974,11,6,13,Toronto Maple Leafs,4,2,3,4,6,45,15,100,24,Minnesota North Stars,3,0,1,1,3,22,12,74,True
+1974,11,7,6,Boston Bruins,6,0,3,4,4,24,10,72,30,Washington Capitals,1,0,4,6,3,29,14,88,True
+1974,11,7,31,Kansas City Scouts,2,0,3,5,4,25,8,59,25,Vancouver Canucks,8,1,2,4,3,24,16,93,False
+1974,11,7,23,Philadelphia Flyers,7,2,4,6,4,36,11,92,24,Minnesota North Stars,2,0,4,5,7,51,16,103,True
+1974,11,7,20,Pittsburgh Penguins,4,0,5,7,0,13,17,139,22,Los Angeles Kings,8,2,4,7,1,22,4,59,False
+1974,11,8,29,Atlanta Flames,6,2,2,4,9,31,10,51,11,Chicago Black Hawks,7,0,4,5,6,33,10,58,True
+1974,11,9,31,Kansas City Scouts,2,0,4,8,4,34,10,61,26,Buffalo Sabres,8,0,6,8,3,32,11,86,False
+1974,11,9,22,Los Angeles Kings,8,0,5,8,3,39,3,39,10,New York Rangers,5,2,7,12,3,23,13,80,False
+1974,11,9,24,Minnesota North Stars,2,0,0,0,0,19,7,70,13,Toronto Maple Leafs,4,2,7,12,5,28,13,95,True
+1974,11,9,0,Montreal Canadiens,7,2,4,4,4,21,18,114,25,Vancouver Canucks,8,0,6,10,0,7,16,79,True
+1974,11,9,23,Philadelphia Flyers,8,0,2,2,3,26,7,74,30,Washington Capitals,1,0,4,3,4,22,16,72,True
+1974,11,9,20,Pittsburgh Penguins,3,2,3,5,3,35,22,146,27,California Golden Seals,1,0,3,5,4,33,26,175,True
+1974,11,9,21,St. Louis Blues,4,0,2,4,10,42,18,106,28,New York Islanders,6,2,1,2,2,30,4,74,True
+1974,11,10,6,Boston Bruins,7,0,10,17,2,25,10,76,29,Atlanta Flames,6,2,2,2,1,20,1,54,True
+1974,11,10,26,Buffalo Sabres,8,0,6,11,4,21,9,73,20,Pittsburgh Penguins,3,2,5,8,5,20,21,136,True
+1974,11,10,16,Detroit Red Wings,5,1,4,7,4,32,33,149,25,Vancouver Canucks,7,1,2,6,4,25,20,97,False
+1974,11,10,23,Philadelphia Flyers,8,1,6,9,0,18,6,75,27,California Golden Seals,1,1,2,3,7,35,26,178,True
+1974,11,10,30,Washington Capitals,1,0,2,4,6,45,18,95,0,Montreal Canadiens,7,1,4,5,3,22,17,115,False
+1974,11,12,21,St. Louis Blues,5,1,4,7,2,32,10,96,6,Boston Bruins,7,1,4,4,3,22,11,73,True
+1974,11,12,25,Vancouver Canucks,7,0,5,7,2,33,18,105,11,Chicago Black Hawks,7,2,0,0,1,29,5,54,True
+1974,11,12,30,Washington Capitals,0,0,1,2,6,23,17,73,29,Atlanta Flames,5,0,3,6,0,34,4,63,False
+1974,11,13,29,Atlanta Flames,6,1,2,4,4,29,6,56,30,Washington Capitals,0,0,2,4,2,25,13,75,True
+1974,11,13,27,California Golden Seals,1,0,0,1,4,36,22,175,11,Chicago Black Hawks,6,2,0,0,1,34,5,59,True
+1974,11,13,31,Kansas City Scouts,2,0,1,2,6,45,12,72,21,St. Louis Blues,5,0,4,6,4,27,11,99,True
+1974,11,13,22,Los Angeles Kings,7,1,2,3,2,32,2,32,13,Toronto Maple Leafs,3,1,5,8,2,11,12,55,True
+1974,11,13,24,Minnesota North Stars,3,0,7,11,5,39,12,90,16,Detroit Red Wings,4,2,2,2,6,39,33,140,True
+1974,11,13,0,Montreal Canadiens,7,1,11,15,1,17,12,93,26,Buffalo Sabres,8,1,6,14,3,20,8,72,False
+1974,11,13,10,New York Rangers,5,1,2,3,2,29,12,86,23,Philadelphia Flyers,9,1,3,4,0,16,6,73,False
+1974,11,13,20,Pittsburgh Penguins,3,0,3,5,2,28,22,130,28,New York Islanders,6,2,2,4,0,4,6,75,True
+1974,11,14,6,Boston Bruins,6,1,3,5,4,30,12,81,0,Montreal Canadiens,6,1,6,10,8,38,19,114,False
+1974,11,14,26,Buffalo Sabres,9,2,9,10,1,19,11,90,24,Minnesota North Stars,4,0,7,13,0,0,11,85,True
+1974,11,15,29,Atlanta Flames,6,0,3,5,2,27,5,52,23,Philadelphia Flyers,9,2,3,2,2,28,8,85,False
+1974,11,15,27,California Golden Seals,2,0,2,3,0,28,18,167,13,Toronto Maple Leafs,3,2,0,0,0,0,14,67,False
+1974,11,15,31,Kansas City Scouts,3,0,5,6,3,28,9,55,28,New York Islanders,5,1,2,4,6,36,10,82,True
+1974,11,15,25,Vancouver Canucks,7,1,1,2,0,29,16,101,22,Los Angeles Kings,7,1,4,6,0,0,0,35,False
+1974,11,16,6,Boston Bruins,5,0,1,1,4,29,12,80,26,Buffalo Sabres,10,2,5,9,6,38,13,99,True
+1974,11,16,16,Detroit Red Wings,3,2,4,6,4,23,34,131,28,New York Islanders,4,0,2,3,2,6,7,78,True
+1974,11,16,22,Los Angeles Kings,8,1,2,2,0,35,2,55,11,Chicago Black Hawks,5,1,0,0,2,22,6,47,False
+1974,11,16,24,Minnesota North Stars,3,0,3,5,4,34,15,115,31,Kansas City Scouts,4,0,4,8,2,26,8,53,True
+1974,11,16,0,Montreal Canadiens,6,1,4,6,1,40,12,119,10,New York Rangers,5,1,2,2,3,20,13,77,False
+1974,11,16,20,Pittsburgh Penguins,4,0,8,15,2,30,21,139,30,Washington Capitals,0,0,3,3,5,19,15,91,True
+1974,11,16,21,St. Louis Blues,5,0,3,3,3,35,12,96,23,Philadelphia Flyers,10,2,2,4,2,27,8,91,True
+1974,11,16,25,Vancouver Canucks,7,2,2,3,2,25,18,97,13,Toronto Maple Leafs,4,0,5,9,3,26,17,93,True
+1974,11,17,26,Buffalo Sabres,9,0,5,7,3,28,14,97,29,Atlanta Flames,6,2,2,5,3,25,5,66,True
+1974,11,17,16,Detroit Red Wings,3,0,5,9,3,30,33,138,6,Boston Bruins,6,2,7,13,5,40,13,91,False
+1974,11,17,10,New York Rangers,5,1,4,7,4,30,14,87,27,California Golden Seals,2,1,3,5,3,32,23,175,True
+1974,11,17,30,Washington Capitals,0,0,1,2,4,41,18,114,20,Pittsburgh Penguins,5,1,8,14,1,27,22,137,False
+1974,11,18,0,Montreal Canadiens,6,1,4,7,4,29,15,108,24,Minnesota North Stars,3,1,3,5,1,31,12,112,True
+1974,11,19,28,New York Islanders,3,1,3,3,5,35,10,107,20,Pittsburgh Penguins,6,1,6,10,0,26,21,136,True
+1974,11,19,25,Vancouver Canucks,7,1,5,10,2,25,18,97,21,St. Louis Blues,6,1,5,6,3,35,14,103,True
+1974,11,19,30,Washington Capitals,0,0,0,0,3,11,12,52,27,California Golden Seals,1,0,0,0,5,36,30,183,True
+1974,11,20,26,Buffalo Sabres,9,0,4,6,7,36,11,94,30,Washington Capitals,1,0,6,10,4,25,13,66,True
+1974,11,20,11,Chicago Black Hawks,5,1,2,4,1,37,5,62,28,New York Islanders,3,1,4,7,3,37,8,109,False
+1974,11,20,16,Detroit Red Wings,2,1,2,3,7,30,35,139,10,New York Rangers,5,1,10,17,4,30,10,71,False
+1974,11,20,31,Kansas City Scouts,3,0,1,2,3,31,9,58,29,Atlanta Flames,6,1,0,0,2,41,6,67,False
+1974,11,20,22,Los Angeles Kings,7,1,1,2,2,40,4,60,0,Montreal Canadiens,7,1,9,16,4,24,13,102,False
+1974,11,20,13,Toronto Maple Leafs,3,1,2,3,5,45,19,112,20,Pittsburgh Penguins,6,1,3,6,4,27,25,137,False
+1974,11,21,6,Boston Bruins,6,1,5,9,2,25,10,76,27,California Golden Seals,1,1,4,4,10,40,31,174,True
+1974,11,21,24,Minnesota North Stars,3,2,4,7,9,39,20,120,21,St. Louis Blues,5,0,3,6,5,24,17,96,True
+1974,11,21,23,Philadelphia Flyers,9,2,3,5,2,34,10,98,25,Vancouver Canucks,8,0,6,9,3,19,19,91,False
+1974,11,22,29,Atlanta Flames,6,1,1,2,4,26,4,51,26,Buffalo Sabres,9,1,6,13,3,14,7,72,False
+1974,11,22,31,Kansas City Scouts,3,0,0,0,1,30,7,57,0,Montreal Canadiens,7,0,1,4,3,38,12,116,False
+1974,11,22,28,New York Islanders,3,0,4,8,4,43,9,115,13,Toronto Maple Leafs,3,2,5,5,5,20,20,128,True
+1974,11,23,11,Chicago Black Hawks,4,1,3,7,4,30,8,55,31,Kansas City Scouts,3,0,6,8,6,27,13,69,True
+1974,11,23,24,Minnesota North Stars,4,2,3,4,2,28,13,109,27,California Golden Seals,1,0,2,4,6,27,25,166,True
+1974,11,23,28,New York Islanders,3,0,6,10,0,31,5,103,25,Vancouver Canucks,8,2,4,5,3,40,19,112,False
+1974,11,23,10,New York Rangers,5,0,5,9,4,34,10,99,6,Boston Bruins,6,2,4,8,2,27,10,78,False
+1974,11,23,20,Pittsburgh Penguins,7,0,8,13,5,34,26,144,22,Los Angeles Kings,6,2,3,2,3,28,5,48,False
+1974,11,23,21,St. Louis Blues,5,0,2,1,6,28,15,109,16,Detroit Red Wings,2,2,4,6,5,26,33,135,True
+1974,11,23,13,Toronto Maple Leafs,3,1,0,0,6,33,21,141,23,Philadelphia Flyers,8,1,3,6,4,16,12,80,False
+1974,11,24,6,Boston Bruins,7,2,5,9,2,26,10,77,25,Vancouver Canucks,8,0,3,5,3,31,19,103,True
+1974,11,24,26,Buffalo Sabres,9,2,5,5,0,25,8,90,0,Montreal Canadiens,8,0,9,12,6,21,21,111,True
+1974,11,24,16,Detroit Red Wings,2,0,2,4,3,24,31,133,22,Los Angeles Kings,6,2,0,0,2,20,2,52,False
+1974,11,24,10,New York Rangers,5,2,2,4,0,14,11,90,20,Pittsburgh Penguins,6,0,0,0,0,30,21,140,True
+1974,11,24,23,Philadelphia Flyers,8,2,6,5,3,24,11,88,29,Atlanta Flames,5,0,4,7,0,25,4,64,False
+1974,11,24,30,Washington Capitals,1,0,3,5,3,10,16,91,24,Minnesota North Stars,5,1,3,5,4,30,12,119,False
+1974,11,25,13,Toronto Maple Leafs,2,1,3,6,6,40,21,148,21,St. Louis Blues,6,1,4,8,2,37,11,118,False
+1974,11,26,31,Kansas City Scouts,3,0,0,0,6,51,13,93,25,Vancouver Canucks,7,2,4,6,4,30,23,118,True
+1974,11,27,29,Atlanta Flames,6,2,4,6,4,39,7,71,31,Kansas City Scouts,3,0,4,5,3,29,10,71,True
+1974,11,27,11,Chicago Black Hawks,4,1,5,11,0,16,4,41,26,Buffalo Sabres,9,1,6,8,4,32,12,100,False
+1974,11,27,27,California Golden Seals,1,0,1,1,2,19,21,158,6,Boston Bruins,7,2,7,10,4,25,12,76,False
+1974,11,27,22,Los Angeles Kings,7,1,4,6,0,32,1,59,28,New York Islanders,3,1,3,5,3,28,8,100,False
+1974,11,27,24,Minnesota North Stars,6,2,4,4,1,38,12,125,30,Washington Capitals,1,0,4,7,4,27,17,108,True
+1974,11,27,10,New York Rangers,6,0,7,13,5,25,14,90,13,Toronto Maple Leafs,2,2,2,2,2,36,17,144,True
+1974,11,27,23,Philadelphia Flyers,7,2,3,6,4,27,12,91,16,Detroit Red Wings,2,0,1,2,4,19,32,128,True
+1974,11,27,20,Pittsburgh Penguins,5,0,5,6,7,42,28,152,0,Montreal Canadiens,7,2,4,5,5,28,21,119,False
+1974,11,27,21,St. Louis Blues,6,0,2,3,3,37,11,116,25,Vancouver Canucks,6,2,3,5,0,4,16,65,False
+1974,11,28,26,Buffalo Sabres,9,1,3,3,4,35,9,89,16,Detroit Red Wings,1,1,2,4,5,31,34,155,True
+1974,11,29,29,Atlanta Flames,6,0,4,5,3,32,5,52,10,New York Rangers,7,2,4,8,1,24,10,89,True
+1974,11,29,27,California Golden Seals,1,0,1,2,3,32,22,171,28,New York Islanders,4,2,3,4,3,30,8,102,False
+1974,11,30,31,Kansas City Scouts,3,0,2,2,4,33,11,75,16,Detroit Red Wings,1,0,2,2,5,46,34,170,False
+1974,11,30,22,Los Angeles Kings,6,0,3,4,1,27,4,65,6,Boston Bruins,8,2,3,6,1,36,9,87,True
+1974,11,30,24,Minnesota North Stars,7,0,6,12,4,30,15,117,11,Chicago Black Hawks,3,2,1,2,3,26,7,51,True
+1974,11,30,0,Montreal Canadiens,7,1,3,6,2,32,18,123,21,St. Louis Blues,5,1,0,2,2,35,14,111,True
+1974,11,30,20,Pittsburgh Penguins,5,1,2,4,6,20,19,128,26,Buffalo Sabres,9,1,5,7,2,10,7,73,False
+1974,11,30,13,Toronto Maple Leafs,2,1,1,0,4,52,22,155,30,Washington Capitals,1,0,3,6,7,50,19,115,True
+1974,11,30,25,Vancouver Canucks,7,2,5,7,1,26,17,87,28,New York Islanders,5,0,3,5,3,25,8,97,True
+1974,12,1,26,Buffalo Sabres,9,2,5,6,4,11,9,74,20,Pittsburgh Penguins,4,0,4,8,3,5,15,127,True
+1974,12,1,11,Chicago Black Hawks,2,1,3,6,5,38,9,63,24,Minnesota North Stars,8,1,5,10,4,36,14,111,True
+1974,12,1,10,New York Rangers,7,2,2,4,3,25,9,76,21,St. Louis Blues,5,0,2,2,7,34,19,110,False
+1974,12,1,23,Philadelphia Flyers,7,1,6,11,2,16,10,80,31,Kansas City Scouts,3,0,0,0,1,19,8,61,True
+1974,12,1,30,Washington Capitals,1,1,1,1,6,34,19,110,27,California Golden Seals,1,0,3,5,3,24,22,163,False
+1974,12,2,0,Montreal Canadiens,7,1,6,11,1,21,17,112,29,Atlanta Flames,6,1,3,3,2,20,4,58,True
+1974,12,3,21,St. Louis Blues,5,2,4,6,4,39,16,115,27,California Golden Seals,2,0,5,7,2,21,21,160,True
+1974,12,3,25,Vancouver Canucks,7,1,4,9,0,27,16,88,24,Minnesota North Stars,7,1,0,0,3,24,13,104,True
+1974,12,3,30,Washington Capitals,1,0,2,4,6,31,18,113,26,Buffalo Sabres,9,1,6,10,2,19,8,92,False
+1974,12,4,11,Chicago Black Hawks,3,2,4,6,4,25,4,47,31,Kansas City Scouts,3,0,0,0,7,42,17,89,True
+1974,12,4,27,California Golden Seals,2,1,1,2,4,32,24,177,29,Atlanta Flames,6,1,1,1,2,38,4,64,True
+1974,12,4,22,Los Angeles Kings,6,1,2,2,3,38,3,61,24,Minnesota North Stars,6,1,5,7,3,29,16,123,True
+1974,12,4,0,Montreal Canadiens,7,2,2,4,6,29,10,88,6,Boston Bruins,7,0,0,0,2,39,10,90,False
+1974,12,4,10,New York Rangers,6,1,4,7,5,32,15,72,16,Detroit Red Wings,2,1,1,2,0,14,29,138,True
+1974,12,4,20,Pittsburgh Penguins,4,2,2,4,2,49,22,176,13,Toronto Maple Leafs,2,0,7,11,1,12,15,102,True
+1974,12,5,6,Boston Bruins,7,2,4,7,4,23,12,74,16,Detroit Red Wings,2,0,2,3,6,46,33,150,False
+1974,12,5,26,Buffalo Sabres,9,2,5,10,3,29,9,102,30,Washington Capitals,1,0,3,5,5,46,17,128,True
+1974,12,5,28,New York Islanders,5,1,0,0,2,29,7,101,13,Toronto Maple Leafs,2,1,1,2,0,10,17,130,False
+1974,12,5,23,Philadelphia Flyers,7,0,10,14,0,22,8,86,11,Chicago Black Hawks,4,2,7,11,0,22,3,54,True
+1974,12,6,27,California Golden Seals,2,0,3,3,5,38,21,175,24,Minnesota North Stars,6,2,1,0,4,51,17,145,True
+1974,12,6,31,Kansas City Scouts,2,0,3,6,1,17,7,37,23,Philadelphia Flyers,7,2,3,4,2,32,10,96,False
+1974,12,6,25,Vancouver Canucks,7,1,6,11,5,25,21,86,29,Atlanta Flames,5,1,1,0,2,26,5,52,True
+1974,12,7,11,Chicago Black Hawks,4,1,2,2,3,34,6,66,10,New York Rangers,6,1,4,8,2,27,12,67,False
+1974,12,7,22,Los Angeles Kings,6,2,4,6,1,16,1,39,29,Atlanta Flames,4,0,5,9,3,26,9,68,True
+1974,12,7,0,Montreal Canadiens,7,2,5,7,0,22,10,102,20,Pittsburgh Penguins,4,0,5,8,2,24,22,151,True
+1974,12,7,28,New York Islanders,5,1,3,6,3,32,8,93,31,Kansas City Scouts,1,1,3,5,3,30,9,50,True
+1974,12,7,21,St. Louis Blues,5,0,5,7,1,31,13,107,30,Washington Capitals,1,0,2,3,5,37,21,127,True
+1974,12,7,13,Toronto Maple Leafs,3,0,3,5,3,21,20,141,16,Detroit Red Wings,3,2,6,9,4,26,31,147,False
+1974,12,8,6,Boston Bruins,7,2,4,8,4,28,14,72,20,Pittsburgh Penguins,3,0,2,1,6,42,24,163,True
+1974,12,8,26,Buffalo Sabres,10,2,9,18,2,17,8,90,24,Minnesota North Stars,5,0,3,6,6,43,17,123,True
+1974,12,8,11,Chicago Black Hawks,4,2,4,5,6,29,7,39,13,Toronto Maple Leafs,2,0,3,5,3,27,20,147,False
+1974,12,8,16,Detroit Red Wings,3,0,3,3,3,32,30,153,25,Vancouver Canucks,8,2,7,11,0,0,21,88,True
+1974,12,8,10,New York Rangers,7,2,7,11,4,20,14,65,0,Montreal Canadiens,7,0,5,5,4,30,13,109,False
+1974,12,8,23,Philadelphia Flyers,7,2,3,4,3,20,11,84,28,New York Islanders,6,0,4,6,1,25,6,86,True
+1974,12,8,30,Washington Capitals,1,0,2,3,8,60,24,150,21,St. Louis Blues,6,1,8,14,6,32,14,105,False
+1974,12,10,31,Kansas City Scouts,1,0,1,2,4,35,10,55,6,Boston Bruins,8,1,3,5,2,31,12,75,False
+1974,12,10,24,Minnesota North Stars,5,0,0,0,5,31,16,111,0,Montreal Canadiens,8,2,3,5,3,31,14,106,False
+1974,12,10,28,New York Islanders,6,1,2,2,3,35,8,96,21,St. Louis Blues,6,1,3,4,2,29,9,96,True
+1974,12,10,25,Vancouver Canucks,7,2,2,3,5,27,25,113,27,California Golden Seals,3,0,5,9,1,30,19,167,True
+1974,12,11,29,Atlanta Flames,4,2,1,3,6,42,12,73,11,Chicago Black Hawks,4,0,1,3,3,32,4,42,False
+1974,12,11,13,Toronto Maple Leafs,3,0,4,5,1,38,13,149,22,Los Angeles Kings,7,2,6,8,2,33,2,56,False
+1974,12,12,6,Boston Bruins,8,1,6,9,2,29,12,73,22,Los Angeles Kings,7,1,4,6,0,23,1,59,True
+1974,12,12,26,Buffalo Sabres,10,1,5,6,3,29,6,87,25,Vancouver Canucks,7,1,3,4,0,19,20,105,False
+1974,12,12,16,Detroit Red Wings,4,1,4,7,2,28,29,149,21,St. Louis Blues,6,1,2,4,1,23,10,99,False
+1974,12,12,31,Kansas City Scouts,1,1,2,4,6,31,12,51,27,California Golden Seals,3,0,0,0,3,30,21,167,True
+1974,12,12,23,Philadelphia Flyers,7,2,3,6,2,13,10,77,24,Minnesota North Stars,4,0,3,6,1,21,12,86,True
+1974,12,12,20,Pittsburgh Penguins,2,0,2,4,3,46,22,163,0,Montreal Canadiens,8,2,5,8,2,24,11,102,False
+1974,12,12,30,Washington Capitals,1,0,1,2,3,23,19,113,10,New York Rangers,6,1,3,6,4,25,13,73,False
+1974,12,13,29,Atlanta Flames,4,1,2,1,6,31,11,60,23,Philadelphia Flyers,7,1,6,10,0,22,8,86,False
+1974,12,14,6,Boston Bruins,8,1,8,14,1,16,11,60,30,Washington Capitals,0,0,6,9,6,36,22,126,True
+1974,12,14,31,Kansas City Scouts,2,1,5,5,3,29,9,49,25,Vancouver Canucks,7,1,5,7,3,31,23,117,False
+1974,12,14,24,Minnesota North Stars,3,0,0,0,6,23,17,88,26,Buffalo Sabres,9,2,3,6,0,14,8,77,True
+1974,12,14,0,Montreal Canadiens,8,2,3,6,3,25,11,113,27,California Golden Seals,3,0,3,6,5,40,23,177,True
+1974,12,14,28,New York Islanders,6,1,3,6,2,36,7,97,22,Los Angeles Kings,6,1,1,0,1,36,9,73,True
+1974,12,14,20,Pittsburgh Penguins,2,2,3,7,3,43,22,160,11,Chicago Black Hawks,4,0,4,7,2,24,3,34,True
+1974,12,14,21,St. Louis Blues,7,1,4,8,3,32,12,97,10,New York Rangers,6,1,6,12,3,28,15,78,True
+1974,12,14,13,Toronto Maple Leafs,3,1,1,2,4,32,18,141,29,Atlanta Flames,3,1,2,4,5,29,8,64,True
+1974,12,15,6,Boston Bruins,8,1,12,21,1,16,11,60,28,New York Islanders,6,1,3,5,3,21,5,81,True
+1974,12,15,26,Buffalo Sabres,8,2,2,3,3,34,11,97,27,California Golden Seals,3,0,3,5,3,30,23,181,False
+1974,12,15,11,Chicago Black Hawks,4,1,4,6,6,38,7,48,25,Vancouver Canucks,7,1,2,3,2,24,22,110,True
+1974,12,15,16,Detroit Red Wings,4,0,3,4,4,28,31,149,20,Pittsburgh Penguins,2,2,6,12,3,38,22,155,False
+1974,12,15,10,New York Rangers,5,2,2,4,0,1,12,58,22,Los Angeles Kings,6,0,0,0,2,28,10,65,False
+1974,12,15,23,Philadelphia Flyers,8,1,3,7,2,23,10,87,21,St. Louis Blues,7,1,6,11,2,32,11,97,True
+1974,12,15,30,Washington Capitals,0,0,1,2,5,15,21,93,13,Toronto Maple Leafs,4,2,4,7,2,41,16,150,True
+1974,12,17,6,Boston Bruins,8,1,5,5,2,26,12,70,29,Atlanta Flames,3,1,2,3,3,35,6,76,True
+1974,12,17,21,St. Louis Blues,6,1,2,3,7,41,16,106,28,New York Islanders,5,1,2,2,5,36,7,96,True
+1974,12,17,25,Vancouver Canucks,7,0,2,4,3,44,23,130,30,Washington Capitals,1,0,3,4,1,26,17,104,True
+1974,12,18,26,Buffalo Sabres,7,2,5,6,3,12,12,59,28,New York Islanders,5,0,4,7,0,20,10,97,True
+1974,12,18,11,Chicago Black Hawks,4,1,5,8,2,34,3,44,16,Detroit Red Wings,4,1,2,2,3,28,30,149,True
+1974,12,18,27,California Golden Seals,4,0,5,5,5,44,25,196,0,Montreal Canadiens,8,2,5,10,3,29,11,106,False
+1974,12,18,31,Kansas City Scouts,2,0,2,6,2,39,8,59,22,Los Angeles Kings,7,1,3,6,8,37,11,66,False
+1974,12,18,10,New York Rangers,5,1,3,4,3,28,15,85,24,Minnesota North Stars,3,1,4,6,4,14,13,102,True
+1974,12,18,13,Toronto Maple Leafs,4,0,1,2,3,31,17,140,20,Pittsburgh Penguins,3,2,4,5,2,28,18,133,True
+1974,12,19,6,Boston Bruins,8,2,5,5,3,21,13,65,10,New York Rangers,5,0,7,10,6,37,12,77,True
+1974,12,19,22,Los Angeles Kings,7,1,6,10,3,29,3,49,30,Washington Capitals,1,0,2,2,7,33,20,109,True
+1974,12,19,23,Philadelphia Flyers,9,1,7,10,2,23,10,87,13,Toronto Maple Leafs,5,1,6,10,4,40,18,149,True
+1974,12,19,20,Pittsburgh Penguins,3,1,3,6,6,42,22,147,31,Kansas City Scouts,1,0,0,0,6,20,12,50,False
+1974,12,20,29,Atlanta Flames,2,0,3,5,3,41,7,74,21,St. Louis Blues,7,2,8,10,3,21,13,93,True
+1974,12,20,27,California Golden Seals,4,1,3,3,5,45,24,190,30,Washington Capitals,1,1,1,1,4,31,17,118,True
+1974,12,20,25,Vancouver Canucks,8,0,4,5,2,27,22,113,0,Montreal Canadiens,9,2,4,8,3,33,15,101,False
+1974,12,21,16,Detroit Red Wings,4,0,5,8,1,16,29,105,23,Philadelphia Flyers,9,2,5,8,4,34,9,84,False
+1974,12,21,22,Los Angeles Kings,7,1,4,8,1,15,1,35,0,Montreal Canadiens,9,1,6,12,3,18,13,89,False
+1974,12,21,24,Minnesota North Stars,2,1,0,0,2,37,16,133,20,Pittsburgh Penguins,3,1,5,4,4,28,16,113,True
+1974,12,21,28,New York Islanders,4,1,2,4,3,31,13,108,11,Chicago Black Hawks,5,1,7,10,1,10,6,46,False
+1974,12,21,21,St. Louis Blues,7,0,2,3,4,28,14,96,31,Kansas City Scouts,2,1,4,8,6,30,10,73,True
+1974,12,21,13,Toronto Maple Leafs,5,1,2,3,5,42,22,161,6,Boston Bruins,8,1,11,18,0,4,7,39,True
+1974,12,22,6,Boston Bruins,8,1,4,7,3,17,12,60,16,Detroit Red Wings,4,1,2,4,2,30,30,119,True
+1974,12,22,11,Chicago Black Hawks,6,1,3,6,5,36,8,62,13,Toronto Maple Leafs,5,1,8,13,4,35,21,154,True
+1974,12,22,27,California Golden Seals,5,0,5,10,4,38,21,168,25,Vancouver Canucks,7,2,1,2,5,27,22,98,False
+1974,12,22,31,Kansas City Scouts,2,1,4,7,5,30,9,73,28,New York Islanders,3,1,3,5,8,37,13,105,False
+1974,12,22,10,New York Rangers,4,1,2,5,0,20,15,104,29,Atlanta Flames,2,1,6,10,4,33,6,65,False
+1974,12,22,23,Philadelphia Flyers,10,1,2,3,1,20,7,77,20,Pittsburgh Penguins,3,1,7,7,3,7,21,130,True
+1974,12,22,30,Washington Capitals,1,0,2,4,5,44,18,131,26,Buffalo Sabres,7,2,3,4,2,21,11,68,False
+1974,12,26,29,Atlanta Flames,2,1,4,7,2,32,5,79,28,New York Islanders,4,1,5,9,2,30,7,98,True
+1974,12,26,26,Buffalo Sabres,7,2,4,3,0,27,9,74,11,Chicago Black Hawks,6,0,3,4,0,34,3,60,True
+1974,12,26,16,Detroit Red Wings,4,1,4,6,5,44,33,133,24,Minnesota North Stars,2,1,8,15,7,45,21,126,False
+1974,12,26,22,Los Angeles Kings,7,2,2,3,0,20,2,48,25,Vancouver Canucks,7,0,6,7,4,29,21,100,True
+1974,12,26,20,Pittsburgh Penguins,3,1,1,0,4,32,21,133,21,St. Louis Blues,7,1,4,10,6,31,14,97,False
+1974,12,26,30,Washington Capitals,1,0,0,0,4,41,17,128,23,Philadelphia Flyers,10,1,4,7,0,24,6,81,False
+1974,12,27,27,California Golden Seals,4,0,4,6,2,23,23,162,6,Boston Bruins,8,2,5,8,4,34,13,77,True
+1974,12,27,0,Montreal Canadiens,9,2,2,3,1,21,11,115,16,Detroit Red Wings,3,0,4,7,4,22,32,111,True
+1974,12,27,10,New York Rangers,4,1,3,6,4,21,19,105,26,Buffalo Sabres,7,1,3,4,5,19,10,65,True
+1974,12,28,11,Chicago Black Hawks,5,1,1,2,3,36,6,62,23,Philadelphia Flyers,10,1,4,7,1,20,7,77,True
+1974,12,28,22,Los Angeles Kings,7,2,5,8,2,28,3,54,27,California Golden Seals,5,0,5,9,6,32,23,172,False
+1974,12,28,0,Montreal Canadiens,9,1,7,10,2,40,11,122,31,Kansas City Scouts,2,0,2,4,5,34,9,77,True
+1974,12,28,20,Pittsburgh Penguins,2,0,2,5,2,30,22,143,29,Atlanta Flames,3,2,2,2,3,47,4,71,False
+1974,12,28,21,St. Louis Blues,7,0,2,5,4,29,10,105,24,Minnesota North Stars,3,2,4,8,4,33,18,114,True
+1974,12,28,13,Toronto Maple Leafs,5,1,0,0,3,29,16,156,28,New York Islanders,4,1,1,2,2,32,7,100,True
+1974,12,28,25,Vancouver Canucks,6,0,1,0,4,25,21,96,6,Boston Bruins,8,2,2,3,4,24,13,67,True
+1974,12,29,26,Buffalo Sabres,6,0,5,10,3,13,13,71,23,Philadelphia Flyers,9,2,1,1,2,23,8,80,False
+1974,12,29,11,Chicago Black Hawks,6,2,2,4,1,23,4,49,21,St. Louis Blues,7,0,4,6,2,39,8,95,True
+1974,12,29,10,New York Rangers,5,0,9,17,6,16,20,115,31,Kansas City Scouts,2,0,2,2,4,43,11,80,True
+1974,12,29,30,Washington Capitals,1,0,1,2,3,32,16,119,28,New York Islanders,3,1,1,1,3,28,8,105,False
+1974,12,30,16,Detroit Red Wings,3,0,1,2,7,34,35,123,22,Los Angeles Kings,6,2,2,3,3,27,4,53,False
+1974,12,30,24,Minnesota North Stars,3,0,2,2,4,33,18,114,10,New York Rangers,5,2,2,2,5,31,13,114,False
+1974,12,30,20,Pittsburgh Penguins,2,1,3,5,5,37,19,127,13,Toronto Maple Leafs,5,1,3,6,1,28,17,148,True
+1974,12,31,11,Chicago Black Hawks,7,1,5,9,3,26,5,44,22,Los Angeles Kings,6,1,3,5,1,26,3,54,False
+1974,12,31,16,Detroit Red Wings,2,2,2,5,3,21,31,110,27,California Golden Seals,5,0,3,5,2,33,19,175,True
+1975,1,1,10,New York Rangers,5,1,8,14,1,25,9,108,11,Chicago Black Hawks,7,1,1,2,2,18,5,45,True
+1975,1,1,13,Toronto Maple Leafs,5,2,5,10,3,40,23,167,27,California Golden Seals,4,0,3,3,2,35,21,176,False
+1975,1,1,25,Vancouver Canucks,6,1,6,8,4,31,21,102,23,Philadelphia Flyers,9,1,5,8,2,33,8,90,False
+1975,1,2,29,Atlanta Flames,4,0,4,4,3,36,4,60,0,Montreal Canadiens,10,2,7,14,1,28,13,110,False
+1975,1,2,31,Kansas City Scouts,2,1,1,2,2,32,9,69,21,St. Louis Blues,6,1,3,4,2,19,11,88,False
+1975,1,2,22,Los Angeles Kings,6,1,3,6,2,28,3,62,6,Boston Bruins,7,1,4,6,4,23,14,76,False
+1975,1,2,28,New York Islanders,4,2,7,12,3,37,5,96,30,Washington Capitals,1,0,0,0,4,42,20,117,True
+1975,1,2,20,Pittsburgh Penguins,3,1,7,13,3,27,19,136,24,Minnesota North Stars,3,1,1,2,8,47,22,128,True
+1975,1,3,27,California Golden Seals,5,1,3,5,3,44,22,185,26,Buffalo Sabres,5,1,3,4,2,5,14,74,False
+1975,1,4,31,Kansas City Scouts,2,0,1,2,7,37,9,65,16,Detroit Red Wings,2,1,4,5,5,19,31,116,True
+1975,1,4,22,Los Angeles Kings,6,1,2,4,1,34,6,78,23,Philadelphia Flyers,9,1,2,4,0,24,6,81,False
+1975,1,4,24,Minnesota North Stars,3,0,2,4,6,52,20,133,6,Boston Bruins,7,2,5,7,2,26,12,79,False
+1975,1,4,0,Montreal Canadiens,10,2,1,1,2,25,7,110,30,Washington Capitals,1,0,2,4,7,30,21,121,True
+1975,1,4,28,New York Islanders,4,1,5,9,0,19,4,74,10,New York Rangers,6,1,6,9,2,23,10,102,False
+1975,1,4,20,Pittsburgh Penguins,4,1,6,10,3,32,19,141,25,Vancouver Canucks,6,1,0,0,1,30,18,101,True
+1975,1,4,21,St. Louis Blues,7,1,2,4,5,32,10,103,29,Atlanta Flames,4,1,1,3,1,24,2,53,False
+1975,1,4,13,Toronto Maple Leafs,4,1,3,4,7,47,22,160,11,Chicago Black Hawks,6,1,2,2,5,24,6,32,True
+1975,1,5,29,Atlanta Flames,5,2,4,8,1,29,2,50,30,Washington Capitals,1,0,0,0,1,15,19,92,True
+1975,1,5,26,Buffalo Sabres,5,2,2,3,4,16,14,99,21,St. Louis Blues,6,0,1,2,1,34,9,103,True
+1975,1,5,11,Chicago Black Hawks,6,2,3,5,5,41,6,49,0,Montreal Canadiens,10,0,10,17,0,17,5,102,False
+1975,1,5,27,California Golden Seals,5,1,1,2,4,34,21,167,23,Philadelphia Flyers,9,1,2,3,2,21,8,78,True
+1975,1,5,16,Detroit Red Wings,1,2,1,1,3,27,28,116,13,Toronto Maple Leafs,5,0,6,10,3,33,18,144,False
+1975,1,5,10,New York Rangers,6,0,5,7,3,31,11,110,25,Vancouver Canucks,5,2,3,4,1,4,21,99,True
+1975,1,6,31,Kansas City Scouts,3,0,2,4,2,28,3,57,24,Minnesota North Stars,3,1,0,0,7,30,22,117,True
+1975,1,7,28,New York Islanders,3,0,3,4,2,15,8,95,13,Toronto Maple Leafs,5,2,1,2,0,24,15,135,True
+1975,1,7,21,St. Louis Blues,5,2,2,4,4,39,12,108,27,California Golden Seals,6,0,5,9,2,26,18,165,False
+1975,1,7,30,Washington Capitals,1,0,0,0,9,32,21,122,6,Boston Bruins,7,2,8,14,5,33,10,79,False
+1975,1,8,29,Atlanta Flames,6,1,3,6,1,21,1,41,27,California Golden Seals,6,1,3,6,1,32,18,178,True
+1975,1,8,11,Chicago Black Hawks,5,0,4,8,5,36,6,44,20,Pittsburgh Penguins,4,2,4,4,3,32,17,135,True
+1975,1,8,16,Detroit Red Wings,1,0,0,0,1,21,26,110,0,Montreal Canadiens,10,2,6,9,1,36,9,115,False
+1975,1,8,31,Kansas City Scouts,3,0,5,8,1,29,3,56,10,New York Rangers,7,1,6,12,2,30,10,108,False
+1975,1,8,24,Minnesota North Stars,3,1,2,2,8,36,20,118,22,Los Angeles Kings,6,1,2,4,2,33,7,77,False
+1975,1,8,13,Toronto Maple Leafs,5,0,3,4,3,31,20,135,25,Vancouver Canucks,4,2,2,6,4,14,22,95,True
+1975,1,9,6,Boston Bruins,7,1,3,4,0,26,8,61,25,Vancouver Canucks,3,1,4,4,2,14,24,112,True
+1975,1,9,26,Buffalo Sabres,5,0,4,8,2,17,12,100,22,Los Angeles Kings,6,2,4,8,5,44,7,83,False
+1975,1,9,23,Philadelphia Flyers,8,2,1,2,5,35,11,92,28,New York Islanders,4,0,5,8,3,27,9,107,False
+1975,1,10,29,Atlanta Flames,7,2,2,4,0,20,2,48,20,Pittsburgh Penguins,3,0,5,9,6,46,19,122,False
+1975,1,11,6,Boston Bruins,7,0,4,6,1,17,9,52,11,Chicago Black Hawks,5,2,7,12,1,8,6,36,True
+1975,1,11,16,Detroit Red Wings,1,1,4,7,4,33,29,122,26,Buffalo Sabres,5,1,2,4,5,18,15,101,False
+1975,1,11,31,Kansas City Scouts,3,1,1,2,2,27,8,56,30,Washington Capitals,0,0,3,6,2,35,12,89,True
+1975,1,11,0,Montreal Canadiens,10,1,4,7,4,30,17,110,23,Philadelphia Flyers,7,1,1,2,3,33,9,90,True
+1975,1,11,28,New York Islanders,5,0,3,4,1,31,7,111,29,Atlanta Flames,7,2,3,6,2,28,5,72,False
+1975,1,11,20,Pittsburgh Penguins,4,2,3,5,6,29,21,139,27,California Golden Seals,6,0,3,4,2,39,20,178,True
+1975,1,11,21,St. Louis Blues,5,2,2,4,3,24,10,76,10,New York Rangers,8,0,6,11,1,36,10,117,False
+1975,1,11,13,Toronto Maple Leafs,5,0,6,7,4,32,21,136,22,Los Angeles Kings,6,2,5,5,2,35,4,74,False
+1975,1,12,26,Buffalo Sabres,6,1,3,5,3,32,13,115,25,Vancouver Canucks,3,1,1,1,1,14,21,99,True
+1975,1,12,11,Chicago Black Hawks,4,0,1,3,5,28,10,53,10,New York Rangers,8,2,5,8,3,26,12,107,True
+1975,1,12,16,Detroit Red Wings,1,0,3,5,2,19,28,116,21,St. Louis Blues,4,2,3,4,4,32,12,78,False
+1975,1,12,23,Philadelphia Flyers,6,1,0,0,5,19,10,59,27,California Golden Seals,5,1,3,5,3,32,24,180,True
+1975,1,12,13,Toronto Maple Leafs,5,1,5,8,5,24,20,126,28,New York Islanders,5,1,2,4,2,18,8,98,True
+1975,1,12,30,Washington Capitals,0,0,3,5,5,33,15,87,0,Montreal Canadiens,10,2,6,10,4,31,10,102,False
+1975,1,14,31,Kansas City Scouts,4,0,5,10,3,30,6,58,23,Philadelphia Flyers,6,2,2,3,1,17,6,57,False
+1975,1,14,28,New York Islanders,5,1,3,5,4,40,10,116,21,St. Louis Blues,5,1,2,3,1,29,9,75,False
+1975,1,14,30,Washington Capitals,0,0,2,4,9,45,17,88,22,Los Angeles Kings,6,2,7,11,5,30,7,69,False
+1975,1,15,11,Chicago Black Hawks,4,1,4,7,2,24,7,49,25,Vancouver Canucks,2,1,1,0,1,20,21,104,True
+1975,1,15,27,California Golden Seals,5,1,1,0,2,48,23,196,26,Buffalo Sabres,7,1,5,3,6,30,11,112,False
+1975,1,15,24,Minnesota North Stars,3,0,2,4,5,31,16,101,10,New York Rangers,8,2,2,4,3,26,15,117,False
+1975,1,15,0,Montreal Canadiens,10,1,7,9,2,18,8,89,6,Boston Bruins,7,1,5,6,1,23,9,58,True
+1975,1,15,20,Pittsburgh Penguins,5,1,6,8,3,40,18,138,29,Atlanta Flames,8,1,2,2,3,44,5,80,True
+1975,1,15,21,St. Louis Blues,5,2,3,2,5,26,11,84,13,Toronto Maple Leafs,5,0,3,5,3,23,20,134,False
+1975,1,16,6,Boston Bruins,6,2,3,2,4,22,12,57,22,Los Angeles Kings,7,0,6,11,2,25,4,64,False
+1975,1,16,16,Detroit Red Wings,1,1,1,2,3,27,28,127,31,Kansas City Scouts,3,1,4,7,1,1,10,69,True
+1975,1,16,23,Philadelphia Flyers,6,2,5,9,4,32,9,72,30,Washington Capitals,0,0,2,2,7,34,14,86,True
+1975,1,17,29,Atlanta Flames,7,0,3,6,2,36,7,86,22,Los Angeles Kings,7,2,4,6,1,36,3,75,True
+1975,1,17,27,California Golden Seals,4,0,0,0,6,41,25,177,10,New York Rangers,9,2,5,6,3,26,15,117,False
+1975,1,17,25,Vancouver Canucks,2,1,0,2,2,36,22,120,26,Buffalo Sabres,7,1,4,6,0,26,5,108,False
+1975,1,18,31,Kansas City Scouts,3,0,4,8,6,40,16,110,11,Chicago Black Hawks,5,2,2,4,5,25,6,46,True
+1975,1,18,0,Montreal Canadiens,10,1,5,6,0,23,9,110,13,Toronto Maple Leafs,6,1,5,7,1,29,18,140,False
+1975,1,18,28,New York Islanders,4,0,3,5,3,35,9,111,16,Detroit Red Wings,2,2,7,13,2,30,29,128,True
+1975,1,18,23,Philadelphia Flyers,6,1,4,6,0,20,5,60,29,Atlanta Flames,7,1,5,10,5,50,5,86,True
+1975,1,18,20,Pittsburgh Penguins,6,0,5,8,3,28,25,166,6,Boston Bruins,6,2,1,2,5,20,12,57,False
+1975,1,18,21,St. Louis Blues,4,1,2,2,3,38,9,81,24,Minnesota North Stars,2,1,3,5,4,19,15,111,True
+1975,1,18,25,Vancouver Canucks,1,1,2,3,4,24,20,94,10,New York Rangers,9,1,4,7,4,29,11,119,False
+1975,1,19,6,Boston Bruins,6,0,4,5,4,35,11,72,13,Toronto Maple Leafs,6,2,5,7,6,25,21,136,True
+1975,1,19,26,Buffalo Sabres,7,1,4,7,1,29,5,81,31,Kansas City Scouts,4,0,4,7,7,42,12,119,True
+1975,1,19,11,Chicago Black Hawks,4,1,1,2,1,21,5,54,27,California Golden Seals,3,1,4,8,4,25,23,161,True
+1975,1,19,16,Detroit Red Wings,2,0,1,2,4,28,32,132,24,Minnesota North Stars,2,2,4,8,4,41,16,128,False
+1975,1,19,0,Montreal Canadiens,9,2,3,6,3,39,14,130,22,Los Angeles Kings,7,0,0,0,5,30,7,69,False
+1975,1,19,30,Washington Capitals,0,0,0,0,4,40,11,92,20,Pittsburgh Penguins,6,2,4,7,3,26,24,172,False
+1975,1,22,20,Pittsburgh Penguins,7,2,3,5,4,38,23,182,27,California Golden Seals,3,0,1,2,4,29,21,165,True
+1975,1,23,6,Boston Bruins,7,2,6,10,3,27,10,64,31,Kansas City Scouts,4,0,0,0,5,40,11,105,False
+1975,1,23,26,Buffalo Sabres,7,2,5,9,1,18,4,72,16,Detroit Red Wings,2,0,4,7,5,34,32,130,True
+1975,1,23,11,Chicago Black Hawks,4,1,3,3,1,22,5,55,28,New York Islanders,5,1,5,8,4,36,7,105,True
+1975,1,23,22,Los Angeles Kings,7,2,6,12,3,36,5,75,13,Toronto Maple Leafs,6,0,3,7,3,27,21,152,True
+1975,1,23,24,Minnesota North Stars,2,0,4,7,4,35,16,122,0,Montreal Canadiens,8,2,3,6,6,32,18,111,False
+1975,1,23,10,New York Rangers,9,0,3,5,2,31,9,121,29,Atlanta Flames,6,2,2,4,0,36,4,77,True
+1975,1,23,21,St. Louis Blues,4,1,5,9,3,23,10,79,23,Philadelphia Flyers,7,1,4,6,1,18,6,58,False
+1975,1,23,30,Washington Capitals,0,0,2,4,3,40,10,92,25,Vancouver Canucks,1,1,2,4,3,30,19,100,False
+1975,1,24,29,Atlanta Flames,5,1,2,3,4,41,9,98,25,Vancouver Canucks,1,1,3,6,2,22,18,92,False
+1975,1,24,27,California Golden Seals,2,1,5,10,6,47,23,183,13,Toronto Maple Leafs,6,1,0,0,6,41,26,156,True
+1975,1,25,16,Detroit Red Wings,2,2,1,2,4,26,32,140,30,Washington Capitals,0,0,2,3,1,9,10,90,True
+1975,1,25,24,Minnesota North Stars,1,1,0,0,5,36,19,118,31,Kansas City Scouts,5,1,3,5,1,39,8,101,True
+1975,1,25,0,Montreal Canadiens,8,0,7,9,4,33,12,106,26,Buffalo Sabres,8,2,5,9,0,20,4,81,False
+1975,1,25,28,New York Islanders,5,2,1,2,1,29,6,98,22,Los Angeles Kings,7,0,8,14,2,39,2,62,False
+1975,1,25,20,Pittsburgh Penguins,8,0,7,13,2,36,19,165,10,New York Rangers,9,2,4,6,5,25,12,107,True
+1975,1,25,21,St. Louis Blues,4,0,2,4,4,36,14,95,11,Chicago Black Hawks,5,2,3,4,1,28,5,61,False
+1975,1,26,6,Boston Bruins,7,1,2,3,3,19,10,56,23,Philadelphia Flyers,7,1,7,12,2,36,7,76,False
+1975,1,26,26,Buffalo Sabres,9,2,7,8,6,27,9,77,29,Atlanta Flames,5,0,1,1,5,57,9,85,False
+1975,1,26,11,Chicago Black Hawks,6,1,4,7,1,33,5,66,27,California Golden Seals,3,1,6,8,2,29,18,167,True
+1975,1,26,0,Montreal Canadiens,7,2,6,11,7,49,15,122,20,Pittsburgh Penguins,8,0,5,8,5,26,19,160,True
+1975,1,26,10,New York Rangers,8,1,2,3,2,24,12,114,22,Los Angeles Kings,8,1,5,10,0,23,5,51,True
+1975,1,26,25,Vancouver Canucks,2,1,4,8,1,24,17,94,13,Toronto Maple Leafs,5,1,1,0,4,15,18,95,True
+1975,1,26,30,Washington Capitals,0,0,2,2,3,38,14,119,16,Detroit Red Wings,2,2,5,10,2,25,30,139,True
+1975,1,27,31,Kansas City Scouts,5,1,1,2,2,36,13,101,6,Boston Bruins,6,1,2,4,2,30,9,67,False
+1975,1,28,22,Los Angeles Kings,8,1,2,3,3,31,8,59,10,New York Rangers,8,1,3,4,2,26,12,116,True
+1975,1,28,28,New York Islanders,4,2,5,6,3,29,10,93,24,Minnesota North Stars,2,0,3,8,7,31,15,121,True
+1975,1,28,21,St. Louis Blues,3,2,1,2,7,39,14,82,16,Detroit Red Wings,2,0,3,5,6,23,34,137,False
+1975,1,28,25,Vancouver Canucks,3,0,6,10,4,24,20,94,0,Montreal Canadiens,7,2,7,8,0,27,12,110,False
+1975,1,29,31,Kansas City Scouts,4,0,3,6,4,32,14,96,29,Atlanta Flames,5,2,4,9,4,28,7,74,False
+1975,1,29,24,Minnesota North Stars,2,0,3,1,1,39,14,130,28,New York Islanders,4,2,6,11,2,20,9,84,False
+1975,1,29,20,Pittsburgh Penguins,7,1,2,3,2,31,24,175,11,Chicago Black Hawks,7,1,3,6,2,22,6,55,True
+1975,1,29,13,Toronto Maple Leafs,4,0,4,6,6,24,20,104,27,California Golden Seals,2,2,2,2,1,31,19,165,True
+1975,1,30,6,Boston Bruins,6,1,3,6,3,24,10,61,27,California Golden Seals,1,1,2,3,3,27,22,175,True
+1975,1,30,26,Buffalo Sabres,8,1,4,6,1,27,7,70,10,New York Rangers,7,1,2,4,4,26,14,127,True
+1975,1,30,16,Detroit Red Wings,3,0,4,7,4,38,32,152,20,Pittsburgh Penguins,7,2,6,6,7,33,23,173,True
+1975,1,30,22,Los Angeles Kings,8,2,5,7,5,28,7,59,30,Washington Capitals,1,0,6,9,5,38,14,119,True
+1975,1,30,23,Philadelphia Flyers,7,2,2,3,2,27,7,67,13,Toronto Maple Leafs,5,0,4,6,2,29,16,109,True
+1975,1,31,29,Atlanta Flames,5,2,4,6,3,46,7,79,21,St. Louis Blues,3,0,4,4,4,23,11,75,False
+1975,2,1,11,Chicago Black Hawks,7,1,1,0,6,32,10,65,10,New York Rangers,6,1,3,6,2,11,11,105,False
+1975,2,1,16,Detroit Red Wings,4,1,5,8,2,30,30,144,28,New York Islanders,5,1,4,4,3,35,10,99,False
+1975,2,1,31,Kansas City Scouts,3,1,4,8,4,43,12,117,24,Minnesota North Stars,2,1,3,6,6,40,17,127,False
+1975,2,1,22,Los Angeles Kings,8,1,6,10,2,31,6,53,0,Montreal Canadiens,7,1,3,5,2,30,11,120,False
+1975,2,1,23,Philadelphia Flyers,7,2,3,6,1,27,6,67,26,Buffalo Sabres,8,0,6,8,4,20,9,86,True
+1975,2,1,21,St. Louis Blues,4,2,4,1,2,18,9,70,20,Pittsburgh Penguins,7,0,2,4,1,29,21,173,False
+1975,2,1,13,Toronto Maple Leafs,4,1,1,2,3,30,17,111,6,Boston Bruins,6,1,6,12,0,15,7,52,True
+1975,2,1,25,Vancouver Canucks,3,2,2,1,0,4,19,98,30,Washington Capitals,1,0,4,6,3,38,15,116,True
+1975,2,2,6,Boston Bruins,5,1,3,5,3,44,10,81,23,Philadelphia Flyers,8,1,6,11,0,26,5,66,True
+1975,2,2,26,Buffalo Sabres,8,2,0,0,6,26,11,92,31,Kansas City Scouts,3,0,2,3,3,31,11,96,True
+1975,2,2,11,Chicago Black Hawks,6,2,1,2,4,26,8,59,28,New York Islanders,5,0,4,6,1,28,8,92,False
+1975,2,2,27,California Golden Seals,1,0,0,0,6,39,25,187,0,Montreal Canadiens,7,2,5,7,1,27,12,120,False
+1975,2,2,24,Minnesota North Stars,3,1,3,4,2,30,13,117,29,Atlanta Flames,4,1,2,4,4,33,7,64,False
+1975,2,2,10,New York Rangers,6,2,4,6,4,25,9,98,16,Detroit Red Wings,4,0,1,2,4,28,32,142,False
+1975,2,4,16,Detroit Red Wings,5,0,5,5,5,49,33,163,26,Buffalo Sabres,8,2,8,14,0,11,3,51,False
+1975,2,4,31,Kansas City Scouts,2,1,1,1,8,58,16,123,11,Chicago Black Hawks,6,1,1,2,1,17,5,50,False
+1975,2,4,21,St. Louis Blues,4,1,4,7,4,24,11,76,13,Toronto Maple Leafs,5,1,3,5,2,40,16,121,False
+1975,2,4,25,Vancouver Canucks,4,1,5,9,3,27,21,114,20,Pittsburgh Penguins,7,1,5,6,5,43,26,169,False
+1975,2,5,29,Atlanta Flames,5,0,5,8,3,34,6,65,6,Boston Bruins,5,2,5,10,1,21,4,40,False
+1975,2,5,27,California Golden Seals,1,2,1,1,5,27,24,175,30,Washington Capitals,1,0,2,2,6,35,16,111,True
+1975,2,5,22,Los Angeles Kings,7,2,3,6,5,31,9,53,20,Pittsburgh Penguins,7,0,3,5,4,23,23,164,False
+1975,2,5,24,Minnesota North Stars,3,1,3,6,4,30,15,117,11,Chicago Black Hawks,6,1,3,6,3,35,7,68,False
+1975,2,5,0,Montreal Canadiens,7,2,5,8,3,30,9,112,16,Detroit Red Wings,4,0,1,2,0,7,29,104,True
+1975,2,5,10,New York Rangers,6,0,5,7,5,25,10,98,23,Philadelphia Flyers,8,2,1,2,5,30,10,70,False
+1975,2,6,6,Boston Bruins,6,2,3,5,3,33,6,52,24,Minnesota North Stars,3,0,1,2,4,36,13,119,True
+1975,2,6,31,Kansas City Scouts,2,0,3,6,3,34,8,94,13,Toronto Maple Leafs,5,1,3,7,3,38,18,128,True
+1975,2,6,28,New York Islanders,5,0,1,2,1,36,8,100,26,Buffalo Sabres,8,2,6,11,1,22,4,62,False
+1975,2,6,23,Philadelphia Flyers,9,2,4,5,3,29,8,69,10,New York Rangers,5,0,4,5,1,25,9,107,False
+1975,2,7,29,Atlanta Flames,4,1,3,6,3,31,6,69,22,Los Angeles Kings,6,1,2,4,3,31,7,53,True
+1975,2,7,27,California Golden Seals,2,0,5,8,1,27,20,175,20,Pittsburgh Penguins,7,2,3,6,2,38,20,166,False
+1975,2,7,21,St. Louis Blues,4,2,3,6,5,33,12,85,31,Kansas City Scouts,3,0,3,6,3,22,6,77,True
+1975,2,7,25,Vancouver Canucks,4,0,0,2,3,24,21,111,11,Chicago Black Hawks,6,2,2,4,1,24,5,57,True
+1975,2,8,16,Detroit Red Wings,4,1,5,9,6,27,37,140,6,Boston Bruins,7,1,3,5,2,16,5,35,False
+1975,2,8,24,Minnesota North Stars,3,0,2,3,2,32,12,114,23,Philadelphia Flyers,8,2,1,3,1,10,8,65,True
+1975,2,8,0,Montreal Canadiens,7,1,8,14,1,24,10,100,10,New York Rangers,5,1,3,5,1,31,11,137,True
+1975,2,8,28,New York Islanders,5,2,2,3,5,24,9,94,30,Washington Capitals,1,0,1,2,4,33,15,118,True
+1975,2,8,13,Toronto Maple Leafs,4,2,2,4,3,37,13,119,21,St. Louis Blues,4,0,5,10,0,0,11,100,False
+1975,2,9,29,Atlanta Flames,5,1,3,5,3,38,4,61,24,Minnesota North Stars,4,1,5,8,0,26,10,108,False
+1975,2,9,6,Boston Bruins,7,1,8,12,0,4,8,47,28,New York Islanders,6,1,5,10,2,30,5,82,True
+1975,2,9,26,Buffalo Sabres,8,2,2,4,1,17,5,67,0,Montreal Canadiens,7,0,7,11,5,29,10,101,False
+1975,2,9,11,Chicago Black Hawks,6,1,1,2,3,28,7,61,22,Los Angeles Kings,5,1,1,1,2,22,6,44,False
+1975,2,9,27,California Golden Seals,2,0,1,1,4,41,23,173,31,Kansas City Scouts,2,2,0,1,5,46,8,101,False
+1975,2,9,16,Detroit Red Wings,4,1,5,9,8,43,39,146,13,Toronto Maple Leafs,3,1,3,5,3,29,13,111,True
+1975,2,9,10,New York Rangers,4,2,0,1,0,9,9,86,30,Washington Capitals,1,0,1,2,5,46,16,131,True
+1975,2,11,28,New York Islanders,6,1,1,1,5,41,8,93,20,Pittsburgh Penguins,8,1,4,6,2,31,21,161,True
+1975,2,11,21,St. Louis Blues,4,0,3,5,3,29,14,129,23,Philadelphia Flyers,7,2,0,0,3,25,12,88,True
+1975,2,11,25,Vancouver Canucks,5,1,4,6,1,26,19,113,31,Kansas City Scouts,3,1,2,4,2,28,4,89,True
+1975,2,11,30,Washington Capitals,1,0,3,1,7,40,18,125,10,New York Rangers,4,2,7,13,7,17,12,104,True
+1975,2,12,11,Chicago Black Hawks,5,1,1,2,2,22,6,55,6,Boston Bruins,7,1,5,7,5,28,9,63,True
+1975,2,12,27,California Golden Seals,2,0,1,3,4,25,21,170,16,Detroit Red Wings,5,2,5,9,3,35,34,138,True
+1975,2,12,22,Los Angeles Kings,6,0,2,3,4,22,5,55,29,Atlanta Flames,4,2,2,2,1,23,4,47,False
+1975,2,12,24,Minnesota North Stars,4,0,3,5,3,31,12,108,28,New York Islanders,6,2,2,4,1,19,4,71,False
+1975,2,12,20,Pittsburgh Penguins,7,0,1,1,1,27,23,181,26,Buffalo Sabres,7,2,4,11,1,11,6,48,False
+1975,2,12,13,Toronto Maple Leafs,3,1,3,6,5,41,15,123,0,Montreal Canadiens,8,1,4,8,1,25,11,114,False
+1975,2,13,26,Buffalo Sabres,7,1,3,5,3,42,8,79,6,Boston Bruins,7,1,3,6,7,29,11,51,True
+1975,2,13,31,Kansas City Scouts,2,2,0,0,4,42,8,111,30,Washington Capitals,2,0,7,11,5,42,15,113,True
+1975,2,13,23,Philadelphia Flyers,6,1,1,1,3,28,12,91,11,Chicago Black Hawks,5,1,8,16,3,43,7,76,True
+1975,2,14,25,Vancouver Canucks,6,1,5,5,0,30,18,117,16,Detroit Red Wings,4,1,2,3,8,33,34,129,True
+1975,2,15,31,Kansas City Scouts,3,2,5,8,1,34,5,99,27,California Golden Seals,3,0,4,6,2,38,19,171,False
+1975,2,15,22,Los Angeles Kings,5,2,2,4,1,33,3,53,16,Detroit Red Wings,4,0,4,7,5,45,31,141,True
+1975,2,15,24,Minnesota North Stars,4,0,2,5,2,26,13,115,10,New York Rangers,4,2,5,7,3,6,10,83,False
+1975,2,15,0,Montreal Canadiens,9,1,2,2,4,34,12,134,11,Chicago Black Hawks,4,1,1,1,4,33,8,70,True
+1975,2,15,28,New York Islanders,7,1,4,7,2,25,5,77,23,Philadelphia Flyers,6,1,4,7,1,27,10,90,False
+1975,2,15,21,St. Louis Blues,5,2,3,5,1,35,12,135,30,Washington Capitals,2,0,1,0,5,35,15,106,True
+1975,2,15,13,Toronto Maple Leafs,3,1,4,2,2,38,12,120,20,Pittsburgh Penguins,6,1,3,6,2,37,22,159,False
+1975,2,15,25,Vancouver Canucks,7,2,5,10,4,30,22,117,29,Atlanta Flames,5,0,1,1,3,24,5,69,False
+1975,2,16,26,Buffalo Sabres,7,2,3,4,1,19,6,56,21,St. Louis Blues,5,0,6,13,0,25,12,118,False
+1975,2,16,11,Chicago Black Hawks,3,0,3,6,4,37,16,73,0,Montreal Canadiens,9,2,12,16,2,45,11,127,False
+1975,2,16,24,Minnesota North Stars,3,1,2,1,4,38,20,116,27,California Golden Seals,4,1,3,5,2,26,17,157,True
+1975,2,16,10,New York Rangers,4,1,9,13,2,26,9,103,13,Toronto Maple Leafs,3,1,3,6,6,28,14,75,False
+1975,2,16,23,Philadelphia Flyers,6,1,1,0,1,23,10,86,6,Boston Bruins,7,1,1,2,1,7,7,55,True
+1975,2,16,20,Pittsburgh Penguins,6,0,8,9,3,35,23,158,28,New York Islanders,7,2,1,1,1,18,4,70,True
+1975,2,16,30,Washington Capitals,2,0,1,2,4,12,13,90,31,Kansas City Scouts,3,2,0,0,1,14,5,73,True
+1975,2,18,31,Kansas City Scouts,3,0,0,0,2,31,7,95,10,New York Rangers,4,2,5,8,4,20,12,107,False
+1975,2,18,28,New York Islanders,6,0,2,3,3,29,6,81,26,Buffalo Sabres,6,2,4,7,3,14,9,59,False
+1975,2,18,21,St. Louis Blues,6,1,5,7,1,18,16,126,0,Montreal Canadiens,10,1,6,12,3,37,11,112,False
+1975,2,18,25,Vancouver Canucks,7,1,3,6,3,21,21,108,6,Boston Bruins,6,1,3,5,3,33,10,69,False
+1975,2,18,30,Washington Capitals,3,0,3,6,3,35,9,110,22,Los Angeles Kings,5,2,6,13,2,20,4,47,False
+1975,2,19,27,California Golden Seals,3,1,4,6,8,37,23,168,13,Toronto Maple Leafs,4,1,5,9,5,29,13,76,False
+1975,2,19,16,Detroit Red Wings,3,0,2,1,8,31,34,127,23,Philadelphia Flyers,6,2,4,7,3,28,12,91,True
+1975,2,19,24,Minnesota North Stars,4,1,8,13,4,30,20,108,29,Atlanta Flames,6,1,4,3,2,45,5,73,False
+1975,2,19,10,New York Rangers,5,1,2,2,5,30,10,112,11,Chicago Black Hawks,3,1,3,5,6,28,18,64,False
+1975,2,19,20,Pittsburgh Penguins,7,1,3,6,3,36,19,175,22,Los Angeles Kings,5,1,8,10,2,27,3,42,False
+1975,2,20,26,Buffalo Sabres,7,0,3,5,4,22,8,67,23,Philadelphia Flyers,5,2,3,3,4,21,13,84,False
+1975,2,20,31,Kansas City Scouts,3,0,2,4,3,36,7,93,0,Montreal Canadiens,10,2,4,6,3,27,12,116,False
+1975,2,21,27,California Golden Seals,3,1,3,6,0,24,18,160,6,Boston Bruins,6,1,3,4,1,29,8,65,True
+1975,2,21,28,New York Islanders,5,0,2,5,3,38,6,90,25,Vancouver Canucks,6,2,1,2,3,38,21,125,False
+1975,2,21,30,Washington Capitals,2,0,1,2,0,32,12,118,26,Buffalo Sabres,6,2,6,8,2,22,10,69,False
+1975,2,22,11,Chicago Black Hawks,4,1,2,2,0,0,14,62,30,Washington Capitals,2,1,4,7,6,43,21,125,True
+1975,2,22,16,Detroit Red Wings,3,1,4,7,3,33,29,129,29,Atlanta Flames,7,1,4,6,2,31,5,59,True
+1975,2,22,22,Los Angeles Kings,6,1,2,2,2,33,3,48,6,Boston Bruins,6,1,4,7,5,31,12,67,True
+1975,2,22,24,Minnesota North Stars,4,1,2,4,0,3,19,89,25,Vancouver Canucks,6,1,4,6,1,32,19,119,True
+1975,2,22,0,Montreal Canadiens,10,0,6,10,3,28,12,117,28,New York Islanders,4,2,1,2,3,27,6,79,False
+1975,2,22,20,Pittsburgh Penguins,6,1,2,4,2,28,21,156,21,St. Louis Blues,6,1,4,5,4,33,19,133,True
+1975,2,22,13,Toronto Maple Leafs,4,1,3,4,0,13,10,81,10,New York Rangers,4,1,2,4,2,33,7,115,True
+1975,2,23,26,Buffalo Sabres,7,1,9,14,6,24,12,70,13,Toronto Maple Leafs,5,1,5,8,2,43,12,111,True
+1975,2,23,11,Chicago Black Hawks,5,1,10,18,2,26,17,77,29,Atlanta Flames,6,1,3,7,3,28,7,52,True
+1975,2,23,27,California Golden Seals,4,1,6,11,4,40,22,176,22,Los Angeles Kings,6,1,6,7,1,15,1,42,False
+1975,2,23,31,Kansas City Scouts,3,0,3,5,2,29,10,104,24,Minnesota North Stars,4,2,4,6,1,37,20,123,True
+1975,2,23,10,New York Rangers,4,1,1,3,2,27,10,114,23,Philadelphia Flyers,5,1,6,9,6,41,15,104,True
+1975,2,23,20,Pittsburgh Penguins,7,1,3,6,2,21,21,161,16,Detroit Red Wings,4,1,4,8,3,23,29,119,False
+1975,2,23,30,Washington Capitals,2,0,3,4,9,39,25,125,21,St. Louis Blues,6,2,2,5,4,25,18,130,False
+1975,2,25,6,Boston Bruins,5,2,0,0,6,31,13,67,20,Pittsburgh Penguins,6,0,1,2,2,33,19,177,True
+1975,2,25,24,Minnesota North Stars,4,1,2,4,9,27,23,119,13,Toronto Maple Leafs,4,1,1,2,4,33,14,101,False
+1975,2,25,28,New York Islanders,4,0,7,10,1,12,9,83,21,St. Louis Blues,6,2,7,11,2,23,16,128,True
+1975,2,25,30,Washington Capitals,2,0,2,3,7,44,23,130,11,Chicago Black Hawks,5,2,4,8,0,29,12,65,False
+1975,2,26,29,Atlanta Flames,5,0,0,0,4,24,8,49,23,Philadelphia Flyers,5,2,1,4,2,22,11,85,True
+1975,2,26,27,California Golden Seals,4,1,2,4,3,29,20,164,24,Minnesota North Stars,4,1,2,4,5,27,19,104,False
+1975,2,26,16,Detroit Red Wings,4,0,3,2,1,37,27,133,22,Los Angeles Kings,6,2,2,3,2,26,2,53,False
+1975,2,26,0,Montreal Canadiens,9,2,6,10,4,41,20,131,25,Vancouver Canucks,5,0,1,1,3,35,19,104,True
+1975,2,26,10,New York Rangers,5,1,3,2,1,36,9,123,21,St. Louis Blues,6,1,0,0,4,32,17,128,True
+1975,2,26,20,Pittsburgh Penguins,5,2,4,7,2,23,24,166,30,Washington Capitals,2,0,2,4,10,43,22,110,True
+1975,2,26,13,Toronto Maple Leafs,4,1,9,12,2,23,12,91,31,Kansas City Scouts,4,1,4,7,6,42,14,109,True
+1975,2,27,6,Boston Bruins,5,2,6,10,4,33,11,69,16,Detroit Red Wings,4,0,1,2,3,26,28,114,True
+1975,2,27,26,Buffalo Sabres,7,0,4,9,4,23,7,67,22,Los Angeles Kings,7,2,2,4,0,27,1,53,True
+1975,2,27,23,Philadelphia Flyers,4,1,4,6,7,24,16,87,25,Vancouver Canucks,5,1,3,6,4,30,20,99,True
+1975,2,28,29,Atlanta Flames,6,0,7,13,4,25,8,62,11,Chicago Black Hawks,5,2,6,10,2,27,14,63,False
+1975,3,1,16,Detroit Red Wings,4,0,4,7,2,18,34,136,26,Buffalo Sabres,7,2,5,10,1,21,3,65,True
+1975,3,1,22,Los Angeles Kings,7,2,0,0,5,43,6,69,24,Minnesota North Stars,5,0,3,5,1,27,15,104,True
+1975,3,1,0,Montreal Canadiens,9,2,4,8,3,20,19,110,21,St. Louis Blues,6,0,1,2,3,30,18,132,False
+1975,3,1,28,New York Islanders,5,2,3,5,0,21,8,92,27,California Golden Seals,4,0,1,2,2,28,20,158,True
+1975,3,1,23,Philadelphia Flyers,5,2,3,5,5,33,10,81,31,Kansas City Scouts,3,0,2,3,2,26,12,99,True
+1975,3,1,20,Pittsburgh Penguins,5,2,3,6,6,41,21,173,25,Vancouver Canucks,4,0,1,2,0,0,19,102,True
+1975,3,1,13,Toronto Maple Leafs,5,1,4,4,2,26,12,97,30,Washington Capitals,2,1,1,2,6,24,15,112,True
+1975,3,2,29,Atlanta Flames,5,2,3,5,4,37,8,66,31,Kansas City Scouts,3,0,0,0,4,32,10,110,True
+1975,3,2,6,Boston Bruins,5,1,9,14,4,29,11,65,11,Chicago Black Hawks,6,1,4,5,3,27,15,63,True
+1975,3,2,26,Buffalo Sabres,6,2,2,4,0,21,5,66,28,New York Islanders,5,0,6,11,1,21,9,92,False
+1975,3,2,16,Detroit Red Wings,5,1,3,4,2,35,34,153,13,Toronto Maple Leafs,6,1,5,8,4,24,14,95,False
+1975,3,2,10,New York Rangers,5,1,5,9,1,28,10,134,20,Pittsburgh Penguins,5,1,7,10,3,33,21,157,False
+1975,3,2,23,Philadelphia Flyers,6,1,3,6,0,16,5,64,21,St. Louis Blues,6,1,4,8,5,36,13,118,True
+1975,3,2,30,Washington Capitals,1,0,4,6,3,45,14,137,25,Vancouver Canucks,4,2,3,5,3,9,23,118,False
+1975,3,3,0,Montreal Canadiens,8,2,3,6,7,29,20,127,27,California Golden Seals,3,0,1,2,3,23,24,167,True
+1975,3,4,22,Los Angeles Kings,8,2,7,13,4,20,5,46,31,Kansas City Scouts,2,0,0,1,3,45,13,123,True
+1975,3,4,24,Minnesota North Stars,4,1,4,6,4,18,21,125,25,Vancouver Canucks,4,1,7,13,1,5,19,89,True
+1975,3,4,30,Washington Capitals,1,0,3,6,5,49,18,125,6,Boston Bruins,5,2,6,10,2,24,9,60,False
+1975,3,5,29,Atlanta Flames,6,0,4,8,0,26,4,55,0,Montreal Canadiens,8,2,4,8,4,30,15,121,False
+1975,3,5,27,California Golden Seals,3,0,2,3,4,42,25,186,11,Chicago Black Hawks,6,2,2,2,6,35,18,71,False
+1975,3,5,31,Kansas City Scouts,2,1,4,6,4,30,17,114,20,Pittsburgh Penguins,6,1,8,10,6,48,24,172,False
+1975,3,5,24,Minnesota North Stars,4,1,6,7,7,48,21,142,23,Philadelphia Flyers,7,1,4,7,2,23,7,71,False
+1975,3,5,10,New York Rangers,5,1,6,10,5,35,20,129,26,Buffalo Sabres,6,1,3,4,3,27,8,72,False
+1975,3,5,21,St. Louis Blues,5,0,2,3,3,23,14,132,25,Vancouver Canucks,3,2,4,6,3,7,21,95,True
+1975,3,5,13,Toronto Maple Leafs,7,1,5,10,4,22,14,93,16,Detroit Red Wings,4,1,4,4,5,29,37,147,True
+1975,3,6,22,Los Angeles Kings,8,1,7,11,1,26,5,49,28,New York Islanders,6,1,3,6,6,31,11,108,False
+1975,3,7,29,Atlanta Flames,5,0,3,2,4,29,8,63,6,Boston Bruins,5,2,8,15,0,27,7,63,False
+1975,3,7,31,Kansas City Scouts,1,0,4,7,7,36,15,105,10,New York Rangers,4,2,3,2,2,9,23,143,False
+1975,3,7,0,Montreal Canadiens,8,2,4,7,2,23,12,109,30,Washington Capitals,1,0,0,0,7,33,15,70,True
+1975,3,7,25,Vancouver Canucks,2,1,2,2,5,39,23,127,11,Chicago Black Hawks,6,1,4,5,2,30,14,66,True
+1975,3,8,16,Detroit Red Wings,4,1,3,4,4,47,36,165,31,Kansas City Scouts,1,1,2,4,4,32,13,114,True
+1975,3,8,22,Los Angeles Kings,8,2,2,4,4,23,6,42,11,Chicago Black Hawks,6,0,1,2,2,34,14,70,False
+1975,3,8,20,Pittsburgh Penguins,7,0,3,6,1,23,19,163,23,Philadelphia Flyers,7,2,9,15,4,30,7,72,True
+1975,3,8,21,St. Louis Blues,5,1,5,7,4,42,12,121,26,Buffalo Sabres,6,1,5,8,3,22,8,74,False
+1975,3,8,13,Toronto Maple Leafs,8,1,4,6,3,34,13,125,24,Minnesota North Stars,4,1,2,4,9,43,23,137,True
+1975,3,8,25,Vancouver Canucks,3,2,2,3,1,31,19,119,28,New York Islanders,6,0,2,1,2,20,7,97,False
+1975,3,9,6,Boston Bruins,6,2,3,4,2,40,9,76,29,Atlanta Flames,5,0,2,3,4,34,7,64,True
+1975,3,9,26,Buffalo Sabres,6,2,4,3,3,29,8,83,20,Pittsburgh Penguins,7,0,9,15,0,13,16,135,True
+1975,3,9,27,California Golden Seals,3,0,2,4,6,37,25,176,28,New York Islanders,6,2,7,12,3,37,10,104,True
+1975,3,9,24,Minnesota North Stars,4,0,3,4,4,24,19,140,21,St. Louis Blues,4,2,3,4,3,33,11,120,False
+1975,3,9,10,New York Rangers,5,0,5,8,2,29,21,172,0,Montreal Canadiens,8,2,8,12,3,29,18,110,False
+1975,3,9,23,Philadelphia Flyers,6,1,2,4,1,7,9,52,16,Detroit Red Wings,5,1,5,10,1,23,33,141,True
+1975,3,9,30,Washington Capitals,0,1,3,7,3,24,16,71,13,Toronto Maple Leafs,9,1,5,10,3,26,17,112,False
+1975,3,11,6,Boston Bruins,7,2,5,5,4,21,9,67,10,New York Rangers,4,0,3,6,6,40,24,170,True
+1975,3,11,22,Los Angeles Kings,7,1,1,2,6,23,8,42,26,Buffalo Sabres,7,1,8,14,2,40,8,100,False
+1975,3,11,28,New York Islanders,6,2,2,1,5,27,10,80,16,Detroit Red Wings,5,0,5,8,8,47,40,165,False
+1975,3,11,21,St. Louis Blues,4,1,5,6,2,29,16,137,29,Atlanta Flames,4,1,2,3,3,30,6,65,True
+1975,3,11,25,Vancouver Canucks,3,2,4,9,5,23,23,99,31,Kansas City Scouts,1,0,1,2,5,45,18,126,False
+1975,3,12,29,Atlanta Flames,3,1,0,0,3,35,6,67,24,Minnesota North Stars,3,1,4,7,5,46,20,144,True
+1975,3,12,11,Chicago Black Hawks,7,2,6,7,1,37,13,73,21,St. Louis Blues,5,0,3,4,3,41,14,130,False
+1975,3,12,27,California Golden Seals,3,0,4,8,2,37,21,176,26,Buffalo Sabres,7,2,2,4,3,24,8,88,False
+1975,3,12,10,New York Rangers,4,1,3,4,7,32,21,163,28,New York Islanders,6,1,2,5,3,25,8,80,True
+1975,3,12,20,Pittsburgh Penguins,6,0,4,7,2,19,25,183,6,Boston Bruins,8,2,6,9,0,1,6,42,True
+1975,3,12,13,Toronto Maple Leafs,9,1,4,5,2,13,16,99,0,Montreal Canadiens,8,1,5,10,3,36,18,117,False
+1975,3,13,22,Los Angeles Kings,6,2,2,2,2,19,4,57,16,Detroit Red Wings,5,0,4,5,9,48,34,159,False
+1975,3,13,23,Philadelphia Flyers,6,1,8,10,1,18,13,72,20,Pittsburgh Penguins,7,1,5,9,3,33,26,197,True
+1975,3,14,29,Atlanta Flames,3,1,9,17,3,32,7,62,10,New York Rangers,4,1,5,4,5,36,17,155,True
+1975,3,14,27,California Golden Seals,2,1,2,4,4,32,26,177,16,Detroit Red Wings,5,1,5,8,2,41,30,137,True
+1975,3,14,21,St. Louis Blues,6,2,4,7,4,30,14,111,31,Kansas City Scouts,2,0,3,4,5,38,12,100,True
+1975,3,14,25,Vancouver Canucks,2,0,4,7,3,29,21,105,26,Buffalo Sabres,8,2,7,9,1,13,7,85,True
+1975,3,15,24,Minnesota North Stars,3,0,4,6,4,35,24,131,11,Chicago Black Hawks,7,2,3,6,4,31,16,67,False
+1975,3,15,0,Montreal Canadiens,8,1,3,3,3,43,14,101,22,Los Angeles Kings,5,1,5,11,2,38,7,76,True
+1975,3,15,28,New York Islanders,6,0,3,6,2,31,7,64,6,Boston Bruins,7,2,4,5,5,43,11,84,True
+1975,3,15,20,Pittsburgh Penguins,6,2,0,0,2,18,24,154,30,Washington Capitals,0,0,2,1,4,41,17,88,True
+1975,3,15,13,Toronto Maple Leafs,8,0,3,8,3,30,14,112,23,Philadelphia Flyers,7,2,6,9,0,22,12,76,False
+1975,3,16,6,Boston Bruins,7,0,1,2,3,26,8,65,21,St. Louis Blues,6,2,6,12,3,22,11,107,True
+1975,3,16,11,Chicago Black Hawks,7,0,5,7,2,28,14,64,25,Vancouver Canucks,3,2,5,10,2,9,19,108,False
+1975,3,16,24,Minnesota North Stars,2,2,2,4,9,33,25,131,16,Detroit Red Wings,4,0,2,4,4,38,32,134,True
+1975,3,16,23,Philadelphia Flyers,7,2,4,8,2,28,9,68,22,Los Angeles Kings,4,0,0,0,5,38,8,63,True
+1975,3,16,20,Pittsburgh Penguins,7,1,12,18,4,20,23,158,31,Kansas City Scouts,2,1,1,2,3,42,13,98,True
+1975,3,16,13,Toronto Maple Leafs,7,0,4,5,3,24,15,117,26,Buffalo Sabres,7,2,1,2,2,28,11,95,False
+1975,3,17,0,Montreal Canadiens,8,2,3,5,4,18,10,97,29,Atlanta Flames,4,0,1,2,4,30,4,60,True
+1975,3,18,24,Minnesota North Stars,3,0,4,8,5,35,19,132,22,Los Angeles Kings,3,2,0,0,3,27,6,52,False
+1975,3,18,28,New York Islanders,7,1,3,6,1,36,7,73,25,Vancouver Canucks,4,1,4,8,1,13,19,104,False
+1975,3,18,21,St. Louis Blues,6,0,2,2,0,22,15,118,20,Pittsburgh Penguins,8,2,6,14,1,24,22,174,True
+1975,3,18,30,Washington Capitals,0,0,1,2,7,50,17,78,23,Philadelphia Flyers,8,2,3,5,0,26,7,66,False
+1975,3,19,29,Atlanta Flames,4,1,1,2,0,30,5,61,13,Toronto Maple Leafs,7,1,3,4,5,31,19,104,True
+1975,3,19,27,California Golden Seals,3,0,4,7,2,28,24,173,20,Pittsburgh Penguins,7,2,2,4,3,36,25,193,False
+1975,3,19,31,Kansas City Scouts,1,0,3,6,6,36,15,109,28,New York Islanders,6,2,4,8,3,5,10,61,False
+1975,3,19,0,Montreal Canadiens,8,1,5,10,0,23,7,105,6,Boston Bruins,8,1,7,9,2,27,7,66,True
+1975,3,19,10,New York Rangers,4,2,0,0,3,24,16,152,25,Vancouver Canucks,5,0,4,7,4,29,22,120,True
+1975,3,20,26,Buffalo Sabres,7,2,8,19,3,32,12,99,10,New York Rangers,5,0,3,4,5,27,13,146,True
+1975,3,20,16,Detroit Red Wings,4,1,3,7,4,36,32,132,11,Chicago Black Hawks,6,1,3,5,4,23,16,59,False
+1975,3,20,22,Los Angeles Kings,3,1,5,8,3,25,6,53,21,St. Louis Blues,7,1,5,7,1,26,17,129,True
+1975,3,20,30,Washington Capitals,0,0,1,4,0,6,12,51,24,Minnesota North Stars,3,2,3,5,3,34,19,127,False
+1975,3,21,29,Atlanta Flames,4,1,8,13,5,31,12,63,25,Vancouver Canucks,5,1,0,0,2,30,20,121,True
+1975,3,21,27,California Golden Seals,3,1,3,5,3,36,25,181,21,St. Louis Blues,6,1,2,4,2,33,19,136,True
+1975,3,22,6,Boston Bruins,7,2,1,1,2,24,7,65,30,Washington Capitals,0,0,1,1,7,32,17,85,True
+1975,3,22,16,Detroit Red Wings,4,1,2,4,6,32,34,128,10,New York Rangers,4,1,3,3,1,37,14,153,True
+1975,3,22,31,Kansas City Scouts,1,0,1,2,6,38,11,101,26,Buffalo Sabres,7,2,6,9,2,21,12,108,False
+1975,3,22,22,Los Angeles Kings,4,1,3,4,2,28,5,56,20,Pittsburgh Penguins,7,1,3,6,4,43,21,181,True
+1975,3,22,0,Montreal Canadiens,9,2,2,4,1,27,8,100,13,Toronto Maple Leafs,6,0,7,11,6,15,24,116,False
+1975,3,22,28,New York Islanders,6,1,3,4,1,32,8,97,11,Chicago Black Hawks,6,1,6,11,2,33,14,69,True
+1975,3,22,23,Philadelphia Flyers,9,1,7,13,2,17,9,57,24,Minnesota North Stars,3,1,5,9,5,30,17,119,True
+1975,3,23,26,Buffalo Sabres,8,2,4,8,3,41,12,112,27,California Golden Seals,3,0,7,10,4,44,26,189,True
+1975,3,23,11,Chicago Black Hawks,5,2,2,3,4,34,16,70,16,Detroit Red Wings,4,0,7,12,5,26,32,129,False
+1975,3,23,24,Minnesota North Stars,3,0,0,0,1,26,16,127,28,New York Islanders,6,2,4,8,2,31,10,80,False
+1975,3,23,10,New York Rangers,3,0,4,5,0,18,17,162,6,Boston Bruins,7,2,8,11,2,19,7,60,True
+1975,3,23,23,Philadelphia Flyers,9,1,4,8,0,10,7,50,0,Montreal Canadiens,8,1,4,7,1,10,12,86,True
+1975,3,23,25,Vancouver Canucks,4,1,4,5,7,24,28,113,21,St. Louis Blues,6,1,4,4,7,33,24,137,False
+1975,3,23,30,Washington Capitals,0,0,2,5,5,40,18,94,29,Atlanta Flames,5,2,12,16,7,32,11,59,False
+1975,3,24,13,Toronto Maple Leafs,6,2,6,8,4,20,22,121,27,California Golden Seals,3,0,4,7,7,38,31,189,True
+1975,3,25,24,Minnesota North Stars,2,1,3,4,3,42,18,143,31,Kansas City Scouts,1,1,2,4,4,47,9,110,True
+1975,3,25,28,New York Islanders,6,2,3,5,3,20,11,69,0,Montreal Canadiens,8,0,1,2,2,35,13,111,False
+1975,3,25,25,Vancouver Canucks,4,0,3,6,3,21,24,110,23,Philadelphia Flyers,9,2,2,4,1,20,8,60,False
+1975,3,26,29,Atlanta Flames,5,1,4,12,4,27,4,58,16,Detroit Red Wings,5,1,4,5,4,39,31,142,True
+1975,3,26,11,Chicago Black Hawks,4,0,4,8,4,25,16,61,26,Buffalo Sabres,9,2,9,13,5,23,13,96,True
+1975,3,26,27,California Golden Seals,3,1,3,4,4,52,28,203,23,Philadelphia Flyers,9,1,5,7,3,33,10,73,False
+1975,3,26,31,Kansas City Scouts,1,1,1,2,2,28,7,89,13,Toronto Maple Leafs,6,1,5,9,3,29,21,130,False
+1975,3,26,22,Los Angeles Kings,4,2,4,6,3,28,3,59,30,Washington Capitals,0,0,0,0,5,13,18,99,True
+1975,3,26,10,New York Rangers,4,2,7,10,5,31,20,154,24,Minnesota North Stars,3,0,2,4,4,38,16,133,False
+1975,3,26,20,Pittsburgh Penguins,6,0,0,0,4,26,21,168,0,Montreal Canadiens,8,2,3,6,3,32,14,108,True
+1975,3,26,21,St. Louis Blues,6,1,3,6,3,31,20,135,6,Boston Bruins,6,1,5,8,2,26,11,77,True
+1975,3,28,29,Atlanta Flames,6,1,5,7,0,31,3,63,26,Buffalo Sabres,8,1,1,2,4,25,13,94,True
+1975,3,28,27,California Golden Seals,3,2,2,3,9,44,30,191,30,Washington Capitals,0,0,1,2,8,41,18,129,False
+1975,3,28,25,Vancouver Canucks,4,0,3,7,4,17,21,94,22,Los Angeles Kings,4,2,5,10,0,31,1,50,True
+1975,3,29,11,Chicago Black Hawks,5,1,5,10,1,34,13,70,23,Philadelphia Flyers,9,1,6,9,2,28,9,68,False
+1975,3,29,16,Detroit Red Wings,5,2,3,5,10,33,32,137,20,Pittsburgh Penguins,6,0,6,8,2,18,18,143,False
+1975,3,29,22,Los Angeles Kings,4,1,2,4,4,41,5,60,25,Vancouver Canucks,4,1,4,8,1,10,19,93,False
+1975,3,29,0,Montreal Canadiens,7,2,4,4,6,35,16,94,31,Kansas City Scouts,1,0,2,4,2,32,6,76,True
+1975,3,29,28,New York Islanders,5,0,2,6,4,24,10,82,10,New York Rangers,4,2,2,2,4,21,19,144,True
+1975,3,29,21,St. Louis Blues,7,2,3,5,1,32,18,136,24,Minnesota North Stars,4,0,4,7,1,32,14,136,True
+1975,3,29,13,Toronto Maple Leafs,6,1,2,5,2,25,20,126,6,Boston Bruins,5,1,1,1,6,36,12,84,False
+1975,3,30,29,Atlanta Flames,7,2,3,6,3,32,5,57,28,New York Islanders,5,0,7,10,3,33,10,85,False
+1975,3,30,6,Boston Bruins,5,0,1,2,1,41,7,89,0,Montreal Canadiens,7,2,4,6,1,29,11,88,False
+1975,3,30,26,Buffalo Sabres,7,2,5,3,3,25,12,94,13,Toronto Maple Leafs,5,0,1,2,7,29,19,136,False
+1975,3,30,10,New York Rangers,3,2,4,7,6,37,21,152,31,Kansas City Scouts,1,0,1,2,2,26,8,75,True
+1975,3,30,23,Philadelphia Flyers,10,2,5,8,2,26,9,66,11,Chicago Black Hawks,4,0,2,3,4,24,16,60,True
+1975,3,30,20,Pittsburgh Penguins,6,1,4,8,2,33,20,157,24,Minnesota North Stars,4,1,1,2,2,41,15,147,True
+1975,3,30,30,Washington Capitals,1,1,5,7,3,20,13,108,16,Detroit Red Wings,4,1,2,3,4,26,26,130,False
+1975,4,1,6,Boston Bruins,4,1,2,4,2,21,8,69,26,Buffalo Sabres,6,1,4,7,5,30,14,99,False
+1975,4,1,31,Kansas City Scouts,1,0,2,1,4,31,14,108,22,Los Angeles Kings,4,2,3,6,3,47,4,66,True
+1975,4,1,24,Minnesota North Stars,4,0,1,2,1,13,15,103,21,St. Louis Blues,7,2,2,4,1,26,18,130,False
+1975,4,1,28,New York Islanders,6,1,2,3,2,15,7,68,29,Atlanta Flames,7,1,3,2,2,25,4,55,False
+1975,4,1,25,Vancouver Canucks,5,2,3,2,3,33,21,116,27,California Golden Seals,3,0,3,6,4,24,25,171,True
+1975,4,2,27,California Golden Seals,3,0,0,0,6,40,28,190,25,Vancouver Canucks,6,2,7,12,0,31,18,114,False
+1975,4,2,16,Detroit Red Wings,5,1,8,17,4,33,27,125,30,Washington Capitals,1,1,5,7,5,43,18,123,True
+1975,4,2,0,Montreal Canadiens,7,1,2,3,2,34,12,93,20,Pittsburgh Penguins,7,1,4,8,1,36,15,163,True
+1975,4,2,21,St. Louis Blues,7,0,7,11,7,34,20,135,22,Los Angeles Kings,4,2,1,2,1,19,4,46,False
+1975,4,2,13,Toronto Maple Leafs,5,1,5,7,4,34,15,109,29,Atlanta Flames,8,1,2,3,2,30,4,62,False
+1975,4,3,26,Buffalo Sabres,6,2,3,6,1,26,10,95,6,Boston Bruins,3,0,1,2,3,33,8,75,True
+1975,4,3,11,Chicago Black Hawks,4,1,1,1,0,0,16,68,31,Kansas City Scouts,2,1,3,6,8,59,11,113,True
+1975,4,3,23,Philadelphia Flyers,10,0,4,8,1,19,8,59,10,New York Rangers,4,2,8,15,6,29,21,140,False
+1975,4,4,29,Atlanta Flames,8,1,3,4,2,32,2,77,10,New York Rangers,5,1,1,0,2,18,16,141,False
+1975,4,4,25,Vancouver Canucks,6,0,3,6,0,31,18,114,24,Minnesota North Stars,4,2,3,2,3,27,21,124,True
+1975,4,5,22,Los Angeles Kings,5,1,4,9,3,27,5,67,27,California Golden Seals,2,1,0,0,7,43,25,171,True
+1975,4,5,0,Montreal Canadiens,7,2,6,11,0,23,10,82,30,Washington Capitals,1,0,3,3,8,35,21,120,True
+1975,4,5,28,New York Islanders,6,1,2,4,2,24,8,74,23,Philadelphia Flyers,9,1,1,2,1,27,8,67,False
+1975,4,5,20,Pittsburgh Penguins,6,1,0,0,5,24,18,149,16,Detroit Red Wings,5,1,8,15,5,34,26,123,True
+1975,4,5,21,St. Louis Blues,6,1,2,1,1,4,15,96,11,Chicago Black Hawks,4,1,6,10,4,32,20,95,True
+1975,4,5,13,Toronto Maple Leafs,4,1,0,0,0,3,14,105,26,Buffalo Sabres,6,1,4,8,2,23,11,92,False
+1975,4,6,6,Boston Bruins,3,1,2,3,2,27,9,74,13,Toronto Maple Leafs,4,1,2,3,4,39,18,141,False
+1975,4,6,11,Chicago Black Hawks,4,2,3,6,4,32,20,95,24,Minnesota North Stars,3,0,1,2,0,6,15,93,True
+1975,4,6,27,California Golden Seals,2,0,3,4,3,21,23,175,22,Los Angeles Kings,6,2,5,10,3,33,5,73,False
+1975,4,6,16,Detroit Red Wings,4,0,1,1,3,31,28,125,0,Montreal Canadiens,7,2,10,18,2,18,12,77,False
+1975,4,6,31,Kansas City Scouts,1,0,4,7,1,36,9,87,21,St. Louis Blues,6,2,4,7,3,33,17,120,False
+1975,4,6,10,New York Rangers,5,1,3,5,1,30,16,147,28,New York Islanders,6,1,1,2,4,27,10,86,False
+1975,4,6,23,Philadelphia Flyers,9,1,4,7,1,28,8,68,29,Atlanta Flames,7,1,2,3,0,45,3,71,True
+1975,4,6,30,Washington Capitals,1,0,2,2,8,31,15,90,20,Pittsburgh Penguins,7,2,7,9,1,9,17,152,True

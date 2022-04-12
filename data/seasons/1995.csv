@@ -1,0 +1,625 @@
+Year,Month,Day,Home_ID,Home_name,Home_wins_last10,Home_wins_VERSUS_last2,Home_goals_lastGame,Home_assists_lastGame,Home_GA_startingGoalie,Home_SA_startingGoalie,Home_GA_allGoalies,Home_SA_allGoalies,Away_ID,Away_name,Away_wins_last10,Away_wins_VERSUS_last2,Away_goals_lastGame,Away_assists_lastGame,Away_GA_startingGoalie,Away_SA_startingGoalie,Away_GA_allGoalies,Away_SA_allGoalies,Home_Won
+1995,1,20,16,Detroit Red Wings,4,2,5,5,5,33,24,196,40,Chicago Blackhawks,4,0,4,10,6,30,12,56,True
+1995,1,20,35,Edmonton Oilers,7,1,2,3,3,22,8,94,44,Mighty Ducks of Anaheim,6,1,1,1,2,27,11,80,True
+1995,1,20,22,Los Angeles Kings,2,1,2,6,4,42,18,131,13,Toronto Maple Leafs,4,1,1,11,4,23,8,46,False
+1995,1,20,10,New York Rangers,7,1,1,4,2,29,7,51,26,Buffalo Sabres,6,1,4,3,3,27,6,67,False
+1995,1,20,41,San Jose Sharks,7,1,1,4,2,24,6,59,21,St. Louis Blues,5,1,1,3,1,22,4,32,False
+1995,1,20,42,Tampa Bay Lightning,5,0,5,8,2,33,13,105,20,Pittsburgh Penguins,6,2,5,7,5,42,9,118,False
+1995,1,20,25,Vancouver Canucks,5,1,2,1,3,31,4,62,43,Dallas Stars,7,1,3,8,5,27,8,55,False
+1995,1,20,36,Winnipeg Jets,2,0,2,3,3,29,11,99,38,Calgary Flames,7,2,6,8,2,26,14,146,False
+1995,1,21,37,Hartford Whalers,3,0,2,5,2,31,13,126,30,Washington Capitals,5,2,3,7,6,21,15,104,False
+1995,1,21,28,New York Islanders,8,0,4,3,4,34,6,75,45,Florida Panthers,4,2,4,7,2,9,10,69,True
+1995,1,21,10,New York Rangers,6,0,1,2,2,24,7,46,0,Montreal Canadiens,3,2,1,0,3,23,20,107,True
+1995,1,21,23,Philadelphia Flyers,4,1,3,3,0,30,7,114,34,Quebec Nordiques,4,1,3,2,2,25,11,69,False
+1995,1,21,41,San Jose Sharks,6,2,2,4,5,22,9,57,13,Toronto Maple Leafs,5,0,3,3,3,39,7,62,True
+1995,1,21,25,Vancouver Canucks,4,1,1,2,1,31,2,57,21,St. Louis Blues,6,1,5,8,2,19,5,29,False
+1995,1,21,36,Winnipeg Jets,2,0,3,5,3,27,11,97,44,Mighty Ducks of Anaheim,5,2,1,2,3,28,11,82,False
+1995,1,22,6,Boston Bruins,5,2,3,5,0,0,9,64,23,Philadelphia Flyers,4,0,1,2,2,54,10,110,True
+1995,1,22,16,Detroit Red Wings,4,0,4,7,1,21,21,175,38,Calgary Flames,8,2,3,6,3,24,15,144,False
+1995,1,22,37,Hartford Whalers,3,0,1,2,1,39,12,132,39,New Jersey Devils,6,2,4,5,1,19,6,69,False
+1995,1,22,22,Los Angeles Kings,2,1,3,6,3,32,17,121,35,Edmonton Oilers,8,1,2,4,1,30,6,102,False
+1995,1,22,28,New York Islanders,9,2,2,2,1,18,6,55,2,Ottawa Senators,3,0,1,5,4,21,14,44,False
+1995,1,22,42,Tampa Bay Lightning,5,2,3,4,2,8,16,102,26,Buffalo Sabres,6,0,2,3,3,40,4,70,False
+1995,1,23,45,Florida Panthers,3,0,1,2,1,26,10,99,20,Pittsburgh Penguins,6,2,4,7,3,33,7,109,False
+1995,1,23,44,Mighty Ducks of Anaheim,5,1,4,7,2,29,11,91,35,Edmonton Oilers,8,1,4,7,3,24,8,96,True
+1995,1,23,10,New York Rangers,7,1,5,9,2,32,7,54,6,Boston Bruins,5,1,4,8,1,19,10,83,False
+1995,1,23,36,Winnipeg Jets,1,0,3,4,4,20,12,94,40,Chicago Blackhawks,4,2,1,2,4,25,10,51,True
+1995,1,24,38,Calgary Flames,8,0,4,6,1,33,17,152,21,St. Louis Blues,6,2,7,13,1,34,4,44,True
+1995,1,24,16,Detroit Red Wings,3,2,2,4,4,19,23,196,25,Vancouver Canucks,3,0,1,2,1,26,8,52,True
+1995,1,24,22,Los Angeles Kings,2,0,3,7,0,0,16,94,43,Dallas Stars,7,2,2,3,1,25,4,53,False
+1995,1,24,28,New York Islanders,8,1,3,5,3,22,8,59,23,Philadelphia Flyers,4,1,1,1,3,26,12,87,True
+1995,1,24,34,Quebec Nordiques,5,1,3,6,1,30,10,74,30,Washington Capitals,6,1,1,2,1,22,10,105,True
+1995,1,25,26,Buffalo Sabres,6,1,5,8,2,27,3,57,39,New Jersey Devils,6,1,2,2,2,27,7,77,True
+1995,1,25,40,Chicago Blackhawks,4,1,3,6,4,19,10,45,35,Edmonton Oilers,7,1,4,7,5,31,10,103,True
+1995,1,25,37,Hartford Whalers,3,2,2,3,1,37,13,133,2,Ottawa Senators,4,0,3,1,3,30,16,92,True
+1995,1,25,44,Mighty Ducks of Anaheim,5,0,5,9,3,37,13,98,43,Dallas Stars,7,2,3,5,3,28,5,58,False
+1995,1,25,0,Montreal Canadiens,3,2,2,4,5,40,22,124,30,Washington Capitals,6,0,1,1,5,17,15,96,True
+1995,1,25,10,New York Rangers,6,1,1,0,2,35,7,57,20,Pittsburgh Penguins,7,1,8,9,5,21,9,97,False
+1995,1,25,41,San Jose Sharks,6,2,3,4,2,24,6,59,36,Winnipeg Jets,2,0,5,10,0,4,11,117,True
+1995,1,25,42,Tampa Bay Lightning,5,0,2,3,5,30,19,113,45,Florida Panthers,3,2,5,6,6,38,15,111,True
+1995,1,25,13,Toronto Maple Leafs,4,0,2,5,3,24,7,47,25,Vancouver Canucks,3,2,3,4,7,26,13,48,True
+1995,1,26,6,Boston Bruins,5,0,2,2,1,30,8,85,39,New Jersey Devils,5,2,1,1,4,32,7,65,True
+1995,1,26,16,Detroit Red Wings,4,0,6,11,4,32,22,169,38,Calgary Flames,8,2,6,9,4,27,19,156,True
+1995,1,26,45,Florida Panthers,3,1,2,4,3,29,12,102,42,Tampa Bay Lightning,5,1,3,6,2,28,16,111,True
+1995,1,26,23,Philadelphia Flyers,4,1,3,4,4,31,13,102,37,Hartford Whalers,4,1,4,7,1,27,13,123,True
+1995,1,26,21,St. Louis Blues,6,1,6,6,5,25,9,39,22,Los Angeles Kings,2,1,2,3,3,38,19,132,True
+1995,1,27,26,Buffalo Sabres,7,1,2,2,1,30,2,60,34,Quebec Nordiques,6,1,5,8,1,30,10,74,False
+1995,1,27,40,Chicago Blackhawks,5,1,4,8,1,18,7,44,13,Toronto Maple Leafs,5,1,6,9,2,26,6,49,True
+1995,1,27,44,Mighty Ducks of Anaheim,5,2,1,2,4,36,13,94,36,Winnipeg Jets,2,0,0,0,1,12,12,88,True
+1995,1,27,20,Pittsburgh Penguins,8,2,3,6,2,41,6,117,2,Ottawa Senators,4,0,0,1,4,26,17,88,True
+1995,1,27,30,Washington Capitals,5,0,0,1,1,16,9,87,28,New York Islanders,8,2,3,6,3,22,9,74,True
+1995,1,28,16,Detroit Red Wings,5,0,5,8,1,19,19,156,35,Edmonton Oilers,6,2,1,2,0,9,8,72,True
+1995,1,28,37,Hartford Whalers,3,1,2,3,2,40,15,127,45,Florida Panthers,4,1,4,5,2,39,11,108,False
+1995,1,28,22,Los Angeles Kings,1,0,1,2,3,34,19,128,36,Winnipeg Jets,2,2,2,4,3,6,14,93,True
+1995,1,28,0,Montreal Canadiens,3,1,2,3,0,33,17,117,39,New Jersey Devils,4,1,0,1,2,15,4,70,True
+1995,1,28,28,New York Islanders,7,2,3,4,0,6,11,85,42,Tampa Bay Lightning,4,0,2,2,4,22,18,105,False
+1995,1,28,2,Ottawa Senators,3,0,5,8,2,18,15,56,26,Buffalo Sabres,6,2,3,6,1,30,8,64,False
+1995,1,28,23,Philadelphia Flyers,5,0,3,6,2,26,11,97,6,Boston Bruins,6,2,1,2,0,33,7,88,True
+1995,1,28,34,Quebec Nordiques,6,0,7,11,3,33,12,77,10,New York Rangers,5,2,2,4,5,22,8,51,True
+1995,1,28,41,San Jose Sharks,6,1,4,6,0,28,4,63,43,Dallas Stars,7,1,4,4,2,30,3,53,True
+1995,1,28,21,St. Louis Blues,6,1,3,4,0,0,5,41,25,Vancouver Canucks,2,1,2,5,6,22,12,66,False
+1995,1,28,13,Toronto Maple Leafs,5,0,1,2,4,28,8,51,38,Calgary Flames,7,2,1,3,5,25,12,113,True
+1995,1,29,22,Los Angeles Kings,2,0,4,4,0,0,18,118,40,Chicago Blackhawks,6,2,4,6,1,19,7,45,False
+1995,1,29,0,Montreal Canadiens,4,0,5,7,1,25,18,109,23,Philadelphia Flyers,5,2,2,3,4,41,10,95,False
+1995,1,29,30,Washington Capitals,5,2,5,7,2,26,10,111,20,Pittsburgh Penguins,8,0,5,7,4,37,8,113,False
+1995,1,30,6,Boston Bruins,6,0,1,2,3,29,10,78,45,Florida Panthers,5,2,2,4,2,35,10,83,False
+1995,1,30,43,Dallas Stars,7,0,3,5,1,23,4,47,13,Toronto Maple Leafs,6,2,2,4,1,32,5,55,False
+1995,1,30,35,Edmonton Oilers,6,1,2,2,5,28,12,94,16,Detroit Red Wings,6,1,4,8,3,29,20,178,False
+1995,1,30,10,New York Rangers,4,2,0,0,3,29,5,49,2,Ottawa Senators,2,0,2,1,2,32,15,70,True
+1995,1,30,41,San Jose Sharks,6,2,3,7,2,25,6,60,40,Chicago Blackhawks,6,0,6,9,3,27,9,53,True
+1995,1,31,45,Florida Panthers,5,1,2,3,1,14,9,87,28,New York Islanders,6,1,1,1,5,27,13,92,False
+1995,1,31,39,New Jersey Devils,4,1,1,1,5,21,7,76,26,Buffalo Sabres,6,1,2,3,2,26,9,60,True
+1995,1,31,34,Quebec Nordiques,7,2,2,4,0,29,9,73,23,Philadelphia Flyers,5,0,1,5,2,32,8,86,True
+1995,1,31,21,St. Louis Blues,5,2,1,2,1,19,7,69,44,Mighty Ducks of Anaheim,5,0,3,5,2,41,11,99,True
+1995,1,31,42,Tampa Bay Lightning,5,2,4,3,1,24,15,107,0,Montreal Canadiens,4,0,2,4,2,15,19,99,True
+1995,2,1,38,Calgary Flames,7,1,1,1,2,28,8,111,16,Detroit Red Wings,6,1,4,4,2,28,19,173,True
+1995,2,1,43,Dallas Stars,6,2,1,2,3,24,5,41,44,Mighty Ducks of Anaheim,5,0,2,3,7,34,13,72,True
+1995,2,1,35,Edmonton Oilers,5,0,2,2,4,31,11,95,40,Chicago Blackhawks,6,2,1,0,2,14,8,40,False
+1995,2,1,2,Ottawa Senators,1,0,2,3,6,26,19,64,37,Hartford Whalers,3,2,1,3,3,31,15,113,False
+1995,2,1,20,Pittsburgh Penguins,8,2,4,8,1,31,5,107,10,New York Rangers,4,0,6,10,2,22,4,42,True
+1995,2,1,25,Vancouver Canucks,3,1,3,1,1,36,7,80,13,Toronto Maple Leafs,6,1,2,2,1,44,5,67,False
+1995,2,2,6,Boston Bruins,6,2,1,2,2,14,9,63,2,Ottawa Senators,1,0,1,2,2,39,15,77,True
+1995,2,2,43,Dallas Stars,7,1,9,17,2,17,4,45,41,San Jose Sharks,6,1,2,4,1,31,5,66,False
+1995,2,2,45,Florida Panthers,4,2,1,1,1,39,13,104,0,Montreal Canadiens,4,0,1,3,3,29,20,113,False
+1995,2,2,39,New Jersey Devils,5,1,2,4,1,23,3,78,34,Quebec Nordiques,7,1,5,7,2,22,11,66,True
+1995,2,2,10,New York Rangers,3,1,3,6,2,20,6,51,42,Tampa Bay Lightning,5,1,4,7,1,20,15,103,False
+1995,2,2,23,Philadelphia Flyers,5,0,3,3,1,24,11,85,28,New York Islanders,6,2,5,8,1,16,12,80,False
+1995,2,2,36,Winnipeg Jets,2,1,2,3,4,34,15,121,21,St. Louis Blues,5,1,7,9,2,13,8,69,False
+1995,2,2,30,Washington Capitals,5,1,1,2,4,19,16,124,26,Buffalo Sabres,6,1,1,2,2,28,9,62,False
+1995,2,3,38,Calgary Flames,7,0,2,3,1,28,7,111,40,Chicago Blackhawks,6,2,7,12,6,26,6,48,False
+1995,2,3,35,Edmonton Oilers,5,1,0,0,4,13,10,52,13,Toronto Maple Leafs,7,1,4,5,4,31,8,54,True
+1995,2,3,44,Mighty Ducks of Anaheim,4,1,2,3,5,23,15,76,16,Detroit Red Wings,6,1,1,4,2,24,20,164,False
+1995,2,4,6,Boston Bruins,6,1,6,8,4,21,11,75,37,Hartford Whalers,4,1,2,2,1,28,13,110,True
+1995,2,4,38,Calgary Flames,6,1,3,5,4,31,10,110,13,Toronto Maple Leafs,6,1,3,5,4,36,8,59,True
+1995,2,4,22,Los Angeles Kings,2,1,2,6,2,28,22,136,16,Detroit Red Wings,7,1,6,8,2,20,20,160,True
+1995,2,4,0,Montreal Canadiens,5,0,1,2,1,21,18,105,28,New York Islanders,6,2,5,7,4,22,15,87,True
+1995,2,4,2,Ottawa Senators,1,0,4,8,6,44,19,83,10,New York Rangers,3,2,3,4,4,31,7,59,False
+1995,2,4,23,Philadelphia Flyers,5,1,4,8,5,28,15,107,26,Buffalo Sabres,6,1,1,2,7,34,7,67,True
+1995,2,4,20,Pittsburgh Penguins,8,2,4,6,3,38,7,114,42,Tampa Bay Lightning,5,0,3,4,5,19,17,112,True
+1995,2,4,34,Quebec Nordiques,7,0,4,6,4,18,14,79,39,New Jersey Devils,6,2,5,8,1,37,6,89,True
+1995,2,4,21,St. Louis Blues,6,0,5,10,2,18,8,64,43,Dallas Stars,7,2,1,2,2,30,4,58,True
+1995,2,4,36,Winnipeg Jets,1,0,4,7,3,17,16,115,41,San Jose Sharks,6,2,2,3,1,30,5,65,False
+1995,2,4,30,Washington Capitals,5,2,0,0,1,15,9,106,45,Florida Panthers,4,0,1,1,1,23,13,88,True
+1995,2,5,26,Buffalo Sabres,5,1,2,4,0,33,4,54,42,Tampa Bay Lightning,5,1,3,4,3,29,18,118,True
+1995,2,5,22,Los Angeles Kings,3,0,4,8,3,35,23,143,44,Mighty Ducks of Anaheim,3,2,2,3,4,28,15,97,False
+1995,2,5,39,New Jersey Devils,5,1,0,0,4,34,7,73,20,Pittsburgh Penguins,8,1,6,12,3,40,7,116,False
+1995,2,5,34,Quebec Nordiques,7,2,2,4,5,35,10,86,37,Hartford Whalers,4,0,3,7,5,53,17,135,True
+1995,2,5,25,Vancouver Canucks,3,1,3,7,6,44,10,72,40,Chicago Blackhawks,6,1,4,6,0,22,3,52,False
+1995,2,6,38,Calgary Flames,6,2,4,6,1,38,9,130,36,Winnipeg Jets,1,0,3,3,3,32,16,130,False
+1995,2,6,2,Ottawa Senators,1,0,1,0,2,30,15,69,23,Philadelphia Flyers,5,2,4,6,2,31,12,110,True
+1995,2,6,13,Toronto Maple Leafs,6,0,1,2,3,38,7,61,41,San Jose Sharks,7,2,3,5,0,0,7,73,True
+1995,2,7,6,Boston Bruins,7,1,5,10,4,32,10,85,0,Montreal Canadiens,6,1,4,6,6,25,19,118,True
+1995,2,7,26,Buffalo Sabres,6,1,2,4,1,16,5,37,30,Washington Capitals,6,1,3,5,2,17,8,112,True
+1995,2,7,16,Detroit Red Wings,6,2,2,7,2,25,22,173,41,San Jose Sharks,7,0,3,5,4,11,11,66,True
+1995,2,7,44,Mighty Ducks of Anaheim,4,0,3,4,2,32,9,95,40,Chicago Blackhawks,6,2,9,15,4,32,7,62,False
+1995,2,7,20,Pittsburgh Penguins,9,2,3,5,3,46,7,122,45,Florida Panthers,4,0,2,4,3,38,15,103,True
+1995,2,7,21,St. Louis Blues,7,2,7,9,1,17,9,47,22,Los Angeles Kings,3,0,2,4,4,17,23,134,False
+1995,2,7,42,Tampa Bay Lightning,5,1,1,1,2,32,17,121,28,New York Islanders,5,1,2,2,4,23,15,105,True
+1995,2,7,25,Vancouver Canucks,2,1,3,9,6,15,9,24,35,Edmonton Oilers,5,1,5,9,3,4,9,62,False
+1995,2,8,35,Edmonton Oilers,5,2,4,6,4,44,10,102,36,Winnipeg Jets,2,0,5,9,5,28,17,123,False
+1995,2,8,37,Hartford Whalers,3,0,1,2,2,33,14,115,34,Quebec Nordiques,8,2,3,6,1,26,6,77,False
+1995,2,8,10,New York Rangers,3,1,2,5,1,17,4,45,30,Washington Capitals,5,1,1,2,0,14,4,87,True
+1995,2,8,2,Ottawa Senators,2,0,3,3,0,34,13,73,0,Montreal Canadiens,5,2,4,6,5,23,18,101,False
+1995,2,8,13,Toronto Maple Leafs,6,2,7,13,3,29,7,52,43,Dallas Stars,6,0,4,4,2,5,7,29,False
+1995,2,9,6,Boston Bruins,7,1,7,11,2,14,14,92,34,Quebec Nordiques,8,1,3,6,2,30,7,81,False
+1995,2,9,38,Calgary Flames,5,2,5,7,5,25,13,117,44,Mighty Ducks of Anaheim,4,0,0,0,5,44,10,85,True
+1995,2,9,39,New Jersey Devils,4,0,3,6,3,22,6,61,10,New York Rangers,4,2,5,10,4,26,7,54,True
+1995,2,9,28,New York Islanders,4,1,2,4,5,16,16,98,20,Pittsburgh Penguins,10,1,7,12,3,29,7,105,False
+1995,2,9,23,Philadelphia Flyers,4,1,0,3,2,21,12,100,45,Florida Panthers,3,1,3,6,7,31,19,96,False
+1995,2,9,21,St. Louis Blues,7,1,5,9,3,11,13,58,40,Chicago Blackhawks,7,1,3,6,0,16,3,46,False
+1995,2,9,25,Vancouver Canucks,2,2,3,6,4,31,7,40,36,Winnipeg Jets,3,0,3,5,4,25,15,123,True
+1995,2,10,16,Detroit Red Wings,7,0,7,11,4,33,18,160,13,Toronto Maple Leafs,5,2,3,6,4,23,7,57,False
+1995,2,10,35,Edmonton Oilers,4,1,3,6,3,32,9,90,41,San Jose Sharks,6,1,0,0,5,15,10,64,True
+1995,2,10,42,Tampa Bay Lightning,5,0,5,6,2,32,17,121,37,Hartford Whalers,3,2,3,4,3,35,15,117,True
+1995,2,11,6,Boston Bruins,6,2,3,6,4,36,13,102,30,Washington Capitals,4,0,4,8,5,38,13,108,False
+1995,2,11,43,Dallas Stars,6,2,3,6,3,38,8,62,38,Calgary Flames,6,0,5,8,1,17,7,94,False
+1995,2,11,45,Florida Panthers,4,1,3,6,5,31,12,91,37,Hartford Whalers,2,1,3,5,2,26,16,100,True
+1995,2,11,39,New Jersey Devils,5,1,4,7,2,21,4,67,23,Philadelphia Flyers,4,1,0,0,3,28,13,107,False
+1995,2,11,28,New York Islanders,4,0,2,3,5,32,16,114,26,Buffalo Sabres,7,2,2,2,1,38,5,59,True
+1995,2,11,20,Pittsburgh Penguins,10,0,5,9,2,33,6,109,0,Montreal Canadiens,5,2,4,5,2,30,15,108,True
+1995,2,11,34,Quebec Nordiques,9,1,4,5,0,25,8,89,2,Ottawa Senators,2,1,2,5,4,31,17,70,True
+1995,2,11,21,St. Louis Blues,6,2,0,0,3,19,10,54,36,Winnipeg Jets,3,0,1,2,4,45,13,117,False
+1995,2,11,42,Tampa Bay Lightning,6,2,4,4,3,37,18,126,10,New York Rangers,4,0,1,2,3,28,7,61,False
+1995,2,11,13,Toronto Maple Leafs,6,2,2,2,3,34,4,69,22,Los Angeles Kings,3,0,6,10,3,26,24,156,False
+1995,2,11,25,Vancouver Canucks,3,1,3,7,1,22,4,31,41,San Jose Sharks,6,1,1,2,1,14,10,75,False
+1995,2,12,26,Buffalo Sabres,6,2,1,2,2,19,6,40,6,Boston Bruins,6,0,1,2,0,10,6,62,False
+1995,2,12,16,Detroit Red Wings,6,1,1,2,2,18,13,130,22,Los Angeles Kings,4,1,5,6,2,43,23,173,False
+1995,2,12,35,Edmonton Oilers,4,1,5,8,1,21,7,79,44,Mighty Ducks of Anaheim,4,1,1,2,5,30,10,71,True
+1995,2,12,45,Florida Panthers,5,0,4,5,0,26,10,87,39,New Jersey Devils,4,2,1,2,1,28,5,70,False
+1995,2,13,43,Dallas Stars,5,1,0,0,5,24,11,48,36,Winnipeg Jets,4,1,3,4,2,34,11,106,False
+1995,2,13,0,Montreal Canadiens,5,2,1,2,2,37,15,115,37,Hartford Whalers,2,0,3,6,0,6,14,80,False
+1995,2,13,23,Philadelphia Flyers,5,1,3,4,5,31,11,105,30,Washington Capitals,4,1,1,2,2,5,9,100,True
+1995,2,13,21,St. Louis Blues,5,1,2,4,3,27,10,62,38,Calgary Flames,6,1,6,9,0,34,10,116,True
+1995,2,13,13,Toronto Maple Leafs,5,1,2,4,4,38,5,73,40,Chicago Blackhawks,8,1,5,9,0,19,3,49,True
+1995,2,14,28,New York Islanders,4,2,2,4,1,27,10,100,34,Quebec Nordiques,9,0,5,9,3,38,10,92,False
+1995,2,14,20,Pittsburgh Penguins,10,2,3,5,1,32,5,108,6,Boston Bruins,6,0,2,4,1,21,7,73,True
+1995,2,14,42,Tampa Bay Lightning,6,1,2,2,3,15,18,104,23,Philadelphia Flyers,6,1,5,9,0,0,8,70,False
+1995,2,15,26,Buffalo Sabres,5,1,2,1,2,31,6,52,10,New York Rangers,4,1,3,4,4,33,6,58,False
+1995,2,15,43,Dallas Stars,4,2,4,5,6,24,13,54,22,Los Angeles Kings,5,0,3,5,4,49,25,179,False
+1995,2,15,45,Florida Panthers,5,1,2,4,3,27,13,88,2,Ottawa Senators,1,1,2,3,4,35,17,74,True
+1995,2,15,37,Hartford Whalers,3,1,2,4,2,36,16,110,0,Montreal Canadiens,5,1,2,4,2,28,15,106,True
+1995,2,15,39,New Jersey Devils,4,1,4,5,2,21,6,63,30,Washington Capitals,3,1,3,4,2,34,9,94,True
+1995,2,15,41,San Jose Sharks,7,2,1,2,1,28,10,89,25,Vancouver Canucks,2,0,5,0,1,24,4,33,True
+1995,2,15,13,Toronto Maple Leafs,6,0,4,3,2,32,3,67,35,Edmonton Oilers,4,2,2,2,0,29,6,87,False
+1995,2,15,36,Winnipeg Jets,4,1,7,13,4,35,13,107,16,Detroit Red Wings,6,1,5,6,0,16,18,143,False
+1995,2,16,40,Chicago Blackhawks,8,2,2,4,3,30,7,58,38,Calgary Flames,5,0,2,4,3,18,13,100,False
+1995,2,16,10,New York Rangers,5,1,2,4,1,26,3,51,0,Montreal Canadiens,4,1,1,2,2,19,17,116,False
+1995,2,16,23,Philadelphia Flyers,6,0,5,8,3,22,10,107,34,Quebec Nordiques,9,2,3,4,2,31,9,85,False
+1995,2,16,20,Pittsburgh Penguins,10,2,5,7,3,38,7,114,37,Hartford Whalers,3,0,4,7,4,18,15,95,True
+1995,2,17,16,Detroit Red Wings,6,2,5,8,1,31,19,158,35,Edmonton Oilers,5,0,4,6,3,23,7,86,True
+1995,2,17,45,Florida Panthers,5,2,1,4,0,21,10,82,6,Boston Bruins,5,0,3,5,4,21,10,73,False
+1995,2,17,22,Los Angeles Kings,6,1,3,5,1,43,22,173,41,San Jose Sharks,7,1,2,4,5,26,10,98,False
+1995,2,17,44,Mighty Ducks of Anaheim,3,1,0,0,1,44,6,100,25,Vancouver Canucks,2,1,1,2,3,9,6,39,False
+1995,2,17,39,New Jersey Devils,5,1,4,7,2,22,6,64,28,New York Islanders,4,1,2,3,4,40,13,106,False
+1995,2,17,42,Tampa Bay Lightning,5,2,2,3,4,28,19,117,2,Ottawa Senators,1,0,0,0,2,30,15,69,False
+1995,2,17,36,Winnipeg Jets,4,1,1,1,1,2,14,102,21,St. Louis Blues,5,1,4,7,2,26,9,61,False
+1995,2,18,38,Calgary Flames,5,1,2,2,2,31,13,121,43,Dallas Stars,3,1,1,3,2,31,9,61,True
+1995,2,18,37,Hartford Whalers,3,0,2,4,1,21,16,103,20,Pittsburgh Penguins,10,2,5,9,2,26,6,102,True
+1995,2,18,22,Los Angeles Kings,6,0,0,0,4,21,26,169,25,Vancouver Canucks,3,2,2,3,3,30,5,63,False
+1995,2,18,0,Montreal Canadiens,4,1,2,3,4,38,17,131,10,New York Rangers,5,1,2,3,2,35,4,60,True
+1995,2,18,28,New York Islanders,4,2,2,4,2,37,11,103,39,New Jersey Devils,5,0,2,4,3,24,6,61,True
+1995,2,18,41,San Jose Sharks,7,2,2,3,0,37,5,109,44,Mighty Ducks of Anaheim,2,0,2,3,2,27,7,83,False
+1995,2,18,42,Tampa Bay Lightning,5,1,1,2,2,25,17,114,6,Boston Bruins,5,1,4,7,4,14,10,66,True
+1995,2,18,13,Toronto Maple Leafs,5,1,1,2,4,32,5,67,21,St. Louis Blues,6,1,4,8,3,34,10,69,True
+1995,2,18,30,Washington Capitals,3,0,2,4,4,27,10,97,34,Quebec Nordiques,9,2,4,6,2,40,9,94,True
+1995,2,19,40,Chicago Blackhawks,7,2,2,4,2,11,2,27,35,Edmonton Oilers,5,0,2,4,0,13,7,67,True
+1995,2,19,45,Florida Panthers,4,1,4,6,2,25,12,73,34,Quebec Nordiques,8,1,2,4,2,28,11,79,False
+1995,2,19,20,Pittsburgh Penguins,9,1,2,3,4,37,8,113,26,Buffalo Sabres,4,1,1,1,2,31,8,61,False
+1995,2,20,38,Calgary Flames,6,2,3,6,2,22,13,112,43,Dallas Stars,2,0,2,4,3,35,10,65,False
+1995,2,20,40,Chicago Blackhawks,7,0,4,6,4,35,5,73,41,San Jose Sharks,6,2,3,6,5,23,10,95,True
+1995,2,20,0,Montreal Canadiens,5,1,5,8,2,36,15,129,28,New York Islanders,5,1,3,6,2,31,11,97,True
+1995,2,20,21,St. Louis Blues,5,2,1,0,3,33,8,61,35,Edmonton Oilers,5,0,1,1,4,19,11,77,True
+1995,2,20,42,Tampa Bay Lightning,5,1,3,6,1,25,16,114,10,New York Rangers,5,1,2,4,2,25,7,48,False
+1995,2,20,13,Toronto Maple Leafs,5,2,3,6,1,23,2,58,16,Detroit Red Wings,6,0,3,8,4,31,21,174,False
+1995,2,20,25,Vancouver Canucks,4,2,6,11,2,32,4,65,22,Los Angeles Kings,6,0,2,4,1,18,28,178,True
+1995,2,20,30,Washington Capitals,4,1,4,7,1,18,8,94,39,New Jersey Devils,5,1,2,4,2,19,6,61,False
+1995,2,21,45,Florida Panthers,3,1,1,2,3,14,14,67,10,New York Rangers,5,1,3,2,5,23,6,38,False
+1995,2,21,20,Pittsburgh Penguins,8,1,3,7,3,31,7,107,34,Quebec Nordiques,8,1,4,8,4,25,10,69,True
+1995,2,22,26,Buffalo Sabres,5,1,3,4,3,35,6,52,28,New York Islanders,5,1,2,3,3,28,12,94,False
+1995,2,22,16,Detroit Red Wings,6,1,4,8,2,26,19,170,13,Toronto Maple Leafs,4,1,2,4,1,35,4,75,True
+1995,2,22,35,Edmonton Oilers,5,0,0,1,4,32,11,90,43,Dallas Stars,3,2,2,2,1,26,8,56,True
+1995,2,22,37,Hartford Whalers,4,1,4,4,2,28,17,110,6,Boston Bruins,5,1,1,2,1,14,6,63,True
+1995,2,22,21,St. Louis Blues,6,1,4,7,0,21,5,49,41,San Jose Sharks,5,1,3,4,1,37,6,85,True
+1995,2,22,25,Vancouver Canucks,5,2,8,15,2,33,4,67,36,Winnipeg Jets,4,0,3,5,5,30,17,126,False
+1995,2,23,40,Chicago Blackhawks,7,0,3,7,1,22,3,58,16,Detroit Red Wings,6,2,4,6,2,27,18,169,False
+1995,2,23,45,Florida Panthers,3,1,3,4,4,26,15,79,0,Montreal Canadiens,6,1,3,5,2,34,15,130,False
+1995,2,23,22,Los Angeles Kings,5,1,2,3,5,27,29,174,38,Calgary Flames,6,1,1,2,2,28,11,114,False
+1995,2,23,39,New Jersey Devils,5,1,2,4,0,27,4,69,6,Boston Bruins,5,1,2,3,3,20,8,69,False
+1995,2,23,28,New York Islanders,5,0,3,6,3,32,12,97,42,Tampa Bay Lightning,4,2,1,2,2,17,17,106,False
+1995,2,23,2,Ottawa Senators,2,1,1,4,1,40,14,79,30,Washington Capitals,3,1,0,1,2,24,8,100,False
+1995,2,23,34,Quebec Nordiques,8,2,3,7,5,25,11,69,23,Philadelphia Flyers,5,0,2,3,4,23,10,99,False
+1995,2,23,13,Toronto Maple Leafs,4,0,1,1,3,40,6,73,44,Mighty Ducks of Anaheim,3,2,6,8,0,18,5,57,True
+1995,2,24,43,Dallas Stars,3,2,1,3,2,28,9,58,25,Vancouver Canucks,4,0,1,1,2,34,6,55,False
+1995,2,24,10,New York Rangers,6,1,5,6,3,26,4,41,37,Hartford Whalers,4,1,3,4,2,44,17,126,False
+1995,2,24,20,Pittsburgh Penguins,8,2,5,9,4,34,8,110,42,Tampa Bay Lightning,4,0,4,5,6,25,16,117,False
+1995,2,24,41,San Jose Sharks,4,0,3,6,3,28,9,76,38,Calgary Flames,6,2,3,5,3,29,12,115,False
+1995,2,24,36,Winnipeg Jets,5,0,4,8,1,46,13,142,44,Mighty Ducks of Anaheim,2,2,1,2,3,11,8,74,True
+1995,2,25,16,Detroit Red Wings,7,1,5,3,2,27,18,169,21,St. Louis Blues,6,1,4,7,3,39,8,67,False
+1995,2,25,35,Edmonton Oilers,6,2,2,4,1,36,8,94,22,Los Angeles Kings,5,0,3,5,3,48,27,195,False
+1995,2,25,37,Hartford Whalers,5,0,2,2,1,33,16,115,26,Buffalo Sabres,4,2,3,5,3,29,6,46,False
+1995,2,25,0,Montreal Canadiens,6,0,5,7,2,37,15,124,23,Philadelphia Flyers,5,2,6,9,6,46,12,122,False
+1995,2,25,39,New Jersey Devils,4,2,2,4,3,32,7,74,30,Washington Capitals,4,0,5,8,1,24,15,98,False
+1995,2,25,28,New York Islanders,4,0,1,2,3,31,8,80,20,Pittsburgh Penguins,7,2,2,4,6,25,13,127,True
+1995,2,25,2,Ottawa Senators,2,1,5,7,5,34,18,73,45,Florida Panthers,3,1,2,3,4,19,15,76,False
+1995,2,25,34,Quebec Nordiques,7,2,7,12,1,18,12,78,6,Boston Bruins,5,0,3,2,2,23,7,72,False
+1995,2,25,13,Toronto Maple Leafs,5,2,2,5,1,22,4,55,36,Winnipeg Jets,6,0,4,9,2,41,14,137,True
+1995,2,26,26,Buffalo Sabres,5,1,3,4,1,29,4,46,10,New York Rangers,6,1,1,2,1,15,3,40,False
+1995,2,26,43,Dallas Stars,2,1,3,4,7,30,10,54,40,Chicago Blackhawks,7,1,2,2,3,27,5,63,False
+1995,2,26,44,Mighty Ducks of Anaheim,2,0,2,4,3,35,7,73,38,Calgary Flames,7,2,3,4,0,17,7,91,False
+1995,2,26,41,San Jose Sharks,3,2,0,0,4,28,9,76,25,Vancouver Canucks,5,0,3,6,3,39,7,60,False
+1995,2,26,30,Washington Capitals,5,1,3,4,4,12,16,88,42,Tampa Bay Lightning,5,1,4,7,1,28,9,115,False
+1995,2,27,39,New Jersey Devils,4,1,3,6,3,24,7,70,0,Montreal Canadiens,5,1,0,0,7,38,18,100,True
+1995,2,27,2,Ottawa Senators,2,0,1,1,4,9,17,65,6,Boston Bruins,5,2,1,2,1,24,6,73,False
+1995,2,27,34,Quebec Nordiques,6,0,1,2,6,34,12,91,20,Pittsburgh Penguins,6,2,1,2,3,26,10,126,False
+1995,2,27,21,St. Louis Blues,6,0,3,5,2,37,7,65,13,Toronto Maple Leafs,5,2,5,8,3,33,5,61,True
+1995,2,28,38,Calgary Flames,7,2,3,8,3,22,10,96,35,Edmonton Oilers,5,0,3,5,4,23,11,88,True
+1995,2,28,22,Los Angeles Kings,5,0,4,5,3,17,27,178,40,Chicago Blackhawks,7,2,2,3,1,24,3,60,False
+1995,2,28,28,New York Islanders,5,0,3,6,1,27,6,76,0,Montreal Canadiens,5,2,1,1,0,3,17,115,True
+1995,2,28,10,New York Rangers,6,2,2,1,2,25,4,49,45,Florida Panthers,4,0,4,8,4,23,12,88,False
+1995,2,28,2,Ottawa Senators,2,0,0,0,4,26,14,84,37,Hartford Whalers,5,2,1,2,3,28,18,110,False
+1995,2,28,23,Philadelphia Flyers,6,2,7,10,0,18,4,86,30,Washington Capitals,4,0,1,2,3,22,14,96,True
+1995,2,28,25,Vancouver Canucks,6,1,5,9,1,27,5,48,41,San Jose Sharks,3,1,1,0,1,17,7,51,False
+1995,2,28,36,Winnipeg Jets,6,2,2,3,1,10,12,105,43,Dallas Stars,2,0,1,1,2,29,5,53,False
+1995,3,1,35,Edmonton Oilers,4,1,2,5,4,30,12,100,43,Dallas Stars,3,1,4,6,3,24,3,50,False
+1995,3,1,37,Hartford Whalers,6,1,6,10,5,26,18,113,10,New York Rangers,5,1,0,0,0,23,2,47,False
+1995,3,1,44,Mighty Ducks of Anaheim,2,0,3,4,4,27,10,79,40,Chicago Blackhawks,7,2,7,9,2,20,6,61,True
+1995,3,1,34,Quebec Nordiques,5,0,5,8,3,7,12,57,42,Tampa Bay Lightning,6,2,1,2,1,23,9,110,True
+1995,3,2,6,Boston Bruins,5,2,2,1,0,28,5,77,39,New Jersey Devils,5,0,5,10,3,28,5,73,True
+1995,3,2,26,Buffalo Sabres,4,2,2,5,3,25,7,51,20,Pittsburgh Penguins,6,0,7,12,3,24,12,140,True
+1995,3,2,38,Calgary Flames,8,2,7,7,2,23,8,102,25,Vancouver Canucks,6,0,3,4,4,17,8,38,False
+1995,3,2,16,Detroit Red Wings,6,1,2,1,0,15,15,117,36,Winnipeg Jets,5,1,0,0,1,7,12,92,True
+1995,3,2,28,New York Islanders,6,1,2,3,1,23,8,80,30,Washington Capitals,4,1,2,4,0,0,13,86,False
+1995,3,2,2,Ottawa Senators,2,1,3,4,5,29,15,87,42,Tampa Bay Lightning,5,1,2,4,6,23,14,82,False
+1995,3,2,23,Philadelphia Flyers,7,0,4,4,2,26,9,100,45,Florida Panthers,5,2,0,0,0,44,8,109,False
+1995,3,2,13,Toronto Maple Leafs,5,1,3,3,2,28,5,69,41,San Jose Sharks,4,1,4,6,2,19,6,62,False
+1995,3,3,43,Dallas Stars,3,2,5,9,0,26,3,50,44,Mighty Ducks of Anaheim,3,0,3,6,1,33,7,85,True
+1995,3,3,35,Edmonton Oilers,4,0,3,3,5,28,13,98,40,Chicago Blackhawks,6,2,2,2,4,25,7,72,False
+1995,3,3,10,New York Rangers,6,1,5,7,2,23,4,47,23,Philadelphia Flyers,6,1,2,6,2,17,9,91,True
+1995,3,4,6,Boston Bruins,6,0,7,13,2,18,7,81,20,Pittsburgh Penguins,5,2,2,5,2,14,9,105,False
+1995,3,4,37,Hartford Whalers,6,1,2,4,4,31,17,118,42,Tampa Bay Lightning,5,1,2,6,2,34,10,93,True
+1995,3,4,22,Los Angeles Kings,5,0,4,7,4,26,29,165,25,Vancouver Canucks,6,2,2,4,2,38,6,59,False
+1995,3,4,39,New Jersey Devils,4,2,2,3,4,9,8,36,45,Florida Panthers,5,0,3,4,1,31,10,102,True
+1995,3,4,34,Quebec Nordiques,5,1,8,15,2,29,11,79,26,Buffalo Sabres,5,1,6,6,3,30,8,67,False
+1995,3,4,13,Toronto Maple Leafs,4,1,3,5,3,41,7,63,38,Calgary Flames,7,1,2,4,2,29,7,111,True
+1995,3,4,36,Winnipeg Jets,4,0,1,1,3,15,17,118,41,San Jose Sharks,5,2,4,6,3,27,7,70,True
+1995,3,4,30,Washington Capitals,5,0,4,7,3,24,14,112,0,Montreal Canadiens,4,2,1,3,6,53,19,129,True
+1995,3,5,26,Buffalo Sabres,5,2,1,1,1,37,6,74,0,Montreal Canadiens,4,0,1,2,2,17,18,103,True
+1995,3,5,40,Chicago Blackhawks,6,1,5,7,2,29,5,76,44,Mighty Ducks of Anaheim,2,1,0,0,4,39,12,107,True
+1995,3,5,43,Dallas Stars,4,1,4,5,3,24,3,51,21,St. Louis Blues,6,1,3,6,2,22,7,50,True
+1995,3,5,35,Edmonton Oilers,3,0,2,4,4,25,12,95,16,Detroit Red Wings,7,2,6,13,3,4,21,144,True
+1995,3,5,37,Hartford Whalers,7,1,3,5,2,25,15,112,6,Boston Bruins,6,1,3,6,2,10,7,51,False
+1995,3,5,2,Ottawa Senators,2,1,2,3,3,31,13,89,28,New York Islanders,6,1,2,4,4,29,14,89,True
+1995,3,5,23,Philadelphia Flyers,6,1,3,4,5,29,11,102,20,Pittsburgh Penguins,5,1,4,7,3,45,10,136,True
+1995,3,5,36,Winnipeg Jets,5,1,4,6,6,33,16,132,38,Calgary Flames,6,1,2,4,3,37,6,106,True
+1995,3,5,30,Washington Capitals,5,0,5,7,1,29,10,114,10,New York Rangers,6,2,5,10,3,23,5,47,True
+1995,3,6,43,Dallas Stars,5,1,2,4,0,27,1,58,22,Los Angeles Kings,4,1,4,8,5,37,30,176,True
+1995,3,6,10,New York Rangers,5,2,2,4,2,24,5,52,2,Ottawa Senators,2,0,3,7,1,28,11,86,True
+1995,3,6,34,Quebec Nordiques,4,1,1,0,1,28,10,78,39,New Jersey Devils,5,1,6,10,3,9,5,45,True
+1995,3,6,25,Vancouver Canucks,7,0,5,8,4,42,8,63,16,Detroit Red Wings,6,2,2,6,1,24,18,201,False
+1995,3,7,6,Boston Bruins,6,1,5,10,2,10,7,80,30,Washington Capitals,6,1,4,7,2,17,14,107,False
+1995,3,7,40,Chicago Blackhawks,6,1,2,5,0,16,3,63,38,Calgary Flames,6,1,2,4,2,25,7,116,False
+1995,3,7,28,New York Islanders,5,1,2,2,3,20,10,84,37,Hartford Whalers,6,1,2,2,5,24,15,92,True
+1995,3,7,20,Pittsburgh Penguins,4,2,2,2,6,34,13,125,34,Quebec Nordiques,4,0,6,9,3,29,12,79,False
+1995,3,7,21,St. Louis Blues,6,2,1,2,2,30,7,58,44,Mighty Ducks of Anaheim,2,0,0,0,4,35,10,99,True
+1995,3,7,42,Tampa Bay Lightning,5,1,3,4,3,29,11,88,23,Philadelphia Flyers,7,1,6,11,2,25,8,98,False
+1995,3,8,45,Florida Panthers,4,2,1,2,0,13,13,73,2,Ottawa Senators,2,0,3,6,4,33,14,91,True
+1995,3,8,0,Montreal Canadiens,4,0,1,0,5,27,20,119,26,Buffalo Sabres,5,2,4,7,1,24,8,48,False
+1995,3,8,10,New York Rangers,6,1,4,6,3,28,6,52,39,New Jersey Devils,4,1,3,5,4,11,7,43,True
+1995,3,8,41,San Jose Sharks,4,0,2,2,3,29,7,72,35,Edmonton Oilers,3,2,4,7,2,29,10,99,False
+1995,3,8,13,Toronto Maple Leafs,5,1,3,6,4,22,6,50,43,Dallas Stars,6,1,8,16,1,31,3,54,True
+1995,3,9,40,Chicago Blackhawks,6,2,3,6,0,16,9,71,22,Los Angeles Kings,3,0,2,3,1,12,29,166,False
+1995,3,9,37,Hartford Whalers,5,0,1,0,2,19,12,87,34,Quebec Nordiques,4,2,5,9,4,24,13,85,True
+1995,3,9,44,Mighty Ducks of Anaheim,2,1,3,4,0,4,10,60,16,Detroit Red Wings,7,1,5,10,2,40,19,217,False
+1995,3,9,23,Philadelphia Flyers,7,1,4,9,3,26,9,99,6,Boston Bruins,6,1,1,2,3,29,8,99,True
+1995,3,9,20,Pittsburgh Penguins,3,1,4,8,5,29,12,120,28,New York Islanders,6,1,3,4,3,28,8,97,True
+1995,3,9,21,St. Louis Blues,7,1,6,12,3,33,8,61,38,Calgary Flames,6,1,6,9,0,7,7,83,True
+1995,3,10,42,Tampa Bay Lightning,5,0,3,6,4,37,12,96,39,New Jersey Devils,3,2,4,8,5,36,8,68,False
+1995,3,10,36,Winnipeg Jets,5,1,3,6,2,40,12,139,43,Dallas Stars,6,1,2,4,2,23,5,55,True
+1995,3,10,30,Washington Capitals,7,2,3,6,1,37,12,127,2,Ottawa Senators,2,0,2,2,3,15,13,91,False
+1995,3,11,6,Boston Bruins,5,1,3,4,3,21,8,91,45,Florida Panthers,5,1,3,5,2,23,15,83,False
+1995,3,11,0,Montreal Canadiens,4,2,1,4,2,16,17,108,10,New York Rangers,7,0,6,11,4,23,7,47,True
+1995,3,11,20,Pittsburgh Penguins,4,0,4,8,2,30,9,121,26,Buffalo Sabres,6,2,2,2,2,33,9,57,True
+1995,3,11,34,Quebec Nordiques,4,1,1,1,4,35,11,98,28,New York Islanders,5,1,2,3,1,24,9,108,True
+1995,3,11,13,Toronto Maple Leafs,5,1,3,2,2,33,4,61,40,Chicago Blackhawks,6,1,3,6,1,12,7,56,False
+1995,3,11,25,Vancouver Canucks,7,2,2,3,4,36,8,57,44,Mighty Ducks of Anaheim,2,0,4,7,4,36,14,92,True
+1995,3,11,36,Winnipeg Jets,5,1,4,6,2,29,13,127,22,Los Angeles Kings,3,1,4,7,3,39,31,193,False
+1995,3,12,43,Dallas Stars,5,1,3,5,3,32,7,57,38,Calgary Flames,5,1,1,2,4,25,8,79,False
+1995,3,12,35,Edmonton Oilers,3,2,5,9,2,28,10,98,25,Vancouver Canucks,7,0,5,8,3,24,7,45,False
+1995,3,12,37,Hartford Whalers,6,0,2,4,1,31,11,99,45,Florida Panthers,5,2,2,3,0,27,13,87,False
+1995,3,12,23,Philadelphia Flyers,7,2,3,5,2,34,9,118,39,New Jersey Devils,4,0,3,6,2,27,5,59,True
+1995,3,12,21,St. Louis Blues,8,2,5,8,1,26,6,54,16,Detroit Red Wings,8,0,4,8,4,28,22,193,False
+1995,3,12,30,Washington Capitals,6,1,2,4,2,19,13,109,42,Tampa Bay Lightning,5,1,2,4,2,5,11,87,True
+1995,3,13,43,Dallas Stars,5,0,4,8,4,25,8,50,40,Chicago Blackhawks,6,2,2,2,2,40,8,84,True
+1995,3,13,20,Pittsburgh Penguins,5,1,6,11,2,27,9,118,0,Montreal Canadiens,4,1,4,4,1,27,16,119,True
+1995,3,13,42,Tampa Bay Lightning,4,1,1,2,3,28,12,114,30,Washington Capitals,7,1,3,6,1,23,12,113,False
+1995,3,13,13,Toronto Maple Leafs,5,1,2,4,2,30,4,58,22,Los Angeles Kings,3,1,4,6,2,24,30,178,False
+1995,3,14,16,Detroit Red Wings,8,0,2,4,4,25,19,188,22,Los Angeles Kings,4,2,4,6,1,41,29,195,True
+1995,3,14,35,Edmonton Oilers,3,0,2,4,5,29,13,99,21,St. Louis Blues,7,2,1,2,2,28,7,56,True
+1995,3,14,45,Florida Panthers,6,0,4,7,1,25,14,85,26,Buffalo Sabres,6,2,1,7,6,38,13,62,False
+1995,3,14,37,Hartford Whalers,5,0,1,2,3,22,13,90,28,New York Islanders,4,2,1,3,2,32,11,100,True
+1995,3,14,39,New Jersey Devils,4,2,4,6,4,21,7,53,2,Ottawa Senators,3,0,2,3,2,34,12,110,True
+1995,3,14,36,Winnipeg Jets,5,1,2,4,4,30,15,128,25,Vancouver Canucks,7,1,4,7,2,24,6,45,False
+1995,3,15,38,Calgary Flames,6,2,4,6,4,34,5,83,44,Mighty Ducks of Anaheim,2,0,3,6,4,37,14,93,False
+1995,3,15,0,Montreal Canadiens,3,0,2,3,3,21,18,113,20,Pittsburgh Penguins,5,2,4,6,3,15,9,124,True
+1995,3,15,10,New York Rangers,6,1,1,2,3,32,6,56,23,Philadelphia Flyers,7,1,4,8,2,37,10,102,False
+1995,3,15,41,San Jose Sharks,3,1,2,4,4,31,8,74,13,Toronto Maple Leafs,4,1,0,0,2,28,5,48,False
+1995,3,16,6,Boston Bruins,5,2,0,0,2,17,7,87,0,Montreal Canadiens,3,0,8,12,4,33,20,124,True
+1995,3,16,26,Buffalo Sabres,7,0,2,3,2,6,10,63,28,New York Islanders,4,2,4,4,4,39,15,109,True
+1995,3,16,40,Chicago Blackhawks,5,2,3,5,3,13,10,78,25,Vancouver Canucks,7,0,3,8,3,37,7,58,True
+1995,3,16,16,Detroit Red Wings,8,1,5,8,1,23,17,185,43,Dallas Stars,6,1,4,5,4,25,6,71,True
+1995,3,16,45,Florida Panthers,6,0,1,0,2,18,15,78,30,Washington Capitals,7,2,3,6,1,21,11,106,True
+1995,3,16,22,Los Angeles Kings,4,1,2,5,5,43,33,214,21,St. Louis Blues,6,1,3,5,6,25,11,53,False
+1995,3,16,39,New Jersey Devils,4,2,4,4,2,21,5,53,37,Hartford Whalers,5,0,6,11,4,31,14,99,False
+1995,3,16,2,Ottawa Senators,2,1,2,5,3,33,13,100,23,Philadelphia Flyers,8,1,4,6,3,18,12,86,False
+1995,3,16,34,Quebec Nordiques,4,1,2,2,1,30,8,93,20,Pittsburgh Penguins,5,1,5,10,5,15,12,102,True
+1995,3,17,38,Calgary Flames,5,0,0,0,2,19,9,79,36,Winnipeg Jets,5,2,3,4,3,28,14,138,True
+1995,3,17,16,Detroit Red Wings,8,2,5,8,2,22,25,193,25,Vancouver Canucks,7,0,2,4,3,10,9,34,True
+1995,3,17,35,Edmonton Oilers,4,2,6,10,5,29,13,99,41,San Jose Sharks,2,0,0,2,2,33,6,76,True
+1995,3,17,44,Mighty Ducks of Anaheim,2,1,5,9,0,29,12,90,13,Toronto Maple Leafs,5,1,2,2,1,14,4,34,False
+1995,3,18,6,Boston Bruins,6,2,6,10,0,29,5,99,28,New York Islanders,3,0,3,4,6,41,14,95,True
+1995,3,18,45,Florida Panthers,7,2,5,10,1,22,14,82,23,Philadelphia Flyers,8,0,3,5,3,34,10,85,False
+1995,3,18,22,Los Angeles Kings,4,2,2,4,2,27,30,198,13,Toronto Maple Leafs,6,0,3,4,3,36,6,56,False
+1995,3,18,0,Montreal Canadiens,2,2,0,0,5,32,22,129,34,Quebec Nordiques,5,0,3,6,2,37,9,94,True
+1995,3,18,39,New Jersey Devils,4,2,2,4,2,23,5,55,42,Tampa Bay Lightning,4,0,0,0,3,32,12,114,False
+1995,3,18,2,Ottawa Senators,2,0,1,0,3,31,13,98,26,Buffalo Sabres,7,2,5,10,2,23,10,55,True
+1995,3,18,30,Washington Capitals,6,1,1,3,3,14,15,100,10,New York Rangers,5,1,3,3,3,24,7,46,True
+1995,3,19,26,Buffalo Sabres,7,2,4,5,4,31,12,63,42,Tampa Bay Lightning,4,0,2,4,1,23,10,105,False
+1995,3,19,38,Calgary Flames,5,2,8,12,4,28,11,88,41,San Jose Sharks,2,0,3,5,1,12,9,81,False
+1995,3,19,44,Mighty Ducks of Anaheim,2,0,3,6,3,31,15,92,21,St. Louis Blues,7,2,3,5,2,32,7,60,False
+1995,3,19,39,New Jersey Devils,4,0,0,2,2,14,5,65,6,Boston Bruins,6,2,4,7,3,20,8,90,True
+1995,3,19,2,Ottawa Senators,3,0,4,4,3,24,13,94,20,Pittsburgh Penguins,5,2,2,3,3,37,10,124,False
+1995,3,19,36,Winnipeg Jets,4,1,4,7,8,36,19,146,40,Chicago Blackhawks,6,1,9,14,2,24,9,89,False
+1995,3,20,35,Edmonton Oilers,5,0,5,9,3,27,11,97,38,Calgary Flames,4,2,3,6,3,17,11,88,True
+1995,3,20,37,Hartford Whalers,5,0,2,3,2,21,12,89,30,Washington Capitals,7,2,4,6,1,28,13,114,False
+1995,3,20,22,Los Angeles Kings,4,1,3,5,4,43,36,230,21,St. Louis Blues,7,1,4,7,0,9,7,57,True
+1995,3,20,23,Philadelphia Flyers,8,2,4,7,1,17,10,79,0,Montreal Canadiens,3,0,5,6,4,30,21,127,True
+1995,3,20,34,Quebec Nordiques,5,2,4,6,2,31,12,95,45,Florida Panthers,7,0,3,5,6,26,17,91,True
+1995,3,21,26,Buffalo Sabres,6,1,2,2,6,39,14,71,20,Pittsburgh Penguins,5,1,4,7,3,29,10,116,False
+1995,3,21,44,Mighty Ducks of Anaheim,2,2,2,4,6,23,16,92,22,Los Angeles Kings,4,0,5,7,3,31,32,203,False
+1995,3,21,41,San Jose Sharks,3,1,5,9,3,30,11,99,40,Chicago Blackhawks,6,1,3,4,2,38,9,103,False
+1995,3,21,25,Vancouver Canucks,6,0,1,2,6,24,9,62,13,Toronto Maple Leafs,6,2,5,10,3,41,6,61,True
+1995,3,21,30,Washington Capitals,8,1,5,9,0,30,12,116,2,Ottawa Senators,3,1,3,5,3,27,14,92,True
+1995,3,22,38,Calgary Flames,3,0,2,4,4,28,14,97,21,St. Louis Blues,6,2,3,6,3,8,10,43,True
+1995,3,22,43,Dallas Stars,6,1,4,8,2,11,5,33,35,Edmonton Oilers,5,1,5,8,2,35,10,105,False
+1995,3,22,16,Detroit Red Wings,8,2,3,2,4,23,17,147,36,Winnipeg Jets,3,0,2,4,3,40,14,137,True
+1995,3,22,37,Hartford Whalers,5,0,0,0,4,23,15,80,23,Philadelphia Flyers,8,2,8,12,4,21,13,83,True
+1995,3,22,0,Montreal Canadiens,3,2,4,8,8,39,25,136,45,Florida Panthers,6,0,4,7,4,31,16,95,False
+1995,3,22,10,New York Rangers,5,1,3,1,4,22,8,55,39,New Jersey Devils,4,1,4,5,2,33,6,82,False
+1995,3,22,34,Quebec Nordiques,6,1,5,10,4,36,14,100,6,Boston Bruins,5,1,3,6,0,0,9,75,True
+1995,3,23,43,Dallas Stars,5,1,4,9,4,32,7,54,35,Edmonton Oilers,6,1,4,8,4,29,7,76,True
+1995,3,23,28,New York Islanders,3,1,3,6,5,26,15,114,10,New York Rangers,4,1,1,4,4,20,5,29,True
+1995,3,23,41,San Jose Sharks,3,1,4,5,5,38,15,101,44,Mighty Ducks of Anaheim,2,1,3,6,4,31,13,91,False
+1995,3,23,25,Vancouver Canucks,6,0,3,3,1,28,4,66,40,Chicago Blackhawks,6,2,6,10,3,21,10,86,False
+1995,3,24,26,Buffalo Sabres,6,2,2,3,1,8,11,56,45,Florida Panthers,6,0,3,5,2,37,14,101,True
+1995,3,24,38,Calgary Flames,4,1,4,5,3,34,12,96,16,Detroit Red Wings,8,1,6,12,1,24,22,178,True
+1995,3,24,20,Pittsburgh Penguins,6,1,3,4,2,26,9,113,39,New Jersey Devils,5,1,5,8,2,29,6,78,True
+1995,3,24,42,Tampa Bay Lightning,4,2,6,9,1,25,7,98,6,Boston Bruins,4,0,2,3,4,37,15,113,False
+1995,3,24,13,Toronto Maple Leafs,5,2,1,2,3,20,5,52,36,Winnipeg Jets,3,0,3,6,3,27,16,134,True
+1995,3,25,37,Hartford Whalers,5,1,4,6,3,33,14,90,28,New York Islanders,3,1,1,2,4,42,10,125,True
+1995,3,25,22,Los Angeles Kings,5,0,3,5,3,38,32,210,41,San Jose Sharks,3,2,3,3,6,29,16,92,False
+1995,3,25,0,Montreal Canadiens,3,2,2,4,3,25,20,122,2,Ottawa Senators,3,0,0,0,1,30,12,95,True
+1995,3,25,34,Quebec Nordiques,7,1,6,8,2,31,12,95,10,New York Rangers,4,1,1,1,1,15,2,24,True
+1995,3,25,25,Vancouver Canucks,6,0,1,1,3,19,6,57,16,Detroit Red Wings,8,2,2,4,3,16,24,187,False
+1995,3,25,36,Winnipeg Jets,3,0,2,3,5,37,16,135,13,Toronto Maple Leafs,6,2,3,4,2,32,4,64,False
+1995,3,25,30,Washington Capitals,8,0,1,2,0,13,12,98,23,Philadelphia Flyers,8,2,3,4,4,35,10,75,False
+1995,3,26,38,Calgary Flames,5,1,3,6,2,24,9,95,25,Vancouver Canucks,5,1,1,3,3,38,5,61,True
+1995,3,26,40,Chicago Blackhawks,7,1,4,7,1,24,8,89,44,Mighty Ducks of Anaheim,2,1,6,8,3,17,12,77,True
+1995,3,26,45,Florida Panthers,5,0,0,1,3,22,15,86,20,Pittsburgh Penguins,6,2,5,9,0,2,6,117,True
+1995,3,26,28,New York Islanders,2,2,1,2,3,24,9,65,39,New Jersey Devils,4,0,2,3,0,0,6,44,False
+1995,3,26,2,Ottawa Senators,3,1,1,2,4,22,14,91,34,Quebec Nordiques,7,1,2,3,1,21,11,85,False
+1995,3,26,23,Philadelphia Flyers,9,2,1,3,3,28,10,74,26,Buffalo Sabres,6,0,3,4,0,28,10,76,True
+1995,3,26,41,San Jose Sharks,4,2,3,6,1,33,11,96,22,Los Angeles Kings,5,0,1,1,3,25,32,197,False
+1995,3,26,21,St. Louis Blues,5,1,3,6,4,37,11,72,35,Edmonton Oilers,6,1,1,0,2,33,5,80,True
+1995,3,26,30,Washington Capitals,7,2,2,4,2,22,14,88,37,Hartford Whalers,6,0,5,10,1,1,12,98,False
+1995,3,27,43,Dallas Stars,5,1,2,3,1,26,4,48,21,St. Louis Blues,5,1,4,10,2,16,8,51,False
+1995,3,27,42,Tampa Bay Lightning,3,2,3,8,4,30,12,123,0,Montreal Canadiens,4,0,3,5,1,27,18,124,True
+1995,3,27,13,Toronto Maple Leafs,7,0,3,6,3,36,5,68,35,Edmonton Oilers,6,2,1,2,0,12,8,80,True
+1995,3,28,6,Boston Bruins,4,0,4,5,3,26,14,109,23,Philadelphia Flyers,9,2,4,7,1,24,8,70,True
+1995,3,28,26,Buffalo Sabres,5,1,1,2,3,29,13,77,34,Quebec Nordiques,8,1,11,17,5,38,14,99,True
+1995,3,28,38,Calgary Flames,6,1,2,2,0,20,9,124,22,Los Angeles Kings,6,1,7,14,3,34,32,206,False
+1995,3,28,16,Detroit Red Wings,8,2,2,4,1,25,22,196,44,Mighty Ducks of Anaheim,2,0,2,3,4,21,11,77,True
+1995,3,28,20,Pittsburgh Penguins,6,1,0,1,2,22,8,137,28,New York Islanders,2,1,5,7,1,19,9,68,True
+1995,3,28,41,San Jose Sharks,3,1,3,4,1,13,10,62,36,Winnipeg Jets,3,1,3,6,3,34,14,132,True
+1995,3,29,40,Chicago Blackhawks,7,2,5,10,2,21,5,52,21,St. Louis Blues,6,0,3,6,1,16,8,58,False
+1995,3,29,45,Florida Panthers,6,2,2,3,5,30,12,88,37,Hartford Whalers,6,0,5,7,1,41,14,131,False
+1995,3,29,2,Ottawa Senators,2,0,4,7,3,7,18,75,39,New Jersey Devils,5,2,5,7,5,26,11,78,False
+1995,3,29,42,Tampa Bay Lightning,4,0,3,5,3,32,11,145,30,Washington Capitals,6,2,3,4,4,28,17,123,False
+1995,3,29,25,Vancouver Canucks,4,2,0,0,2,23,3,55,22,Los Angeles Kings,6,0,5,10,7,24,32,213,True
+1995,3,30,26,Buffalo Sabres,5,1,5,8,3,42,8,96,2,Ottawa Senators,2,1,2,3,8,25,19,104,True
+1995,3,30,16,Detroit Red Wings,9,1,6,9,4,23,25,194,43,Dallas Stars,4,1,2,4,3,38,6,60,True
+1995,3,30,44,Mighty Ducks of Anaheim,2,1,4,4,2,22,12,76,36,Winnipeg Jets,2,1,5,7,3,28,17,135,True
+1995,3,30,28,New York Islanders,2,0,2,4,6,34,14,83,6,Boston Bruins,5,2,5,9,1,19,12,102,False
+1995,3,30,10,New York Rangers,3,0,1,1,2,31,3,40,34,Quebec Nordiques,7,2,3,4,5,23,10,49,False
+1995,3,30,23,Philadelphia Flyers,8,2,1,2,5,38,11,77,39,New Jersey Devils,6,0,4,6,2,22,8,74,False
+1995,3,31,40,Chicago Blackhawks,6,1,1,2,3,25,6,56,13,Toronto Maple Leafs,7,1,4,5,3,30,5,62,False
+1995,3,31,35,Edmonton Oilers,6,1,3,4,1,10,7,70,38,Calgary Flames,5,1,3,5,4,17,9,79,False
+1995,3,31,21,St. Louis Blues,6,2,3,4,1,18,8,60,41,San Jose Sharks,3,0,6,11,1,14,8,59,True
+1995,3,31,42,Tampa Bay Lightning,3,1,2,4,3,13,10,111,37,Hartford Whalers,7,1,4,6,4,38,17,128,True
+1995,3,31,25,Vancouver Canucks,5,2,5,7,2,26,3,58,44,Mighty Ducks of Anaheim,3,0,3,4,4,16,11,80,True
+1995,3,31,30,Washington Capitals,6,1,4,5,2,26,15,121,34,Quebec Nordiques,7,1,5,9,4,40,9,66,True
+1995,4,1,6,Boston Bruins,5,1,3,6,2,20,13,103,10,New York Rangers,2,1,4,7,1,10,5,27,False
+1995,4,1,43,Dallas Stars,3,0,2,2,0,0,6,56,16,Detroit Red Wings,9,2,3,6,3,32,22,188,False
+1995,4,1,35,Edmonton Oilers,5,1,2,3,6,25,12,85,25,Vancouver Canucks,5,1,6,8,1,31,2,63,False
+1995,4,1,22,Los Angeles Kings,5,2,2,4,3,9,27,187,36,Winnipeg Jets,1,0,1,2,6,37,16,135,False
+1995,4,1,39,New Jersey Devils,6,1,5,6,3,24,9,76,0,Montreal Canadiens,4,1,2,3,3,31,20,128,True
+1995,4,1,28,New York Islanders,1,1,2,4,0,20,8,39,26,Buffalo Sabres,5,1,7,13,0,35,5,68,False
+1995,4,1,20,Pittsburgh Penguins,7,1,5,10,3,43,9,158,23,Philadelphia Flyers,7,1,3,5,3,3,8,32,True
+1995,4,2,40,Chicago Blackhawks,6,1,3,6,3,24,6,55,43,Dallas Stars,2,1,2,1,0,0,9,83,False
+1995,4,2,16,Detroit Red Wings,9,1,3,5,2,17,21,190,21,St. Louis Blues,6,1,4,4,2,23,8,61,False
+1995,4,2,44,Mighty Ducks of Anaheim,3,2,1,2,3,13,12,72,41,San Jose Sharks,3,0,1,2,4,14,10,82,True
+1995,4,2,23,Philadelphia Flyers,6,1,2,4,3,30,8,59,10,New York Rangers,3,1,3,4,4,17,6,48,True
+1995,4,2,34,Quebec Nordiques,7,2,4,6,4,15,11,60,2,Ottawa Senators,2,0,0,0,4,36,18,111,True
+1995,4,2,42,Tampa Bay Lightning,4,1,2,4,0,25,6,112,45,Florida Panthers,5,1,4,8,2,7,11,58,False
+1995,4,2,30,Washington Capitals,7,2,6,9,4,20,15,97,6,Boston Bruins,5,0,2,3,3,27,15,117,True
+1995,4,3,22,Los Angeles Kings,4,1,5,12,5,21,29,178,35,Edmonton Oilers,4,1,0,2,3,25,11,92,True
+1995,4,3,2,Ottawa Senators,1,0,5,9,7,32,21,120,0,Montreal Canadiens,4,2,1,2,4,34,21,131,False
+1995,4,3,21,St. Louis Blues,7,1,3,6,1,19,9,68,13,Toronto Maple Leafs,7,1,3,6,3,42,5,74,True
+1995,4,4,26,Buffalo Sabres,6,2,5,8,1,25,6,58,37,Hartford Whalers,7,0,0,0,1,14,12,82,True
+1995,4,4,38,Calgary Flames,6,2,6,10,2,40,6,97,40,Chicago Blackhawks,6,0,1,2,0,0,5,55,True
+1995,4,4,39,New Jersey Devils,7,1,4,9,5,34,7,88,42,Tampa Bay Lightning,4,1,1,2,1,16,9,113,False
+1995,4,4,28,New York Islanders,1,0,1,1,5,31,12,81,30,Washington Capitals,7,2,2,3,1,26,9,71,False
+1995,4,4,25,Vancouver Canucks,5,1,5,8,1,30,2,62,43,Dallas Stars,3,1,2,3,3,34,10,113,False
+1995,4,5,45,Florida Panthers,5,1,4,5,1,27,10,78,10,New York Rangers,2,1,2,4,4,22,6,53,False
+1995,4,5,44,Mighty Ducks of Anaheim,4,1,4,8,3,21,13,84,35,Edmonton Oilers,4,1,3,3,5,25,10,81,True
+1995,4,5,0,Montreal Canadiens,4,2,4,9,4,32,21,129,34,Quebec Nordiques,7,0,7,11,5,25,12,70,True
+1995,4,5,2,Ottawa Senators,1,0,4,6,1,15,12,71,39,New Jersey Devils,6,2,1,2,1,10,2,44,False
+1995,4,5,20,Pittsburgh Penguins,7,1,4,6,2,32,8,147,37,Hartford Whalers,6,1,3,5,5,29,16,97,False
+1995,4,5,41,San Jose Sharks,3,0,4,8,2,4,8,63,16,Detroit Red Wings,8,2,3,3,2,34,22,207,False
+1995,4,5,13,Toronto Maple Leafs,7,0,3,2,2,32,6,61,21,St. Louis Blues,8,2,4,8,2,30,10,79,False
+1995,4,5,36,Winnipeg Jets,1,1,7,10,2,28,17,139,40,Chicago Blackhawks,5,1,2,4,2,24,8,73,True
+1995,4,6,6,Boston Bruins,5,1,0,2,2,15,14,105,26,Buffalo Sabres,6,1,6,8,3,40,8,73,False
+1995,4,6,22,Los Angeles Kings,5,1,6,13,2,31,26,188,43,Dallas Stars,4,1,2,2,2,34,9,113,True
+1995,4,6,23,Philadelphia Flyers,6,2,4,4,2,34,4,65,42,Tampa Bay Lightning,5,0,1,0,1,26,15,140,True
+1995,4,6,34,Quebec Nordiques,6,0,5,10,6,34,13,83,0,Montreal Canadiens,5,2,5,12,5,28,22,125,True
+1995,4,7,38,Calgary Flames,6,1,3,5,2,27,6,84,22,Los Angeles Kings,6,1,3,5,2,9,26,203,True
+1995,4,7,44,Mighty Ducks of Anaheim,4,0,4,7,4,25,13,95,43,Dallas Stars,4,2,2,2,3,33,10,112,False
+1995,4,7,10,New York Rangers,2,0,6,5,0,17,2,48,28,New York Islanders,1,2,4,5,0,7,11,57,False
+1995,4,7,41,San Jose Sharks,3,0,3,7,4,38,10,97,35,Edmonton Oilers,3,2,3,6,4,35,9,91,True
+1995,4,7,13,Toronto Maple Leafs,7,0,5,8,3,13,6,30,16,Detroit Red Wings,8,2,5,9,3,34,22,207,False
+1995,4,7,36,Winnipeg Jets,2,1,3,6,1,37,16,148,25,Vancouver Canucks,4,1,2,4,2,24,3,56,True
+1995,4,8,6,Boston Bruins,5,1,0,2,1,23,13,113,42,Tampa Bay Lightning,5,1,4,6,5,30,19,144,True
+1995,4,8,38,Calgary Flames,7,1,7,13,4,27,7,73,25,Vancouver Canucks,4,1,3,6,7,30,8,62,False
+1995,4,8,37,Hartford Whalers,7,0,8,14,4,34,15,102,26,Buffalo Sabres,6,2,1,4,3,24,11,100,True
+1995,4,8,0,Montreal Canadiens,4,1,3,4,3,35,20,132,20,Pittsburgh Penguins,6,1,4,8,8,49,14,164,True
+1995,4,8,28,New York Islanders,2,2,4,6,3,34,14,84,45,Florida Panthers,4,0,0,0,2,17,14,79,False
+1995,4,8,2,Ottawa Senators,1,0,1,1,4,13,12,90,34,Quebec Nordiques,7,2,3,5,2,34,9,83,False
+1995,4,8,13,Toronto Maple Leafs,6,2,2,5,3,17,7,50,36,Winnipeg Jets,3,0,7,11,4,36,19,147,True
+1995,4,8,30,Washington Capitals,7,0,4,9,4,26,10,86,23,Philadelphia Flyers,6,2,5,7,4,22,8,89,False
+1995,4,9,26,Buffalo Sabres,6,1,2,4,3,21,11,70,6,Boston Bruins,5,1,5,6,1,34,14,142,False
+1995,4,9,40,Chicago Blackhawks,5,0,1,2,4,34,10,83,16,Detroit Red Wings,8,2,4,9,2,23,24,188,False
+1995,4,9,35,Edmonton Oilers,2,1,1,0,3,15,8,61,41,San Jose Sharks,4,1,3,8,0,26,6,85,False
+1995,4,9,37,Hartford Whalers,7,1,4,7,2,33,13,101,42,Tampa Bay Lightning,5,1,1,1,3,19,10,93,False
+1995,4,9,44,Mighty Ducks of Anaheim,4,1,1,1,2,24,11,94,22,Los Angeles Kings,6,1,2,7,2,46,29,219,True
+1995,4,9,39,New Jersey Devils,7,1,2,1,0,21,1,55,10,New York Rangers,2,1,3,6,0,6,4,28,True
+1995,4,9,21,St. Louis Blues,8,1,7,11,4,30,12,79,43,Dallas Stars,4,1,2,4,0,18,7,97,False
+1995,4,10,38,Calgary Flames,6,1,2,3,3,40,5,89,41,San Jose Sharks,4,1,7,8,2,35,8,94,True
+1995,4,10,0,Montreal Canadiens,5,0,2,4,1,32,18,129,39,New Jersey Devils,8,2,2,4,0,32,1,66,True
+1995,4,10,2,Ottawa Senators,0,0,2,4,2,28,14,98,20,Pittsburgh Penguins,5,2,2,2,0,0,8,142,False
+1995,4,11,43,Dallas Stars,5,0,2,5,3,22,9,105,16,Detroit Red Wings,8,2,4,6,3,25,23,191,False
+1995,4,11,20,Pittsburgh Penguins,6,1,4,7,2,27,11,169,30,Washington Capitals,7,1,2,2,2,29,8,84,True
+1995,4,11,21,St. Louis Blues,7,1,2,3,2,10,8,46,36,Winnipeg Jets,3,1,3,6,7,41,19,140,True
+1995,4,11,42,Tampa Bay Lightning,5,2,3,5,0,23,6,100,28,New York Islanders,2,0,3,2,0,0,10,98,True
+1995,4,11,25,Vancouver Canucks,5,2,4,9,2,32,3,64,44,Mighty Ducks of Anaheim,5,0,5,10,1,36,10,106,True
+1995,4,12,6,Boston Bruins,5,1,6,11,1,18,16,122,34,Quebec Nordiques,7,1,1,3,2,23,9,72,False
+1995,4,12,40,Chicago Blackhawks,4,2,2,2,4,28,10,77,41,San Jose Sharks,4,0,3,4,2,11,11,71,False
+1995,4,12,45,Florida Panthers,5,1,2,3,2,37,14,99,28,New York Islanders,2,1,2,4,2,43,15,132,False
+1995,4,12,37,Hartford Whalers,6,2,0,0,2,23,13,91,2,Ottawa Senators,0,0,3,5,4,28,16,98,True
+1995,4,12,22,Los Angeles Kings,5,1,1,2,5,33,32,206,38,Calgary Flames,7,1,8,14,0,3,5,71,False
+1995,4,12,10,New York Rangers,2,2,0,0,4,22,6,47,26,Buffalo Sabres,6,0,5,4,6,34,14,83,True
+1995,4,12,23,Philadelphia Flyers,6,2,3,3,1,27,4,90,0,Montreal Canadiens,5,0,2,4,1,43,18,140,True
+1995,4,12,30,Washington Capitals,6,1,1,2,3,33,10,137,39,New Jersey Devils,7,1,1,2,2,21,3,55,False
+1995,4,13,16,Detroit Red Wings,8,2,3,6,1,26,19,174,41,San Jose Sharks,5,0,3,6,6,29,11,91,True
+1995,4,13,44,Mighty Ducks of Anaheim,5,1,0,0,5,37,14,107,38,Calgary Flames,8,1,4,7,3,19,5,86,True
+1995,4,13,25,Vancouver Canucks,5,2,5,9,0,25,1,57,35,Edmonton Oilers,1,0,2,2,2,11,10,69,False
+1995,4,13,36,Winnipeg Jets,3,0,5,9,2,12,14,105,21,St. Louis Blues,8,2,7,10,1,17,11,70,True
+1995,4,14,40,Chicago Blackhawks,3,0,2,4,3,14,9,63,16,Detroit Red Wings,9,2,4,6,1,25,18,180,False
+1995,4,14,37,Hartford Whalers,7,2,4,7,2,31,13,99,0,Montreal Canadiens,5,0,2,1,3,29,20,126,True
+1995,4,14,39,New Jersey Devils,7,1,2,4,0,16,2,57,28,New York Islanders,2,1,3,4,1,39,15,117,True
+1995,4,14,10,New York Rangers,3,1,3,6,1,23,3,48,6,Boston Bruins,5,1,1,0,5,27,21,118,True
+1995,4,14,23,Philadelphia Flyers,6,2,3,3,1,16,9,76,42,Tampa Bay Lightning,5,0,5,8,2,31,8,108,True
+1995,4,14,34,Quebec Nordiques,7,0,4,9,0,36,7,85,26,Buffalo Sabres,6,2,1,3,2,34,10,83,True
+1995,4,14,13,Toronto Maple Leafs,6,1,4,5,3,41,7,74,43,Dallas Stars,5,1,2,1,2,26,10,106,True
+1995,4,14,30,Washington Capitals,5,1,1,1,2,25,9,129,45,Florida Panthers,4,1,1,1,5,28,14,85,True
+1995,4,15,35,Edmonton Oilers,1,1,6,7,5,23,12,92,38,Calgary Flames,7,1,2,4,3,33,5,100,False
+1995,4,15,44,Mighty Ducks of Anaheim,5,0,4,6,2,36,11,106,25,Vancouver Canucks,5,2,4,6,5,21,6,31,False
+1995,4,15,0,Montreal Canadiens,5,0,3,6,4,45,21,142,6,Boston Bruins,5,2,3,6,2,17,17,99,False
+1995,4,15,20,Pittsburgh Penguins,7,2,3,6,2,39,10,172,2,Ottawa Senators,0,0,2,2,1,28,13,118,True
+1995,4,15,36,Winnipeg Jets,4,0,5,8,2,32,14,125,13,Toronto Maple Leafs,6,2,2,3,4,33,5,56,True
+1995,4,16,26,Buffalo Sabres,5,1,2,4,5,33,13,82,2,Ottawa Senators,0,1,2,2,4,48,17,137,True
+1995,4,16,43,Dallas Stars,4,2,1,2,2,30,10,110,40,Chicago Blackhawks,2,0,1,1,2,22,8,71,True
+1995,4,16,45,Florida Panthers,4,2,0,0,2,34,11,91,42,Tampa Bay Lightning,5,0,2,4,3,24,9,101,True
+1995,4,16,39,New Jersey Devils,8,1,6,8,3,5,4,36,37,Hartford Whalers,7,1,4,7,3,23,14,91,True
+1995,4,16,28,New York Islanders,2,2,3,7,5,36,19,114,10,New York Rangers,4,0,5,9,3,33,5,58,False
+1995,4,16,23,Philadelphia Flyers,7,1,3,6,2,16,8,69,20,Pittsburgh Penguins,7,1,5,8,2,27,10,160,True
+1995,4,16,34,Quebec Nordiques,7,0,5,10,2,29,9,78,30,Washington Capitals,5,2,3,6,2,23,5,106,True
+1995,4,16,41,San Jose Sharks,4,1,0,0,2,31,8,103,22,Los Angeles Kings,4,1,4,2,4,29,31,202,True
+1995,4,16,21,St. Louis Blues,8,1,2,3,3,15,10,44,16,Detroit Red Wings,9,1,3,4,0,12,17,200,True
+1995,4,17,38,Calgary Flames,7,2,4,5,1,32,10,111,22,Los Angeles Kings,4,0,0,0,7,40,29,194,True
+1995,4,17,40,Chicago Blackhawks,1,1,0,0,2,39,8,88,13,Toronto Maple Leafs,6,1,1,2,5,24,6,47,False
+1995,4,17,43,Dallas Stars,5,1,2,4,0,24,8,104,25,Vancouver Canucks,6,1,3,6,1,29,2,39,False
+1995,4,17,44,Mighty Ducks of Anaheim,5,2,1,2,3,38,12,108,41,San Jose Sharks,5,0,2,4,0,22,6,94,True
+1995,4,17,0,Montreal Canadiens,4,1,2,4,3,31,20,128,30,Washington Capitals,5,1,2,4,0,16,7,104,True
+1995,4,17,36,Winnipeg Jets,5,1,5,7,1,46,13,139,35,Edmonton Oilers,1,1,2,5,3,29,10,98,False
+1995,4,18,26,Buffalo Sabres,6,1,2,6,1,25,2,50,37,Hartford Whalers,6,1,2,3,3,41,14,109,False
+1995,4,18,45,Florida Panthers,5,1,4,7,1,25,10,82,23,Philadelphia Flyers,7,1,4,7,3,16,9,69,False
+1995,4,18,28,New York Islanders,2,0,2,3,5,34,16,104,34,Quebec Nordiques,7,2,4,5,2,26,9,75,True
+1995,4,18,20,Pittsburgh Penguins,6,2,3,5,4,27,12,160,10,New York Rangers,5,0,3,4,2,20,4,45,True
+1995,4,18,21,St. Louis Blues,8,1,6,7,4,23,10,52,25,Vancouver Canucks,7,1,2,4,1,10,3,37,True
+1995,4,18,42,Tampa Bay Lightning,4,2,1,0,2,8,10,100,39,New Jersey Devils,8,0,3,5,0,13,3,55,True
+1995,4,19,6,Boston Bruins,5,1,3,3,2,27,15,122,26,Buffalo Sabres,5,1,0,3,2,27,3,52,True
+1995,4,19,40,Chicago Blackhawks,0,1,1,2,2,22,8,71,21,St. Louis Blues,8,1,4,6,1,28,7,57,False
+1995,4,19,43,Dallas Stars,5,0,2,3,1,30,10,118,41,San Jose Sharks,4,2,0,0,2,31,8,103,False
+1995,4,19,16,Detroit Red Wings,8,2,5,9,6,23,28,194,36,Winnipeg Jets,5,0,5,8,6,29,14,100,False
+1995,4,19,35,Edmonton Oilers,2,0,6,10,5,34,12,103,22,Los Angeles Kings,3,2,3,4,0,16,24,167,True
+1995,4,19,0,Montreal Canadiens,5,2,5,7,2,32,19,129,2,Ottawa Senators,0,0,1,1,2,34,14,115,True
+1995,4,19,13,Toronto Maple Leafs,6,2,3,6,1,29,2,52,44,Mighty Ducks of Anaheim,6,0,3,4,0,27,9,97,True
+1995,4,20,45,Florida Panthers,4,0,1,2,2,23,12,87,39,New Jersey Devils,7,2,2,5,2,24,6,64,True
+1995,4,20,10,New York Rangers,5,1,5,10,2,25,8,53,37,Hartford Whalers,6,1,2,4,1,33,12,101,True
+1995,4,20,2,Ottawa Senators,0,0,1,2,0,5,11,71,6,Boston Bruins,5,2,4,7,1,19,14,99,False
+1995,4,20,23,Philadelphia Flyers,7,0,3,5,1,17,7,70,28,New York Islanders,3,2,4,8,2,42,13,112,True
+1995,4,20,42,Tampa Bay Lightning,5,1,3,5,2,35,10,127,34,Quebec Nordiques,7,1,1,4,5,38,12,87,True
+1995,4,20,25,Vancouver Canucks,6,1,1,2,2,27,6,50,38,Calgary Flames,7,1,5,8,2,33,10,113,False
+1995,4,21,40,Chicago Blackhawks,0,1,2,3,2,21,8,70,36,Winnipeg Jets,6,1,4,10,5,50,13,121,False
+1995,4,21,16,Detroit Red Wings,7,2,5,9,1,31,22,194,44,Mighty Ducks of Anaheim,5,0,2,4,3,32,12,112,True
+1995,4,21,22,Los Angeles Kings,2,1,0,0,1,27,25,178,35,Edmonton Oilers,3,1,2,2,0,28,7,97,False
+1995,4,21,21,St. Louis Blues,8,2,2,4,1,13,6,38,13,Toronto Maple Leafs,6,0,3,6,1,23,3,57,True
+1995,4,21,30,Washington Capitals,5,1,2,4,4,28,13,114,37,Hartford Whalers,5,1,2,3,3,40,14,108,True
+1995,4,22,43,Dallas Stars,5,0,5,6,3,16,12,74,13,Toronto Maple Leafs,5,2,1,2,2,34,5,65,True
+1995,4,22,45,Florida Panthers,5,0,1,2,3,30,10,81,34,Quebec Nordiques,6,2,3,4,4,29,11,78,True
+1995,4,22,0,Montreal Canadiens,6,0,4,7,1,30,18,127,42,Tampa Bay Lightning,5,2,5,7,2,30,10,122,True
+1995,4,22,39,New Jersey Devils,6,1,0,2,1,23,5,63,23,Philadelphia Flyers,8,1,2,4,2,20,7,82,False
+1995,4,22,28,New York Islanders,3,0,2,3,2,38,13,120,2,Ottawa Senators,0,2,5,8,4,32,21,107,False
+1995,4,22,20,Pittsburgh Penguins,6,2,6,11,5,34,13,167,30,Washington Capitals,5,0,6,11,3,29,10,109,False
+1995,4,22,25,Vancouver Canucks,5,1,2,3,2,28,6,51,35,Edmonton Oilers,4,1,3,5,3,34,10,103,True
+1995,4,23,6,Boston Bruins,5,0,6,8,3,7,18,117,10,New York Rangers,6,2,3,6,2,27,8,55,True
+1995,4,23,26,Buffalo Sabres,4,0,2,2,4,44,8,78,23,Philadelphia Flyers,9,2,4,7,1,29,8,83,True
+1995,4,23,43,Dallas Stars,5,1,6,10,1,27,9,73,36,Winnipeg Jets,7,1,2,4,1,24,9,95,True
+1995,4,23,37,Hartford Whalers,5,2,2,6,4,20,16,85,20,Pittsburgh Penguins,6,0,1,2,2,28,10,161,False
+1995,4,23,22,Los Angeles Kings,2,1,3,5,3,25,27,176,44,Mighty Ducks of Anaheim,5,1,5,7,4,9,12,72,False
+1995,4,23,41,San Jose Sharks,5,0,5,8,5,46,11,118,16,Detroit Red Wings,7,2,6,11,5,28,30,209,False
+1995,4,23,21,St. Louis Blues,8,2,3,6,1,28,6,53,40,Chicago Blackhawks,0,0,1,2,2,20,8,69,False
+1995,4,24,44,Mighty Ducks of Anaheim,5,2,2,4,2,26,10,89,38,Calgary Flames,8,0,2,5,2,30,7,93,True
+1995,4,24,0,Montreal Canadiens,6,0,3,5,1,32,18,129,37,Hartford Whalers,5,2,2,5,3,24,15,89,False
+1995,4,24,28,New York Islanders,3,0,2,2,3,25,17,121,6,Boston Bruins,6,2,5,7,2,28,15,131,True
+1995,4,24,10,New York Rangers,5,0,4,6,6,28,11,56,30,Washington Capitals,5,2,2,4,3,24,8,101,True
+1995,4,24,2,Ottawa Senators,1,0,3,3,2,26,16,87,45,Florida Panthers,5,2,3,7,1,12,9,50,False
+1995,4,24,42,Tampa Bay Lightning,5,1,1,2,3,32,11,124,26,Buffalo Sabres,4,1,4,7,2,22,5,64,False
+1995,4,25,40,Chicago Blackhawks,1,2,2,4,2,36,8,85,25,Vancouver Canucks,5,0,5,10,1,38,5,61,True
+1995,4,25,43,Dallas Stars,5,1,5,8,2,42,10,88,21,St. Louis Blues,7,1,2,2,2,35,7,60,False
+1995,4,25,22,Los Angeles Kings,2,1,2,5,4,18,26,184,16,Detroit Red Wings,8,1,5,6,5,38,26,195,True
+1995,4,25,41,San Jose Sharks,5,1,1,2,5,36,11,108,38,Calgary Flames,7,1,1,3,2,27,7,90,False
+1995,4,25,36,Winnipeg Jets,6,1,3,3,5,32,13,103,35,Edmonton Oilers,4,1,0,3,6,32,13,101,False
+1995,4,26,6,Boston Bruins,6,1,4,6,5,28,20,127,37,Hartford Whalers,5,1,4,5,3,30,15,95,True
+1995,4,26,26,Buffalo Sabres,4,2,3,3,1,24,4,66,45,Florida Panthers,6,0,5,4,1,33,9,71,True
+1995,4,26,44,Mighty Ducks of Anaheim,5,2,2,4,1,34,9,97,41,San Jose Sharks,5,0,2,4,3,36,9,108,False
+1995,4,26,39,New Jersey Devils,5,0,3,4,3,22,8,63,20,Pittsburgh Penguins,6,2,4,6,0,32,10,169,False
+1995,4,26,10,New York Rangers,6,2,5,10,5,28,9,63,42,Tampa Bay Lightning,4,0,1,2,2,28,10,120,True
+1995,4,26,23,Philadelphia Flyers,9,1,2,4,4,42,11,104,2,Ottawa Senators,1,1,1,2,4,33,18,94,False
+1995,4,26,34,Quebec Nordiques,6,1,2,2,1,17,11,72,0,Montreal Canadiens,5,1,3,5,4,28,21,125,False
+1995,4,26,13,Toronto Maple Leafs,4,1,4,7,6,34,9,65,25,Vancouver Canucks,5,1,4,6,4,34,8,57,True
+1995,4,26,30,Washington Capitals,4,2,4,8,3,10,9,90,28,New York Islanders,4,0,4,9,3,33,17,110,True
+1995,4,27,40,Chicago Blackhawks,2,0,4,8,3,23,9,72,43,Dallas Stars,5,2,4,7,6,26,13,66,True
+1995,4,27,35,Edmonton Oilers,5,1,6,10,3,38,10,107,21,St. Louis Blues,7,1,7,11,4,31,9,56,True
+1995,4,27,2,Ottawa Senators,2,1,5,7,2,28,16,89,42,Tampa Bay Lightning,4,1,4,3,1,13,9,116,True
+1995,4,27,36,Winnipeg Jets,5,1,3,4,0,4,13,101,16,Detroit Red Wings,7,1,1,2,1,14,26,188,True
+1995,4,28,37,Hartford Whalers,4,1,0,0,1,34,13,99,23,Philadelphia Flyers,8,1,2,5,4,23,14,80,False
+1995,4,28,39,New Jersey Devils,5,1,2,4,1,15,4,48,45,Florida Panthers,5,1,1,0,5,19,13,57,True
+1995,4,28,10,New York Rangers,6,1,6,10,3,18,4,41,28,New York Islanders,3,1,4,7,6,28,19,111,False
+1995,4,28,20,Pittsburgh Penguins,6,2,3,5,2,36,13,171,6,Boston Bruins,7,0,1,3,0,22,14,126,True
+1995,4,28,41,San Jose Sharks,5,1,5,9,2,37,8,109,22,Los Angeles Kings,2,1,5,9,1,31,23,197,True
+1995,4,28,25,Vancouver Canucks,5,1,2,3,5,41,9,64,21,St. Louis Blues,6,1,3,4,1,10,8,61,True
+1995,4,28,30,Washington Capitals,4,0,6,13,5,29,10,110,26,Buffalo Sabres,4,2,5,6,0,31,3,73,True
+1995,4,29,38,Calgary Flames,7,1,3,4,2,29,10,110,13,Toronto Maple Leafs,5,1,5,9,2,34,5,65,False
+1995,4,29,16,Detroit Red Wings,6,2,3,6,5,36,29,199,43,Dallas Stars,4,0,1,2,2,5,12,71,True
+1995,4,29,35,Edmonton Oilers,6,2,3,6,4,34,9,101,36,Winnipeg Jets,5,0,4,8,3,35,16,132,False
+1995,4,29,0,Montreal Canadiens,6,0,1,1,1,35,18,132,26,Buffalo Sabres,4,2,1,2,5,27,8,69,False
+1995,4,29,2,Ottawa Senators,3,2,5,9,6,38,13,83,28,New York Islanders,4,0,4,6,3,26,15,130,True
+1995,4,29,34,Quebec Nordiques,5,1,1,2,1,39,11,94,42,Tampa Bay Lightning,4,1,1,2,3,14,10,91,True
+1995,4,30,6,Boston Bruins,6,0,1,2,0,1,16,126,20,Pittsburgh Penguins,7,2,4,7,3,34,12,169,True
+1995,4,30,16,Detroit Red Wings,6,2,2,6,4,25,26,193,40,Chicago Blackhawks,3,0,5,9,1,23,7,72,False
+1995,4,30,45,Florida Panthers,5,1,1,1,3,23,11,61,30,Washington Capitals,5,1,5,8,1,20,6,98,False
+1995,4,30,22,Los Angeles Kings,1,0,0,0,2,33,25,196,44,Mighty Ducks of Anaheim,5,2,2,4,2,25,13,85,True
+1995,4,30,39,New Jersey Devils,5,0,3,4,1,20,4,53,34,Quebec Nordiques,6,2,4,6,1,29,11,84,True
+1995,4,30,23,Philadelphia Flyers,8,2,4,5,3,21,9,105,10,New York Rangers,6,0,2,3,1,23,4,48,False
+1995,4,30,41,San Jose Sharks,5,0,4,5,0,29,6,101,21,St. Louis Blues,6,2,1,2,3,31,10,82,False
+1995,4,30,25,Vancouver Canucks,5,1,3,5,1,29,5,52,38,Calgary Flames,6,1,1,2,0,3,10,104,True
+1995,5,1,6,Boston Bruins,6,2,5,7,4,29,18,144,2,Ottawa Senators,4,0,4,4,1,29,12,92,True
+1995,5,1,26,Buffalo Sabres,5,2,3,6,3,32,5,73,0,Montreal Canadiens,5,0,3,6,3,39,20,136,True
+1995,5,1,40,Chicago Blackhawks,4,0,4,5,0,27,6,76,36,Winnipeg Jets,6,2,5,8,1,29,14,126,True
+1995,5,1,35,Edmonton Oilers,6,1,1,2,0,0,10,94,13,Toronto Maple Leafs,6,1,2,3,2,24,5,55,False
+1995,5,1,44,Mighty Ducks of Anaheim,4,0,1,2,0,15,8,71,21,St. Louis Blues,6,2,4,8,3,28,10,79,False
+1995,5,1,41,San Jose Sharks,5,2,3,6,4,23,10,95,43,Dallas Stars,3,0,2,2,2,8,13,92,True
+1995,5,2,28,New York Islanders,4,1,2,2,4,27,16,131,23,Philadelphia Flyers,7,1,0,0,2,32,8,116,False
+1995,5,2,10,New York Rangers,7,1,2,2,0,24,3,49,45,Florida Panthers,4,1,2,3,2,23,10,61,False
+1995,5,2,36,Winnipeg Jets,6,1,2,4,5,27,16,119,22,Los Angeles Kings,2,1,2,3,3,30,24,195,False
+1995,5,2,30,Washington Capitals,6,1,2,1,2,22,11,108,20,Pittsburgh Penguins,7,1,2,4,1,34,14,176,True
+1995,5,3,26,Buffalo Sabres,6,1,1,3,1,9,2,73,39,New Jersey Devils,5,1,4,8,2,15,5,64,True
+1995,5,3,38,Calgary Flames,6,2,5,7,2,36,15,140,35,Edmonton Oilers,6,0,4,8,2,19,11,101,True
+1995,5,3,40,Chicago Blackhawks,5,1,3,3,2,28,8,77,22,Los Angeles Kings,3,1,2,3,1,32,25,223,True
+1995,5,3,44,Mighty Ducks of Anaheim,4,0,3,4,4,25,12,81,13,Toronto Maple Leafs,7,2,6,11,3,31,8,76,True
+1995,5,3,0,Montreal Canadiens,4,0,0,0,2,29,19,126,6,Boston Bruins,7,2,5,8,4,21,18,136,False
+1995,5,3,20,Pittsburgh Penguins,6,1,2,4,7,30,20,172,45,Florida Panthers,5,1,4,5,3,34,11,72,False
+1995,5,3,34,Quebec Nordiques,5,1,2,3,3,23,11,75,37,Hartford Whalers,4,1,4,6,4,25,16,90,True
+1995,5,3,41,San Jose Sharks,5,1,3,4,1,38,7,110,25,Vancouver Canucks,5,1,6,8,4,23,8,40,False
+1995,5,3,21,St. Louis Blues,7,2,5,5,3,22,10,73,16,Detroit Red Wings,5,0,1,2,4,22,23,176,False
+1995,5,3,42,Tampa Bay Lightning,3,1,1,2,4,21,11,98,2,Ottawa Senators,4,1,4,8,5,43,16,106,False
