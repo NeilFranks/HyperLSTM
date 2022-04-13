@@ -31,8 +31,6 @@ def main(*args):
         batch_size=batch_size
     )
 
-    model.cuda()
-
     pl.seed_everything(42, workers=True)
     trainer = pl.Trainer(deterministic=True)
     trainer.fit(

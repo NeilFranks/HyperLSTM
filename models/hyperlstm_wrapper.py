@@ -20,13 +20,13 @@ class HyperLSTMWrapper(SequenceWrapper):
 
     def forward(self, x):
         # in lightning, forward defines the prediction/inference actions
-        x = torch.permute(x, (2, 0, 1))
         seq, state = self.hyper_lstm(x, None)
         return F.relu(self.l0(seq)), state
 
     def compute_loss(self, batch):
-        ''' Loss for parity task '''
         x, y = batch
-        yh, _ = self(x.float())
-        yh = yh[0, :, :]
-        return F.cross_entropy(yh, torch.squeeze(y))
+        y_hat, _ = self(x.float())
+        return F.binary_cross_entropy(
+            torch.squeeze(y_hat).type(torch.FloatTensor),
+            torch.squeeze(y).type(torch.FloatTensor)
+        )
