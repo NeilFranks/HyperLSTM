@@ -28,6 +28,7 @@ def main(*args):
     output_size = 1
     n_z = full_dataset[0][0].shape[1]
     n_layers = 10
+    # batch size has to be 1 because sequences are different lengths (maybe theres another way to fix this)
     batch_size = 1
 
     model = HyperLSTMWrapper(
@@ -40,7 +41,7 @@ def main(*args):
         batch_size=batch_size
     )
 
-    trainer = pl.Trainer()
+    trainer = pl.Trainer(accelerator="gpu")
     trainer.fit(
         model,
         DataLoader(train_dataset, batch_size=batch_size, num_workers=4),

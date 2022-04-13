@@ -48,7 +48,7 @@ class HockeyDataset(Dataset):
                 SUB_SEQUENCE_MIN_LENGTH, SUB_SEQUENCE_MAX_LENGTH
             )
 
-            while end_index < len(sequence):
+            while end_index < len(sequence)-1:
                 self.sub_sequences.append(sequence[start_index:end_index])
                 start_index = end_index
                 end_index = start_index + random.randrange(
