@@ -1,8 +1,8 @@
 import torch
-from torch import nn
 import torch.nn.functional as F
 import pytorch_lightning as pl
 from .sam import SAM
+
 
 class SequenceWrapper(pl.LightningModule):
     def __init__(self):
