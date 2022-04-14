@@ -102,14 +102,14 @@ class HockeyDataset(Dataset):
 
             # update x and y sequences
             if x_sequence is None:
-                x_sequence = x
+                x_sequence = torch.unsqueeze(x, dim=0)
             else:
                 x_sequence = torch.vstack(
                     (x_sequence, x)
                 )
 
             if y_sequence is None:
-                y_sequence = y
+                y_sequence = torch.unsqueeze(y, dim=0)
             else:
                 y_sequence = torch.vstack(
                     (y_sequence, y)
