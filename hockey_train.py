@@ -80,7 +80,7 @@ def main(*args):
     )
 
     trainer = pl.Trainer(
-        accelerator="gpu",
+        accelerator='cpu',
         max_steps=10,
         callbacks=[CheckpointEveryNSteps(save_step_frequency=500)]
     )
