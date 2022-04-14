@@ -87,7 +87,8 @@ def main(*args):
     trainer.fit(
         model,
         DataLoader(train_dataset, batch_size=batch_size, num_workers=4),
-        DataLoader(validation_dataset, batch_size=batch_size, num_workers=4)
+        DataLoader(validation_dataset, batch_size=batch_size, num_workers=4),
+        # ckpt_path="lightning_logs/version_21/checkpoints/N-Step-Checkpoint_epoch=3_global_step=0.ckpt"
     )
 
 
