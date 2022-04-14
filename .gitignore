@@ -153,3 +153,5 @@ cython_debug/
 
 MNIST
 lightning_logs
+csv_data
+plots
