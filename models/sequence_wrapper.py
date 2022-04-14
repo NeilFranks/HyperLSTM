@@ -30,6 +30,10 @@ class SequenceWrapper(pl.LightningModule):
         optimizer.second_step(zero_grad=True)
         return loss0
 
+    def validation_step(self, batch, batch_idx):
+        loss = self.compute_loss(batch)
+        return loss
+
     def configure_optimizers(self):
         optimizer = SAM(self.parameters(), torch.optim.Adam, rho=0.05,
                         adaptive=False, lr=3e-4)
