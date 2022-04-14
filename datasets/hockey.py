@@ -1,9 +1,10 @@
-from operator import sub
 import random
 
 import pandas as pd
 import torch
 from torch.utils.data import Dataset
+
+random.seed(505)
 
 
 class HockeyDataset(Dataset):

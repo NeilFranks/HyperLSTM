@@ -25,20 +25,28 @@ class SequenceWrapper(pl.LightningModule):
         # From SAM example: https://github.com/davda54/sam
         optimizer = self.optimizers()
         loss0 = self.compute_loss(batch)
-        self.manual_backward(loss0)
-        optimizer.first_step(zero_grad=True)
+        # self.manual_backward(loss0)
+        # optimizer.first_step(zero_grad=True)
+
+        optimizer.zero_grad()
+        torch.set_grad_enabled(True)
+        loss0.backward()
+        optimizer.step()
         self.log("train_loss", loss0)
 
-        loss1 = self.compute_loss(batch)
-        self.manual_backward(loss1)
-        optimizer.second_step(zero_grad=True)
+        # loss1 = self.compute_loss(batch)
+        # self.manual_backward(loss1)
+        # optimizer.second_step(zero_grad=True)
         return loss0
 
     def validation_step(self, batch, batch_idx):
         return self.compute_loss(batch)
 
     def configure_optimizers(self):
-        optimizer = SAM(self.parameters(), torch.optim.Adam, rho=0.05,
-                        adaptive=False, lr=self.lr)
-        # optimizer = torch.optim.Adam(self.parameters(), lr=self.lr)
+        # optimizer = SAM(self.parameters(), torch.optim.Adam, rho=0.05,
+        #                 adaptive=False, lr=self.lr)
+        optimizer = torch.optim.Adam(
+            self.parameters(),
+            lr=0.0001
+        )
         return optimizer

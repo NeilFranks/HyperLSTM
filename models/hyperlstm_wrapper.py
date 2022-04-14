@@ -15,7 +15,7 @@ class HyperLSTMWrapper(SequenceWrapper):
             n_z,
             n_layers
         )
-        self.l0 = nn.LazyLinear(output_size)
+        self.l0 = nn.Linear(hidden_size, output_size)
         self.automatic_optimization = False
 
     def forward(self, x):
