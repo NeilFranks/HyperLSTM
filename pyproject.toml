@@ -17,6 +17,7 @@ lxml = "^4.8.0"
 pandas = "^1.4.2"
 labml = "^0.4.147"
 labml-nn = "^0.4.120"
+plotly = "^5.7.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "==6.2.5"

@@ -56,7 +56,7 @@ def main(*args):
     train_dataset, validation_dataset, _ = random_split(
         full_dataset,
         # [TRAINING_SIZE, len(full_dataset)-TRAINING_SIZE]
-        [1, 1, len(full_dataset) - 2]
+        [10, 5, len(full_dataset) - 15]
     )
 
     # we now have datasets pointing to varying-length sequences of games
@@ -67,7 +67,7 @@ def main(*args):
     hyper_size = hidden_size // 2
     output_size = 1
     n_z = full_dataset[0][0].shape[1]
-    n_layers = 1
+    n_layers = 3
     # batch size has to be 1 because sequences are different lengths (maybe theres another way to fix this)
     batch_size = 1
 
@@ -81,15 +81,22 @@ def main(*args):
         batch_size=batch_size
     )
 
-    csv_logger = CSVLogger('csv_data', name='hockey', flush_logs_every_n_steps=1)
+    csv_logger = CSVLogger(
+        'csv_data',
+        name='hockey',
+        flush_logs_every_n_steps=1
+    )
 
+    pl.seed_everything(414, workers=True)
     trainer = pl.Trainer(
-        accelerator='cpu',
+        accelerator='gpu',
         log_every_n_steps=1,
         max_steps=1000,
         logger=csv_logger,
-        callbacks=[CheckpointEveryNSteps(save_step_frequency=1)]
+        callbacks=[CheckpointEveryNSteps(save_step_frequency=1000)]
+        # auto_lr_find=True
     )
+
     trainer.fit(
         model,
         DataLoader(train_dataset, batch_size=batch_size, num_workers=4),
