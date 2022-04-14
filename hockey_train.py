@@ -53,10 +53,11 @@ def main(*args):
     # split dataset into train and test
     TRAINING_SIZE = int(0.7*len(full_dataset))
 
+    k = 20
     train_dataset, validation_dataset, _ = random_split(
         full_dataset,
         # [TRAINING_SIZE, len(full_dataset)-TRAINING_SIZE]
-        [1, 1, len(full_dataset) - 2]
+        [k, 1, len(full_dataset) - 1 - k]
     )
 
     # we now have datasets pointing to varying-length sequences of games
@@ -71,13 +72,19 @@ def main(*args):
     # batch size has to be 1 because sequences are different lengths (maybe theres another way to fix this)
     batch_size = 1
 
-    model = HyperLSTMWrapper(
+    # model = HyperLSTMWrapper(
+    #     input_size=input_size,
+    #     output_size=output_size,
+    #     hidden_size=hidden_size,
+    #     hyper_size=hyper_size,
+    #     n_z=n_z,
+    #     n_layers=n_layers,
+    #     batch_size=batch_size
+    # )
+    model = LSTMWrapper(
         input_size=input_size,
         output_size=output_size,
         hidden_size=hidden_size,
-        hyper_size=hyper_size,
-        n_z=n_z,
-        n_layers=n_layers,
         batch_size=batch_size
     )
 

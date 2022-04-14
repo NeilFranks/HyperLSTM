@@ -15,18 +15,11 @@ class HyperLSTMWrapper(SequenceWrapper):
             n_z,
             n_layers
         )
-        self.l0 = nn.Linear(hidden_size, output_size)
-        # self.automatic_optimization = False
+        self.l0 = nn.LazyLinear(output_size)
+        self.automatic_optimization = False
 
     def forward(self, x):
         # in lightning, forward defines the prediction/inference actions
         seq, state = self.hyper_lstm(x, None)
         return F.relu(self.l0(seq)), state
 
-    def compute_loss(self, batch):
-        x, y = batch
-        y_hat, _ = self(x.float())
-        return F.binary_cross_entropy_with_logits(
-            torch.squeeze(y_hat).type(torch.FloatTensor),
-            torch.squeeze(y).type(torch.FloatTensor)
-        )

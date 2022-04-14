@@ -7,24 +7,22 @@ from .sam import SAM
 class SequenceWrapper(pl.LightningModule):
     def __init__(self):
         super().__init__()
-        # self.automatic_optimization = False
-        # self.lr = 3e-4
-        self.lr = 1e-2
+        self.automatic_optimization = False
+        self.lr = 3e-4
 
     def forward(self, x):
         raise NotImplementedError('Define in derived class')
 
     def compute_loss(self, batch):
         x, y = batch
-        yh, _ = self(x.float())
-        return F.cross_entropy(yh, y)
+        y_hat, _ = self(x.float())
+        return F.binary_cross_entropy_with_logits(
+            torch.squeeze(y_hat).type(torch.FloatTensor),
+            torch.squeeze(y).type(torch.FloatTensor)
+        )
 
     def training_step(self, batch, batch_idx):
         # From SAM example: https://github.com/davda54/sam
-        loss = self.compute_loss(batch)
-        self.log("train_loss", loss)
-        return loss
-        1/0
         optimizer = self.optimizers()
         loss0 = self.compute_loss(batch)
         self.manual_backward(loss0)
@@ -40,7 +38,7 @@ class SequenceWrapper(pl.LightningModule):
         return self.compute_loss(batch)
 
     def configure_optimizers(self):
-        # optimizer = SAM(self.parameters(), torch.optim.Adam, rho=0.05,
-        #                 adaptive=False, lr=self.lr)
-        optimizer = torch.optim.Adam(self.parameters(), lr=self.lr)
+        optimizer = SAM(self.parameters(), torch.optim.Adam, rho=0.05,
+                        adaptive=False, lr=self.lr)
+        # optimizer = torch.optim.Adam(self.parameters(), lr=self.lr)
         return optimizer
