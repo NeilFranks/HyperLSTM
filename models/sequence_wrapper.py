@@ -7,11 +7,17 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 
 class SequenceWrapper(pl.LightningModule):
-    def __init__(self):
+    def __init__(self, seed, train_p, batch_size):
         super().__init__()
         # self.automatic_optimization = False
         # self.lr = 3e-4
+
         self.last_loss = None
+
+        self.logged_seed_and_co = False
+        self.seed = seed
+        self.train_p = train_p
+        self.batch_size = batch_size
 
     def forward(self, x):
         raise NotImplementedError('Define in derived class')
@@ -38,7 +44,17 @@ class SequenceWrapper(pl.LightningModule):
     #         torch.squeeze(y).type(torch.FloatTensor)
     #     )
 
+    def log_seed_trainp_batchsize(self):
+        self.log("seed", self.seed)
+        self.log("train_p", self.train_p)
+        self.log("batch_size", self.batch_size)
+
+        self.logged_seed_and_co = True
+
     def training_step(self, batch, batch_idx):
+        if not self.logged_seed_and_co:
+            self.log_seed_trainp_batchsize()
+
         # This is the default loss code
         loss = self.compute_loss(batch)
         self.log("train_loss", loss)

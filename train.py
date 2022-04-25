@@ -41,8 +41,8 @@ def main(seed, *args):
         features,
         pad_length=20,
         # only get games which occured from 1950 to 1960
-        restrict_to_years=[e-1918 for e in range(1950, 1960)]
-        # restrict_to_years=[e-1918 for e in range(2010, 2023)]
+        # restrict_to_years=[e-1918 for e in range(1950, 1960)]
+        restrict_to_years=[e-1918 for e in range(2010, 2023)]
     )
     # full_dataset = PCAHockeyDataset("data/standardized_data.csv", pad_length=20,
     #         n_components=32)
@@ -51,12 +51,12 @@ def main(seed, *args):
 
     # split dataset into train and test
     l = len(full_dataset)
-    # train_p = int(0.8*l)          # (80%)
-    # val_p = int(0.1*l)          # (10%)
+    train_p = int(0.8*l)          # (80%)
+    val_p = int(0.1*l)          # (10%)
 
     # Hacky mode where we overfit a batch
-    train_p = 128
-    val_p = 128
+    # train_p = 128
+    # val_p = 128
     test_p = l - train_p - val_p  # (last ~10%)
 
     # k = 20
@@ -77,7 +77,7 @@ def main(seed, *args):
     n_z = full_dataset[0][0].shape[1]
     n_layers = 1
     # batch_size = 128  # Really helps with stability, trust me :)
-    batch_size = 64  # Really helps with stability, trust me :)
+    batch_size = 32  # Really helps with stability, trust me :)
 
     model = HyperLSTMWrapper(
         input_size=input_size,
@@ -86,6 +86,9 @@ def main(seed, *args):
         hyper_size=hyper_size,
         n_z=n_z,
         n_layers=n_layers,
+
+        seed=seed,
+        train_p=train_p,
         batch_size=batch_size
     )
 
@@ -140,12 +143,14 @@ if __name__ == '__main__':
     # main(None, sys.argv[1:])
 
     # Train with global seeds
-    # NOTE: will start on version 133
+    # NOTE: will start on version 143
+    seed = 5187
     for i in range(10):
-        # fight randomness with randomness....
-        seed = random.randrange(0, 6666)
         print(f"\n\n\tUsing global seed {seed}\n\n")
         try:
-            main(i, sys.argv[1:])
+            main(seed, sys.argv[1:])
         except:
-            print(f"\n\n\t{i} is no good for a seed\n\n")
+            print(f"\n\n\t{seed} is no good for a seed\n\n")
+        
+        # fight randomness with randomness....
+        seed = random.randrange(0, 6666)
