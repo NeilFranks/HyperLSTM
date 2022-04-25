@@ -26,7 +26,7 @@ def pad_and_add_channel(t, length, axis=0, channel_axis=1, index=None):
         background[:original, -1] = torch.ones(original)
     return background
 
-class MinimalHockeyDataset(Dataset):
+class HockeyDataset(Dataset):
     def __init__(self, file_name, features, pad_length=20):
         self.pad_length=pad_length
 

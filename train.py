@@ -25,8 +25,7 @@ features = [
 ]
 
 def main(*args):
-    # full_dataset = HockeyDataset("data/standardized_data.csv")
-    full_dataset = MinimalHockeyDataset("data/standardized_data.csv", features, pad_length=20)
+    full_dataset = HockeyDataset("data/standardized_data.csv", features, pad_length=20)
     # full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
 
     # split dataset into train and test

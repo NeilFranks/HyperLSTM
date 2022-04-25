@@ -1,4 +1,4 @@
 from .parity import *
 from .hockey import HockeyDataset
-from .hockey_minimal import MinimalHockeyDataset
+from .hockey_pca import PCAHockeyDataset
 
