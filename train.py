@@ -11,14 +11,19 @@ from datasets import *
 from checkpointer import *
 
 def main(*args):
-    # full_dataset = HockeyDataset("data/standardized_data.csv")
-    full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
+    full_dataset = HockeyDataset("data/standardized_data.csv")
+    # full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
 
     # split dataset into train and test
     l = len(full_dataset)
-    train_p = int(0.8*l)
-    val_p   = int(0.1*l)
-    test_p  = int(0.1*l)
+    print('Investigating hockey dataset..')
+    print(l)
+    for i, (x, y) in enumerate(full_dataset):
+        print(i, x.shape, y.shape)
+    1/0
+    train_p = int(0.8*l)          # (80%)
+    val_p   = int(0.1*l)          # (10%)
+    test_p  = l - train_p - val_p # (last ~10%)
 
     # k = 20
     train_dataset, validation_dataset, test_dataset = random_split(
@@ -38,24 +43,25 @@ def main(*args):
     n_z = full_dataset[0][0].shape[1]
     n_layers = 1
     # batch size has to be 1 because sequences are different lengths (maybe theres another way to fix this)
-    # batch_size = 1
-    batch_size = 128 # Really helps with stability, trust me :)
+    batch_size = 1
+    # batch_size = 128 # Really helps with stability, trust me :)
 
-    model = HyperLSTMWrapper(
-        input_size=input_size,
-        output_size=output_size,
-        hidden_size=hidden_size,
-        hyper_size=hyper_size,
-        n_z=n_z,
-        n_layers=n_layers,
-        batch_size=batch_size
-    )
-    # model = LSTMWrapper(
+    # model = HyperLSTMWrapper(
     #     input_size=input_size,
     #     output_size=output_size,
     #     hidden_size=hidden_size,
+    #     hyper_size=hyper_size,
+    #     n_z=n_z,
+    #     n_layers=n_layers,
     #     batch_size=batch_size
     # )
+
+    model = LSTMWrapper(
+        input_size=input_size,
+        output_size=output_size,
+        hidden_size=hidden_size,
+        batch_size=batch_size
+    )
 
     csv_logger = CSVLogger(
         'csv_data',
@@ -67,7 +73,7 @@ def main(*args):
     trainer = pl.Trainer(
         accelerator='cpu',
         log_every_n_steps=1,
-        max_steps=1024,
+        max_steps=1024 * 10,
         logger=csv_logger,
         callbacks=[CheckpointEveryNSteps(save_step_frequency=1024)]
         # auto_lr_find=True
