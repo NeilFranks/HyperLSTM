@@ -36,7 +36,7 @@ class MinimalHockeyDataset(Dataset):
             # "Home_goals_lastGame", "Home_assists_lastGame",
             # "Home_GA_startingGoalie", "Home_SA_startingGoalie",
             # "Home_GA_allGoalies", "Home_SA_allGoalies",
-            "Away_ID",
+            # "Away_ID",
             # "Away_wins_last10", "Away_wins_VERSUS_last2",
             # "Away_goals_lastGame", "Away_assists_lastGame",
             # "Away_GA_startingGoalie", "Away_SA_startingGoalie",

@@ -14,8 +14,12 @@ def main(*args):
 
     # split dataset into train and test
     l = len(full_dataset)
-    train_p = int(0.8*l)          # (80%)
-    val_p   = int(0.1*l)          # (10%)
+    # train_p = int(0.8*l)          # (80%)
+    # val_p   = int(0.1*l)          # (10%)
+
+    # Hacky mode where we overfit a batch
+    train_p = 256
+    val_p   = 256
     test_p  = l - train_p - val_p # (last ~10%)
 
     # k = 20
