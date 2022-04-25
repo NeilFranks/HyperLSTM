@@ -22,7 +22,9 @@ class SequenceWrapper(pl.LightningModule):
         )
 
     def training_step(self, batch, batch_idx):
-        return self.compute_loss(batch)
+        loss = self.compute_loss(batch)
+        self.log("train_loss", loss)
+        return loss
     #     # From SAM example: https://github.com/davda54/sam
     #     optimizer = self.optimizers()
     #     loss0 = self.compute_loss(batch)
