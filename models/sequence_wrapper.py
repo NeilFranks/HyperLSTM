@@ -16,10 +16,10 @@ class SequenceWrapper(pl.LightningModule):
     def compute_loss(self, batch):
         x, y = batch
         y_hat, _ = self(x.float())
-        mask = x[:, :, -1] # b, t, w
-        mask_index = int(torch.sum(mask))
-        y     =     y[:, :mask_index, :]
-        y_hat = y_hat[:, :mask_index, :]
+        # mask = x[:, :, -1] # b, t, w
+        # mask_index = int(torch.sum(mask))
+        # y     =     y[:, :mask_index, :]
+        # y_hat = y_hat[:, :mask_index, :]
         return F.binary_cross_entropy_with_logits(
             torch.squeeze(y_hat).type(torch.FloatTensor),
             torch.squeeze(y).type(torch.FloatTensor)
