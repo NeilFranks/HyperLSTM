@@ -36,6 +36,7 @@ class HockeyDataset(Dataset):
         self.Y_COLUMN = "Home_Won"
 
         self.data = pd.read_csv(file_name)
+        self.enc = pd.get_dummies(self.data)
 
         if restrict_to_years:
             # restrict the data games which occured during the specified year
