@@ -12,15 +12,15 @@ DEVICE = "gpu" if torch.cuda.is_available() else "cpu"
 
 features = [
     # "Year", "Month", "Day",
-    "Home_ID",
-    # "Home_wins_last10",
-    # "Home_wins_VERSUS_last2",
+    # "Home_ID",
+    "Home_wins_last10",
+    "Home_wins_VERSUS_last2",
     # "Home_goals_lastGame", "Home_assists_lastGame",
     # "Home_GA_startingGoalie", "Home_SA_startingGoalie",
     # "Home_GA_allGoalies", "Home_SA_allGoalies",
-    "Away_ID",
-    # "Away_wins_last10",
-    # "Away_wins_VERSUS_last2",
+    # "Away_ID",
+    "Away_wins_last10",
+    "Away_wins_VERSUS_last2",
     # "Away_goals_lastGame", "Away_assists_lastGame",
     # "Away_GA_startingGoalie", "Away_SA_startingGoalie",
     # "Away_GA_allGoalies", "Away_SA_allGoalies"
@@ -43,8 +43,8 @@ def main(*args):
     val_p = int(0.1*l)          # (10%)
 
     # Hacky mode where we overfit a batch
-    train_p = 128
-    val_p = 128
+    # train_p = 128
+    # val_p = 128
     test_p = l - train_p - val_p  # (last ~10%)
 
     # k = 20
@@ -67,22 +67,22 @@ def main(*args):
     batch_size = 128  # Really helps with stability, trust me :)
     # batch_size = 32  # Really helps with stability, trust me :)
 
-    model = HyperLSTMWrapper(
-        input_size=input_size,
-        output_size=output_size,
-        hidden_size=hidden_size,
-        hyper_size=hyper_size,
-        n_z=n_z,
-        n_layers=n_layers,
-        batch_size=batch_size
-    )
-
-    # model = LSTMWrapper(
+    # model = HyperLSTMWrapper(
     #     input_size=input_size,
     #     output_size=output_size,
     #     hidden_size=hidden_size,
+    #     hyper_size=hyper_size,
+    #     n_z=n_z,
+    #     n_layers=n_layers,
     #     batch_size=batch_size
     # )
+
+    model = LSTMWrapper(
+        input_size=input_size,
+        output_size=output_size,
+        hidden_size=hidden_size,
+        batch_size=batch_size
+    )
 
     # model = FeedForwardBaseline(
     #     input_size=input_size,
