@@ -9,8 +9,8 @@ from checkpointer import *
 
 def main(*args):
     # full_dataset = HockeyDataset("data/standardized_data.csv")
-    # full_dataset = MinimalHockeyDataset("data/standardized_data.csv", pad_length=20)
-    full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
+    full_dataset = MinimalHockeyDataset("data/standardized_data.csv", pad_length=20)
+    # full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
 
     # split dataset into train and test
     l = len(full_dataset)
@@ -28,11 +28,11 @@ def main(*args):
     # within each sequence, the same team is either the home team or away team for every game
 
     input_size = full_dataset[0][0].shape[1]
-    # hidden_size = 64
-    hidden_size = 16
+    hidden_size = 64
+    # hidden_size = 16
     hyper_size = hidden_size // 2
-    # output_size = 1
-    output_size = 2
+    output_size = 1
+    # output_size = 2
     n_z = full_dataset[0][0].shape[1]
     n_layers = 1
     # batch size has to be 1 because sequences are different lengths (maybe theres another way to fix this)
@@ -62,7 +62,11 @@ def main(*args):
         flush_logs_every_n_steps=1
     )
 
-    pl.seed_everything(2022, workers=True)
+    # Let's call this our default seed
+    # pl.seed_everything(2022, workers=True)
+    # Here is me testing if seeds affect init
+    # pl.seed_everything(0, workers=True) # Confirmed: seed affects init (0.498 loss)
+    # pl.seed_everything(1, workers=True) # Confirmed: seed affects init (0.512 loss)
     trainer = pl.Trainer(
         accelerator='cpu',
         log_every_n_steps=1,
