@@ -25,7 +25,10 @@ features = [
 ]
 
 def main(*args):
-    full_dataset = HockeyDataset("data/standardized_data.csv", features, pad_length=20)
+    full_dataset = PCAHockeyDataset("data/standardized_data.csv", features, pad_length=20)
+    print(full_dataset[0])
+    1/0
+    # full_dataset = HockeyDataset("data/standardized_data.csv", features, pad_length=20)
     # full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
 
     # split dataset into train and test
@@ -70,20 +73,20 @@ def main(*args):
     #     batch_size=batch_size
     # )
 
-    # model = LSTMWrapper(
-    #     input_size=input_size,
-    #     output_size=output_size,
-    #     hidden_size=hidden_size,
-    #     batch_size=batch_size
-    # )
-
-    model = FeedForwardBaseline(
+    model = LSTMWrapper(
         input_size=input_size,
         output_size=output_size,
         hidden_size=hidden_size,
-        batch_size=batch_size,
-        n_layers=3
+        batch_size=batch_size
     )
+
+    # model = FeedForwardBaseline(
+    #     input_size=input_size,
+    #     output_size=output_size,
+    #     hidden_size=hidden_size,
+    #     batch_size=batch_size,
+    #     n_layers=3
+    # )
 
     csv_logger = CSVLogger(
         'csv_data',
