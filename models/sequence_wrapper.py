@@ -4,6 +4,7 @@ import pytorch_lightning as pl
 from .sam import SAM
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+DEVICE = "cpu"
 
 
 class SequenceWrapper(pl.LightningModule):

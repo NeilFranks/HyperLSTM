@@ -9,6 +9,7 @@ from datasets import *
 from checkpointer import *
 
 DEVICE = "gpu" if torch.cuda.is_available() else "cpu"
+DEVICE = "cpu"
 
 features = [
     "Year", "Month", "Day",
@@ -33,7 +34,8 @@ def main(*args):
         features,
         pad_length=20,
         # only get games which occured from 1950 to 1960
-        restrict_to_years=[e-1918 for e in range(2010, 2023)]
+        restrict_to_years=[e-1918 for e in range(1950, 1960)]
+        # restrict_to_years=[e-1918 for e in range(2010, 2023)]
     )
     # full_dataset = PCAHockeyDataset("data/standardized_data.csv", pad_length=20,
     #         n_components=32)
@@ -42,12 +44,12 @@ def main(*args):
 
     # split dataset into train and test
     l = len(full_dataset)
-    train_p = int(0.8*l)          # (80%)
-    val_p = int(0.1*l)          # (10%)
+    # train_p = int(0.8*l)          # (80%)
+    # val_p = int(0.1*l)          # (10%)
 
     # Hacky mode where we overfit a batch
-    # train_p = 128
-    # val_p = 128
+    train_p = 128
+    val_p = 128
     test_p = l - train_p - val_p  # (last ~10%)
 
     # k = 20
@@ -67,8 +69,8 @@ def main(*args):
     # output_size = 2
     n_z = full_dataset[0][0].shape[1]
     n_layers = 1
-    batch_size = 128  # Really helps with stability, trust me :)
-    # batch_size = 32  # Really helps with stability, trust me :)
+    # batch_size = 128  # Really helps with stability, trust me :)
+    batch_size = 64  # Really helps with stability, trust me :)
 
     model = HyperLSTMWrapper(
         input_size=input_size,
@@ -119,8 +121,8 @@ def main(*args):
 
     trainer.fit(
         model,
-        DataLoader(train_dataset, batch_size=batch_size, num_workers=8),
-        DataLoader(validation_dataset, batch_size=batch_size, num_workers=8),
+        DataLoader(train_dataset, batch_size=batch_size, num_workers=4),
+        DataLoader(validation_dataset, batch_size=batch_size, num_workers=4),
         # ckpt_path="lightning_logs/version_21/checkpoints/N-Step-Checkpoint_epoch=3_global_step=0.ckpt"
     )
 
