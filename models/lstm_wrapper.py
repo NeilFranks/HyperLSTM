@@ -14,7 +14,7 @@ class LSTMWrapper(SequenceWrapper):
         self.lstm = nn.LSTM(
             self.input_size, self.hidden_size, proj_size=output_size)
         self.l0 = nn.LazyLinear(output_size)
-        self.automatic_optimization = False
+        # self.automatic_optimization = False
 
     def forward(self, x):
         # in lightning, forward defines the prediction/inference actions

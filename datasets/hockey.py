@@ -4,8 +4,7 @@ import pandas as pd
 import torch
 from torch.utils.data import Dataset
 
-random.seed(505)
-
+random.seed(505) #???
 
 class HockeyDataset(Dataset):
     def __init__(self, file_name):
