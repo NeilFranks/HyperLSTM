@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import plotly
 
 import pandas as pd
-import numpy  as  np
+import numpy as np
 
 from subprocess import call
 from pathlib import Path
@@ -13,7 +13,8 @@ import sys
 
 import white_theme
 
-QUAL_COLORS = plotly.colors.qualitative.G10 + plotly.colors.qualitative.Dark24 + plotly.colors.qualitative.Light24
+QUAL_COLORS = plotly.colors.qualitative.G10 + \
+    plotly.colors.qualitative.Dark24 + plotly.colors.qualitative.Light24
 
 DIVERGING = [[0.0,                "rgb(165,0,38)"],
              [0.1111111111111111, "rgb(215,48,39)"],
@@ -26,21 +27,27 @@ DIVERGING = [[0.0,                "rgb(165,0,38)"],
              [0.8888888888888888, "rgb(69,117,180)"],
              [1.0,                "rgb(49,54,149)"]]
 
+
 def heatmap(*compare, labels=None, title=None, zmin=-1, zmax=1, horizontal=False,
-        formatter=None, w=1080, h=1080,
-        y_axis='', x_axis=''):
+            formatter=None, w=1080, h=1080,
+            y_axis='', x_axis=''):
     if horizontal:
-        rows = len(compare); cols = 1
+        rows = len(compare)
+        cols = 1
     else:
-        rows = 1; cols = len(compare)
+        rows = 1
+        cols = len(compare)
     fig = make_subplots(rows=rows, cols=cols, subplot_titles=labels)
     for i, c in enumerate(compare):
         if horizontal:
             c = c.T
-            row = i + 1; col = 1
+            row = i + 1
+            col = 1
         else:
-            row = 1; col = i + 1;
-        fig.add_trace(go.Heatmap(z=c, zmin=zmin, zmax=zmax, colorscale=DIVERGING), row=row, col=col)
+            row = 1
+            col = i + 1
+        fig.add_trace(go.Heatmap(z=c, zmin=zmin, zmax=zmax,
+                      colorscale=DIVERGING), row=row, col=col)
     fig.update_layout(title_text=title)
     fig.update_layout(xaxis_title=x_axis, yaxis_title=y_axis)
     if formatter is not None:
@@ -49,13 +56,16 @@ def heatmap(*compare, labels=None, title=None, zmin=-1, zmax=1, horizontal=False
     save(fig, f'{title}_heatmap', w=w, h=h)
     return fig
 
+
 def save(fig, name, w=1080, h=920, dirn='plots'):
     fig.show()
     fig.write_image(f'{dirn}/{name}.svg', width=w, height=h)
     fig.write_image(f'{dirn}/{name}.png', width=w, height=h)
     fig.write_html(f'{dirn}/{name}.html')
     fig.write_json(f'{dirn}/{name}.json')
-    call(f'rsvg-convert -f pdf -o {dirn}/{name}.pdf {dirn}/{name}.svg', shell=True)
+    call(
+        f'rsvg-convert -f pdf -o {dirn}/{name}.pdf {dirn}/{name}.svg', shell=True)
+
 
 def loss(path, y='loss', yaxis_title=None,                           figure_title='compare_loss', yrange=None, dirn='plots'):
     df = pd.read_csv(path)
@@ -63,7 +73,8 @@ def loss(path, y='loss', yaxis_title=None,                           figure_titl
     fig.update_traces(line=dict(width=3))
     if yaxis_title is None:
         yaxis_title = y.replace('_', ' ').title()
-    fig.update_layout(font_size=32, xaxis_title=f'Steps', yaxis_title=yaxis_title)
+    fig.update_layout(font_size=32, xaxis_title=f'Steps',
+                      yaxis_title=yaxis_title)
     if yrange is not None:
         fig.update_yaxes(range=yrange)
     fig.update_xaxes(type='log', tickfont=dict(size=24))
@@ -76,11 +87,13 @@ def loss(path, y='loss', yaxis_title=None,                           figure_titl
     save(fig, figure_title, w=1080, h=920, dirn=dirn)
     return df, fig
 
+
 def get_latest(parent, name='metrics.csv'):
     ''' Courtesy of SO: https://stackoverflow.com/questions/39327032/how-to-get-the-latest-file-in-a-folder'''
     parent = Path(parent)
-    paths  = parent.glob('*')
+    paths = parent.glob('*')
     return max(paths, key=lambda p: p.stat().st_ctime) / name
+
 
 def main(*args):
     latest = get_latest('csv_data/hockey/', name='metrics.csv')
@@ -88,6 +101,8 @@ def main(*args):
     dirn = 'plots'
     Path(dirn).mkdir(exist_ok=True)
     loss(latest, y='train_loss', yaxis_title='Training Loss', dirn=dirn)
+    loss(latest, y='val_loss', yaxis_title='Validation Loss', dirn=dirn)
+
 
 if __name__ == '__main__':
     main(sys.argv[1:])

@@ -13,6 +13,7 @@ class SequenceWrapper(pl.LightningModule):
         # self.lr = 3e-4
 
         self.last_loss = None
+        self.val_loss = None
 
         self.logged_seed_and_co = False
         self.seed = seed
@@ -45,9 +46,10 @@ class SequenceWrapper(pl.LightningModule):
     #     )
 
     def log_seed_trainp_batchsize(self):
-        self.log("seed", self.seed)
-        self.log("train_p", self.train_p)
-        self.log("batch_size", self.batch_size)
+        if self.seed:
+            self.log("seed", float(self.seed))
+        self.log("train_p", float(self.train_p))
+        self.log("batch_size", float(self.batch_size))
 
         self.logged_seed_and_co = True
 
@@ -57,7 +59,10 @@ class SequenceWrapper(pl.LightningModule):
 
         # This is the default loss code
         loss = self.compute_loss(batch)
+
         self.log("train_loss", loss)
+        if self.val_loss:
+            self.log("val_loss", self.val_loss)
 
         if loss == self.last_loss:
             raise Exception("AHHHHHHHHHHHHHHHHHHH")
@@ -79,7 +84,13 @@ class SequenceWrapper(pl.LightningModule):
         # return loss0
 
     def validation_step(self, batch, batch_idx):
-        return self.compute_loss(batch)
+        self.val_loss = self.compute_loss(batch)
+        return self.val_loss
+
+    def test_step(self, batch, batch_idx, dataset_idx):
+        loss = self.compute_loss(batch)
+        self.log("test_loss", loss)
+        return loss
 
     def configure_optimizers(self):
         # optimizer = SAM(self.parameters(), torch.optim.Adam, rho=0.05,

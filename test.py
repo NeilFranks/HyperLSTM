@@ -1,4 +1,3 @@
-import random
 import sys
 from torch.utils.data import DataLoader, random_split
 
@@ -44,19 +43,11 @@ def main(seed, *args):
         # restrict_to_years=[e-1918 for e in range(1950, 1960)]
         restrict_to_years=[e-1918 for e in range(2010, 2023)]
     )
-    # full_dataset = PCAHockeyDataset("data/standardized_data.csv", pad_length=20,
-    #         n_components=32)
-    # full_dataset = HockeyDataset("data/standardized_data.csv", features, pad_length=20)
-    # full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
 
     # split dataset into train and test
     l = len(full_dataset)
     train_p = int(0.8*l)          # (80%)
     val_p = int(0.1*l)          # (10%)
-
-    # Hacky mode where we overfit a batch
-    # train_p = 256
-    # val_p = 32
     test_p = l - train_p - val_p  # (last ~10%)
 
     # k = 20
@@ -69,8 +60,8 @@ def main(seed, *args):
     # within each sequence, the same team is either the home team or away team for every game
 
     input_size = full_dataset[0][0].shape[1]
-    hidden_size = 64
-    # hidden_size = 16
+    # hidden_size = 64
+    hidden_size = 16
     hyper_size = hidden_size // 2
     output_size = 1
     # output_size = 2
@@ -78,7 +69,6 @@ def main(seed, *args):
     n_layers = 1
     # batch_size = 128  # Really helps with stability, trust me :)
     batch_size = 32  # Really helps with stability, trust me :)
-    # batch_size = train_p  # Really helps with stability, trust me :)
 
     model = HyperLSTMWrapper(
         input_size=input_size,
@@ -93,70 +83,33 @@ def main(seed, *args):
         batch_size=batch_size
     )
 
-    # model = LSTMWrapper(
-    #     input_size=input_size,
-    #     output_size=output_size,
-    #     hidden_size=hidden_size,
-    #     batch_size=batch_size
-    # )
-
-    # model = FeedForwardBaseline(
-    #     input_size=input_size,
-    #     output_size=output_size,
-    #     hidden_size=hidden_size,
-    #     batch_size=batch_size,
-    #     n_layers=3
-    # )
-
     csv_logger = CSVLogger(
         'csv_data',
         name='hockey',
         flush_logs_every_n_steps=1
     )
 
-    # Let's call this our default seed
-    # pl.seed_everything(2022, workers=True)
-    # Here is me testing if seeds affect init
-    # pl.seed_everything(0, workers=True) # Confirmed: seed affects init (0.498 loss)
-    # pl.seed_everything(1, workers=True) # Confirmed: seed affects init (0.512 loss)
-
     trainer = pl.Trainer(
         accelerator=DEVICE,
         log_every_n_steps=1,
-        # max_steps=1024 * 10,
         max_epochs=100000,
         logger=csv_logger,
-        callbacks=[CheckpointEveryNSteps(save_step_frequency=50)],
-        devices=1,
-        # auto_lr_find=True
+        devices=1
     )
 
-    trainer.fit(
+    trainer.test(
         model,
-        train_dataloaders=DataLoader(
-            train_dataset, batch_size=batch_size, num_workers=6
-        ),
-        val_dataloaders=DataLoader(
-            validation_dataset, batch_size=batch_size, num_workers=6
-        ),
-        # ckpt_path="lightning_logs/version_21/checkpoints/N-Step-Checkpoint_epoch=3_global_step=0.ckpt"
+        dataloaders=[
+            DataLoader(
+                validation_dataset, batch_size=batch_size, num_workers=8
+            ),
+            DataLoader(
+                test_dataset, batch_size=batch_size, num_workers=8
+            ),
+        ],
+        ckpt_path="csv_data/hockey/version_143/checkpoints/N-Step-Checkpoint_epoch=1023_global_step=1024.ckpt"
     )
-
 
 if __name__ == '__main__':
-    # Train without any global seed
-    main(None, sys.argv[1:])
-
-    # seed = 5187
-    # main(seed, sys.argv[1:])
-
-    # # Train with global seeds
-    # for i in range(10):
-    #     print(f"\n\n\tUsing global seed {seed}\n\n")
-    #     try:
-    #         main(seed, sys.argv[1:])
-    #     except:
-    #         print(f"\n\n\t{seed} is no good for a seed\n\n")
-
-    #     # fight randomness with randomness....
-    #     seed = random.randrange(0, 6666)
+    seed = 5187
+    main(seed, sys.argv[1:])
