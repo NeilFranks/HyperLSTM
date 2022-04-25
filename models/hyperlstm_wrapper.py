@@ -16,7 +16,6 @@ class HyperLSTMWrapper(SequenceWrapper):
             n_layers
         )
         self.l0 = nn.Linear(hidden_size, output_size)
-        self.automatic_optimization = False
 
     def forward(self, x):
         # in lightning, forward defines the prediction/inference actions

@@ -30,31 +30,32 @@ def main(*args):
     # within each sequence, the same team is either the home team or away team for every game
 
     input_size = full_dataset[0][0].shape[1]
-    hidden_size = 64
+    # hidden_size = 64
+    hidden_size = 16
     hyper_size = hidden_size // 2
-    # output_size = 1
-    output_size = 2
+    output_size = 1
+    # output_size = 2
     n_z = full_dataset[0][0].shape[1]
     n_layers = 1
     # batch size has to be 1 because sequences are different lengths (maybe theres another way to fix this)
     # batch_size = 1
     batch_size = 128 # Really helps with stability, trust me :)
 
-    # model = HyperLSTMWrapper(
-    #     input_size=input_size,
-    #     output_size=output_size,
-    #     hidden_size=hidden_size,
-    #     hyper_size=hyper_size,
-    #     n_z=n_z,
-    #     n_layers=n_layers,
-    #     batch_size=batch_size
-    # )
-    model = LSTMWrapper(
+    model = HyperLSTMWrapper(
         input_size=input_size,
         output_size=output_size,
         hidden_size=hidden_size,
+        hyper_size=hyper_size,
+        n_z=n_z,
+        n_layers=n_layers,
         batch_size=batch_size
     )
+    # model = LSTMWrapper(
+    #     input_size=input_size,
+    #     output_size=output_size,
+    #     hidden_size=hidden_size,
+    #     batch_size=batch_size
+    # )
 
     csv_logger = CSVLogger(
         'csv_data',
