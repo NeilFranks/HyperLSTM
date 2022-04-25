@@ -35,6 +35,9 @@ def main(*args):
         # only get games which occured from 1950 to 1960
         restrict_to_years=[e-1918 for e in range(2010, 2023)]
     )
+    # full_dataset = PCAHockeyDataset("data/standardized_data.csv", pad_length=20,
+    #         n_components=32)
+    # full_dataset = HockeyDataset("data/standardized_data.csv", features, pad_length=20)
     # full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
 
     # split dataset into train and test
@@ -116,8 +119,8 @@ def main(*args):
 
     trainer.fit(
         model,
-        DataLoader(train_dataset, batch_size=batch_size, num_workers=4),
-        DataLoader(validation_dataset, batch_size=batch_size, num_workers=4),
+        DataLoader(train_dataset, batch_size=batch_size, num_workers=8),
+        DataLoader(validation_dataset, batch_size=batch_size, num_workers=8),
         # ckpt_path="lightning_logs/version_21/checkpoints/N-Step-Checkpoint_epoch=3_global_step=0.ckpt"
     )
 

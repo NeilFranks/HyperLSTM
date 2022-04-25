@@ -1,12 +1,12 @@
-from datasets.hockey         import HockeyDataset
-from datasets.hockey_minimal import MinimalHockeyDataset
+from datasets import *
 from plot import *
 
 import torch
 
 def main(*args):
     # full_dataset = HockeyDataset("data/standardized_data.csv")
-    full_dataset = MinimalHockeyDataset("data/standardized_data.csv")
+    # full_dataset = MinimalHockeyDataset("data/standardized_data.csv")
+    full_dataset = PCAHockeyDataset("data/standardized_data.csv", pad_length=20)
     l = len(full_dataset)
     print('Investigating hockey dataset..')
     print(l)
