@@ -1,3 +1,4 @@
+import random
 import sys
 from torch.utils.data import DataLoader, random_split
 
@@ -9,7 +10,6 @@ from datasets import *
 from checkpointer import *
 
 DEVICE = "gpu" if torch.cuda.is_available() else "cpu"
-DEVICE = "cpu"
 
 features = [
     "Year", "Month", "Day",
@@ -28,7 +28,14 @@ features = [
 ]
 
 
-def main(*args):
+def main(seed, *args):
+
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+
+    if seed:
+        pl.seed_everything(seed, workers=True)
+
     full_dataset = HockeyDataset(
         "data/standardized_data.csv",
         features,
@@ -108,6 +115,7 @@ def main(*args):
     # Here is me testing if seeds affect init
     # pl.seed_everything(0, workers=True) # Confirmed: seed affects init (0.498 loss)
     # pl.seed_everything(1, workers=True) # Confirmed: seed affects init (0.512 loss)
+
     trainer = pl.Trainer(
         accelerator=DEVICE,
         log_every_n_steps=1,
@@ -121,11 +129,23 @@ def main(*args):
 
     trainer.fit(
         model,
-        DataLoader(train_dataset, batch_size=batch_size, num_workers=4),
-        DataLoader(validation_dataset, batch_size=batch_size, num_workers=4),
+        DataLoader(train_dataset, batch_size=batch_size, num_workers=8),
+        DataLoader(validation_dataset, batch_size=batch_size, num_workers=8),
         # ckpt_path="lightning_logs/version_21/checkpoints/N-Step-Checkpoint_epoch=3_global_step=0.ckpt"
     )
 
 
 if __name__ == '__main__':
-    main(sys.argv[1:])
+    # Train without any global seed
+    # main(None, sys.argv[1:])
+
+    # Train with global seeds
+    # NOTE: will start on version 133
+    for i in range(10):
+        # fight randomness with randomness....
+        seed = random.randrange(0, 6666)
+        print(f"\n\n\tUsing global seed {seed}\n\n")
+        try:
+            main(i, sys.argv[1:])
+        except:
+            print(f"\n\n\t{i} is no good for a seed\n\n")

@@ -4,7 +4,6 @@ import pytorch_lightning as pl
 from .sam import SAM
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-DEVICE = "cpu"
 
 
 class SequenceWrapper(pl.LightningModule):
@@ -12,6 +11,7 @@ class SequenceWrapper(pl.LightningModule):
         super().__init__()
         # self.automatic_optimization = False
         # self.lr = 3e-4
+        self.last_loss = None
 
     def forward(self, x):
         raise NotImplementedError('Define in derived class')
@@ -42,6 +42,11 @@ class SequenceWrapper(pl.LightningModule):
         # This is the default loss code
         loss = self.compute_loss(batch)
         self.log("train_loss", loss)
+
+        if loss == self.last_loss:
+            raise Exception("AHHHHHHHHHHHHHHHHHHH")
+
+        self.last_loss = loss
         return loss
         # And if automatic optimization is off..
         # self.manual_backward(loss)
