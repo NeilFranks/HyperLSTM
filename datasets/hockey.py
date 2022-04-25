@@ -5,6 +5,7 @@ import numpy as np
 import torch
 from torch.utils.data import Dataset
 
+
 def pad_and_add_channel(t, length, axis=0, channel_axis=1, index=None):
     assert len(t.shape) > 1, 'Cannot pad a 1D tensor'
     assert axis != channel_axis
@@ -19,21 +20,28 @@ def pad_and_add_channel(t, length, axis=0, channel_axis=1, index=None):
     background = torch.zeros(tuple(edit_shape))
     # Calculate where to place our tensor
     if index is None:
-        index = (0,) * len(t.shape) # Starting points for embed
+        index = (0,) * len(t.shape)  # Starting points for embed
     slices = [np.s_[i:i+j] for i, j in zip(index, t.shape)]
     background[slices] = t
     if channel_axis is not None:
         background[:original, -1] = torch.ones(original)
     return background
 
+
 class HockeyDataset(Dataset):
-    def __init__(self, file_name, features, pad_length=20):
-        self.pad_length=pad_length
+    def __init__(self, file_name, features, pad_length=20, restrict_to_years: list = None):
+        self.pad_length = pad_length
 
         self.X_COLUMNS = features
         self.Y_COLUMN = "Home_Won"
 
         self.data = pd.read_csv(file_name)
+
+        if restrict_to_years:
+            # restrict the data games which occured during the specified year
+            self.data = self.data.loc[
+                self.data['Year'].isin(restrict_to_years)
+            ].reset_index()
 
         self.NUM_OF_TEAMS = 57  # 57 teams have played in the NHL
 
@@ -54,20 +62,21 @@ class HockeyDataset(Dataset):
         for team_ID in range(self.NUM_OF_TEAMS):
             sequence = self.games_played_by_team[team_ID]
 
-            start_index = 0
-            end_index = start_index + random.randrange(
-                SUB_SEQUENCE_MIN_LENGTH, SUB_SEQUENCE_MAX_LENGTH
-            )
-
-            while end_index < len(sequence):
-                self.sub_sequences.append(sequence[start_index:end_index])
-                start_index = end_index
+            if not sequence.empty:
+                start_index = 0
                 end_index = start_index + random.randrange(
                     SUB_SEQUENCE_MIN_LENGTH, SUB_SEQUENCE_MAX_LENGTH
                 )
 
-            # whatever's left, call it a subsequence. May be smaller than you specified by SUB_SEQUENCE_MIN_LENGTH, but that'll just make a better dataset, right? :)
-            self.sub_sequences.append(sequence[start_index:])
+                while end_index < len(sequence):
+                    self.sub_sequences.append(sequence[start_index:end_index])
+                    start_index = end_index
+                    end_index = start_index + random.randrange(
+                        SUB_SEQUENCE_MIN_LENGTH, SUB_SEQUENCE_MAX_LENGTH
+                    )
+
+                # whatever's left, call it a subsequence. May be smaller than you specified by SUB_SEQUENCE_MIN_LENGTH, but that'll just make a better dataset, right? :)
+                self.sub_sequences.append(sequence[start_index:])
 
     def __len__(self):
         return len(self.sub_sequences)
@@ -128,10 +137,11 @@ class HockeyDataset(Dataset):
 
         # Important! Pad sequences to a common length (20 in our case)
         x_sequence = pad_and_add_channel(
-             x_sequence, self.pad_length, axis=0, channel_axis=1
-             )
+            x_sequence, self.pad_length, axis=0, channel_axis=1
+        )
 
         y_sequence = pad_and_add_channel(
-            y_sequence, self.pad_length, axis=0, channel_axis=None # Don't add channel here
-            )
+            y_sequence, self.pad_length, axis=0, channel_axis=None  # Don't add channel here
+        )
+
         return x_sequence, y_sequence
