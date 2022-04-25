@@ -9,12 +9,14 @@ from .hockey import *
 
 from sklearn.decomposition import PCA
 
+def scale(x, high, low):
+    return ((x - low) / (high - low)) * 2. - 1.
+
 class PCAHockeyDataset(Dataset):
-    def __init__(self, file_name, features, pad_length=20, n_components=32):
+    def __init__(self, file_name, pad_length=20, n_components=32):
         self.pca = PCA(n_components=n_components)
         self.pad_length=pad_length
 
-        self.X_COLUMNS = features
         self.Y_COLUMN = "Home_Won"
 
         self.data = pd.read_csv(file_name)
@@ -24,6 +26,10 @@ class PCAHockeyDataset(Dataset):
         self.enc  = pd.get_dummies(self.data)
         self.as_numpy = self.enc.to_numpy(copy=False) # DON'T copy :)
         self.pca.fit(self.as_numpy)
+
+        self.trans = self.pca.transform(self.as_numpy)
+        self.maxes = np.max(self.trans, axis=0)
+        self.mins  = np.min(self.trans, axis=0)
 
         print('Fit PCA to hockey dataset, resulting in metrics:')
         print(self.pca.singular_values_)
@@ -107,7 +113,9 @@ class PCAHockeyDataset(Dataset):
                     (y_sequence, y)
                 )
 
-        x_sequence = torch.tensor(self.pca.transform(x_sequence))
+        x_sequence = self.pca.transform(x_sequence)
+        x_sequence = scale(x_sequence, self.maxes, self.mins)
+        x_sequence = torch.tensor(x_sequence)
 
         # Important! Pad sequences to a common length (20 in our case)
         x_sequence = pad_and_add_channel(

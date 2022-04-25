@@ -25,20 +25,19 @@ features = [
 ]
 
 def main(*args):
-    full_dataset = PCAHockeyDataset("data/standardized_data.csv", features, pad_length=20)
-    print(full_dataset[0])
-    1/0
+    full_dataset = PCAHockeyDataset("data/standardized_data.csv", pad_length=20,
+            n_components=32)
     # full_dataset = HockeyDataset("data/standardized_data.csv", features, pad_length=20)
     # full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
 
     # split dataset into train and test
     l = len(full_dataset)
-    # train_p = int(0.8*l)          # (80%)
-    # val_p   = int(0.1*l)          # (10%)
+    train_p = int(0.8*l)          # (80%)
+    val_p   = int(0.1*l)          # (10%)
 
     # Hacky mode where we overfit a batch
-    train_p = 256
-    val_p   = 256
+    # train_p = 256
+    # val_p   = 256
     test_p  = l - train_p - val_p # (last ~10%)
 
     # k = 20
@@ -60,8 +59,7 @@ def main(*args):
     n_layers = 1
     # batch size has to be 1 because sequences are different lengths (maybe theres another way to fix this)
     # batch_size = 1
-    # batch_size = 128 # Really helps with stability, trust me :)
-    batch_size = 32 # Really helps with stability, trust me :)
+    batch_size = 128 # Really helps with stability, trust me :)
 
     # model = HyperLSTMWrapper(
     #     input_size=input_size,
@@ -102,7 +100,7 @@ def main(*args):
     trainer = pl.Trainer(
         accelerator='cpu',
         log_every_n_steps=1,
-        max_steps=1024 * 10,
+        max_steps=1024 * 1024,
         logger=csv_logger,
         callbacks=[CheckpointEveryNSteps(save_step_frequency=1024)]
         # auto_lr_find=True
@@ -110,8 +108,8 @@ def main(*args):
 
     trainer.fit(
         model,
-        DataLoader(train_dataset, batch_size=batch_size, num_workers=4),
-        DataLoader(validation_dataset, batch_size=batch_size, num_workers=4),
+        DataLoader(train_dataset, batch_size=batch_size, num_workers=8),
+        DataLoader(validation_dataset, batch_size=batch_size, num_workers=8),
         # ckpt_path="lightning_logs/version_21/checkpoints/N-Step-Checkpoint_epoch=3_global_step=0.ckpt"
     )
 
