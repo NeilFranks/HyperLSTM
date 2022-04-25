@@ -27,22 +27,10 @@ def pad_and_add_channel(t, length, axis=0, channel_axis=1, index=None):
     return background
 
 class MinimalHockeyDataset(Dataset):
-    def __init__(self, file_name, pad_length=20):
+    def __init__(self, file_name, features, pad_length=20):
         self.pad_length=pad_length
-        self.X_COLUMNS = [
-            # "Year", "Month", "Day",
-            "Home_ID",
-            # "Home_wins_last10", "Home_wins_VERSUS_last2",
-            # "Home_goals_lastGame", "Home_assists_lastGame",
-            # "Home_GA_startingGoalie", "Home_SA_startingGoalie",
-            # "Home_GA_allGoalies", "Home_SA_allGoalies",
-            # "Away_ID",
-            # "Away_wins_last10", "Away_wins_VERSUS_last2",
-            # "Away_goals_lastGame", "Away_assists_lastGame",
-            # "Away_GA_startingGoalie", "Away_SA_startingGoalie",
-            # "Away_GA_allGoalies", "Away_SA_allGoalies"
-        ]
 
+        self.X_COLUMNS = features
         self.Y_COLUMN = "Home_Won"
 
         self.data = pd.read_csv(file_name)

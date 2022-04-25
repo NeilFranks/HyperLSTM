@@ -1,15 +1,32 @@
-import os
-import sys
+import os, sys
 from torch.utils.data import DataLoader, random_split
+
 import pytorch_lightning as pl
 from pytorch_lightning.loggers import CSVLogger
+
 from models import *
 from datasets import *
 from checkpointer import *
 
+features = [
+    "Year", "Month", "Day",
+    "Home_ID",
+    "Home_wins_last10",
+    "Home_wins_VERSUS_last2",
+    "Home_goals_lastGame", "Home_assists_lastGame",
+    "Home_GA_startingGoalie", "Home_SA_startingGoalie",
+    "Home_GA_allGoalies", "Home_SA_allGoalies",
+    "Away_ID",
+    "Away_wins_last10",
+    "Away_wins_VERSUS_last2",
+    "Away_goals_lastGame", "Away_assists_lastGame",
+    "Away_GA_startingGoalie", "Away_SA_startingGoalie",
+    "Away_GA_allGoalies", "Away_SA_allGoalies"
+]
+
 def main(*args):
     # full_dataset = HockeyDataset("data/standardized_data.csv")
-    full_dataset = MinimalHockeyDataset("data/standardized_data.csv", pad_length=20)
+    full_dataset = MinimalHockeyDataset("data/standardized_data.csv", features, pad_length=20)
     # full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
 
     # split dataset into train and test
@@ -32,8 +49,8 @@ def main(*args):
     # within each sequence, the same team is either the home team or away team for every game
 
     input_size = full_dataset[0][0].shape[1]
-    hidden_size = 64
-    # hidden_size = 16
+    # hidden_size = 64
+    hidden_size = 16
     hyper_size = hidden_size // 2
     output_size = 1
     # output_size = 2
@@ -41,7 +58,8 @@ def main(*args):
     n_layers = 1
     # batch size has to be 1 because sequences are different lengths (maybe theres another way to fix this)
     # batch_size = 1
-    batch_size = 128 # Really helps with stability, trust me :)
+    # batch_size = 128 # Really helps with stability, trust me :)
+    batch_size = 32 # Really helps with stability, trust me :)
 
     # model = HyperLSTMWrapper(
     #     input_size=input_size,
@@ -53,11 +71,19 @@ def main(*args):
     #     batch_size=batch_size
     # )
 
-    model = LSTMWrapper(
+    # model = LSTMWrapper(
+    #     input_size=input_size,
+    #     output_size=output_size,
+    #     hidden_size=hidden_size,
+    #     batch_size=batch_size
+    # )
+
+    model = FeedForwardBaseline(
         input_size=input_size,
         output_size=output_size,
         hidden_size=hidden_size,
-        batch_size=batch_size
+        batch_size=batch_size,
+        n_layers=3
     )
 
     csv_logger = CSVLogger(
