@@ -3,24 +3,17 @@ import sys
 from torch.utils.data import DataLoader, random_split
 import pytorch_lightning as pl
 from pytorch_lightning.loggers import CSVLogger
-from datasets.hockey import HockeyDataset
-from datasets.parity import ParityDataset
-
 from models import *
 from datasets import *
 from checkpointer import *
 
 def main(*args):
-    full_dataset = HockeyDataset("data/standardized_data.csv")
+    # full_dataset = HockeyDataset("data/standardized_data.csv")
+    full_dataset = MinimalHockeyDataset("data/standardized_data.csv", pad_length=20)
     # full_dataset = ParityDataset(10240, length=4) # Small reasonable parity ds
 
     # split dataset into train and test
     l = len(full_dataset)
-    print('Investigating hockey dataset..')
-    print(l)
-    for i, (x, y) in enumerate(full_dataset):
-        print(i, x.shape, y.shape)
-    1/0
     train_p = int(0.8*l)          # (80%)
     val_p   = int(0.1*l)          # (10%)
     test_p  = l - train_p - val_p # (last ~10%)

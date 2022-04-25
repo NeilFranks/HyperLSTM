@@ -21,10 +21,10 @@ class LSTMWrapper(SequenceWrapper):
         seq, state = self.lstm(x, None)
         return F.relu(self.l0(seq)), state
 
-    def compute_loss(self, batch):
-        x, y = batch
-        y_hat, _ = self(x.float())
-        return F.binary_cross_entropy_with_logits(
-            torch.squeeze(y_hat).type(torch.FloatTensor),
-            torch.squeeze(y).type(torch.FloatTensor)
-        )
+    # def compute_loss(self, batch):
+    #     x, y = batch
+    #     y_hat, _ = self(x.float())
+    #     return F.binary_cross_entropy_with_logits(
+    #         torch.squeeze(y_hat).type(torch.FloatTensor),
+    #         torch.squeeze(y).type(torch.FloatTensor)
+    #     )
