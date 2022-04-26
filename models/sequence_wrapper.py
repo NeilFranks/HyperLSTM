@@ -34,9 +34,12 @@ class SequenceWrapper(pl.LightningModule):
             y,
         )
 
-        # to find accuracy, round predictions to either to integer and count proportion of correct predictions
-        rounded_predictions = torch.tensor([0 if abs(e-0) < abs(e-1) else 1 for e in y_hat])
-        accuracy = sum(y.type(torch.int16) == rounded_predictions.type(torch.int16))/len(y)
+        # to find accuracy, round predictions to either to 0 or 1 and count proportion of correct predictions
+        rounded_predictions = torch.tensor(
+            [0 if abs(e-0) < abs(e-1) else 1 for e in y_hat]
+        ).to(DEVICE)
+        accuracy = sum(y.type(torch.int16) ==
+                       rounded_predictions.type(torch.int16))/len(y)
 
         return tensor_bce, accuracy
 
