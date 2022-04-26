@@ -29,7 +29,7 @@ def pad_and_add_channel(t, length, axis=0, channel_axis=1, index=None):
 
 
 class HockeyDataset(Dataset):
-    def __init__(self, file_name, features, pad_length=20, restrict_to_years: list = None):
+    def __init__(self, file_name, features, sequence_length=15, pad_length=20, restrict_to_years: list = None):
         self.pad_length = pad_length
 
         self.X_COLUMNS = features
@@ -63,17 +63,29 @@ class HockeyDataset(Dataset):
             sequence = self.games_played_by_team[team_ID]
 
             if not sequence.empty:
+                # use seed here, for reproducible data across run (good for continuing training)
+                random.seed(656)
+
                 start_index = 0
-                end_index = start_index + random.randrange(
-                    SUB_SEQUENCE_MIN_LENGTH, SUB_SEQUENCE_MAX_LENGTH
-                )
+                # end_index = start_index + random.randrange(
+                #     SUB_SEQUENCE_MIN_LENGTH, SUB_SEQUENCE_MAX_LENGTH
+                # )
+
+                # just do sequences of set length
+                end_index = sequence_length
 
                 while end_index < len(sequence):
                     self.sub_sequences.append(sequence[start_index:end_index])
-                    start_index = end_index
-                    end_index = start_index + random.randrange(
-                        SUB_SEQUENCE_MIN_LENGTH, SUB_SEQUENCE_MAX_LENGTH
-                    )
+                    # start_index = end_index
+
+                    # get every possible sequence... duh
+                    start_index += 1
+
+                    # end_index = start_index + random.randrange(
+                    #     SUB_SEQUENCE_MIN_LENGTH, SUB_SEQUENCE_MAX_LENGTH
+                    # )
+
+                    end_index = start_index+sequence_length
 
                 # whatever's left, call it a subsequence. May be smaller than you specified by SUB_SEQUENCE_MIN_LENGTH, but that'll just make a better dataset, right? :)
                 self.sub_sequences.append(sequence[start_index:])
@@ -107,6 +119,33 @@ class HockeyDataset(Dataset):
                                 int(series[column_name])]
                         ))
 
+                    elif column_name == self.Y_COLUMN:
+                        # add this as a feature for every game EXCEPT THE LAST ONE
+                        # predicting the outcome of the last game is all we care about
+                        if game_index != sub_sequence[-1]:
+                            x = torch.cat((
+                                x,
+                                torch.tensor(
+                                    [series[column_name]],
+                                    dtype=torch.float64
+                                )
+                            ))
+                        else:
+                            # last game in the series; THIS is the y you want to predict
+                            x = torch.cat((
+                                x,
+                                torch.tensor(
+                                    # where either a 0 or 1 would go, just put a neutral 0.5
+                                    [0.5],
+                                    dtype=torch.float64
+                                )
+                            ))
+
+                            y = torch.tensor(
+                                [series[column_name]],
+                                dtype=torch.float64
+                            )
+
                     else:
                         x = torch.cat((
                             x,
@@ -116,10 +155,6 @@ class HockeyDataset(Dataset):
                             )
                         ))
 
-                elif column_name == self.Y_COLUMN:
-                    y = torch.tensor([series[column_name]],
-                                     dtype=torch.float64)
-
             # update x and y sequences
             if x_sequence is None:
                 x_sequence = torch.unsqueeze(x, dim=0)
@@ -128,20 +163,21 @@ class HockeyDataset(Dataset):
                     (x_sequence, x)
                 )
 
-            if y_sequence is None:
-                y_sequence = torch.unsqueeze(y, dim=0)
-            else:
-                y_sequence = torch.vstack(
-                    (y_sequence, y)
-                )
+            # if y_sequence is None:
+            #     y_sequence = torch.unsqueeze(y, dim=0)
+            # else:
+            #     y_sequence = torch.vstack(
+            #         (y_sequence, y)
+            #     )
 
-        # Important! Pad sequences to a common length (20 in our case)
-        x_sequence = pad_and_add_channel(
-            x_sequence, self.pad_length, axis=0, channel_axis=1
-        )
+        # # Important! Pad sequences to a common length (20 in our case)
+        # x_sequence = pad_and_add_channel(
+        #     x_sequence, self.pad_length, axis=0, channel_axis=1
+        # )
 
-        y_sequence = pad_and_add_channel(
-            y_sequence, self.pad_length, axis=0, channel_axis=None  # Don't add channel here
-        )
+        # y_sequence = pad_and_add_channel(
+        #     y_sequence, self.pad_length, axis=0, channel_axis=None  # Don't add channel here
+        # )
 
-        return x_sequence, y_sequence
+        # return x_sequence, y_sequence
+        return x_sequence, y

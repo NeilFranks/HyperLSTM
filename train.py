@@ -1,5 +1,6 @@
 import random
 import sys
+import torch
 from torch.utils.data import DataLoader, random_split
 
 import pytorch_lightning as pl
@@ -24,7 +25,8 @@ features = [
     "Away_wins_VERSUS_last2",
     "Away_goals_lastGame", "Away_assists_lastGame",
     "Away_GA_startingGoalie", "Away_SA_startingGoalie",
-    "Away_GA_allGoalies", "Away_SA_allGoalies"
+    "Away_GA_allGoalies", "Away_SA_allGoalies",
+    "Home_Won"
 ]
 
 
@@ -36,13 +38,17 @@ def main(seed, *args):
     if seed:
         pl.seed_everything(seed, workers=True)
 
+    # look at sequences of length 15
+    sequence_length = 15
+
     full_dataset = HockeyDataset(
         "data/standardized_data.csv",
         features,
-        pad_length=20,
+        sequence_length=sequence_length,
         # only get games which occured from 1950 to 1960
         # restrict_to_years=[e-1918 for e in range(1950, 1960)]
-        restrict_to_years=[e-1918 for e in range(2010, 2023)]
+        # restrict_to_years=[e-1918 for e in range(2010, 2023)]
+        restrict_to_years=[e-1918 for e in range(2013, 2014)]
     )
     # full_dataset = PCAHockeyDataset("data/standardized_data.csv", pad_length=20,
     #         n_components=32)
@@ -51,8 +57,11 @@ def main(seed, *args):
 
     # split dataset into train and test
     l = len(full_dataset)
-    train_p = int(0.8*l)          # (80%)
-    val_p = int(0.1*l)          # (10%)
+    train_p = int(0.82*l)
+    val_p = int(0.18*l)
+
+    train_p = int(0.01*l)
+    val_p = int(0.01*l)
 
     # Hacky mode where we overfit a batch
     # train_p = 256
@@ -62,7 +71,10 @@ def main(seed, *args):
     # k = 20
     train_dataset, validation_dataset, test_dataset = random_split(
         full_dataset,
-        [train_p, val_p, test_p]
+        [train_p, val_p, test_p],
+
+        # need to be able to reproduce the split if we pick up training the same model
+        generator=torch.Generator().manual_seed(565)
     )
 
     # we now have datasets pointing to varying-length sequences of games
@@ -77,8 +89,7 @@ def main(seed, *args):
     n_z = full_dataset[0][0].shape[1]
     n_layers = 1
     # batch_size = 128  # Really helps with stability, trust me :)
-    batch_size = 32  # Really helps with stability, trust me :)
-    # batch_size = train_p  # Really helps with stability, trust me :)
+    batch_size = 22  # Really helps with stability, trust me :)
 
     model = HyperLSTMWrapper(
         input_size=input_size,
@@ -87,6 +98,8 @@ def main(seed, *args):
         hyper_size=hyper_size,
         n_z=n_z,
         n_layers=n_layers,
+
+        sequence_length=sequence_length,
 
         seed=seed,
         train_p=train_p,
@@ -128,13 +141,13 @@ def main(seed, *args):
         logger=csv_logger,
         callbacks=[CheckpointEveryNSteps(save_step_frequency=50)],
         devices=1,
-        # auto_lr_find=True
+        auto_lr_find=True
     )
 
     trainer.fit(
         model,
         train_dataloaders=DataLoader(
-            train_dataset, batch_size=batch_size, num_workers=6
+            train_dataset, batch_size=batch_size, num_workers=6, shuffle=True
         ),
         val_dataloaders=DataLoader(
             validation_dataset, batch_size=batch_size, num_workers=6

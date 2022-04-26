@@ -29,13 +29,15 @@ class SequenceWrapper(pl.LightningModule):
         y_hat = torch.squeeze(y_hat).type(torch.FloatTensor).to(DEVICE)
         y = torch.squeeze(y).type(torch.FloatTensor).to(DEVICE)
 
-        mask = x[:, :, -1]  # b, t, w (temporal mask for padded sequences)
+        # mask = x[:, :, -1]  # b, t, w (temporal mask for padded sequences)
         tensor_bce = F.binary_cross_entropy_with_logits(
             y_hat, y, reduction='none'
         )
         # elementwise (hadamard) product
-        masked_bce = torch.mul(mask, tensor_bce)
-        return torch.mean(masked_bce)
+        # masked_bce = torch.mul(mask, tensor_bce)
+        # return torch.mean(masked_bce)
+
+        return torch.mean(tensor_bce)
 
     # def compute_loss(self, batch):
     #     x, y = batch
@@ -50,6 +52,12 @@ class SequenceWrapper(pl.LightningModule):
             self.log("seed", float(self.seed))
         self.log("train_p", float(self.train_p))
         self.log("batch_size", float(self.batch_size))
+        self.log(
+            "val_size",
+            float(
+                len(self.trainer.val_dataloaders[0].dataset)
+            )
+        )
 
         self.logged_seed_and_co = True
 
@@ -62,10 +70,12 @@ class SequenceWrapper(pl.LightningModule):
 
         self.log("train_loss", loss)
         if self.val_loss:
+            self.log("lr", self.optimizers().param_groups[0]['lr'])
             self.log("val_loss", self.val_loss)
+            self.log("metric_to_track", self.val_loss)
 
-        if loss == self.last_loss:
-            raise Exception("AHHHHHHHHHHHHHHHHHHH")
+        # if loss == self.last_loss:
+        #     raise Exception("Training loss stagnated... something aint right")
 
         self.last_loss = loss
         return loss
@@ -98,6 +108,27 @@ class SequenceWrapper(pl.LightningModule):
         # Use this if we don't want SAM
         optimizer = torch.optim.Adam(
             self.parameters(),
-            lr=0.001
+            # lr=0.0003
+            lr=0.003
         )
-        return optimizer
+
+        scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+            optimizer,
+            factor=0.75,
+            patience=25,
+        )
+
+        return (
+            {
+                "optimizer": optimizer,
+                "lr_scheduler": {
+                    "scheduler": scheduler,
+
+                    # whatever we log as "metric_to_track" is found by the scheduler
+                    "monitor": "metric_to_track",
+
+                    # track it every epoch
+                    "interval": "epoch",
+                },
+            }
+        )

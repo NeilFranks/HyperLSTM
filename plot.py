@@ -64,15 +64,16 @@ def save(fig, name, w=1080, h=920, dirn='plots'):
     fig.write_html(f'{dirn}/{name}.html')
     fig.write_json(f'{dirn}/{name}.json')
     call(
-        f'rsvg-convert -f pdf -o {dirn}/{name}.pdf {dirn}/{name}.svg', shell=True)
+        f'rsvg-convert -f pdf -o {dirn}/{name}.pdf {dirn}/{name}.svg', shell=True
+    )
 
 
-def loss(path, non_rolling_y=['loss'], rolling_y=['loss'], yaxis_title=None, figure_title='compare_loss', yrange=None, plot_type='log', dirn='plots'):
+def loss(path, non_rolling_y=['loss'], rolling_y=['loss'], rolling_length=50, yaxis_title=None, figure_title='compare_loss', yrange=None, plot_type='log', dirn='plots'):
     df = pd.read_csv(path)
 
     # get rolling average of loss too :)
     for y_column in rolling_y:
-        df[f'{y_column}_rolling'] = df[y_column].rolling(50).mean()
+        df[f'{y_column}_rolling'] = df[y_column].rolling(rolling_length).mean()
 
     y = non_rolling_y
     y.extend([f'{y_column}_rolling' for y_column in rolling_y])
@@ -126,7 +127,8 @@ def main(*args):
     loss(
         latest,
         non_rolling_y=['train_loss', 'val_loss'],
-        rolling_y=['train_loss'],
+        rolling_y=['train_loss', 'val_loss'],
+        rolling_length=25,
         yaxis_title='Loss',
         plot_type=plot_type,
         dirn=dirn
