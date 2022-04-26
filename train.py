@@ -83,12 +83,12 @@ def main(seed, *args):
     input_size = full_dataset[0][0].shape[1]
     hidden_size = 64
     # hidden_size = 16
-    hyper_size = hidden_size // 2
+    hyper_size = int(hidden_size*0.75)
     output_size = 1
     # output_size = 2
     n_z = full_dataset[0][0].shape[1]
     n_layers = 1
-    # batch_size = 128  # Really helps with stability, trust me :)
+    batch_size = 512  # Really helps with stability, trust me :)
     batch_size = 22  # Really helps with stability, trust me :)
 
     model = HyperLSTMWrapper(
@@ -124,7 +124,8 @@ def main(seed, *args):
     csv_logger = CSVLogger(
         'csv_data',
         name='hockey',
-        flush_logs_every_n_steps=1
+        flush_logs_every_n_steps=1,
+        # version=241
     )
 
     # Let's call this our default seed
@@ -141,8 +142,20 @@ def main(seed, *args):
         logger=csv_logger,
         callbacks=[CheckpointEveryNSteps(save_step_frequency=50)],
         devices=1,
-        auto_lr_find=True
+        # auto_lr_find=True
     )
+
+    trainer._logger_connector._callback_metrics.update({
+        'train_p': 22.0,
+        'batch_size': 22.0,
+        'val_size': 22.0,
+        'train_loss': 0.7079364657402039,
+        'lr': 0.0003000000142492354,
+        'val_loss': 0.6881667971611023,
+        'metric_to_track': 0.6881667971611023,
+        'epoch': 0,
+        'step': 0
+    })
 
     trainer.fit(
         model,
@@ -152,7 +165,7 @@ def main(seed, *args):
         val_dataloaders=DataLoader(
             validation_dataset, batch_size=batch_size, num_workers=6
         ),
-        # ckpt_path="lightning_logs/version_21/checkpoints/N-Step-Checkpoint_epoch=3_global_step=0.ckpt"
+        ckpt_path="csv_data/hockey/version_241/checkpoints/N-Step-Checkpoint_epoch=699_global_step=700.ckpt"
     )
 
 

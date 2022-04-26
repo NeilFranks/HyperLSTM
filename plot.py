@@ -126,9 +126,14 @@ def main(*args):
     Path(dirn).mkdir(exist_ok=True)
     loss(
         latest,
-        non_rolling_y=['train_loss', 'val_loss'],
+        non_rolling_y=[
+            'train_loss',
+            'val_loss',
+            'train_accuracy',
+            'test_accuracy'
+        ],
         rolling_y=['train_loss', 'val_loss'],
-        rolling_length=25,
+        rolling_length=15,
         yaxis_title='Loss',
         plot_type=plot_type,
         dirn=dirn

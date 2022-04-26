@@ -29,15 +29,28 @@ class SequenceWrapper(pl.LightningModule):
         y_hat = torch.squeeze(y_hat).type(torch.FloatTensor).to(DEVICE)
         y = torch.squeeze(y).type(torch.FloatTensor).to(DEVICE)
 
-        # mask = x[:, :, -1]  # b, t, w (temporal mask for padded sequences)
         tensor_bce = F.binary_cross_entropy_with_logits(
-            y_hat, y, reduction='none'
+            y_hat,
+            y,
         )
+
+        # to find accuracy, round predictions to either to integer and count proportion of correct predictions
+        rounded_predictions = torch.tensor([0 if abs(e-0) < abs(e-1) else 1 for e in y_hat])
+        accuracy = sum(y.type(torch.int16) == rounded_predictions.type(torch.int16))/len(y)
+
+        return tensor_bce, accuracy
+
+        # mask = x[:, :, -1]  # b, t, w (temporal mask for padded sequences)
+        # tensor_bce = F.binary_cross_entropy_with_logits(
+        #     y_hat,
+        #     y,
+        #     reduction='none'
+        # )
         # elementwise (hadamard) product
         # masked_bce = torch.mul(mask, tensor_bce)
         # return torch.mean(masked_bce)
 
-        return torch.mean(tensor_bce)
+        # return torch.nn.functional.mse_loss(y_hat, y)
 
     # def compute_loss(self, batch):
     #     x, y = batch
@@ -66,12 +79,14 @@ class SequenceWrapper(pl.LightningModule):
             self.log_seed_trainp_batchsize()
 
         # This is the default loss code
-        loss = self.compute_loss(batch)
+        loss, accuracy = self.compute_loss(batch)
 
         self.log("train_loss", loss)
+        self.log("train_accuracy", accuracy)
         if self.val_loss:
             self.log("lr", self.optimizers().param_groups[0]['lr'])
             self.log("val_loss", self.val_loss)
+            self.log("val_accuracy", self.val_accuracy)
             self.log("metric_to_track", self.val_loss)
 
         # if loss == self.last_loss:
@@ -94,7 +109,7 @@ class SequenceWrapper(pl.LightningModule):
         # return loss0
 
     def validation_step(self, batch, batch_idx):
-        self.val_loss = self.compute_loss(batch)
+        self.val_loss, self.val_accuracy = self.compute_loss(batch)
         return self.val_loss
 
     def test_step(self, batch, batch_idx, dataset_idx):
@@ -108,14 +123,14 @@ class SequenceWrapper(pl.LightningModule):
         # Use this if we don't want SAM
         optimizer = torch.optim.Adam(
             self.parameters(),
-            # lr=0.0003
-            lr=0.003
+            lr=0.0003
+            # lr=0.001
         )
 
         scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
             optimizer,
             factor=0.75,
-            patience=25,
+            patience=10,
         )
 
         return (

@@ -22,4 +22,4 @@ class HyperLSTMWrapper(SequenceWrapper):
         seq, state = self.hyper_lstm(x, None)
         step0 = self.l0(seq)
         step1 = self.l1(step0.squeeze())
-        return F.relu(step1), state
+        return step1, state
