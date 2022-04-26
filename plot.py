@@ -67,8 +67,16 @@ def save(fig, name, w=1080, h=920, dirn='plots'):
         f'rsvg-convert -f pdf -o {dirn}/{name}.pdf {dirn}/{name}.svg', shell=True)
 
 
-def loss(path, y='loss', yaxis_title=None,                           figure_title='compare_loss', yrange=None, dirn='plots'):
+def loss(path, non_rolling_y=['loss'], rolling_y=['loss'], yaxis_title=None, figure_title='compare_loss', yrange=None, plot_type='log', dirn='plots'):
     df = pd.read_csv(path)
+
+    # get rolling average of loss too :)
+    for y_column in rolling_y:
+        df[f'{y_column}_rolling'] = df[y_column].rolling(50).mean()
+
+    y = non_rolling_y
+    y.extend([f'{y_column}_rolling' for y_column in rolling_y])
+
     fig = px.line(df, y=y, color_discrete_sequence=QUAL_COLORS)
     fig.update_traces(line=dict(width=3))
     if yaxis_title is None:
@@ -77,13 +85,24 @@ def loss(path, y='loss', yaxis_title=None,                           figure_titl
                       yaxis_title=yaxis_title)
     if yrange is not None:
         fig.update_yaxes(range=yrange)
-    fig.update_xaxes(type='log', tickfont=dict(size=24))
-    fig.update_yaxes(type='log', tickfont=dict(size=24))
-    fig.update_layout(legend=dict(yanchor='top', y=1.1,
-                                  xanchor='center', x=0.5,
-                                  orientation='h',
-                                  font_size=24),
-                      legend_title_text='Models')
+
+    fig.update_xaxes(
+        type=plot_type,
+        tickfont=dict(size=24)
+    )
+    fig.update_yaxes(
+        type=plot_type,
+        tickfont=dict(size=24)
+    )
+    fig.update_layout(
+        legend=dict(
+            yanchor='top', y=1.1,
+            xanchor='center', x=0.5,
+            orientation='h',
+            font_size=24
+        ),
+        legend_title_text='Model Performance'
+    )
     save(fig, figure_title, w=1080, h=920, dirn=dirn)
     return df, fig
 
@@ -96,12 +115,22 @@ def get_latest(parent, name='metrics.csv'):
 
 
 def main(*args):
+    plot_type = "log"
+    if args[0]:
+        plot_type = args[0][0]
+
     latest = get_latest('csv_data/hockey/', name='metrics.csv')
 
     dirn = 'plots'
     Path(dirn).mkdir(exist_ok=True)
-    loss(latest, y='train_loss', yaxis_title='Training Loss', dirn=dirn)
-    loss(latest, y='val_loss', yaxis_title='Validation Loss', dirn=dirn)
+    loss(
+        latest,
+        non_rolling_y=['train_loss', 'val_loss'],
+        rolling_y=['train_loss'],
+        yaxis_title='Loss',
+        plot_type=plot_type,
+        dirn=dirn
+    )
 
 
 if __name__ == '__main__':
