@@ -130,15 +130,14 @@ def main(*args):
             'train_loss',
             'val_loss',
             'train_accuracy',
-            'val_accuracy'
+            'val_accuracy',
+            'lr'
         ],
         rolling_y=[
             'train_loss',
-            'val_loss',
-            'train_accuracy',
-            'val_accuracy'
+            'train_accuracy'
         ],
-        rolling_length=56,
+        rolling_length=57,
         yaxis_title='Loss',
         plot_type=plot_type,
         dirn=dirn

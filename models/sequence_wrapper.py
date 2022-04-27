@@ -7,7 +7,7 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 
 class SequenceWrapper(pl.LightningModule):
-    def __init__(self, seed, train_p, batch_size):
+    def __init__(self, seed, batch_size):
         super().__init__()
         # self.automatic_optimization = False
         # self.lr = 3e-4
@@ -17,7 +17,6 @@ class SequenceWrapper(pl.LightningModule):
 
         self.logged_seed_and_co = False
         self.seed = seed
-        self.train_p = train_p
         self.batch_size = batch_size
 
     def forward(self, x):
@@ -43,30 +42,15 @@ class SequenceWrapper(pl.LightningModule):
 
         return tensor_bce, accuracy
 
-        # mask = x[:, :, -1]  # b, t, w (temporal mask for padded sequences)
-        # tensor_bce = F.binary_cross_entropy_with_logits(
-        #     y_hat,
-        #     y,
-        #     reduction='none'
-        # )
-        # elementwise (hadamard) product
-        # masked_bce = torch.mul(mask, tensor_bce)
-        # return torch.mean(masked_bce)
-
-        # return torch.nn.functional.mse_loss(y_hat, y)
-
-    # def compute_loss(self, batch):
-    #     x, y = batch
-    #     y_hat, _ = self(x.float())
-    #     return F.binary_cross_entropy_with_logits(
-    #         torch.squeeze(y_hat).type(torch.FloatTensor),
-    #         torch.squeeze(y).type(torch.FloatTensor)
-    #     )
-
     def log_seed_trainp_batchsize(self):
         if self.seed:
             self.log("seed", float(self.seed))
-        self.log("train_p", float(self.train_p))
+        self.log(
+            "train_size",
+            float(
+                len(self.trainer.train_dataloader.dataset.datasets)
+            )
+        )
         self.log("batch_size", float(self.batch_size))
         self.log(
             "val_size",

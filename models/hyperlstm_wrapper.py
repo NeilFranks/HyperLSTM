@@ -5,8 +5,8 @@ from .sequence_wrapper import SequenceWrapper
 
 
 class HyperLSTMWrapper(SequenceWrapper):
-    def __init__(self, input_size, output_size, hidden_size, hyper_size, n_z, n_layers, sequence_length, seed, train_p, batch_size):
-        super().__init__(seed=seed, train_p=train_p, batch_size=batch_size)
+    def __init__(self, input_size, output_size, hidden_size, hyper_size, n_z, n_layers, sequence_length, seed, batch_size):
+        super().__init__(seed=seed, batch_size=batch_size)
         self.hyper_lstm = HyperLSTM(
             input_size,
             hidden_size,
