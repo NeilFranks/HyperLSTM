@@ -76,7 +76,7 @@ def main(seed, *args):
     output_size = 1
     n_z = full_dataset[0][0].shape[1]
     n_layers = 2
-    batch_size = 32  # Really helps with stability, trust me :)
+    batch_size = 8  # Really helps with stability, trust me :)
 
     model = HyperLSTMWrapper(
         input_size=input_size,
@@ -123,7 +123,7 @@ def main(seed, *args):
         val_dataloaders=DataLoader(
             validation_dataset, batch_size=batch_size, num_workers=5
         ),
-        # ckpt_path="csv_data/hockey/version_241/checkpoints/N-Step-Checkpoint_epoch=699_global_step=700.ckpt"
+        ckpt_path="csv_data/hockey/version_283/checkpoints/N-Step-Checkpoint_epoch=51_global_step=11850.ckpt"
     )
 
 

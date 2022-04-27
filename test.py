@@ -1,8 +1,11 @@
 import sys
+import torch
 from torch.utils.data import DataLoader, random_split
 
 import pytorch_lightning as pl
 from pytorch_lightning.loggers import CSVLogger
+
+from sklearn.model_selection import train_test_split
 
 from models import *
 from datasets import *
@@ -23,7 +26,8 @@ features = [
     "Away_wins_VERSUS_last2",
     "Away_goals_lastGame", "Away_assists_lastGame",
     "Away_GA_startingGoalie", "Away_SA_startingGoalie",
-    "Away_GA_allGoalies", "Away_SA_allGoalies"
+    "Away_GA_allGoalies", "Away_SA_allGoalies",
+    "Home_Won"
 ]
 
 
@@ -35,40 +39,40 @@ def main(seed, *args):
     if seed:
         pl.seed_everything(seed, workers=True)
 
+    # look at sequences of length 15
+    sequence_length = 15
+
     full_dataset = HockeyDataset(
         "data/standardized_data.csv",
         features,
-        pad_length=20,
-        # only get games which occured from 1950 to 1960
-        # restrict_to_years=[e-1918 for e in range(1950, 1960)]
-        restrict_to_years=[e-1918 for e in range(2010, 2023)]
+        sequence_length=sequence_length,
+        restrict_to_years=[e-1918 for e in range(2013, 2014)]
     )
 
-    # split dataset into train and test
-    l = len(full_dataset)
-    train_p = int(0.8*l)          # (80%)
-    val_p = int(0.1*l)          # (10%)
-    test_p = l - train_p - val_p  # (last ~10%)
+    # get all the y
+    y = [e[1] for e in full_dataset]
+    print(f"home team won {round(float(100*sum(y)/len(y)), 2)}% of the time.")
 
-    # k = 20
-    train_dataset, validation_dataset, test_dataset = random_split(
+    # split dataset into train and test
+    train_dataset, validation_dataset = train_test_split(
         full_dataset,
-        [train_p, val_p, test_p]
+        train_size=0.82,
+        test_size=0.18,
+        random_state=313,  # so split is reproducible
+        shuffle=True,
+        stratify=y
     )
 
     # we now have datasets pointing to varying-length sequences of games
     # within each sequence, the same team is either the home team or away team for every game
 
     input_size = full_dataset[0][0].shape[1]
-    # hidden_size = 64
-    hidden_size = 16
-    hyper_size = hidden_size // 2
+    hidden_size = 64
+    hyper_size = int(hidden_size*0.75)
     output_size = 1
-    # output_size = 2
     n_z = full_dataset[0][0].shape[1]
-    n_layers = 1
-    # batch_size = 128  # Really helps with stability, trust me :)
-    batch_size = 32  # Really helps with stability, trust me :)
+    n_layers = 2
+    batch_size = 8  # Really helps with stability, trust me :)
 
     model = HyperLSTMWrapper(
         input_size=input_size,
@@ -78,22 +82,23 @@ def main(seed, *args):
         n_z=n_z,
         n_layers=n_layers,
 
+        sequence_length=sequence_length,
+
         seed=seed,
-        train_p=train_p,
         batch_size=batch_size
     )
 
-    csv_logger = CSVLogger(
-        'csv_data',
-        name='hockey',
-        flush_logs_every_n_steps=1
-    )
+    # csv_logger = CSVLogger(
+    #     'csv_data',
+    #     name='hockey',
+    #     flush_logs_every_n_steps=1
+    # )
 
     trainer = pl.Trainer(
         accelerator=DEVICE,
-        log_every_n_steps=1,
+        # log_every_n_steps=1,
         max_epochs=100000,
-        logger=csv_logger,
+        # logger=csv_logger,
         devices=1
     )
 
@@ -101,15 +106,18 @@ def main(seed, *args):
         model,
         dataloaders=[
             DataLoader(
-                validation_dataset, batch_size=batch_size, num_workers=8
+                validation_dataset, batch_size=batch_size, num_workers=5
             ),
             DataLoader(
-                test_dataset, batch_size=batch_size, num_workers=8
+                validation_dataset, batch_size=batch_size, num_workers=5
             ),
         ],
-        ckpt_path="csv_data/hockey/version_143/checkpoints/N-Step-Checkpoint_epoch=1023_global_step=1024.ckpt"
+        ckpt_path="csv_data/hockey/version_285/checkpoints/N-Step-Checkpoint_epoch=76_global_step=17600.ckpt"
     )
 
+
 if __name__ == '__main__':
-    seed = 5187
-    main(seed, sys.argv[1:])
+    main(None, sys.argv[1:])
+
+    # seed = 5187
+    # main(seed, sys.argv[1:])

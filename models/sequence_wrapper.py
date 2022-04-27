@@ -37,8 +37,9 @@ class SequenceWrapper(pl.LightningModule):
         rounded_predictions = torch.tensor(
             [0 if abs(e-0) < abs(e-1) else 1 for e in y_hat]
         ).to(DEVICE)
-        accuracy = sum(y.type(torch.int16) ==
-                       rounded_predictions.type(torch.int16))/len(y)
+        accuracy = sum(
+            y.type(torch.int16) == rounded_predictions.type(torch.int16)
+        )/len(y)
 
         return tensor_bce, accuracy
 
@@ -97,12 +98,14 @@ class SequenceWrapper(pl.LightningModule):
 
     def validation_step(self, batch, batch_idx):
         self.val_loss, self.val_accuracy = self.compute_loss(batch)
+        # self.log("val_accuracy", self.val_accuracy)
         return self.val_loss
 
     def test_step(self, batch, batch_idx, dataset_idx):
-        loss = self.compute_loss(batch)
-        self.log("test_loss", loss)
-        return loss
+        test_loss, test_accuracy = self.compute_loss(batch)
+        self.log("test_loss", test_loss)
+        self.log("test_accuracy", test_accuracy)
+        return test_loss
 
     def configure_optimizers(self):
         # optimizer = SAM(self.parameters(), torch.optim.Adam, rho=0.05,
