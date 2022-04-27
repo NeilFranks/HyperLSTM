@@ -132,8 +132,9 @@ class SequenceWrapper(pl.LightningModule):
         scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
             optimizer,
             # mode='max',
-            factor=0.75,
+            factor=0.5,
             patience=10,
+            min_lr=0.000001
         )
 
         return (

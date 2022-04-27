@@ -149,7 +149,9 @@ class HyperLSTMCell(pl.LightningModule):
             )
         i, f, g, o = ifgo
 
-        c_next = torch.sigmoid(f)*c + torch.sigmoid(i) * torch.tanh(g)
+        # c_next = torch.sigmoid(f)*c + torch.sigmoid(i) * torch.tanh(g)
+        c_next = torch.sigmoid(f)*c + torch.sigmoid(i) * \
+            torch.nn.functional.dropout(torch.tanh(g), p=0.1)
         h_next = torch.sigmoid(o) * torch.tanh(
             self.layer_norm_c(c_next)
         )

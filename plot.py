@@ -138,7 +138,7 @@ def main(*args):
             'train_accuracy',
             'val_accuracy'
         ],
-        rolling_length=15,
+        rolling_length=56,
         yaxis_title='Loss',
         plot_type=plot_type,
         dirn=dirn

@@ -57,8 +57,8 @@ def main(seed, *args):
 
     # split dataset into train and test
     l = len(full_dataset)
-    train_p = int(0.82*l)
-    val_p = int(0.18*l)
+    train_p = int(0.8*l)
+    val_p = int(0.2*l)
 
     # train_p = int(0.01*l)
     # val_p = int(0.01*l)
@@ -81,15 +81,12 @@ def main(seed, *args):
     # within each sequence, the same team is either the home team or away team for every game
 
     input_size = full_dataset[0][0].shape[1]
-    hidden_size = 64
-    # hidden_size = 16
-    hyper_size = int(hidden_size*0.75)
+    hidden_size = 8
+    hyper_size = int(hidden_size/2)
     output_size = 1
-    # output_size = 2
     n_z = full_dataset[0][0].shape[1]
     n_layers = 1
-    batch_size = 256  # Really helps with stability, trust me :)
-    # batch_size = 22  # Really helps with stability, trust me :)
+    batch_size = 128  # Really helps with stability, trust me :)
 
     model = HyperLSTMWrapper(
         input_size=input_size,
