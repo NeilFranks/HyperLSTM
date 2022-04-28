@@ -71,11 +71,7 @@ class SequenceWrapper(pl.LightningModule):
 
         self.log("train_loss", loss)
         self.log("train_accuracy", accuracy)
-        if self.val_loss:
-            self.log("lr", self.optimizers().param_groups[0]['lr'])
-            self.log("val_loss", self.val_loss)
-            self.log("val_accuracy", self.val_accuracy)
-            self.log("metric_to_track", self.val_loss)
+        self.log("lr", self.optimizers().param_groups[0]['lr'])
 
         # if loss == self.last_loss:
         #     raise Exception("Training loss stagnated... something aint right")
@@ -97,8 +93,10 @@ class SequenceWrapper(pl.LightningModule):
         # return loss0
 
     def validation_step(self, batch, batch_idx):
-        self.val_loss, self.val_accuracy = self.compute_loss(batch)
-        # self.log("val_accuracy", self.val_accuracy)
+        val_loss, val_accuracy = self.compute_loss(batch)
+        self.log("val_loss", val_loss)
+        self.log("val_accuracy", val_accuracy)
+        # self.log("metric_to_track", val_loss)
         return self.val_loss
 
     def test_step(self, batch, batch_idx, dataset_idx):
@@ -116,25 +114,25 @@ class SequenceWrapper(pl.LightningModule):
             lr=0.0002
         )
 
-        scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
-            optimizer,
-            # mode='max',
-            factor=0.5,
-            patience=10,
-            min_lr=0.000001
-        )
+        # scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+        #     optimizer,
+        #     # mode='max',
+        #     factor=0.5,
+        #     patience=20,
+        #     min_lr=0.00005
+        # )
 
         return (
             {
                 "optimizer": optimizer,
-                "lr_scheduler": {
-                    "scheduler": scheduler,
+                # "lr_scheduler": {
+                #     "scheduler": scheduler,
 
-                    # whatever we log as "metric_to_track" is found by the scheduler
-                    "monitor": "metric_to_track",
+                #     # whatever we log as "metric_to_track" is found by the scheduler
+                #     "monitor": "metric_to_track",
 
-                    # track it every epoch
-                    "interval": "epoch",
-                },
+                #     # track it every epoch
+                #     "interval": "epoch",
+                # },
             }
         )

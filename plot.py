@@ -1,3 +1,4 @@
+from turtle import back
 from plotly.subplots import make_subplots
 import plotly.express as px
 import plotly.graph_objects as go
@@ -71,14 +72,19 @@ def save(fig, name, w=1080, h=920, dirn='plots'):
 def loss(path, non_rolling_y=['loss'], rolling_y=['loss'], rolling_length=50, yaxis_title=None, figure_title='compare_loss', yrange=None, plot_type='log', dirn='plots'):
     df = pd.read_csv(path)
 
-    # get rolling average of loss too :)
+    x = df['step']
+
+    # get rolling averages too :)
     for y_column in rolling_y:
         df[f'{y_column}_rolling'] = df[y_column].rolling(rolling_length).mean()
 
     y = non_rolling_y
     y.extend([f'{y_column}_rolling' for y_column in rolling_y])
 
-    fig = px.line(df, y=y, color_discrete_sequence=QUAL_COLORS)
+    # fill NaN
+    df = df.fillna(method='bfill')
+
+    fig = px.line(df, x=x, y=y, color_discrete_sequence=QUAL_COLORS)
     fig.update_traces(line=dict(width=3))
     if yaxis_title is None:
         yaxis_title = y.replace('_', ' ').title()
@@ -127,11 +133,12 @@ def main(*args):
     loss(
         latest,
         non_rolling_y=[
-            'train_loss',
             'val_loss',
+            'train_loss',
+            'lr',
             'train_accuracy',
+            'epoch',
             'val_accuracy',
-            'lr'
         ],
         rolling_y=[
             'train_loss',

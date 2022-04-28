@@ -46,18 +46,28 @@ def main(seed, *args):
         "data/standardized_data.csv",
         features,
         sequence_length=sequence_length,
-        restrict_to_years=[e-1918 for e in range(2013, 2014)]
+        # restrict_to_years=[e-1918 for e in range(2013, 2014)]
+        restrict_to_years=[e-1918 for e in range(2014, 2015)]
     )
 
     # get all the y
     y = [e[1] for e in full_dataset]
     print(f"home team won {round(float(100*sum(y)/len(y)), 2)}% of the time.")
 
+    # # split dataset into train and test
+    # train_dataset, validation_dataset = train_test_split(
+    #     full_dataset,
+    #     train_size=0.82,
+    #     test_size=0.18,
+    #     random_state=313,  # so split is reproducible
+    #     shuffle=True,
+    #     stratify=y
+    # )
     # split dataset into train and test
     train_dataset, validation_dataset = train_test_split(
         full_dataset,
-        train_size=0.82,
-        test_size=0.18,
+        train_size=0.01,
+        test_size=0.99,
         random_state=313,  # so split is reproducible
         shuffle=True,
         stratify=y

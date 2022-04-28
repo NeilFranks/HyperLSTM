@@ -109,6 +109,9 @@ class HyperLSTMCell(pl.LightningModule):
             ]
         )
 
+        # dropout
+        self.drop_layer = nn.Dropout(p=0.1)
+
         # layer normalization
         self.layer_norm = nn.ModuleList(
             [
@@ -149,9 +152,10 @@ class HyperLSTMCell(pl.LightningModule):
             )
         i, f, g, o = ifgo
 
-        c_next = torch.sigmoid(f)*c + torch.sigmoid(i) * torch.tanh(g)
-        # c_next = torch.sigmoid(f)*c + torch.sigmoid(i) * \
-        #     torch.nn.functional.dropout(torch.tanh(g), p=0.1)
+        # apply dropout
+        tanh_g = self.drop_layer(torch.tanh(g))
+
+        c_next = torch.sigmoid(f)*c + torch.sigmoid(i) * tanh_g
         h_next = torch.sigmoid(o) * torch.tanh(
             self.layer_norm_c(c_next)
         )

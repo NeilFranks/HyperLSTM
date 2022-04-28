@@ -110,7 +110,7 @@ def main(seed, *args):
         # max_steps=1024 * 10,
         max_epochs=100000,
         logger=csv_logger,
-        callbacks=[CheckpointEveryNSteps(save_step_frequency=50)],
+        callbacks=[CheckpointEveryNSteps(save_step_frequency=100)],
         devices=1,
         # auto_lr_find=True
     )
@@ -123,7 +123,7 @@ def main(seed, *args):
         val_dataloaders=DataLoader(
             validation_dataset, batch_size=batch_size, num_workers=5
         ),
-        ckpt_path="csv_data/hockey/version_283/checkpoints/N-Step-Checkpoint_epoch=51_global_step=11850.ckpt"
+        # ckpt_path="csv_data/hockey/version_283/checkpoints/N-Step-Checkpoint_epoch=51_global_step=11850.ckpt"
     )
 
 
