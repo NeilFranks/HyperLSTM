@@ -68,7 +68,7 @@ def main(seed, *args):
     # within each sequence, the same team is either the home team or away team for every game
 
     input_size = full_dataset[0][0].shape[1]
-    hidden_size = 64
+    hidden_size = 16
     hyper_size = int(hidden_size*0.75)
     output_size = 1
     n_z = full_dataset[0][0].shape[1]

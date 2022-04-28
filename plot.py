@@ -134,9 +134,9 @@ def main(*args):
         latest,
         non_rolling_y=[
             'val_loss',
-            'train_loss',
+            # 'train_loss',
             # 'lr',
-            'train_accuracy',
+            # 'train_accuracy',
             # 'epoch',
             'val_accuracy',
         ],

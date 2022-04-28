@@ -152,7 +152,8 @@ class HockeyDataset(Dataset):
                             ))
 
                             y = torch.tensor(
-                                [series[column_name]],
+                                # flip: 0 now means Home Team won. 1 means Home Team lost.
+                                [1-series[column_name]],
                                 dtype=torch.float64
                             )
 
