@@ -1,9 +1,8 @@
 import sys
 import torch
-from torch.utils.data import DataLoader, random_split
+from torch.utils.data import DataLoader
 
 import pytorch_lightning as pl
-from pytorch_lightning.loggers import CSVLogger
 
 from sklearn.model_selection import train_test_split
 
@@ -39,35 +38,30 @@ def main(seed, *args):
     if seed:
         pl.seed_everything(seed, workers=True)
 
-    # look at sequences of length 15
-    sequence_length = 15
+    # look at sequences of length 10
+    sequence_length = 10
 
-    full_dataset = HockeyDataset(
+    # constructing dataset
+    full_dataset = HockeyTestingDataset(
         "data/standardized_data.csv",
         features,
         sequence_length=sequence_length,
-        # restrict_to_years=[e-1918 for e in range(2013, 2014)]
-        restrict_to_years=[e-1918 for e in range(2014, 2015)]
+        # restrict_to_years=[e-1918 for e in range(2005, 2016)]
+        restrict_to_years=[e-1918 for e in range(2016, 2017)]
     )
 
     # get all the y
     y = [e[1] for e in full_dataset]
-    print(f"home team won {round(float(100*sum(y)/len(y)), 2)}% of the time.")
+    hometeam_winrate = 1.0-round(float(100*sum(y)/len(y)), 2)
+    print(f"home team won {hometeam_winrate}% of the time.")
 
-    # # split dataset into train and test
-    # train_dataset, validation_dataset = train_test_split(
-    #     full_dataset,
-    #     train_size=0.82,
-    #     test_size=0.18,
-    #     random_state=313,  # so split is reproducible
-    #     shuffle=True,
-    #     stratify=y
-    # )
     # split dataset into train and test
     train_dataset, validation_dataset = train_test_split(
         full_dataset,
-        train_size=0.01,
-        test_size=0.99,
+        # train_size=0.8,
+        # test_size=0.2,
+        train_size=2,
+        test_size=len(y)-2,
         random_state=313,  # so split is reproducible
         shuffle=True,
         stratify=y
@@ -77,7 +71,7 @@ def main(seed, *args):
     # within each sequence, the same team is either the home team or away team for every game
 
     input_size = full_dataset[0][0].shape[1]
-    hidden_size = 64
+    hidden_size = 16
     hyper_size = int(hidden_size*0.75)
     output_size = 1
     n_z = full_dataset[0][0].shape[1]
@@ -98,12 +92,6 @@ def main(seed, *args):
         batch_size=batch_size
     )
 
-    # csv_logger = CSVLogger(
-    #     'csv_data',
-    #     name='hockey',
-    #     flush_logs_every_n_steps=1
-    # )
-
     trainer = pl.Trainer(
         accelerator=DEVICE,
         # log_every_n_steps=1,
@@ -122,7 +110,7 @@ def main(seed, *args):
                 validation_dataset, batch_size=batch_size, num_workers=5
             ),
         ],
-        ckpt_path="csv_data/hockey/version_285/checkpoints/N-Step-Checkpoint_epoch=76_global_step=17600.ckpt"
+        ckpt_path="csv_data/hockey/version_306/checkpoints/N-Step-Checkpoint_epoch=230_global_step=45200.ckpt"
     )
 
 

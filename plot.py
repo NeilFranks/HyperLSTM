@@ -1,3 +1,5 @@
+import time
+
 from turtle import back
 from plotly.subplots import make_subplots
 import plotly.express as px
@@ -138,16 +140,18 @@ def main(*args):
             # 'lr',
             # 'train_accuracy',
             # 'epoch',
-            'val_accuracy',
+            # 'val_accuracy',
         ],
         rolling_y=[
             'train_loss',
-            'train_accuracy'
+            # 'train_accuracy'
         ],
         rolling_length=196,
         yaxis_title='Loss',
+        # yaxis_title='Accuracy',
         plot_type=plot_type,
-        dirn=dirn
+        dirn=dirn,
+        figure_title=f"loss {time.time()}"
     )
 
 

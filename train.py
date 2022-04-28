@@ -52,7 +52,8 @@ def main(seed, *args):
 
     # get all the y
     y = [e[1] for e in full_dataset]
-    print(f"home team won {round(float(100*sum(y)/len(y)), 2)}% of the time.")
+    hometeam_winrate = 1.0-round(float(100*sum(y)/len(y)), 2)
+    print(f"home team won {hometeam_winrate}% of the time.")
 
     # split dataset into train and test
     train_dataset, validation_dataset = train_test_split(
@@ -112,7 +113,7 @@ def main(seed, *args):
         val_dataloaders=DataLoader(
             validation_dataset, batch_size=batch_size, num_workers=5
         ),
-        # ckpt_path="csv_data/hockey/version_296/checkpoints/N-Step-Checkpoint_epoch=80_global_step=18600.ckpt"
+        # ckpt_path="csv_data/hockey/version_306/checkpoints/N-Step-Checkpoint_epoch=256_global_step=50200.ckpt"
     )
 
 
