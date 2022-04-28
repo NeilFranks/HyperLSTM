@@ -135,9 +135,9 @@ def main(*args):
         non_rolling_y=[
             'val_loss',
             'train_loss',
-            'lr',
+            # 'lr',
             'train_accuracy',
-            'epoch',
+            # 'epoch',
             'val_accuracy',
         ],
         rolling_y=[

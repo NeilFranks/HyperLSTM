@@ -50,7 +50,7 @@ def main(seed, *args):
         # only get games which occured from 1950 to 1960
         # restrict_to_years=[e-1918 for e in range(1950, 1960)]
         # restrict_to_years=[e-1918 for e in range(2010, 2023)]
-        restrict_to_years=[e-1918 for e in range(2013, 2014)]
+        restrict_to_years=[e-1918 for e in range(1996, 2012)]
     )
 
     # get all the y

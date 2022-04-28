@@ -76,19 +76,12 @@ class HockeyDataset(Dataset):
 
                 while end_index < len(sequence):
                     self.sub_sequences.append(sequence[start_index:end_index])
-                    # start_index = end_index
-
-                    # get every possible sequence... duh
-                    start_index += 1
-
-                    # end_index = start_index + random.randrange(
-                    #     SUB_SEQUENCE_MIN_LENGTH, SUB_SEQUENCE_MAX_LENGTH
-                    # )
+                    start_index = end_index
 
                     end_index = start_index+sequence_length
 
                 # whatever's left, call it a subsequence. May be smaller than you specified by SUB_SEQUENCE_MIN_LENGTH, but that'll just make a better dataset, right? :)
-                self.sub_sequences.append(sequence[start_index:])
+                # self.sub_sequences.append(sequence[start_index:])
 
     def __len__(self):
         return len(self.sub_sequences)
