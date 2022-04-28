@@ -140,14 +140,14 @@ def main(*args):
             # 'lr',
             # 'train_accuracy',
             # 'epoch',
-            # 'val_accuracy',
+            'val_accuracy',
         ],
         rolling_y=[
             'train_loss',
-            # 'train_accuracy'
+            'train_accuracy'
         ],
         rolling_length=196,
-        yaxis_title='Loss',
+        yaxis_title='Loss/Accuracy',
         # yaxis_title='Accuracy',
         plot_type=plot_type,
         dirn=dirn,
