@@ -1,7 +1,6 @@
-import random
 import sys
 import torch
-from torch.utils.data import DataLoader, random_split
+from torch.utils.data import DataLoader
 
 import pytorch_lightning as pl
 from pytorch_lightning.loggers import CSVLogger
@@ -40,17 +39,15 @@ def main(seed, *args):
     if seed:
         pl.seed_everything(seed, workers=True)
 
-    # look at sequences of length 15
-    sequence_length = 15
+    # look at sequences of length 10
+    sequence_length = 10
 
+    # constructing dataset
     full_dataset = HockeyDataset(
         "data/standardized_data.csv",
         features,
         sequence_length=sequence_length,
-        # only get games which occured from 1950 to 1960
-        # restrict_to_years=[e-1918 for e in range(1950, 1960)]
-        # restrict_to_years=[e-1918 for e in range(2010, 2023)]
-        restrict_to_years=[e-1918 for e in range(1996, 2012)]
+        restrict_to_years=[e-1918 for e in range(2005, 2016)]
     )
 
     # get all the y
@@ -60,8 +57,8 @@ def main(seed, *args):
     # split dataset into train and test
     train_dataset, validation_dataset = train_test_split(
         full_dataset,
-        train_size=0.82,
-        test_size=0.18,
+        train_size=0.8,
+        test_size=0.2,
         random_state=313,  # so split is reproducible
         shuffle=True,
         stratify=y
@@ -98,21 +95,13 @@ def main(seed, *args):
         flush_logs_every_n_steps=1,
     )
 
-    # Let's call this our default seed
-    # pl.seed_everything(2022, workers=True)
-    # Here is me testing if seeds affect init
-    # pl.seed_everything(0, workers=True) # Confirmed: seed affects init (0.498 loss)
-    # pl.seed_everything(1, workers=True) # Confirmed: seed affects init (0.512 loss)
-
     trainer = pl.Trainer(
         accelerator=DEVICE,
         log_every_n_steps=1,
-        # max_steps=1024 * 10,
         max_epochs=100000,
         logger=csv_logger,
         callbacks=[CheckpointEveryNSteps(save_step_frequency=100)],
         devices=1,
-        # auto_lr_find=True
     )
 
     trainer.fit(
@@ -123,12 +112,11 @@ def main(seed, *args):
         val_dataloaders=DataLoader(
             validation_dataset, batch_size=batch_size, num_workers=5
         ),
-        # ckpt_path="csv_data/hockey/version_283/checkpoints/N-Step-Checkpoint_epoch=51_global_step=11850.ckpt"
+        # ckpt_path="csv_data/hockey/version_296/checkpoints/N-Step-Checkpoint_epoch=80_global_step=18600.ckpt"
     )
 
 
 if __name__ == '__main__':
-    # Train without any global seed
     main(None, sys.argv[1:])
 
     # seed = 5187

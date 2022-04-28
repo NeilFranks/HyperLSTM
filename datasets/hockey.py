@@ -29,7 +29,7 @@ def pad_and_add_channel(t, length, axis=0, channel_axis=1, index=None):
 
 
 class HockeyDataset(Dataset):
-    def __init__(self, file_name, features, sequence_length=15, pad_length=20, restrict_to_years: list = None):
+    def __init__(self, file_name, features, sequence_length=10, pad_length=20, restrict_to_years: list = None):
         self.pad_length = pad_length
 
         self.X_COLUMNS = features
@@ -55,46 +55,63 @@ class HockeyDataset(Dataset):
             for team_ID in range(self.NUM_OF_TEAMS)
         }
 
-        # split these 57 sequences into shorter sub-sequences
-        SUB_SEQUENCE_MIN_LENGTH = 10
-        SUB_SEQUENCE_MAX_LENGTH = 20
-        self.sub_sequences = []
-        for team_ID in range(self.NUM_OF_TEAMS):
-            sequence = self.games_played_by_team[team_ID]
+        # algorithm to get sequences where NO output game EVER appears in input
+        self.sequences = []
+        output_game_indices = set([])
 
-            if not sequence.empty:
-                # use seed here, for reproducible data across run (good for continuing training)
-                random.seed(656)
+        for potential_output_game_index in range(len(self.data)):
+            potential_output_game = self.data.iloc[potential_output_game_index]
+            home_ID = potential_output_game["Home_ID"]
+            away_ID = potential_output_game["Away_ID"]
 
-                start_index = 0
-                # end_index = start_index + random.randrange(
-                #     SUB_SEQUENCE_MIN_LENGTH, SUB_SEQUENCE_MAX_LENGTH
-                # )
+            # check that each team has a valid length sequence preceding this game
+            home_team_preceding_games = self.games_played_by_team[home_ID][
+                :list(
+                    self.games_played_by_team[home_ID]
+                ).index(potential_output_game_index)
+            ]
+            away_team_preceding_games = self.games_played_by_team[away_ID][
+                :list(
+                    self.games_played_by_team[away_ID]
+                ).index(potential_output_game_index)
+            ]
 
-                # just do sequences of set length
-                end_index = sequence_length
+            home_sequence = list(
+                home_team_preceding_games[-(sequence_length-1):]
+            )
+            away_sequence = list(
+                away_team_preceding_games[-(sequence_length-1):]
+            )
 
-                while end_index < len(sequence):
-                    self.sub_sequences.append(sequence[start_index:end_index])
-                    start_index = end_index
+            if len(home_sequence) >= sequence_length-1 and len(away_sequence) >= sequence_length-1:
+                # can make a sequence, but check if any of the preceding games were already used as output games
+                if not (
+                    any(
+                        input_game_index in output_game_indices for input_game_index in home_sequence
+                    ) or any(
+                        input_game_index in output_game_indices for input_game_index in away_sequence
+                    )
+                ):
+                    # add these sequences
+                    home_sequence.append(potential_output_game_index)
+                    away_sequence.append(potential_output_game_index)
 
-                    end_index = start_index+sequence_length
+                    self.sequences.append(home_sequence)
+                    self.sequences.append(away_sequence)
 
-                # whatever's left, call it a subsequence. May be smaller than you specified by SUB_SEQUENCE_MIN_LENGTH, but that'll just make a better dataset, right? :)
-                # self.sub_sequences.append(sequence[start_index:])
+                    output_game_indices.add(potential_output_game_index)
 
     def __len__(self):
-        return len(self.sub_sequences)
+        return len(self.sequences)
 
     def __getitem__(self, index):
-        # get the sub-sequence at the given index
-        sub_sequence = self.sub_sequences[index]
+        # get the sequence at the given index
+        sequence = self.sequences[index]
 
         # turn every game in the sub-sequence into vectors
         x_sequence = None
-        y_sequence = None
 
-        for game_index in sub_sequence:
+        for game_index in sequence:
             # get the series at index
             series = self.data.iloc[game_index]
 
@@ -115,7 +132,7 @@ class HockeyDataset(Dataset):
                     elif column_name == self.Y_COLUMN:
                         # add this as a feature for every game EXCEPT THE LAST ONE
                         # predicting the outcome of the last game is all we care about
-                        if game_index != sub_sequence[-1]:
+                        if game_index != sequence[-1]:
                             x = torch.cat((
                                 x,
                                 torch.tensor(
@@ -148,7 +165,7 @@ class HockeyDataset(Dataset):
                             )
                         ))
 
-            # update x and y sequences
+            # update x sequence
             if x_sequence is None:
                 x_sequence = torch.unsqueeze(x, dim=0)
             else:
@@ -156,21 +173,4 @@ class HockeyDataset(Dataset):
                     (x_sequence, x)
                 )
 
-            # if y_sequence is None:
-            #     y_sequence = torch.unsqueeze(y, dim=0)
-            # else:
-            #     y_sequence = torch.vstack(
-            #         (y_sequence, y)
-            #     )
-
-        # # Important! Pad sequences to a common length (20 in our case)
-        # x_sequence = pad_and_add_channel(
-        #     x_sequence, self.pad_length, axis=0, channel_axis=1
-        # )
-
-        # y_sequence = pad_and_add_channel(
-        #     y_sequence, self.pad_length, axis=0, channel_axis=None  # Don't add channel here
-        # )
-
-        # return x_sequence, y_sequence
         return x_sequence, y
