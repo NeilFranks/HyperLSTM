@@ -33,11 +33,11 @@ class ParityDataset(Dataset):
 
     def encode(self, sequence, parity):
         if parity:
-            label = np.array([0, 1], dtype=np.float32)
+            label = np.array([1], dtype=np.float32)
         else:
-            label = np.array([1, 0], dtype=np.float32)
-        label = np.expand_dims(label, 0)
-        return np.expand_dims(sequence, 0), label
+            label = np.array([0], dtype=np.float32)
+        label = np.expand_dims(label, -1)
+        return np.expand_dims(sequence, -1), label
 
 if __name__ == '__main__':
     n = 1024

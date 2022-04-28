@@ -40,20 +40,25 @@ def main(seed, *args):
         pl.seed_everything(seed, workers=True)
 
     # look at sequences of length 10
-    sequence_length = 10
+    sequence_length = 8
 
     # constructing dataset
-    full_dataset = HockeyDataset(
-        "data/standardized_data.csv",
-        features,
-        sequence_length=sequence_length,
-        restrict_to_years=[e-1918 for e in range(2005, 2016)]
-    )
+    # full_dataset = HockeyDataset(
+    #     "data/standardized_data.csv",
+    #     features,
+    #     sequence_length=sequence_length,
+    #     restrict_to_years=[e-1918 for e in range(2005, 2016)]
+    # )
 
+    sequence_length = 8
+    # full_dataset = ParityDataset(10240, length=sequence_length, zeros=False)
+    full_dataset = LogicDataset(1024, length=sequence_length, zeros=False)
+    sequence_length += 1
+    x, y = full_dataset[0]
     # get all the y
-    y = [e[1] for e in full_dataset]
-    hometeam_winrate = 1.0-round(float(100*sum(y)/len(y)), 2)
-    print(f"home team won {hometeam_winrate}% of the time.")
+    # y = [e[1] for e in full_dataset]
+    # hometeam_winrate = 1.0-round(float(100*sum(y)/len(y)), 2)
+    # print(f"home team won {hometeam_winrate}% of the time.")
 
     # split dataset into train and test
     train_dataset, validation_dataset = train_test_split(
@@ -62,7 +67,7 @@ def main(seed, *args):
         test_size=0.2,
         random_state=313,  # so split is reproducible
         shuffle=True,
-        stratify=y
+        # stratify=y
     )
 
     # we now have datasets pointing to varying-length sequences of games
@@ -71,7 +76,7 @@ def main(seed, *args):
     input_size = full_dataset[0][0].shape[1]
     hidden_size = 16
     hyper_size = int(hidden_size*0.75)
-    output_size = 1
+    output_size = 2
     n_z = full_dataset[0][0].shape[1]
     n_layers = 2
     batch_size = 8  # Really helps with stability, trust me :)
@@ -83,12 +88,21 @@ def main(seed, *args):
         hyper_size=hyper_size,
         n_z=n_z,
         n_layers=n_layers,
-
         sequence_length=sequence_length,
-
         seed=seed,
         batch_size=batch_size
     )
+    print(model)
+
+    # hidden_size = 128
+
+    # model = LSTMWrapper(
+    #     input_size=input_size,
+    #     output_size=output_size,
+    #     hidden_size=hidden_size,
+    #     batch_size=batch_size,
+    #     seed=seed,
+    # )
 
     csv_logger = CSVLogger(
         'csv_data',

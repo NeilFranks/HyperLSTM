@@ -110,7 +110,7 @@ def loss(path, non_rolling_y=['loss'], rolling_y=['loss'], rolling_length=50, ya
             orientation='h',
             font_size=24
         ),
-        legend_title_text='Model Performance'
+        legend_title_text=f'Model Performance'
     )
     save(fig, figure_title, w=1080, h=920, dirn=dirn)
     return df, fig
@@ -120,39 +120,43 @@ def get_latest(parent, name='metrics.csv'):
     ''' Courtesy of SO: https://stackoverflow.com/questions/39327032/how-to-get-the-latest-file-in-a-folder'''
     parent = Path(parent)
     paths = parent.glob('*')
-    return max(paths, key=lambda p: p.stat().st_ctime) / name
-
+    latest = sorted(paths, key=lambda p: p.stat().st_ctime)
+    latest = [f / name for f in latest]
+    return latest
 
 def main(*args):
     plot_type = "log"
     if args[0]:
         plot_type = args[0][0]
 
-    latest = get_latest('csv_data/hockey/', name='metrics.csv')
-
-    dirn = 'plots'
-    Path(dirn).mkdir(exist_ok=True)
-    loss(
-        latest,
-        non_rolling_y=[
-            'val_loss',
-            # 'train_loss',
-            # 'lr',
-            # 'train_accuracy',
-            # 'epoch',
-            # 'val_accuracy',
-        ],
-        rolling_y=[
-            'train_loss',
-            # 'train_accuracy'
-        ],
-        rolling_length=196,
-        yaxis_title='Loss',
-        # yaxis_title='Accuracy',
-        plot_type=plot_type,
-        dirn=dirn,
-        figure_title=f"loss {time.time()}"
-    )
+    latest_all = get_latest('csv_data/hockey/', name='metrics.csv')
+    for latest in latest_all[-3:]:
+        if '50' not in str(latest):
+            continue
+        dirn = 'plots'
+        Path(dirn).mkdir(exist_ok=True)
+        loss(
+            latest,
+            non_rolling_y=[
+                'val_loss',
+                'train_loss',
+                # 'lr',
+                # 'train_accuracy',
+                # 'epoch',
+                'val_accuracy',
+            ],
+            rolling_y=[
+                'train_loss',
+                'train_accuracy',
+                'val_accuracy',
+            ],
+            rolling_length=196,
+            yaxis_title='Loss',
+            # yaxis_title='Accuracy',
+            plot_type=plot_type,
+            dirn=dirn,
+            figure_title=f"loss {time.time()}"
+        )
 
 
 if __name__ == '__main__':
