@@ -1,20 +1,23 @@
 [tool.poetry]
 name = "hyperlstm"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
-authors = ["Neil Franks <neilmichaelfranks@gmail.com>"]
+authors = ["Neil Franks <neilmichaelfranks@gmail.com>", 
+           "Lucas Saldyt <lucassaldyt@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = ">=3.9,<3.10"
+torch = "^1.11.0"
+pytorch-lightning = "^1.6.0"
+torchvision = "^0.12.0"
+torchtext = "^0.12.0"
 requests = "^2.27.1"
 beautifulsoup4 = "^4.11.1"
 lxml = "^4.8.0"
 pandas = "^1.4.2"
-absl-py = "^1.0.0"
-ml-collections = "^0.1.1"
-flax = {version = "^0.4.1", extras = ["jax"]}
-tensorflow = "^2.8.0"
-tensorflow-datasets = "^4.5.2"
+labml = "^0.4.147"
+labml-nn = "^0.4.120"
+plotly = "^5.7.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "==6.2.5"
