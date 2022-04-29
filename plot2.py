@@ -9,7 +9,8 @@ import plotly.express
 
 
 def read_from_html():
-    with open('loss.html') as f:
+    name = "version310"
+    with open(f"{name}.html") as f:
         html = f.read()
     call_arg_str = re.findall(r'Plotly\.newPlot\((.*)\)', html[0:])[1]
     call_args = json.loads(f'[{call_arg_str}]')
@@ -35,7 +36,7 @@ def read_from_html():
         legend_title_text='Model Performance'
     )
 
-    save(fig, "Accuracy", w=1080, h=920, dirn='plots')
+    save(fig, name, w=1080, h=920, dirn='plots')
 
 
 if __name__ == '__main__':

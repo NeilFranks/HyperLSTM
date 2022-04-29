@@ -124,7 +124,7 @@ def get_latest(parent, name='metrics.csv'):
 
 
 def main(*args):
-    plot_type = "log"
+    plot_type = "linear"
     if args[0]:
         plot_type = args[0][0]
 
@@ -146,7 +146,7 @@ def main(*args):
             'train_loss',
             'train_accuracy'
         ],
-        rolling_length=196,
+        rolling_length=531,
         yaxis_title='Loss/Accuracy',
         # yaxis_title='Accuracy',
         plot_type=plot_type,

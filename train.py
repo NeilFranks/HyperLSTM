@@ -1,4 +1,6 @@
+from msilib import sequence
 import sys
+from jax import value_and_grad
 import torch
 from torch.utils.data import DataLoader
 
@@ -31,6 +33,43 @@ features = [
 ]
 
 
+def dataset_split(sequence_length):
+
+    # constructing dataset
+    full_dataset = HockeyDataset(
+        "data/standardized_data.csv",
+        features,
+        sequence_length=sequence_length,
+        restrict_to_years=[e-1918 for e in range(1996, 2023)]
+    )
+
+    # get all the y
+    y = [e[1].numpy() for e in full_dataset]
+    hometeam_winrate = round(
+        float(
+            100*(
+                1.0-(
+                    sum(y)/len(y)
+                )
+            )
+        ),
+        2
+    )
+    print(f"home team won {hometeam_winrate}% of the time.")
+
+    # split dataset into train and test
+    train_dataset, validation_dataset = train_test_split(
+        full_dataset,
+        test_size=0.1,
+        train_size=0.9,
+        random_state=313,  # so split is reproducible
+        shuffle=True,
+        stratify=y
+    )
+
+    return full_dataset, train_dataset, validation_dataset
+
+
 def main(seed, *args):
 
     if torch.cuda.is_available():
@@ -41,28 +80,8 @@ def main(seed, *args):
 
     # look at sequences of length 10
     sequence_length = 10
-
-    # constructing dataset
-    full_dataset = HockeyDataset(
-        "data/standardized_data.csv",
-        features,
-        sequence_length=sequence_length,
-        restrict_to_years=[e-1918 for e in range(2005, 2016)]
-    )
-
-    # get all the y
-    y = [e[1] for e in full_dataset]
-    hometeam_winrate = 1.0-round(float(100*sum(y)/len(y)), 2)
-    print(f"home team won {hometeam_winrate}% of the time.")
-
-    # split dataset into train and test
-    train_dataset, validation_dataset = train_test_split(
-        full_dataset,
-        train_size=0.8,
-        test_size=0.2,
-        random_state=313,  # so split is reproducible
-        shuffle=True,
-        stratify=y
+    full_dataset, train_dataset, validation_dataset = dataset_split(
+        sequence_length=sequence_length
     )
 
     # we now have datasets pointing to varying-length sequences of games
@@ -113,7 +132,7 @@ def main(seed, *args):
         val_dataloaders=DataLoader(
             validation_dataset, batch_size=batch_size, num_workers=5
         ),
-        # ckpt_path="csv_data/hockey/version_306/checkpoints/N-Step-Checkpoint_epoch=256_global_step=50200.ckpt"
+        ckpt_path="csv_data/hockey/version_310/checkpoints/N-Step-Checkpoint_epoch=170_global_step=90700.ckpt"
     )
 
 

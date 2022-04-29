@@ -10,6 +10,8 @@ from models import *
 from datasets import *
 from checkpointer import *
 
+from train import dataset_split
+
 DEVICE = "gpu" if torch.cuda.is_available() else "cpu"
 
 features = [
@@ -40,31 +42,8 @@ def main(seed, *args):
 
     # look at sequences of length 10
     sequence_length = 10
-
-    # constructing dataset
-    full_dataset = HockeyTestingDataset(
-        "data/standardized_data.csv",
-        features,
-        sequence_length=sequence_length,
-        # restrict_to_years=[e-1918 for e in range(2005, 2016)]
-        restrict_to_years=[e-1918 for e in range(2016, 2017)]
-    )
-
-    # get all the y
-    y = [e[1] for e in full_dataset]
-    hometeam_winrate = 1.0-round(float(100*sum(y)/len(y)), 2)
-    print(f"home team won {hometeam_winrate}% of the time.")
-
-    # split dataset into train and test
-    train_dataset, validation_dataset = train_test_split(
-        full_dataset,
-        # train_size=0.8,
-        # test_size=0.2,
-        train_size=2,
-        test_size=len(y)-2,
-        random_state=313,  # so split is reproducible
-        shuffle=True,
-        stratify=y
+    full_dataset, train_dataset, validation_dataset = dataset_split(
+        sequence_length=sequence_length
     )
 
     # we now have datasets pointing to varying-length sequences of games
@@ -110,7 +89,7 @@ def main(seed, *args):
                 validation_dataset, batch_size=batch_size, num_workers=5
             ),
         ],
-        ckpt_path="csv_data/hockey/version_306/checkpoints/N-Step-Checkpoint_epoch=230_global_step=45200.ckpt"
+        ckpt_path="csv_data/hockey/version_310/checkpoints/N-Step-Checkpoint_epoch=167_global_step=88800.ckpt"
     )
 
 
