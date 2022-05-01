@@ -40,8 +40,8 @@ def main(seed, *args):
     if seed:
         pl.seed_everything(seed, workers=True)
 
-    # look at sequences of length 10
-    sequence_length = 10
+    # look at sequences of length 5
+    sequence_length = 5
     full_dataset, train_dataset, validation_dataset = dataset_split(
         sequence_length=sequence_length
     )

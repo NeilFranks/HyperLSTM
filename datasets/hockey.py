@@ -92,12 +92,16 @@ class HockeyDataset(Dataset):
                         input_game_index in output_game_indices for input_game_index in away_sequence
                     )
                 ):
-                    # add these sequences
-                    home_sequence.append(potential_output_game_index)
-                    away_sequence.append(potential_output_game_index)
+                    # add these sequences together in both ways
+                    combined_sequence = home_sequence.copy()
+                    combined_sequence.extend(away_sequence)
+                    combined_sequence.append(potential_output_game_index)
+                    self.sequences.append(combined_sequence)
 
-                    self.sequences.append(home_sequence)
-                    self.sequences.append(away_sequence)
+                    combined_sequence = away_sequence.copy()
+                    combined_sequence.extend(home_sequence)
+                    combined_sequence.append(potential_output_game_index)
+                    self.sequences.append(combined_sequence)
 
                     output_game_indices.add(potential_output_game_index)
 

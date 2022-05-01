@@ -111,7 +111,7 @@ class SequenceWrapper(pl.LightningModule):
         # Use this if we don't want SAM
         optimizer = torch.optim.Adam(
             self.parameters(),
-            lr=0.0002
+            lr=0.00018
         )
 
         # scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(

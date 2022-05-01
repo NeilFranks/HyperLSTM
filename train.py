@@ -40,7 +40,7 @@ def dataset_split(sequence_length):
         "data/standardized_data.csv",
         features,
         sequence_length=sequence_length,
-        restrict_to_years=[e-1918 for e in range(1996, 2023)]
+        restrict_to_years=[e-1918 for e in range(1918, 2023)]
     )
 
     # get all the y
@@ -78,8 +78,8 @@ def main(seed, *args):
     if seed:
         pl.seed_everything(seed, workers=True)
 
-    # look at sequences of length 10
-    sequence_length = 10
+    # look at sequences of length 5
+    sequence_length = 5
     full_dataset, train_dataset, validation_dataset = dataset_split(
         sequence_length=sequence_length
     )
@@ -88,7 +88,7 @@ def main(seed, *args):
     # within each sequence, the same team is either the home team or away team for every game
 
     input_size = full_dataset[0][0].shape[1]
-    hidden_size = 16
+    hidden_size = 24
     hyper_size = int(hidden_size*0.75)
     output_size = 1
     n_z = full_dataset[0][0].shape[1]
@@ -103,7 +103,7 @@ def main(seed, *args):
         n_z=n_z,
         n_layers=n_layers,
 
-        sequence_length=sequence_length,
+        sequence_length=(2*sequence_length)-1,
 
         seed=seed,
         batch_size=batch_size
@@ -132,7 +132,7 @@ def main(seed, *args):
         val_dataloaders=DataLoader(
             validation_dataset, batch_size=batch_size, num_workers=5
         ),
-        ckpt_path="csv_data/hockey/version_310/checkpoints/N-Step-Checkpoint_epoch=170_global_step=90700.ckpt"
+        # ckpt_path="csv_data/hockey/version_313/checkpoints/N-Step-Checkpoint_epoch=31_global_step=8500.ckpt"
     )
 
 
